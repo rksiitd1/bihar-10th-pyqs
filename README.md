@@ -32,13 +32,13 @@ flowchart LR
 
 ## 📚 Class 10 Subjects Covered
 
-The pipeline supports the following subjects with official NCERT/BSEB chapter mappings:
-- **Science**
-- **Mathematics**
-- **Social Science** (History, Geography, Political Science, Economics)
-- **Hindi**
-- **English**
-- **Sanskrit**
+The pipeline supports the following subjects with official Bihar Board chapter mappings:
+- **Science** (NCERT)
+- **Mathematics** (NCERT)
+- **Social Science** (NCERT)
+- **Hindi** (Godhuli Bhag 2, Varnika Bhag 2)
+- **English** (Panorama Part 2, Panorama English Reader)
+- **Sanskrit** (Piyusham Bhag 2, Piyusham Drutpathay)
 
 ---
 

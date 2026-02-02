@@ -12,44 +12,37 @@ def clean_json_response(raw_text: str) -> str:
         return match.group(1).strip()
     return raw_text.strip()
 
-# NCERT Class 10 English Chapters (First Flight & Footprints without Feet)
+# Bihar Board Class 10 English Syllabus (Panorama Part 2)
 ENGLISH_CHAPTERS = [
-    # First Flight (Prose)
-    "A Letter to God",
-    "Nelson Mandela: Long Walk to Freedom",
-    "Two Stories about Flying",
-    "From the Diary of Anne Frank",
-    "The Hundred Dresses - I",
-    "The Hundred Dresses - II",
-    "Glimpses of India",
-    "Mijbil the Otter",
-    "Madam Rides the Bus",
-    "The Sermon at Benares",
-    "The Proposal",
-    
-    # First Flight (Poetry)
-    "Dust of Snow",
-    "Fire and Ice",
-    "A Tiger in the Zoo",
-    "How to Tell Wild Animals",
-    "The Ball Poem",
-    "Amanda!",
-    "Animals",
-    "The Trees",
-    "Fog",
-    "The Tale of Custard the Dragon",
-    "For Anne Gregory",
-    
-    # Footprints without Feet (Supplementary)
-    "A Triumph of Surgery",
-    "The Thief's Story",
-    "Footprints without Feet",
-    "The Making of a Scientist",
-    "The Necklace",
-    "The Hack Driver",
-    "Bholi",
-    "The Book That Saved the Earth",
-    
+    # Prose
+    "The Pace for Living",
+    "Me and the Ecology Bit",
+    "Gillu",
+    "What is Wrong with Indian Films",
+    "Acceptance Speech",
+    "Once Upon A Time",
+    "The Unity of Indian Culture",
+    "Little Girls Wiser Than Men",
+
+    # Poetry
+    "God Made the Country",
+    "Ode on Solitude",
+    "Polythene Bag",
+    "Thinner Than a Crescent",
+    "The Empty Heart",
+    "Koel (The Black Cuckoo)",
+    "The Sleeping Porter",
+    "Martha",
+
+    # Panorama English Reader Part 2 (Supplementary)
+    "January Night",
+    "Allergy",
+    "The Bet",
+    "Quality",
+    "Sun and Moon",
+    "Two Horizons",
+    "Love Defiled",
+
     # General
     "General"
 ]
@@ -59,7 +52,7 @@ def generate_english_annotation_prompt(chapters, questions):
     prompt = textwrap.dedent(f"""
     You are an expert in educational content classification.
     You will receive a JSON array of questions from a Bihar Board Class 10 English question paper.
-    Your task is to annotate each question with the correct chapter name from the official NCERT Class 10 English chapters below.
+    Your task is to annotate each question with the correct chapter name from the official Bihar Board Class 10 English (Panorama Part 2) syllabus chapters below.
     - Insert the field "chapter_name": "<name>" immediately after the "type" field in each question object.
     - Only use the exact chapter names from the list below.
     - If a question does not belong to any specific chapter (e.g., Grammar, Unseen Passage, Essay, Letter), set "chapter_name" to "General".

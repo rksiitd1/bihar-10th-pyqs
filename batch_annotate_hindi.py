@@ -12,36 +12,43 @@ def clean_json_response(raw_text: str) -> str:
         return match.group(1).strip()
     return raw_text.strip()
 
-# NCERT Class 10 Hindi Chapters (Course A - Kshitij & Kritika)
+# Bihar Board Class 10 Hindi Syllabus (Godhuli Bhag 2 & Varnika Bhag 2)
 HINDI_CHAPTERS = [
-    # Kshitij Bhag 2 - Gadyakhand (Prose)
-    "Surdas ke Pad",
-    "Ram-Lakshman-Parashuram Samvad",
-    "Savaiya aur Kavitt",
-    "Aatmakatha",
-    "Utsah aur Atal",
-    "Yah Danturit Muskan",
-    "Fasal",
-    "Chhaya Mat Chhoona",
-    "Kanyadan",
-    "Sangatkar",
-    
-    # Kshitij Bhag 2 - Kavyakhand (Poetry)
-    "Netaji Ka Chashma",
-    "Balgobin Bhagat",
-    "Lakhnavi Andaz",
-    "Manviya Karuna Ki Divya Chamak",
-    "Ek Kahani Yah Bhi",
-    "Naubatkhane Mein Ibadat",
-    "Sanskriti",
-    
-    # Kritika Bhag 2 (Supplementary)
-    "Mata Ka Aanchal",
-    "George Pancham Ki Naak",
-    "Sana Sana Hath Jodi",
-    "Ahi Thaiyyo Jhulni Herani Ho Ram",
-    "Main Kyon Likhta Hoon",
-    
+    # Godhuli Bhag 2 - Prose (Gadh Khand)
+    "Shram Vibhajan aur Jati Pratha",
+    "Vish ke Daant",
+    "Bharat se Hum Kya Seekhe",
+    "Nakhun Kyon Badhte Hain",
+    "Nagari Lipi",
+    "Bahadur",
+    "Parampara ka Mulyankan",
+    "Jit-Jit Main Nirakhat Hoon",
+    "Aavinyon",
+    "Machhli",
+    "Naubatkhaane Mein Ibadat",
+    "Shiksha aur Sanskriti",
+
+    # Godhuli Bhag 2 - Poetry (Padya Khand)
+    "Ram Binu Birthe Jagi Janma",
+    "Prem Ayni Shri Radhika",
+    "Ati Sudho Sneh ko Marag Hai",
+    "Swadeshi",
+    "Bharat Mata",
+    "Janatantra ka Janm",
+    "Hiroshima",
+    "Ek Vriksha ki Hatya",
+    "Hamari Neend",
+    "Akshar-Gyan",
+    "Lautkar Aaunga Phir",
+    "Mere Bina Tum Prabhu",
+
+    # Varnika Bhag 2 (Supplementary)
+    "Dahi Wali Mangamma",
+    "Dhahate Vishwas",
+    "Maa",
+    "Nagar",
+    "Dharti Kab Tak Ghumegi",
+
     # Grammar
     "Vyakaran"
 ]
@@ -51,7 +58,7 @@ def generate_hindi_annotation_prompt(chapters, questions):
     prompt = textwrap.dedent(f"""
     You are an expert in educational content classification.
     You will receive a JSON array of questions from a Bihar Board Class 10 Hindi question paper.
-    Your task is to annotate each question with the correct chapter name from the official NCERT Class 10 Hindi (Kshitij & Kritika) syllabus chapters below.
+    Your task is to annotate each question with the correct chapter name from the official Bihar Board Class 10 Hindi (Godhuli & Varnika) syllabus chapters below.
 
     Crucial Instructions:
     1. **Textbook Questions**: Map questions clearly from the textbook Prose/Poetry/Supplementary sections to their respective chapters.

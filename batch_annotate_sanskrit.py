@@ -12,21 +12,51 @@ def clean_json_response(raw_text: str) -> str:
         return match.group(1).strip()
     return raw_text.strip()
 
-# NCERT Class 10 Sanskrit Chapters (Shemushi Bhag 2)
+# Bihar Board Class 10 Sanskrit Syllabus (Piyusham)
 SANSKRIT_CHAPTERS = [
-    "Shuchiparyavaranam",
-    "Budhir Balavatee Sada",
-    "Vyayamah Sarvada Pathyah",
-    "Shishu Lalanam",
-    "Janani Tulyavatsal",
-    "Sukthi mukthavali",
-    "Sauhardam Praninam",
-    "Vigyanam Sarvatra Pujyate",
-    "Subhashitani",
-    "Bhoomika Svasmritih",
-    "Praa Na Jayate Vavah",
-    "Anyoktyah",
-    
+    # Piyusham Bhag 2 (Main)
+    "Mangalam",
+    "Patliputra Vaibhavam",
+    "Alaskatha",
+    "Sanskrit Sahitye Lekhika",
+    "Bharatmahima",
+    "Bharatiya Sanskarah",
+    "Nitishlokah",
+    "Karmveer Katha",
+    "Swami Dayanand",
+    "Mandakini Varnanam",
+    "Vyaghrapathik Katha",
+    "Karnasya Danvirta",
+    "Vishvashantih",
+    "Shastrakarah",
+
+    # Piyusham Drutpathay (Supplementary)
+    "Bhavani Ashtakam",
+    "Jayadevasya Audaryam",
+    "Achyutashtakam",
+    "Hasyakanikah",
+    "Sansaramohah",
+    "Madhurashtakam",
+    "Bhishma Pratigya",
+    "Vrikshaih Samam Bhavatu Me Jivanam",
+    "Aho Saundaryasya Asthirata",
+    "Sanskrtena Jivanam",
+    "Paryatanam",
+    "Swaminah Vivekanandasya Vyatha",
+    "Shukeshwarashtakam",
+    "Vanijah Kripanata",
+    "Jayatu Sanskrtam",
+    "Kanyayah Patinirnayah",
+    "Rashtrastutih",
+    "Satyapriyata",
+    "Jagaran Geetam",
+    "Samayaprajnah",
+    "Bharatabhusha Sanskrtabhasha",
+    "Priyam Bharatam",
+    "Kriyatam Etat",
+    "Narasya",
+    "Dhruvopakhyanam",
+
     # Grammar
     "Vyakaran"
 ]
@@ -36,7 +66,7 @@ def generate_sanskrit_annotation_prompt(chapters, questions):
     prompt = textwrap.dedent(f"""
     You are an expert in educational content classification.
     You will receive a JSON array of questions from a Bihar Board Class 10 Sanskrit question paper.
-    Your task is to annotate each question with the correct chapter name from the official NCERT Class 10 Sanskrit (Shemushi Bhag 2) syllabus chapters below.
+    Your task is to annotate each question with the correct chapter name from the official Bihar Board Class 10 Sanskrit (Piyusham) syllabus chapters below.
 
     Crucial Instructions:
     1. **Textbook Questions**: Map questions clearly from the textbook to their respective chapters.
