@@ -1,0 +1,488 @@
+[
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "What do you understand by lateral displacement?",
+        "prashna": "पाश्विक विस्थापन से आप क्या समझते हैं ?"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "Why is the color of railway signal light always red?",
+        "prashna": "रेलवे के सिग्नल का प्रकाश लाल रंग का ही क्यों होता है?"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "How will you identify a convex lens, a concave lens, and a circular glass slab by touching their surfaces?",
+        "prashna": "दिए गए उत्तल लेंस, अवतल लेंस एवं काँच की एक वृत्ताकार पट्टिका के सतहों को छुए बिना उनकी पहचान कैसे करेंगे ?"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "What are fossil fuels? Write with examples.",
+        "prashna": "जीवाश्म ईंधन क्या हैं? उदाहरण सहित लिखें।"
+    },
+    {
+        "id": "long_1",
+        "type": "long_answer",
+        "question": "A magnetic field is produced around a current-carrying conducting wire. Describe Oersted's experiment to show this.",
+        "prashna": "धारावाही चालक तार के इर्द-गिर्द चुंबकीय क्षेत्र उत्पन्न होता है। उसे दिखाने के लिए ओस्टैड के प्रयोग का वर्णन करें।"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "How does the concentration of $H^+$ ions affect the nature of the solution?",
+        "prashna": "$H^+$ आयन की सांद्रता का विलयन की प्रकृति पर क्या प्रभाव पड़ता है?"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "Give an equation for the reaction of Plaster of Paris with water.",
+        "prashna": "प्लास्टर ऑफ पेरिस की जल के साथ अभिक्रिया के लिए एक समीकरण दें।"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "What is a balanced chemical equation? Why is it necessary to balance a chemical equation?",
+        "prashna": "संतुलित रासायनिक समीकरण क्या है? रासायनिक समीकरण को संतुलित करना क्यों आवश्यक है?"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "Why does an aqueous solution of an acid conduct electricity?",
+        "prashna": "अम्ल का जलीय विलयन क्यों विद्युत का चालन करता है?"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "Copper is used to make hot water tanks, but steel is not. Why? Give reasons.",
+        "prashna": "गर्म जल का टैंक बनाने में ताँबे का उपयोग होता है, परंतु इस्पात का नहीं क्यों? कारण दें।"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "What is called pollination?",
+        "prashna": "परागण किसे कहते हैं?"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "The kidney is a part of which system?",
+        "prashna": "वृक्क किस तंत्र का एक भाग है?"
+    },
+    {
+        "id": "short_12",
+        "type": "short_answer",
+        "question": "Give the full forms of HIV and AIDS.",
+        "prashna": "HIV और AIDS का पूर्ण रूप दें।"
+    },
+    {
+        "id": "short_13",
+        "type": "short_answer",
+        "question": "What are male and female gametes called in a flower?",
+        "prashna": "पुष्प में नर तथा मादा युग्मकों को क्या कहते हैं?"
+    },
+    {
+        "id": "short_14",
+        "type": "short_answer",
+        "question": "What type of respiration is fermentation?",
+        "prashna": "किण्वन किस प्रकार का श्वसन है?"
+    },
+    {
+        "id": "short_15",
+        "type": "short_answer",
+        "question": "Draw a clean labeled diagram of a chromosome.",
+        "prashna": "गुणसूत्र का स्वच्छ नामांकित चित्र बनाइए।"
+    },
+    {
+        "id": "short_16",
+        "type": "short_answer",
+        "question": "Write two differences in the transport of substances in xylem and phloem.",
+        "prashna": "जाइलम तथा फ्लोएम में पदार्थों के संवहन में दो अंतर लिखें।"
+    },
+    {
+        "id": "short_17",
+        "type": "short_answer",
+        "question": "What is blood? Describe its composition along with its functions.",
+        "prashna": "रक्त क्या है? इसके संघटन का वर्णन कार्य के साथ करें।"
+    },
+    {
+        "id": "short_18",
+        "type": "short_answer",
+        "question": "Write three differences between artery and vein.",
+        "prashna": "धमनी और शिरा में तीन अंतर लिखें।"
+    },
+    {
+        "id": "long_2_1",
+        "type": "long_answer",
+        "question": "Explain the digestion process in humans with a labeled diagram of the digestive system.",
+        "prashna": "मनुष्यों में पाचन क्रिया को पाचन तंत्र के नामांकित चित्र के साथ समझाएँ।"
+    },
+    {
+        "id": "long_2_2",
+        "type": "long_answer",
+        "question": "Plants require sunlight for photosynthesis. Explain with an experiment.",
+        "prashna": "प्रकाश संश्लेषण के लिए पौधों को सूर्य की रोशनी की आवश्यकता होती है। प्रयोग द्वारा समझाइए।"
+    },
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "Choose the correct option from the following: The relation between potential difference V, resistance R, and current I across the ends of a conductor is",
+        "prashna": "निम्नांकित विकल्पों में से सही विकल्प चुनें। किसी चालक के छोरों के बीच विभवांतर V, प्रतिरोध R एवं प्रवाहित धारा I के बीच संबंध है",
+        "options": {
+            "A": "$I = \\frac{R}{V}$",
+            "B": "$R = \\frac{I}{V}$",
+            "C": "$R = \\frac{V}{I}$",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "$I = \\frac{R}{V}$",
+            "B": "$R = \\frac{I}{V}$",
+            "C": "$R = \\frac{V}{I}$",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "A 100 W electric bulb is connected to a 250 V electric main. The value of current flowing through the bulb will be",
+        "prashna": "100 W का विद्युत बल्ब 250 V के विद्युत मेन से जोड़ा जाता है। बल्ब से प्रवाहित धारा का मान होगा",
+        "options": {
+            "A": "0.1 Ampere",
+            "B": "0.4 Ampere",
+            "C": "2.5 Ampere",
+            "D": "10 Ampere"
+        },
+        "vikalpa": {
+            "A": "0.1 ऐम्पियर",
+            "B": "0.4 एम्पियर",
+            "C": "2.5 ऐम्पियर",
+            "D": "10 एम्पियर"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "An electric fuse is based on",
+        "prashna": "विद्युत फ्यूज आधारित है",
+        "options": {
+            "A": "Heating effect of current",
+            "B": "Magnetic effect of current",
+            "C": "Chemical effect of current",
+            "D": "Electromagnetic effect of current"
+        },
+        "vikalpa": {
+            "A": "धारा के ऊष्मीय प्रभाव पर",
+            "B": "धारा के चुंबकीय प्रभाव पर",
+            "C": "धारा के रासायनिक प्रभाव पर",
+            "D": "धारा के विद्युत-चुंबकीय प्रभाव पर"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "The device used for producing electric current is called",
+        "prashna": "विद्युत धारा उत्पन्न करने की युक्ति को कहते हैं",
+        "options": {
+            "A": "Generator",
+            "B": "Galvanometer",
+            "C": "Ammeter",
+            "D": "Meter"
+        },
+        "vikalpa": {
+            "A": "जनित्र",
+            "B": "गैल्वेनोमीटर",
+            "C": "ऐमीटर",
+            "D": "मीटर"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "When electric current flows through a conducting wire, the moving particles are",
+        "prashna": "जब किसी चालक तार से विद्युत धारा प्रवाहित होती है तो गतिशील कण होते हैं।",
+        "options": {
+            "A": "Atoms",
+            "B": "Ions",
+            "C": "Protons",
+            "D": "Electrons"
+        },
+        "vikalpa": {
+            "A": "परमाणु",
+            "B": "आयन",
+            "C": "प्रोटॉन",
+            "D": "इलेक्ट्रॉन"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "Which of the following is not an example of a biomass energy source?",
+        "prashna": "जीव द्रव्यमान ऊर्जा स्रोत का उदाहरण निम्नलिखित में कौन नहीं है?",
+        "options": {
+            "A": "Petroleum",
+            "B": "Biogas",
+            "C": "Nuclear energy",
+            "D": "Coal"
+        },
+        "vikalpa": {
+            "A": "पेट्रोलियम",
+            "B": "बायोगैस",
+            "C": "नाभिकीय ऊर्जा",
+            "D": "कोयला"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "What should be the minimum speed of wind in a wind electric generator?",
+        "prashna": "पवन विद्युत जनित्र में पवन की चाल कम-से-कम कितनी होनी चाहिए?",
+        "options": {
+            "A": "15 km/h",
+            "B": "150 km/h",
+            "C": "1.5 km/h",
+            "D": "1500 km/h"
+        },
+        "vikalpa": {
+            "A": "15 किमी/घंटा",
+            "B": "150 किमी/घंटा",
+            "C": "1.5 किमी/घंटा",
+            "D": "1500 किमी/घंटा"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "Which of the following products is obtained on heating Lead Nitrate?",
+        "prashna": "निम्नलिखित में से कौन-सा उत्पाद लेड नाइट्रेट को गर्म करने पर प्राप्त होता है?",
+        "options": {
+            "A": "$O_2$",
+            "B": "$NO_2$",
+            "C": "$NO_2$ and $N_2$",
+            "D": "$NO_2$ and $O_2$"
+        },
+        "vikalpa": {
+            "A": "$O_2$",
+            "B": "$NO_2$",
+            "C": "$NO_2$ और $N_2$",
+            "D": "$NO_2$ और $O_2$"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "On passing electric current through an aqueous solution of sodium chloride, it decomposes to form sodium hydroxide. This process is called",
+        "prashna": "सोडियम क्लोराइड के जलीय विलयन से विद्युत धारा प्रवाहित करने पर यह वियोजित होकर सोडियम हाइड्रॉक्साइड बनाता है। इस प्रक्रिया को कहते हैं",
+        "options": {
+            "A": "Chlor-alkali process",
+            "B": "Chlor reaction",
+            "C": "Decomposition reaction",
+            "D": "Combination reaction"
+        },
+        "vikalpa": {
+            "A": "क्लोर-क्षार अभिक्रिया",
+            "B": "क्लोर अभिक्रिया",
+            "C": "वियोजन अभिक्रिया",
+            "D": "संयोजन अभिक्रिया"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "Which of the following is correct?",
+        "prashna": "निम्नलिखित में से कौन सही है ?",
+        "options": {
+            "A": "$Na_2CO_3 \\cdot 5H_2O$",
+            "B": "$Na_2CO_3 \\cdot 10H_2O$",
+            "C": "$Na_2CO_3 \\cdot 7H_2O$",
+            "D": "$Na_2CO_3 \\cdot 2H_2O$"
+        },
+        "vikalpa": {
+            "A": "$Na_2CO_3 \\cdot 5H_2O$",
+            "B": "$Na_2CO_3 \\cdot 10H_2O$",
+            "C": "$Na_2CO_3 \\cdot 7H_2O$",
+            "D": "$Na_2CO_3 \\cdot 2H_2O$"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "Which of the following can be cut with a knife?",
+        "prashna": "निम्नलिखित में से किसे चाकू से काटा जा सकता है?",
+        "options": {
+            "A": "Lithium",
+            "B": "Calcium",
+            "C": "Copper",
+            "D": "Iron"
+        },
+        "vikalpa": {
+            "A": "लिथियम",
+            "B": "कैल्सियम",
+            "C": "कॉपर",
+            "D": "आयरन"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "Which of the following hydrocarbons contains a triple bond?",
+        "prashna": "निम्न में से किस हाइड्रोकार्बन में तीन आबंध होते हैं?",
+        "options": {
+            "A": "$CH_4$",
+            "B": "$C_2H_6$",
+            "C": "$C_3H_4$",
+            "D": "$C_3H_8$"
+        },
+        "vikalpa": {
+            "A": "$CH_4$",
+            "B": "$C_2H_6$",
+            "C": "$C_3H_4$",
+            "D": "$C_3H_8$"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "Which is the carbonyl group functional group?",
+        "prashna": "कार्बोनिल ग्रुप प्रतिकारक कौन है?",
+        "options": {
+            "A": "$-CHO$",
+            "B": "$>CO$",
+            "C": "$-COOH$",
+            "D": "$-O-$"
+        },
+        "vikalpa": {
+            "A": "$-CHO$",
+            "B": "$>CO$",
+            "C": "$-COOH$",
+            "D": "$-O-$"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "Which of the following is the most reactive?",
+        "prashna": "निम्नलिखित में कौन सबसे अधिक अभिक्रियाशील है?",
+        "options": {
+            "A": "Cu",
+            "B": "Hg",
+            "C": "Ag",
+            "D": "Au"
+        },
+        "vikalpa": {
+            "A": "Cu",
+            "B": "Hg",
+            "C": "Ag",
+            "D": "Au"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "question": "The main source of energy on Earth in nature is",
+        "prashna": "प्रकृति में पृथ्वी पर ऊर्जा का मुख्य स्रोत है",
+        "options": {
+            "A": "Coal",
+            "B": "Sun",
+            "C": "Water",
+            "D": "Wood"
+        },
+        "vikalpa": {
+            "A": "कोयला",
+            "B": "सूर्य",
+            "C": "पानी",
+            "D": "लकड़ी"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "Green plants are called",
+        "prashna": "हरे पौधे कहलाते हैं",
+        "options": {
+            "A": "Producers",
+            "B": "Decomposers",
+            "C": "Consumers",
+            "D": "Food chain"
+        },
+        "vikalpa": {
+            "A": "उत्पादक",
+            "B": "अपघटक",
+            "C": "उपभोक्ता",
+            "D": "आहार शृंखला"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "What type of organs are the wings of insects and the wings of bats?",
+        "prashna": "कीटों के पंख और चमगादड़ के पंख किस तरह के अंग है?",
+        "options": {
+            "A": "Homologous organs",
+            "B": "Vestigial organs",
+            "C": "Analogous organs",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "समजात अंग",
+            "B": "अवशेषी अंग",
+            "C": "समवृत्ति अंग",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "question": "What type of reaction is the digestion of food?",
+        "prashna": "भोजन का पचना किस प्रकार की अभिक्रिया है?",
+        "options": {
+            "A": "Oxidation (Upchayan)",
+            "B": "Combination",
+            "C": "Reduction (Apchayan)",
+            "D": "Displacement"
+        },
+        "vikalpa": {
+            "A": "उपचयन",
+            "B": "संयोजन",
+            "C": "अपचयन",
+            "D": "विस्थापन"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "question": "Which of the following is a hermaphrodite animal?",
+        "prashna": "निम्नलिखित में से कौन एक उभयलिंगी जंतु है?",
+        "options": {
+            "A": "Earthworm",
+            "B": "Fish",
+            "C": "Lion",
+            "D": "Goat"
+        },
+        "vikalpa": {
+            "A": "केचुआ",
+            "B": "मछली",
+            "C": "शेर",
+            "D": "बकरी"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "Which of the following is an example of 'ground water'?",
+        "prashna": "निम्नलिखित में से कौन एक 'भूमिगत जल' का उदाहरण है?",
+        "options": {
+            "A": "River",
+            "B": "Well",
+            "C": "Pond",
+            "D": "Sea"
+        },
+        "vikalpa": {
+            "A": "नदी",
+            "B": "कुआँ",
+            "C": "तालाब",
+            "D": "समुद्र"
+        }
+    }
+]

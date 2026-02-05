@@ -1,0 +1,464 @@
+[
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "What do you understand by short circuiting?",
+        "prashna": "लघुपथन से आप क्या समझते हैं?"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "What is reflection of light? Illustrate its laws with a diagram.",
+        "prashna": "प्रकाश का परावर्तन क्या है? इसके नियमों का सचित्र उल्लेख करें।"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "What is a balanced chemical equation? Give examples.",
+        "prashna": "संतुलित रासायनिक समीकरण क्या है? उदाहरण दें।"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "What are the non-renewable sources of energy?",
+        "prashna": "ऊर्जा के अनवीकरणीय संसाधन कौन-कौन हैं?"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "What is the role of digestive juices in the stomach?",
+        "prashna": "आमाशय में पाचक रस की क्या भूमिका है?"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "What is the difference between respiration and breathing?",
+        "prashna": "श्वसन एवं स्वासोच्छ्वास में क्या अंतर है?"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "Why is a convex lens called a converging lens?",
+        "prashna": "उत्तल लेंस को अभिसारी लेंस क्यों कहा जाता है?"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "What is the combination of resistors? How many types are there?",
+        "prashna": "प्रतिरोधों का संयोजन क्या है? यह कितने प्रकार से होता है ?"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "Write the method of preparation and uses of Plaster of Paris.",
+        "prashna": "प्लास्टर ऑफ पेरिस के निर्माण की विधि एवं उपयोग लिखें।"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "What is a valence electron? Write the number of valence electrons in a sodium atom.",
+        "prashna": "संयोजी इलेक्ट्रॉन क्या है? सोडियम परमाणु में स्थित संयोजी इलेक्ट्रॉन की संख्या लिखें।"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "Write the difference between blood and lymph.",
+        "prashna": "रक्त और लसिका में अंतर लिखें।"
+    },
+    {
+        "id": "short_12",
+        "type": "short_answer",
+        "question": "Write the names and functions of male and female sex hormones.",
+        "prashna": "नर तथा मादा जनन हार्मोनों के नाम एवं कार्य लिखें।"
+    },
+    {
+        "id": "long_1_1",
+        "type": "long_answer",
+        "question": "What is a defect of vision? How many types are there? How are they corrected?",
+        "prashna": "दृष्टि दोष क्या है? यह कितने प्रकार के होते हैं? इनका निवारण कैसे किया जाता है?"
+    },
+    {
+        "id": "long_1_2",
+        "type": "long_answer",
+        "question": "What is resistance? Describe an experiment to find the resistance of a coil with the help of an ammeter and a voltmeter.",
+        "prashna": "प्रतिरोध क्या है? किसी कुण्डली का प्रतिरोध आमीटर और वोल्टमीटर की सहायता से ज्ञात करने के लिए प्रयोग का वर्णन करें।"
+    },
+    {
+        "id": "long_2_1",
+        "type": "long_answer",
+        "question": "What is an energy crisis? Mention its solutions.",
+        "prashna": "ऊर्जा संकट क्या है? इसके समाधान का उल्लेख करें।"
+    },
+    {
+        "id": "long_2_2",
+        "type": "long_answer",
+        "question": "What is the difference between Mendeleev's periodic table and the modern periodic table?",
+        "prashna": "मेंडलीफ के आवर्त सारणी और आधुनिक आवर्त सारणी में क्या अंतर है?"
+    },
+    {
+        "id": "long_3",
+        "type": "long_answer",
+        "question": "Explain with experimental details that oxygen gas is released during the process of photosynthesis.",
+        "prashna": "प्रायोगिक विवरण द्वारा बताएँ कि प्रकाश संश्लेषण की क्रिया में ऑक्सीजन गैस मुक्त होती है।"
+    },
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "The image formed by a plane mirror is:",
+        "prashna": "समतल दर्पण द्वारा बना प्रतिबिंब होता है",
+        "options": {
+            "A": "Virtual",
+            "B": "Real",
+            "C": "Both (A) and (B)",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "काल्पनिक",
+            "B": "वास्तविक",
+            "C": "(a) और (b) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "Which lens is used to correct near-sightedness (Myopia)?",
+        "prashna": "निकट दृष्टि दोष दूर करने के लिए किस लेंस का व्यवहार होता है?",
+        "options": {
+            "A": "Convex",
+            "B": "Concave",
+            "C": "Cylindrical",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "उत्तल",
+            "B": "अवतल",
+            "C": "बेलनाकार",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "Which type of lens is found in the human eye?",
+        "prashna": "मानव नेत्र में किस प्रकार का लेंस पाया जाता है?",
+        "options": {
+            "A": "Convex",
+            "B": "Concave",
+            "C": "Annular",
+            "D": "Bifocal"
+        },
+        "vikalpa": {
+            "A": "उत्तल",
+            "B": "अवतल",
+            "C": "वलयाकार",
+            "D": "फाईपोकल"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "The instrument used to measure potential difference is called:",
+        "prashna": "विभ्वान्तर मापने वाले यंत्र को कहा जाता है",
+        "options": {
+            "A": "Ammeter",
+            "B": "Voltmeter",
+            "C": "Galvanometer",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "आमीटर",
+            "B": "वोल्टमीटर",
+            "C": "गैल्वेनोमीटर",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "How is an ammeter connected in an electric circuit?",
+        "prashna": "आमीटर को विद्युत परिपथ में कैसे जोड़ा जाता है ?",
+        "options": {
+            "A": "Series",
+            "B": "Parallel",
+            "C": "Both (A) and (B)",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "श्रेणीक्रम",
+            "B": "पार्श्वबद्ध",
+            "C": "(a) और (b) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "The S.I. unit of electric current is:",
+        "prashna": "विद्युत धारा का S.I. मात्रक है",
+        "options": {
+            "A": "Volt",
+            "B": "Coulomb",
+            "C": "Watt",
+            "D": "Ampere"
+        },
+        "vikalpa": {
+            "A": "वोल्ट",
+            "B": "कुलॉम",
+            "C": "वाट",
+            "D": "एम्पियर"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "Through which lens is only a virtual image formed?",
+        "prashna": "किस लेंस के द्वारा सिर्फ काल्पनिक प्रतिबिंब बनता है?",
+        "options": {
+            "A": "Convex",
+            "B": "Concave",
+            "C": "Bifocal",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "उत्तल",
+            "B": "अवतल",
+            "C": "बाईफोकल",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "What type of reaction is $CuO + H_2 \\rightarrow Cu + H_2O$?",
+        "prashna": "$CuO + H_2 \\rightarrow Cu + H_2O$ किस प्रकार की अभिक्रिया है?",
+        "options": {
+            "A": "Oxidation",
+            "B": "Reduction",
+            "C": "Neutralization",
+            "D": "Redox"
+        },
+        "vikalpa": {
+            "A": "उपचयन",
+            "B": "अपचयन",
+            "C": "उदासीनीकरण",
+            "D": "रेडॉक्स"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "Compounds formed by the transfer of electrons are called:",
+        "prashna": "इलेक्ट्रॉन के स्थानान्तरण से बने यौगिक कहलाते हैं",
+        "options": {
+            "A": "Covalent",
+            "B": "Electrovalent",
+            "C": "Organic",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "सहसंयोजी",
+            "B": "वैद्युत संयोजी",
+            "C": "कार्बनिक",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "Brass is an example of:",
+        "prashna": "पीतल उदाहरण है",
+        "options": {
+            "A": "Metal",
+            "B": "Non-metal",
+            "C": "Alloy",
+            "D": "Metalloid"
+        },
+        "vikalpa": {
+            "A": "धातु का",
+            "B": "अधातु का",
+            "C": "मिश्रधातु",
+            "D": "उपधातु का"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "Carbon combines with hydrogen to form:",
+        "prashna": "कार्बन हाइड्रोजन से संयोग कर बनाता है?",
+        "options": {
+            "A": "Ionic compound",
+            "B": "Hydrocarbon",
+            "C": "Halogen",
+            "D": "Aqua-regia"
+        },
+        "vikalpa": {
+            "A": "आयनिक यौगिक",
+            "B": "हाइड्रोकार्बन",
+            "C": "हैलोन",
+            "D": "अम्लराज"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "Members of the first group of the periodic table are:",
+        "prashna": "आवर्त सारणी के प्रथम वर्ग के सदस्य है",
+        "options": {
+            "A": "Acidic metals",
+            "B": "Alkali metals",
+            "C": "Inert gases",
+            "D": "Alloys"
+        },
+        "vikalpa": {
+            "A": "अम्लीय धातु",
+            "B": "क्षारीय धातु",
+            "C": "अक्रिय गैस",
+            "D": "मिश्र धातु"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "The presence of $CO_2$ gas in the atmosphere is:",
+        "prashna": "वायुमंडल में $CO_2$ गैस की उपस्थिति है",
+        "options": {
+            "A": "0.01%",
+            "B": "0.05%",
+            "C": "0.03%",
+            "D": "0.02%"
+        },
+        "vikalpa": {
+            "A": "0.01%",
+            "B": "0.05%",
+            "C": "0.03%",
+            "D": "0.02%"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "$NaOH$ is a/an:",
+        "prashna": "$NaOH$ है",
+        "options": {
+            "A": "Acid",
+            "B": "Base",
+            "C": "Salt",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "अम्ल",
+            "B": "क्षार",
+            "C": "लवण",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "question": "Auxin is a/an:",
+        "prashna": "ऑक्सीन है",
+        "options": {
+            "A": "Hormone",
+            "B": "Fat",
+            "C": "Enzyme",
+            "D": "Carbohydrate"
+        },
+        "vikalpa": {
+            "A": "एक हार्मोन",
+            "B": "वसा",
+            "C": "एंजाइम है",
+            "D": "कार्बोहाइड्रेट"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "Which is not a part of the human female reproductive system?",
+        "prashna": "मानव मादा के जनन तंत्र का भाग नहीं",
+        "options": {
+            "A": "Ovary",
+            "B": "Uterus",
+            "C": "Vas deferens",
+            "D": "Fallopian tube"
+        },
+        "vikalpa": {
+            "A": "अण्डाशय",
+            "B": "गर्भाशय",
+            "C": "शुक्रवाहिका",
+            "D": "डिम्बवाहिनी"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "Anthers contain:",
+        "prashna": "परागकोश में होते हैं",
+        "options": {
+            "A": "Sepals",
+            "B": "Ovary",
+            "C": "Carpel",
+            "D": "Pollen grains"
+        },
+        "vikalpa": {
+            "A": "बाह्य दल",
+            "B": "अण्डाशय",
+            "C": "अंडप",
+            "D": "परागकण"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "question": "Necessary for autotrophic nutrition is:",
+        "prashna": "स्वपोषी पोषण के लिए आवश्यक है",
+        "options": {
+            "A": "$CO_2$",
+            "B": "Chlorophyll",
+            "C": "Sunlight",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "$CO_2$",
+            "B": "क्लोरोफिल",
+            "C": "सौर प्रकाश",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "question": "The largest gland in the human body is:",
+        "prashna": "मनुष्य के शरीर की सबसे बड़ी ग्रंथि है",
+        "options": {
+            "A": "Liver",
+            "B": "Pancreas",
+            "C": "Ovary",
+            "D": "Adrenal"
+        },
+        "vikalpa": {
+            "A": "लीवर",
+            "B": "अग्न्याशय",
+            "C": "अण्डाशय",
+            "D": "एड्रीनल"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "An example of a plant hormone is:",
+        "prashna": "पादप हार्मोन का उदाहरण है",
+        "options": {
+            "A": "Pepsin",
+            "B": "Adrenaline",
+            "C": "Auxin",
+            "D": "Testosterone"
+        },
+        "vikalpa": {
+            "A": "पेप्सीन",
+            "B": "एड्रीनलीन",
+            "C": "ऑक्सीन",
+            "D": "टेस्टोस्टेरान"
+        }
+    }
+]

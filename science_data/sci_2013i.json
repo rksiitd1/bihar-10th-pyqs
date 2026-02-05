@@ -1,0 +1,476 @@
+[
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "Explain the difference between reflex action and reflex arc.",
+        "prashna": "प्रतिवर्ती क्रिया एवं प्रतिवर्ती चाप में अंतर स्पष्ट करें।"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "Draw a ray diagram of refraction of light through a prism.",
+        "prashna": "प्रिज्म से होकर प्रकाश के अपवर्तन का किरण आरेख खींचें।"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "Write the molecular formula of Plaster of Paris. What is its use?",
+        "prashna": "प्लास्टर ऑफ पेरिस का आण्विक सूत्र लिखें। इसका उपयोग क्या है?"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "Write the names of any four plant hormones.",
+        "prashna": "किन्हीं चार पादप हॉर्मोन के नाम लिखें।"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "What steps are necessary for forest conservation?",
+        "prashna": "वन संरक्षण हेतु क्या कदम आवश्यक हैं?"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "Explain the food web in brief.",
+        "prashna": "खाद्य जाल की संक्षिप्त व्याख्या करें।"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "Draw a neat labeled diagram of a solenoid.",
+        "prashna": "परिनालिका का स्वच्छ नामांकित चित्र बनाइए।"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "Write the cause of depletion of the ozone layer.",
+        "prashna": "ओजोन परत के क्षय का कारण लिखें।"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "What is pollination? What will be the effect on pollination if it rains?",
+        "prashna": "परागण किसे कहते हैं? वर्षा होने पर परागण पर क्या प्रभाव पड़ेगा?"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "Write three uses of convex and concave mirrors.",
+        "prashna": "उत्तल एवं अवतल दर्पण के तीन उपयोगों को लिखें।"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "What is bleaching powder? Write its chemical name, formula, and uses.",
+        "prashna": "विरंजक चूर्ण क्या है? इनका रासायनिक नाम, सूत्र एवं उपयोग लिखें।"
+    },
+    {
+        "id": "short_12",
+        "type": "short_answer",
+        "question": "Write the anomalies of Mendeleev's periodic table.",
+        "prashna": "मेंडलीव के आवर्त सारणी के विसंगतियों को लिखें।"
+    },
+    {
+        "id": "long_1",
+        "type": "long_answer",
+        "question": "State Ohm's law. Verify this law using an ammeter and voltmeter.",
+        "prashna": "ओम के नियम को लिखें। एमीटर एवं वोल्टमीटर द्वारा इस नियम की जाँच करें।"
+    },
+    {
+        "id": "long_2_1",
+        "type": "long_answer",
+        "question": "Write the method of preparation of methane in the laboratory and its chemical reaction with chlorine.",
+        "prashna": "प्रयोगशाला में मिथेन बनाने की विधि एवं क्लोरीन के साथ इसकी रासायनिक अभिक्रिया को लिखें।"
+    },
+    {
+        "id": "long_2_2",
+        "type": "long_answer",
+        "question": "Write the structural formula of the following-",
+        "prashna": "निम्नलिखित का संरचना सूत्र लिखें-",
+        "sub_questions": {
+            "A": "Propanol",
+            "B": "Ethanal",
+            "C": "Ethene",
+            "D": "Ethyne"
+        },
+        "anuprashna": {
+            "A": "प्रोपेनॉल",
+            "B": "इथेनल",
+            "C": "इथीन",
+            "D": "इथाइन"
+        }
+    },
+    {
+        "id": "long_3_1",
+        "type": "long_answer",
+        "question": "Write the difference between aerobic and anaerobic respiration and write the mechanism of anaerobic respiration.",
+        "prashna": "ऑक्सी एवं अनॉक्सी श्वसन में अंतर लिखें एवं अनॉक्सी श्वसन की क्रियाविधि लिखें।"
+    },
+    {
+        "id": "long_3_2",
+        "type": "long_answer",
+        "question": "Draw a neat labeled diagram of a nephron.",
+        "prashna": "नेफ्रॉन का नामांकित स्वच्छ चित्र बनाइए।"
+    },
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "What is the chemical formula of marble?",
+        "prashna": "संगमरमर का रासायनिक सूत्र क्या है?",
+        "options": {
+            "A": "$CaCO_3$",
+            "B": "$MgCO_3$",
+            "C": "$Ca(HCO_3)_2$",
+            "D": "$Mg(HCO_3)_2$"
+        },
+        "vikalpa": {
+            "A": "$CaCO_3$",
+            "B": "$MgCO_3$",
+            "C": "$Ca(HCO_3)_2$",
+            "D": "$Mg(HCO_3)_2$"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "What is the $-COOH$ functional group called?",
+        "prashna": "$-COOH$ अभिक्रियाशील मूलक को क्या कहते हैं?",
+        "options": {
+            "A": "Ketone",
+            "B": "Aldehyde",
+            "C": "Acid",
+            "D": "Ether"
+        },
+        "vikalpa": {
+            "A": "कीटोन",
+            "B": "एल्डिहाइड",
+            "C": "अम्ल",
+            "D": "ईथर"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "In the process of photosynthesis, oxygen is released from",
+        "prashna": "प्रकाश संश्लेषण क्रिया में ऑक्सीजन बाहर निकलता है",
+        "options": {
+            "A": "Water",
+            "B": "$CO_2$",
+            "C": "Glucose",
+            "D": "Dictyosomes"
+        },
+        "vikalpa": {
+            "A": "जल से",
+            "B": "$CO_2$ से",
+            "C": "ग्लूकोज से",
+            "D": "डिक्टियोजोम से"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "Magnesium is found in",
+        "prashna": "मैग्नीशियम पाया जाता है",
+        "options": {
+            "A": "Chlorophyll",
+            "B": "Red Blood Corpuscles",
+            "C": "Chromoplast",
+            "D": "White Blood Corpuscles"
+        },
+        "vikalpa": {
+            "A": "क्लोरोफिल में",
+            "B": "लाल रक्त कण में",
+            "C": "वर्णी लवक में",
+            "D": "श्वेत रक्त कण में"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "The disease caused due to deficiency of insulin is",
+        "prashna": "इन्सुलिन की कमी के कारण रोग होता है",
+        "options": {
+            "A": "Goitre",
+            "B": "Diabetes",
+            "C": "Cretinism",
+            "D": "Dwarfism"
+        },
+        "vikalpa": {
+            "A": "घेघा",
+            "B": "मधुमेह",
+            "C": "क्रेटिनिज्म",
+            "D": "बौनापन"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "Which color has the maximum wavelength in visible light?",
+        "prashna": "दृश्य प्रकाश में किस वर्ण का तरंगदैर्ध्य अधिकतम होता है?",
+        "options": {
+            "A": "Violet",
+            "B": "Red",
+            "C": "Blue",
+            "D": "Yellow"
+        },
+        "vikalpa": {
+            "A": "बैंगनी",
+            "B": "लाल",
+            "C": "नीला",
+            "D": "पीला"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "The S.I. unit of electric power is",
+        "prashna": "विद्युत शक्ति का S.I. मात्रक होता है",
+        "options": {
+            "A": "Volt",
+            "B": "Watt",
+            "C": "Joule",
+            "D": "Coulomb"
+        },
+        "vikalpa": {
+            "A": "वोल्ट",
+            "B": "वाट",
+            "C": "जूल",
+            "D": "कूलॉम्ब"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "The filament of an electric bulb is made of",
+        "prashna": "विद्युत बल्ब का तंतु बना होता है।",
+        "options": {
+            "A": "Iron",
+            "B": "Copper",
+            "C": "Tungsten",
+            "D": "Aluminum"
+        },
+        "vikalpa": {
+            "A": "लोहे का",
+            "B": "ताँबा का",
+            "C": "टंगस्टन का",
+            "D": "ऐल्युमिनियम का"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "Necessary for obtaining nuclear energy is",
+        "prashna": "नाभिकीय ऊर्जा प्राप्त करने हेतु आवश्यक है",
+        "options": {
+            "A": "Helium",
+            "B": "Chromium",
+            "C": "Uranium",
+            "D": "Aluminum"
+        },
+        "vikalpa": {
+            "A": "हीलियम",
+            "B": "क्रोमियम",
+            "C": "यूरेनियम",
+            "D": "एल्युमिनियम"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "The gas responsible for global warming is",
+        "prashna": "ग्लोबल वार्मिंग के लिए उत्तरदायी गैस है।",
+        "options": {
+            "A": "$O_2$",
+            "B": "$NH_3$",
+            "C": "$CO_2$",
+            "D": "$N_2$"
+        },
+        "vikalpa": {
+            "A": "$O_2$",
+            "B": "$NH_3$",
+            "C": "$CO_2$",
+            "D": "$N_2$"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "Litmus solution is a purple dye, which is extracted from which of the following?",
+        "prashna": "लिटमस विलयन बैंगनी रंजक होता है, जो निम्न में किससे निकाला जाता है?",
+        "options": {
+            "A": "Lichen",
+            "B": "Red cabbage",
+            "C": "Turmeric",
+            "D": "Petunia flower"
+        },
+        "vikalpa": {
+            "A": "लाइकेन",
+            "B": "लाल पत्तागोभी",
+            "C": "हल्दी",
+            "D": "पेटूनिया फूल"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "When sodium hydroxide reacts with zinc, which product is formed?",
+        "prashna": "जब सोडियम हाइड्रोक्साइड जिंक से अभिक्रिया करता है, तो कौन-सा उत्पाद बनता है?",
+        "options": {
+            "A": "$Na_2ZnO + H_2$",
+            "B": "$NaZnO_2 + H_2$",
+            "C": "$NaOZn_2 + H_2$",
+            "D": "$Na_2ZnO_2 + H_2$"
+        },
+        "vikalpa": {
+            "A": "$Na_2ZnO + H_2$",
+            "B": "$NaZnO_2 + H_2$",
+            "C": "$NaOZn_2 + H_2$",
+            "D": "$Na_2ZnO_2 + H_2$"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "The pH of any neutral solution is",
+        "prashna": "किसी भी उदासीन विलयन का pH होता है",
+        "options": {
+            "A": "5",
+            "B": "7",
+            "C": "14",
+            "D": "0"
+        },
+        "vikalpa": {
+            "A": "5",
+            "B": "7",
+            "C": "14",
+            "D": "0"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "The chemical formula of baking soda is",
+        "prashna": "बेकिंग सोडा का रासायनिक सूत्र है",
+        "options": {
+            "A": "$NaHCO_3$",
+            "B": "$NaOH$",
+            "C": "$Na_2CO_3$",
+            "D": "$KOH$"
+        },
+        "vikalpa": {
+            "A": "$NaHCO_3$",
+            "B": "$NaOH$",
+            "C": "$Na_2CO_3$",
+            "D": "$KOH$"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "question": "The ratio of $HCl$ and $HNO_3$ in Aqua Regia mixture is",
+        "prashna": "एक्वा रेजिया मिश्रण में $HCl$ एवं $HNO_3$ का अनुपात होता है।",
+        "options": {
+            "A": "3:1",
+            "B": "1:3",
+            "C": "2:2",
+            "D": "1:2"
+        },
+        "vikalpa": {
+            "A": "3:1",
+            "B": "1:3",
+            "C": "2:2",
+            "D": "1:2"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "Binary fission occurs in",
+        "prashna": "द्विखण्डन होता है",
+        "options": {
+            "A": "Amoeba",
+            "B": "Paramecium",
+            "C": "Leishmania",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "अमीबा में",
+            "B": "पैरामैशियम में",
+            "C": "लीशमैनिया में",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "The male reproductive organ in a flower is",
+        "prashna": "फूल में नर प्रजनन अंग होता है",
+        "options": {
+            "A": "Stamen",
+            "B": "Carpel",
+            "C": "Stigma",
+            "D": "Style"
+        },
+        "vikalpa": {
+            "A": "पुंकेसर",
+            "B": "अंडप",
+            "C": "वर्तिकाग्र",
+            "D": "वर्तिका"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "question": "The egg is fertilized in",
+        "prashna": "अण्डाणु निषेचित होता है",
+        "options": {
+            "A": "Vagina",
+            "B": "Uterus",
+            "C": "Fallopian tube",
+            "D": "Ovary"
+        },
+        "vikalpa": {
+            "A": "योनि से",
+            "B": "गर्भाशय से",
+            "C": "फेलोपियन नलिका से",
+            "D": "अण्डाशय से"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "question": "Magnification (m) of a concave lens is equal to",
+        "prashna": "अवतल लेंस का आवर्धन (m) बराबर होता है।",
+        "options": {
+            "A": "$u/v$",
+            "B": "$uv$",
+            "C": "$u+v$",
+            "D": "$v/u$"
+        },
+        "vikalpa": {
+            "A": "$u/v$",
+            "B": "$uv$",
+            "C": "$u+v$",
+            "D": "$v/u$"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "The relation between focal length and radius of curvature in a spherical mirror is",
+        "prashna": "गोलीय दर्पण में फोकसांतर एवं वक्रता त्रिज्या के बीच संबंध है",
+        "options": {
+            "A": "$r = 2f$",
+            "B": "$f = r$",
+            "C": "$f = r/2$",
+            "D": "$r = f/2$"
+        },
+        "vikalpa": {
+            "A": "$r = 2f$",
+            "B": "$f = r$",
+            "C": "$f = r/2$",
+            "D": "$r = f/2$"
+        }
+    }
+]
