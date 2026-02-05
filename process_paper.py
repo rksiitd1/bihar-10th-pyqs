@@ -84,7 +84,7 @@ def process_question_paper(input_pdf_path: str, output_json_path: str):
     prompt_parts = generate_extraction_prompt(uploaded_file.uri)
 
     print("Generating content with Gemini... (This may take a moment)")
-    model = genai.GenerativeModel(model_name="models/gemini-2.5-pro")
+    model = genai.GenerativeModel(model_name="models/gemini-3-flash-preview")
     response = model.generate_content(prompt_parts)
 
     print("Cleaning and parsing the JSON response...")

@@ -1,0 +1,934 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "The diameter of a circular outline of the reflecting surface of spherical mirror is called -",
+        "prashna": "गोलीय दर्पण के परावर्तक पृष्ठ की वृत्ताकार सीमा रेखा का व्यास कहलाता है -",
+        "options": {
+            "A": "Principal focus",
+            "B": "Radius of curvature",
+            "C": "Principal axis",
+            "D": "Aperture"
+        },
+        "vikalpa": {
+            "A": "मुख्य फोकस",
+            "B": "वक्रता त्रिज्या",
+            "C": "प्रधान अक्ष",
+            "D": "गोलीय दर्पण का द्वारक"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "Which one of the following is focal length of the convex mirror whose radius of curvature is $32\\text{ cm}$?",
+        "prashna": "निम्नलिखित में से कौन उत्तल दर्पण की फोकस दूरी है जिसकी वक्रता त्रिज्या $32\\text{ cm}$ है?",
+        "options": {
+            "A": "$+8\\text{ cm}$",
+            "B": "$-8\\text{ cm}$",
+            "C": "$+16\\text{ cm}$",
+            "D": "$-16\\text{ cm}$"
+        },
+        "vikalpa": {
+            "A": "$+8\\text{ cm}$",
+            "B": "$-8\\text{ cm}$",
+            "C": "$+16\\text{ cm}$",
+            "D": "$-16\\text{ cm}$"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "What will be the nature of the image of an object, if magnification of the image is negative?",
+        "prashna": "यदि किसी बिंब का प्रतिबिम्ब का आवर्धन ऋणात्मक है तो उस प्रतिबिम्ब की प्रकृति क्या होगी?",
+        "options": {
+            "A": "Real and inverted",
+            "B": "Real and erect",
+            "C": "Virtual and erect",
+            "D": "Virtual and inverted"
+        },
+        "vikalpa": {
+            "A": "वास्तविक और उल्टा",
+            "B": "वास्तविक और सीधा",
+            "C": "आभासी और सीधा",
+            "D": "आभासी और उल्टा"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "Most of the refraction for the light rays entering the eye occurs at -",
+        "prashna": "नेत्र में प्रवेश करने वाली प्रकाश किरणों का अधिकांश अपवर्तन होता है -",
+        "options": {
+            "A": "Interface of aqueous humour",
+            "B": "Interface of eye lens",
+            "C": "Outer surface of cornea",
+            "D": "none of these"
+        },
+        "vikalpa": {
+            "A": "नेत्रोद अंतर पृष्ठ पर",
+            "B": "अभिनेत्र के अंतर पृष्ठ पर",
+            "C": "कॉर्निया के बाहरी पृष्ठ पर",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "When sunlight passes through the atmosphere, which colour of light gets scattered strongly by the fine particles in air?",
+        "prashna": "जब सूर्य का प्रकाश वायुमंडल से गुजरता है, तो वायु के सूक्ष्म कण किस रंग के प्रकाश को अधिक प्रबलता से प्रकीर्ण करते हैं?",
+        "options": {
+            "A": "Red",
+            "B": "Orange",
+            "C": "Green",
+            "D": "Blue"
+        },
+        "vikalpa": {
+            "A": "लाल",
+            "B": "नारंगी",
+            "C": "हरा",
+            "D": "नीला"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "In India, the frequency of produced alternating current is -",
+        "prashna": "भारत में उत्पादित प्रत्यावर्ती विद्युत धारा की आवृत्ति है -",
+        "options": {
+            "A": "$50\\text{ Hz}$",
+            "B": "$60\\text{ Hz}$",
+            "C": "$70\\text{ Hz}$",
+            "D": "$80\\text{ Hz}$"
+        },
+        "vikalpa": {
+            "A": "$50\\text{ Hz}$",
+            "B": "$60\\text{ Hz}$",
+            "C": "$70\\text{ Hz}$",
+            "D": "$80\\text{ Hz}$"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "There are 20 divisions between $0\\text{V}$ and $1\\text{V}$ on the scale of a voltmeter. The least count of the voltmeter is -",
+        "prashna": "किसी वोल्टमीटर के स्केल पर $0\\text{V}$ और $1\\text{V}$ के बीच $20$ विभाजन चिन्ह हैं, तो उस वोल्टमीटर का अल्प मापांक (Least count) है -",
+        "options": {
+            "A": "$0.5\\text{V}$",
+            "B": "$0.05\\text{V}$",
+            "C": "$0.005\\text{V}$",
+            "D": "$0.0005\\text{V}$"
+        },
+        "vikalpa": {
+            "A": "$0.5\\text{V}$",
+            "B": "$0.05\\text{V}$",
+            "C": "$0.005\\text{V}$",
+            "D": "$0.0005\\text{V}$"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "Which one of the following is one micro ampere of electric current?",
+        "prashna": "एक माइक्रो एम्पीयर विद्युत धारा निम्नलिखित में कौन सी है?",
+        "options": {
+            "A": "$10^{-4}\\text{A}$",
+            "B": "$10^{-5}\\text{A}$",
+            "C": "$10^{-6}\\text{A}$",
+            "D": "$10^{-7}\\text{A}$"
+        },
+        "vikalpa": {
+            "A": "$10^{-4}\\text{A}$",
+            "B": "$10^{-5}\\text{A}$",
+            "C": "$10^{-6}\\text{A}$",
+            "D": "$10^{-7}\\text{A}$"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "What is the direction of magnetic field lines inside a bar magnet?",
+        "prashna": "किसी छड़ चुम्बक के अंदर चुम्बकीय क्षेत्र रेखाओं की दिशा क्या होती है?",
+        "options": {
+            "A": "from North to South pole",
+            "B": "from South pole to North pole",
+            "C": "from North pole to Western pole",
+            "D": "from South pole to Western pole"
+        },
+        "vikalpa": {
+            "A": "उत्तर ध्रुव से दक्षिण ध्रुव",
+            "B": "दक्षिण ध्रुव से उत्तर ध्रुव",
+            "C": "उत्तर ध्रुव से पश्चिमी ध्रुव",
+            "D": "दक्षिण ध्रुव से पश्चिमी ध्रुव"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "In domestic electric circuit, the colour of neutral wire is -",
+        "prashna": "घरेलू विद्युत परिपथ में उदासीन तार का रंग होता है -",
+        "options": {
+            "A": "Red",
+            "B": "Green",
+            "C": "Black",
+            "D": "Yellow"
+        },
+        "vikalpa": {
+            "A": "लाल",
+            "B": "हरा",
+            "C": "काला",
+            "D": "पीला"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "In which device, the split ring acts as commutator?",
+        "prashna": "किस युक्ति में विभक्त वलय दिक् परिवर्तन का कार्य करता है?",
+        "options": {
+            "A": "Electric generator",
+            "B": "Electric motor",
+            "C": "Galvanometer",
+            "D": "Volt meter"
+        },
+        "vikalpa": {
+            "A": "विद्युत जनित्र",
+            "B": "विद्युत मोटर",
+            "C": "गैल्वेनोमीटर",
+            "D": "वोल्टमीटर"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "Which energy does a hydro electric power plant convert into electric energy?",
+        "prashna": "जल विद्युत संयंत्र किस ऊर्जा को विद्युत ऊर्जा में रूपांतरित करता है?",
+        "options": {
+            "A": "Thermal energy",
+            "B": "Nuclear energy",
+            "C": "Solar energy",
+            "D": "Potential energy"
+        },
+        "vikalpa": {
+            "A": "तापीय ऊर्जा",
+            "B": "नाभिकीय ऊर्जा",
+            "C": "सौर ऊर्जा",
+            "D": "स्थितिज ऊर्जा"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "In which State, Narora nuclear power reactor is situated?",
+        "prashna": "नरौरा नाभिकीय विद्युत संयंत्र किस राज्य में स्थित है?",
+        "options": {
+            "A": "Rajasthan",
+            "B": "Maharashtra",
+            "C": "Uttar Pradesh",
+            "D": "Gujarat"
+        },
+        "vikalpa": {
+            "A": "राजस्थान",
+            "B": "महाराष्ट्र",
+            "C": "उत्तर प्रदेश",
+            "D": "गुजरात"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "Which one of the following is slaked lime?",
+        "prashna": "निम्नलिखित में से कौन सा बुझा हुआ चूना है?",
+        "options": {
+            "A": "$CaO$",
+            "B": "$Ca(OH)_2$",
+            "C": "$CaCO_3$",
+            "D": "$Ca$"
+        },
+        "vikalpa": {
+            "A": "$CaO$",
+            "B": "$Ca(OH)_2$",
+            "C": "$CaCO_3$",
+            "D": "$Ca$"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "question": "$Zn + CuSO_4 \\rightarrow ZnSO_4 + Cu$\nThe above reaction is an example of a -",
+        "prashna": "$Zn + CuSO_4 \\rightarrow ZnSO_4 + Cu$\nऊपर दी गयी रासायनिक अभिक्रिया किस प्रकार की है?",
+        "options": {
+            "A": "Combination reaction",
+            "B": "displacement reaction",
+            "C": "Double displacement reaction",
+            "D": "decomposition reaction"
+        },
+        "vikalpa": {
+            "A": "संयोजन अभिक्रिया",
+            "B": "विस्थापन अभिक्रिया",
+            "C": "द्विविस्थापन अभिक्रिया",
+            "D": "वियोजन अभिक्रिया"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "A solution turns blue litmus paper red; its pH is likely to be -",
+        "prashna": "कोई विलयन नीले लिटमस पत्र को लाल कर देता है, इसका pH संभवतः होगा -",
+        "options": {
+            "A": "5",
+            "B": "7",
+            "C": "8",
+            "D": "10"
+        },
+        "vikalpa": {
+            "A": "5",
+            "B": "7",
+            "C": "8",
+            "D": "10"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "Which one of the following is the natural source of Oxalic acid?",
+        "prashna": "ऑक्सैलिक अम्ल का प्राकृतिक स्रोत निम्नलिखित में कौन है?",
+        "options": {
+            "A": "Orange",
+            "B": "Tomato",
+            "C": "Vinegar",
+            "D": "Tamarind"
+        },
+        "vikalpa": {
+            "A": "संतरा",
+            "B": "टमाटर",
+            "C": "सिरका",
+            "D": "इमली"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "question": "Which of the following is the most reactive metal?",
+        "prashna": "निम्नलिखित में कौन सबसे अधिक अभिक्रियाशील धातु है?",
+        "options": {
+            "A": "$Mg$",
+            "B": "$Ca$",
+            "C": "$Na$",
+            "D": "$K$"
+        },
+        "vikalpa": {
+            "A": "$Mg$",
+            "B": "$Ca$",
+            "C": "$Na$",
+            "D": "$K$"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "question": "In what ratio, the concentrated Hydrochloric acid and the concentrated Nitric acid solutions are present in freshly prepared aqua regia (royal water) solution -",
+        "prashna": "ऐक्वा रेजिया (रॉयल जल) किस अनुपात में सान्द्र हाइड्रोक्लोरिक अम्ल एवं सान्द्र नाइट्रिक अम्ल का ताजा मिश्रण होता है?",
+        "options": {
+            "A": "$3 : 2$",
+            "B": "$2 : 3$",
+            "C": "$3 : 1$",
+            "D": "$1 : 3$"
+        },
+        "vikalpa": {
+            "A": "$3 : 2$",
+            "B": "$2 : 3$",
+            "C": "$3 : 1$",
+            "D": "$1 : 3$"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "Which one of the following is the functional group of $-\\text{CHO}$?",
+        "prashna": "$-\\text{CHO}$ का प्रकार्यात्मक समूह निम्नलिखित में कौन है?",
+        "options": {
+            "A": "Ketone",
+            "B": "Carboxylic acid",
+            "C": "Alcohol",
+            "D": "Aldehyde"
+        },
+        "vikalpa": {
+            "A": "कीटोन",
+            "B": "कार्बोक्सिलिक अम्ल",
+            "C": "ऐल्कोहॉल",
+            "D": "ऐल्डिहाइड"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "question": "Propane, with the molecular formula $C_3H_8$ has -",
+        "prashna": "प्रोपेन का आण्विक सूत्र $C_3H_8$ है, इसमें -",
+        "options": {
+            "A": "7 covalent bonds",
+            "B": "8 covalent bonds",
+            "C": "9 covalent bonds",
+            "D": "10 covalent bonds"
+        },
+        "vikalpa": {
+            "A": "7 सह संयोजक आबंध हैं।",
+            "B": "8 सह संयोजक आबंध हैं।",
+            "C": "9 सह संयोजक आबंध हैं।",
+            "D": "10 सह संयोजक आबंध हैं।"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "question": "In moving from left to right across the period of the modern periodic table, the atomic size -",
+        "prashna": "आधुनिक आवर्त सारणी में बाईं से दाईं ओर जाने पर परमाणु साइज (आकार) -",
+        "options": {
+            "A": "increases",
+            "B": "decreases",
+            "C": "remains unchanged",
+            "D": "none of these"
+        },
+        "vikalpa": {
+            "A": "बढ़ता है।",
+            "B": "घटता है।",
+            "C": "अपरिवर्तित रहता है।",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "question": "How many vertical column (Groups) are in modern periodic table?",
+        "prashna": "आधुनिक आवर्त सारणी में कितने उर्ध्व स्तंभ हैं?",
+        "options": {
+            "A": "7",
+            "B": "9",
+            "C": "15",
+            "D": "18"
+        },
+        "vikalpa": {
+            "A": "7",
+            "B": "9",
+            "C": "15",
+            "D": "18"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "question": "A student adds a few drops of universal indicator to a dilute solution of sodium bicarbonate taken in a test tube, which of the following colours would be observed?",
+        "prashna": "एक छात्र जाँच परखनली में लिए गये सोडियम बाइकार्बोनेट के तनु विलयन में सार्वभौम सूचक की कुछ बूंदें मिलाता है, तो निम्नलिखित में कौन सा रंग दिखेगा?",
+        "options": {
+            "A": "Blue",
+            "B": "Green",
+            "C": "Orange",
+            "D": "Yellow"
+        },
+        "vikalpa": {
+            "A": "नीला",
+            "B": "हरा",
+            "C": "नारंगी",
+            "D": "पीला"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "question": "When Magnesium ribbon is ignited, the flame produced by it is -",
+        "prashna": "जब मैग्नीशियम फीता को जलाया जाता है, तो उत्पन्न आग की लौ होती है -",
+        "options": {
+            "A": "Yellow",
+            "B": "Blue",
+            "C": "Dazzling white",
+            "D": "Red"
+        },
+        "vikalpa": {
+            "A": "पीली",
+            "B": "नीली",
+            "C": "चमकीला ऊजला",
+            "D": "लाल"
+        }
+    },
+    {
+        "id": "obj_26",
+        "type": "objective",
+        "question": "An iron nail was dipped in solution kept in a test tube. After half an hour, it was observed that colour of the solution has changed. The solution in test tube was -",
+        "prashna": "एक जाँच परखनली में लिए गये विलयन में एक लोहे की कील को डुबाया गया। आधे घंटे के बाद यह देखा गया कि विलयन का रंग परिवर्तित हो चुका है। उस जाँच परखनली में विलयन था -",
+        "options": {
+            "A": "$ZnSO_4$",
+            "B": "$CuSO_4$",
+            "C": "$FeSO_4$",
+            "D": "$Al_2(SO_4)_3$"
+        },
+        "vikalpa": {
+            "A": "$ZnSO_4$",
+            "B": "$CuSO_4$",
+            "C": "$FeSO_4$",
+            "D": "$Al_2(SO_4)_3$"
+        }
+    },
+    {
+        "id": "obj_27",
+        "type": "objective",
+        "question": "Which one of the following instruments is used for measuring Blood Pressure?",
+        "prashna": "निम्नलिखित में कौन से यंत्र का उपयोग रक्तदाब मापने में किया जाता है?",
+        "options": {
+            "A": "Barometer",
+            "B": "Manometer",
+            "C": "Sphygmomanometer",
+            "D": "none of these"
+        },
+        "vikalpa": {
+            "A": "बैरोमीटर",
+            "B": "मैनोमीटर",
+            "C": "स्फाइग्नो-मैनोमीटर",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "question": "What component of Blood prevents bleeding by clot formation at points of injury?",
+        "prashna": "रक्त का कौन से अवयव घायल स्थान से रक्त स्राव के मार्ग को रक्त का थक्का बनाकर अवरुद्ध करता है?",
+        "options": {
+            "A": "Red Blood cells",
+            "B": "White Blood cells",
+            "C": "Platelets",
+            "D": "Lymph"
+        },
+        "vikalpa": {
+            "A": "लाल रक्त कोशिकाएं ($R.B.C.$)",
+            "B": "श्वेत रक्त कोशिकाएं ($W.B.C.$)",
+            "C": "प्लेटलेट्स",
+            "D": "लसीका"
+        }
+    },
+    {
+        "id": "obj_29",
+        "type": "objective",
+        "question": "What is the necessary element for the thyroid gland to make thyroxine hormone?",
+        "prashna": "अवटुग्रंथि को थायरॉक्सिन हार्मोन बनाने के लिए क्या आवश्यक है?",
+        "options": {
+            "A": "Sodium",
+            "B": "Chlorine",
+            "C": "Phosphorus",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "सोडियम",
+            "B": "क्लोरीन",
+            "C": "फास्फोरस",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_30",
+        "type": "objective",
+        "question": "What part of the brain maintains posture and equilibrium of the body?",
+        "prashna": "मस्तिष्क का कौन सा भाग शरीर की स्थिति तथा संतुलन का अनुरक्षण करता है?",
+        "options": {
+            "A": "Fore - Brain",
+            "B": "Mid - Brain",
+            "C": "Cerebellum",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "अग्र मस्तिष्क",
+            "B": "मध्य मस्तिष्क",
+            "C": "अनुमस्तिष्क",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_31",
+        "type": "objective",
+        "question": "Plant hormone 'Cytokinins' is helpful for -",
+        "prashna": "पादप हार्मोन 'साइटोकिनिन' सहायक है -",
+        "options": {
+            "A": "growth of shoot tip in length",
+            "B": "growth of stem",
+            "C": "bending the plant towards light",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "प्ररोह के अग्रभाग की लम्बाई में वृद्धि के लिए",
+            "B": "तने के वृद्धि के लिए",
+            "C": "पादप का प्रकाश की ओर मुड़ने के लिए",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_32",
+        "type": "objective",
+        "question": "Which one of the following is the mode of reproduction in Hydra?",
+        "prashna": "हाइड्रा में प्रजनन की विधि निम्नलिखित में से कौन है?",
+        "options": {
+            "A": "Vegetative propagation",
+            "B": "Spore formation",
+            "C": "Budding",
+            "D": "Fission"
+        },
+        "vikalpa": {
+            "A": "कायिक प्रवर्धन",
+            "B": "बीजाणु समासंघ",
+            "C": "मुकुलन",
+            "D": "विखंडन"
+        }
+    },
+    {
+        "id": "obj_33",
+        "type": "objective",
+        "question": "Which part of a flower produces pollen grains?",
+        "prashna": "पुष्प का कौन सा भाग परागकण बनाता है?",
+        "options": {
+            "A": "Sepals",
+            "B": "Petals",
+            "C": "Stamens",
+            "D": "Carpels"
+        },
+        "vikalpa": {
+            "A": "बाह्यदल",
+            "B": "पंखुड़ी",
+            "C": "पुंकेसर",
+            "D": "स्त्रीकेसर"
+        }
+    },
+    {
+        "id": "obj_34",
+        "type": "objective",
+        "question": "Which of the following is not a part of the female reproductive system in human being?",
+        "prashna": "निम्न में से कौन मानव में मादा जनन तंत्र का भाग नहीं है?",
+        "options": {
+            "A": "Ovary",
+            "B": "Uterus",
+            "C": "Vas deferens",
+            "D": "Oviduct"
+        },
+        "vikalpa": {
+            "A": "अंडाशय",
+            "B": "गर्भाशय",
+            "C": "शुक्रवाहिका",
+            "D": "डिंब वाहिनी"
+        }
+    },
+    {
+        "id": "obj_35",
+        "type": "objective",
+        "question": "Who propounded the laws of Inheritance?",
+        "prashna": "वंशगत नियमों का प्रतिपादन किसने किया?",
+        "options": {
+            "A": "Charles Darwin",
+            "B": "Robert Hooke",
+            "C": "J.C. Bose",
+            "D": "Gregor Johann Mendel"
+        },
+        "vikalpa": {
+            "A": "चार्ल्स डार्विन",
+            "B": "रॉबर्ट हुक",
+            "C": "जे. सी. बोस",
+            "D": "ग्रेगर जॉन मेंडल"
+        }
+    },
+    {
+        "id": "obj_36",
+        "type": "objective",
+        "question": "Women have a pair of Sex Chromosomes -",
+        "prashna": "स्त्रियों में लिंग गुणसूत्र का युग्म होता है -",
+        "options": {
+            "A": "XY",
+            "B": "XX",
+            "C": "YY",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "XY",
+            "B": "XX",
+            "C": "YY",
+            "D": "इनमें सभी"
+        }
+    },
+    {
+        "id": "obj_37",
+        "type": "objective",
+        "question": "A green leaf is boiled in Alcohol before using Iodine for starch test in order to -",
+        "prashna": "मंड परीक्षण के लिए हरी पत्ती पर आयोडीन डालने से पहले पत्ती को ऐल्कोहॉल में उबाला जाता है -",
+        "options": {
+            "A": "dissolve starch",
+            "B": "dissolve chlorophyll",
+            "C": "soften the leaf",
+            "D": "All of the above"
+        },
+        "vikalpa": {
+            "A": "मंड को घोलने के लिए",
+            "B": "क्लोरोफिल को घोलने के लिए",
+            "C": "पत्ती को मुलायम करने के लिए",
+            "D": "इनमें से सभी के लिए"
+        }
+    },
+    {
+        "id": "obj_38",
+        "type": "objective",
+        "question": "The slide is first focussed under Compound Microscope at -",
+        "prashna": "स्लाइड को सर्वप्रथम कम्पाउंड माइक्रोस्कोप से देखा जाता है -",
+        "options": {
+            "A": "5x",
+            "B": "10x",
+            "C": "25x",
+            "D": "45x"
+        },
+        "vikalpa": {
+            "A": "$5\\text{x}$ पर",
+            "B": "$10\\text{x}$ पर",
+            "C": "$25\\text{x}$ पर",
+            "D": "$45\\text{x}$ पर"
+        }
+    },
+    {
+        "id": "obj_39",
+        "type": "objective",
+        "question": "The gap between two neurons is called a -",
+        "prashna": "दो तंत्रिका कोशिका के मध्य खाली स्थान को कहते हैं -",
+        "options": {
+            "A": "dendrite",
+            "B": "Synapse",
+            "C": "Axon",
+            "D": "Impulse"
+        },
+        "vikalpa": {
+            "A": "द्रुमिका",
+            "B": "सिनेप्स",
+            "C": "एक्सॉन",
+            "D": "आवेग"
+        }
+    },
+    {
+        "id": "obj_40",
+        "type": "objective",
+        "question": "Which of the following constitutes a Food chain?",
+        "prashna": "निम्न में कौन आहार श्रृंखला का निर्माण करता है?",
+        "options": {
+            "A": "Grass, wheat and mango",
+            "B": "Grass, goat and human",
+            "C": "Goat, Cow and elephant",
+            "D": "Grass, Goat and fish"
+        },
+        "vikalpa": {
+            "A": "घास, गेहूं तथा आम",
+            "B": "घास, बकरी तथा मानव",
+            "C": "बकरी, गाय तथा हाथी",
+            "D": "घास, बकरी तथा मछली"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "Write laws of Reflection of Light and illustrate it with a Ray diagram.",
+        "prashna": "प्रकाश के परावर्तन के नियमों को लिखें और इसे किरण आरेख से दर्शाये।"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "Why does the Sun appear Reddish early in the morning and in the evening?",
+        "prashna": "सूर्योदय एवं सूर्यास्त के समय सूर्य रक्ताभ क्यों प्रतीत होता है?"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "Draw a schematic diagram of a circuit consisting of a battery of three cells of $2\\text{V}$ each, a $5\\Omega$ resistor, an $8\\Omega$ resistor, a $12\\Omega$ resistor and a plug key, all connected in series.",
+        "prashna": "किसी विद्युत परिपथ का व्यवस्था आरेख खींचें जिसमें $2\\text{V}$ के तीन सेलों की बैटरी, एक $5\\Omega$ प्रतिरोधक, एक $8\\Omega$ प्रतिरोधक तथा एक $12\\Omega$ प्रतिरोधक तथा एक प्लग कुंजी सभी श्रेणीक्रम में संयोजित हों।"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "Why are coils of Electric Toasters and Electric Iron made of an alloy rather than a pure metal?",
+        "prashna": "विद्युत टोस्टरों तथा विद्युत इस्तरियों के तापन अवयव शुद्ध धातु के न बनाकर किसी मिश्रधातु के क्यों बनाये जाते हैं?"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "Write the Fleming's right hand rule.",
+        "prashna": "फ्लेमिंग का दक्षिणहस्त नियम लिखें।"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "Why are we looking at alternate sources of energy?",
+        "prashna": "ऊर्जा के वैकल्पिक स्रोतों की ओर हम क्यों ध्यान दे रहे हैं?"
+    },
+    {
+        "id": "long_1_1",
+        "type": "long_answer",
+        "question": "Answer the following questions:",
+        "prashna": "निम्नलिखित प्रश्नों के उत्तर दें:",
+        "sub_questions": {
+            "A": "What is electric power?",
+            "B": "Derive $H = I^2Rt$, where $H$ is the amount of Heat produced by steady current ($I$) through a resistor ($R$) in time $t$.",
+            "C": "How much energy is given to each Coulomb of charge passing through a $6\\text{V}$ battery?"
+        },
+        "anuprashna": {
+            "A": "विद्युत शक्ति क्या है?",
+            "B": "निगमन करें $H = I^2Rt$ जहाँ $H$, किसी प्रतिरोधक ($R$) में विद्युत धारा ($I$) द्वारा $t$ समय में उत्पन्न ऊष्मा की मात्रा है।",
+            "C": "$6\\text{V}$ बैटरी से गुजरने वाले हर एक कूलॉम आवेश को कितनी ऊर्जा दी जाती है?"
+        }
+    },
+    {
+        "id": "long_1_2",
+        "type": "long_answer",
+        "question": "Answer the following questions:",
+        "prashna": "निम्नलिखित प्रश्नों के उत्तर दें:",
+        "sub_questions": {
+            "A": "What do you mean by scattering of Light?",
+            "B": "What is Spectrum of Light?",
+            "C": "Explain the dispersion of White light passing through a Glass Prism."
+        },
+        "anuprashna": {
+            "A": "प्रकाश के प्रकीर्णन से आप क्या समझते है?",
+            "B": "प्रकाश वर्ण-पट क्या है?",
+            "C": "काँच के प्रिज्म से गुजरते हुए श्वेत प्रकाश के वर्ण-विक्षेपण की व्याख्या करें।"
+        }
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "What do you mean by a Precipitation Reaction? Explain it by giving an example.",
+        "prashna": "अवक्षेपण अभिक्रिया से आप क्या समझते हैं? एक उदाहरण देकर समझाइए।"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "Why acids do not show acidic behaviour in the absence of Water?",
+        "prashna": "जल की अनुपस्थिति में अम्ल का व्यवहार अम्लीय क्यों नहीं होता है?"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "Write equations for the reactions of -",
+        "prashna": "इन अभिक्रियाओं के लिए समीकरण लिखिए -",
+        "sub_questions": {
+            "A": "Iron with Steam",
+            "B": "Calcium with Water"
+        },
+        "anuprashna": {
+            "A": "भाप के साथ लोहा",
+            "B": "जल के साथ कैल्सियम"
+        }
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "Draw the structure for the following compounds -",
+        "prashna": "निम्न यौगिकों की संरचना चित्रित कीजिए -",
+        "sub_questions": {
+            "A": "Chloropropane",
+            "B": "Propionic acid"
+        },
+        "anuprashna": {
+            "A": "क्लोरो प्रोपेन",
+            "B": "प्रोपेनोइक अम्ल"
+        }
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "Write electronic configuration of the following elements.",
+        "prashna": "निम्न तत्वों का इलेक्ट्रॉनिक विन्यास लिखें।",
+        "sub_questions": {
+            "A": "$Ca$",
+            "B": "$Cr$"
+        },
+        "anuprashna": {
+            "A": "$Ca$",
+            "B": "$Cr$"
+        }
+    },
+    {
+        "id": "short_12",
+        "type": "short_answer",
+        "question": "Answer the following:",
+        "prashna": "निम्नलिखित का उत्तर दें:",
+        "sub_questions": {
+            "A": "What happens when metals are burnt in air?",
+            "B": "What happen when metals react with water?"
+        },
+        "anuprashna": {
+            "A": "क्या होता है, जब धातुओं का वायु में दहन होता है?",
+            "B": "क्या होता है, जब धातुएँ जल के साथ अभिक्रिया करती हैं?"
+        }
+    },
+    {
+        "id": "long_2_1",
+        "type": "long_answer",
+        "question": "Answer the following questions:",
+        "prashna": "निम्नलिखित प्रश्नों के उत्तर दें:",
+        "sub_questions": {
+            "A": "What is a homologous series? Explain with an example.",
+            "B": "Write three Chemical properties of Carbon compounds with suitable Chemical reactions."
+        },
+        "anuprashna": {
+            "A": "समजातीय श्रेणी क्या है? उदाहरण देकर समझाइए।",
+            "B": "कार्बन यौगिकों के तीन रासायनिक गुणधर्मों का उपयुक्त रासायनिक अभिक्रिया के साथ उल्लेख करें।"
+        }
+    },
+    {
+        "id": "long_2_2",
+        "type": "long_answer",
+        "question": "Answer the following questions:",
+        "prashna": "निम्नलिखित प्रश्नों के उत्तर दें:",
+        "sub_questions": {
+            "A": "Differentiate between metal and non-metal on the basis of their chemical properties.",
+            "B": "Arrange the metals given in the order of their decreasing reactivity: (i) $Zn$ (ii) $Fe$ (iii) $Ca$ (iv) $Mg$ (v) $K$ (vi) $Na$"
+        },
+        "anuprashna": {
+            "A": "रासायनिक गुणधर्मों के आधार पर धातुओं एवं अधातुओं में विभेद कीजिए।",
+            "B": "दिये गये धातुओं की क्रियाशीलता को अवरोही क्रम में व्यवस्थित करें: (i) $Zn$ (ii) $Fe$ (iii) $Ca$ (iv) $Mg$ (v) $K$ (vi) $Na$"
+        }
+    },
+    {
+        "id": "short_13",
+        "type": "short_answer",
+        "question": "Draw a labelled diagram of the longitudinal section of a flower.",
+        "prashna": "पुष्प की अनुदैर्ध्य काट का नामांकित चित्र बनाइए।"
+    },
+    {
+        "id": "short_14",
+        "type": "short_answer",
+        "question": "How does the Nervous tissue act?",
+        "prashna": "तंत्रिका ऊतक कैसे क्रिया करता है?"
+    },
+    {
+        "id": "short_15",
+        "type": "short_answer",
+        "question": "What is Photosynthesis? Express it in Chemical equation.",
+        "prashna": "प्रकाश संश्लेषण क्या है? इसे रासायनिक समीकरण में व्यक्त करें।"
+    },
+    {
+        "id": "short_16",
+        "type": "short_answer",
+        "question": "What are Fossils? What do they tell us about the process of evolution?",
+        "prashna": "जीवाश्म क्या है? जैव विकास प्रक्रम के विषय में ये क्या बतलाता है?"
+    },
+    {
+        "id": "short_17",
+        "type": "short_answer",
+        "question": "What is the role of decomposers in the Ecosystem?",
+        "prashna": "पारितंत्र में अपमार्जकों की क्या भूमिका है?"
+    },
+    {
+        "id": "short_18",
+        "type": "short_answer",
+        "question": "What changes can you make in your habits to become environment-friendly?",
+        "prashna": "पर्यावरण-मित्र बनने के लिए आप अपनी आदतों में कौन-कौन से परिवर्तन ला सकते है?"
+    },
+    {
+        "id": "long_3_1",
+        "type": "long_answer",
+        "question": "Draw a labelled diagram of human digestive system and explain the digestion process of Food.",
+        "prashna": "मानव पाचन तंत्र का नामांकित चित्र खींचें एवं भोजन-पाचन प्रक्रिया का वर्णन करें।"
+    },
+    {
+        "id": "long_3_2",
+        "type": "long_answer",
+        "question": "Draw the structure of a neuron and explain its function.",
+        "prashna": "एक तंत्रिका कोशिका (न्यूरॉन) की संरचना का चित्र बनाइए तथा इसके कार्यों का वर्णन करें।"
+    }
+]

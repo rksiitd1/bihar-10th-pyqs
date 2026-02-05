@@ -1,0 +1,1052 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "Which of the following is measured by ammeter ?",
+        "prashna": "आमीटर से निम्नलिखित में किसे मापा जाता है ?",
+        "options": {
+            "A": "Current",
+            "B": "Charge",
+            "C": "Potential",
+            "D": "Electric power"
+        },
+        "vikalpa": {
+            "A": "धारा",
+            "B": "आवेश",
+            "C": "विभव",
+            "D": "विद्युत शक्ति"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "The device which converts electrical energy into mechanical energy is",
+        "prashna": "वह उपकरण जो विद्युत ऊर्जा को यांत्रिक ऊर्जा में बदलता है, होता है",
+        "options": {
+            "A": "Generator",
+            "B": "Electric motor",
+            "C": "both Generator and Electric motor",
+            "D": "none of these"
+        },
+        "vikalpa": {
+            "A": "जेनरेटर",
+            "B": "विद्युत मोटर",
+            "C": "जेनरेटर और विद्युत मोटर दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "Mirror's formula is",
+        "prashna": "दर्पण का सूत्र है",
+        "options": {
+            "A": "$\\frac{1}{v} + \frac{1}{u} = \frac{1}{f}$",
+            "B": "$\\frac{1}{v} - \frac{1}{u} = \frac{1}{f}$",
+            "C": "$\\frac{1}{f} + \frac{1}{u} = \frac{1}{v}$",
+            "D": "$\\frac{1}{f} + \frac{1}{v} = \frac{1}{u}$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{1}{v} + \frac{1}{u} = \frac{1}{f}$",
+            "B": "$\\frac{1}{v} - \frac{1}{u} = \frac{1}{f}$",
+            "C": "$\\frac{1}{f} + \frac{1}{u} = \frac{1}{v}$",
+            "D": "$\\frac{1}{f} + \frac{1}{v} = \frac{1}{u}$"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "Which of the following lens is used to remove short sightedness ?",
+        "prashna": "निकट दृष्टि दोष को निम्नलिखित में किस लेंस के द्वारा हटाया जाता है ?",
+        "options": {
+            "A": "Convex",
+            "B": "Concave",
+            "C": "Bifocal",
+            "D": "Cylindrical"
+        },
+        "vikalpa": {
+            "A": "उत्तल",
+            "B": "अवतल",
+            "C": "बाइफोकल",
+            "D": "बेलनाकार"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "The substance which takes part in chemical reaction is called",
+        "prashna": "रासायनिक अभिक्रिया में भाग लेने वाले पदार्थ को कहा जाता है",
+        "options": {
+            "A": "reactant",
+            "B": "product",
+            "C": "both reactant and product",
+            "D": "none of these"
+        },
+        "vikalpa": {
+            "A": "अभिकारक",
+            "B": "उत्पाद",
+            "C": "अभिकारक एवं उत्पाद दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "Tooth paste is",
+        "prashna": "टूथ पेस्ट कैसा होता है ?",
+        "options": {
+            "A": "acidic",
+            "B": "basic (alkaline)",
+            "C": "neutral",
+            "D": "all of these"
+        },
+        "vikalpa": {
+            "A": "अम्लीय",
+            "B": "क्षारीय",
+            "C": "उदासीन",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "Which of the following is a good conductor of electricity ?",
+        "prashna": "निम्नलिखित में कौन विद्युत का सुचालक है ?",
+        "options": {
+            "A": "Sulphur",
+            "B": "Chlorine",
+            "C": "Graphite",
+            "D": "Iodine"
+        },
+        "vikalpa": {
+            "A": "सल्फर",
+            "B": "क्लोरीन",
+            "C": "ग्रेफाइट",
+            "D": "आयोडिन"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "Which of the following is a carboxyl group ?",
+        "prashna": "निम्नलिखित में कौन कार्बोक्सिल समूह है ?",
+        "options": {
+            "A": "$-\\text{CHO}$",
+            "B": "$>\\text{CO}$",
+            "C": "$-\\text{COOH}$",
+            "D": "$-\\text{O}-$"
+        },
+        "vikalpa": {
+            "A": "$-\\text{CHO}$",
+            "B": "$>\\text{CO}$",
+            "C": "$-\\text{COOH}$",
+            "D": "$-\\text{O}-$"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "Switches are set",
+        "prashna": "स्विच लगाये जाते हैं",
+        "options": {
+            "A": "in cold wire",
+            "B": "in hot wire",
+            "C": "in underground (earth) wire",
+            "D": "in all of these"
+        },
+        "vikalpa": {
+            "A": "ठंडे तार में",
+            "B": "गर्म तार में",
+            "C": "भू-योजित तार में",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "Which of the following is not the source of non-renewable energy ?",
+        "prashna": "निम्न में से कौन अनवीकरणीय ऊर्जा का स्रोत नहीं है ?",
+        "options": {
+            "A": "Petroleum",
+            "B": "Coal",
+            "C": "Biogas",
+            "D": "Natural gas"
+        },
+        "vikalpa": {
+            "A": "पेट्रोलियम",
+            "B": "कोयला",
+            "C": "बायोगैस",
+            "D": "प्राकृतिक गैस"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "To which of the following is human kidney related ?",
+        "prashna": "मनुष्य में वृक्क निम्न में किससे संबंधित है ?",
+        "options": {
+            "A": "Nutrition",
+            "B": "Respiration",
+            "C": "Transportation",
+            "D": "Excretion"
+        },
+        "vikalpa": {
+            "A": "पोषण",
+            "B": "श्वसन",
+            "C": "परिवहन",
+            "D": "उत्सर्जन"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "What is found in hydra ?",
+        "prashna": "हाइड्रा में क्या पाया जाता है ?",
+        "options": {
+            "A": "Brain",
+            "B": "Nerve",
+            "C": "Mouth",
+            "D": "Tentacles"
+        },
+        "vikalpa": {
+            "A": "मस्तिष्क",
+            "B": "तंत्रिका",
+            "C": "मुख",
+            "D": "स्पर्शक"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "The rays of light travel in",
+        "prashna": "प्रकाश की किरणें गमन करती हैं",
+        "options": {
+            "A": "straight line",
+            "B": "oblique line",
+            "C": "any direction",
+            "D": "none of these"
+        },
+        "vikalpa": {
+            "A": "सीधी रेखा में",
+            "B": "तिरछी रेखा में",
+            "C": "किसी भी दिशा में",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "Which of the following is the unit of power of lens ?",
+        "prashna": "निम्नलिखित में कौन लेन्स की क्षमता का मात्रक है ?",
+        "options": {
+            "A": "joule",
+            "B": "watt",
+            "C": "dioptre",
+            "D": "erg"
+        },
+        "vikalpa": {
+            "A": "जूल",
+            "B": "वाट",
+            "C": "डाइऑप्टर",
+            "D": "अर्ग"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "question": "The deviation of which colour is minimum ?",
+        "prashna": "किस रंग का विचलन न्यूनतम होता है ?",
+        "options": {
+            "A": "Red",
+            "B": "Yellow",
+            "C": "Blue",
+            "D": "Violet"
+        },
+        "vikalpa": {
+            "A": "लाल",
+            "B": "पीला",
+            "C": "नीला",
+            "D": "बैंगनी"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "Which type of current is obtained from a battery ?",
+        "prashna": "बैटरी से किस प्रकार की धारा प्राप्त होती है ?",
+        "options": {
+            "A": "Alternating current",
+            "B": "Direct current",
+            "C": "Both (A) and (B)",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "प्रत्यावर्ती धारा",
+            "B": "दिष्ट धारा",
+            "C": "(A) और (B) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "The green colour of plants is due to the presence of",
+        "prashna": "किसकी उपस्थिति के कारण पौधे का रंग हरा होता है ?",
+        "options": {
+            "A": "Chlorophyll",
+            "B": "Leucoplast",
+            "C": "Phytochrome",
+            "D": "none of these"
+        },
+        "vikalpa": {
+            "A": "क्लोरोफिल",
+            "B": "ल्यूकोप्लास्ट",
+            "C": "फाइटोक्रोम",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "question": "Excretory substance in plants is",
+        "prashna": "पौधे में उत्सर्जी पदार्थ है",
+        "options": {
+            "A": "Gum",
+            "B": "Tannin",
+            "C": "Resin",
+            "D": "all of these"
+        },
+        "vikalpa": {
+            "A": "गाँद",
+            "B": "टेनिन",
+            "C": "रेजिन",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "question": "In which state is Tehri Dam constructed ?",
+        "prashna": "टेहरी बाँध का निर्माण किस प्रदेश में किया गया है ?",
+        "options": {
+            "A": "Uttar Pradesh",
+            "B": "Uttarakhand",
+            "C": "Rajasthan",
+            "D": "Madhya Pradesh"
+        },
+        "vikalpa": {
+            "A": "उत्तर प्रदेश",
+            "B": "उत्तराखंड",
+            "C": "राजस्थान",
+            "D": "मध्य प्रदेश"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "Which of the following causes acid rain ?",
+        "prashna": "निम्नलिखित में किसके कारण अम्ल वर्षा होती है ?",
+        "options": {
+            "A": "$CO_2$",
+            "B": "$SO_2$",
+            "C": "$CO$",
+            "D": "$Cl_2$"
+        },
+        "vikalpa": {
+            "A": "$CO_2$",
+            "B": "$SO_2$",
+            "C": "$CO$",
+            "D": "$Cl_2$"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "question": "Ultimate source of energy for all living organisms is",
+        "prashna": "सभी जीव-जन्तुओं के लिए ऊर्जा का अंतिम स्रोत है",
+        "options": {
+            "A": "Planet",
+            "B": "Moon",
+            "C": "Sun",
+            "D": "Coal"
+        },
+        "vikalpa": {
+            "A": "ग्रह",
+            "B": "चन्द्रमा",
+            "C": "सूर्य",
+            "D": "कोयला"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "question": "How many pairs of spiracles are found in cockroach ?",
+        "prashna": "तिलचट्टा में कितने जोड़े श्वास रंध्र पाये जाते हैं ?",
+        "options": {
+            "A": "2",
+            "B": "8",
+            "C": "10",
+            "D": "6"
+        },
+        "vikalpa": {
+            "A": "2",
+            "B": "8",
+            "C": "10",
+            "D": "6"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "question": "Photosynthesis takes place in",
+        "prashna": "प्रकाश संश्लेषण की क्रिया होती है",
+        "options": {
+            "A": "Fungi",
+            "B": "Animals",
+            "C": "Green plants",
+            "D": "Parasites"
+        },
+        "vikalpa": {
+            "A": "कवकों में",
+            "B": "जन्तुओं में",
+            "C": "हरे पौधों में",
+            "D": "परजीवियों में"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "question": "Transportation of carbohydrate through phloem tissues takes place in the form of",
+        "prashna": "फ्लोएम ऊतकों द्वारा कार्बोहाइड्रेट का परिवहन होता है",
+        "options": {
+            "A": "Glucose",
+            "B": "Fructose",
+            "C": "Lactose",
+            "D": "Sucrose"
+        },
+        "vikalpa": {
+            "A": "ग्लूकोज के रूप में",
+            "B": "फ्रक्टोज के रूप में",
+            "C": "लैक्टोज के रूप में",
+            "D": "सुक्रोज के रूप में"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "question": "Equation $2H_2 + O_2 \to 2H_2O$ is a",
+        "prashna": "समीकरण $2H_2 + O_2 \to 2H_2O$ है एक",
+        "options": {
+            "A": "combination reaction",
+            "B": "decomposition reaction",
+            "C": "precipitation reaction",
+            "D": "neutralisation reaction"
+        },
+        "vikalpa": {
+            "A": "संयोजन अभिक्रिया",
+            "B": "वियोजन अभिक्रिया",
+            "C": "अवक्षेप अभिक्रिया",
+            "D": "उदासीनीकरण अभिक्रिया"
+        }
+    },
+    {
+        "id": "obj_26",
+        "type": "objective",
+        "question": "Which of the following is the chemical formula of glucose ?",
+        "prashna": "ग्लूकोज का रासायनिक सूत्र निम्नलिखित में कौन है ?",
+        "options": {
+            "A": "$C_2H_5OH$",
+            "B": "$C_6H_6O_6$",
+            "C": "$C_6H_{12}O_6$",
+            "D": "$C_6H_6$"
+        },
+        "vikalpa": {
+            "A": "$C_2H_5OH$",
+            "B": "$C_6H_6O_6$",
+            "C": "$C_6H_{12}O_6$",
+            "D": "$C_6H_6$"
+        }
+    },
+    {
+        "id": "obj_27",
+        "type": "objective",
+        "question": "The atomic number of sodium is",
+        "prashna": "सोडियम की परमाणु संख्या है",
+        "options": {
+            "A": "11",
+            "B": "14",
+            "C": "17",
+            "D": "20"
+        },
+        "vikalpa": {
+            "A": "11",
+            "B": "14",
+            "C": "17",
+            "D": "20"
+        }
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "question": "Most of the nutrition in an amoeba is",
+        "prashna": "अमीबा में अधिकांश पोषण कैसा होता है ?",
+        "options": {
+            "A": "Herbivores",
+            "B": "Holozoic",
+            "C": "Omnivores",
+            "D": "Autotrophic"
+        },
+        "vikalpa": {
+            "A": "शाकाहारी",
+            "B": "अंतर्ग्रहण",
+            "C": "सर्वाहारी",
+            "D": "स्वपोषी"
+        }
+    },
+    {
+        "id": "obj_29",
+        "type": "objective",
+        "question": "The element of first group of the periodic table is",
+        "prashna": "आवर्त सारणी के प्रथम वर्ग के सदस्य होते हैं",
+        "options": {
+            "A": "acidic metal",
+            "B": "inert gas",
+            "C": "alkaline metal",
+            "D": "alloy"
+        },
+        "vikalpa": {
+            "A": "अम्लीय धातु",
+            "B": "अक्रिय गैस",
+            "C": "क्षार धातु",
+            "D": "मिश्र धातु"
+        }
+    },
+    {
+        "id": "obj_30",
+        "type": "objective",
+        "question": "Which of the following is not a natural resource ?",
+        "prashna": "निम्नलिखित में कौन प्राकृतिक संसाधन नहीं है ?",
+        "options": {
+            "A": "Air",
+            "B": "Water",
+            "C": "Soil",
+            "D": "Organism"
+        },
+        "vikalpa": {
+            "A": "वायु",
+            "B": "जल",
+            "C": "मिट्टी",
+            "D": "जीवधारी"
+        }
+    },
+    {
+        "id": "obj_31",
+        "type": "objective",
+        "question": "How many laws are there of reflection of light ?",
+        "prashna": "प्रकाश के परावर्तन के कितने नियम हैं ?",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "vikalpa": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        }
+    },
+    {
+        "id": "obj_32",
+        "type": "objective",
+        "question": "Wavelength is generally expressed as",
+        "prashna": "तरंगदैर्ध्य को सामान्यतः व्यक्त किया जाता है",
+        "options": {
+            "A": "candela",
+            "B": "joule",
+            "C": "ampere",
+            "D": "angstrom"
+        },
+        "vikalpa": {
+            "A": "कैंडेला के रूप में",
+            "B": "जूल के रूप में",
+            "C": "एम्पियर के रूप में",
+            "D": "ऐंग्स्ट्रम में"
+        }
+    },
+    {
+        "id": "obj_33",
+        "type": "objective",
+        "question": "With which of the following metals is solar cell made of ?",
+        "prashna": "निम्नलिखित में किस धातु से सोलर सेल बना होता है ?",
+        "options": {
+            "A": "Zinc",
+            "B": "Gold",
+            "C": "Platinum",
+            "D": "Silicon"
+        },
+        "vikalpa": {
+            "A": "जस्ता",
+            "B": "सोना",
+            "C": "प्लेटिनम",
+            "D": "सिलिकन"
+        }
+    },
+    {
+        "id": "obj_34",
+        "type": "objective",
+        "question": "Which of the following is a salt ?",
+        "prashna": "निम्नलिखित में कौन लवण है ?",
+        "options": {
+            "A": "$HCl$",
+            "B": "$NaOH$",
+            "C": "$K_2SO_4$",
+            "D": "$NH_4OH$"
+        },
+        "vikalpa": {
+            "A": "$HCl$",
+            "B": "$NaOH$",
+            "C": "$K_2SO_4$",
+            "D": "$NH_4OH$"
+        }
+    },
+    {
+        "id": "obj_35",
+        "type": "objective",
+        "question": "Which of the following is the heaviest metal ?",
+        "prashna": "निम्नलिखित में सबसे भारी धातु कौन है ?",
+        "options": {
+            "A": "Lithium",
+            "B": "Uranium",
+            "C": "Cesium",
+            "D": "Iron"
+        },
+        "vikalpa": {
+            "A": "लिथियम",
+            "B": "यूरेनियम",
+            "C": "सिजियम",
+            "D": "आयरन"
+        }
+    },
+    {
+        "id": "obj_36",
+        "type": "objective",
+        "question": "How many covalent bonds are there in one molecule of ethane ?",
+        "prashna": "एथेन के एक अणु में कितने सह-संयोजक बंधन हैं ?",
+        "options": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "7"
+        },
+        "vikalpa": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "7"
+        }
+    },
+    {
+        "id": "obj_37",
+        "type": "objective",
+        "question": "Which is called chemical messenger ?",
+        "prashna": "किसे रासायनिक दूत कहा जाता है ?",
+        "options": {
+            "A": "Stimuli",
+            "B": "Digestive juice",
+            "C": "Hormone",
+            "D": "Impulse"
+        },
+        "vikalpa": {
+            "A": "उद्दीपक",
+            "B": "पाचक रस",
+            "C": "हार्मोन",
+            "D": "आवेग"
+        }
+    },
+    {
+        "id": "obj_38",
+        "type": "objective",
+        "question": "Who wrote the book 'The Origin of Species' ?",
+        "prashna": "'द ओरिजिन ऑफ स्पीशीज' नामक पुस्तक किसने लिखी है ?",
+        "options": {
+            "A": "Darwin",
+            "B": "Lamarck",
+            "C": "Oparin",
+            "D": "Weismann"
+        },
+        "vikalpa": {
+            "A": "डार्विन",
+            "B": "ला्मार्क",
+            "C": "ओपेरिन",
+            "D": "वाइसमान"
+        }
+    },
+    {
+        "id": "obj_39",
+        "type": "objective",
+        "question": "In which of the following media is the speed of light maximum ?",
+        "prashna": "निम्नलिखित में किस माध्यम में प्रकाश की चाल सबसे अधिक होता है ?",
+        "options": {
+            "A": "Glass",
+            "B": "Water",
+            "C": "Iron",
+            "D": "Vacuum"
+        },
+        "vikalpa": {
+            "A": "काँच",
+            "B": "पानी",
+            "C": "लोहा",
+            "D": "निर्वात"
+        }
+    },
+    {
+        "id": "obj_40",
+        "type": "objective",
+        "question": "S.I. unit of potential difference is",
+        "prashna": "विभवान्तर का S.I. मात्रक होता है",
+        "options": {
+            "A": "coulomb",
+            "B": "volt",
+            "C": "ampere",
+            "D": "ohm"
+        },
+        "vikalpa": {
+            "A": "कूलम्ब",
+            "B": "वोल्ट",
+            "C": "एम्मीटर",
+            "D": "ओम"
+        }
+    },
+    {
+        "id": "obj_41",
+        "type": "objective",
+        "question": "Where is reproductive organ found in plants ?",
+        "prashna": "पौधे में जनन अंग कहाँ पाये जाते हैं ?",
+        "options": {
+            "A": "In stem",
+            "B": "In roots",
+            "C": "In flower",
+            "D": "In fruit"
+        },
+        "vikalpa": {
+            "A": "तना में",
+            "B": "जड़ में",
+            "C": "पुष्प में",
+            "D": "फल में"
+        }
+    },
+    {
+        "id": "obj_42",
+        "type": "objective",
+        "question": "Which plant did Mendel use for his experiments in genetics ?",
+        "prashna": "मेंडल ने अपने आनुवंशिकी प्रयोग हेतु किस पौधे का उपयोग किया था ?",
+        "options": {
+            "A": "Neem",
+            "B": "Rose",
+            "C": "Pea",
+            "D": "Chrysanthemum"
+        },
+        "vikalpa": {
+            "A": "नीम",
+            "B": "गुलाब",
+            "C": "मटर",
+            "D": "गुलदाऊदी"
+        }
+    },
+    {
+        "id": "obj_43",
+        "type": "objective",
+        "question": "In which direction does energy flow in an ecosystem ?",
+        "prashna": "पारिस्थितिकी तंत्र में ऊर्जा का प्रवाह किस दिशा में होता है ?",
+        "options": {
+            "A": "Unidirectional",
+            "B": "Bidirectional",
+            "C": "Multidirectional",
+            "D": "Non-directional"
+        },
+        "vikalpa": {
+            "A": "एकदिशीय",
+            "B": "द्विदिशीय",
+            "C": "बहुदिशीय",
+            "D": "किसी भी दिशा में नहीं"
+        }
+    },
+    {
+        "id": "obj_44",
+        "type": "objective",
+        "question": "The ozone layer is found",
+        "prashna": "ओजोन परत पाया जाता है",
+        "options": {
+            "A": "in the lower layer of atmosphere",
+            "B": "in the upper layer of atmosphere",
+            "C": "in the middle layer of atmosphere",
+            "D": "none of these"
+        },
+        "vikalpa": {
+            "A": "वायुमंडल के निचली सतह में",
+            "B": "वायुमंडल के ऊपरी सतह में",
+            "C": "वायुमंडल के मध्य सतह में",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_45",
+        "type": "objective",
+        "question": "By which of the following gases are exchanged in plants ?",
+        "prashna": "पौधों में गैसों का आदान-प्रदान किसके द्वारा होता है ?",
+        "options": {
+            "A": "Stomata",
+            "B": "Roots",
+            "C": "Stem",
+            "D": "Shoot"
+        },
+        "vikalpa": {
+            "A": "रन्ध्र",
+            "B": "जड़",
+            "C": "तना",
+            "D": "टहनी"
+        }
+    },
+    {
+        "id": "obj_46",
+        "type": "objective",
+        "question": "Who has the fastest heartbeat ?",
+        "prashna": "निम्न में सबसे तेज हृदय धड़कन किसका होता है ?",
+        "options": {
+            "A": "Whale",
+            "B": "Rat",
+            "C": "Elephant",
+            "D": "Human"
+        },
+        "vikalpa": {
+            "A": "ह्वेल",
+            "B": "चूहा",
+            "C": "हाथी",
+            "D": "आदमी"
+        }
+    },
+    {
+        "id": "obj_47",
+        "type": "objective",
+        "question": "Which type of nitrogenous wastes is excreted by living organisms ?",
+        "prashna": "सजीव जीवधारियों द्वारा किस प्रकार की नाइट्रोजन पदार्थ (कचरा) का उत्सर्जन होता है ?",
+        "options": {
+            "A": "Ammonia",
+            "B": "Uric acid",
+            "C": "Urea",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "अमोनिया",
+            "B": "यूरिक अम्ल",
+            "C": "यूरिया",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_48",
+        "type": "objective",
+        "question": "The structural and functional unit of nervous system is called",
+        "prashna": "तंत्रिका तंत्र की रचनात्मक एवं क्रियात्मक इकाई को कहते हैं",
+        "options": {
+            "A": "Nephron",
+            "B": "Neuron",
+            "C": "Cerebrum",
+            "D": "none of these"
+        },
+        "vikalpa": {
+            "A": "नेफ्रान",
+            "B": "न्यूरॉन",
+            "C": "सेरीब्रम",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "What is spherical mirror ? What is the focal length of the spherical mirror whose radius of curvature is 20 cm ?",
+        "prashna": "गोलीय दर्पण क्या है ? एक गोलीय दर्पण की वक्रता त्रिज्या 20 cm है तो इसकी फोकस दूरी क्या है ?"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "Why is convex lens called converging lens ?",
+        "prashna": "उत्तल लेंस को अभिसारी लेंस क्यों कहा जाता है ?"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "What are the defects of vision ? What are its types ?",
+        "prashna": "दृष्टि दोष क्या है ? यह कितने प्रकार का होता है ?"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "Why is the colour of clear sky blue ?",
+        "prashna": "स्वच्छ आकाश का रंग नीला क्यों होता है ?"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "On what factors does the resistance of a conductor depend ?",
+        "prashna": "किसी चालक का प्रतिरोध किन कारकों पर निर्भर करता है ?"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "What is the role of split-ring in an electric motor ?",
+        "prashna": "विद्युत मोटर में विभक्त वलय की क्या भूमिका है ?"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "Distinguish between alternating current and direct current.",
+        "prashna": "प्रत्यावर्ती धारा एवं दिष्ट धारा में अन्तर बतायें।"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "Write Ohm's law.",
+        "prashna": "ओम के नियम को लिखें।"
+    },
+    {
+        "id": "long_1_1",
+        "type": "long_answer",
+        "question": "Write the S.I. units of resistance and potential difference. Explain the verification of Ohm's law.",
+        "prashna": "प्रतिरोध और विभवान्तर के S.I. मात्रक को लिखें। ओम के नियम के सत्यापन कर समझावें।"
+    },
+    {
+        "id": "long_1_2",
+        "type": "long_answer",
+        "question": "Explain the reasons of the following :",
+        "prashna": "निम्न का कारण बतायें :",
+        "sub_questions": {
+            "A": "Why is concave mirror used as shaving mirror ?",
+            "B": "Why is convex mirror used as side mirror ?",
+            "C": "Why is concave mirror used in solar cooker ?"
+        },
+        "anuprashna": {
+            "A": "अवतल दर्पण का उपयोग हजामती दर्पण के रूप में क्यों किया जाता है ?",
+            "B": "उत्तल दर्पण का उपयोग साइड मिरर के रूप में क्यों किया जाता है ?",
+            "C": "अवतल दर्पण का उपयोग सोलर कुकर में क्यों किया जाता है ?"
+        }
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "Write the balanced chemical equation for the following reactions :",
+        "prashna": "निम्न अभिक्रियाओं के लिए संतुलित रासायनिक समीकरण लिखिए :",
+        "sub_questions": {
+            "a": "Zinc + Silver nitrate $\\to$ Zinc nitrate + Silver",
+            "b": "Sodium + Water $\\to$ Sodium hydroxide + Hydrogen"
+        },
+        "anuprashna": {
+            "a": "जिंक + सिल्वर नाइट्रेट $\\to$ जिंक नाइट्रेट + सिल्वर",
+            "b": "सोडियम + जल $\\to$ सोडियम हाइड्रोक्साइड + हाइड्रोजन"
+        }
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "The aqueous solution of sodium carbonate is alkaline. Why ?",
+        "prashna": "सोडियम कार्बोनेट का जलीय विलयन क्षारीय होता है। क्यों ?"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "Write two differences between minerals and ores.",
+        "prashna": "खनिज पदार्थ एवं अयस्कों के बीच दो अन्तरों को लिखें।"
+    },
+    {
+        "id": "short_12",
+        "type": "short_answer",
+        "question": "Why does carbon mainly form covalent compounds ?",
+        "prashna": "कार्बन मुख्यतः सहसंयोजक यौगिक क्यों बनाता है ?"
+    },
+    {
+        "id": "short_13",
+        "type": "short_answer",
+        "question": "What is the name and atomic number of the element having electronic configuration 2, 8, 7 ?",
+        "prashna": "एक परमाणु का इलेक्ट्रॉनिक विन्यास 2, 8, 7 है, तो इस तत्व का नाम एवं परमाणु संख्या क्या है ?"
+    },
+    {
+        "id": "short_14",
+        "type": "short_answer",
+        "question": "Write the equation for the reaction of Plaster of Paris with water.",
+        "prashna": "प्लास्टर ऑफ पेरिस की जल के साथ अभिक्रिया के लिए समीकरण लिखिए।"
+    },
+    {
+        "id": "short_15",
+        "type": "short_answer",
+        "question": "What steps are important for forest conservation ?",
+        "prashna": "वन संरक्षण हेतु क्या कदम आवश्यक हैं ?"
+    },
+    {
+        "id": "long_2_1",
+        "type": "long_answer",
+        "question": "What is saponification ? How does it differ from esterification ?",
+        "prashna": "साबुनीकरण क्या है ? यह एस्टरीकरण से किस प्रकार भिन्न है ?"
+    },
+    {
+        "id": "long_2_2",
+        "type": "long_answer",
+        "question": "Match Column-I and Column-II: Column-I: (i) Baking soda, (ii) Washing soda, (iii) Globar salt, (iv) Blue vitriol, (v) Gypsum. Column-II: (a) $CaSO_4 \\cdot 2H_2O$, (b) $CuSO_4 \\cdot 5H_2O$, (c) $NaHCO_3$, (d) $Na_2CO_3 \\cdot 10H_2O$, (e) $Na_2SO_4 \\cdot 10H_2O$",
+        "prashna": "स्तम्भ-I एवं स्तम्भ-II का मिलान करें : स्तम्भ-I: (i) बेकिंग सोडा, (ii) धोने का सोडा, (iii) ग्लोबर लवण, (iv) नीला थोथा, (v) जिप्सम। स्तम्भ-II: (a) $CaSO_4 \\cdot 2H_2O$, (b) $CuSO_4 \\cdot 5H_2O$, (c) $NaHCO_3$, (d) $Na_2CO_3 \\cdot 10H_2O$, (e) $Na_2SO_4 \\cdot 10H_2O$"
+    },
+    {
+        "id": "short_16",
+        "type": "short_answer",
+        "question": "What is photosynthesis ? Write its chemical equation.",
+        "prashna": "प्रकाश संश्लेषण क्या है ? इसका रासायनिक समीकरण लिखें।"
+    },
+    {
+        "id": "short_17",
+        "type": "short_answer",
+        "question": "Write any two differences between respiration and combustion.",
+        "prashna": "श्वसन एवं दहन में कोई दो अन्तर लिखें।"
+    },
+    {
+        "id": "short_18",
+        "type": "short_answer",
+        "question": "What are the components of the circulatory system in human beings ? Write the functions of any two components.",
+        "prashna": "मानव में परिवहन तंत्र के घटक कौन-कौन से हैं ? किन्हीं दो घटकों के कार्य लिखें।"
+    },
+    {
+        "id": "short_19",
+        "type": "short_answer",
+        "question": "Define excretion. What are excretory products ?",
+        "prashna": "उत्सर्जन की परिभाषा दें। उत्सर्जी पदार्थ क्या हैं ?"
+    },
+    {
+        "id": "short_20",
+        "type": "short_answer",
+        "question": "How does chemical coordination take place in animals ?",
+        "prashna": "जन्तुओं में रासायनिक समन्वय कैसे होता है ?"
+    },
+    {
+        "id": "short_21",
+        "type": "short_answer",
+        "question": "What are the benefits of sexual reproduction in comparison to asexual reproduction ?",
+        "prashna": "अलैंगिक जनन की अपेक्षा लैंगिक जनन के क्या लाभ हैं ?"
+    },
+    {
+        "id": "short_22",
+        "type": "short_answer",
+        "question": "What is the role of decomposers in the ecosystem ?",
+        "prashna": "परितंत्र में अपघटकों की क्या भूमिका है ?"
+    },
+    {
+        "id": "long_3_1",
+        "type": "long_answer",
+        "question": "How does formation and depletion of ozone take place ?",
+        "prashna": "ओजोन का निर्माण एवं अपक्षय किस प्रकार होता है ?"
+    },
+    {
+        "id": "long_3_2",
+        "type": "long_answer",
+        "question": "With the help of an experiment show that chlorophyll is essential for photosynthesis.",
+        "prashna": "एक प्रयोग द्वारा दिखाएँ कि प्रकाश संश्लेषण के लिए क्लोरोफिल आवश्यक है।"
+    }
+]

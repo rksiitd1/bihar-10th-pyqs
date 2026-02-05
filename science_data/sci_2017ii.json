@@ -1,0 +1,494 @@
+[
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "What is magnification? Describe it.",
+        "prashna": "आवर्द्धन किसे कहते हैं? वर्णन करें।"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "What is the relation between focal length ($f$) and radius of curvature in a concave mirror?",
+        "prashna": "अवतल दर्पण में फोकस दूरी ($f$) और वक्रता त्रिज्या में क्या संबंध है?"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "What is electric charge? How many types of electric charges are there?",
+        "prashna": "विद्युत आवेश क्या है? विद्युत आवेश कितने प्रकार के होते हैं?"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "Differentiate between alternating current and direct current.",
+        "prashna": "प्रत्यावर्ती धारा एवं दिष्ट धारा में अंतर स्पष्ट करें।"
+    },
+    {
+        "id": "long_1_1",
+        "type": "long_answer",
+        "question": "What do you understand by an electric generator? On what principle does it work? Describe its construction and working method.",
+        "prashna": "विद्युत जेनरेटर से आप क्या समझते हैं? यह किस सिद्धांत पर कार्य करता है? इसकी बनावट एवं क्रिया विधि का वर्णन करें।"
+    },
+    {
+        "id": "long_1_2",
+        "type": "long_answer",
+        "question": "What do you understand by conductor, insulator, semiconductor and superconductor? Explain with examples.",
+        "prashna": "चालक, अचालक, अर्द्धचालक एवं अतिचालक से आप क्या समझते हैं? सोदाहरण व्याख्या करें।"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "What is a substitution reaction?",
+        "prashna": "प्रतिस्थापन अभिक्रिया क्या है?"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "What do you understand by a catalyst?",
+        "prashna": "उत्प्रेरक से आप क्या समझते हैं?"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "What is hydrogenation? What is its industrial application?",
+        "prashna": "हाइड्रोजनीकरण क्या है? इसका औद्योगिक अनुप्रयोग क्या है?"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "Write the anomalies of Mendeleev's periodic table.",
+        "prashna": "मेंडलीफ के आवर्तसारणी की विसंगतियों को लिखें।"
+    },
+    {
+        "id": "long_2_1",
+        "type": "long_answer",
+        "question": "Match Column I and Column II-",
+        "prashna": "स्तंभ I तथा स्तंभ II का मिलान करें-",
+        "sub_questions": {
+            "i": "Baking Soda",
+            "ii": "Washing Soda",
+            "iii": "Glauber's salt",
+            "iv": "Blue Vitriol",
+            "v": "Gypsum",
+            "a": "$CaSO_4 \\cdot 2H_2O$",
+            "b": "$CuSO_4 \\cdot 5H_2O$",
+            "c": "$NaHCO_3$",
+            "d": "$Na_2CO_3 \\cdot 10H_2O$",
+            "e": "$Na_2SO_4 \\cdot 10H_2O$"
+        },
+        "anuprashna": {
+            "i": "बेकिंग सोडा",
+            "ii": "धोने का सोडा",
+            "iii": "ग्लौबर लवण",
+            "iv": "नीला थोथा",
+            "v": "जिप्सम",
+            "a": "$CaSO_4 \\cdot 2H_2O$",
+            "b": "$CuSO_4 \\cdot 5H_2O$",
+            "c": "$NaHCO_3$",
+            "d": "$Na_2CO_3 \\cdot 10H_2O$",
+            "e": "$Na_2SO_4 \\cdot 10H_2O$"
+        }
+    },
+    {
+        "id": "long_2_2",
+        "type": "long_answer",
+        "question": "Differentiate between metals and non-metals on the basis of chemical properties.",
+        "prashna": "रासायनिक गुणों के आधार पर धातु और अधातु में अंतर स्पष्ट करें।"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "What do you understand by the circulatory system?",
+        "prashna": "परिसंचरण तंत्र से आप क्या समझते हैं?"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "What do you understand by heterotrophic nutrition?",
+        "prashna": "विषमपोषी पोषण से आप क्या समझते हो ?"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "What is budding?",
+        "prashna": "मुकुलन क्या है?"
+    },
+    {
+        "id": "short_12",
+        "type": "short_answer",
+        "question": "What do you understand by producers?",
+        "prashna": "उत्पादक से आप क्या समझते हैं?"
+    },
+    {
+        "id": "long_3_1",
+        "type": "long_answer",
+        "question": "What is blood? Describe its components.",
+        "prashna": "रक्त क्या है? इसके घटकों का वर्णन करें।"
+    },
+    {
+        "id": "long_3_2",
+        "type": "long_answer",
+        "question": "Draw a labeled diagram of the longitudinal section of a flower.",
+        "prashna": "पुष्प के अनुदैर्ध्य काट का नामांकित चित्र बनायें।"
+    },
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "Rays of light travel in-",
+        "prashna": "प्रकाश की किरणें गमन करती है-",
+        "options": {
+            "A": "In a straight line",
+            "B": "In a curved line",
+            "C": "In any direction",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "सीधी रेखा में",
+            "B": "टेढ़ी रेखा में",
+            "C": "किसी भी दिशा में",
+            "D": "इनमें कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "Which mirror is used for shaving?",
+        "prashna": "हजामत के लिए किस दर्पण का उपयोग होता है?",
+        "options": {
+            "A": "Concave mirror",
+            "B": "Convex mirror",
+            "C": "Plane mirror",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "अवतल दर्पण",
+            "B": "उत्तल दर्पण",
+            "C": "समतल दर्पण",
+            "D": "इनमें कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "The reflecting surface of a searchlight is-",
+        "prashna": "सर्चलाइट का परावर्तक सतह होता है-",
+        "options": {
+            "A": "Convex",
+            "B": "Concave",
+            "C": "Plane",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "उत्तल",
+            "B": "अवतल",
+            "C": "समतल",
+            "D": "इनमें कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "Which of the following is not used as a cooking fuel?",
+        "prashna": "निम्नलिखित में से किसका उपयोग खाना बनाने वाले ईंधन में नहीं होता है?",
+        "options": {
+            "A": "C.N.G.",
+            "B": "L.P.G.",
+            "C": "Biogas",
+            "D": "Coal"
+        },
+        "vikalpa": {
+            "A": "C.N.G.",
+            "B": "L.P.G.",
+            "C": "बायो गैस",
+            "D": "कोयला"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "A dynamo converts mechanical energy into which energy?",
+        "prashna": "डायनेमो यांत्रिक ऊर्जा को किस ऊर्जा में परिणत करता है?",
+        "options": {
+            "A": "Sound energy",
+            "B": "Electrical energy",
+            "C": "Solar energy",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "ध्वनि ऊर्जा",
+            "B": "विद्युत ऊर्जा",
+            "C": "सौर ऊर्जा",
+            "D": "इनमें कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "Electrical accidents in homes occur due to-",
+        "prashna": "घरों में विद्युत से दुर्घटना किसके कारण होती है?",
+        "options": {
+            "A": "Fuse wire",
+            "B": "Short circuit",
+            "C": "High current flow",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "फ्यूज तार",
+            "B": "शॉर्ट सर्किट",
+            "C": "उच्च धारा प्रवाह",
+            "D": "इनमें कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "The eye behaves like-",
+        "prashna": "आँख व्यवहार होता है-",
+        "options": {
+            "A": "Like a concave mirror",
+            "B": "Like a convex lens",
+            "C": "Like a plane mirror",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "अवतल दर्पण की तरह",
+            "B": "उत्तल लेंस की तरह",
+            "C": "समतल दर्पण की तरह",
+            "D": "इनमें कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "What is the chemical formula of Khadiya?",
+        "prashna": "खड़िया का रासायनिक सूत्र क्या है?",
+        "options": {
+            "A": "$MgCO_3$",
+            "B": "$CaO$",
+            "C": "$CaCO_3$",
+            "D": "$Ca(HCO_3)_2$"
+        },
+        "vikalpa": {
+            "A": "$MgCO_3$",
+            "B": "$CaO$",
+            "C": "$CaCO_3$",
+            "D": "$Ca(HCO_3)_2$"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "What is the reactive radical -COOH called?",
+        "prashna": "COOH अभिक्रियाशील मूलक को क्या कहते हैं?",
+        "options": {
+            "A": "Aldehyde",
+            "B": "Acid",
+            "C": "Ketone",
+            "D": "Ether"
+        },
+        "vikalpa": {
+            "A": "एल्डिहाइड",
+            "B": "अम्ल",
+            "C": "कीटोन",
+            "D": "ईथर"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "The pH of any acidic solution is-",
+        "prashna": "किसी भी अम्लीय विलयन का pH होता है-",
+        "options": {
+            "A": "Equal to 7",
+            "B": "More than 7",
+            "C": "Less than 7",
+            "D": "None"
+        },
+        "vikalpa": {
+            "A": "7 के बराबर",
+            "B": "7 से अधिक",
+            "C": "7 के कम",
+            "D": "कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "Ore of Mercury is-",
+        "prashna": "पारे का अयस्क है-",
+        "options": {
+            "A": "Bauxite",
+            "B": "Haematite",
+            "C": "Magnetite",
+            "D": "Cinnabar"
+        },
+        "vikalpa": {
+            "A": "बॉक्साइट",
+            "B": "हेमाटाइट",
+            "C": "मैग्नेटाइट",
+            "D": "सिनेबार"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "Compounds having same molecular formula but different structural formula are called-",
+        "prashna": "एक अणुसूत्र परन्तु विभिन्न संरचना सूत्र वाले यौगिक कहलाते हैं-",
+        "options": {
+            "A": "Polymer",
+            "B": "Allotrope",
+            "C": "Isomer",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "बहुलक",
+            "B": "अपरूप",
+            "C": "समावयवी",
+            "D": "कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "Which of the following is a strong acid?",
+        "prashna": "निम्नांकित में कौन प्रबल अम्ल हैं?",
+        "options": {
+            "A": "$H_2SO_4$",
+            "B": "$HCl$",
+            "C": "$HNO_3$",
+            "D": "All"
+        },
+        "vikalpa": {
+            "A": "$H_2SO_4$",
+            "B": "$HCl$",
+            "C": "$HNO_3$",
+            "D": "सभी"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "The number of horizontal rows in the modern periodic table is-",
+        "prashna": "आधुनिक आवर्त सारणी में क्षैतिज कतारों की संख्या होती है-",
+        "options": {
+            "A": "18",
+            "B": "7",
+            "C": "16",
+            "D": "10"
+        },
+        "vikalpa": {
+            "A": "18",
+            "B": "7",
+            "C": "16",
+            "D": "10"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "question": "Helps in blood clotting-",
+        "prashna": "रक्त का थक्का बनाने में सहायक होता है-",
+        "options": {
+            "A": "Red blood cell",
+            "B": "White blood cell",
+            "C": "Blood platelets",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "लाल रक्त कोशिका",
+            "B": "श्वेत रक्त कोशिका",
+            "C": "रक्त बिंबाणु",
+            "D": "कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "What is the structural and functional unit of kidney called?",
+        "prashna": "वृक्क की संरचनात्मक एवं क्रियात्मक इकाई को क्या कहते हैं?",
+        "options": {
+            "A": "Glomerulus",
+            "B": "Bowman's capsule",
+            "C": "Ureter",
+            "D": "Nephron"
+        },
+        "vikalpa": {
+            "A": "ग्लोमेरस",
+            "B": "बोयेन केप्सूल",
+            "C": "मूत्रवाहिनी",
+            "D": "नेफरॉन"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "In unicellular algae, transport of water takes place through...........",
+        "prashna": "एक कोशिकीय शैवाल में जल का परिवहन ...........द्वारा होता है।",
+        "options": {
+            "A": "Osmosis",
+            "B": "Diffusion",
+            "C": "Absorption",
+            "D": "Ascent of sap"
+        },
+        "vikalpa": {
+            "A": "पसररण",
+            "B": "विसरण",
+            "C": "अवशोषण",
+            "D": "रसारोहण"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "question": "Brain is responsible for-",
+        "prashna": "मस्तिष्क उत्तरदायी है-",
+        "options": {
+            "A": "Thinking",
+            "B": "Heart beat",
+            "C": "Body balance",
+            "D": "All"
+        },
+        "vikalpa": {
+            "A": "सोचने के लिए",
+            "B": "हृदय स्पंदन",
+            "C": "शारीरिक संतुलन",
+            "D": "सभी"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "question": "Anther contains-",
+        "prashna": "परागकोश में होता है-",
+        "options": {
+            "A": "Petals",
+            "B": "Spore",
+            "C": "Carpel",
+            "D": "Pollen grains"
+        },
+        "vikalpa": {
+            "A": "पंखुड़ी",
+            "B": "बीजाणु",
+            "C": "अंडप",
+            "D": "परागकण"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "How many teeth does an adult human have?",
+        "prashna": "एक वयस्क मनुष्य के कितने दाँत होते हैं?",
+        "options": {
+            "A": "28",
+            "B": "30",
+            "C": "32",
+            "D": "34"
+        },
+        "vikalpa": {
+            "A": "28",
+            "B": "30",
+            "C": "32",
+            "D": "34"
+        }
+    }
+]

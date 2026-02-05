@@ -1,0 +1,936 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "Which mirror do the dentists use to see large images of the teeth of patients?",
+        "prashna": "दंत विशेषज्ञ किस दर्पण का उपयोग मरीजों के दाँतों का बड़ा प्रतिबिंब देखने के लिए करता है?",
+        "options": {
+            "A": "Plane Mirror",
+            "B": "Concave Mirror",
+            "C": "Convex Mirror",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "समतल दर्पण",
+            "B": "अवतल दर्पण",
+            "C": "उत्तल दर्पण",
+            "D": "इनमें सभी"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "Which lens is also called diverging lens?",
+        "prashna": "कौन सा लेंस अपसारी लेंस भी कहलाता है?",
+        "options": {
+            "A": "Concave lens",
+            "B": "Convex lens",
+            "C": "Both the concave and convex lens",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "अवतल लेंस",
+            "B": "उत्तल लेंस",
+            "C": "अवतल एवं उत्तल लेंस दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "Who controls pupil's size?",
+        "prashna": "पुतली के साइज को कौन नियंत्रित करता है?",
+        "options": {
+            "A": "Ciliary muscles",
+            "B": "Iris",
+            "C": "Eye lens",
+            "D": "Retina"
+        },
+        "vikalpa": {
+            "A": "पक्ष्माभी",
+            "B": "परितारिका",
+            "C": "नेत्र लेंस",
+            "D": "रेटिना (दृष्टि पटल)"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "Which eye defect can be corrected by using 'bi-focal lens' consisting of both concave and convex lens?",
+        "prashna": "किस दृष्टि दोष को अवतल और उत्तल दोनों लेंसों से बने द्विफोकसी लेंस द्वारा संशोधित किया जा सकता है?",
+        "options": {
+            "A": "Myopia",
+            "B": "Hypermetropia",
+            "C": "Presbyopia",
+            "D": "Cataract"
+        },
+        "vikalpa": {
+            "A": "निकट दृष्टि दोष",
+            "B": "दीर्घ-दृष्टि दोष",
+            "C": "जरा - दूर दृष्टिता",
+            "D": "मोतियाबिंद"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "In an experiment, the image of an object formed by a concave mirror is obtained on a screen. To determine the focal length of the mirror, the experimenter needs to measure the distance between the:",
+        "prashna": "एक प्रयोग में अवतल दर्पण द्वारा किसी बिंब का प्रतिबिंब एक पर्दे पर प्राप्त किया जाता है। दर्पण की फोकस दूरी को निर्धारित करने के लिए प्रयोगकर्ता को मापने की जरूरत है -",
+        "options": {
+            "A": "Mirror and Screen",
+            "B": "Mirror and Object",
+            "C": "Both (A) and (B)",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "दर्पण तथा पर्दे के बीच की दूरी को",
+            "B": "दर्पण तथा बिंब के बीच की दूरी को",
+            "C": "(A) और (B) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "Which of the following lenses would you prefer to use while reading small letters found in a dictionary?",
+        "prashna": "शब्दकोष के छोटे अक्षरों को पढ़ने के लिए आप किस लेंस का उपयोग करना पसंद करेंगे?",
+        "options": {
+            "A": "A convex lens of focal length $50 cm$.",
+            "B": "A concave lens of focal length $50 cm$.",
+            "C": "A convex lens of focal length $5 cm$.",
+            "D": "A concave lens of focal length $5 cm$."
+        },
+        "vikalpa": {
+            "A": "$50 cm$ फोकस दूरी का उत्तल लेंस",
+            "B": "$50 cm$ फोकस दूरी का अवतल लेंस",
+            "C": "$5 cm$ फोकस दूरी का उत्तल लेंस",
+            "D": "$5 cm$ फोकस दूरी का अवतल लेंस"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "Which of the following is SI unit of electric potential difference?",
+        "prashna": "निम्नलिखित में से कौन विद्युत विभवान्तर का SI मात्रक है?",
+        "options": {
+            "A": "Volt",
+            "B": "Ohm",
+            "C": "Volt per Coulomb",
+            "D": "Ampere"
+        },
+        "vikalpa": {
+            "A": "वोल्ट",
+            "B": "ओम",
+            "C": "वोल्ट प्रति कूलॉम",
+            "D": "ऐम्पियर"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "At the time of short circuiting, the current in the circuit -",
+        "prashna": "लघुपथन (शॉर्ट सर्किट) के समय परिपथ में विद्युत धारा का मान -",
+        "options": {
+            "A": "Reduces substantially",
+            "B": "Does not change",
+            "C": "Increases heavily",
+            "D": "Varies continuously"
+        },
+        "vikalpa": {
+            "A": "बहुत कम हो जाता है।",
+            "B": "परिवर्तित नहीं होता है।",
+            "C": "बहुत अधिक बढ़ जाता है।",
+            "D": "निरंतर परिवर्तित होता है।"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "A positively - charged particle (alpha - particle) projected towards west is deflected towards north by a magnetic field. The direction of the magnetic field is:",
+        "prashna": "पश्चिम की ओर प्रक्षेपित कोई धनावेशित कण (अल्फा कण) किसी चुंबकीय क्षेत्र द्वारा उत्तर की ओर विक्षेपित हो जाता है। चुंबकीय क्षेत्र की दिशा क्या है?",
+        "options": {
+            "A": "towards south",
+            "B": "towards east",
+            "C": "downward",
+            "D": "upward"
+        },
+        "vikalpa": {
+            "A": "दक्षिण की ओर",
+            "B": "पूर्व की ओर",
+            "C": "अधोमुखी",
+            "D": "उपरिमुखी"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "A rectangular coil of copper wire is being rotated in a magnetic field. The direction of the induced current in the coil changes once in each.",
+        "prashna": "ताँबे के तार की एक आयताकार कुंडली किसी चुंबकीय क्षेत्र में घूर्णी गति कर रही है। इस कुंडली में प्रेरित विद्युत धारा की दिशा में कितने परिभ्रमण के पश्चात् परिवर्तन होता है?",
+        "options": {
+            "A": "two revolutions",
+            "B": "one revaluation",
+            "C": "half revaluation",
+            "D": "one - fourth revolution"
+        },
+        "vikalpa": {
+            "A": "दो",
+            "B": "एक",
+            "C": "आधे",
+            "D": "चौथाई"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "The magnetic field inside a long straight solenoid- carrying current -",
+        "prashna": "किसी विद्युत धारावाही सीधी लंबी परिनालिका के भीतर चुंबकीय क्षेत्र -",
+        "options": {
+            "A": "is zero",
+            "B": "decreases as we move towards its end.",
+            "C": "increases as we move towards its end.",
+            "D": "is the same at all points."
+        },
+        "vikalpa": {
+            "A": "शून्य होता है।",
+            "B": "इसके सिरे की ओर जाने पर घटता है।",
+            "C": "इसके सिरे की ओर जाने पर बढ़ता है।",
+            "D": "सभी बिन्दुओं पर समान होता है।"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "What kind of mirror would be most suited for a solar cooker?",
+        "prashna": "सौर कुकर के लिए कौन सा दर्पण सर्वाधिक उपयुक्त होता है?",
+        "options": {
+            "A": "Plane mirror",
+            "B": "Convex mirror",
+            "C": "Concave mirror",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "समतल दर्पण",
+            "B": "उत्तल दर्पण",
+            "C": "अवतल दर्पण",
+            "D": "इनमें सभी"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "The main aim of 'Chipko Movement' was to conserve -",
+        "prashna": "'चिपको आन्दोलन' का मुख्य उद्देश्य संरक्षित करना था -",
+        "options": {
+            "A": "soil",
+            "B": "trees",
+            "C": "water",
+            "D": "electricity"
+        },
+        "vikalpa": {
+            "A": "मिट्टी को",
+            "B": "वृक्षों को",
+            "C": "जल को",
+            "D": "बिजली को"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "Which of the following solutions is used for white washing walls?",
+        "prashna": "निम्नलिखित में किस विलयन का उपयोग दीवारों की सफेदी करने के लिए किया जाता है?",
+        "options": {
+            "A": "$Ca(HCO_3)_2$",
+            "B": "$Ca(OH)_2$",
+            "C": "$Na(OH)$",
+            "D": "$Na(HCO_3)$"
+        },
+        "vikalpa": {
+            "A": "$Ca(HCO_3)_2$",
+            "B": "$Ca(OH)_2$",
+            "C": "$Na(OH)$",
+            "D": "$Na(HCO_3)$"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "question": "The above chemical equation $Na_2SO_4(aq) + BaCl_2(aq) \\rightarrow BaSO_4(S) + 2 NaCl(aq)$ is -",
+        "prashna": "$Na_2SO_4(aq) + BaCl_2(aq) \\rightarrow BaSO_4(S) + 2 NaCl(aq)$ उपर्युक्त रासायनिक अभिक्रिया है -",
+        "options": {
+            "A": "Combination reaction",
+            "B": "Decomposition reaction",
+            "C": "Double displacement reaction",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "संयोजन अभिक्रिया",
+            "B": "वियोजन अभिक्रिया",
+            "C": "द्वि विस्थापन अभिक्रिया",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "Which one of the following is slaked lime?",
+        "prashna": "निम्नलिखित में से कौन सा बुझा हुआ चूना है?",
+        "options": {
+            "A": "$CaO$",
+            "B": "$Ca(OH)_2$",
+            "C": "$CaCO_3$",
+            "D": "$Ca$"
+        },
+        "vikalpa": {
+            "A": "$CaO$",
+            "B": "$Ca(OH)_2$",
+            "C": "$CaCO_3$",
+            "D": "$Ca$"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "pH of aqueous solution of salt $Na_2CO_3$ is -",
+        "prashna": "लवण $Na_2CO_3$ का जलीय विलयन का pH है -",
+        "options": {
+            "A": "7",
+            "B": "More than 7",
+            "C": "Less than 7",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "7",
+            "B": "7 से अधिक",
+            "C": "7 से कम",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "question": "Of which metal, the 'Bauxite' is an important ore?",
+        "prashna": "बॉक्साइट किस धातु का महत्वपूर्ण अयस्क है?",
+        "options": {
+            "A": "Copper",
+            "B": "Zinc",
+            "C": "Aluminium",
+            "D": "Iron"
+        },
+        "vikalpa": {
+            "A": "ताँबा",
+            "B": "जस्ता",
+            "C": "एल्युमिनियम",
+            "D": "लोहा"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "question": "Of which metal, the thin layer is coated over iron and steel to protect them from rusting?",
+        "prashna": "लोहा एवं इस्पात को जंग से सुरक्षित रखने के लिए उन पर किस धातु की पतली परत चढ़ायी जाती है?",
+        "options": {
+            "A": "Copper",
+            "B": "Silver",
+            "C": "Gold",
+            "D": "Zinc"
+        },
+        "vikalpa": {
+            "A": "ताँबा",
+            "B": "चाँदी",
+            "C": "सोना",
+            "D": "जिंक"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "Which chemical compound on heating becomes 'Plaster of Paris'?",
+        "prashna": "किस रासायनिक यौगिक को गर्म करने पर 'प्लास्टर ऑफ पेरिस' (Plaster of Paris) प्राप्त किया जा सकता है?",
+        "options": {
+            "A": "Bleaching Powder",
+            "B": "Gypsum",
+            "C": "Lime stone",
+            "D": "Quicklime"
+        },
+        "vikalpa": {
+            "A": "विरंजक चूर्ण",
+            "B": "जिप्सम",
+            "C": "चूना पत्थर",
+            "D": "कच्चा चूना"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "question": "The functional group present in propanone is-",
+        "prashna": "प्रोपोनोन में उपस्थित प्रकार्यात्मक समूह है -",
+        "options": {
+            "A": "$-OH$",
+            "B": "$-CHO$",
+            "C": "$>C=O$",
+            "D": "$-COOH$"
+        },
+        "vikalpa": {
+            "A": "$-OH$",
+            "B": "$-CHO$",
+            "C": "$>C=O$",
+            "D": "$-COOH$"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "question": "The IUPAC name of acetic acid is -",
+        "prashna": "ऐसेटिक अम्ल का IUPAC नाम है-",
+        "options": {
+            "A": "ethanoic acid",
+            "B": "methanoic acid",
+            "C": "propanone",
+            "D": "none of these"
+        },
+        "vikalpa": {
+            "A": "एथेनॉइक अम्ल",
+            "B": "मेथेनॉइक अम्ल",
+            "C": "प्रोपेनोन",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "question": "In electrolytic refining, impure metal is taken as:",
+        "prashna": "विद्युत अपघटनी परिष्करण में अशुद्ध धातु को बनाया जाता है -",
+        "options": {
+            "A": "Anode",
+            "B": "Cathode",
+            "C": "Electrolyte",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "एनोड",
+            "B": "कैथोड",
+            "C": "अपघट्य",
+            "D": "इनमें सभी"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "question": "Who established 'Laws of Octaves'?",
+        "prashna": "'अष्टक सिद्धांत' को किसने स्थापित किया?",
+        "options": {
+            "A": "Dobereiner",
+            "B": "Newlands",
+            "C": "Mendeleev",
+            "D": "Henry Mosely"
+        },
+        "vikalpa": {
+            "A": "डॉबेराइनर",
+            "B": "न्यूलैंड्स",
+            "C": "मेण्डेलीफ",
+            "D": "हेनरी मोजले"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "question": "According to 'Modern periodic law' properties of elements are a periodic function of their -",
+        "prashna": "आधुनिक आवर्त नियम के अनुसार, तत्वों का गुण धर्म -",
+        "options": {
+            "A": "Atomic mass",
+            "B": "Atomic number",
+            "C": "Atomic size",
+            "D": "Atomic volume"
+        },
+        "vikalpa": {
+            "A": "परमाणु द्रव्यमान का आवर्त फलन है।",
+            "B": "परमाणु संख्या का आवर्त फलन है।",
+            "C": "परमाणु साइज का आवर्त फलन है।",
+            "D": "परमाणु आयतन का आवर्त फलन है।"
+        }
+    },
+    {
+        "id": "obj_26",
+        "type": "objective",
+        "question": "Which of the following ions can turn red litmus solution blue?",
+        "prashna": "निम्नलिखित में कौन सा आयन लाल लिटमस विलयन को नीला कर सकता है?",
+        "options": {
+            "A": "$H^+$",
+            "B": "$OH^-$",
+            "C": "$Cl^-$",
+            "D": "$O^{2-}$"
+        },
+        "vikalpa": {
+            "A": "$H^+$",
+            "B": "$OH^-$",
+            "C": "$Cl^-$",
+            "D": "$O^{2-}$"
+        }
+    },
+    {
+        "id": "obj_27",
+        "type": "objective",
+        "question": "The Xylem in plants are responsible for -",
+        "prashna": "पादप में जाइलम उत्तरदायी है -",
+        "options": {
+            "A": "transport of water",
+            "B": "transport of food",
+            "C": "transport of amino acids",
+            "D": "transport of Oxygen"
+        },
+        "vikalpa": {
+            "A": "जल का वहन",
+            "B": "भोजन का पाचन",
+            "C": "अमीनो अम्ल का वहन",
+            "D": "ऑक्सीजन का वहन"
+        }
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "question": "Which of the following is known as 'energy currency' of cells?",
+        "prashna": "निम्नलिखित में किसे कोशिका का 'ऊर्जा मुद्रा' के रूप में जाना जाता है?",
+        "options": {
+            "A": "ADP",
+            "B": "ATP",
+            "C": "DTP",
+            "D": "PDP"
+        },
+        "vikalpa": {
+            "A": "ADP",
+            "B": "ATP",
+            "C": "DTP",
+            "D": "PDP"
+        }
+    },
+    {
+        "id": "obj_29",
+        "type": "objective",
+        "question": "Where does the exchange of gases take place in leaves?",
+        "prashna": "पत्तियों में गैसों का आदान-प्रदान कहाँ होता है?",
+        "options": {
+            "A": "vein",
+            "B": "stomata",
+            "C": "mid rib",
+            "D": "none of these"
+        },
+        "vikalpa": {
+            "A": "शिरा",
+            "B": "रंध्र",
+            "C": "मध्यशिरा",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_30",
+        "type": "objective",
+        "question": "The blood is pumped from heart to the entire body by the -",
+        "prashna": "हृदय से रक्त (रूधिर) को सम्पूर्ण शरीर में पंप किया जाता है -",
+        "options": {
+            "A": "lungs",
+            "B": "ventricles",
+            "C": "atria",
+            "D": "all of these"
+        },
+        "vikalpa": {
+            "A": "फेफड़ों द्वारा",
+            "B": "निलय द्वारा",
+            "C": "आलिंदों द्वारा",
+            "D": "इनमें सभी"
+        }
+    },
+    {
+        "id": "obj_31",
+        "type": "objective",
+        "question": "Which plant hormone is responsible for wilting of leaves?",
+        "prashna": "कौन सा पादप हार्मोन पत्तियों के मुरझाने के लिए उत्तरदायी है?",
+        "options": {
+            "A": "auxin",
+            "B": "cytokinin",
+            "C": "abscisic acid",
+            "D": "gibberellin"
+        },
+        "vikalpa": {
+            "A": "ऑक्सीन",
+            "B": "साइटोकाइनिन",
+            "C": "एब्सिसिक अम्ल",
+            "D": "जिब्बेरेलिन"
+        }
+    },
+    {
+        "id": "obj_32",
+        "type": "objective",
+        "question": "Downward growth of root is -",
+        "prashna": "जड़ का अधोगामी वृद्धि है -",
+        "options": {
+            "A": "phototropism",
+            "B": "geotropism",
+            "C": "hydrotropism",
+            "D": "chemotropism"
+        },
+        "vikalpa": {
+            "A": "प्रकाशानुवर्तन",
+            "B": "गुरुत्वानुवर्तन",
+            "C": "जलानुवर्तन",
+            "D": "रसायनानुवर्तन"
+        }
+    },
+    {
+        "id": "obj_33",
+        "type": "objective",
+        "question": "Pons, medulla and cerebellum are parts of -",
+        "prashna": "पॉन्स, मेडुला और अनुमस्तिष्क -",
+        "options": {
+            "A": "forebrain",
+            "B": "mid-brain",
+            "C": "hind brain",
+            "D": "cerebrum"
+        },
+        "vikalpa": {
+            "A": "अग्रमस्तिष्क का हिस्सा है।",
+            "B": "मध्य मस्तिष्क का हिस्सा है।",
+            "C": "पश्च मस्तिष्क का हिस्सा है।",
+            "D": "प्रमस्तिष्क का हिस्सा है।"
+        }
+    },
+    {
+        "id": "obj_34",
+        "type": "objective",
+        "question": "Which of the following is not an involuntary action?",
+        "prashna": "निम्नलिखित कौन सी अनैच्छिक क्रिया नहीं है?",
+        "options": {
+            "A": "Vomiting",
+            "B": "Chewing",
+            "C": "Salivation",
+            "D": "Heart beat"
+        },
+        "vikalpa": {
+            "A": "वमन",
+            "B": "चबाना",
+            "C": "लार आना",
+            "D": "हृदय का धड़कना"
+        }
+    },
+    {
+        "id": "obj_35",
+        "type": "objective",
+        "question": "Asexual reproduction takes place through budding in -",
+        "prashna": "अलैंगिक जनन मुकुलन द्वारा होता है -",
+        "options": {
+            "A": "Amoeba",
+            "B": "Yeast",
+            "C": "Plasmodium",
+            "D": "Leishmania"
+        },
+        "vikalpa": {
+            "A": "अमीबा में",
+            "B": "यीस्ट में",
+            "C": "प्लैज्मोडियम में",
+            "D": "लेस्मानिया में"
+        }
+    },
+    {
+        "id": "obj_36",
+        "type": "objective",
+        "question": "The formation of sperms takes place in -",
+        "prashna": "शुक्राणु का निर्माण होता है -",
+        "options": {
+            "A": "Testes",
+            "B": "Uterus",
+            "C": "Ovary",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "वृषण में",
+            "B": "गर्भाशय में",
+            "C": "अंडाशय में",
+            "D": "इनमें सभी में"
+        }
+    },
+    {
+        "id": "obj_37",
+        "type": "objective",
+        "question": "Which part of a flower becomes fruit?",
+        "prashna": "पुष्प का कौन सा भाग फल बनता है?",
+        "options": {
+            "A": "Anther",
+            "B": "Stigma",
+            "C": "Style",
+            "D": "Ovary"
+        },
+        "vikalpa": {
+            "A": "परागकोश",
+            "B": "वर्तिकाग्र",
+            "C": "वर्तिका",
+            "D": "अंडाशय"
+        }
+    },
+    {
+        "id": "obj_38",
+        "type": "objective",
+        "question": "The perfect pair of sex chromosomes are found in -",
+        "prashna": "लिंग गुण-सूत्र का पूर्ण जोड़ा पाया जाता है -",
+        "options": {
+            "A": "male",
+            "B": "female",
+            "C": "male and female both",
+            "D": "none of these"
+        },
+        "vikalpa": {
+            "A": "पुरूष में",
+            "B": "स्त्री में",
+            "C": "पुरूष और स्त्री दोनों में",
+            "D": "किसी में नहीं"
+        }
+    },
+    {
+        "id": "obj_39",
+        "type": "objective",
+        "question": "How many pairs of Chromosome are found in a normal cell of human body?",
+        "prashna": "मानव शरीर के किसी सामान्य कोशिका में गुणसूत्रों के किनते युग्म होते हैं?",
+        "options": {
+            "A": "21",
+            "B": "22",
+            "C": "23",
+            "D": "46"
+        },
+        "vikalpa": {
+            "A": "21",
+            "B": "22",
+            "C": "23",
+            "D": "46"
+        }
+    },
+    {
+        "id": "obj_40",
+        "type": "objective",
+        "question": "Which of the following groups contains only biodegradable items?",
+        "prashna": "निम्न में से कौन -से समूहों में केवल जैव निम्नीकरणीय पदार्थ हैं -",
+        "options": {
+            "A": "Grass, flowers and leather",
+            "B": "Grass, wood and plastic",
+            "C": "Fruits-peels, cake and rubber",
+            "D": "Cake, wood and grass"
+        },
+        "vikalpa": {
+            "A": "घास, पुष्प तथा चमड़ा",
+            "B": "घास, लकड़ी तथा प्लास्टिक",
+            "C": "फसलों के छिलके, केक एवं रबर",
+            "D": "केक, लकड़ी एवं घास"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "Illustrate the new Cartesian sign convention for reflection by spherical mirrors.",
+        "prashna": "गोलीय दर्पणों द्वारा परावर्तन के लिए नयी कार्तीय चिन्ह परिपाटी दर्शायें।"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "Draw a ray diagram for image of an object placed at centre of curvature of a convex lens. Write the nature, position, and size of the image formed by the lens.",
+        "prashna": "उत्तल लेंस के वक्रता केन्द्र पर रखे बिंब के प्रतिबिंब के लिए एक किरण आरेख खींचें और उस प्रतिबिंब की प्रकृति, आकार (साइज) एवं स्थान को लिखें।"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "Why an ammeter and a voltmeter are connected in an electric circuit in series and in parallel respectively?",
+        "prashna": "ऐमीटर और वोल्टमीटर को विद्युत परिपथ के साथ क्रमश: श्रेणी एवं समांतर क्रम में क्यों जोड़ा जाता है?"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "Answer the following:\n(a) Draw magnetic field lines around a bar magnet.\n(b) A current through a horizontal transmission wire flows in east to west direction. What is the direction of magnetic field at a point directly below it?",
+        "prashna": "उत्तर दें:\n(अ) किसी छड़ चुंबक के चारों ओर चुंबकीय क्षेत्र रेखाएँ खींचिए।\n(ब) किसी क्षैतिज संचरण तार (पावर लाइन) में पूर्व से पश्चिम दिशा की ओर विद्युत धारा प्रवाहित हो रही है, इसके ठीक नीचे के किसी बिन्दु पर चुंबकीय क्षेत्र की दिशा क्या है?",
+        "sub_questions": {
+            "a": "Draw magnetic field lines around a bar magnet.",
+            "b": "A current through a horizontal transmission wire flows in east to west direction. What is the direction of magnetic field at a point directly below it?"
+        },
+        "anuprashna": {
+            "a": "किसी छड़ चुंबक के चारों ओर चुंबकीय क्षेत्र रेखाएँ खींचिए।",
+            "b": "किसी क्षैतिज संचरण तार (पावर लाइन) में पूर्व से पश्चिम दिशा की ओर विद्युत धारा प्रवाहित हो रही है, इसके ठीक नीचे के किसी बिन्दु पर चुंबकीय क्षेत्र की दिशा क्या है?"
+        }
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "Two lamps, one rated $100W$ at $220V$ and the other $60W$ at $220V$, are connected in parallel to electric mains supply. What current is drawn from the main line if the supply voltage is $220V$?",
+        "prashna": "दो विद्युत लैंप जिनमें से एक का अनुमतांक $100W, 220V$ तथा दूसरे का $60W, 220V$ है, विद्युत मेंस के साथ पार्श्वक्रम में संयोजित है। यदि विद्युत आपूर्ति की वोल्टता $220V$ है तो विद्युत मेंस से कितनी धारा ली जाती है?"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "What are the disadvantages of fossil fuels?",
+        "prashna": "जीवाश्मी ईंधन की क्या हानियाँ हैं?"
+    },
+    {
+        "id": "long_1_1",
+        "type": "long_answer",
+        "question": "State types of defects of vision. Write these eye defects and their correction in brief. The far point of a myopic person is $80cm$ in front of the eye. What is the nature and power of the lens required to correct the problem?",
+        "prashna": "दृष्टि दोष के प्रकार लिखें। इन दोषों तथा उनके संशोधन के बारे में संक्षेप में लिखें। किसी निकट दृष्टि से पीड़ित व्यक्ति का दूर बिन्दु नेत्र के सामने $80 cm$ दूरी पर है। इस दोष को संशोधित करने के लिए आवश्यक लेंस की प्रकृति तथा क्षमता क्या होगी?",
+        "sub_questions": {
+            "a": "State types of defects of vision.",
+            "b": "Write these eye defects and their correction in brief.",
+            "c": "The far point of a myopic person is $80cm$ in front of the eye. What is the nature and power of the lens required to correct the problem?"
+        },
+        "anuprashna": {
+            "a": "दृष्टि दोष के प्रकार लिखें।",
+            "b": "इन दोषों तथा उनके संशोधन के बारे में संक्षेप में लिखें।",
+            "c": "किसी निकट दृष्टि से पीड़ित व्यक्ति का दूर बिन्दु नेत्र के सामने $80 cm$ दूरी पर है। इस दोष को संशोधित करने के लिए आवश्यक लेंस की प्रकृति तथा क्षमता क्या होगी?"
+        }
+    },
+    {
+        "id": "long_1_2",
+        "type": "long_answer",
+        "question": "Draw a circuit diagram for studying Ohm's law. State Ohm's law. Draw V-I graph that verifies Ohm's law. State the nature of the V-I graph.",
+        "prashna": "ओम के नियम के अध्ययन के लिए एक विद्युत परिपथ खींचे। ओम का नियम लिखें। ओम के नियम को सत्यापित करने वाले V-I ग्राफ को खींचे और उस ग्राफ की प्रकृति को लिखें।",
+        "sub_questions": {
+            "a": "Draw a circuit diagram for studying Ohm's law.",
+            "b": "State Ohm's law.",
+            "c": "Draw V-I graph that verifies Ohm's law. State the nature of the V-I graph."
+        },
+        "anuprashna": {
+            "a": "ओम के नियम के अध्ययन के लिए एक विद्युत परिपथ खींचे।",
+            "b": "ओम का नियम लिखें।",
+            "c": "ओम के नियम को सत्यापित करने वाले V-I ग्राफ को खींचे और उस ग्राफ की प्रकृति को लिखें।"
+        }
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "What does one mean by exothermic and endothermic reactions? Give examples.",
+        "prashna": "ऊष्माक्षेपी एवं ऊष्माशोषी अभिक्रिया क्या है? उदाहरण दीजिए।"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "What is a neutralisation reaction? Give two examples.",
+        "prashna": "उदासीनीकरण अभिक्रिया क्या है? दो उदाहरण दीजिए।"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "Give reasons:\n(a) Sodium, Potassium and Lithium are stored under oil.\n(b) Aluminium is a highly reactive metal. Yet it is used to make utensils for cooking.",
+        "prashna": "कारण बताइए -\n(अ) सोडियम, पोटेशियम एवं लीथियम तेल के अंदर संग्रहीत किया जाता है।\n(ब) ऐल्युमिनियम अत्यंत अभिक्रियाशील धातु है, फिर भी इसका उपयोग खाना बनाने वाले बर्तन बनाने के लिए किया जाता है।",
+        "sub_questions": {
+            "a": "Sodium, Potassium and Lithium are stored under oil.",
+            "b": "Aluminium is a highly reactive metal. Yet it is used to make utensils for cooking."
+        },
+        "anuprashna": {
+            "a": "सोडियम, पोटेशियम एवं लीथियम तेल के अंदर संग्रहीत किया जाता है।",
+            "b": "ऐल्युमिनियम अत्यंत अभिक्रियाशील धातु है, फिर भी इसका उपयोग खाना बनाने वाले बर्तन बनाने के लिए किया जाता है।"
+        }
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "Draw the electron dot structure for - (a) $H_2S$, (b) $F_2$",
+        "prashna": "इलेक्ट्रॉन बिंदु संरचना बनाइए: (a) $H_2S$, (b) $F_2$",
+        "sub_questions": {
+            "a": "$H_2S$",
+            "b": "$F_2$"
+        },
+        "anuprashna": {
+            "a": "$H_2S$",
+            "b": "$F_2$"
+        }
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "Why is the conversion of ethanol to ethanoic acid an oxidation reaction?",
+        "prashna": "एथनॉल से एथेनॉइक अम्ल में परिवर्तन को ऑक्सीकरण अभिक्रिया क्यों कहते हैं?"
+    },
+    {
+        "id": "short_12",
+        "type": "short_answer",
+        "question": "Write the electronic configuration of Nitrogen (atomic number 7) and Phosphorus (atomic number 15). Which of these will be more electronegative?",
+        "prashna": "नाइट्रोजन (परमाणु संख्या 7) तथा फॉस्फोरस (परमाणु संख्या 15) का इलेक्ट्रॉनिक विन्यास लिखें। इनमें से कौन सा तत्व अधिक विद्युत ऋणात्मक होगा?"
+    },
+    {
+        "id": "long_2_1",
+        "type": "long_answer",
+        "question": "Draw the structure for the following compounds:\n(i) Bromopropane\n(ii) Propanal\n(iii) Propene\n(iv) Benzene\n(v) Hexane",
+        "prashna": "निम्नलिखित यौगिकों की संरचनाएँ चित्रित कीजिए।\n(i) ब्रोमोप्रोपेन\n(ii) प्रोपेनैल\n(iii) प्रोपीन\n(iv) बेन्जीन\n(v) हेक्सेन",
+        "sub_questions": {
+            "i": "Bromopropane",
+            "ii": "Propanal",
+            "iii": "Propene",
+            "iv": "Benzene",
+            "v": "Hexane"
+        },
+        "anuprashna": {
+            "i": "ब्रोमोप्रोपेन",
+            "ii": "प्रोपेनैल",
+            "iii": "प्रोपीन",
+            "iv": "बेन्जीन",
+            "v": "हेक्सेन"
+        }
+    },
+    {
+        "id": "long_2_2",
+        "type": "long_answer",
+        "question": "What are the following reactions?\n(i) Combination reaction\n(ii) Decomposition reaction\n(iii) Displacement reaction\n(iv) Double displacement reaction",
+        "prashna": "निम्नलिखित अभिक्रियाएँ क्या है?\n(i) संयोजन अभिक्रिया\n(ii) वियोजन अभिक्रिया\n(iii) विस्थापन अभिक्रिया\n(iv) द्विविस्थापन अभिक्रिया",
+        "sub_questions": {
+            "i": "Combination reaction",
+            "ii": "Decomposition reaction",
+            "iii": "Displacement reaction",
+            "iv": "Double displacement reaction"
+        },
+        "anuprashna": {
+            "i": "संयोजन अभिक्रिया",
+            "ii": "वियोजन अभिक्रिया",
+            "iii": "विस्थापन अभिक्रिया",
+            "iv": "द्विविस्थापन अभिक्रिया"
+        }
+    },
+    {
+        "id": "short_13",
+        "type": "short_answer",
+        "question": "What are the differences between aerobic and anaerobic respiration? Name some organisms that use the anaerobic mode of respiration.",
+        "prashna": "वायवीय तथा अवायवीय श्वसन में क्या अंतर है? कुछ जीवों के नाम लिखिए जिसमें अवायवीय श्वसन होता है।"
+    },
+    {
+        "id": "short_14",
+        "type": "short_answer",
+        "question": "Why does the nervous tissue act?",
+        "prashna": "तंत्रिका उत्तक कैसे क्रिया करता है?"
+    },
+    {
+        "id": "short_15",
+        "type": "short_answer",
+        "question": "Why does menstruation occur?",
+        "prashna": "ऋतुस्राव क्यों होता है?"
+    },
+    {
+        "id": "short_16",
+        "type": "short_answer",
+        "question": "What is the difference in mode of reproduction between unicellular and multicellular organisms?",
+        "prashna": "एक -कोशिक एवं बहुकोशिक जीवों की जनन पद्धति में क्या अंतर है?"
+    },
+    {
+        "id": "short_17",
+        "type": "short_answer",
+        "question": "What are trophic levels? Give an example of a food chain.",
+        "prashna": "पोषी स्तर क्या है? एक आहार श्रृंखला का उदाहरण दीजिए।"
+    },
+    {
+        "id": "short_18",
+        "type": "short_answer",
+        "question": "Why should we conserve forests and wildlife?",
+        "prashna": "हमें वन एवं वन्य जीवन का संरक्षण क्यों करना चाहिए?"
+    },
+    {
+        "id": "long_3_1",
+        "type": "long_answer",
+        "question": "Explain the modes of reproduction in single organism.",
+        "prashna": "एकल जीवों में प्रजनन की विधि की व्याख्या करें।"
+    },
+    {
+        "id": "long_3_2",
+        "type": "long_answer",
+        "question": "Draw labelled diagram of male reproductive system and explain its functions.",
+        "prashna": "नर जनन तंत्र का नामांकित चित्र बनाएँ एवं उसके कार्यों का वर्णन करें।"
+    }
+]
