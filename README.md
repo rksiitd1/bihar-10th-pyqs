@@ -45,7 +45,7 @@ The pipeline supports the following subjects with official Bihar Board chapter m
 ## 🛠️ Scripts & Usage
 
 ### 1. Extraction
-- `process_paper.py`: Core engine using Gemini 2.5 Pro to extract structured JSON from PDFs.
+- `process_paper.py`: Core engine using Gemini to extract structured JSON from PDFs.
 - `batch_processing_{subject}.py`: Automates extraction for multiple years of a specific subject.
 
 ### 2. Annotation
@@ -56,6 +56,43 @@ The pipeline supports the following subjects with official Bihar Board chapter m
 - `split_{subject}_by_chapter.py`: Splits the data into individual chapter files.
 - `split_{subject}_by_type.py`: Groups questions into Objective, Short Answer, and Long Answer categories.
 - `split_{subject}_types_by_chapters.py`: Provides the most granular organization (e.g., all "Short Answer" questions for "Real Numbers").
+
+---
+
+## ⚡ Parallel Processing
+
+All batch processing scripts now support **parallel execution** using Python's `ThreadPoolExecutor` for significantly faster processing.
+
+### Features:
+- **4 concurrent workers** by default (configurable via `MAX_WORKERS`)
+- **Thread-safe console output** for clean progress tracking
+- **Automatic skip** for already processed files
+- **Comprehensive summary** with success/failure counts and timing stats
+
+### Example Output:
+```
+============================================================
+📚 Processing 4 papers with 4 parallel workers
+============================================================
+
+🚀 Starting: sci_2022ii.pdf
+🚀 Starting: sci_2021i.pdf
+🚀 Starting: sci_2014i.pdf
+🚀 Starting: sci_2011i.pdf
+✅ Completed: sci_2011i.pdf
+⏱️  Time for sci_2011i.pdf: 62.44s (1.04min)
+✅ Completed: sci_2014i.pdf
+⏱️  Time for sci_2014i.pdf: 120.41s (2.01min)
+...
+
+============================================================
+📊 SUMMARY
+============================================================
+✅ Successful: 4
+❌ Failed: 0
+⏱️  Total time: 158.08s (2.63min)
+📈 Average time per paper: 120.23s
+```
 
 ---
 
@@ -85,7 +122,9 @@ GOOGLE_API_KEY=your_google_api_key
 ## 📝 Status
 - ✅ Project Structure Initialized
 - ✅ Folder structure created for 6 subjects
-- ✅ Core Extraction Logic (Gemini 2.5 Pro)
+- ✅ Core Extraction Logic (Gemini)
 - ✅ Batch Processing Scripts for all subjects
+- ✅ **Parallel Processing** with 4 concurrent workers
 - ✅ NCERT Class 10 Chapter Mappings for all subjects
 - ✅ Annotation, Merge, and Split Pipeline Scripts
+- ✅ Science data extraction complete (26 PDFs → 26 JSONs)

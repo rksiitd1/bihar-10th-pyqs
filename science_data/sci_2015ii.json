@@ -1,0 +1,474 @@
+[
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "What is refraction of light? Write its laws.",
+        "prashna": "प्रकाश का अपवर्तन क्या है? इसके नियम लिखें।"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "What is electric current? Write its equation and unit.",
+        "prashna": "विद्युत धारा क्या है? इसका समीकरण एवं मात्रक लिखें।"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "What is dispersion of light? Explain with a diagram.",
+        "prashna": "प्रकाश का वर्ण विक्षेपण क्या है? सचित्र स्पष्ट करें।"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "Differentiate between alternating current and direct current.",
+        "prashna": "प्रत्यावर्ती धारा एवं दिष्ट धारा में अंतर स्पष्ट करें।"
+    },
+    {
+        "id": "long_1_1",
+        "type": "long_answer",
+        "question": "Find the value of electric current ($I$).",
+        "prashna": "विद्युत धारा ($I$) का मान ज्ञात करें।"
+    },
+    {
+        "id": "long_1_2",
+        "type": "long_answer",
+        "question": "Prove $R = 2f$ for a concave mirror.",
+        "prashna": "अवतल दर्पण में $R = 2f$ सिद्ध करें।"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "Aluminium is a highly reactive metal, yet why is it used for making cooking utensils?",
+        "prashna": "एल्युमिनियम अत्यंत क्रियाशील धातु है, फिर भी इसका उपयोग खाना बनाने वाला वरतन बनाने में क्यों करते हैं?"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "What is isomerism? Give an example.",
+        "prashna": "समावयवता किसे कहते हैं? एक उदाहरण दें।"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "State the difference between soap and detergent.",
+        "prashna": "साबुन एवं अपमार्जक में अंतर बताइए।"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "Write the method of preparation and uses of bleaching powder.",
+        "prashna": "ब्लीचिंग पाउडर बनाने की विधि एवं उपयोगिता लिखें।"
+    },
+    {
+        "id": "long_2_1",
+        "type": "long_answer",
+        "question": "Write the chemical equations for the reactions of ethanoic acid with the following:",
+        "prashna": "इथेनोइक अम्ल का निम्नलिखित के साथ होने वाली अभिक्रियाओं का रासायनिक समीकरण लिखें।",
+        "sub_questions": {
+            "A": "Sodium",
+            "B": "Sodium carbonate",
+            "C": "Sodium bicarbonate"
+        },
+        "anuprashna": {
+            "A": "सोडियम",
+            "B": "सोडियम कार्बोनेट",
+            "C": "सोडियम बाइकार्बोनेट"
+        }
+    },
+    {
+        "id": "long_2_2",
+        "type": "long_answer",
+        "question": "Write the name and formula of a major ore of iron. How is this ore concentrated?",
+        "prashna": "लोहा के एक प्रमुख अयस्क का नाम एवं सूत्र लिखें। इस अयस्क का सांद्रण कैसे होता है?"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "Write two differences between xylem and phloem.",
+        "prashna": "जाइलम और फ्लोएम में दो अंतर लिखें।"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "What are the functions of producers in an ecosystem?",
+        "prashna": "पारिस्थितिक तंत्र में उत्पादकों के क्या कार्य हैं?"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "What is the importance of transpiration for plants?",
+        "prashna": "वाष्पोत्सर्जन क्रिया का पौधों के लिए क्या महत्व है?"
+    },
+    {
+        "id": "short_12",
+        "type": "short_answer",
+        "question": "Write the difference between anaerobic respiration and aerobic respiration.",
+        "prashna": "अवायवीय श्वसन एवं वायवीय श्वसन में अंतर लिखें।"
+    },
+    {
+        "id": "long_3",
+        "type": "long_answer",
+        "question": "Draw a labeled diagram of the kidney and describe it.",
+        "prashna": "वृक्क का नामांकित चित्र बनाकर वर्णन करें।"
+    },
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "At the time of short circuit, the value of electric current in the circuit will be:",
+        "prashna": "लघुपथन के समय परिपथ में विद्युत धारा का मान होगा:",
+        "options": {
+            "A": "Very high",
+            "B": "Very low",
+            "C": "3 Ampere",
+            "D": "4 Ampere"
+        },
+        "vikalpa": {
+            "A": "बहुत अधिक",
+            "B": "बहुत कम",
+            "C": "3 एम्पीयर",
+            "D": "4 एम्पीयर"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "How many laws of reflection of light are there?",
+        "prashna": "प्रकाश के परावर्तन के कितने नियम है?",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "vikalpa": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "If a current of $2A$ flows through a bulb at $220 V$, then the resistance of the filament will be:",
+        "prashna": "किसी बल्ब से $220 V$ पर $2A$ की धारा प्रवाहित होती है, तो फिलामेंट का प्रतिरोध होगा:",
+        "options": {
+            "A": "55 $\\Omega$",
+            "B": "110 $\\Omega$",
+            "C": "220 $\\Omega$",
+            "D": "440 $\\Omega$"
+        },
+        "vikalpa": {
+            "A": "55 $\\Omega$",
+            "B": "110 $\\Omega$",
+            "C": "220 $\\Omega$",
+            "D": "440 $\\Omega$"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "The value of the refractive index of a medium is:",
+        "prashna": "किसी माध्यम के अपवर्तनांक का मान होता है:",
+        "options": {
+            "A": "$\\sin i / \\sin r$",
+            "B": "$\\sin r / \\sin i$",
+            "C": "$\\sin i \\times \\sin r$",
+            "D": "$\\sin i + \\sin r$"
+        },
+        "vikalpa": {
+            "A": "$\\sin i / \\sin r$",
+            "B": "$\\sin r / \\sin i$",
+            "C": "$\\sin i \\times \\sin r$",
+            "D": "$\\sin i + \\sin r$"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "$1 \\text{ kWh}$ is equal to:",
+        "prashna": "$1 \\text{ kWh}$ तुल्य है:",
+        "options": {
+            "A": "$3600 \\text{ J}$",
+            "B": "$3.6 \\times 10^6 \\text{ J}$",
+            "C": "$36 \\times 10^6 \\text{ J}$",
+            "D": "$36.00 \\text{ J}$"
+        },
+        "vikalpa": {
+            "A": "$3600 \\text{ J}$ का",
+            "B": "$3.6 \\times 10^6 \\text{ J}$ का",
+            "C": "$36 \\times 10^6 \\text{ J}$ का",
+            "D": "$36.00 \\text{ J}$ का"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "The image formed by a plane mirror is:",
+        "prashna": "समतल दर्पण द्वारा बना प्रतिबिंब होता है:",
+        "options": {
+            "A": "Real",
+            "B": "Virtual",
+            "C": "Both (A) and (B)",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "वास्तविक",
+            "B": "काल्पनिक",
+            "C": "(A) और (B) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "The SI unit of potential difference is:",
+        "prashna": "विभवांतर का SI मात्रक होता है:",
+        "options": {
+            "A": "Watt",
+            "B": "Ampere",
+            "C": "Volt",
+            "D": "Ohm"
+        },
+        "vikalpa": {
+            "A": "वाट",
+            "B": "एम्पीयर",
+            "C": "वोल्ट",
+            "D": "ओम"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "The molecular formula of sodium carbonate is:",
+        "prashna": "सोडियम कार्बोनेट का अणुसूत्र है:",
+        "options": {
+            "A": "$Na_2CO_3$",
+            "B": "$NaHCO_3$",
+            "C": "$Na_2CO_2$",
+            "D": "$NaCl$"
+        },
+        "vikalpa": {
+            "A": "$Na_2CO_3$",
+            "B": "$NaHCO_3$",
+            "C": "$Na_2CO_2$",
+            "D": "$NaCl$"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "The carbonyl group is indicated by:",
+        "prashna": "कार्बोनिल समूह को सूचित किया जाता है:",
+        "options": {
+            "A": "$-CHO$",
+            "B": "$-COOH$",
+            "C": "$-CO$",
+            "D": "$-COCl_2$"
+        },
+        "vikalpa": {
+            "A": "$-CHO$ द्वारा",
+            "B": "$-COOH$ द्वारा",
+            "C": "$-CO$ द्वारा",
+            "D": "$-COCl_2$ द्वारा"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "The molecular formula of ethyl alcohol is:",
+        "prashna": "इथाइल अल्कोहल का अणुसूत्र होता है:",
+        "options": {
+            "A": "$CH_3OH$",
+            "B": "$C_2H_5OH$",
+            "C": "$C_2H_6OH$",
+            "D": "$C_2H_4OH$"
+        },
+        "vikalpa": {
+            "A": "$CH_3OH$",
+            "B": "$C_2H_5OH$",
+            "C": "$C_2H_6OH$",
+            "D": "$C_2H_4OH$"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "Which of the following is an ionic compound?",
+        "prashna": "निम्न में से कौन आयनिक यौगिक है?",
+        "options": {
+            "A": "$CH_4$",
+            "B": "$CO_2$",
+            "C": "$CaCl_2$",
+            "D": "$NH_3$"
+        },
+        "vikalpa": {
+            "A": "$CH_4$",
+            "B": "$CO_2$",
+            "C": "$CaCl_2$",
+            "D": "$NH_3$"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "The element of the zero group in the periodic table is:",
+        "prashna": "आवर्त सारणी के शून्य समूह का तत्त्व है:",
+        "options": {
+            "A": "$H$",
+            "B": "$He$",
+            "C": "$CO_2$",
+            "D": "$Cl_2$"
+        },
+        "vikalpa": {
+            "A": "$H$",
+            "B": "$He$",
+            "C": "$CO_2$",
+            "D": "$Cl_2$"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "How many covalent bonds are there in methane?",
+        "prashna": "मिथेन में कितने सह-संयोजक बंधन होते हैं?",
+        "options": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "8"
+        },
+        "vikalpa": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "8"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "Which of the following is not a reducing agent?",
+        "prashna": "निम्न में से कौन अकारक नहीं है?",
+        "options": {
+            "A": "$H_2$",
+            "B": "$CO$",
+            "C": "$O_2$",
+            "D": "$H_2S$"
+        },
+        "vikalpa": {
+            "A": "$H_2$",
+            "B": "$CO$",
+            "C": "$O_2$",
+            "D": "$H_2S$"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "question": "In which type of respiration is ethyl alcohol formed?",
+        "prashna": "इथाइल अल्कोहल किस प्रकार के श्वसन में बनता है?",
+        "options": {
+            "A": "Aerobic",
+            "B": "Anaerobic",
+            "C": "Both (A) and (B)",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "वायवीय",
+            "B": "अवायवीय",
+            "C": "(A) और (B) दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "In which of the following does asexual reproduction occur by budding?",
+        "prashna": "किसमें अलैंगिक जनन मुकुलन द्वारा होता है?",
+        "options": {
+            "A": "Yeast",
+            "B": "Plasmodium",
+            "C": "Amoeba",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "यीस्ट",
+            "B": "प्लाज्मोडियम",
+            "C": "अमीबा",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "The ozone layer is found in:",
+        "prashna": "ओजोन परत पायी जाती है।",
+        "options": {
+            "A": "Stratosphere",
+            "B": "Exosphere",
+            "C": "Ionosphere",
+            "D": "Troposphere"
+        },
+        "vikalpa": {
+            "A": "स्रेटोस्फियर में",
+            "B": "एक्सोस्फियर में",
+            "C": "आयनोस्फियर में",
+            "D": "ट्रोपोस्फियर में"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "question": "What is found in the anther?",
+        "prashna": "परागकोश में पाया जाता है.",
+        "options": {
+            "A": "Petals",
+            "B": "Pollen grains",
+            "C": "Stigma",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "दलपुंज",
+            "B": "परागकण",
+            "C": "स्टिग्मा",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "question": "Goitre develops due to:",
+        "prashna": "ग्वाइटर अथवा घेघा पनपता है",
+        "options": {
+            "A": "Deficiency of sugar",
+            "B": "Deficiency of iodine",
+            "C": "Deficiency of blood",
+            "D": "Obesity"
+        },
+        "vikalpa": {
+            "A": "चीनी की कमी से",
+            "B": "आयोडीन की कमी से",
+            "C": "रक्त की कमी से",
+            "D": "मोटापा से"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "Who wrote the book named 'The Origin of Species'?",
+        "prashna": "'The Origin of Species' नामक पुस्तक किसने लिखी?",
+        "options": {
+            "A": "Darwin",
+            "B": "Oparin",
+            "C": "Lamarck",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "डार्विन",
+            "B": "ओपेरिन",
+            "C": "लेमार्क",
+            "D": "इनमें से कोई नहीं"
+        }
+    }
+]
