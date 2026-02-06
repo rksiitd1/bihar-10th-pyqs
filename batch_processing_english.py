@@ -41,7 +41,7 @@ def process_single_paper(input_pdf: pathlib.Path, output_json: pathlib.Path) -> 
 
 def main():
     # Configuration
-    MAX_WORKERS = 4  # Number of parallel requests (adjust based on API limits)
+    MAX_WORKERS = 1  # Number of parallel requests (adjust based on API limits)
     
     # List of years to process (2011-2025)
     years = list(range(2025, 2010, -1))  # 2025 to 2011

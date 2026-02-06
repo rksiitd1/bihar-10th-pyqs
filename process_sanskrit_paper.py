@@ -94,7 +94,7 @@ def process_question_paper(input_pdf_path: str, output_json_path: str):
     logger.info("Generating content...")
     print("Generating content...")
     prompt_parts = generate_extraction_prompt(uploaded_file.uri)
-    model = utils.get_generative_model(model_name="models/gemini-2.0-flash")
+    model = utils.get_generative_model(model_name="models/gemini-3-flash-preview")
     
     response = utils.generate_content_with_retry(model, prompt_parts, logger=logger)
 

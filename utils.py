@@ -52,41 +52,30 @@ def setup_logger(name, log_file, level=logging.INFO):
 
 API_KEYS = [
     os.environ.get('GOOGLE_API_KEY'),
-    os.environ.get('GOOGLE_API_KEY1'),
-    os.environ.get('GOOGLE_API_KEY2'),
-    os.environ.get('GOOGLE_API_KEY3'),
 ]
 API_KEYS = [k for k in API_KEYS if k]  # Filter out None values
 
 current_key_index = 0
 
 def configure_genai():
-    """Configures the Gemini API with the current key."""
+    """Configures the Gemini API with the primary key."""
     if not API_KEYS:
-        raise ValueError("No Gemini API keys found. Please set GOOGLE_API_KEY environment variables.")
-    genai.configure(api_key=API_KEYS[current_key_index])
+        raise ValueError("No Gemini API key found. Please set GOOGLE_API_KEY environment variable.")
+    genai.configure(api_key=API_KEYS[0])
 
 def rotate_api_key(logger=None):
-    """Rotates to the next available API key."""
-    global current_key_index
-    if not API_KEYS:
-        msg = "No API keys available to rotate."
-        if logger: logger.error(msg)
-        else: print(msg)
-        return
-
-    current_key_index = (current_key_index + 1) % len(API_KEYS)
-    new_key = API_KEYS[current_key_index]
-    genai.configure(api_key=new_key)
-    
-    msg = f"🔄 Rotated to API Key #{current_key_index + 1}"
+    """
+    Automatic rotation disabled per user request.
+    Manual key management is expected.
+    """
+    msg = "🚫 Automatic API rotation is disabled."
     if logger:
         logger.warning(msg)
     else:
         print(msg)
-    return new_key
+    return API_KEYS[0]
 
-def get_generative_model(model_name="models/gemini-2.0-flash"):
+def get_generative_model(model_name="models/gemini-3-flash-preview"):
     """Returns a configured GenerativeModel instance."""
     # Ensure configured
     configure_genai()
@@ -95,6 +84,7 @@ def get_generative_model(model_name="models/gemini-2.0-flash"):
 def generate_content_with_retry(model, prompt_parts, logger=None, max_retries=5):
     """
     Generates content using the provided model with retry logic for rate limits and errors.
+    Automatic key rotation is disabled.
     
     Args:
         model: The Google GenAI model instance.
@@ -117,23 +107,22 @@ def generate_content_with_retry(model, prompt_parts, logger=None, max_retries=5)
             if logger: logger.warning(msg)
             else: print(msg)
             
-            # Check for resource exhaustion / rate limits
+            # Use exponential backoff for all errors (including 429)
+            wait_time = (5 ** attempt) + random.uniform(2, 5) # Increased wait for 429 if no rotation
+            
             if "429" in error_str or "Resource has been exhausted" in error_str:
-                rotate_api_key(logger)
-                time.sleep(2)
+                msg = f"⏳ Rate limit reached. Retrying in {wait_time:.1f}s (manual rotation or wait required)..."
             else:
-                # Exponential backoff for other errors
-                wait_time = (2 ** attempt) + random.uniform(1, 3)
-                msg = f"⏳ Retrying in {wait_time:.1f}s..."
-                if logger: logger.info(msg)
-                else: print(msg)
-                time.sleep(wait_time)
+                msg = f"⏳ Error occurred. Retrying in {wait_time:.1f}s..."
+                
+            if logger: logger.info(msg)
+            else: print(msg)
+            time.sleep(wait_time)
                 
     if not response:
         msg = "❌ All retries failed."
         if logger: logger.error(msg)
         else: print(msg)
-        # raise Exception("Max retries exceeded for API call") # Optional: raise or return None
         return None
     
     return response

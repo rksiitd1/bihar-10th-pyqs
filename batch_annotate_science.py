@@ -62,7 +62,7 @@ def main():
         return
     
     chapters = SCIENCE_CHAPTERS
-    model = utils.get_generative_model(model_name="models/gemini-2.0-flash")
+    model = utils.get_generative_model(model_name="models/gemini-3-flash-preview")
     
     for fpath in files:
         out_path = out_folder / fpath.name
