@@ -1,5 +1,5 @@
 import time
-from process_paper import process_question_paper
+from process_sanskrit_paper import process_question_paper
 import pathlib
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import threading
