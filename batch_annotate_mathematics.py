@@ -126,7 +126,11 @@ def main():
     MAX_WORKERS = 20
     
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        futures = [executor.submit(process_single_file, f, out_folder, raw_folder, chapters, model, logger) for f in files]
+        futures = []
+        for f in files:
+            futures.append(executor.submit(process_single_file, f, out_folder, raw_folder, chapters, model, logger))
+            time.sleep(1)
+            
         for future in as_completed(futures):
             future.result()
 
