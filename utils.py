@@ -130,8 +130,45 @@ def generate_content_with_retry(model, prompt_parts, logger=None, max_retries=5)
 # --- Data Processing ---
 
 def clean_json_response(raw_text: str) -> str:
-    """Extracts JSON content from a string, handling markdown code blocks."""
+    """Extracts JSON content from a string, handling markdown code blocks and repairing common issues."""
     match = re.search(r'```json\s*([\s\S]*?)\s*```', raw_text, re.DOTALL)
     if match:
-        return match.group(1).strip()
-    return raw_text.strip()
+        text = match.group(1).strip()
+    else:
+        text = raw_text.strip()
+    
+    # --- Repair Logic ---
+    
+    # 1. Fix unescaped backslashes (common in LaTeX outputs)
+    # We escape backslashes that are NOT part of a valid JSON escape.
+    # Replace all \ with \\, then restore valid escapes if they were doubled.
+    text = text.replace('\\', '\\\\')
+    text = text.replace('\\\\\\\\', '\\\\') # Restore double backslashes if they were already there
+    
+    # 2. Fix trailing commas in objects and arrays
+    text = re.sub(r',\s*}', '}', text)
+    text = re.sub(r',\s*]', ']', text)
+    
+    # 3. Fix missing commas between objects or elements
+    text = re.sub(r'}\s*{', '}, {', text)
+    text = re.sub(r']\s*\[', '], [', text)
+    
+    # 4. Fallback: If there's still extra text, try to isolate the array or object
+    if not (text.startswith('[') or text.startswith('{')):
+        start_array = text.find('[')
+        start_obj = text.find('{')
+        
+        # Determine the earliest starting point
+        if start_array != -1 and (start_obj == -1 or start_array < start_obj):
+            start = start_array
+            end = text.rfind(']')
+        elif start_obj != -1:
+            start = start_obj
+            end = text.rfind('}')
+        else:
+            start = -1
+            
+        if start != -1 and end != -1 and end > start:
+            text = text[start:end+1]
+    
+    return text
