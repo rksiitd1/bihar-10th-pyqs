@@ -1,16 +1,7 @@
-import os
-import google.generativeai as genai
 import json
 import pathlib
 import textwrap
-import re
-from dotenv import load_dotenv
-
-def clean_json_response(raw_text: str) -> str:
-    match = re.search(r'```json\s*([\s\S]*?)\s*```', raw_text, re.DOTALL)
-    if match:
-        return match.group(1).strip()
-    return raw_text.strip()
+import utils
 
 # Bihar Board Class 10 Sanskrit Syllabus (Piyusham)
 SANSKRIT_CHAPTERS = [
@@ -90,46 +81,56 @@ def generate_sanskrit_annotation_prompt(chapters, questions):
     return prompt
 
 def main():
+    logger = utils.setup_logger('batch_annotate_sanskrit', 'logs/batch_annotate_sanskrit.log')
+    logger.info("Batch Sanskrit Question Annotator (Gemini)")
     print("Batch Sanskrit Question Annotator (Gemini)")
     print("="*40)
+    
     data_folder = pathlib.Path("sanskrit_data")
     out_folder = pathlib.Path("sanskrit_data_annotated")
     out_folder.mkdir(exist_ok=True)
+    
     files = list(data_folder.glob("*.json"))
     if not files:
-        print(f"No JSON files found in sanskrit_data/!")
+        logger.warning(f"No JSON files found in sanskrit_data/!")
         return
+        
     chapters = SANSKRIT_CHAPTERS
-    model = genai.GenerativeModel(model_name="models/gemini-2.5-pro")
-    
+    model = utils.get_generative_model(model_name="models/gemini-2.5-pro")
+
     for fpath in files:
         out_path = out_folder / fpath.name
         if out_path.exists():
             print(f"⏭️  Skipping {fpath.name} (already annotated)")
             continue
             
-        print(f"\nProcessing: {fpath.name}")
-        with open(fpath, 'r', encoding='utf-8') as f:
-            questions = json.load(f)
+        logger.info(f"Processing: {fpath.name}")
+        print(f"Processing: {fpath.name}")
         
+        try:
+            with open(fpath, 'r', encoding='utf-8') as f:
+                questions = json.load(f)
+        except Exception as e:
+            logger.error(f"Failed to read input file {fpath.name}: {e}")
+            continue
+            
         prompt = generate_sanskrit_annotation_prompt(chapters, questions)
-        print("Sending questions to Gemini for annotation...")
+        logger.info("Sending questions to Gemini for annotation...")
         
-        # Adding retry logic for robustness
-        retries = 3
-        while retries > 0:
-            try:
-                response = model.generate_content(prompt)
-                print("Gemini response received. Parsing...")
-                cleaned_json_string = clean_json_response(response.text)
-                annotated = json.loads(cleaned_json_string)
-                break
-            except Exception as e:
-                print(f"Error: {e}. Retrying... ({retries} left)")
-                retries -= 1
-                if retries == 0:
-                    print(f"❌ Failed to annotate {fpath.name}")
-                    annotated = None
+        response = utils.generate_content_with_retry(model, prompt, logger=logger)
+        
+        if not response:
+            logger.error(f"Failed to annotate {fpath.name}")
+            continue
+
+        print("Gemini response received. Parsing...")
+        try:
+            cleaned_json_string = utils.clean_json_response(response.text)
+            annotated = json.loads(cleaned_json_string)
+        except Exception as e:
+            logger.error(f"Failed to parse Gemini's response for {fpath.name}.")
+            logger.error(f"Error details: {e}")
+            continue
 
         if annotated:
             # Reorder fields
@@ -144,12 +145,8 @@ def main():
             
             with open(out_path, 'w', encoding='utf-8') as f:
                 json.dump(annotated, f, indent=4, ensure_ascii=False)
+            logger.info(f"Annotated data saved to: {out_path}")
             print(f"✓ Annotated data saved to: {out_path}")
 
 if __name__ == "__main__":
-    load_dotenv()
-    GOOGLE_API_KEY = os.environ.get('GOOGLE_API_KEY')
-    if not GOOGLE_API_KEY:
-        raise ValueError("Gemini API key not found. Please set the GOOGLE_API_KEY environment variable.")
-    genai.configure(api_key=GOOGLE_API_KEY)
     main()

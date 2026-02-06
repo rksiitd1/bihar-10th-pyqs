@@ -1,31 +1,19 @@
 ﻿import os
-import google.generativeai as genai
 import json
 import argparse
 import pathlib
 import textwrap
-import re
 import time
 from dotenv import load_dotenv
+import utils
 
 # --- Configuration ---
 load_dotenv()
 
-GOOGLE_API_KEY = os.environ.get('GOOGLE_API_KEY')
-
-if not GOOGLE_API_KEY:
-    raise ValueError("Gemini API key not found. Please set the GOOGLE_API_KEY environment variable.")
-
-genai.configure(api_key=GOOGLE_API_KEY)
+# Setup logger
+logger = utils.setup_logger('process_paper', 'logs/process_paper.log')
 
 # --- Core Functions ---
-
-def clean_json_response(raw_text: str) -> str:
-    match = re.search(r'```json\s*([\s\S]*?)\s*```', raw_text, re.DOTALL)
-    if match:
-        return match.group(1).strip()
-    return raw_text.strip()
-
 
 def generate_extraction_prompt(uploaded_file_uri: str) -> list:
     prompt = textwrap.dedent("""
@@ -71,51 +59,92 @@ def generate_extraction_prompt(uploaded_file_uri: str) -> list:
 
 def process_question_paper(input_pdf_path: str, output_json_path: str):
     start_time = time.time()
-    print(f"Starting processing for: {input_pdf_path}")
+    logger.info(f"Starting processing for: {input_pdf_path}")
+    print(f"Starting processing for: {input_pdf_path}") # Keep minimal console feedback
+    
     input_path = pathlib.Path(input_pdf_path)
 
     if not input_path.exists():
+        logger.error(f"Input file not found at: {input_pdf_path}")
         raise FileNotFoundError(f"Input file not found at: {input_pdf_path}")
 
-    print("Uploading file to the File API...")
-    uploaded_file = genai.upload_file(path=input_path, display_name=input_path.name)
-    print(f"File uploaded successfully: {uploaded_file.uri}")
+    # Prepare raw output folder
+    output_path = pathlib.Path(output_json_path)
+    output_parent = output_path.parent
+    raw_folder_name = output_parent.name + "_raw"
+    raw_folder = output_parent.parent / raw_folder_name
+    raw_folder.mkdir(exist_ok=True)
+    
+    # Initialize API
+    import google.generativeai as genai # local import to avoid potential circular issues if moved to utils mostly
+    utils.configure_genai()
+
+    logger.info("Uploading file to the File API...")
+    try:
+        uploaded_file = genai.upload_file(path=input_path, display_name=input_path.name)
+        logger.info(f"File uploaded successfully: {uploaded_file.uri}")
+    except Exception as e:
+        logger.error(f"Failed to upload file: {e}")
+        raise
 
     prompt_parts = generate_extraction_prompt(uploaded_file.uri)
 
-    print("Generating content with Gemini... (This may take a moment)")
-    model = genai.GenerativeModel(model_name="models/gemini-3-flash-preview")
-    response = model.generate_content(prompt_parts)
+    logger.info("Generating content with Gemini...")
+    model = utils.get_generative_model(model_name="models/gemini-1.5-flash")
+    
+    response = utils.generate_content_with_retry(model, prompt_parts, logger=logger)
+                
+    if not response:
+        logger.error("Skipping this file due to API failure.")
+        try:
+            genai.delete_file(uploaded_file.name)
+        except:
+            pass
+        raise Exception("API call failed after retries")
 
-    print("Cleaning and parsing the JSON response...")
+    # Save raw response IMMEDIATELY
+    raw_path = raw_folder / f"{input_path.stem}_raw.txt"
+    with open(raw_path, 'w', encoding='utf-8') as f:
+        f.write(response.text)
+    logger.info(f"Raw API response saved to: {raw_path}")
+
+    logger.info("Cleaning and parsing the JSON response...")
     try:
-        cleaned_json_string = clean_json_response(response.text)
+        cleaned_json_string = utils.clean_json_response(response.text)
         data = json.loads(cleaned_json_string)
     except json.JSONDecodeError as e:
-        print(f"\n--- ERROR: Failed to decode JSON. ---")
-        print(f"Error details: {e}")
-        print("\n--- Raw Model Response: ---")
-        print(response.text)
+        logger.error(f"Failed to decode JSON: {e}")
+        logger.error(f"Raw response is preserved in: {raw_path}")
+        try:
+            genai.delete_file(uploaded_file.name)
+        except:
+            pass
         return
     except Exception as e:
-        print(f"An unexpected error occurred: {e}")
-        print(response.text)
+        logger.error(f"An unexpected error occurred: {e}")
+        try:
+            genai.delete_file(uploaded_file.name)
+        except:
+            pass
         return
 
-    output_path = pathlib.Path(output_json_path)
-    print(f"Writing structured data to: {output_path}")
+    logger.info(f"Writing structured data to: {output_path}")
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
 
-    print("\nProcessing complete!")
+    logger.info("Processing complete!")
+    print(f"✅ Processed {input_path.name}") 
     
-    print(f"Deleting file {uploaded_file.name} from the API...")
-    genai.delete_file(uploaded_file.name)
-    print("File deleted.")
+    try:
+        logger.info(f"Deleting file {uploaded_file.name} from the API...")
+        genai.delete_file(uploaded_file.name)
+        logger.info("File deleted.")
+    except Exception as e:
+        logger.warning(f"Could not delete file: {e}")
     
     end_time = time.time()
     execution_time = end_time - start_time
-    print(f"\n Time: {execution_time:.2f} seconds ({execution_time/60:.2f} minutes)")
+    logger.info(f"Time: {execution_time:.2f} seconds ({execution_time/60:.2f} minutes)")
 
 
 # --- Interactive Interface ---
@@ -207,3 +236,4 @@ if __name__ == "__main__":
         print(f" Output saved to: {json_path}")
     except Exception as e:
         print(f"\nAn error occurred during execution: {e}")
+        logger.exception("An error occurred during execution")
