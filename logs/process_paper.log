@@ -813,3 +813,154 @@ Please retry in 59.38174023s. [links {
 }
 ]
 2026-02-07 00:34:00,409 - INFO - ⏳ Rate limit reached. Retrying in 627.2s (manual rotation or wait required)...
+2026-02-07 00:39:44,806 - INFO - Starting processing for: social_science_papers\soc_2017i.pdf
+2026-02-07 00:39:44,809 - INFO - Starting processing for: social_science_papers\soc_2016ii.pdf
+2026-02-07 00:39:44,810 - INFO - Starting processing for: social_science_papers\soc_2015i.pdf
+2026-02-07 00:39:44,810 - INFO - Starting processing for: social_science_papers\soc_2015ii.pdf
+2026-02-07 00:39:44,812 - INFO - Uploading file to the File API...
+2026-02-07 00:39:44,813 - INFO - Uploading file to the File API...
+2026-02-07 00:39:44,813 - INFO - Uploading file to the File API...
+2026-02-07 00:39:44,813 - INFO - Uploading file to the File API...
+2026-02-07 00:39:52,083 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/9fv9igqg1gr1
+2026-02-07 00:39:52,084 - INFO - Generating content with Gemini...
+2026-02-07 00:39:52,821 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/of4khnsvgwm7
+2026-02-07 00:39:52,821 - INFO - Generating content with Gemini...
+2026-02-07 00:39:53,350 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/xi2lygb11gb6
+2026-02-07 00:39:53,351 - INFO - Generating content with Gemini...
+2026-02-07 00:39:54,318 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/xavje3hcumby
+2026-02-07 00:39:54,320 - INFO - Generating content with Gemini...
+2026-02-07 00:40:29,115 - INFO - Raw API response saved to: social_science_data_raw\soc_2015ii_raw.txt
+2026-02-07 00:40:29,117 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:40:29,118 - INFO - Writing structured data to: social_science_data\soc_2015ii.json
+2026-02-07 00:40:29,121 - INFO - Processing complete!
+2026-02-07 00:40:29,124 - INFO - Deleting file files/9fv9igqg1gr1 from the API...
+2026-02-07 00:40:30,390 - INFO - Raw API response saved to: social_science_data_raw\soc_2016ii_raw.txt
+2026-02-07 00:40:30,392 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:40:30,393 - INFO - Writing structured data to: social_science_data\soc_2016ii.json
+2026-02-07 00:40:30,395 - INFO - Processing complete!
+2026-02-07 00:40:30,396 - INFO - Deleting file files/of4khnsvgwm7 from the API...
+2026-02-07 00:40:31,965 - INFO - File deleted.
+2026-02-07 00:40:31,970 - INFO - Time: 47.16 seconds (0.79 minutes)
+2026-02-07 00:40:31,979 - INFO - Starting processing for: social_science_papers\soc_2014i.pdf
+2026-02-07 00:40:31,982 - INFO - Uploading file to the File API...
+2026-02-07 00:40:32,263 - INFO - File deleted.
+2026-02-07 00:40:32,265 - INFO - Time: 47.45 seconds (0.79 minutes)
+2026-02-07 00:40:32,267 - INFO - Starting processing for: social_science_papers\soc_2014ii.pdf
+2026-02-07 00:40:32,269 - INFO - Uploading file to the File API...
+2026-02-07 00:40:37,309 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/m0ggivmw1ckp
+2026-02-07 00:40:37,310 - INFO - Generating content with Gemini...
+2026-02-07 00:40:38,260 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/r8tvy5lugm59
+2026-02-07 00:40:38,262 - INFO - Generating content with Gemini...
+2026-02-07 00:40:38,344 - INFO - Raw API response saved to: social_science_data_raw\soc_2015i_raw.txt
+2026-02-07 00:40:38,344 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:40:38,345 - INFO - Writing structured data to: social_science_data\soc_2015i.json
+2026-02-07 00:40:38,369 - INFO - Processing complete!
+2026-02-07 00:40:38,372 - INFO - Deleting file files/xi2lygb11gb6 from the API...
+2026-02-07 00:40:38,887 - WARNING - ⚠️ Attempt 1/5 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-3-flash
+Please retry in 20.890366897s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 20
+}
+]
+2026-02-07 00:40:38,887 - INFO - ⏳ Rate limit reached. Retrying in 4.2s (manual rotation or wait required)...
+2026-02-07 00:40:41,393 - INFO - File deleted.
+2026-02-07 00:40:41,393 - INFO - Time: 56.58 seconds (0.94 minutes)
+2026-02-07 00:40:41,396 - INFO - Starting processing for: social_science_papers\soc_2013i.pdf
+2026-02-07 00:40:41,397 - INFO - Uploading file to the File API...
+2026-02-07 00:40:43,224 - WARNING - ⚠️ Attempt 2/5 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-3-flash
+Please retry in 16.555544452s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 16
+}
+]
+2026-02-07 00:40:43,225 - INFO - ⏳ Rate limit reached. Retrying in 8.2s (manual rotation or wait required)...
+2026-02-07 00:40:47,989 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/9v3dtfddlv6n
+2026-02-07 00:40:47,989 - INFO - Generating content with Gemini...
+2026-02-07 00:40:48,376 - WARNING - ⚠️ Attempt 1/5 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-3-flash
+Please retry in 11.41608654s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 11
+}
+]
+2026-02-07 00:40:48,376 - INFO - ⏳ Rate limit reached. Retrying in 4.2s (manual rotation or wait required)...
+2026-02-07 00:40:51,635 - WARNING - ⚠️ Attempt 3/5 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-3-flash
+Please retry in 8.146562426s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 8
+}
+]
+2026-02-07 00:40:51,637 - INFO - ⏳ Rate limit reached. Retrying in 27.4s (manual rotation or wait required)...
+2026-02-07 00:41:03,338 - INFO - Raw API response saved to: social_science_data_raw\soc_2017i_raw.txt
+2026-02-07 00:41:03,338 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:41:03,338 - INFO - Writing structured data to: social_science_data\soc_2017i.json
+2026-02-07 00:41:03,341 - INFO - Processing complete!
+2026-02-07 00:41:03,342 - INFO - Deleting file files/xavje3hcumby from the API...
+2026-02-07 00:41:05,294 - INFO - File deleted.
+2026-02-07 00:41:05,295 - INFO - Time: 80.49 seconds (1.34 minutes)
+2026-02-07 00:41:05,296 - INFO - Starting processing for: social_science_papers\soc_2012i.pdf
+2026-02-07 00:41:05,297 - INFO - Uploading file to the File API...
+2026-02-07 00:41:11,808 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/jtgvjeywke0g
+2026-02-07 00:41:11,809 - INFO - Generating content with Gemini...
+2026-02-07 00:41:16,679 - INFO - Raw API response saved to: social_science_data_raw\soc_2014i_raw.txt
+2026-02-07 00:41:16,681 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:41:16,683 - INFO - Writing structured data to: social_science_data\soc_2014i.json
+2026-02-07 00:41:16,683 - INFO - Processing complete!
+2026-02-07 00:41:16,684 - INFO - Deleting file files/m0ggivmw1ckp from the API...
+2026-02-07 00:41:19,460 - INFO - File deleted.
+2026-02-07 00:41:19,460 - INFO - Time: 47.48 seconds (0.79 minutes)
+2026-02-07 00:41:19,462 - INFO - Starting processing for: social_science_papers\soc_2011i.pdf
+2026-02-07 00:41:19,464 - INFO - Uploading file to the File API...
+2026-02-07 00:41:25,988 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/zbgeah3p1mpn
+2026-02-07 00:41:25,988 - INFO - Generating content with Gemini...
+2026-02-07 00:41:33,929 - INFO - Raw API response saved to: social_science_data_raw\soc_2013i_raw.txt
+2026-02-07 00:41:33,930 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:41:33,931 - INFO - Writing structured data to: social_science_data\soc_2013i.json
+2026-02-07 00:41:33,932 - INFO - Processing complete!
+2026-02-07 00:41:33,933 - INFO - Deleting file files/9v3dtfddlv6n from the API...
+2026-02-07 00:41:35,869 - INFO - File deleted.
+2026-02-07 00:41:35,869 - INFO - Time: 54.47 seconds (0.91 minutes)
+2026-02-07 00:42:01,904 - INFO - Raw API response saved to: social_science_data_raw\soc_2012i_raw.txt
+2026-02-07 00:42:01,907 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:42:01,909 - INFO - Writing structured data to: social_science_data\soc_2012i.json
+2026-02-07 00:42:01,910 - INFO - Processing complete!
+2026-02-07 00:42:01,910 - INFO - Deleting file files/jtgvjeywke0g from the API...
+2026-02-07 00:42:03,346 - INFO - Raw API response saved to: social_science_data_raw\soc_2014ii_raw.txt
+2026-02-07 00:42:03,348 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:42:03,349 - INFO - Writing structured data to: social_science_data\soc_2014ii.json
+2026-02-07 00:42:03,350 - INFO - Processing complete!
+2026-02-07 00:42:03,350 - INFO - Deleting file files/r8tvy5lugm59 from the API...
+2026-02-07 00:42:04,238 - INFO - File deleted.
+2026-02-07 00:42:04,240 - INFO - Time: 58.94 seconds (0.98 minutes)
+2026-02-07 00:42:05,629 - INFO - File deleted.
+2026-02-07 00:42:05,629 - INFO - Time: 93.36 seconds (1.56 minutes)
+2026-02-07 00:42:15,252 - INFO - Raw API response saved to: social_science_data_raw\soc_2011i_raw.txt
+2026-02-07 00:42:15,255 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:42:15,255 - INFO - Writing structured data to: social_science_data\soc_2011i.json
+2026-02-07 00:42:15,255 - INFO - Processing complete!
+2026-02-07 00:42:15,259 - INFO - Deleting file files/zbgeah3p1mpn from the API...
+2026-02-07 00:42:17,245 - INFO - File deleted.
+2026-02-07 00:42:17,245 - INFO - Time: 57.78 seconds (0.96 minutes)

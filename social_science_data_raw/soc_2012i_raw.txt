@@ -1,0 +1,414 @@
+```json
+[
+  {
+    "id": "obj_1",
+    "type": "objective",
+    "question": "Where is the temple of Angkor Wat located?",
+    "prashna": "अंकोरवाट का मंदिर कहाँ स्थित है ?",
+    "options": {
+      "A": "Vietnam",
+      "B": "Laos",
+      "C": "Cambodia",
+      "D": "Thailand"
+    },
+    "vikalpa": {
+      "A": "वियतनाम",
+      "B": "लाओस",
+      "C": "कम्बोडिया",
+      "D": "थाईलैंड"
+    }
+  },
+  {
+    "id": "obj_2",
+    "type": "objective",
+    "question": "When was the Rashtriya Swayamsevak Sangh (RSS) established?",
+    "prashna": "राष्ट्रीय स्वयंसेवक संघ की स्थापना कब हुई ?",
+    "options": {
+      "A": "1923",
+      "B": "1925",
+      "C": "1928",
+      "D": "1930"
+    },
+    "vikalpa": {
+      "A": "1923",
+      "B": "1925",
+      "C": "1928",
+      "D": "1930"
+    }
+  },
+  {
+    "id": "obj_3",
+    "type": "objective",
+    "question": "When did the Bolshevik Revolution take place?",
+    "prashna": "बोल्शेविक क्रांति कब हुई ?",
+    "options": {
+      "A": "January, 1905",
+      "B": "February, 1917",
+      "C": "November, 1917",
+      "D": "May, 1919"
+    },
+    "vikalpa": {
+      "A": "जनवरी, 1905",
+      "B": "फरवरी, 1917",
+      "C": "नवम्बर, 1917",
+      "D": "मई, 1919"
+    }
+  },
+  {
+    "id": "long_1_1",
+    "type": "long_answer",
+    "question": "Mention the contributions of Mahatma Gandhi in the Indian National Movement.",
+    "prashna": "भारतीय राष्ट्रीय आंदोलन में महात्मा गाँधी के योगदानों का उल्लेख करें।"
+  },
+  {
+    "id": "long_1_2",
+    "type": "long_answer",
+    "question": "Throw light on the changes occurring as a result of industrialization.",
+    "prashna": "औद्योगीकरण के परिणामस्वरूप होने वाले परिवर्तनों पर प्रकाश डालें।"
+  },
+  {
+    "id": "short_1",
+    "type": "short_answer",
+    "question": "When was the All India National Congress established? Mention its two main objectives.",
+    "prashna": "अखिल भारतीय राष्ट्रीय काँग्रेस की स्थापना कब हुई? इसके दो मुख्य उद्देश्यों का उल्लेख करें।"
+  },
+  {
+    "id": "short_2",
+    "type": "short_answer",
+    "question": "Describe any three characteristics of the Indian Press.",
+    "prashna": "भारतीय प्रेस की किन्हीं तीन विशेषताओं का वर्णन करें।"
+  },
+  {
+    "id": "short_3",
+    "type": "short_answer",
+    "question": "Mention any two causes of the economic crisis of 1929.",
+    "prashna": "सन् 1929 के आर्थिक संकट के किन्हीं दो कारणों का उल्लेख करें।"
+  },
+  {
+    "id": "short_4",
+    "type": "short_answer",
+    "question": "Give a brief description of Bismarck's role in the unification of Germany.",
+    "prashna": "जर्मनी के एकीकरण में बिस्मार्क की भूमिका का संक्षिप्त विवरण दें।"
+  },
+  {
+    "id": "short_5",
+    "type": "short_answer",
+    "question": "When was the Industrial Commission appointed? What were its objectives?",
+    "prashna": "औद्योगिक आयोग की नियुक्ति कब हुई? इसके क्या उद्देश्य थे ?"
+  },
+  {
+    "id": "short_6",
+    "type": "short_answer",
+    "question": "What are the two main bases of rural and urban systems in the economic and administrative context?",
+    "prashna": "आर्थिक तथा प्रशासनिक संदर्भ में ग्रामीण तथा नगरीय व्यवस्था के दो प्रमुख आधार क्या है?"
+  },
+  {
+    "id": "obj_4",
+    "type": "objective",
+    "question": "What was the population of Bihar in the year 2001?",
+    "prashna": "सन् 2001 में बिहार की जनसंख्या निम्न में से क्या थी?",
+    "options": {
+      "A": "Less than 8 crore",
+      "B": "Less than 9 crore",
+      "C": "More than 8 crore",
+      "D": "More than 9 crore"
+    },
+    "vikalpa": {
+      "A": "आठ करोड़ से कम",
+      "B": "नौ करोड़ से कम",
+      "C": "आठ करोड़ से अधिक",
+      "D": "नौ करोड़ से अधिक"
+    }
+  },
+  {
+    "id": "obj_5",
+    "type": "objective",
+    "question": "Which of the following is the main cause of land degradation in Punjab?",
+    "prashna": "पंजाब की भूमि निम्नीकरण की मुख्य कारण निम्न में से कौन है?",
+    "options": {
+      "A": "Deforestation",
+      "B": "Intensive cultivation",
+      "C": "Overgrazing",
+      "D": "Excessive irrigation"
+    },
+    "vikalpa": {
+      "A": "वनोन्मूलन",
+      "B": "गहन खेती",
+      "C": "अति पशुचारण",
+      "D": "अधिक सिंचाई"
+    }
+  },
+  {
+    "id": "obj_6",
+    "type": "objective",
+    "question": "Which state stands first in terms of the length of paved roads?",
+    "prashna": "पक्की सड़कों की लम्बाई की दृष्टि से प्रथम स्थान पर कौन राज्य है ?",
+    "options": {
+      "A": "Bihar",
+      "B": "Maharashtra",
+      "C": "Tamil Nadu",
+      "D": "Kerala"
+    },
+    "vikalpa": {
+      "A": "बिहार",
+      "B": "महाराष्ट्र",
+      "C": "तमिलनाडु",
+      "D": "केरल"
+    }
+  },
+  {
+    "id": "obj_7",
+    "type": "objective",
+    "question": "Which of the following is a Kharif crop?",
+    "prashna": "निम्नलिखित में खरीफ फसल कौन है?",
+    "options": {
+      "A": "Wheat",
+      "B": "Mustard",
+      "C": "Rice",
+      "D": "Pea"
+    },
+    "vikalpa": {
+      "A": "गेहूँ",
+      "B": "सरसों",
+      "C": "चावल",
+      "D": "मटर"
+    }
+  },
+  {
+    "id": "short_7",
+    "type": "short_answer",
+    "question": "Mention the suitable geographical conditions for rice crop.",
+    "prashna": "चावल की फसल के लिए उपयुक्त भौगोलिक दशाओं का उल्लेख करें।"
+  },
+  {
+    "id": "short_8",
+    "type": "short_answer",
+    "question": "Write the three main factors for the localization of industries.",
+    "prashna": "उद्योगों के स्थानीयकरण के तीन मुख्य कारकों को लिखें।"
+  },
+  {
+    "id": "short_9",
+    "type": "short_answer",
+    "question": "Distinguish between Khadar and Bangar soil.",
+    "prashna": "खादर और बांगर मिट्टी में अंतर स्पष्ट करें।"
+  },
+  {
+    "id": "short_10",
+    "type": "short_answer",
+    "question": "Throw light on the use of Manganese.",
+    "prashna": "मैंगनीज के उपयोग पर प्रकाश डालें।"
+  },
+  {
+    "id": "short_11",
+    "type": "short_answer",
+    "question": "What do you understand by contour lines?",
+    "prashna": "समोच्च रेखा से आप क्या समझते हैं?"
+  },
+  {
+    "id": "short_12",
+    "type": "short_answer",
+    "question": "Explain: \"The population of Bihar is not uniform everywhere.\"",
+    "prashna": "\"बिहार की जनसंख्या सभी जगह एकसमान नहीं है।\" स्पष्ट करें।"
+  },
+  {
+    "id": "short_13",
+    "type": "short_answer",
+    "question": "Describe the characteristics of Indian Railway transport.",
+    "prashna": "भारतीय रेल परिवहन की विशेषताओं का वर्णन करें।"
+  },
+  {
+    "id": "obj_8",
+    "type": "objective",
+    "question": "Which of the following is not a feature of a federal state?",
+    "prashna": "संघ राज्य की विशेषता नहीं है",
+    "options": {
+      "A": "Written constitution",
+      "B": "Division of powers",
+      "C": "Unitary governance system",
+      "D": "Supreme Court"
+    },
+    "vikalpa": {
+      "A": "लिखित संविधान",
+      "B": "शक्तियों का विभाजन",
+      "C": "एकहरी शासन व्यवस्था",
+      "D": "सर्वोच्च न्यायालय"
+    }
+  },
+  {
+    "id": "obj_9",
+    "type": "objective",
+    "question": "What was the participation of women in the Lok Sabha prior to the $15^{th}$ Lok Sabha elections?",
+    "prashna": "$15$वीं लोकसभा चुनाव से पूर्व लोकसभा में महिलाओं की भागीदारी थी",
+    "options": {
+      "A": "$10$ percent",
+      "B": "$5$ percent",
+      "C": "$33$ percent",
+      "D": "$50$ percent"
+    },
+    "vikalpa": {
+      "A": "$10$ प्रतिशत",
+      "B": "$5$ प्रतिशत",
+      "C": "$33$ प्रतिशत",
+      "D": "$50$ प्रतिशत"
+    }
+  },
+  {
+    "id": "short_14",
+    "type": "short_answer",
+    "question": "Write three functions of the Zila Parishad.",
+    "prashna": "जिला परिषद् के तीन कार्य लिखें।"
+  },
+  {
+    "id": "long_2_1",
+    "type": "long_answer",
+    "question": "How do political parties share power?",
+    "prashna": "राजनीतिक दल किस तरह सत्ता में साझेदारी करते हैं?"
+  },
+  {
+    "id": "long_2_2",
+    "type": "long_answer",
+    "question": "Describe the functions and powers of Gram Panchayat.",
+    "prashna": "ग्राम पंचायत के कार्यों एवं शक्तियों का वर्णन करें।"
+  },
+  {
+    "id": "short_15",
+    "type": "short_answer",
+    "question": "What were the main objectives of the 'Right to Information Movement'?",
+    "prashna": "'सूचना के अधिकार आंदोलन' के मुख्य उद्देश्य क्या थे?"
+  },
+  {
+    "id": "short_16",
+    "type": "short_answer",
+    "question": "What is Language Policy?",
+    "prashna": "भाषा नीति क्या है?"
+  },
+  {
+    "id": "short_17",
+    "type": "short_answer",
+    "question": "Mention various aspects of life where women in India face discrimination or are in a weak position.",
+    "prashna": "जीवन के विभिन्न पहलुओं का जिक्र करें जिनमें भारत में स्त्रियों के साथ भेद-भाव है या वे कमजोर स्थिति में हैं।"
+  },
+  {
+    "id": "short_18",
+    "type": "short_answer",
+    "question": "Briefly write two main challenges of political parties.",
+    "prashna": "राजनीतिक दलों की दो प्रमुख चुनौतियों को संक्षेप में लिखें।"
+  },
+  {
+    "id": "obj_10",
+    "type": "objective",
+    "question": "When did the cooperative movement start in India?",
+    "prashna": "भारत में सहकारिता आन्दोलन का प्रारंभ कब हुआ ?",
+    "options": {
+      "A": "1904",
+      "B": "1905",
+      "C": "1907",
+      "D": "1920"
+    },
+    "vikalpa": {
+      "A": "1904",
+      "B": "1905",
+      "C": "1907",
+      "D": "1920"
+    }
+  },
+  {
+    "id": "obj_11",
+    "type": "objective",
+    "question": "The economic system of India is:",
+    "prashna": "भारत की आर्थिक व्यवस्था है।",
+    "options": {
+      "A": "Socialist",
+      "B": "Capitalist",
+      "C": "Mixed",
+      "D": "None of these"
+    },
+    "vikalpa": {
+      "A": "समाजवादी",
+      "B": "पूँजीवादी",
+      "C": "मिश्रित",
+      "D": "इनमें से कोई नहीं"
+    }
+  },
+  {
+    "id": "short_19",
+    "type": "short_answer",
+    "question": "What do you understand by privatization?",
+    "prashna": "निजीकरण से आप क्या समझते हैं?"
+  },
+  {
+    "id": "long_3_1",
+    "type": "long_answer",
+    "question": "What is economic development? Tell the difference between economic development and economic growth.",
+    "prashna": "आर्थिक विकास क्या है? आर्थिक विकास तथा आर्थिक वृद्धि में अंतर बताइए।"
+  },
+  {
+    "id": "long_3_2",
+    "type": "long_answer",
+    "question": "Describe the difficulties of the Barter system.",
+    "prashna": "वस्तु विनिमय प्रणाली की कठिनाइयों का वर्णन करें।"
+  },
+  {
+    "id": "short_20",
+    "type": "short_answer",
+    "question": "What do you understand by Self Help Groups (SHG)?",
+    "prashna": "स्वयं सहायता समूह से आप क्या समझते हैं?"
+  },
+  {
+    "id": "short_21",
+    "type": "short_answer",
+    "question": "Write the functions of money.",
+    "prashna": "मुद्रा के कार्य लिखें।"
+  },
+  {
+    "id": "short_22",
+    "type": "short_answer",
+    "question": "Write the expanded form of the following-",
+    "prashna": "निम्न का विस्तारित रूप लिखें-",
+    "sub_questions": {
+      "A": "RBI",
+      "B": "GNP"
+    },
+    "anuprashna": {
+      "A": "आर०बी०आई०",
+      "B": "जी० एन०पी०"
+    }
+  },
+  {
+    "id": "short_23",
+    "type": "short_answer",
+    "question": "What is ATM?",
+    "prashna": "ए०टी० एभ० क्या है ?"
+  },
+  {
+    "id": "obj_12",
+    "type": "objective",
+    "question": "In case of burns by fire on the human body, what primary treatment should be given at the burned spot?",
+    "prashna": "मानव शरीर में आग से जलने की स्थिति में जले हुए स्थान पर क्या प्राथमिक उपचार करना चाहिए?",
+    "options": {
+      "A": "Pouring cold water",
+      "B": "Pouring hot water",
+      "C": "Taking to hospital",
+      "D": "None of these"
+    },
+    "vikalpa": {
+      "A": "ठंडा पानी डालना",
+      "B": "गर्म पानी डालना",
+      "C": "अस्पताल पहुँचाना",
+      "D": "इनमें से कोई नहीं"
+    }
+  },
+  {
+    "id": "short_24",
+    "type": "short_answer",
+    "question": "What do you understand by disaster?",
+    "prashna": "आपदा से आप क्या समझते हैं?"
+  },
+  {
+    "id": "short_25",
+    "type": "short_answer",
+    "question": "Throw light on the use of Ham Radio.",
+    "prashna": "हैम रेडियो के उपयोग पर प्रकाश डालिए।"
+  }
+]
+```

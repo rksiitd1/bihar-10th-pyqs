@@ -1,0 +1,302 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "Who created the German Rhine state?",
+        "prashna": "जर्मन राइन राज्य का निर्माण किसने किया था?",
+        "options": {
+            "A": "Louis XVIII",
+            "B": "Napoleon Bonaparte",
+            "C": "Napoleon III",
+            "D": "Bismarck"
+        },
+        "vikalpa": {
+            "A": "लुई 18वाँ",
+            "B": "नेपोलियन बोनापार्ट",
+            "C": "नेपोलियन III",
+            "D": "बिस्मार्क"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "When did the Rampa rebellion occur?",
+        "prashna": "रम्पा विद्रोह कब हुआ?",
+        "options": {
+            "A": "$1916$",
+            "B": "$1917$",
+            "C": "$1918$",
+            "D": "$1919$"
+        },
+        "vikalpa": {
+            "A": "$1916$",
+            "B": "$1917$",
+            "C": "$1918$",
+            "D": "$1919$"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "Discuss the works of Garibaldi.",
+        "prashna": "गैरीबाल्डी के कार्यों की चर्चा करें।"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "How was Communism a new economic and social system?",
+        "prashna": "साम्यवाद एक नई आर्थिक और सामाजिक व्यवस्था थी। कैसे?"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "Briefly explain the causes of the economic crisis of $1929$.",
+        "prashna": "$1929$ के आर्थिक संकट के कारणों को संक्षेप में स्पष्ट करें।"
+    },
+    {
+        "id": "long_1_1",
+        "type": "long_answer",
+        "question": "Describe the causes and effects of the Non-Cooperation Movement.",
+        "prashna": "असहयोग आन्दोलन के कारणों एवं प्रभावों का वर्णन करें।"
+    },
+    {
+        "id": "long_1_2",
+        "type": "long_answer",
+        "question": "Discuss the causes and results of the rise of nationalism.",
+        "prashna": "राष्ट्रवाद के उदय के कारणों एवं परिणामों की चर्चा करें।"
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "Who called the dams of the country the 'Temple of India'?",
+        "prashna": "देश के बाँधों को किसने 'भारत का मंदिर' कहा था?",
+        "options": {
+            "A": "Mahatma Gandhi",
+            "B": "Dr. Rajendra Prasad",
+            "C": "Pandit Nehru",
+            "D": "Swami Vivekananda"
+        },
+        "vikalpa": {
+            "A": "महात्मा गाँधी",
+            "B": "डॉ० राजेन्द्र प्रसाद",
+            "C": "पंडित नेहरू",
+            "D": "स्वामी विवेकानन्द"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "In which district is Kanwar Lake located?",
+        "prashna": "काँवर झील किस जिला में स्थित है?",
+        "options": {
+            "A": "In Darbhanga district",
+            "B": "In Bhagalpur district",
+            "C": "In Begusarai district",
+            "D": "In Muzaffarpur district"
+        },
+        "vikalpa": {
+            "A": "दरभंगा जिला में",
+            "B": "भागलपुर जिला में",
+            "C": "बेगूसराय जिला में",
+            "D": "मुजफ्फरपुर जिला में"
+        }
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "Mention four major factors for the decline of wildlife.",
+        "prashna": "वन्य जीवों के ह्रास के चार प्रमुख कारकों का उल्लेख करें।"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "Write the problems related to the development of canals in Bihar.",
+        "prashna": "बिहार के नहरों के विकास से संबंधित समस्याओं को लिखिए।"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "Write the main features of air transport.",
+        "prashna": "वायु परिवहन की प्रमुख विशेषताओं को लिखें।"
+    },
+    {
+        "id": "long_2",
+        "type": "long_answer",
+        "question": "Describe the main geographical conditions for the production of wheat and mention the wheat-producing areas of India.",
+        "prashna": "गेहूँ के उत्पादन के लिए मुख्य भौगोलिक दशाओं का वर्णन करते हुए भारत के गेहूँ उत्पादक क्षेत्रों का उल्लेख करें।"
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "\"Democracy is government of the people, by the people, and for the people.\" Whose statement is this?",
+        "prashna": "\"लोकतंत्र जनता का, जनता द्वारा, जनता के लिए शासन है।\" यह कथन किसका है?",
+        "options": {
+            "A": "George Washington",
+            "B": "Abraham Lincoln",
+            "C": "Aristotle",
+            "D": "Lord Bryce"
+        },
+        "vikalpa": {
+            "A": "जॉर्ज वाशिंगटन",
+            "B": "अब्राहम लिंकन",
+            "C": "अरस्तू",
+            "D": "लॉर्ड ब्राइस"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "Who among the following led the 'Sampurna Kranti' (Total Revolution) in Bihar?",
+        "prashna": "बिहार में संपूर्ण क्रांति का नेतृत्व निम्नलिखित में से किसने किया?",
+        "options": {
+            "A": "Morarji Desai",
+            "B": "Nitish Kumar",
+            "C": "Indira Gandhi",
+            "D": "Jayaprakash Narayan"
+        },
+        "vikalpa": {
+            "A": "मोरारजी देसाई",
+            "B": "नीतीश कुमार",
+            "C": "इन्दिरा गाँधी",
+            "D": "जयप्रकाश नारायण"
+        }
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "Explain the meaning of a federal state.",
+        "prashna": "संघ राज्य का अर्थ बताइए।"
+    },
+    {
+        "id": "long_3_1",
+        "type": "long_answer",
+        "question": "Why is a political party called the 'soul of democracy'?",
+        "prashna": "राजनीतिक दल को 'लोकतंत्र का प्राण' क्यों कहा जाता है?"
+    },
+    {
+        "id": "long_3_2",
+        "type": "long_answer",
+        "question": "How do familyism and casteism affect democracy in Bihar?",
+        "prashna": "परिवारवाद और जातिवाद बिहार में किस तरह लोकतंत्र को प्रभावित करता है?"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "What were the main causes of the student movement in Bihar?",
+        "prashna": "बिहार में छात्र आंदोलन के प्रमुख कारण क्या थे?"
+    },
+    {
+        "id": "long_4",
+        "type": "long_answer",
+        "question": "How does democracy form an accountable and legitimate government?",
+        "prashna": "लोकतंत्र किस तरह उत्तरदायी एवं वैध सरकार का गठन करता है?"
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "According to the year $2008-09$, the average per capita income of India is",
+        "prashna": "सन् $2008-09$ के अनुसार भारत की औसत प्रति व्यक्ति आय है",
+        "options": {
+            "A": "Rs $22,533$",
+            "B": "Rs $25,494$",
+            "C": "Rs $6,610$",
+            "D": "Rs $54,850$"
+        },
+        "vikalpa": {
+            "A": "$22,533$ रुपये",
+            "B": "$25,494$ रुपये",
+            "C": "$6,610$ रुपये",
+            "D": "$54,850$ रुपये"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "Which of the following countries has a mixed economy?",
+        "prashna": "निम्न में कौन-से देश में मिश्रित अर्थव्यवस्था है?",
+        "options": {
+            "A": "America",
+            "B": "China",
+            "C": "India",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "अमेरिका",
+            "B": "चीन",
+            "C": "भारत",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "Define liberalization.",
+        "prashna": "उदारीकरण को परिभाषित करें।"
+    },
+    {
+        "id": "long_5_1",
+        "type": "long_answer",
+        "question": "Throw light on the economic importance of money.",
+        "prashna": "मुद्रा के आर्थिक महत्त्व पर प्रकाश डालें।"
+    },
+    {
+        "id": "long_5_2",
+        "type": "long_answer",
+        "question": "Describe the functions of state-level institutional financial sources.",
+        "prashna": "राज्य स्तरीय संस्थागत वित्तीय स्रोत के कार्यों का वर्णन करें।"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "What do you understand by income?",
+        "prashna": "आय से आप क्या समझते हैं?"
+    },
+    {
+        "id": "long_6",
+        "type": "long_answer",
+        "question": "What was the impact of the current economic recession on the service sector in India? Write.",
+        "prashna": "वर्तमान आर्थिक मंदी का प्रभाव भारत में सेवा क्षेत्र पर क्या पड़ा? लिखें।"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "Describe drought management.",
+        "prashna": "सुखाड़ प्रबंधन का वर्णन करें।"
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "What is the main cause of floods in rivers?",
+        "prashna": "नदियों में बाढ़ आने का प्रमुख कारण क्या है?",
+        "options": {
+            "A": "Excess of water",
+            "B": "Accumulation of sediment in the river bed",
+            "C": "Excess of rain",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "जल की अधिकता",
+            "B": "नदी की तली में अवसाद का जमाव",
+            "C": "वर्षा की अधिकता",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "Where should people go at the time of flood?",
+        "prashna": "बाढ़ के समय लोगों को निम्न में से किस स्थान पर जाना चाहिए?",
+        "options": {
+            "A": "To a high ground place",
+            "B": "Outside the village",
+            "C": "At the same place where they are",
+            "D": "In the fields"
+        },
+        "vikalpa": {
+            "A": "ऊँची भूमि वाले स्थान पर",
+            "B": "गाँव के बाहर",
+            "C": "जहाँ हैं उसी स्थान पर",
+            "D": "खेतों में"
+        }
+    }
+]

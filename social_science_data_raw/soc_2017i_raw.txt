@@ -1,0 +1,356 @@
+```json
+[
+  {
+    "id": "obj_1",
+    "type": "objective",
+    "question": "\"Blood and Iron\" policy was adopted by -",
+    "prashna": "\"रक्त एवं लौह\" की नीति का अवलम्बन किसने किया?",
+    "options": {
+      "A": "Mazzini",
+      "B": "Hitler",
+      "C": "Bismarck",
+      "D": "William"
+    },
+    "vikalpa": {
+      "A": "मेजिनी",
+      "B": "हिटलर",
+      "C": "बिस्मार्क",
+      "D": "विलियम"
+    }
+  },
+  {
+    "id": "obj_2",
+    "type": "objective",
+    "question": "When was spinning jenny invented?",
+    "prashna": "स्पिनिंग जेनी का आविष्कार कब हुआ?",
+    "options": {
+      "A": "1967",
+      "B": "1764",
+      "C": "1773",
+      "D": "1775"
+    },
+    "vikalpa": {
+      "A": "1967",
+      "B": "1764",
+      "C": "1773",
+      "D": "1775"
+    }
+  },
+  {
+    "id": "obj_3",
+    "type": "objective",
+    "question": "Fill in the blank with appropriate word: Minimum Wages Act was implemented in the year .....................",
+    "prashna": "सही शब्द से रिक्त स्थान की पूर्ति करें - न्यूनतम मजदूरी कानून सन ......... ई. में लागू हुआ।"
+  },
+  {
+    "id": "obj_4",
+    "type": "objective",
+    "question": "Fill in blank with appropriate word: In Odisha, ........................ was opposed in ........................",
+    "prashna": "सही शब्द से रिक्त स्थान की पूर्ति करें : ओडिसा में ......... में ......... विद्रोह हुआ।"
+  },
+  {
+    "id": "short_1",
+    "type": "short_answer",
+    "question": "Coal and Iron Industry gave a boost to industrialization. Explain.",
+    "prashna": "कोयला एवं लौह उद्योग ने औद्योगिकीकरण को गति प्रदान की। कैसे?"
+  },
+  {
+    "id": "short_2",
+    "type": "short_answer",
+    "question": "Describe any two reasons of Russian Revolution.",
+    "prashna": "रूसी क्रांति के किन्हीं दो कारणों का वर्णन करें?"
+  },
+  {
+    "id": "short_3",
+    "type": "short_answer",
+    "question": "Lord Linton gave progressive activeness to National Movement. How?",
+    "prashna": "लार्ड लिंटन ने राष्ट्रीय आन्दोलन को गतिमान बनाया। कैसे?"
+  },
+  {
+    "id": "long_1_1",
+    "type": "long_answer",
+    "question": "Discuss the role of business class, middle class and labour class in the process of urbanization.",
+    "prashna": "शहरीकरण की प्रक्रिया में व्यवसायी वर्ग, मध्यम वर्ग, एवं मजदूर वर्ग की भूमिका की चर्चा करें।"
+  },
+  {
+    "id": "long_1_2",
+    "type": "long_answer",
+    "question": "Describe the changes due to globalization in common man's life.",
+    "prashna": "भूमंडलीकरण के कारण आम लोगों के जीवन में आने वाले परिवर्तनों को स्पष्ट करें।"
+  },
+  {
+    "id": "obj_5",
+    "type": "objective",
+    "question": "Among the following, where is soil found in vastness?",
+    "prashna": "मृदा का विस्तार निम्न में से कहाँ है?",
+    "options": {
+      "A": "Uttar Pradesh",
+      "B": "Rajasthan",
+      "C": "Karnataka",
+      "D": "Punjab"
+    },
+    "vikalpa": {
+      "A": "उत्तर प्रदेश",
+      "B": "राजस्थान",
+      "C": "कर्नाटक",
+      "D": "पंजाब"
+    }
+  },
+  {
+    "id": "obj_6",
+    "type": "objective",
+    "question": "Which is the most important raw material of cement industry?",
+    "prashna": "सीमेंट उद्योग का सबसे प्रमुख कच्चा माल क्या है?",
+    "options": {
+      "A": "Lime stone",
+      "B": "Bauxite",
+      "C": "Granite",
+      "D": "Iron ore"
+    },
+    "vikalpa": {
+      "A": "चूना पत्थर",
+      "B": "बॉक्साइट",
+      "C": "ग्रैनाइट",
+      "D": "लोहा अयस्क"
+    }
+  },
+  {
+    "id": "obj_7",
+    "type": "objective",
+    "question": "Fill in the blanks with appropriate words:",
+    "prashna": "सही शब्द से रिक्त स्थानों की पूर्ति करें :",
+    "sub_questions": {
+      "A": "Mathura oil refinery is situated in ...............state.",
+      "B": "...............State is major producer of coal in India."
+    },
+    "anuprashna": {
+      "A": "मथुरा तेल शोधक कारखाना ......... राज्य में स्थित है।",
+      "B": "भारत में कोयले का प्रमुख उत्पादक ......... राज्य है।"
+    }
+  },
+  {
+    "id": "short_4",
+    "type": "short_answer",
+    "question": "Why conservation of Natural Resources is necessary?",
+    "prashna": "प्राकृतिक संसाधनों का संरक्षण क्यों आवश्यक है?"
+  },
+  {
+    "id": "short_5",
+    "type": "short_answer",
+    "question": "What is the importance of agriculture in Indian economy?",
+    "prashna": "भारतीय अर्थ व्यवस्था में कृषि का क्या महत्व है?"
+  },
+  {
+    "id": "short_6",
+    "type": "short_answer",
+    "question": "What do understand by Alluvial soil? Which crops can be grown in this soil?",
+    "prashna": "जलोढ़ मृदा से क्या समझते हैं? इस मृदा में कौन - कौन सी फसलें उगाई जा सकती हैं?"
+  },
+  {
+    "id": "long_2_1",
+    "type": "long_answer",
+    "question": "Describe the main geographical conditions of Tea cultivations Name any three tea producing states in India.",
+    "prashna": "चाय उत्पादन के प्रमुख भौगोलिक दशाओं का वर्णन करें। भारत में चाय उत्पादक तीन राज्यों के नाम लिखें।"
+  },
+  {
+    "id": "long_2_2",
+    "type": "long_answer",
+    "question": "Draw a geographical map of India on full page and mark the following:",
+    "prashna": "पूरे पृष्ठ पर भारत का एक रेखा मानचित्र बनाकर निम्नलिखित को अंकित कीजिए :",
+    "sub_questions": {
+      "A": "Rice producing area.",
+      "B": "Kolkata",
+      "C": "Chennai",
+      "D": "Black soil area",
+      "E": "Visakhapatnam"
+    },
+    "anuprashna": {
+      "A": "चावल उत्पादक क्षेत्र",
+      "B": "कोलकाता",
+      "C": "चेन्नई",
+      "D": "काली मिट्टी का क्षेत्र",
+      "E": "विशाखापट्टनम"
+    }
+  },
+  {
+    "id": "long_2_3",
+    "type": "long_answer",
+    "question": "Describe cultivation of Tea in India. (Only for blind candidates)",
+    "prashna": "भारत में चाय की खेती का वर्णन करें। (केवल नेत्रहीन छात्रों के लिए)"
+  },
+  {
+    "id": "obj_8",
+    "type": "objective",
+    "question": "Which political party got the majority of votes in the general election of 1977 in India?",
+    "prashna": "भारत में हुए 1977 के आम चुनाव में किस पार्टी को बहुमत मिला था?",
+    "options": {
+      "A": "Congress Party",
+      "B": "Bhartiya Janta Party",
+      "C": "Communist Party",
+      "D": "None of the Parties"
+    },
+    "vikalpa": {
+      "A": "कांग्रेस पार्टी को",
+      "B": "जनता पार्टी को",
+      "C": "कम्युनिस्ट पार्टी",
+      "D": "किसी पार्टी को भी नहीं"
+    }
+  },
+  {
+    "id": "obj_9",
+    "type": "objective",
+    "question": "Bad result of the belief of regionalism is -",
+    "prashna": "क्षेत्रवाद की भावना का एक कुपरिणाम है -",
+    "options": {
+      "A": "Attachment to your region",
+      "B": "Nationalism",
+      "C": "National unity",
+      "D": "Separatism"
+    },
+    "vikalpa": {
+      "A": "अपने क्षेत्र से लगाव",
+      "B": "राष्ट्रहित",
+      "C": "राष्ट्रीय एकता",
+      "D": "अलगाववाद"
+    }
+  },
+  {
+    "id": "short_7",
+    "type": "short_answer",
+    "question": "What do you understand by secular state?",
+    "prashna": "धर्म निरपेक्ष राज्य से क्या समझते हैं?"
+  },
+  {
+    "id": "short_8",
+    "type": "short_answer",
+    "question": "How do you see the future of democracy in India?",
+    "prashna": "भारत में लोकतंत्र के भविष्य को आप किस रूप में देखते हैं?"
+  },
+  {
+    "id": "short_9",
+    "type": "short_answer",
+    "question": "Terrorism is a challenge for the democracy. How?",
+    "prashna": "आतंकवाद लोकतंत्र की चुनौती है। कैसे?"
+  },
+  {
+    "id": "long_3_1",
+    "type": "long_answer",
+    "question": "Write about the main functions of political parties.",
+    "prashna": "राजनीतिक दलों के प्रमुख कार्य बताएँ।"
+  },
+  {
+    "id": "long_3_2",
+    "type": "long_answer",
+    "question": "Is lack of education a challenge for democracy?",
+    "prashna": "क्या शिक्षा का अभाव लोकतंत्र के लिए चुनौती है?"
+  },
+  {
+    "id": "obj_10",
+    "type": "objective",
+    "question": "A country whose national income is high is called:",
+    "prashna": "जिस देश की राष्ट्रीय आय अधिक होती है वह देश क्या कहलाता है?",
+    "options": {
+      "A": "Underdeveloped",
+      "B": "Developed",
+      "C": "Developing",
+      "D": "None of these"
+    },
+    "vikalpa": {
+      "A": "अविकसित",
+      "B": "विकसित",
+      "C": "अर्द्ध विकसित",
+      "D": "इनमें कोई नहीं"
+    }
+  },
+  {
+    "id": "obj_11",
+    "type": "objective",
+    "question": "Which among the following is included in direct tax?",
+    "prashna": "प्रत्यक्ष कर के अन्तर्गत निम्न में से किसे शामिल किया जाता है?",
+    "options": {
+      "A": "Income tax",
+      "B": "Excise tax",
+      "C": "Sales tax",
+      "D": "None of these"
+    },
+    "vikalpa": {
+      "A": "आय कर",
+      "B": "उत्पाद कर",
+      "C": "बिक्री कर",
+      "D": "इनमें कोई नहीं"
+    }
+  },
+  {
+    "id": "short_10",
+    "type": "short_answer",
+    "question": "What is gross domestic product?",
+    "prashna": "कुल घरेलू उत्पाद क्या है?"
+  },
+  {
+    "id": "short_11",
+    "type": "short_answer",
+    "question": "What influences a person's wish for savings?",
+    "prashna": "किसी व्यक्ति की बचत करने की इच्छा किन बातों से प्रभावित होती है?"
+  },
+  {
+    "id": "short_12",
+    "type": "short_answer",
+    "question": "What do you understand by financial institution? How many types of financial institutions are there?",
+    "prashna": "वित्तीय संस्थान से आप क्या समझते हैं? यह कितने प्रकार के होते हैं?"
+  },
+  {
+    "id": "long_4_1",
+    "type": "long_answer",
+    "question": "What are the reasons for economic backwardness in Bihar? Explain.",
+    "prashna": "बिहार के आर्थिक पिछड़ेपन के क्या कारण हैं? वर्णन करें?"
+  },
+  {
+    "id": "long_4_2",
+    "type": "long_answer",
+    "question": "What are the rights of a consumer? Explain.",
+    "prashna": "उपभोक्ता के कौन - कौन से अधिकार हैं? वर्णन करें?"
+  },
+  {
+    "id": "obj_12",
+    "type": "objective",
+    "question": "Which among the following is not a natural disaster?",
+    "prashna": "इनमें से कौन प्राकृतिक आपदा नहीं है?",
+    "options": {
+      "A": "Tsunami",
+      "B": "Flood",
+      "C": "Earthquake",
+      "D": "Terrorism"
+    },
+    "vikalpa": {
+      "A": "सुनामी",
+      "B": "बाढ़",
+      "C": "भूकम्प",
+      "D": "आतंकवाद"
+    }
+  },
+  {
+    "id": "obj_13",
+    "type": "objective",
+    "question": "What type of disaster is Drought?",
+    "prashna": "सूखा किस प्रकार की आपदा है?",
+    "options": {
+      "A": "Natural disaster",
+      "B": "Manmade disaster",
+      "C": "General disaster",
+      "D": "None of these"
+    },
+    "vikalpa": {
+      "A": "प्राकृतिक आपदा",
+      "B": "मानव जनित आपदा",
+      "C": "सामान्य आपदा",
+      "D": "इनमें से कोई नहीं"
+    }
+  },
+  {
+    "id": "short_13",
+    "type": "short_answer",
+    "question": "Explain the reasons and safety related measure for floods.",
+    "prashna": "बाढ़ के कारण एवं सुरक्षा संबंधी उपाय का वर्णन करें।"
+  }
+]
+```

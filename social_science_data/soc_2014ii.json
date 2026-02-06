@@ -1,0 +1,302 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "What was Garibaldi by profession?",
+        "prashna": "गैरीबाल्डी पेशे से क्या थे?",
+        "options": {
+            "A": "Soldier",
+            "B": "Farmer",
+            "C": "Landlord",
+            "D": "Sailor"
+        },
+        "vikalpa": {
+            "A": "सिपाही",
+            "B": "किसान",
+            "C": "जमींदार",
+            "D": "नाविक"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "Who wrote the book 'War and Peace'?",
+        "prashna": "'वार एण्ड पीस' पुस्तक की रचना किसने की ?",
+        "options": {
+            "A": "Karl Marx",
+            "B": "Tolstoy",
+            "C": "Dostoevsky",
+            "D": "Engels"
+        },
+        "vikalpa": {
+            "A": "कार्ल मार्क्स",
+            "B": "टालस्टाय",
+            "C": "दोस्तोवस्की",
+            "D": "ऐंजल्स"
+        }
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "Non-Cooperation Movement was the first mass movement. How?",
+        "prashna": "असहयोग आन्दोलन प्रथम जन-आन्दोलन था। कैसे ?"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "How did the printing press reach Europe?",
+        "prashna": "छापाखाना यूरोप कैसे पहुँचा ?"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "How did the slum system start?",
+        "prashna": "स्लम पद्धति की शुरुआत कैसे हुई ?"
+    },
+    {
+        "id": "long_8_1",
+        "type": "long_answer",
+        "question": "Describe the role of Bismarck in the unification of Germany.",
+        "prashna": "जर्मनी के एकीकरण में विस्मार्क की भूमिका का वर्णन करें।"
+    },
+    {
+        "id": "long_8_2",
+        "type": "long_answer",
+        "question": "Give a brief description of the Greek independence movement.",
+        "prashna": "यूनानी स्वतंत्रता आन्दोलन का संक्षिप्त विवरण दें।"
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "Which of the following resources is solar energy?",
+        "prashna": "सौर ऊर्जा निम्नलिखित में से कौन-सा साधन है ?",
+        "options": {
+            "A": "Man-made",
+            "B": "Renewable",
+            "C": "Abiotic",
+            "D": "Non-cyclic"
+        },
+        "vikalpa": {
+            "A": "मानवकृत",
+            "B": "पुनः पूर्तियोग्य",
+            "C": "अजैव",
+            "D": "अचक्रीय"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "Due to the presence of water in a vast area, the Earth is called",
+        "prashna": "वृहद क्षेत्र में जल की उपस्थिति के कारण ही पृथ्वी को कहते हैं",
+        "options": {
+            "A": "White planet",
+            "B": "Blue planet",
+            "C": "Red planet",
+            "D": "Green planet"
+        },
+        "vikalpa": {
+            "A": "उजला ग्रह",
+            "B": "नीला ग्रह",
+            "C": "लाल ग्रह",
+            "D": "हरा ग्रह"
+        }
+    },
+    {
+        "id": "short_12",
+        "type": "short_answer",
+        "question": "Describe the environmental importance of forests.",
+        "prashna": "वन के पर्यावरणीय महत्त्व का वर्णन कीजिए।"
+    },
+    {
+        "id": "short_13",
+        "type": "short_answer",
+        "question": "How many types of roads are there in India? Describe them.",
+        "prashna": "भारत में कितने प्रकार की सड़कें हैं? वर्णन करें।"
+    },
+    {
+        "id": "short_14",
+        "type": "short_answer",
+        "question": "What is the importance of waterways for India?",
+        "prashna": "भारत के लिए जलमार्ग का क्या महत्त्व है ?"
+    },
+    {
+        "id": "long_15",
+        "type": "long_answer",
+        "question": "\"Agriculture is the backbone of Bihar's economy.\" Explain this statement.",
+        "prashna": "\"कृषि बिहार की अर्थव्यवस्था की रीढ़ है।\" इस कथन की व्याख्या कीजिए।"
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "What type of democracy has been established in India?",
+        "prashna": "भारत में किस तरह के लोकतंत्र की व्यवस्था की गई है ?",
+        "options": {
+            "A": "Direct",
+            "B": "Indirect",
+            "C": "Both direct and indirect",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "प्रत्यक्ष",
+            "B": "अप्रत्यक्ष",
+            "C": "प्रत्यक्ष और अप्रत्यक्ष दोनों",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "Which of the following is a national party?",
+        "prashna": "निम्नलिखित में से कौन राष्ट्रीय दल है?",
+        "options": {
+            "A": "Rashtriya Janata Dal",
+            "B": "Bahujan Samaj Party",
+            "C": "Lok Janshakti Party",
+            "D": "Bharatiya Janata Party"
+        },
+        "vikalpa": {
+            "A": "राष्ट्रीय जनता दल",
+            "B": "बहुजन समाज पार्टी",
+            "C": "लोक जनशक्ति पार्टी",
+            "D": "भारतीय जनता पार्टी"
+        }
+    },
+    {
+        "id": "short_18",
+        "type": "short_answer",
+        "question": "How is the Right to Information Act the protector of democracy?",
+        "prashna": "सूचना का अधिकार कानून लोकतंत्र का रखवाला है। कैसे?"
+    },
+    {
+        "id": "long_19_1",
+        "type": "long_answer",
+        "question": "How does democracy help in economic growth and development?",
+        "prashna": "लोकतंत्र किस प्रकार आर्थिक संवृद्धि एवं विकास में सहायक बनता है?"
+    },
+    {
+        "id": "long_19_2",
+        "type": "long_answer",
+        "question": "Is terrorism a challenge to democracy? Explain.",
+        "prashna": "क्या आतंकवाद लोकतंत्र की चुनौती है? स्पष्ट करें।"
+    },
+    {
+        "id": "short_20",
+        "type": "short_answer",
+        "question": "Define a political party.",
+        "prashna": "राजनीतिक दल की परिभाषा दें।"
+    },
+    {
+        "id": "long_21",
+        "type": "long_answer",
+        "question": "Who are the power-sharing partners in coalition governments?",
+        "prashna": "गठबंधन की सरकारों में सत्ता में साझेदार कौन-कौन होते हैं?"
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "question": "How many main components of globalization are there?",
+        "prashna": "वैश्वीकरण के मुख्य अंग कितने हैं?",
+        "options": {
+            "A": "One",
+            "B": "Two",
+            "C": "Five",
+            "D": "Four"
+        },
+        "vikalpa": {
+            "A": "एक",
+            "B": "दो",
+            "C": "पाँच",
+            "D": "चार"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "question": "When was the Consumer Protection Act announced in India?",
+        "prashna": "भारत उपभोक्ता संरक्षण अधिनियम की घोषणा कब हुई ?",
+        "options": {
+            "A": "1986",
+            "B": "1980",
+            "C": "1987",
+            "D": "1988"
+        },
+        "vikalpa": {
+            "A": "1986",
+            "B": "1980",
+            "C": "1987",
+            "D": "1988"
+        }
+    },
+    {
+        "id": "short_24",
+        "type": "short_answer",
+        "question": "What do you understand by cooperation?",
+        "prashna": "सहकारिता से आप क्या समझते हैं?"
+    },
+    {
+        "id": "long_25_1",
+        "type": "long_answer",
+        "question": "What do you understand by globalization in India?",
+        "prashna": "भारत में वैश्वीकरण से आप क्या समझते हैं?"
+    },
+    {
+        "id": "long_25_2",
+        "type": "long_answer",
+        "question": "Write on the importance of 'Human Rights'.",
+        "prashna": "'मानवाधिकार' के महत्त्व पर लिखें।"
+    },
+    {
+        "id": "short_26",
+        "type": "short_answer",
+        "question": "What do you understand by globalization?",
+        "prashna": "वैश्वीकरण से आप क्या समझते हैं?"
+    },
+    {
+        "id": "long_27",
+        "type": "long_answer",
+        "question": "What is economic development? State the difference between economic development and economic growth.",
+        "prashna": "आर्थिक विकास क्या है ? आर्थिक विकास एवं आर्थिक वृद्धि में अंतर बताइए।"
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "question": "At which place does tsunami occur?",
+        "prashna": "सुनामी किस स्थान पर आता है ?",
+        "options": {
+            "A": "Land",
+            "B": "Sea",
+            "C": "Sky",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "स्थल",
+            "B": "समुद्र",
+            "C": "आसमान",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_29",
+        "type": "objective",
+        "question": "In which part of the world did a devastating tsunami occur on December 26, 2004?",
+        "prashna": "26 दिसम्बर, 2004 को विश्व के किस हिस्से में भयंकर सुनामी आया था?",
+        "options": {
+            "A": "West Asia",
+            "B": "Pacific Ocean",
+            "C": "Atlantic Ocean",
+            "D": "Bay of Bengal"
+        },
+        "vikalpa": {
+            "A": "पश्चिम एशिया",
+            "B": "प्रशांत महासागर",
+            "C": "अटलांटिक महासागर",
+            "D": "बंगाल की खाड़ी"
+        }
+    },
+    {
+        "id": "short_30",
+        "type": "short_answer",
+        "question": "Write any four measures to reduce the effects of earthquakes.",
+        "prashna": "भूकम्प के प्रभावों को कम करने वाले किन्हीं चार उपायों को लिखिए।"
+    }
+]
