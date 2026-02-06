@@ -137,7 +137,7 @@ def main():
     chapters = ENGLISH_CHAPTERS
     model = utils.get_generative_model(model_name="models/gemini-3-flash-preview")
     
-    MAX_WORKERS = 20
+    MAX_WORKERS = 4
     
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         futures = []
