@@ -59,40 +59,18 @@ The pipeline supports the following subjects with official Bihar Board chapter m
 
 ---
 
-## ⚡ Parallel Processing
+## ⚡ Parallel Processing & Robustness
 
-All batch processing scripts now support **parallel execution** using Python's `ThreadPoolExecutor` for significantly faster processing.
+All batch processing and annotation scripts support **parallel execution** with enhanced robustness features.
 
-### Features:
-- **4 concurrent workers** by default (configurable via `MAX_WORKERS`)
-- **Thread-safe console output** for clean progress tracking
-- **Automatic skip** for already processed files
-- **Comprehensive summary** with success/failure counts and timing stats
-
-### Example Output:
-```
-============================================================
-📚 Processing 4 papers with 4 parallel workers
-============================================================
-
-🚀 Starting: sci_2022ii.pdf
-🚀 Starting: sci_2021i.pdf
-🚀 Starting: sci_2014i.pdf
-🚀 Starting: sci_2011i.pdf
-✅ Completed: sci_2011i.pdf
-⏱️  Time for sci_2011i.pdf: 62.44s (1.04min)
-✅ Completed: sci_2014i.pdf
-⏱️  Time for sci_2014i.pdf: 120.41s (2.01min)
-...
-
-============================================================
-📊 SUMMARY
-============================================================
-✅ Successful: 4
-❌ Failed: 0
-⏱️  Total time: 158.08s (2.63min)
-📈 Average time per paper: 120.23s
-```
+### Advanced Features:
+- **Configurable Workers**: Supports up to 20 parallel workers (4-8 recommended for API stability).
+- **Staggered Launch**: Implements a 1-second delay between worker starts to prevent API rate-limit bursts.
+- **Safe State Management**: Atomic `threading.Lock` for clean, non-overlapping console logs.
+- **Robust Error Handling**:
+    - **Raw Data Preservation**: Saves raw API responses to `*_data_raw/` before parsing.
+    - **Retry Logic**: Exponential backoff for handling 429 (Rate Limit) errors.
+    - **Dummy Fallback**: `dummy_annotate_all.py` allows bypassing API quotas by applying placeholder metadata ("0000").
 
 ---
 
@@ -112,19 +90,19 @@ GOOGLE_API_KEY=your_google_api_key
 
 ## 🚀 Getting Started
 
-1. **Prepare PDFs**: Place your question paper PDFs in `{subject}_papers/` (e.g., `science_papers/science_2024.pdf`).
-2. **Batch Process**: Run `python batch_processing_science.py` to extract raw data.
-3. **Annotate**: Run `python batch_annotate_science.py` to add chapter metadata.
-4. **Finalize**: Run the merge and split scripts to generate your organized data sets.
+1. **Prepare PDFs**: Place PDFs in `{subject}_papers/`.
+2. **Batch Process**: Run `python batch_processing_{subject}.py` to extract raw data.
+3. **Annotate**: Run `python batch_annotate_{subject}.py` (or `dummy_annotate_all.py` for placeholder data).
+4. **Finalize**: Run `merge` and `split` scripts to generate organized `*_pro*` data sets.
 
 ---
 
 ## 📝 Status
-- ✅ Project Structure Initialized
-- ✅ Folder structure created for 6 subjects
-- ✅ Core Extraction Logic (Gemini)
-- ✅ Batch Processing Scripts for all subjects
-- ✅ **Parallel Processing** with 4 concurrent workers
-- ✅ NCERT Class 10 Chapter Mappings for all subjects
-- ✅ Annotation, Merge, and Split Pipeline Scripts
-- ✅ Science data extraction complete (26 PDFs → 26 JSONs)
+- ✅ Project Structure & Folder Schema (6 Subjects)
+- ✅ Core Extraction Engine (Gemini 1.5/2.0/3.0 Ready)
+- ✅ **Staggered Parallel Processing** (Worker-safe)
+- ✅ **Robust API Logging** (Raw response saving)
+- ✅ NCERT Class 10 Chapter Mappings (All Subjects)
+- ✅ **Dummy Annotation Support** (Quota fallback)
+- ✅ Full Pipeline Completion for all 6 subjects
+- ✅ Final Organized Data Generation (`*_pro` folders)
