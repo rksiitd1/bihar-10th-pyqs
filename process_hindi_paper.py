@@ -113,6 +113,7 @@ def process_question_paper(input_pdf_path: str, output_json_path: str):
         logger.info(f"Raw API response saved to: {raw_path}")
     except Exception as e:
         logger.error(f"Failed to save raw response: {e}")
+        raise
 
     logger.info("Parsing response...")
     print("Parsing response...")
@@ -130,6 +131,7 @@ def process_question_paper(input_pdf_path: str, output_json_path: str):
         logger.error(f"Error parsing/saving: {e}")
         logger.info(f"Raw response is preserved at {raw_path}")
         print(f"❌ Error: {e}")
+        raise
     
     try:
         genai.delete_file(uploaded_file.name)

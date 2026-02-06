@@ -1,0 +1,2016 @@
+```json
+[
+  {
+    "id": "obj_1",
+    "type": "objective",
+    "question": "The slow thinkers are unable to....",
+    "prashna": "धीमे सोचने वाले किसमें असमर्थ होते हैं?",
+    "options": {
+      "A": "get married",
+      "B": "run fast",
+      "C": "eat their food",
+      "D": "earn their living"
+    },
+    "vikalpa": {
+      "A": "शादी करने में",
+      "B": "तेज़ दौड़ने में",
+      "C": "अपना भोजन करने में",
+      "D": "अपनी जीविका कमाने में"
+    }
+  },
+  {
+    "id": "obj_2",
+    "type": "objective",
+    "question": "Jim wanted everybody to contribute a little of their time to save our...",
+    "prashna": "जिम चाहता था कि हर कोई हमारे ... को बचाने के लिए अपने समय का थोड़ा योगदान दे।",
+    "options": {
+      "A": "houses",
+      "B": "plants",
+      "C": "environment",
+      "D": "education system"
+    },
+    "vikalpa": {
+      "A": "घरों",
+      "B": "पौधों",
+      "C": "पर्यावरण",
+      "D": "शिक्षा प्रणाली"
+    }
+  },
+  {
+    "id": "obj_3",
+    "type": "objective",
+    "question": "Gillu craved for ______ of its caretaker, Mahadevi Verma.",
+    "prashna": "गिल्लू अपनी देखभाल करने वाली, महादेवी वर्मा के ______ के लिए लालायित रहता था।",
+    "options": {
+      "A": "pen",
+      "B": "attention",
+      "C": "pencil",
+      "D": "fruit"
+    },
+    "vikalpa": {
+      "A": "कलम",
+      "B": "ध्यान",
+      "C": "पेंसिल",
+      "D": "फल"
+    }
+  },
+  {
+    "id": "obj_4",
+    "type": "objective",
+    "question": "It is indeed shameful that the _______ were beaten up.",
+    "prashna": "यह वास्तव में शर्मनाक है कि _______ को पीटा गया।",
+    "options": {
+      "A": "Pandits",
+      "B": "Priests",
+      "C": "Maulanas",
+      "D": "Buddhist monks"
+    },
+    "vikalpa": {
+      "A": "पंडितों",
+      "B": "पुजारियों",
+      "C": "मौलानाओं",
+      "D": "बौद्ध भिक्षुओं"
+    }
+  },
+  {
+    "id": "obj_5",
+    "type": "objective",
+    "question": "Indian cinema lacks________.",
+    "prashna": "भारतीय सिनेमा में ________ की कमी है।",
+    "options": {
+      "A": "music",
+      "B": "choreography",
+      "C": "maturity",
+      "D": "direction"
+    },
+    "vikalpa": {
+      "A": "संगीत",
+      "B": "नृत्य-निर्देशन",
+      "C": "परिपक्वता",
+      "D": "निर्देशन"
+    }
+  },
+  {
+    "id": "obj_6",
+    "type": "objective",
+    "question": "The old, blind woman was also ________.",
+    "prashna": "बूढ़ी, अंधी महिला भी ________ थी।",
+    "options": {
+      "A": "hate",
+      "B": "honour",
+      "C": "wise",
+      "D": "disobey"
+    },
+    "vikalpa": {
+      "A": "नफरत",
+      "B": "सम्मान",
+      "C": "बुद्धिमान",
+      "D": "अवज्ञा"
+    }
+  },
+  {
+    "id": "obj_7",
+    "type": "objective",
+    "question": "According to Humayun Kabir, it is not very easy to define the concept of _______.",
+    "prashna": "हुमायूँ कबीर के अनुसार, _______ की अवधारणा को परिभाषित करना बहुत आसान नहीं है।",
+    "options": {
+      "A": "religion",
+      "B": "education",
+      "C": "culture",
+      "D": "illiteracy"
+    },
+    "vikalpa": {
+      "A": "धर्म",
+      "B": "शिक्षा",
+      "C": "संस्कृति",
+      "D": "निरक्षरता"
+    }
+  },
+  {
+    "id": "obj_8",
+    "type": "objective",
+    "question": "The two girls met each other at the local _____.",
+    "prashna": "दोनों लड़कियां स्थानीय _____ पर एक-दूसरे से मिलीं।",
+    "options": {
+      "A": "temple",
+      "B": "gurudwara",
+      "C": "mosque",
+      "D": "church"
+    },
+    "vikalpa": {
+      "A": "मंदिर",
+      "B": "गुरुद्वारा",
+      "C": "मस्जिद",
+      "D": "चर्च"
+    }
+  },
+  {
+    "id": "obj_9",
+    "type": "objective",
+    "question": "The writer classifies himself as a ________thinker in ‘The Pace of Living’.",
+    "prashna": "लेखक ‘द पेस ऑफ लिविंग’ में खुद को एक ________ विचारक के रूप में वर्गीकृत करता है।",
+    "options": {
+      "A": "sad",
+      "B": "quick",
+      "C": "slow",
+      "D": "happy"
+    },
+    "vikalpa": {
+      "A": "दुखी",
+      "B": "तेज़",
+      "C": "धीमा",
+      "D": "खुश"
+    }
+  },
+  {
+    "id": "obj_10",
+    "type": "objective",
+    "question": "Burning of leaves is bad for _____.",
+    "prashna": "पत्तियों का जलना _____ के लिए बुरा है।",
+    "options": {
+      "A": "breath and air",
+      "B": "men and society",
+      "C": "nature and society",
+      "D": "air and environment"
+    },
+    "vikalpa": {
+      "A": "साँस और हवा",
+      "B": "मनुष्य और समाज",
+      "C": "प्रकृति और समाज",
+      "D": "हवा और पर्यावरण"
+    }
+  },
+  {
+    "id": "obj_11",
+    "type": "objective",
+    "question": "Mahadevi Verma was a _______ poetess.",
+    "prashna": "महादेवी वर्मा एक _______ कवयित्री थीं।",
+    "options": {
+      "A": "Chayavadi",
+      "B": "Revolutionary",
+      "C": "Bhakti",
+      "D": "Romantic"
+    },
+    "vikalpa": {
+      "A": "छायावादी",
+      "B": "क्रांतिकारी",
+      "C": "भक्ति",
+      "D": "स्वच्छंदतावादी"
+    }
+  },
+  {
+    "id": "obj_12",
+    "type": "objective",
+    "question": "The snow had melted owing to",
+    "prashna": "किसके कारण बर्फ पिघल गई थी?",
+    "options": {
+      "A": "rough weather",
+      "B": "rainy weather",
+      "C": "cold weather",
+      "D": "warm weather"
+    },
+    "vikalpa": {
+      "A": "खराब मौसम",
+      "B": "बरसात का मौसम",
+      "C": "ठंडा मौसम",
+      "D": "गर्म मौसम"
+    }
+  },
+  {
+    "id": "obj_13",
+    "type": "objective",
+    "question": "‘God made the ____, and man made the town’.",
+    "prashna": "'भगवान ने ____ बनाया, और मनुष्य ने शहर बनाया'।",
+    "options": {
+      "A": "city",
+      "B": "country",
+      "C": "woman",
+      "D": "town"
+    },
+    "vikalpa": {
+      "A": "शहर",
+      "B": "देश (गाँव)",
+      "C": "महिला",
+      "D": "कस्बा"
+    }
+  },
+  {
+    "id": "obj_14",
+    "type": "objective",
+    "question": "A _____ man passes his days smoothly.",
+    "prashna": "एक _____ व्यक्ति अपने दिन सुचारू रूप से बिताता है।",
+    "options": {
+      "A": "happy",
+      "B": "running",
+      "C": "sad",
+      "D": "crooked"
+    },
+    "vikalpa": {
+      "A": "खुश",
+      "B": "दौड़ता हुआ",
+      "C": "दुखी",
+      "D": "कुटिल"
+    }
+  },
+  {
+    "id": "obj_15",
+    "type": "objective",
+    "question": "The polythene bag is buried inside the _________",
+    "prashna": "पॉलीथीन बैग _________ के अंदर दबा हुआ है।",
+    "options": {
+      "A": "table",
+      "B": "tunnel",
+      "C": "garbage-bin",
+      "D": "pot-hole"
+    },
+    "vikalpa": {
+      "A": "मेज",
+      "B": "सुरंग",
+      "C": "कूड़ेदान",
+      "D": "गड्ढा"
+    }
+  },
+  {
+    "id": "obj_16",
+    "type": "objective",
+    "question": "Radha’s friends feel that Radha will never be _____again",
+    "prashna": "राधा की सहेलियों को लगता है कि राधा फिर कभी _____ नहीं होगी।",
+    "options": {
+      "A": "angry",
+      "B": "jealous",
+      "C": "sad",
+      "D": "happy"
+    },
+    "vikalpa": {
+      "A": "गुस्सा",
+      "B": "ईर्ष्यालु",
+      "C": "दुखी",
+      "D": "खुश"
+    }
+  },
+  {
+    "id": "obj_17",
+    "type": "objective",
+    "question": "____ made the rich man mad.",
+    "prashna": "____ ने अमीर आदमी को पागल कर दिया।",
+    "options": {
+      "A": "Passion",
+      "B": "Desire",
+      "C": "Lust",
+      "D": "Love"
+    },
+    "vikalpa": {
+      "A": "जुनून",
+      "B": "इच्छा",
+      "C": "वासना",
+      "D": "प्रेम"
+    }
+  },
+  {
+    "id": "obj_18",
+    "type": "objective",
+    "question": "The poet calls the Koel a rain of _____.",
+    "prashna": "कवि कोयल को _____ की वर्षा कहता है।",
+    "options": {
+      "A": "emotion",
+      "B": "fire",
+      "C": "sparks",
+      "D": "water"
+    },
+    "vikalpa": {
+      "A": "भावना",
+      "B": "आग",
+      "C": "चिंगारी",
+      "D": "पानी"
+    }
+  },
+  {
+    "id": "obj_19",
+    "type": "objective",
+    "question": "The porter ______ because be gets exhausted working all day.",
+    "prashna": "कुली ______ क्योंकि वह दिन भर काम करके थक जाता है।",
+    "options": {
+      "A": "laughs",
+      "B": "sleeps",
+      "C": "eats",
+      "D": "sings"
+    },
+    "vikalpa": {
+      "A": "हँसता है",
+      "B": "सोता है",
+      "C": "खाता है",
+      "D": "गाता है"
+    }
+  },
+  {
+    "id": "obj_20",
+    "type": "objective",
+    "question": "Martha’s stories seemed as tranquil as _______.",
+    "prashna": "मार्था की कहानियाँ उतनी ही शांत लगती थीं जितनी _______।",
+    "options": {
+      "A": "dreams",
+      "B": "moon",
+      "C": "night",
+      "D": "stars"
+    },
+    "vikalpa": {
+      "A": "सपने",
+      "B": "चाँद",
+      "C": "रात",
+      "D": "तारे"
+    }
+  },
+  {
+    "id": "obj_21",
+    "type": "objective",
+    "question": "________ chars the cuckoo’s wings",
+    "prashna": "________ कोयल के पंखों को झुलसा देता है।",
+    "options": {
+      "A": "The fire of hated",
+      "B": "The fire of jealousy",
+      "C": "The fire of anger",
+      "D": "The fire of love"
+    },
+    "vikalpa": {
+      "A": "नफरत की आग",
+      "B": "ईर्ष्या की आग",
+      "C": "गुस्से की आग",
+      "D": "प्रेम की आग"
+    }
+  },
+  {
+    "id": "obj_22",
+    "type": "objective",
+    "question": "The porter ___over the kingdom of sleep",
+    "prashna": "कुली नींद के साम्राज्य पर ___ करता है।",
+    "options": {
+      "A": "thinks",
+      "B": "laughs",
+      "C": "cries",
+      "D": "reigns"
+    },
+    "vikalpa": {
+      "A": "सोचता है",
+      "B": "हँसता है",
+      "C": "रोता है",
+      "D": "राज करता है"
+    }
+  },
+  {
+    "id": "obj_23",
+    "type": "objective",
+    "question": "Martha told her stories in the _____.",
+    "prashna": "मार्था ने अपनी कहानियाँ _____ में सुनाईं।",
+    "options": {
+      "A": "forest",
+      "B": "hut",
+      "C": "hazel glen",
+      "D": "church"
+    },
+    "vikalpa": {
+      "A": "जंगल",
+      "B": "झोपड़ी",
+      "C": "हेज़ल ग्लेन (घाटी)",
+      "D": "चर्च"
+    }
+  },
+  {
+    "id": "obj_24",
+    "type": "objective",
+    "question": "Radha was never able to give the ____ to any question.",
+    "prashna": "राधा कभी भी किसी प्रश्न का ____ नहीं दे पाती थी।",
+    "options": {
+      "A": "confused answer",
+      "B": "exact answer",
+      "C": "wrong answer",
+      "D": "improper answer"
+    },
+    "vikalpa": {
+      "A": "भ्रमित उत्तर",
+      "B": "सटीक उत्तर",
+      "C": "गलत उत्तर",
+      "D": "अनुचित उत्तर"
+    }
+  },
+  {
+    "id": "obj_25",
+    "type": "objective",
+    "question": "Jabra was Halku’s ________.",
+    "prashna": "जबरा हल्कू का ________ था।",
+    "options": {
+      "A": "eat",
+      "B": "donkey",
+      "C": "horse",
+      "D": "dog"
+    },
+    "vikalpa": {
+      "A": "खाना",
+      "B": "गधा",
+      "C": "घोड़ा",
+      "D": "कुत्ता"
+    }
+  },
+  {
+    "id": "obj_26",
+    "type": "objective",
+    "question": "________ causes a quick reaction.",
+    "prashna": "________ से त्वरित प्रतिक्रिया होती है।",
+    "options": {
+      "A": "Allergy",
+      "B": "Injection",
+      "C": "Substances",
+      "D": "Medicine"
+    },
+    "vikalpa": {
+      "A": "एलर्जी",
+      "B": "इंजेक्शन",
+      "C": "पदार्थ",
+      "D": "दवा"
+    }
+  },
+  {
+    "id": "obj_27",
+    "type": "objective",
+    "question": "What did the lawyer prefer?",
+    "prashna": "वकील ने क्या पसंद किया?",
+    "options": {
+      "A": "wine",
+      "B": "money",
+      "C": "death",
+      "D": "life imprisonment"
+    },
+    "vikalpa": {
+      "A": "शराब",
+      "B": "पैसा",
+      "C": "मृत्यु",
+      "D": "आजीवन कारावास"
+    }
+  },
+  {
+    "id": "obj_28",
+    "type": "objective",
+    "question": "Mr. Gessler’s shoes lasted ____.",
+    "prashna": "मिस्टर गेसलर के जूते ____ तक चले।",
+    "options": {
+      "A": "long",
+      "B": "forever",
+      "C": "short",
+      "D": "never"
+    },
+    "vikalpa": {
+      "A": "लंबे समय तक",
+      "B": "हमेशा के लिए",
+      "C": "थोड़े समय तक",
+      "D": "कभी नहीं"
+    }
+  },
+  {
+    "id": "obj_29",
+    "type": "objective",
+    "question": "_______were tied up at the table-corners for the party.",
+    "prashna": "पार्टी के लिए मेज के कोनों पर _______ बांधे गए थे।",
+    "options": {
+      "A": "Lilies",
+      "B": "Daisies",
+      "C": "Sunflower",
+      "D": "Roses"
+    },
+    "vikalpa": {
+      "A": "लिली के फूल",
+      "B": "डेज़ी के फूल",
+      "C": "सूरजमुखी",
+      "D": "गुलाब"
+    }
+  },
+  {
+    "id": "obj_30",
+    "type": "objective",
+    "question": "The daughter in ‘Two Horizons’ does not wish to __any more.",
+    "prashna": "'टू होराइजन्स' की बेटी अब और __ नहीं चाहती है।",
+    "options": {
+      "A": "dream",
+      "B": "want",
+      "C": "desire",
+      "D": "need"
+    },
+    "vikalpa": {
+      "A": "सपना देखना",
+      "B": "चाहना",
+      "C": "इच्छा करना",
+      "D": "जरूरत होना"
+    }
+  },
+  {
+    "id": "obj_31",
+    "type": "objective",
+    "question": "The narrator and his girlfriend in ‘Love Defiled’ were more than ____ lovers.",
+    "prashna": "'लव डिफाइल्ड' में कथावाचक और उसकी प्रेमिका ____ प्रेमियों से बढ़कर थे।",
+    "options": {
+      "A": "physical",
+      "B": "distant",
+      "C": "emotional",
+      "D": "platonic"
+    },
+    "vikalpa": {
+      "A": "शारीरिक",
+      "B": "दूर के",
+      "C": "भावनात्मक",
+      "D": "प्लेटोनिक (आध्यात्मिक)"
+    }
+  },
+  {
+    "id": "obj_32",
+    "type": "objective",
+    "question": "Halku was a __________",
+    "prashna": "हल्कू एक __________ था।",
+    "options": {
+      "A": "washerman",
+      "B": "fisherman",
+      "C": "tenant farmer",
+      "D": "landlord"
+    },
+    "vikalpa": {
+      "A": "धोबी",
+      "B": "मछुआरा",
+      "C": "बटाईदार किसान",
+      "D": "जमींदार"
+    }
+  },
+  {
+    "id": "obj_33",
+    "type": "objective",
+    "question": "The sheets and pillows should be washed ____ in hot water.",
+    "prashna": "चादरों और तकियों को गर्म पानी में ____ धोना चाहिए।",
+    "options": {
+      "A": "monthly",
+      "B": "daily",
+      "C": "yearly",
+      "D": "weekly"
+    },
+    "vikalpa": {
+      "A": "मासिक",
+      "B": "दैनिक",
+      "C": "वार्षिक",
+      "D": "साप्ताहिक"
+    }
+  },
+  {
+    "id": "obj_34",
+    "type": "objective",
+    "question": "The banker was afraid of honouring the bet because____",
+    "prashna": "बैंकर शर्त पूरी करने से डर रहा था क्योंकि____",
+    "options": {
+      "A": "he had become financially weak",
+      "B": "He was very rich",
+      "C": "he was cruel",
+      "D": "he was cunning"
+    },
+    "vikalpa": {
+      "A": "वह आर्थिक रूप से कमजोर हो गया था",
+      "B": "वह बहुत अमीर था",
+      "C": "वह क्रूर था",
+      "D": "वह चालाक था"
+    }
+  },
+  {
+    "id": "obj_35",
+    "type": "objective",
+    "question": "The narrator’s girlfriend very confidently introduced her former____ to her husband.",
+    "prashna": "कथावाचक की प्रेमिका ने अपने पूर्व ____ का परिचय अपने पति से बहुत आत्मविश्वास के साथ कराया।",
+    "options": {
+      "A": "boyfriend",
+      "B": "brother",
+      "C": "sister",
+      "D": "mother"
+    },
+    "vikalpa": {
+      "A": "प्रेमी",
+      "B": "भाई",
+      "C": "बहन",
+      "D": "माँ"
+    }
+  },
+  {
+    "id": "obj_36",
+    "type": "objective",
+    "question": "Aung San Suu Kyi’s son refers to his mother’s___ and personal sacrifices.",
+    "prashna": "आंग सान सू की का बेटा अपनी माँ के ___ और व्यक्तिगत बलिदानों का उल्लेख करता है।",
+    "options": {
+      "A": "respect",
+      "B": "love",
+      "C": "dedication",
+      "D": "hatred"
+    },
+    "vikalpa": {
+      "A": "सम्मान",
+      "B": "प्यार",
+      "C": "समर्पण",
+      "D": "नफरत"
+    }
+  },
+  {
+    "id": "obj_37",
+    "type": "objective",
+    "question": "The author wanted to feed the ____ Gillu.",
+    "prashna": "लेखक ____ गिल्लू को खिलाना चाहता था।",
+    "options": {
+      "A": "happy",
+      "B": "hungry",
+      "C": "injured",
+      "D": "scared"
+    },
+    "vikalpa": {
+      "A": "खुश",
+      "B": "भूखे",
+      "C": "घायल",
+      "D": "डरे हुए"
+    }
+  },
+  {
+    "id": "obj_38",
+    "type": "objective",
+    "question": "Health and virtue are_____ for a contented man.",
+    "prashna": "एक संतुष्ट व्यक्ति के लिए स्वास्थ्य और सद्गुण _____ हैं।",
+    "options": {
+      "A": "blessings",
+      "B": "troubles",
+      "C": "curses",
+      "D": "problems"
+    },
+    "vikalpa": {
+      "A": "वरदान",
+      "B": "मुसीबतें",
+      "C": "अभिशाप",
+      "D": "समस्याएं"
+    }
+  },
+  {
+    "id": "obj_39",
+    "type": "objective",
+    "question": "The cinema combines the cold _________ of science.",
+    "prashna": "सिनेमा विज्ञान के ठंडे _________ को जोड़ता है।",
+    "options": {
+      "A": "love",
+      "B": "dream",
+      "C": "logic",
+      "D": "art"
+    },
+    "vikalpa": {
+      "A": "प्यार",
+      "B": "सपने",
+      "C": "तर्क",
+      "D": "कला"
+    }
+  },
+  {
+    "id": "obj_40",
+    "type": "objective",
+    "question": "The old woman in ‘Once upon A Time’ is a daughter of ____.",
+    "prashna": "'वन्स अपॉन ए टाइम' में बूढ़ी औरत ____ की बेटी है।",
+    "options": {
+      "A": "tribals",
+      "B": "affluent class",
+      "C": "slave",
+      "D": "farmer"
+    },
+    "vikalpa": {
+      "A": "आदिवासियों",
+      "B": "धनी वर्ग",
+      "C": "गुलाम",
+      "D": "किसान"
+    }
+  },
+  {
+    "id": "obj_41",
+    "type": "objective",
+    "question": "Though the man was very rich, still he was not _________.",
+    "prashna": "हालाँकि वह आदमी बहुत अमीर था, फिर भी वह _________ नहीं था।",
+    "options": {
+      "A": "satisfied",
+      "B": "greedy",
+      "C": "happy",
+      "D": "sad"
+    },
+    "vikalpa": {
+      "A": "संतुष्ट",
+      "B": "लालची",
+      "C": "खुश",
+      "D": "दुखी"
+    }
+  },
+  {
+    "id": "obj_42",
+    "type": "objective",
+    "question": "____ university conferred an honorary doctorate degree on Satyajit Ray.",
+    "prashna": "____ विश्वविद्यालय ने सत्यजीत रे को मानद डॉक्टरेट की उपाधि प्रदान की।",
+    "options": {
+      "A": "Oxford",
+      "B": "Harvard",
+      "C": "Cambridge",
+      "D": "Stanford"
+    },
+    "vikalpa": {
+      "A": "ऑक्सफोर्ड",
+      "B": "हार्वर्ड",
+      "C": "कैम्ब्रिज",
+      "D": "स्टैनफोर्ड"
+    }
+  },
+  {
+    "id": "obj_43",
+    "type": "objective",
+    "question": "‘O Kalpaka’, I seek your aid ; All I want is a pot of gold! is from __.",
+    "prashna": "'ओ कल्पक', मैं तुम्हारी सहायता चाहता हूँ; मुझे बस एक सोने का घड़ा चाहिए! यह पंक्तियाँ कहाँ से हैं?",
+    "options": {
+      "A": "Koel",
+      "B": "The Empty Heart",
+      "C": "The Sleeping Porter",
+      "D": "Polythene Bag"
+    },
+    "vikalpa": {
+      "A": "कोयल",
+      "B": "द एम्प्टी हार्ट",
+      "C": "द स्लीपिंग पोर्टर",
+      "D": "पॉलीथीन बैग"
+    }
+  },
+  {
+    "id": "obj_44",
+    "type": "objective",
+    "question": "The two girls in ‘Little Girls Wiser Than Men’ met_______.",
+    "prashna": "'लिटिल गर्ल्स वाइजर दैन मेन' में दोनों लड़कियां _______ मिलीं।",
+    "options": {
+      "A": "in a lane",
+      "B": "in the kitchen",
+      "C": "on the road",
+      "D": "in the drawing room"
+    },
+    "vikalpa": {
+      "A": "एक गली में",
+      "B": "रसोई में",
+      "C": "सड़क पर",
+      "D": "ड्राइंग रूम में"
+    }
+  },
+  {
+    "id": "obj_45",
+    "type": "objective",
+    "question": "‘Lo! The roses are on fire which winds and waters catch!’ is from",
+    "prashna": "'देखो! गुलाबों में आग लगी है जिसे हवाएँ और पानी पकड़ लेते हैं!' यह पंक्तियाँ कहाँ से हैं?",
+    "options": {
+      "A": "Thinners Than a Crescent",
+      "B": "Koel",
+      "C": "The Empty Heart",
+      "D": "Ode on Solitude"
+    },
+    "vikalpa": {
+      "A": "थिनर्स दैन ए क्रेसेंट",
+      "B": "कोयल",
+      "C": "द एम्प्टी हार्ट",
+      "D": "ओड ऑन सॉलिट्यूड"
+    }
+  },
+  {
+    "id": "obj_46",
+    "type": "objective",
+    "question": "Humayun Katri was a famous ________",
+    "prashna": "हुमायूँ कतरी एक प्रसिद्ध ________ थे।",
+    "options": {
+      "A": "doctor",
+      "B": "teacher",
+      "C": "political thinker",
+      "D": "singer"
+    },
+    "vikalpa": {
+      "A": "डॉक्टर",
+      "B": "शिक्षक",
+      "C": "राजनीतिक विचारक",
+      "D": "गायक"
+    }
+  },
+  {
+    "id": "obj_47",
+    "type": "objective",
+    "question": "Jim’s mother told him that he used ______ all the time for watching television.",
+    "prashna": "जिम की माँ ने उसे बताया कि वह टेलीविजन देखने के लिए हर समय ______ का उपयोग करता है।",
+    "options": {
+      "A": "watch",
+      "B": "energy",
+      "C": "time",
+      "D": "electricity"
+    },
+    "vikalpa": {
+      "A": "घड़ी",
+      "B": "ऊर्जा",
+      "C": "समय",
+      "D": "बिजली"
+    }
+  },
+  {
+    "id": "obj_48",
+    "type": "objective",
+    "question": "Being hurt causes _______ in human beings",
+    "prashna": "चोट लगने से मनुष्यों में _______ होता है।",
+    "options": {
+      "A": "pleasure",
+      "B": "forgiveness",
+      "C": "pain",
+      "D": "jealousy"
+    },
+    "vikalpa": {
+      "A": "आनंद",
+      "B": "क्षमा",
+      "C": "दर्द",
+      "D": "ईर्ष्या"
+    }
+  },
+  {
+    "id": "obj_49",
+    "type": "objective",
+    "question": "There were ‘ ______ silver pitchers’",
+    "prashna": "वहां ' ______ चांदी के घड़े' थे।",
+    "options": {
+      "A": "five",
+      "B": "seven",
+      "C": "six",
+      "D": "eight"
+    },
+    "vikalpa": {
+      "A": "पाँच",
+      "B": "सात",
+      "C": "छह",
+      "D": "आठ"
+    }
+  },
+  {
+    "id": "obj_50",
+    "type": "objective",
+    "question": "The poet refers to the Koel’s ‘______ strains’",
+    "prashna": "कवि कोयल के '______ स्वरों' का उल्लेख करता है।",
+    "options": {
+      "A": "low-pitched",
+      "B": "muted",
+      "C": "high-pitched",
+      "D": "silent"
+    },
+    "vikalpa": {
+      "A": "मंद",
+      "B": "मौन",
+      "C": "तीव्र",
+      "D": "शांत"
+    }
+  },
+  {
+    "id": "obj_51",
+    "type": "objective",
+    "question": "The corn merchant was upset because his ____ was cheating him.",
+    "prashna": "अनाज व्यापारी परेशान था क्योंकि उसका ____ उसे धोखा दे रहा था।",
+    "options": {
+      "A": "niece",
+      "B": "son-in-law",
+      "C": "cousin",
+      "D": "nephew"
+    },
+    "vikalpa": {
+      "A": "भतीजी",
+      "B": "दामाद",
+      "C": "चचेरा भाई",
+      "D": "भतीजा"
+    }
+  },
+  {
+    "id": "obj_52",
+    "type": "objective",
+    "question": "Aung San Suu Kyi’s party is known as ______",
+    "prashna": "आंग सान सू की की पार्टी को किस नाम से जाना जाता है?",
+    "options": {
+      "A": "Myanmar League",
+      "B": "Myanmar Congress",
+      "C": "National League for Democracy",
+      "D": "National Congress"
+    },
+    "vikalpa": {
+      "A": "म्यांमार लीग",
+      "B": "म्यांमार कांग्रेस",
+      "C": "नेशनल लीग फॉर डेमोक्रेसी",
+      "D": "नेशनल कांग्रेस"
+    }
+  },
+  {
+    "id": "obj_53",
+    "type": "objective",
+    "question": "‘Sound sleep by night; study and ease’ is from",
+    "prashna": "'रात में गहरी नींद; अध्ययन और आराम' यह पंक्तियाँ कहाँ से हैं?",
+    "options": {
+      "A": "Koel",
+      "B": "The Empty Heart",
+      "C": "Martha",
+      "D": "Ode on Solitude"
+    },
+    "vikalpa": {
+      "A": "कोयल",
+      "B": "द एम्प्टी हार्ट",
+      "C": "मार्था",
+      "D": "ओड ऑन सॉलिट्यूड"
+    }
+  },
+  {
+    "id": "obj_54",
+    "type": "objective",
+    "question": "Sakas and Hunas were the _______ of India.",
+    "prashna": "शक और हूण भारत के _______ थे।",
+    "options": {
+      "A": "thieves",
+      "B": "businessman",
+      "C": "invaders",
+      "D": "politicians"
+    },
+    "vikalpa": {
+      "A": "चोर",
+      "B": "व्यवसायी",
+      "C": "आक्रमणकारी",
+      "D": "राजनीतिज्ञ"
+    }
+  },
+  {
+    "id": "obj_55",
+    "type": "objective",
+    "question": "The daughter was impressed by her mother’s undiminished_____",
+    "prashna": "बेटी अपनी माँ के अक्षुण्ण _____ से प्रभावित थी।",
+    "options": {
+      "A": "enthusiasm",
+      "B": "love",
+      "C": "jealousy",
+      "D": "hatred"
+    },
+    "vikalpa": {
+      "A": "उत्साह",
+      "B": "प्यार",
+      "C": "ईर्ष्या",
+      "D": "नफरत"
+    }
+  },
+  {
+    "id": "obj_56",
+    "type": "objective",
+    "question": "‘O Madhva, I have run to call you ‘ _____ is from",
+    "prashna": "'ओ माधव, मैं तुम्हें बुलाने के लिए दौड़ी हूँ' यह पंक्तियाँ कहाँ से हैं?",
+    "options": {
+      "A": "Thinner than a Crescent",
+      "B": "Koel",
+      "C": "Martha",
+      "D": "The Sleeping Porter"
+    },
+    "vikalpa": {
+      "A": "थिनर दैन ए क्रेसेंट",
+      "B": "कोयल",
+      "C": "मार्था",
+      "D": "द स्लीपिंग पोर्टर"
+    }
+  },
+  {
+    "id": "obj_57",
+    "type": "objective",
+    "question": "Katherine Mansfield was inspired by",
+    "prashna": "कैथरीन मैन्सफील्ड किससे प्रेरित थीं?",
+    "options": {
+      "A": "John Galsworthy",
+      "B": "Prem Chand",
+      "C": "Anton Chekhov",
+      "D": "R.C. Hutchinson"
+    },
+    "vikalpa": {
+      "A": "जॉन गाल्सवर्दी",
+      "B": "प्रेमचंद",
+      "C": "एंटन चेखव",
+      "D": "आर.सी. हचिंसन"
+    }
+  },
+  {
+    "id": "obj_58",
+    "type": "objective",
+    "question": "‘And her beauty far away/ Would fade, as her voice ran on,’ is from",
+    "prashna": "'और उसकी सुंदरता दूर कहीं/ फीकी पड़ जाएगी, जैसे-जैसे उसकी आवाज़ चलती रहेगी,' यह पंक्तियाँ कहाँ से हैं?",
+    "options": {
+      "A": "Koel",
+      "B": "Ode on Autumn",
+      "C": "Martha",
+      "D": "The Sleeping Porter"
+    },
+    "vikalpa": {
+      "A": "कोयल",
+      "B": "ओड ऑन ऑटम",
+      "C": "मार्था",
+      "D": "द स्लीपिंग पोर्टर"
+    }
+  },
+  {
+    "id": "obj_59",
+    "type": "objective",
+    "question": "The raw material of cinema is……. itself",
+    "prashna": "सिनेमा की कच्ची सामग्री ……. स्वयं है।",
+    "options": {
+      "A": "life",
+      "B": "camera",
+      "C": "studio",
+      "D": "hall"
+    },
+    "vikalpa": {
+      "A": "जीवन",
+      "B": "कैमरा",
+      "C": "स्टूडियो",
+      "D": "हॉल"
+    }
+  },
+  {
+    "id": "obj_60",
+    "type": "objective",
+    "question": "‘And least be threatened in the fields and groves?___is from",
+    "prashna": "'और खेतों और उपवनों में कम से कम खतरा महसूस हो?' यह पंक्तियाँ कहाँ से हैं?",
+    "options": {
+      "A": "Gold Made the Country",
+      "B": "Koel",
+      "C": "The Sleeping Porter",
+      "D": "Martha"
+    },
+    "vikalpa": {
+      "A": "गोल्ड मेड द कंट्री",
+      "B": "कोयल",
+      "C": "द स्लीपिंग पोर्टर",
+      "D": "मार्था"
+    }
+  },
+  {
+    "id": "obj_61",
+    "type": "objective",
+    "question": "Choose the correctly spelt word",
+    "prashna": "सही वर्तनी वाले शब्द का चयन करें",
+    "options": {
+      "A": "Dificulti",
+      "B": "Dewficulti",
+      "C": "Difewculti",
+      "D": "Difficulty"
+    },
+    "vikalpa": {
+      "A": "Dificulti",
+      "B": "Dewficulti",
+      "C": "Difewculti",
+      "D": "Difficulty"
+    }
+  },
+  {
+    "id": "obj_62",
+    "type": "objective",
+    "question": "Choose the correctly spelt word",
+    "prashna": "सही वर्तनी वाले शब्द का चयन करें",
+    "options": {
+      "A": "Untouchable",
+      "B": "Untuchuble",
+      "C": "Unteucheble",
+      "D": "Uentouchable"
+    },
+    "vikalpa": {
+      "A": "Untouchable",
+      "B": "Untuchuble",
+      "C": "Unteucheble",
+      "D": "Uentouchable"
+    }
+  },
+  {
+    "id": "obj_63",
+    "type": "objective",
+    "question": "Choose the correctly spelt word",
+    "prashna": "सही वर्तनी वाले शब्द का चयन करें",
+    "options": {
+      "A": "Corespond",
+      "B": "Curespund",
+      "C": "Currypond",
+      "D": "Correspond"
+    },
+    "vikalpa": {
+      "A": "Corespond",
+      "B": "Curespund",
+      "C": "Currypond",
+      "D": "Correspond"
+    }
+  },
+  {
+    "id": "obj_64",
+    "type": "objective",
+    "question": "Choose the correctly spelt word",
+    "prashna": "सही वर्तनी वाले शब्द का चयन करें",
+    "options": {
+      "A": "Reflection",
+      "B": "Raflection",
+      "C": "Rifliction",
+      "D": "Rewflection"
+    },
+    "vikalpa": {
+      "A": "Reflection",
+      "B": "Raflection",
+      "C": "Rifliction",
+      "D": "Rewflection"
+    }
+  },
+  {
+    "id": "obj_65",
+    "type": "objective",
+    "question": "Choose the correctly spelt word",
+    "prashna": "सही वर्तनी वाले शब्द का चयन करें",
+    "options": {
+      "A": "Fiminene",
+      "B": "Femenien",
+      "C": "Feminine",
+      "D": "Fewmenene"
+    },
+    "vikalpa": {
+      "A": "Fiminene",
+      "B": "Femenien",
+      "C": "Feminine",
+      "D": "Fewmenene"
+    }
+  },
+  {
+    "id": "obj_66",
+    "type": "objective",
+    "question": "Choose the correctly spelt word",
+    "prashna": "सही वर्तनी वाले शब्द का चयन करें",
+    "options": {
+      "A": "Emprusion",
+      "B": "Impression",
+      "C": "Impewsion",
+      "D": "Emprision"
+    },
+    "vikalpa": {
+      "A": "Emprusion",
+      "B": "Impression",
+      "C": "Impewsion",
+      "D": "Emprision"
+    }
+  },
+  {
+    "id": "obj_67",
+    "type": "objective",
+    "question": "Choose the correctly spelt word",
+    "prashna": "सही वर्तनी वाले शब्द का चयन करें",
+    "options": {
+      "A": "Incarsirated",
+      "B": "Inkarcirated",
+      "C": "Incarcerated",
+      "D": "Incaarcirated"
+    },
+    "vikalpa": {
+      "A": "Incarsirated",
+      "B": "Inkarcirated",
+      "C": "Incarcerated",
+      "D": "Incaarcirated"
+    }
+  },
+  {
+    "id": "obj_68",
+    "type": "objective",
+    "question": "Choose the correct indirect speech of : Rekha said, “ I have finished my work.”",
+    "prashna": "रेखा ने कहा, \"मैंने अपना काम खत्म कर लिया है।\" का सही अप्रत्यक्ष कथन चुनें।",
+    "options": {
+      "A": "Rekha is saying that she is finishing her work.",
+      "B": "Rekha says that she must finish my work.",
+      "C": "Rekha said that she had finished her work.",
+      "D": "Rekha declared that she finish her work."
+    },
+    "vikalpa": {
+      "A": "रेखा कह रही है कि वह अपना काम खत्म कर रही है।",
+      "B": "रेखा कहती है कि उसे मेरा काम खत्म करना होगा।",
+      "C": "रेखा ने कहा कि उसने अपना काम खत्म कर लिया था।",
+      "D": "रेखा ने घोषणा की कि वह अपना काम खत्म करती है।"
+    }
+  },
+  {
+    "id": "obj_69",
+    "type": "objective",
+    "question": "Choose the correct indirect speech of: My father said, “It may rain.”",
+    "prashna": "मेरे पिता ने कहा, \"बारिश हो सकती है।\" का सही अप्रत्यक्ष कथन चुनें।",
+    "options": {
+      "A": "My father said that it might rain.",
+      "B": "My father says that it might rain.",
+      "C": "My father said that it will rain.",
+      "D": "My father said that it may rain."
+    },
+    "vikalpa": {
+      "A": "मेरे पिता ने कहा कि बारिश हो सकती थी।",
+      "B": "मेरे पिता कहते हैं कि बारिश हो सकती थी।",
+      "C": "मेरे पिता ने कहा कि बारिश होगी।",
+      "D": "मेरे पिता ने कहा कि बारिश हो सकती है।"
+    }
+  },
+  {
+    "id": "obj_70",
+    "type": "objective",
+    "question": "Choose the correct indirect speech of: Chotu said, “Where is the doctor?”",
+    "prashna": "छोटू ने कहा, \"डॉक्टर कहाँ है?\" का सही अप्रत्यक्ष कथन चुनें।",
+    "options": {
+      "A": "Chotu asking where the doctor is.",
+      "B": "Chotu asked where is the doctor.",
+      "C": "Chotu says that where is the doctor.",
+      "D": "Chotu asked where the doctor was."
+    },
+    "vikalpa": {
+      "A": "छोटू पूछ रहा है कि डॉक्टर कहाँ है।",
+      "B": "छोटू ने पूछा कि डॉक्टर कहाँ है।",
+      "C": "छोटू कहता है कि डॉक्टर कहाँ है।",
+      "D": "छोटू ने पूछा कि डॉक्टर कहाँ था।"
+    }
+  },
+  {
+    "id": "obj_71",
+    "type": "objective",
+    "question": "Choose the correct direct speech of: Vivek asked me not to play in the sun.",
+    "prashna": "विवेक ने मुझसे धूप में न खेलने के लिए कहा। इसका सही प्रत्यक्ष कथन चुनें।",
+    "options": {
+      "A": "Vivek told, “Do not play in the sun.”",
+      "B": "Vivek had asked, “Do not play in the sun.”",
+      "C": "Vivek said, “Don’t play in the sun.”",
+      "D": "Vivek said, “Do play, not in the sun.”"
+    },
+    "vikalpa": {
+      "A": "विवेक ने कहा, \"धूप में मत खेलो।\"",
+      "B": "विवेक ने पूछा था, \"धूप में मत खेलो।\"",
+      "C": "विवेक ने कहा, \"धूप में मत खेलो।\"",
+      "D": "विवेक ने कहा, \"खेलो, धूप में नहीं।\""
+    }
+  },
+  {
+    "id": "obj_72",
+    "type": "objective",
+    "question": "Choose the correct direct speech of: The mother forbade her children from going out.",
+    "prashna": "माँ ने अपने बच्चों को बाहर जाने से मना किया। इसका सही प्रत्यक्ष कथन चुनें।",
+    "options": {
+      "A": "The mother is saying to her children, “Do not go out.”",
+      "B": "The mother said to her children, “Do not go out.”",
+      "C": "The mother was saying to her children, “Do not go out.”",
+      "D": "The mother asks to her children, “Do not go out.”"
+    },
+    "vikalpa": {
+      "A": "माँ अपने बच्चों से कह रही है, \"बाहर मत जाओ।\"",
+      "B": "माँ ने अपने बच्चों से कहा, \"बाहर मत जाओ।\"",
+      "C": "माँ अपने बच्चों से कह रही थी, \"बाहर मत जाओ।\"",
+      "D": "माँ अपने बच्चों से पूछती है, \"बाहर मत जाओ।\""
+    }
+  },
+  {
+    "id": "obj_73",
+    "type": "objective",
+    "question": "Choose the correct direct speech of: He exclaimed with sorrow that he was ruined.",
+    "prashna": "उसने दुख के साथ विलाप किया कि वह बर्बाद हो गया। इसका सही प्रत्यक्ष कथन चुनें।",
+    "options": {
+      "A": "He saying, “Alas! I am ruined.”",
+      "B": "He asks, “Alas! I am ruined.”",
+      "C": "He said, “Alas! I am ruined.”",
+      "D": "He is saying, “Alas! I am ruined.”"
+    },
+    "vikalpa": {
+      "A": "वह कह रहा है, \"हाय! मैं बर्बाद हो गया हूँ।\"",
+      "B": "वह पूछता है, \"हाय! मैं बर्बाद हो गया हूँ।\"",
+      "C": "उसने कहा, \"हाय! मैं बर्बाद हो गया हूँ।\"",
+      "D": "वह कह रहा है, \"हाय! मैं बर्बाद हो गया हूँ।\""
+    }
+  },
+  {
+    "id": "obj_74",
+    "type": "objective",
+    "question": "Ritika is known ____ me.",
+    "prashna": "रीतिका मुझे ____ जाती है।",
+    "options": {
+      "A": "of",
+      "B": "to",
+      "C": "at",
+      "D": "on"
+    },
+    "vikalpa": {
+      "A": "of",
+      "B": "to",
+      "C": "at",
+      "D": "on"
+    }
+  },
+  {
+    "id": "obj_75",
+    "type": "objective",
+    "question": "I bought these goods ____ the market.",
+    "prashna": "मैंने ये सामान बाजार ____ खरीदा।",
+    "options": {
+      "A": "on",
+      "B": "from",
+      "C": "in",
+      "D": "of"
+    },
+    "vikalpa": {
+      "A": "पर",
+      "B": "से",
+      "C": "में",
+      "D": "का"
+    }
+  },
+  {
+    "id": "obj_76",
+    "type": "objective",
+    "question": "Please cut the mangoes _____ a sharp knife.",
+    "prashna": "कृपया आमों को एक तेज चाकू _____ काटें।",
+    "options": {
+      "A": "on",
+      "B": "with",
+      "C": "of",
+      "D": "by"
+    },
+    "vikalpa": {
+      "A": "पर",
+      "B": "से",
+      "C": "का",
+      "D": "द्वारा"
+    }
+  },
+  {
+    "id": "obj_77",
+    "type": "objective",
+    "question": "I shall complete my work ____ an hour.",
+    "prashna": "मैं अपना काम एक घंटे ____ पूरा करूँगा।",
+    "options": {
+      "A": "at",
+      "B": "within",
+      "C": "on",
+      "D": "through"
+    },
+    "vikalpa": {
+      "A": "पर",
+      "B": "के भीतर",
+      "C": "पर",
+      "D": "के माध्यम से"
+    }
+  },
+  {
+    "id": "obj_78",
+    "type": "objective",
+    "question": "Rani is angry _____ her friends.",
+    "prashna": "रानी अपनी सहेलियों _____ नाराज है।",
+    "options": {
+      "A": "with",
+      "B": "from",
+      "C": "in",
+      "D": "of"
+    },
+    "vikalpa": {
+      "A": "से",
+      "B": "से",
+      "C": "में",
+      "D": "का"
+    }
+  },
+  {
+    "id": "obj_79",
+    "type": "objective",
+    "question": "Sneha has lived in this society ____ childhood.",
+    "prashna": "स्नेहा बचपन ____ इस समाज में रहती है।",
+    "options": {
+      "A": "since",
+      "B": "by",
+      "C": "at",
+      "D": "for"
+    },
+    "vikalpa": {
+      "A": "से (निश्चित समय)",
+      "B": "द्वारा",
+      "C": "पर",
+      "D": "के लिए"
+    }
+  },
+  {
+    "id": "obj_80",
+    "type": "objective",
+    "question": "Sanchita comes _____ a good family.",
+    "prashna": "संचिता एक अच्छे परिवार _____ आती है।",
+    "options": {
+      "A": "on",
+      "B": "at",
+      "C": "from",
+      "D": "by"
+    },
+    "vikalpa": {
+      "A": "पर",
+      "B": "पर",
+      "C": "से",
+      "D": "द्वारा"
+    }
+  },
+  {
+    "id": "obj_81",
+    "type": "objective",
+    "question": "My brother ____ to Poona last week.",
+    "prashna": "मेरा भाई पिछले हफ्ते पूना ____।",
+    "options": {
+      "A": "go",
+      "B": "went",
+      "C": "goes",
+      "D": "will go"
+    },
+    "vikalpa": {
+      "A": "जाना",
+      "B": "गया",
+      "C": "जाता है",
+      "D": "जाएगा"
+    }
+  },
+  {
+    "id": "obj_82",
+    "type": "objective",
+    "question": "Sarita _____ singing for an hour.",
+    "prashna": "सरिता एक घंटे से गाना _____।",
+    "options": {
+      "A": "has been",
+      "B": "is",
+      "C": "was been",
+      "D": "has"
+    },
+    "vikalpa": {
+      "A": "गा रही है",
+      "B": "है",
+      "C": "थी रही है",
+      "D": "रखती है"
+    }
+  },
+  {
+    "id": "obj_83",
+    "type": "objective",
+    "question": "Javed did not ___ a letter.",
+    "prashna": "जावेद ने पत्र नहीं ___।",
+    "options": {
+      "A": "wrote",
+      "B": "written",
+      "C": "write",
+      "D": "writing"
+    },
+    "vikalpa": {
+      "A": "लिखा",
+      "B": "लिखा हुआ",
+      "C": "लिखना",
+      "D": "लिख रहा"
+    }
+  },
+  {
+    "id": "obj_84",
+    "type": "objective",
+    "question": "Seema was ____ a pink saree.",
+    "prashna": "सीमा ने गुलाबी साड़ी ____ थी।",
+    "options": {
+      "A": "wear",
+      "B": "wearing",
+      "C": "wore",
+      "D": "will wear"
+    },
+    "vikalpa": {
+      "A": "पहनना",
+      "B": "पहन रही",
+      "C": "पहनी",
+      "D": "पहनेगी"
+    }
+  },
+  {
+    "id": "obj_85",
+    "type": "objective",
+    "question": "You can ___ me whenever you want.",
+    "prashna": "जब चाहो तुम मुझसे ___ सकते हो।",
+    "options": {
+      "A": "met",
+      "B": "meet",
+      "C": "meeting",
+      "D": "will meet"
+    },
+    "vikalpa": {
+      "A": "मिले",
+      "B": "मिलना",
+      "C": "मिल रहे",
+      "D": "मिलोगे"
+    }
+  },
+  {
+    "id": "obj_86",
+    "type": "objective",
+    "question": "I ___ every morning for the whole mankind.",
+    "prashna": "मैं हर सुबह पूरी मानव जाति के लिए ___ हूँ।",
+    "options": {
+      "A": "pray",
+      "B": "prayed",
+      "C": "praying",
+      "D": "has pray"
+    },
+    "vikalpa": {
+      "A": "प्रार्थना करना",
+      "B": "प्रार्थना की",
+      "C": "प्रार्थना कर रहा",
+      "D": "प्रार्थना की है"
+    }
+  },
+  {
+    "id": "obj_87",
+    "type": "objective",
+    "question": "Kamlesh has got his car _____.",
+    "prashna": "कमलेश ने अपनी कार _____ ली है।",
+    "options": {
+      "A": "repairing",
+      "B": "repaired",
+      "C": "repair",
+      "D": "will repair"
+    },
+    "vikalpa": {
+      "A": "मरम्मत करना",
+      "B": "मरम्मत करवा",
+      "C": "मरम्मत",
+      "D": "मरम्मत करेगा"
+    }
+  },
+  {
+    "id": "obj_88",
+    "type": "objective",
+    "question": "Choose the correct antonym of ‘Humility’.",
+    "prashna": "‘Humility’ (विनम्रता) का सही विलोम शब्द चुनें।",
+    "options": {
+      "A": "Dignity",
+      "B": "Anger",
+      "C": "Cruelty",
+      "D": "Pride"
+    },
+    "vikalpa": {
+      "A": "गरिमा",
+      "B": "गुस्सा",
+      "C": "क्रूरता",
+      "D": "अभिमान"
+    }
+  },
+  {
+    "id": "obj_89",
+    "type": "objective",
+    "question": "Choose the correct antonym of ‘Shallow’.",
+    "prashna": "‘Shallow’ (छिछला) का सही विलोम शब्द चुनें।",
+    "options": {
+      "A": "High",
+      "B": "Wide",
+      "C": "Long",
+      "D": "Deep"
+    },
+    "vikalpa": {
+      "A": "ऊँचा",
+      "B": "चौड़ा",
+      "C": "लंबा",
+      "D": "गहरा"
+    }
+  },
+  {
+    "id": "obj_90",
+    "type": "objective",
+    "question": "Choose the correct synonym of ‘Adequate’",
+    "prashna": "‘Adequate’ (पर्याप्त) का सही पर्यायवाची शब्द चुनें।",
+    "options": {
+      "A": "Sufficient",
+      "B": "Necessary",
+      "C": "Additional",
+      "D": "Procured"
+    },
+    "vikalpa": {
+      "A": "पर्याप्त",
+      "B": "आवश्यक",
+      "C": "अतिरिक्त",
+      "D": "प्राप्त किया हुआ"
+    }
+  },
+  {
+    "id": "obj_91",
+    "type": "objective",
+    "question": "Choose the correct synonym of ‘Relish’",
+    "prashna": "‘Relish’ (आनंद लेना/स्वाद) का सही पर्यायवाची शब्द चुनें।",
+    "options": {
+      "A": "Realise",
+      "B": "Enjoy",
+      "C": "Taste",
+      "D": "Reveal"
+    },
+    "vikalpa": {
+      "A": "महसूस करना",
+      "B": "आनंद लेना",
+      "C": "स्वाद चखना",
+      "D": "प्रकट करना"
+    }
+  },
+  {
+    "id": "obj_92",
+    "type": "objective",
+    "question": "Choose the active voice of ‘By whom was it painted?’",
+    "prashna": "‘By whom was it painted?’ का सक्रिय स्वर (active voice) चुनें।",
+    "options": {
+      "A": "Who painting it?",
+      "B": "Who painted it?",
+      "C": "Whom painted it?",
+      "D": "Whose painting it?"
+    },
+    "vikalpa": {
+      "A": "कौन इसे चित्रित कर रहा है?",
+      "B": "इसे किसने चित्रित किया?",
+      "C": "किसे इसे चित्रित किया?",
+      "D": "किसका इसे चित्रित करना?"
+    }
+  },
+  {
+    "id": "obj_93",
+    "type": "objective",
+    "question": "Choose the active voice of ‘A novel is being read by her.’",
+    "prashna": "‘A novel is being read by her.’ का सक्रिय स्वर (active voice) चुनें।",
+    "options": {
+      "A": "She reads a novel.",
+      "B": "She had been read a novel.",
+      "C": "She is reading a novel.",
+      "D": "She was read a novel."
+    },
+    "vikalpa": {
+      "A": "वह एक उपन्यास पढ़ती है।",
+      "B": "उससे एक उपन्यास पढ़ा गया था।",
+      "C": "वह एक उपन्यास पढ़ रही है।",
+      "D": "उसने एक उपन्यास पढ़ा।"
+    }
+  },
+  {
+    "id": "obj_94",
+    "type": "objective",
+    "question": "Choose the active voice of ‘A card was sent to me by Ashish.’",
+    "prashna": "‘A card was sent to me by Ashish.’ का सक्रिय स्वर (active voice) चुनें।",
+    "options": {
+      "A": "Ashish will be sending me a card.",
+      "B": "Ashish had to send me a card.",
+      "C": "Ashish sending me a card.",
+      "D": "Ashish sent me a card."
+    },
+    "vikalpa": {
+      "A": "आशीष मुझे कार्ड भेज रहा होगा।",
+      "B": "आशीष को मुझे कार्ड भेजना था।",
+      "C": "आशीष मुझे कार्ड भेज रहा है।",
+      "D": "आशीष ने मुझे कार्ड भेजा।"
+    }
+  },
+  {
+    "id": "obj_95",
+    "type": "objective",
+    "question": "Choose the passive voice of ‘It is time to open the shop.’",
+    "prashna": "‘It is time to open the shop.’ का निष्क्रिय स्वर (passive voice) चुनें।",
+    "options": {
+      "A": "It is for the shop to be opened on time.",
+      "B": "It is time to be opened the shop.",
+      "C": "It is time for the shop to be opened.",
+      "D": "The shop must be opened on time."
+    },
+    "vikalpa": {
+      "A": "दुकान समय पर खुलनी चाहिए।",
+      "B": "दुकान खुलने का समय है।",
+      "C": "दुकान खोले जाने का समय हो गया है।",
+      "D": "दुकान समय पर खुलनी चाहिए।"
+    }
+  },
+  {
+    "id": "obj_96",
+    "type": "objective",
+    "question": "Choose the passive voice of ‘ Who has stolen my books?’",
+    "prashna": "‘Who has stolen my books?’ का निष्क्रिय स्वर (passive voice) चुनें।",
+    "options": {
+      "A": "By whom my books have been stolen?",
+      "B": "By whom have my books been stolen?",
+      "C": "By whom has my books been stolen?",
+      "D": "By whom my books has been stolen?"
+    },
+    "vikalpa": {
+      "A": "मेरी किताबें किसके द्वारा चुराई गई हैं?",
+      "B": "मेरी किताबें किसके द्वारा चुराई गई हैं?",
+      "C": "मेरी किताबें किसके द्वारा चुराई गई हैं?",
+      "D": "मेरी किताबें किसके द्वारा चुराई गई हैं?"
+    }
+  },
+  {
+    "id": "obj_97",
+    "type": "objective",
+    "question": "Choose the passive voice of ‘Promises should be kept.’",
+    "prashna": "‘Promises should be kept.’ का सक्रिय स्वर (active voice) चुनें।",
+    "options": {
+      "A": "You must keep the promises.",
+      "B": "We must keep the promises.",
+      "C": "One should keep one’s promises.",
+      "D": "One should keep the promises."
+    },
+    "vikalpa": {
+      "A": "आपको वादे निभाने चाहिए।",
+      "B": "हमें वादे निभाने चाहिए।",
+      "C": "व्यक्ति को अपने वादे निभाने चाहिए।",
+      "D": "वादे निभाए जाने चाहिए।"
+    }
+  },
+  {
+    "id": "obj_98",
+    "type": "objective",
+    "question": "Choose the most suitable translation: मैंने उसे पार्क में बैठे हुए देखा।",
+    "prashna": "सबसे उपयुक्त अनुवाद चुनें: मैंने उसे पार्क में बैठे हुए देखा।",
+    "options": {
+      "A": "I saw him sitting in the park.",
+      "B": "I will see him sit in the park.",
+      "C": "I see him sit in the park.",
+      "D": "I had seen him sit in the park."
+    },
+    "vikalpa": {
+      "A": "I saw him sitting in the park.",
+      "B": "I will see him sit in the park.",
+      "C": "I see him sit in the park.",
+      "D": "I had seen him sit in the park."
+    }
+  },
+  {
+    "id": "obj_99",
+    "type": "objective",
+    "question": "Choose the most suitable translation: शांति एक अमूल्य चीज़ है।",
+    "prashna": "सबसे उपयुक्त अनुवाद चुनें: शांति एक अमूल्य चीज़ है।",
+    "options": {
+      "A": "Peace will be invaluable.",
+      "B": "Peace was invaluable.",
+      "C": "Peace has been invaluable.",
+      "D": "Peace is a priceless thing."
+    },
+    "vikalpa": {
+      "A": "Peace will be invaluable.",
+      "B": "Peace was invaluable.",
+      "C": "Peace has been invaluable.",
+      "D": "Peace is a priceless thing."
+    }
+  },
+  {
+    "id": "obj_100",
+    "type": "objective",
+    "question": "Choose the most suitable translation: हमें मेहनत करना चाहिए।",
+    "prashna": "सबसे उपयुक्त अनुवाद चुनें: हमें मेहनत करना चाहिए।",
+    "options": {
+      "A": "Hard work we should.",
+      "B": "We should be a hard-working man.",
+      "C": "We should work hard.",
+      "D": "Our work should be done hardly."
+    },
+    "vikalpa": {
+      "A": "Hard work we should.",
+      "B": "We should be a hard-working man.",
+      "C": "We should work hard.",
+      "D": "Our work should be done hardly."
+    }
+  },
+  {
+    "id": "passage_1_1",
+    "type": "passage",
+    "context": "Your behaviour is the key to your success. Well-behaved persons are always admired in society. A polite teacher can create interest in students. Their learning increases if the teacher is kind and persuasive. The students generally listen to him carefully. They usually find his teaching very interesting. The smiling face of a doctor increases the healing ability in the patients. The patients often recover quickly. His good behaviour helps them more than medicines. The patients feel much better in his presence. Such a doctor is always successful in his profession. A well behaved officer is always popular among the subordinates. His soft manners inspire his subordinates to work well. He always gets his work done in time.",
+    "question": "Read the following passage carefully and answer the questions that follow:",
+    "prashna": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और नीचे दिए गए प्रश्नों के उत्तर दें:",
+    "sub_questions": {
+      "1": "What can a kind teacher achieve?",
+      "2": "What is the importance of one’s behaviour individually and socially?",
+      "3": "How do patients feel in the presence of a well-behaved doctor?",
+      "4": "What inspires the subordinates to work sincerely?"
+    },
+    "anuprashna": {
+      "1": "एक दयालु शिक्षक क्या हासिल कर सकता है?",
+      "2": "व्यक्तिगत और सामाजिक रूप से किसी के व्यवहार का क्या महत्व है?",
+      "3": "एक अच्छे व्यवहार वाले डॉक्टर की उपस्थिति में मरीज कैसा महसूस करते हैं?",
+      "4": "अधीनस्थों को ईमानदारी से काम करने के लिए क्या प्रेरित करता है?"
+    }
+  },
+  {
+    "id": "passage_1_2",
+    "type": "passage",
+    "context": "Abraham Lincoln, who became the 16th President of the USA, was an extraordinary man. His remarkable achievement was his astute leadership in the American Civil War. He succeeded in preserving the Union, abolished slavery, strengthened the federal government, and modernized the economy. Largely self-educated, Lincoln became a lawyer. As President, he was responsible for many enactments of far reaching political and social consequences. He explored the true nature of democracy, and, therefore, fought valiantly for the suppressed people. Conscientious and sensitive, Lincoln opposed slavery. His liberal policies, however, did not find favour with the racist people. He was unfortunately assassinated in 1885.",
+    "question": "Read the following passage carefully and answer the questions that follow:",
+    "prashna": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और नीचे दिए गए प्रश्नों के उत्तर दें:",
+    "sub_questions": {
+      "1": "Why was Lincoln called an extraordinary man?",
+      "2": "What was his achievement in the American Civil War?",
+      "3": "What were his other achievements?",
+      "4": "Why were the racist people against him?"
+    },
+    "anuprashna": {
+      "1": "लिंकन को एक असाधारण व्यक्ति क्यों कहा जाता था?",
+      "2": "अमेरिकी नागरिक युद्ध में उनकी उपलब्धि क्या थी?",
+      "3": "उनकी अन्य उपलब्धियां क्या थीं?",
+      "4": "नस्लवादी लोग उनके खिलाफ क्यों थे?"
+    }
+  },
+  {
+    "id": "passage_2_1",
+    "type": "passage",
+    "context": "Garbage is a great environmental hazard. It comes from various sources - used paper, tiffin packings, plastic bags, ice-cream wrappers, bottle caps, fallen leaves from trees and many more. Garbage makes the premises ugly, unkempt and breeds diseases. A lot of trash that is thrown away contain material that can be recycled and reused such as paper, metals and glass which can be sent to the nearest recycling centre or disposed of to the junk dealer. It also contains organic matter such as leaves which can enrich soil fertility. A compost pit can be made at a convenient location where the refuse can be placed with layers of soil and an occasional sprinkling of water. This would help decomposition to make valuable fertilizer. This would also prevent pollution that is usually caused by burning such organic waste.",
+    "question": "Read the following passage carefully and answer the questions that follow:",
+    "prashna": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और नीचे दिए गए प्रश्नों के उत्तर दें:",
+    "sub_questions": {
+      "1": "What happens to the disposed material at the recycling centre?",
+      "2": "Where does garbage come from?",
+      "3": "Where should a compost pit be made?",
+      "4": "How would pollution be prevented?"
+    },
+    "anuprashna": {
+      "1": "रीसाइक्लिंग सेंटर में निपटाए गए सामग्री का क्या होता है?",
+      "2": "कूड़ा कहाँ से आता है?",
+      "3": "खाद गड्ढा (compost pit) कहाँ बनाया जाना चाहिए?",
+      "4": "प्रदूषण को कैसे रोका जाएगा?"
+    }
+  },
+  {
+    "id": "passage_2_2",
+    "type": "passage",
+    "context": "The monsoon is essentially the seasonal reversal in wind direction. It causes most of the rainfall received in India and some other parts of the world. The primary cause of monsoons is the difference between annual temperature trends over land and sea. The apparent position of the Sun with reference to the Earth oscillates from the Tropic of Cancer to the Tropic of Capricorn. Thus the low-pressure region created by solar heating also changes latitudes. The northeast and southeast trade winds converge in this low-pressure zone, which is also known as the Inter Tropical Convergence Zone or ITCZ. This low-pressure region sees continuous rise of moist wind from the sea surface to the upper layers of the atmosphere, where the cooling means the air can no longer hold so much moisture resulting in precipitation.",
+    "question": "Read the following passage carefully and answer the questions that follow:",
+    "prashna": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और नीचे दिए गए प्रश्नों के उत्तर दें:",
+    "sub_questions": {
+      "1": "What causes the monsoon?",
+      "2": "What changes the latitude?",
+      "3": "What is the ITCZ?",
+      "4": "What causes precipitation?"
+    },
+    "anuprashna": {
+      "1": "मानसून का क्या कारण है?",
+      "2": "अक्षांश को क्या बदलता है?",
+      "3": "ITCZ क्या है?",
+      "4": "वर्षा का क्या कारण है?"
+    }
+  },
+  {
+    "id": "poem_1_1",
+    "type": "poem",
+    "context": "Trees are the kindest things I know,\nThey do no harm, they simply grow\nAnd spread a shade for sleepy cows.\nAnd gather birds among the boughs.\nThey are the first when the day’s begin\nTo touch the morning sun,\nThey are the last to hold the light\nWhen evening changes into night.\nAnd when the moon floats on the sky\nThey hum a drowsy lullaby\nOf sleepy children long ago..\nTrees are the kindest things I know.",
+    "question": "Read the following poem carefully and answer the questions that follow:",
+    "prashna": "निम्नलिखित कविता को ध्यानपूर्वक पढ़ें और नीचे दिए गए प्रश्नों के उत्तर दें:",
+    "sub_questions": {
+      "1": "Why does the poet call the trees the kindest things he knows?",
+      "2": "What are the things that trees do?",
+      "3": "What do they do to sleepy children?"
+    },
+    "anuprashna": {
+      "1": "कवि पेड़ों को अपनी जानकारी में सबसे दयालु चीजें क्यों कहता है?",
+      "2": "पेड़ क्या-क्या काम करते हैं?",
+      "3": "वे सोते हुए बच्चों के लिए क्या करते हैं?"
+    }
+  },
+  {
+    "id": "poem_1_2",
+    "type": "poem",
+    "context": "Sometimes when the day is bad\nAnd someone’s made me very sad\nOr I’ve been given angry stares\nI go behind the front porch stairs\nThere, curled up with chin on knee\nI like to be alone with me\nAnd listen to people talk\nAnd hurry by me on the walk.",
+    "question": "Read the following poem carefully and answer the questions that follow:",
+    "prashna": "निम्नलिखित कविता को ध्यानपूर्वक पढ़ें और नीचे दिए गए प्रश्नों के उत्तर दें:",
+    "sub_questions": {
+      "1": "Where does the speaker go when he is angry?",
+      "2": "What does he do when he is angry and alone?",
+      "3": "What do the people around him do?"
+    },
+    "anuprashna": {
+      "1": "जब वक्ता नाराज होता है तो वह कहाँ जाता है?",
+      "2": "नाराज और अकेला होने पर वह क्या करता है?",
+      "3": "उसके आस-पास के लोग क्या करते हैं?"
+    }
+  },
+  {
+    "id": "short_1",
+    "type": "short_answer",
+    "question": "What happened to the tree referred to by Mr. Johnson?",
+    "prashna": "मिस्टर जॉनसन द्वारा संदर्भित पेड़ को क्या हुआ?"
+  },
+  {
+    "id": "short_2",
+    "type": "short_answer",
+    "question": "What does ‘bird’ and ‘woman’ signify to the speaker?",
+    "prashna": "वक्ता के लिए 'पक्षी' और 'स्त्री' क्या दर्शाते हैं?"
+  },
+  {
+    "id": "short_3",
+    "type": "short_answer",
+    "question": "Which spirit underlies the changes of Indian history?",
+    "prashna": "भारतीय इतिहास के परिवर्तनों के पीछे कौन सी भावना निहित है?"
+  },
+  {
+    "id": "short_4",
+    "type": "short_answer",
+    "question": "What does Aris say about the fight going on in Rangoon?",
+    "prashna": "रंगून में चल रही लड़ाई के बारे में एरिस क्या कहते हैं?"
+  },
+  {
+    "id": "short_5",
+    "type": "short_answer",
+    "question": "Who is challenging the mountains?",
+    "prashna": "पहाड़ों को कौन चुनौती दे रहा है?"
+  },
+  {
+    "id": "short_6",
+    "type": "short_answer",
+    "question": "When did the man want one more pot of gold?",
+    "prashna": "आदमी को सोने का एक और घड़ा कब चाहिए था?"
+  },
+  {
+    "id": "short_7",
+    "type": "short_answer",
+    "question": "Why is the Koel praised?",
+    "prashna": "कोयल की प्रशंसा क्यों की जाती है?"
+  },
+  {
+    "id": "short_8",
+    "type": "short_answer",
+    "question": "What happens to the shades of mangoes?",
+    "prashna": "आम की छाया को क्या होता है?"
+  },
+  {
+    "id": "short_9",
+    "type": "short_answer",
+    "question": "What is histamine?",
+    "prashna": "हिस्टामाइन क्या है?"
+  },
+  {
+    "id": "short_10",
+    "type": "short_answer",
+    "question": "Why was there nobody to look after Sun and Moon?",
+    "prashna": "सन और मून (बच्चों) की देखभाल के लिए कोई क्यों नहीं था?"
+  },
+  {
+    "id": "essay_1",
+    "type": "essay",
+    "question": "Write a paragraph on any one of the following in about 60-70 words: i. Corruption, ii. Clean India Movement, iii. National Integration, iv. Kindness to Animals, v. Might is Right",
+    "prashna": "निम्नलिखित में से किसी एक पर लगभग 60-70 शब्दों में अनुच्छेद लिखें: i. भ्रष्टाचार, ii. स्वच्छ भारत अभियान, iii. राष्ट्रीय एकता, iv. जानवरों के प्रति दया, v. जिसकी लाठी उसकी भैंस"
+  },
+  {
+    "id": "letter_1",
+    "type": "letter",
+    "question": "You are the Secretary of the Cultural Committee. Write a notice in about 60-70 words inviting entry for Inter-School Dance Competition.",
+    "prashna": "आप सांस्कृतिक समिति के सचिव हैं। अंतर-विद्यालय नृत्य प्रतियोगिता के लिए प्रविष्टि आमंत्रित करते हुए लगभग 60-70 शब्दों में एक सूचना लिखें।"
+  },
+  {
+    "id": "letter_2",
+    "type": "letter",
+    "question": "Write a report on your visit to the dengue-hit areas of Patna.",
+    "prashna": "पटना के डेंगू प्रभावित क्षेत्रों के अपने दौरे पर एक रिपोर्ट लिखें।"
+  },
+  {
+    "id": "letter_3",
+    "type": "letter",
+    "question": "Write an application to your Class Teacher, asking for extra classes of Biology.",
+    "prashna": "अपने कक्षा अध्यापक को जीव विज्ञान की अतिरिक्त कक्षाओं की माँग करते हुए एक आवेदन पत्र लिखें।"
+  },
+  {
+    "id": "letter_4",
+    "type": "letter",
+    "question": "Write a letter to your sister inviting her to come over for Rakhi celebrations.",
+    "prashna": "अपनी बहन को राखी समारोह के लिए बुलाने के लिए एक पत्र लिखें।"
+  },
+  {
+    "id": "letter_5",
+    "type": "letter",
+    "question": "You are Radha. Write a speech in about 60-70 words on ‘Pollution’.",
+    "prashna": "आप राधा हैं। 'प्रदूषण' पर लगभग 60-70 शब्दों में एक भाषण लिखें।"
+  },
+  {
+    "id": "letter_6",
+    "type": "letter",
+    "question": "You are Vikas. Write a message to your sister to make some noodles for dinner.",
+    "prashna": "आप विकास हैं। अपनी बहन को रात के खाने के लिए नूडल्स बनाने के लिए एक संदेश लिखें।"
+  }
+]
+```

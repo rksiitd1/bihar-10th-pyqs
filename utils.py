@@ -99,7 +99,14 @@ def generate_content_with_retry(model, prompt_parts, logger=None, max_retries=5)
     
     for attempt in range(max_retries):
         try:
-            response = model.generate_content(prompt_parts)
+            # Add safety settings to avoid blocking on educational content
+            safety_settings = [
+                {"category": "HARM_CATEGORY_HARASSMENT", "threshold": "BLOCK_NONE"},
+                {"category": "HARM_CATEGORY_HATE_SPEECH", "threshold": "BLOCK_NONE"},
+                {"category": "HARM_CATEGORY_SEXUALLY_EXPLICIT", "threshold": "BLOCK_NONE"},
+                {"category": "HARM_CATEGORY_DANGEROUS_CONTENT", "threshold": "BLOCK_NONE"},
+            ]
+            response = model.generate_content(prompt_parts, safety_settings=safety_settings)
             return response
         except Exception as e:
             error_str = str(e)
