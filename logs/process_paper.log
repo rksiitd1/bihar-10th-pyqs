@@ -22,3 +22,347 @@
 2026-02-06 22:38:52,562 - INFO - ⏳ Error occurred. Retrying in 127.2s...
 2026-02-06 22:38:56,902 - WARNING - ⚠️ Attempt 4/5 failed: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
 2026-02-06 22:38:56,903 - INFO - ⏳ Error occurred. Retrying in 127.8s...
+2026-02-06 23:44:04,900 - INFO - Starting processing for: science_papers\sci_2021i.pdf
+2026-02-06 23:44:04,900 - INFO - Starting processing for: science_papers\sci_2014i.pdf
+2026-02-06 23:44:04,902 - INFO - Uploading file to the File API...
+2026-02-06 23:44:04,902 - INFO - Uploading file to the File API...
+2026-02-06 23:44:11,233 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/5kzfyr2sbxka
+2026-02-06 23:44:11,234 - INFO - Generating content with Gemini...
+2026-02-06 23:44:12,160 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/e1idbtqmgd9f
+2026-02-06 23:44:12,160 - INFO - Generating content with Gemini...
+2026-02-06 23:45:41,657 - INFO - Raw API response saved to: science_data_raw\sci_2021i_raw.txt
+2026-02-06 23:45:41,657 - INFO - Cleaning and parsing the JSON response...
+2026-02-06 23:45:41,661 - ERROR - Failed to decode JSON: Invalid \escape: line 836 column 21 (char 18761)
+2026-02-06 23:45:41,662 - ERROR - Raw response is preserved in: science_data_raw\sci_2021i_raw.txt
+2026-02-06 23:45:50,194 - INFO - Raw API response saved to: science_data_raw\sci_2014i_raw.txt
+2026-02-06 23:45:50,195 - INFO - Cleaning and parsing the JSON response...
+2026-02-06 23:45:50,201 - INFO - Writing structured data to: science_data\sci_2014i.json
+2026-02-06 23:45:50,210 - INFO - Processing complete!
+2026-02-06 23:45:50,212 - INFO - Deleting file files/5kzfyr2sbxka from the API...
+2026-02-06 23:45:52,882 - INFO - File deleted.
+2026-02-06 23:45:52,884 - INFO - Time: 107.98 seconds (1.80 minutes)
+2026-02-06 23:56:56,251 - INFO - Starting processing for: mathematics_papers\math_2025i.pdf
+2026-02-06 23:56:56,251 - INFO - Starting processing for: mathematics_papers\math_2025ii.pdf
+2026-02-06 23:56:56,253 - INFO - Starting processing for: mathematics_papers\math_2024ii.pdf
+2026-02-06 23:56:56,253 - INFO - Uploading file to the File API...
+2026-02-06 23:56:56,251 - INFO - Starting processing for: mathematics_papers\math_2024i.pdf
+2026-02-06 23:56:56,254 - INFO - Uploading file to the File API...
+2026-02-06 23:56:56,255 - INFO - Uploading file to the File API...
+2026-02-06 23:56:56,255 - INFO - Uploading file to the File API...
+2026-02-06 23:57:05,189 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/qrc0rz00p4oe
+2026-02-06 23:57:05,190 - INFO - Generating content with Gemini...
+2026-02-06 23:57:05,711 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/c3apq8oxo11y
+2026-02-06 23:57:05,712 - INFO - Generating content with Gemini...
+2026-02-06 23:57:10,588 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/7d4ahaf0c9un
+2026-02-06 23:57:10,588 - INFO - Generating content with Gemini...
+2026-02-06 23:57:13,355 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/fj9fjeabftz2
+2026-02-06 23:57:13,356 - INFO - Generating content with Gemini...
+2026-02-06 23:58:26,630 - INFO - Raw API response saved to: mathematics_data_raw\math_2024i_raw.txt
+2026-02-06 23:58:26,631 - INFO - Cleaning and parsing the JSON response...
+2026-02-06 23:58:26,633 - INFO - Writing structured data to: mathematics_data\math_2024i.json
+2026-02-06 23:58:26,635 - INFO - Processing complete!
+2026-02-06 23:58:26,636 - INFO - Deleting file files/fj9fjeabftz2 from the API...
+2026-02-06 23:58:28,533 - INFO - File deleted.
+2026-02-06 23:58:28,533 - INFO - Time: 92.28 seconds (1.54 minutes)
+2026-02-06 23:58:28,535 - INFO - Starting processing for: mathematics_papers\math_2023i.pdf
+2026-02-06 23:58:28,535 - INFO - Uploading file to the File API...
+2026-02-06 23:58:36,442 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/f1n8ji94fw72
+2026-02-06 23:58:36,443 - INFO - Generating content with Gemini...
+2026-02-06 23:59:30,876 - INFO - Raw API response saved to: mathematics_data_raw\math_2025ii_raw.txt
+2026-02-06 23:59:30,877 - INFO - Cleaning and parsing the JSON response...
+2026-02-06 23:59:30,882 - INFO - Writing structured data to: mathematics_data\math_2025ii.json
+2026-02-06 23:59:30,886 - INFO - Processing complete!
+2026-02-06 23:59:30,888 - INFO - Deleting file files/c3apq8oxo11y from the API...
+2026-02-06 23:59:32,922 - INFO - File deleted.
+2026-02-06 23:59:32,924 - INFO - Time: 156.67 seconds (2.61 minutes)
+2026-02-06 23:59:32,926 - INFO - Starting processing for: mathematics_papers\math_2023ii.pdf
+2026-02-06 23:59:32,928 - INFO - Uploading file to the File API...
+2026-02-06 23:59:41,346 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/8i0l86x691wp
+2026-02-06 23:59:41,349 - INFO - Generating content with Gemini...
+2026-02-06 23:59:48,543 - INFO - Raw API response saved to: mathematics_data_raw\math_2025i_raw.txt
+2026-02-06 23:59:48,543 - INFO - Cleaning and parsing the JSON response...
+2026-02-06 23:59:48,557 - INFO - Writing structured data to: mathematics_data\math_2025i.json
+2026-02-06 23:59:48,567 - INFO - Processing complete!
+2026-02-06 23:59:48,571 - INFO - Deleting file files/qrc0rz00p4oe from the API...
+2026-02-06 23:59:50,995 - INFO - File deleted.
+2026-02-06 23:59:50,995 - INFO - Time: 174.74 seconds (2.91 minutes)
+2026-02-06 23:59:50,997 - INFO - Starting processing for: mathematics_papers\math_2022i.pdf
+2026-02-06 23:59:50,999 - INFO - Uploading file to the File API...
+2026-02-07 00:00:03,250 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/jps1blwhhkac
+2026-02-07 00:00:03,251 - INFO - Generating content with Gemini...
+2026-02-07 00:00:16,742 - INFO - Raw API response saved to: mathematics_data_raw\math_2024ii_raw.txt
+2026-02-07 00:00:16,744 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:00:16,750 - INFO - Writing structured data to: mathematics_data\math_2024ii.json
+2026-02-07 00:00:16,760 - INFO - Processing complete!
+2026-02-07 00:00:16,762 - INFO - Deleting file files/7d4ahaf0c9un from the API...
+2026-02-07 00:00:19,915 - INFO - File deleted.
+2026-02-07 00:00:19,916 - INFO - Time: 203.66 seconds (3.39 minutes)
+2026-02-07 00:00:19,920 - INFO - Starting processing for: mathematics_papers\math_2022ii.pdf
+2026-02-07 00:00:19,922 - INFO - Uploading file to the File API...
+2026-02-07 00:00:28,256 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/z4nlqgth8kzg
+2026-02-07 00:00:28,256 - INFO - Generating content with Gemini...
+2026-02-07 00:01:53,930 - INFO - Raw API response saved to: mathematics_data_raw\math_2023i_raw.txt
+2026-02-07 00:01:53,932 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:01:53,937 - INFO - Writing structured data to: mathematics_data\math_2023i.json
+2026-02-07 00:01:53,942 - INFO - Processing complete!
+2026-02-07 00:01:53,943 - INFO - Deleting file files/f1n8ji94fw72 from the API...
+2026-02-07 00:01:58,458 - INFO - File deleted.
+2026-02-07 00:01:58,459 - INFO - Time: 209.92 seconds (3.50 minutes)
+2026-02-07 00:01:58,460 - INFO - Starting processing for: mathematics_papers\math_2021i.pdf
+2026-02-07 00:01:58,462 - INFO - Uploading file to the File API...
+2026-02-07 00:02:12,999 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/dg74zmoy48ms
+2026-02-07 00:02:13,000 - INFO - Generating content with Gemini...
+2026-02-07 00:02:36,172 - INFO - Raw API response saved to: mathematics_data_raw\math_2023ii_raw.txt
+2026-02-07 00:02:36,172 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:02:36,181 - ERROR - Failed to decode JSON: Expecting property name enclosed in double quotes: line 1879 column 3 (char 52490)
+2026-02-07 00:02:36,182 - ERROR - Raw response is preserved in: mathematics_data_raw\math_2023ii_raw.txt
+2026-02-07 00:02:38,147 - INFO - Starting processing for: mathematics_papers\math_2021ii.pdf
+2026-02-07 00:02:38,148 - INFO - Uploading file to the File API...
+2026-02-07 00:02:44,696 - INFO - Raw API response saved to: mathematics_data_raw\math_2022i_raw.txt
+2026-02-07 00:02:44,696 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:02:44,699 - ERROR - Failed to decode JSON: Expecting property name enclosed in double quotes: line 1362 column 5 (char 37221)
+2026-02-07 00:02:44,699 - ERROR - Raw response is preserved in: mathematics_data_raw\math_2022i_raw.txt
+2026-02-07 00:02:45,509 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/o1aaahl6haup
+2026-02-07 00:02:45,510 - INFO - Generating content with Gemini...
+2026-02-07 00:02:47,313 - INFO - Starting processing for: mathematics_papers\math_2020i.pdf
+2026-02-07 00:02:47,316 - INFO - Uploading file to the File API...
+2026-02-07 00:02:59,238 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/kgtewlabzcqu
+2026-02-07 00:02:59,239 - INFO - Generating content with Gemini...
+2026-02-07 00:03:56,574 - INFO - Raw API response saved to: mathematics_data_raw\math_2022ii_raw.txt
+2026-02-07 00:03:56,575 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:03:56,578 - INFO - Writing structured data to: mathematics_data\math_2022ii.json
+2026-02-07 00:03:56,582 - INFO - Processing complete!
+2026-02-07 00:03:56,582 - INFO - Deleting file files/z4nlqgth8kzg from the API...
+2026-02-07 00:03:59,469 - INFO - File deleted.
+2026-02-07 00:03:59,469 - INFO - Time: 219.55 seconds (3.66 minutes)
+2026-02-07 00:03:59,471 - INFO - Starting processing for: mathematics_papers\math_2020ii.pdf
+2026-02-07 00:03:59,472 - INFO - Uploading file to the File API...
+2026-02-07 00:04:08,725 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/kjc6u80lsdqz
+2026-02-07 00:04:08,727 - INFO - Generating content with Gemini...
+2026-02-07 00:04:44,521 - INFO - Raw API response saved to: mathematics_data_raw\math_2020i_raw.txt
+2026-02-07 00:04:44,522 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:04:44,523 - ERROR - Failed to decode JSON: Invalid \escape: line 5 column 56 (char 105)
+2026-02-07 00:04:44,524 - ERROR - Raw response is preserved in: mathematics_data_raw\math_2020i_raw.txt
+2026-02-07 00:04:47,070 - INFO - Starting processing for: mathematics_papers\math_2019i.pdf
+2026-02-07 00:04:47,071 - INFO - Uploading file to the File API...
+2026-02-07 00:04:55,007 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/w3n5blv1joao
+2026-02-07 00:04:55,007 - INFO - Generating content with Gemini...
+2026-02-07 00:05:05,148 - INFO - Raw API response saved to: mathematics_data_raw\math_2021ii_raw.txt
+2026-02-07 00:05:05,148 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:05:05,150 - INFO - Writing structured data to: mathematics_data\math_2021ii.json
+2026-02-07 00:05:05,154 - INFO - Processing complete!
+2026-02-07 00:05:05,154 - INFO - Deleting file files/o1aaahl6haup from the API...
+2026-02-07 00:05:07,343 - INFO - File deleted.
+2026-02-07 00:05:07,343 - INFO - Time: 149.20 seconds (2.49 minutes)
+2026-02-07 00:05:07,346 - INFO - Starting processing for: mathematics_papers\math_2019ii.pdf
+2026-02-07 00:05:07,347 - INFO - Uploading file to the File API...
+2026-02-07 00:05:12,842 - INFO - Raw API response saved to: mathematics_data_raw\math_2021i_raw.txt
+2026-02-07 00:05:12,843 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:05:12,845 - ERROR - Failed to decode JSON: Invalid \escape: line 1979 column 30 (char 56793)
+2026-02-07 00:05:12,846 - ERROR - Raw response is preserved in: mathematics_data_raw\math_2021i_raw.txt
+2026-02-07 00:05:15,320 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/qoyuws4ecnby
+2026-02-07 00:05:15,321 - INFO - Generating content with Gemini...
+2026-02-07 00:05:15,359 - INFO - Starting processing for: mathematics_papers\math_2018i.pdf
+2026-02-07 00:05:15,360 - INFO - Uploading file to the File API...
+2026-02-07 00:05:30,216 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/jf83vsgkz627
+2026-02-07 00:05:30,216 - INFO - Generating content with Gemini...
+2026-02-07 00:06:09,235 - INFO - Raw API response saved to: mathematics_data_raw\math_2020ii_raw.txt
+2026-02-07 00:06:09,235 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:06:09,240 - INFO - Writing structured data to: mathematics_data\math_2020ii.json
+2026-02-07 00:06:09,244 - INFO - Processing complete!
+2026-02-07 00:06:09,245 - INFO - Deleting file files/kjc6u80lsdqz from the API...
+2026-02-07 00:06:10,513 - INFO - Raw API response saved to: mathematics_data_raw\math_2019i_raw.txt
+2026-02-07 00:06:10,513 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:06:10,514 - INFO - Writing structured data to: mathematics_data\math_2019i.json
+2026-02-07 00:06:10,516 - INFO - Processing complete!
+2026-02-07 00:06:10,517 - INFO - Deleting file files/w3n5blv1joao from the API...
+2026-02-07 00:06:11,229 - INFO - File deleted.
+2026-02-07 00:06:11,229 - INFO - Time: 131.76 seconds (2.20 minutes)
+2026-02-07 00:06:11,229 - INFO - Starting processing for: mathematics_papers\math_2018ii.pdf
+2026-02-07 00:06:11,230 - INFO - Uploading file to the File API...
+2026-02-07 00:06:12,266 - INFO - File deleted.
+2026-02-07 00:06:12,266 - INFO - Time: 85.20 seconds (1.42 minutes)
+2026-02-07 00:06:12,267 - INFO - Starting processing for: mathematics_papers\math_2017i.pdf
+2026-02-07 00:06:12,267 - INFO - Uploading file to the File API...
+2026-02-07 00:06:16,770 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/1pqe26nm67ky
+2026-02-07 00:06:16,771 - INFO - Generating content with Gemini...
+2026-02-07 00:06:20,041 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/hbmyx2eeoqt9
+2026-02-07 00:06:20,041 - INFO - Generating content with Gemini...
+2026-02-07 00:06:51,619 - INFO - Raw API response saved to: mathematics_data_raw\math_2019ii_raw.txt
+2026-02-07 00:06:51,619 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:06:51,623 - INFO - Writing structured data to: mathematics_data\math_2019ii.json
+2026-02-07 00:06:51,625 - INFO - Processing complete!
+2026-02-07 00:06:51,625 - INFO - Deleting file files/qoyuws4ecnby from the API...
+2026-02-07 00:06:53,854 - INFO - File deleted.
+2026-02-07 00:06:53,854 - INFO - Time: 106.51 seconds (1.78 minutes)
+2026-02-07 00:06:53,856 - INFO - Starting processing for: mathematics_papers\math_2017ii.pdf
+2026-02-07 00:06:53,857 - INFO - Uploading file to the File API...
+2026-02-07 00:06:58,830 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/wl8ke6li65kw
+2026-02-07 00:06:58,831 - INFO - Generating content with Gemini...
+2026-02-07 00:06:59,300 - WARNING - ⚠️ Attempt 1/5 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 529.667614ms. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+}
+]
+2026-02-07 00:06:59,300 - INFO - ⏳ Rate limit reached. Retrying in 4.5s (manual rotation or wait required)...
+2026-02-07 00:07:03,979 - WARNING - ⚠️ Attempt 2/5 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 55.810847156s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 55
+}
+]
+2026-02-07 00:07:03,980 - INFO - ⏳ Rate limit reached. Retrying in 7.7s (manual rotation or wait required)...
+2026-02-07 00:07:11,856 - WARNING - ⚠️ Attempt 3/5 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 47.939463272s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 47
+}
+]
+2026-02-07 00:07:11,856 - INFO - ⏳ Rate limit reached. Retrying in 29.4s (manual rotation or wait required)...
+2026-02-07 00:07:26,166 - INFO - Raw API response saved to: mathematics_data_raw\math_2017i_raw.txt
+2026-02-07 00:07:26,166 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:07:26,167 - INFO - Writing structured data to: mathematics_data\math_2017i.json
+2026-02-07 00:07:26,169 - INFO - Processing complete!
+2026-02-07 00:07:26,169 - INFO - Deleting file files/hbmyx2eeoqt9 from the API...
+2026-02-07 00:07:28,333 - INFO - File deleted.
+2026-02-07 00:07:28,333 - INFO - Time: 76.07 seconds (1.27 minutes)
+2026-02-07 00:07:28,335 - INFO - Starting processing for: mathematics_papers\math_2016i.pdf
+2026-02-07 00:07:28,335 - INFO - Uploading file to the File API...
+2026-02-07 00:07:33,791 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/f05t7scqzd64
+2026-02-07 00:07:33,791 - INFO - Generating content with Gemini...
+2026-02-07 00:07:36,593 - INFO - Raw API response saved to: mathematics_data_raw\math_2018i_raw.txt
+2026-02-07 00:07:36,593 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:07:36,595 - INFO - Writing structured data to: mathematics_data\math_2018i.json
+2026-02-07 00:07:36,597 - INFO - Processing complete!
+2026-02-07 00:07:36,597 - INFO - Deleting file files/jf83vsgkz627 from the API...
+2026-02-07 00:07:38,910 - INFO - File deleted.
+2026-02-07 00:07:38,910 - INFO - Time: 143.55 seconds (2.39 minutes)
+2026-02-07 00:07:38,911 - INFO - Starting processing for: mathematics_papers\math_2015i.pdf
+2026-02-07 00:07:38,912 - INFO - Uploading file to the File API...
+2026-02-07 00:07:41,475 - WARNING - ⚠️ Attempt 4/5 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 18.320203897s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 18
+}
+]
+2026-02-07 00:07:41,475 - INFO - ⏳ Rate limit reached. Retrying in 129.5s (manual rotation or wait required)...
+2026-02-07 00:07:45,931 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/fopvjc7t5a5r
+2026-02-07 00:07:45,931 - INFO - Generating content with Gemini...
+2026-02-07 00:07:46,278 - WARNING - ⚠️ Attempt 1/5 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 13.512113902s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 13
+}
+]
+2026-02-07 00:07:46,278 - INFO - ⏳ Rate limit reached. Retrying in 3.4s (manual rotation or wait required)...
+2026-02-07 00:07:49,829 - WARNING - ⚠️ Attempt 2/5 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 9.961496115s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 9
+}
+]
+2026-02-07 00:07:49,830 - INFO - ⏳ Rate limit reached. Retrying in 7.6s (manual rotation or wait required)...
+2026-02-07 00:07:57,570 - WARNING - ⚠️ Attempt 3/5 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 2.222972762s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 2
+}
+]
+2026-02-07 00:07:57,571 - INFO - ⏳ Rate limit reached. Retrying in 27.2s (manual rotation or wait required)...
+2026-02-07 00:08:24,726 - INFO - Raw API response saved to: mathematics_data_raw\math_2018ii_raw.txt
+2026-02-07 00:08:24,726 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:08:24,728 - INFO - Writing structured data to: mathematics_data\math_2018ii.json
+2026-02-07 00:08:24,730 - INFO - Processing complete!
+2026-02-07 00:08:24,730 - INFO - Deleting file files/1pqe26nm67ky from the API...
+2026-02-07 00:08:24,946 - WARNING - ⚠️ Attempt 4/5 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 34.853096736s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 34
+}
+]
+2026-02-07 00:08:24,946 - INFO - ⏳ Rate limit reached. Retrying in 128.2s (manual rotation or wait required)...
+2026-02-07 00:08:27,256 - INFO - File deleted.
+2026-02-07 00:08:27,256 - INFO - Time: 136.03 seconds (2.27 minutes)
+2026-02-07 00:12:53,612 - INFO - Starting processing for: mathematics_papers\math_2023ii.pdf
+2026-02-07 00:12:53,612 - INFO - Starting processing for: mathematics_papers\math_2022i.pdf
+2026-02-07 00:12:53,612 - INFO - Starting processing for: mathematics_papers\math_2021i.pdf
+2026-02-07 00:12:53,614 - INFO - Starting processing for: mathematics_papers\math_2020i.pdf
+2026-02-07 00:12:53,616 - INFO - Uploading file to the File API...
+2026-02-07 00:12:53,616 - INFO - Uploading file to the File API...
+2026-02-07 00:12:53,616 - INFO - Uploading file to the File API...
+2026-02-07 00:12:53,618 - INFO - Uploading file to the File API...
+2026-02-07 00:13:03,044 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/eh8mec8s62ja
+2026-02-07 00:13:03,044 - INFO - Generating content with Gemini...
+2026-02-07 00:13:05,809 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/hjf1505a0v1z
+2026-02-07 00:13:05,813 - INFO - Generating content with Gemini...
+2026-02-07 00:13:06,685 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/nsndtweb8rjv
+2026-02-07 00:13:06,686 - INFO - Generating content with Gemini...
+2026-02-07 00:13:06,701 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/brd0744p3m7i
+2026-02-07 00:13:06,701 - INFO - Generating content with Gemini...
+2026-02-07 00:13:46,641 - INFO - Raw API response saved to: mathematics_data_raw\math_2022i_raw.txt
+2026-02-07 00:13:46,642 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:13:46,643 - INFO - Writing structured data to: mathematics_data\math_2022i.json
+2026-02-07 00:13:46,644 - INFO - Processing complete!
+2026-02-07 00:13:46,645 - INFO - Deleting file files/nsndtweb8rjv from the API...
+2026-02-07 00:13:49,675 - INFO - File deleted.
+2026-02-07 00:13:49,677 - INFO - Time: 56.06 seconds (0.93 minutes)
+2026-02-07 00:13:49,678 - INFO - Starting processing for: mathematics_papers\math_2017ii.pdf
+2026-02-07 00:13:49,679 - INFO - Uploading file to the File API...
+2026-02-07 00:13:55,814 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/gc09clqnjk2a
+2026-02-07 00:13:55,815 - INFO - Generating content with Gemini...
+2026-02-07 00:15:07,117 - INFO - Raw API response saved to: mathematics_data_raw\math_2017ii_raw.txt
+2026-02-07 00:15:07,118 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:15:07,119 - ERROR - Failed to decode JSON: Invalid \escape: line 26 column 21 (char 546)
+2026-02-07 00:15:07,121 - ERROR - Raw response is preserved in: mathematics_data_raw\math_2017ii_raw.txt
+2026-02-07 00:15:09,380 - INFO - Starting processing for: mathematics_papers\math_2016i.pdf
+2026-02-07 00:15:09,385 - INFO - Uploading file to the File API...
+2026-02-07 00:15:15,667 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/qcru50nz2xbm
+2026-02-07 00:15:15,669 - INFO - Generating content with Gemini...

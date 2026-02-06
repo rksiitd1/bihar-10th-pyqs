@@ -1,0 +1,1308 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "The diameter of a circle with area $64\\pi \\text{ cm}^2$ is",
+        "prashna": "$64\\pi \\text{ cm}^2$ क्षेत्रफल वाले वृत्त का व्यास है",
+        "options": {
+            "A": "15 cm",
+            "B": "16 cm",
+            "C": "20 cm",
+            "D": "17 cm"
+        },
+        "vikalpa": {
+            "A": "15 cm",
+            "B": "16 cm",
+            "C": "20 cm",
+            "D": "17 cm"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "In $\\triangle DEF$ and $\\triangle PQR$, it is given that $\\angle D = \\angle Q$ and $\\angle R = \\angle E$; then which of the following is true?",
+        "prashna": "त्रिभुज $\\triangle DEF$ तथा $\\triangle PQR$ में दिया है कि $\\angle D = \\angle Q$ तथा $\\angle R = \\angle E$ तो निम्नलिखित में से कौन-सा सही है?",
+        "options": {
+            "A": "$\\angle F = \\angle P$",
+            "B": "$\\angle F = \\angle Q$",
+            "C": "$\\angle D = \\angle P$",
+            "D": "$\\angle E = \\angle P$"
+        },
+        "vikalpa": {
+            "A": "$\\angle F = \\angle P$",
+            "B": "$\\angle F = \\angle Q$",
+            "C": "$\\angle D = \\angle P$",
+            "D": "$\\angle E = \\angle P$"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "The pair of equations $2x + 3y = 5$ and $4x + 6y = 15$ have",
+        "prashna": "समीकरण युग्म $2x + 3y = 5$ तथा $4x + 6y = 15$ का है",
+        "options": {
+            "A": "unique solution",
+            "B": "infinitely many solutions",
+            "C": "no solution",
+            "D": "none of these"
+        },
+        "vikalpa": {
+            "A": "अद्वितीय हल",
+            "B": "अनन्त हल",
+            "C": "कोई हल नहीं",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "If HCF of 65 and 117 is in the form of $65m - 117$ then the value of $m$ is",
+        "prashna": "यदि 65 तथा 117 का म०स० $65m - 117$ के रूप में है, तो $m$ का मान है",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "vikalpa": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "The ratio of the LCM and HCF of 2, 10 and 20 is",
+        "prashna": "2, 10 और 20 के ल०स० और म०स० का अनुपात है",
+        "options": {
+            "A": "1 : 10",
+            "B": "10 : 1",
+            "C": "4 : 3",
+            "D": "11 : 1"
+        },
+        "vikalpa": {
+            "A": "1 : 10",
+            "B": "10 : 1",
+            "C": "4 : 3",
+            "D": "11 : 1"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "If the length of a cuboid is $l$, width $b$ and height $h$, then the volume of the cuboid is",
+        "prashna": "यदि किसी घनाभ की लंबाई $l$, चौड़ाई $b$ तथा ऊँचाई $h$ हो, तो घनाभ का आयतन है",
+        "options": {
+            "A": "$lbh$",
+            "B": "$\\sqrt{l^2 + b^2 + h^2}$",
+            "C": "$2lbh$",
+            "D": "$2(lb + bh + lh)$"
+        },
+        "vikalpa": {
+            "A": "$lbh$",
+            "B": "$\\sqrt{l^2 + b^2 + h^2}$",
+            "C": "$2lbh$",
+            "D": "$2(lb + bh + lh)$"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "$\\tan 10^\\circ \\tan 15^\\circ \\tan 75^\\circ \\tan 80^\\circ = ?$",
+        "prashna": "$\\tan 10^\\circ \\tan 15^\\circ \\tan 75^\\circ \\tan 80^\\circ = ?$",
+        "options": {
+            "A": "$\\sqrt{3}$",
+            "B": "$\\frac{1}, {\\sqrt{3}}$",
+            "C": "-1",
+            "D": "1"
+        },
+        "vikalpa": {
+            "A": "$\\sqrt{3}$",
+            "B": "$\\frac{1}, {\\sqrt{3}}$",
+            "C": "-1",
+            "D": "1"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "Which of the following is a quadratic equation?",
+        "prashna": "निम्नलिखित में से कौन-सा द्विघात समीकरण है?",
+        "options": {
+            "A": "$2x^3 - 3x = (x + 1)^2$",
+            "B": "$x^2 - 2\\sqrt{x} + 3 = 0$",
+            "C": "$3x^2 + 2 = (3 - x)^2 + 4$",
+            "D": "$x^2 - \\frac{1}, {x^2} = 4$"
+        },
+        "vikalpa": {
+            "A": "$2x^3 - 3x = (x + 1)^2$",
+            "B": "$x^2 - 2\\sqrt{x} + 3 = 0$",
+            "C": "$3x^2 + 2 = (3 - x)^2 + 4$",
+            "D": "$x^2 - \\frac{1}, {x^2} = 4$"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "The bases of a cylinder and a cone are same. If their heights are also same, then the ratio of their volumes will be",
+        "prashna": "एक बेलन और एक शंकु के आधार समान हैं। यदि उनकी ऊँचाइयाँ भी समान हों, तो उनके आयतनों का अनुपात होगा",
+        "options": {
+            "A": "1 : 2",
+            "B": "2 : 3",
+            "C": "3 : 2",
+            "D": "3 : 1"
+        },
+        "vikalpa": {
+            "A": "1 : 2",
+            "B": "2 : 3",
+            "C": "3 : 2",
+            "D": "3 : 1"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "The point on x-axis which is equidistant from points $A(-1, 0)$ and $B(5, 0)$ is",
+        "prashna": "$x$-अक्ष पर बिन्दु जो कि बिन्दुओं $A(-1, 0)$ और $B(5, 0)$ से समान दूरी पर है, है",
+        "options": {
+            "A": "(0, 2)",
+            "B": "(2, 0)",
+            "C": "(3, 0)",
+            "D": "(0, 3)"
+        },
+        "vikalpa": {
+            "A": "(0, 2)",
+            "B": "(2, 0)",
+            "C": "(3, 0)",
+            "D": "(0, 3)"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "The number of terms in -10, -6, -2, 2, ..., 34 is",
+        "prashna": "-10, -6, -2, 2, ..., 34 में पदों की संख्या है",
+        "options": {
+            "A": "15",
+            "B": "12",
+            "C": "13",
+            "D": "14"
+        },
+        "vikalpa": {
+            "A": "15",
+            "B": "12",
+            "C": "13",
+            "D": "14"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "The $x$-coordinate of the point (6, -5) is",
+        "prashna": "बिन्दु (6, -5) का $x$-नियामक है",
+        "options": {
+            "A": "6",
+            "B": "-5",
+            "C": "-6",
+            "D": "5"
+        },
+        "vikalpa": {
+            "A": "6",
+            "B": "-5",
+            "C": "-6",
+            "D": "5"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "The sum of the zeros of the quadratic polynomial $x(2x - 5) - 3$ is",
+        "prashna": "द्विघात बहुपद $x(2x - 5) - 3$ के शून्यकों का योग है",
+        "options": {
+            "A": "$\\frac{2}, {5}$",
+            "B": "$-\\frac{5}, {2}$",
+            "C": "$-\\frac{3}, {2}$",
+            "D": "$\\frac{5}, {2}$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{2}, {5}$",
+            "B": "$-\\frac{5}, {2}$",
+            "C": "$-\\frac{3}, {2}$",
+            "D": "$\\frac{5}, {2}$"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "$1 + 2 + 3 + ... + n$ is equal to",
+        "prashna": "$1 + 2 + 3 + ... + n$ बराबर है",
+        "options": {
+            "A": "$\\frac{n+1}, {2}$",
+            "B": "$\\frac{n(n+1)(n+2)}, {2}$",
+            "C": "$\\frac{n(n+1)}, {2}$",
+            "D": "$\\frac{n(n-1)}, {2}$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{n+1}, {2}$",
+            "B": "$\\frac{n(n+1)(n+2)}, {2}$",
+            "C": "$\\frac{n(n+1)}, {2}$",
+            "D": "$\\frac{n(n-1)}, {2}$"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "question": "Which of the following is a polynomial?",
+        "prashna": "निम्नलिखित में से कौन बहुपद है?",
+        "options": {
+            "A": "$x^2 - 5x + 4\\sqrt{x} + 3$",
+            "B": "$x^{\\frac{3}, {2}} - x + x^{\\frac{1}, {2}} + 1$",
+            "C": "$\\sqrt{x} + \\frac{1}, {\\sqrt{x}}$",
+            "D": "$\\sqrt{2}x^2 - 3\\sqrt{3}x + \\sqrt{6}$"
+        },
+        "vikalpa": {
+            "A": "$x^2 - 5x + 4\\sqrt{x} + 3$",
+            "B": "$x^{\\frac{3}, {2}} - x + x^{\\frac{1}, {2}} + 1$",
+            "C": "$\\sqrt{x} + \\frac{1}, {\\sqrt{x}}$",
+            "D": "$\\sqrt{2}x^2 - 3\\sqrt{3}x + \\sqrt{6}$"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "The length of the shadow of a 12 m high pillar falling on land is $4\\sqrt{3}$ m. The angle of elevation of the sun is",
+        "prashna": "12 m ऊँचे खंभे की जमीन पर पड़ रही छाया की लंबाई $4\\sqrt{3}$ m है। सूर्य का उन्नयन कोण है",
+        "options": {
+            "A": "$60^\\circ$",
+            "B": "$45^\\circ$",
+            "C": "$30^\\circ$",
+            "D": "$90^\\circ$"
+        },
+        "vikalpa": {
+            "A": "$60^\\circ$",
+            "B": "$45^\\circ$",
+            "C": "$30^\\circ$",
+            "D": "$90^\\circ$"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "$\\triangle ABC$ is a right angled triangle in which $\\angle C = 90^\\circ$. The value of $\\cos(A + B)$ is",
+        "prashna": "$\\triangle ABC$ एक समकोण त्रिभुज है जिसमें $\\angle C = 90^\\circ$ है तो $\\cos(A + B)$ का मान है",
+        "options": {
+            "A": "0",
+            "B": "1",
+            "C": "$\\frac{1}, {2}$",
+            "D": "$\\frac{\\sqrt{3}}, {2}$"
+        },
+        "vikalpa": {
+            "A": "0",
+            "B": "1",
+            "C": "$\\frac{1}, {2}$",
+            "D": "$\\frac{\\sqrt{3}}, {2}$"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "question": "Distance between the points (2, 3) and (-2, 3) is",
+        "prashna": "बिन्दुओं (2, 3) एवं (-2, 3) के बीच की दूरी है",
+        "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+        },
+        "vikalpa": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "question": "The radii of the bases of a cylinder and a cone are in the ratio 3 : 4. If they have their heights in the ratio 2 : 3, the ratio of their volumes is",
+        "prashna": "एक बेलन तथा शंकु के आधार की त्रिज्याएँ 3 : 4 के अनुपात में हैं तथा उनकी ऊँचाइयाँ 2 : 3 के अनुपात में हैं। बेलन के आयतनों का अनुपात है",
+        "options": {
+            "A": "3 : 4",
+            "B": "9 : 8",
+            "C": "8 : 9",
+            "D": "4 : 3"
+        },
+        "vikalpa": {
+            "A": "3 : 4",
+            "B": "9 : 8",
+            "C": "8 : 9",
+            "D": "4 : 3"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "If the mean of 3, 4, 5, 17 and $x$ is 6, then the value of $x$ is",
+        "prashna": "यदि 3, 4, 5, 17 तथा $x$ का माध्य 6 हो, तो $x$ का मान है",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "vikalpa": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "question": "Mode of 3, 4, 7, 2, 7, 6, 7, 9 is",
+        "prashna": "3, 4, 7, 2, 7, 6, 7, 9 का बहुलक है",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "7",
+            "D": "9"
+        },
+        "vikalpa": {
+            "A": "2",
+            "B": "3",
+            "C": "7",
+            "D": "9"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "question": "Arithmetic Mean between 13 and 19 is",
+        "prashna": "13 और 19 के बीच समांतर माध्य है",
+        "options": {
+            "A": "13",
+            "B": "16",
+            "C": "19",
+            "D": "12"
+        },
+        "vikalpa": {
+            "A": "13",
+            "B": "16",
+            "C": "19",
+            "D": "12"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "question": "If the roots of a quadratic equation $x^2 - px + 4 = 0$ are equal then $p = ?$",
+        "prashna": "यदि द्विघात समीकरण $x^2 - px + 4 = 0$ के मूल बराबर हों तो $p = ?$",
+        "options": {
+            "A": "$\\pm 3$",
+            "B": "$\\pm 4$",
+            "C": "$\\pm 5$",
+            "D": "$\\pm 2$"
+        },
+        "vikalpa": {
+            "A": "$\\pm 3$",
+            "B": "$\\pm 4$",
+            "C": "$\\pm 5$",
+            "D": "$\\pm 2$"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "question": "If $a$ and $b$ are prime numbers then LCM of $a$ and $b$ is",
+        "prashna": "यदि $a$ और $b$ अभाज्य संख्याएँ हैं, तो $a$ और $b$ का ल०स० है",
+        "options": {
+            "A": "$a$",
+            "B": "$b$",
+            "C": "$ab$",
+            "D": "$\\frac{a}, {b}$"
+        },
+        "vikalpa": {
+            "A": "$a$",
+            "B": "$b$",
+            "C": "$ab$",
+            "D": "$\\frac{a}, {b}$"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "question": "Distance of the point $(x, y)$ from the origin is",
+        "prashna": "बिन्दु $(x, y)$ की दूरी मूल बिन्दु से है",
+        "options": {
+            "A": "$\\sqrt{x^2 - y^2}$",
+            "B": "$\\sqrt{x^2 + y^2}$",
+            "C": "$x^2 - y^2$",
+            "D": "$x^2 y^2$"
+        },
+        "vikalpa": {
+            "A": "$\\sqrt{x^2 - y^2}$",
+            "B": "$\\sqrt{x^2 + y^2}$",
+            "C": "$x^2 - y^2$",
+            "D": "$x^2 y^2$"
+        }
+    },
+    {
+        "id": "obj_26",
+        "type": "objective",
+        "question": "Which of the following is a prime number?",
+        "prashna": "निम्नलिखित में से कौन अभाज्य संख्या है?",
+        "options": {
+            "A": "15",
+            "B": "23",
+            "C": "12",
+            "D": "75"
+        },
+        "vikalpa": {
+            "A": "15",
+            "B": "23",
+            "C": "12",
+            "D": "75"
+        }
+    },
+    {
+        "id": "obj_27",
+        "type": "objective",
+        "question": "$(1 + \\tan \\theta + \\sec \\theta)(1 + \\cot \\theta - \\csc \\theta) = ?$",
+        "prashna": "$(1 + \\tan \\theta + \\sec \\theta)(1 + \\cot \\theta - \\csc \\theta) = ?$",
+        "options": {
+            "A": "-1",
+            "B": "0",
+            "C": "1",
+            "D": "2"
+        },
+        "vikalpa": {
+            "A": "-1",
+            "B": "0",
+            "C": "1",
+            "D": "2"
+        }
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "question": "If the circumference of a circle is increased from $2\\pi$ to $4\\pi$, its area will be",
+        "prashna": "यदि एक वृत्त की परिधि $2\\pi$ से बढ़ाकर $4\\pi$ कर दी जाए, तो उसका क्षेत्रफल होगा",
+        "options": {
+            "A": "half",
+            "B": "two times",
+            "C": "three times",
+            "D": "four times"
+        },
+        "vikalpa": {
+            "A": "आधा",
+            "B": "दुगुना",
+            "C": "तीन गुना",
+            "D": "चार गुना"
+        }
+    },
+    {
+        "id": "obj_29",
+        "type": "objective",
+        "question": "Which of the following is the coordinate of the origin?",
+        "prashna": "निम्न में से मूल बिन्दु के नियामक कौन हैं?",
+        "options": {
+            "A": "(1, 1)",
+            "B": "(0, 0)",
+            "C": "(-1, 1)",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "(1, 1)",
+            "B": "(0, 0)",
+            "C": "(-1, 1)",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_30",
+        "type": "objective",
+        "question": "What type of straight line will the graph of $x = -5$ be?",
+        "prashna": "$x = -5$ का आलेख कैसी सरल रेखा होगी?",
+        "options": {
+            "A": "parallel to $x$-axis",
+            "B": "parallel to $y$-axis",
+            "C": "passing through the origin",
+            "D": "none of these"
+        },
+        "vikalpa": {
+            "A": "$x$-अक्ष के समांतर",
+            "B": "$y$-अक्ष के समांतर",
+            "C": "मूल बिन्दु से जाती हुई",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_31",
+        "type": "objective",
+        "question": "$\\sin(90^\\circ - \\theta) =$",
+        "prashna": "$\\sin(90^\\circ - \\theta) =$",
+        "options": {
+            "A": "$\\sin \\theta$",
+            "B": "$-\\sin \\theta$",
+            "C": "$\\cos \\theta$",
+            "D": "$-\\cos \\theta$"
+        },
+        "vikalpa": {
+            "A": "$\\sin \\theta$",
+            "B": "$-\\sin \\theta$",
+            "C": "$\\cos \\theta$",
+            "D": "$-\\cos \\theta$"
+        }
+    },
+    {
+        "id": "obj_32",
+        "type": "objective",
+        "question": "Which of the following is a rational number?",
+        "prashna": "निम्नलिखित में से कौन परिमेय संख्या है?",
+        "options": {
+            "A": "$2 - \\sqrt{3}$",
+            "B": "$\\sqrt{5}$",
+            "C": "$\\frac{2\\sqrt{3}}, {\\sqrt{3}}$",
+            "D": "$\\sqrt{6}$"
+        },
+        "vikalpa": {
+            "A": "$2 - \\sqrt{3}$",
+            "B": "$\\sqrt{5}$",
+            "C": "$\\frac{2\\sqrt{3}}, {\\sqrt{3}}$",
+            "D": "$\\sqrt{6}$"
+        }
+    },
+    {
+        "id": "obj_33",
+        "type": "objective",
+        "question": "If $\\sec \\theta = \\frac{13}, {12}$, then $\\cot \\theta$ is equal to",
+        "prashna": "यदि $\\sec \\theta = \\frac{13}, {12}$ हो, तो $\\cot \\theta$ बराबर है",
+        "options": {
+            "A": "$\\frac{5}, {12}$",
+            "B": "$\\frac{5}, {13}$",
+            "C": "$\\frac{12}, {5}$",
+            "D": "$\\frac{13}, {5}$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{5}, {12}$",
+            "B": "$\\frac{5}, {13}$",
+            "C": "$\\frac{12}, {5}$",
+            "D": "$\\frac{13}, {5}$"
+        }
+    },
+    {
+        "id": "obj_34",
+        "type": "objective",
+        "question": "The coordinates of the midpoint of the line segment joining the points $A(3, 4)$ and $B(-3, 8)$ is",
+        "prashna": "बिन्दुओं $A(3, 4)$ और $B(-3, 8)$ को मिलाने वाली रेखाखण्ड के मध्यबिन्दु के नियामक हैं",
+        "options": {
+            "A": "(0, 12)",
+            "B": "(6, 0)",
+            "C": "(6, -4)",
+            "D": "(0, 6)"
+        },
+        "vikalpa": {
+            "A": "(0, 12)",
+            "B": "(6, 0)",
+            "C": "(6, -4)",
+            "D": "(0, 6)"
+        }
+    },
+    {
+        "id": "obj_35",
+        "type": "objective",
+        "question": "How many tangents can be drawn from an external point on a circle?",
+        "prashna": "किसी वृत्त पर बाह्य बिन्दु से कितनी स्पर्श रेखाएँ खींची जा सकती हैं?",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "vikalpa": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        }
+    },
+    {
+        "id": "obj_36",
+        "type": "objective",
+        "question": "$\\frac{\\sin 63^\\circ}, {\\cos 27^\\circ}$",
+        "prashna": "$\\frac{\\sin 63^\\circ}, {\\cos 27^\\circ}$",
+        "options": {
+            "A": "$\\sqrt{3}$",
+            "B": "1",
+            "C": "2",
+            "D": "3"
+        },
+        "vikalpa": {
+            "A": "$\\sqrt{3}$",
+            "B": "1",
+            "C": "2",
+            "D": "3"
+        }
+    },
+    {
+        "id": "obj_37",
+        "type": "objective",
+        "question": "The zeroes of the polynomial $x^2 + \\frac{1}, {6}x - 2$ are",
+        "prashna": "द्विघात बहुपद $x^2 + \\frac{1}, {6}x - 2$ के शून्यक हैं",
+        "options": {
+            "A": "$-3, 4$",
+            "B": "$-\\frac{3}, {2}, \\frac{4}, {3}$",
+            "C": "$-\\frac{4}, {3}, \\frac{3}, {2}$",
+            "D": "none of these"
+        },
+        "vikalpa": {
+            "A": "$-3, 4$",
+            "B": "$-\\frac{3}, {2}, \\frac{4}, {3}$",
+            "C": "$-\\frac{4}, {3}, \\frac{3}, {2}$",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_38",
+        "type": "objective",
+        "question": "The 30th term of the A.P. 10, 7, 4, ... is equal to",
+        "prashna": "समांतर श्रेणी 10, 7, 4, ... का 30 वाँ पद बराबर है",
+        "options": {
+            "A": "-55",
+            "B": "-66",
+            "C": "-77",
+            "D": "81"
+        },
+        "vikalpa": {
+            "A": "-55",
+            "B": "-66",
+            "C": "-77",
+            "D": "81"
+        }
+    },
+    {
+        "id": "obj_39",
+        "type": "objective",
+        "question": "If $\\tan \\theta = \\frac{8}, {15}$, then the value of $\\csc \\theta$ is",
+        "prashna": "यदि $\\tan \\theta = \\frac{8}, {15}$ हो, तो $\\csc \\theta$ का मान है",
+        "options": {
+            "A": "$\\frac{17}, {8}$",
+            "B": "$\\frac{8}, {17}$",
+            "C": "$\\frac{15}, {17}$",
+            "D": "$\\frac{17}, {15}$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{17}, {8}$",
+            "B": "$\\frac{8}, {17}$",
+            "C": "$\\frac{15}, {17}$",
+            "D": "$\\frac{17}, {15}$"
+        }
+    },
+    {
+        "id": "obj_40",
+        "type": "objective",
+        "question": "The sum of all natural numbers from 1 to 100 is",
+        "prashna": "1 से 100 तक सभी प्राकृत संख्याओं का योग है",
+        "options": {
+            "A": "4050",
+            "B": "5050",
+            "C": "6050",
+            "D": "7050"
+        },
+        "vikalpa": {
+            "A": "4050",
+            "B": "5050",
+            "C": "6050",
+            "D": "7050"
+        }
+    },
+    {
+        "id": "obj_41",
+        "type": "objective",
+        "question": "How many maximum solutions of the linear equation $ax + by + c = 0$ are possible in two variables $x, y$?",
+        "prashna": "दो चर $x, y$ में रैखिक समीकरण $ax + by + c = 0$ के कितने अधिकतम हल संभव हैं?",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "Infinitely many",
+            "D": "none of these"
+        },
+        "vikalpa": {
+            "A": "1",
+            "B": "2",
+            "C": "अनगिनत",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_42",
+        "type": "objective",
+        "question": "Which term of the A.P. 1, 4, 7, 10, ... is 88?",
+        "prashna": "समान्तर श्रेणी 1, 4, 7, 10, ... का कौन-सा पद 88 है?",
+        "options": {
+            "A": "26",
+            "B": "27",
+            "C": "30",
+            "D": "35"
+        },
+        "vikalpa": {
+            "A": "26",
+            "B": "27",
+            "C": "30",
+            "D": "35"
+        }
+    },
+    {
+        "id": "obj_43",
+        "type": "objective",
+        "question": "In which quadrant does the point (-3, -5) lie?",
+        "prashna": "बिन्दु (-3, -5) किस पाद में स्थित है?",
+        "options": {
+            "A": "1st quadrant",
+            "B": "2nd quadrant",
+            "C": "3rd quadrant",
+            "D": "4th quadrant"
+        },
+        "vikalpa": {
+            "A": "प्रथम पाद",
+            "B": "द्वितीय पाद",
+            "C": "तृतीय पाद",
+            "D": "चतुर्थ पाद"
+        }
+    },
+    {
+        "id": "obj_44",
+        "type": "objective",
+        "question": "Value of $2\\cos^2 60^\\circ$ is",
+        "prashna": "$2\\cos^2 60^\\circ$ का मान है",
+        "options": {
+            "A": "$\\frac{1}, {3}$",
+            "B": "$\\frac{1}, {4}$",
+            "C": "1",
+            "D": "$\\frac{1}, {2}$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{1}, {3}$",
+            "B": "$\\frac{1}, {4}$",
+            "C": "1",
+            "D": "$\\frac{1}, {2}$"
+        }
+    },
+    {
+        "id": "obj_45",
+        "type": "objective",
+        "question": "In the following which is the quadratic polynomial whose sum of zeros is 3 and product is -10?",
+        "prashna": "निम्न में से किस द्विघात बहुपद के शून्यकों का योगफल 3 तथा गुणनफल -10 है?",
+        "options": {
+            "A": "$x^2 - 3x + 10$",
+            "B": "$x^2 + 3x - 10$",
+            "C": "$x^2 - 3x - 10$",
+            "D": "none of these"
+        },
+        "vikalpa": {
+            "A": "$x^2 - 3x + 10$",
+            "B": "$x^2 + 3x - 10$",
+            "C": "$x^2 - 3x - 10$",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_46",
+        "type": "objective",
+        "question": "Which of the following numbers cannot be the probability of an event?",
+        "prashna": "निम्नलिखित में से कौन-सी संख्या, एक घटना की प्रायिकता नहीं हो सकती है?",
+        "options": {
+            "A": "$\\frac{2}, {3}$",
+            "B": "-0.5",
+            "C": "0.7",
+            "D": "15%"
+        },
+        "vikalpa": {
+            "A": "$\\frac{2}, {3}$",
+            "B": "-0.5",
+            "C": "0.7",
+            "D": "15%"
+        }
+    },
+    {
+        "id": "obj_47",
+        "type": "objective",
+        "question": "The HCF of the smallest composite number and smallest prime number is",
+        "prashna": "सबसे छोटी भाज्य संख्या और छोटी अभाज्य संख्या का म० स० कितना होगा?",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "none of these"
+        },
+        "vikalpa": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_48",
+        "type": "objective",
+        "question": "A wire of 4 mm diameter is made by pulling a metallic cube whose side is 1 cm. The length of the wire is",
+        "prashna": "एक धातु का घन, जिसकी भुजा 1 cm है, को खींचकर 4 mm व्यास का एक तार बनाया गया है। तार की लम्बाई है",
+        "options": {
+            "A": "$\\frac{100}, {\\pi}$ cm",
+            "B": "$\\frac{25}, {\\pi}$ cm",
+            "C": "$100\\pi$ cm",
+            "D": "10000 cm"
+        },
+        "vikalpa": {
+            "A": "$\\frac{100}, {\\pi}$ cm",
+            "B": "$\\frac{25}, {\\pi}$ cm",
+            "C": "$100\\pi$ cm",
+            "D": "10000 cm"
+        }
+    },
+    {
+        "id": "obj_49",
+        "type": "objective",
+        "question": "$1 + \\tan^2 \\theta =$",
+        "prashna": "$1 + \\tan^2 \\theta =$",
+        "options": {
+            "A": "$\\sec^2 \\theta$",
+            "B": "$\\csc^2 \\theta$",
+            "C": "$\\tan^2 \\theta$",
+            "D": "$\\cot^2 \\theta$"
+        },
+        "vikalpa": {
+            "A": "$\\sec^2 \\theta$",
+            "B": "$\\csc^2 \\theta$",
+            "C": "$\\tan^2 \\theta$",
+            "D": "$\\cot^2 \\theta$"
+        }
+    },
+    {
+        "id": "obj_50",
+        "type": "objective",
+        "question": "If the corresponding sides of two similar triangles are in the ratio of 3 : 4, then the ratio of their perimeters is",
+        "prashna": "यदि दो समरूप त्रिभुजों की संगत भुजाओं में 3 : 4 का अनुपात है, तो उनके परिमापों का अनुपात है",
+        "options": {
+            "A": "3 : 4",
+            "B": "4 : 3",
+            "C": "9 : 16",
+            "D": "16 : 9"
+        },
+        "vikalpa": {
+            "A": "3 : 4",
+            "B": "4 : 3",
+            "C": "9 : 16",
+            "D": "16 : 9"
+        }
+    },
+    {
+        "id": "obj_51",
+        "type": "objective",
+        "question": "One of the sides of an equilateral triangle ABC is 12 cm, then its height is",
+        "prashna": "एक समबाहु त्रिभुज ABC की एक भुजा 12 cm हो, तो इसकी ऊँचाई होगी",
+        "options": {
+            "A": "$6\\sqrt{2}$ cm",
+            "B": "$6\\sqrt{3}$ cm",
+            "C": "$3\\sqrt{6}$ cm",
+            "D": "$6\\sqrt{6}$ cm"
+        },
+        "vikalpa": {
+            "A": "$6\\sqrt{2}$ cm",
+            "B": "$6\\sqrt{3}$ cm",
+            "C": "$3\\sqrt{6}$ cm",
+            "D": "$6\\sqrt{6}$ cm"
+        }
+    },
+    {
+        "id": "obj_52",
+        "type": "objective",
+        "question": "If the equations $3x - y = 5$ and $6x - 2y = k$ have no solution, then",
+        "prashna": "यदि समीकरण $3x - y = 5$ तथा $6x - 2y = k$ के कोई हल न हो, तो",
+        "options": {
+            "A": "$k = 0$",
+            "B": "$k \\neq 0$",
+            "C": "$k \\neq 10$",
+            "D": "$k = -10$"
+        },
+        "vikalpa": {
+            "A": "$k = 0$",
+            "B": "$k \\neq 0$",
+            "C": "$k \\neq 10$",
+            "D": "$k = -10$"
+        }
+    },
+    {
+        "id": "obj_53",
+        "type": "objective",
+        "question": "The length of the string of a kite flying at a height of 100 m from the ground and angle of elevation $60^\\circ$ is",
+        "prashna": "भूमि से 100 m की ऊँचाई तथा $60^\\circ$ के उन्नयन कोण पर उड़ती हुई एक पतंग की डोरी की लंबाई है",
+        "options": {
+            "A": "100 m",
+            "B": "$100\\sqrt{2}$ m",
+            "C": "$\\frac{200}, {\\sqrt{3}}$ m",
+            "D": "200 m"
+        },
+        "vikalpa": {
+            "A": "100 m",
+            "B": "$100\\sqrt{2}$ m",
+            "C": "$\\frac{200}, {\\sqrt{3}}$ m",
+            "D": "200 m"
+        }
+    },
+    {
+        "id": "obj_54",
+        "type": "objective",
+        "question": "If two tangents inclined at an angle of $60^\\circ$ are drawn to a circle of radius 3 cm then the length of each tangent is",
+        "prashna": "यदि 3 cm त्रिज्या वाले एक वृत्त पर खींची गई दो स्पर्श रेखाएँ परस्पर $60^\\circ$ के कोण पर झुकी हों, तो प्रत्येक स्पर्श रेखा की लंबाई है",
+        "options": {
+            "A": "$2\\sqrt{3}$ cm",
+            "B": "$\\frac{3\\sqrt{3}}, {2}$ cm",
+            "C": "$3\\sqrt{3}$ cm",
+            "D": "6 cm"
+        },
+        "vikalpa": {
+            "A": "$2\\sqrt{3}$ cm",
+            "B": "$\\frac{3\\sqrt{3}}, {2}$ cm",
+            "C": "$3\\sqrt{3}$ cm",
+            "D": "6 cm"
+        }
+    },
+    {
+        "id": "obj_55",
+        "type": "objective",
+        "question": "A card is drawn at random from a well-shuffled deck of 52 cards. What is the probability of getting a king of black colour?",
+        "prashna": "52 ताशों की एक गड्डी को अच्छी तरह फेंटकर, उसमें से यादृच्छया एक पत्ता निकाला जाता है। इसके काले रंग का बादशाह होने की प्रायिकता कितनी है?",
+        "options": {
+            "A": "$\\frac{1}, {13}$",
+            "B": "$\\frac{1}, {26}$",
+            "C": "$\\frac{1}, {52}$",
+            "D": "$\\frac{3}, {39}$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{1}, {13}$",
+            "B": "$\\frac{1}, {26}$",
+            "C": "$\\frac{1}, {52}$",
+            "D": "$\\frac{3}, {39}$"
+        }
+    },
+    {
+        "id": "obj_56",
+        "type": "objective",
+        "question": "Which of the following is equal to $\\csc \\theta$ ?",
+        "prashna": "निम्नलिखित में से कौन $\\csc \\theta$ के बराबर है?",
+        "options": {
+            "A": "$\\frac{\\cos \\theta}, {\\sin \\theta}$",
+            "B": "$\\frac{1}, {\\sec \\theta}$",
+            "C": "$\\frac{1}, {\\sin \\theta}$",
+            "D": "$\\frac{\\sin \\theta}, {\\cos \\theta}$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{\\cos \\theta}, {\\sin \\theta}$",
+            "B": "$\\frac{1}, {\\sec \\theta}$",
+            "C": "$\\frac{1}, {\\sin \\theta}$",
+            "D": "$\\frac{\\sin \\theta}, {\\cos \\theta}$"
+        }
+    },
+    {
+        "id": "obj_57",
+        "type": "objective",
+        "question": "If $2 \\sin \\theta = 1$, then the value of $(3 \\cot^2 \\theta + 3)$ will be",
+        "prashna": "यदि $2 \\sin \\theta = 1$, तो $(3 \\cot^2 \\theta + 3)$ का मान होगा",
+        "options": {
+            "A": "12",
+            "B": "15",
+            "C": "9",
+            "D": "8"
+        },
+        "vikalpa": {
+            "A": "12",
+            "B": "15",
+            "C": "9",
+            "D": "8"
+        }
+    },
+    {
+        "id": "obj_58",
+        "type": "objective",
+        "question": "The probability of an impossible event is",
+        "prashna": "असंभव घटना की प्रायिकता होती है",
+        "options": {
+            "A": "$\\frac{1}, {2}$",
+            "B": "1",
+            "C": "0",
+            "D": "$\\frac{1}, {3}$"
+        },
+        "vikalpa": {
+            "A": "$\\frac{1}, {2}$",
+            "B": "1",
+            "C": "0",
+            "D": "$\\frac{1}, {3}$"
+        }
+    },
+    {
+        "id": "obj_59",
+        "type": "objective",
+        "question": "Which of the following are zeroes of $x^2 - \\sqrt{2}x - 12$?",
+        "prashna": "निम्नलिखित में $x^2 - \\sqrt{2}x - 12$ के शून्यक कौन-से हैं?",
+        "options": {
+            "A": "$-3\\sqrt{2}, \\sqrt{2}$",
+            "B": "$-3\\sqrt{2}, \\frac{1}, {\\sqrt{2}}$",
+            "C": "$-\\frac{3}, {\\sqrt{2}}, \\frac{1}, {2\\sqrt{2}}$",
+            "D": "none of these"
+        },
+        "vikalpa": {
+            "A": "$-3\\sqrt{2}, \\sqrt{2}$",
+            "B": "$-3\\sqrt{2}, \\frac{1}, {\\sqrt{2}}$",
+            "C": "$-\\frac{3}, {\\sqrt{2}}, \\frac{1}, {2\\sqrt{2}}$",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_60",
+        "type": "objective",
+        "question": "The largest chord of a circle is",
+        "prashna": "वृत्त की सबसे बड़ी जीवा होती है",
+        "options": {
+            "A": "arc",
+            "B": "chord",
+            "C": "diameter",
+            "D": "none of these"
+        },
+        "vikalpa": {
+            "A": "चाप",
+            "B": "चापकर्ण",
+            "C": "व्यास",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "Three coins are tossed together. Find the probability of getting at least two heads.",
+        "prashna": "तीन सिक्कों को एक बार उछाला जाता है। कम-से-कम दो चित आने की प्रायिकता ज्ञात करें।"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "Find the zeroes of the quadratic polynomial $x^2 - 2x - 8$.",
+        "prashna": "द्विघात बहुपद $x^2 - 2x - 8$ के शून्यकों ज्ञात कीजिए।"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "Prove that $\\sin^2 5^\\circ + \\sin^2 85^\\circ + \\sin^2 10^\\circ + \\sin^2 80^\\circ = 2$.",
+        "prashna": "सिद्ध करें कि $\\sin^2 5^\\circ + \\sin^2 85^\\circ + \\sin^2 10^\\circ + \\sin^2 80^\\circ = 2$।"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "A circle is touching the side BC of $\\triangle ABC$ at P and touching AB and AC produced at Q and R respectively. Prove that $AQ = \\frac{1}, {2}(\\text{Perimeter of } \\triangle ABC)$.",
+        "prashna": "एक वृत्त $\\triangle ABC$ की भुजा BC को P बिन्दु पर स्पर्श करता है तथा भुजाओं AB और AC को बढ़ाने पर क्रमशः Q तथा R पर स्पर्श करता है। सिद्ध कीजिए कि $AQ = \\frac{1}, {2}(\\triangle ABC \\text{ का परिमाप})$।"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "Find the area of a quadrant of a circle if its perimeter is 25 cm.",
+        "prashna": "एक वृत्त के चतुर्थांश का क्षेत्रफल ज्ञात करें यदि इसका परिमाप 25 cm है।"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "Two dice are thrown together. Find the probability of getting even numbers on both dice.",
+        "prashna": "दो पासों को एक बार फेंका जाता है, तो दोनों पर सम संख्याएँ आने की प्रायिकता ज्ञात करें।"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "Prove that $(3 + \\sqrt{5})$ is an irrational number.",
+        "prashna": "सिद्ध करें कि $(3 + \\sqrt{5})$ एक अपरिमेय संख्या है।"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "Using quadratic formula find the solution of the equation $x^2 - 4x - 1 = 0$.",
+        "prashna": "द्विघात सूत्र का प्रयोग कर समीकरण $x^2 - 4x - 1 = 0$ का हल निकालें।"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "Determine the common difference of an A.P. whose 4th term is 11 and sum of the 5th and 7th terms is 34.",
+        "prashna": "एक समांतर श्रेणी का चौथा पद 11 है। इसके पाँचवे तथा सातवें पदों का योग 34 है। इसका सार्व अंतर ज्ञात कीजिए।"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "In a $\\triangle ABC$, $AD$ is perpendicular to $BC$. Prove that $(AB^2 + CD^2) = (AC^2 + BD^2)$.",
+        "prashna": "एक $\\triangle ABC$ में $AD, BC$ पर लंब है। सिद्ध करें कि $(AB^2 + CD^2) = (AC^2 + BD^2)$।"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "If $7 \\tan \\theta = 4$, then find the value of $\\frac{7 \\sin \\theta - 3 \\cos \\theta}, {7 \\sin \\theta + 3 \\cos \\theta}$.",
+        "prashna": "यदि $7 \\tan \\theta = 4$ हो, तो $\\frac{7 \\sin \\theta - 3 \\cos \\theta}, {7 \\sin \\theta + 3 \\cos \\theta}$ का मान ज्ञात करें।"
+    },
+    {
+        "id": "short_12",
+        "type": "short_answer",
+        "question": "Find a point on $x$-axis which is equidistant from the points $A(2, -5)$ and $B(-2, 9)$.",
+        "prashna": "$x$-अक्ष पर उस बिन्दु को ज्ञात करें जो बिन्दुओं $A(2, -5)$ तथा $B(-2, 9)$ से समदूरस्थ है।"
+    },
+    {
+        "id": "short_13",
+        "type": "short_answer",
+        "question": "Establish a relation between $x$ and $y$ if the point $(x, y)$ is equidistant from (7, 1) and (3, 5).",
+        "prashna": "$x$ और $y$ में एक सम्बन्ध स्थापित करें यदि बिन्दु $(x, y)$, (7, 1) तथा (3, 5) समदूरस्थ है।"
+    },
+    {
+        "id": "short_14",
+        "type": "short_answer",
+        "question": "The HCF of two numbers is 23 and their LCM is 1449. If one number is 161, then find the other number.",
+        "prashna": "दो संख्याओं का म०स० 23 है तथा उनका ल०स० 1449 है। यदि एक संख्या 161 है, तो दूसरी संख्या ज्ञात करें।"
+    },
+    {
+        "id": "short_15",
+        "type": "short_answer",
+        "question": "If $\\alpha, \\beta$ are the zeroes of the quadratic polynomial $ax^2 + bx + c$, then find the value of $\\alpha^2 + \\beta^2$.",
+        "prashna": "यदि $\\alpha, \\beta$ किसी द्विघात बहुपद $ax^2 + bx + c$ के शून्यक हों तो $\\alpha^2 + \\beta^2$ का मान ज्ञात करें।"
+    },
+    {
+        "id": "short_16",
+        "type": "short_answer",
+        "question": "Using Euclid's division algorithm, find the HCF of 272 and 1032.",
+        "prashna": "युक्लिड के विभाजन एल्गोरिथ्म का प्रयोग कर 272 तथा 1032 का म०स० निकालें।"
+    },
+    {
+        "id": "short_17",
+        "type": "short_answer",
+        "question": "Find the surface area of a hemisphere whose diameter is 14 cm.",
+        "prashna": "उस अर्द्धगोले का वक्र पृष्ठ निकालें जिसका व्यास 14 cm है।"
+    },
+    {
+        "id": "short_18",
+        "type": "short_answer",
+        "question": "Evaluate the following: $\\frac{\\tan^2 60^\\circ + 4 \\sin^2 45^\\circ + 3 \\sec^2 30^\\circ + 5 \\cos^2 90^\\circ}, {\\csc 30^\\circ + \\sec 60^\\circ - \\cot^2 30^\\circ}$",
+        "prashna": "निम्न का मान ज्ञात करें: $\\frac{\\tan^2 60^\\circ + 4 \\sin^2 45^\\circ + 3 \\sec^2 30^\\circ + 5 \\cos^2 90^\\circ}, {\\csc 30^\\circ + \\sec 60^\\circ - \\cot^2 30^\\circ}$"
+    },
+    {
+        "id": "short_19",
+        "type": "short_answer",
+        "question": "Solve the system of equations $2x + 5y = 1$ and $2x + 3y = 3$ by cross-multiplication method.",
+        "prashna": "समीकरण निकाय $2x + 5y = 1$ और $2x + 3y = 3$ को वज्र गुणन विधि से हल करें।"
+    },
+    {
+        "id": "short_20",
+        "type": "short_answer",
+        "question": "Convert $0.\\overline{16}$ in the form of $\\frac{p}, {q}$.",
+        "prashna": "$0.\\overline{16}$ को $\\frac{p}, {q}$ के रूप में बदलें।"
+    },
+    {
+        "id": "short_21",
+        "type": "short_answer",
+        "question": "Calculate the volume of a right circular cone whose height is 24 cm and radius of the base is 7 cm.",
+        "prashna": "एक लम्बवृत्तीय शंकु की ऊँचाई 24 cm और आधार की त्रिज्या 7 cm है, तो उसके आयतन की गणना करें।"
+    },
+    {
+        "id": "short_22",
+        "type": "short_answer",
+        "question": "In $\\triangle ABC$, $D$ and $E$ are two points on the sides $AB$ and $AC$ respectively such that $DE \\parallel BC$. If $AD = (4x - 3)$ cm, $AE = (8x - 7)$ cm, $BD = (3x - 1)$ cm and $CE = (5x - 3)$ cm, then find the value of $x$.",
+        "prashna": "$\\triangle ABC$ में भुजाओं $AB$ तथा $AC$ पर दो बिन्दु $D$ और $E$ क्रमशः इस प्रकार हैं कि $DE \\parallel BC$, यदि $AD = (4x - 3)$ cm, $AE = (8x - 7)$ cm, $BD = (3x - 1)$ cm तथा $CE = (5x - 3)$ cm, तो $x$ का मान निकालें।"
+    },
+    {
+        "id": "short_23",
+        "type": "short_answer",
+        "question": "Prove that $\\frac{\\tan A + \\tan B}, {\\cot A + \\cot B} = \\tan A \\tan B$.",
+        "prashna": "सिद्ध करें कि $\\frac{\\tan A + \\tan B}, {\\cot A + \\cot B} = \\tan A \\tan B$।"
+    },
+    {
+        "id": "short_24",
+        "type": "short_answer",
+        "question": "The vertices of a $\\triangle ABC$ are $A(-3, 0), B(5, -2)$ and $C(-8, 5)$. Find the centroid of the triangle.",
+        "prashna": "एक $\\triangle ABC$ के शीर्ष बिन्दु $A(-3, 0), B(5, -2)$ तथा $C(-8, 5)$ हैं। इस त्रिभुज का केन्द्रक ज्ञात कीजिए।"
+    },
+    {
+        "id": "short_25",
+        "type": "short_answer",
+        "question": "Find the mode of the following distribution:",
+        "prashna": "निम्नलिखित बंटन का बहुलक ज्ञात करें :",
+        "sub_questions": {
+            "Class-interval": "0-20, 20-40, 40-60, 60-80, 80-100, 100-120",
+            "Frequency": "30, 36, 52, 61, 38, 33"
+        },
+        "anuprashna": {
+            "वर्ग-अंतराल": "0-20, 20-40, 40-60, 60-80, 80-100, 100-120",
+            "बारंबारता": "30, 36, 52, 61, 38, 33"
+        }
+    },
+    {
+        "id": "short_26",
+        "type": "short_answer",
+        "question": "Find the mean of the following distribution:",
+        "prashna": "निम्नलिखित बंटन का माध्य ज्ञात करें :",
+        "sub_questions": {
+            "Class-interval": "0-10, 10-20, 20-30, 30-40, 40-50",
+            "Frequency": "7, 8, 16, 9, 10"
+        },
+        "anuprashna": {
+            "वर्ग-अंतराल": "0-10, 10-20, 20-30, 30-40, 40-50",
+            "बारंबारता": "7, 8, 16, 9, 10"
+        }
+    },
+    {
+        "id": "short_27",
+        "type": "short_answer",
+        "question": "If the sum of two numbers is 1000 and the difference of their squares is 256000, then find the numbers.",
+        "prashna": "दो संख्याओं का योगफल 1000 है तथा उनके वर्गों का अंतर 256000 है तो संख्याएं ज्ञात करें।"
+    },
+    {
+        "id": "long_28",
+        "type": "long_answer",
+        "question": "Draw the graph of pair of equations $x + 2y = 3$ and $4x + 3y = 2$.",
+        "prashna": "समीकरण युग्म $x + 2y = 3$ तथा $4x + 3y = 2$ का ग्राफ खींचें और हल करें।"
+    },
+    {
+        "id": "long_29",
+        "type": "long_answer",
+        "question": "Two poles of equal heights are standing opposite to each other on either side of the road, which is 60 m wide. From a point between them on the road, the angles of elevation of the top of the poles are $30^\\circ$ and $60^\\circ$ respectively. Find the heights of the poles and the distance of the point from the poles.",
+        "prashna": "एक 60 m चौड़ी सड़क के दोनों ओर आमने-सामने समान लंबाई वाले दो खम्भे लगे हुए हैं। इन दोनों खम्भों के बीच सड़क के एक बिन्दु से खम्भों के शिखर के उन्नयन कोण क्रमशः $30^\\circ$ और $60^\\circ$ हैं। खम्भों की ऊँचाई और खम्भों से बिन्दु की दूरी ज्ञात कीजिए।"
+    },
+    {
+        "id": "long_30",
+        "type": "long_answer",
+        "question": "Prove that the line segment joining the points of contact of two parallel tangents of the circle passes through the centre of the circle.",
+        "prashna": "सिद्ध करें कि वृत्त की दो समांतर स्पर्शरेखाओं के स्पर्शबिन्दुओं को मिलानेवाला रेखाखंड वृत्त के केन्द्र से होकर जाता है।"
+    },
+    {
+        "id": "long_31",
+        "type": "long_answer",
+        "question": "A train travels a distance with equal speed. If the train had run 10 km/hr faster, it would have taken 2 hours less than the scheduled time and if it had run 10 km/hr slower, it would have taken 3 hours more than the scheduled time. Find the distance travelled by the train.",
+        "prashna": "एक रेलगाड़ी कुछ दूरी समान चाल से तय करती है। यदि रेलगाड़ी 10 km/hr अधिक तेज चली होती, तो उसे नियत समय से 2 घंटे कम लगते और यदि 10 km/hr धीमी चली होती, तो उसे नियत समय से 3 घंटे अधिक लगते। रेलगाड़ी द्वारा तय की गई दूरी ज्ञात करें।"
+    },
+    {
+        "id": "long_32",
+        "type": "long_answer",
+        "question": "Prove that $\\frac{\\tan A}, {1 - \\cot A} + \\frac{\\cot A}, {1 - \\tan A} = (1 + \\tan A + \\cot A)$.",
+        "prashna": "सिद्ध करें कि $\\frac{\\tan A}, {1 - \\cot A} + \\frac{\\cot A}, {1 - \\tan A} = (1 + \\tan A + \\cot A)$।"
+    },
+    {
+        "id": "long_33",
+        "type": "long_answer",
+        "question": "If the angle between two tangents drawn on a circle with radius $a$ and centre $O$ from an exterior point $P$ is $60^\\circ$, find the length of $OP$.",
+        "prashna": "यदि एक बाह्य बिन्दु $P$ से त्रिज्या $a$ तथा केन्द्र $O$ वाले वृत्त पर खींची गई दो स्पर्शरेखाओं के बीच का कोण $60^\\circ$ हो, तो $OP$ की लंबाई ज्ञात करें।"
+    },
+    {
+        "id": "long_34",
+        "type": "long_answer",
+        "question": "Nisha can swim downstream 20 km in 2 hours and upstream 4 km in 2 hours. Find her speed of swimming in still water and the speed of the current.",
+        "prashna": "निशा धारा के अनुकूल 2 घंटे में 20 km तैर सकती है और धारा के प्रतिकूल 2 घंटे में 4 km तैर सकती है। उसकी स्थिर जल में तैरने की चाल तथा धारा की चाल ज्ञात करें।"
+    },
+    {
+        "id": "long_35",
+        "type": "long_answer",
+        "question": "Draw a circle of radius 3.5 cm. Draw two tangents to the circle which are perpendicular to each other.",
+        "prashna": "3.5 cm त्रिज्या का वृत्त खींचिए। इस वृत्त पर ऐसी दो स्पर्शरेखाएँ खींचिए जो परस्पर लंबवत हों।"
+    }
+]

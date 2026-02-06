@@ -1,0 +1,790 @@
+```json
+[
+  {
+    "id": "obj_1",
+    "type": "objective",
+    "question": "If $P\\left(\\frac{a}{2}, 4\\right)$ is the mid-point of the line segment joining the points $A(-6, 5)$ and $B(-2, 3)$, then the value of $a$ is",
+    "prashna": "यदि $P\\left(\\frac{a}{2}, 4\\right)$, बिन्दुओं $A(-6, 5)$ एवं $B(-2, 3)$ को जोड़ने वाले रेखाखंड का मध्यबिन्दु है, तो $a$ का मान होगा",
+    "options": {
+      "A": "-8",
+      "B": "3",
+      "C": "-4",
+      "D": "4"
+    },
+    "vikalpa": {
+      "A": "-8",
+      "B": "3",
+      "C": "-4",
+      "D": "4"
+    }
+  },
+  {
+    "id": "obj_2",
+    "type": "objective",
+    "question": "If three points are collinear then what is the area of the triangle made by them?",
+    "prashna": "यदि तीन बिन्दु एकरैखिक हों तो उनसे बने त्रिभुज का क्षेत्रफल क्या होगा ?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "0",
+      "D": "3"
+    },
+    "vikalpa": {
+      "A": "1",
+      "B": "2",
+      "C": "0",
+      "D": "3"
+    }
+  },
+  {
+    "id": "obj_3",
+    "type": "objective",
+    "question": "If $A(-1, 0)$, $B(5, -2)$ and $C(8, 2)$ are the vertices of a $\\triangle ABC$ then co-ordinates of its centroid are",
+    "prashna": "यदि $\\triangle ABC$ के शीर्षों के निर्देशांक $A(-1, 0)$, $B(5, -2)$ एवं $C(8, 2)$ हों तो उसके केन्द्रक के निर्देशांक होंगे",
+    "options": {
+      "A": "(12, 0)",
+      "B": "(6, 0)",
+      "C": "(0, 6)",
+      "D": "(4, 0)"
+    },
+    "vikalpa": {
+      "A": "(12, 0)",
+      "B": "(6, 0)",
+      "C": "(0, 6)",
+      "D": "(4, 0)"
+    }
+  },
+  {
+    "id": "obj_4",
+    "type": "objective",
+    "question": "If in $\\triangle ABC$, $AD$ is the bisector of $\\angle BAC$ and $AB = 10$ cm, $AC = 14$ cm, $BC = 6$ cm then the value of $DC$ is",
+    "prashna": "यदि त्रिभुज $ABC$ में $AD, \\angle BAC$ का अर्द्धक है तथा $AB = 10$ सेमी, $AC = 14$ सेमी, $BC = 6$ सेमी तो $DC$ का मान है",
+    "options": {
+      "A": "2.5 cm",
+      "B": "3.5 cm",
+      "C": "4.5 cm",
+      "D": "4 cm"
+    },
+    "vikalpa": {
+      "A": "2.5 सेमी",
+      "B": "3.5 सेमी",
+      "C": "4.5 सेमी",
+      "D": "4 सेमी"
+    }
+  },
+  {
+    "id": "obj_5",
+    "type": "objective",
+    "question": "In $\\triangle ABC$, $DE \\parallel BC$ such that $\\frac{AD}{DB} = \\frac{3}{5}$. If $AC = 5.6$ cm then $AE = ?$",
+    "prashna": "त्रिभुज $ABC$ में $DE \\parallel BC$ इस प्रकार है कि $\\frac{AD}{DB} = \\frac{3}{5}$। यदि $AC = 5.6$ सेमी तो $AE = ?$",
+    "options": {
+      "A": "4.2 cm",
+      "B": "3.1 cm",
+      "C": "2.8 cm",
+      "D": "2.1 cm"
+    },
+    "vikalpa": {
+      "A": "4.2 सेमी",
+      "B": "3.1 सेमी",
+      "C": "2.8 सेमी",
+      "D": "2.1 सेमी"
+    }
+  },
+  {
+    "id": "obj_6",
+    "type": "objective",
+    "question": "If the ratio of corresponding sides of two similar triangles is $5 : 6$ then the ratio of their perimeters is",
+    "prashna": "यदि दो समरूप त्रिभुजों की संगत भुजाओं का अनुपात $5 : 6$ हो तो उनके परिमापों का अनुपात होगा",
+    "options": {
+      "A": "25 : 36",
+      "B": "5 : 6",
+      "C": "36 : 25",
+      "D": "15 : 16"
+    },
+    "vikalpa": {
+      "A": "25 : 36",
+      "B": "5 : 6",
+      "C": "36 : 25",
+      "D": "15 : 16"
+    }
+  },
+  {
+    "id": "obj_7",
+    "type": "objective",
+    "question": "In $\\triangle ABC$, $AB = 6\\sqrt{3}$ cm, $AC = 12$ cm and $BC = 6$ cm then $\\angle B$ is",
+    "prashna": "$\\triangle ABC$ में $AB = 6\\sqrt{3}$ सेमी, $AC = 12$ सेमी तथा $BC = 6$ सेमी तो $\\angle B$ होगा",
+    "options": {
+      "A": "45°",
+      "B": "60°",
+      "C": "90°",
+      "D": "120°"
+    },
+    "vikalpa": {
+      "A": "45°",
+      "B": "60°",
+      "C": "90°",
+      "D": "120°"
+    }
+  },
+  {
+    "id": "obj_8",
+    "type": "objective",
+    "question": "If one side of an equilateral triangle $ABC$ is 12 cm and one side of equilateral triangle $DEF$ is 6 cm then $\\frac{\\text{area }(\\triangle ABC)}{\\text{area }(\\triangle DEF)} = $",
+    "prashna": "यदि समबाहु त्रिभुज $ABC$ की एक भुजा 12 सेमी तथा समबाहु त्रिभुज $DEF$ की एक भुजा 6 सेमी हों तो $\\frac{\\text{क्षेत्रफल }(\\triangle ABC)}{\\text{क्षेत्रफल }(\\triangle DEF)} = $",
+    "options": {
+      "A": "2 : 1",
+      "B": "1 : 2",
+      "C": "4 : 1",
+      "D": "2 : 3"
+    },
+    "vikalpa": {
+      "A": "2 : 1",
+      "B": "1 : 2",
+      "C": "4 : 1",
+      "D": "2 : 3"
+    }
+  },
+  {
+    "id": "obj_9",
+    "type": "objective",
+    "question": "$\\triangle ABC$ and $\\triangle PQR$ are similar triangles in which $AD$ is perpendicular from vertex $A$ to $BC$ and $PT$ is perpendicular from vertex $P$ to $QR$. If $AD = 9$ cm and $PT = 7$ cm, then ratio of areas of triangle $ABC$ and triangle $PQR$ is",
+    "prashna": "$\\triangle ABC$ एवं $\\triangle PQR$ समरूप त्रिभुज हैं जिसमें $AD$, शीर्ष $A$ से $BC$ पर लम्ब है तथा $PT$ शीर्ष $P$ से $QR$ पर लम्ब है। यदि $AD = 9$ सेमी एवं $PT = 7$ सेमी हो तो त्रिभुज $ABC$ तथा त्रिभुज $PQR$ के क्षेत्रफलों का अनुपात होगा",
+    "options": {
+      "A": "9 : 7",
+      "B": "7 : 9",
+      "C": "16 : 25",
+      "D": "81 : 49"
+    },
+    "vikalpa": {
+      "A": "9 : 7",
+      "B": "7 : 9",
+      "C": "16 : 25",
+      "D": "81 : 49"
+    }
+  },
+  {
+    "id": "obj_10",
+    "type": "objective",
+    "question": "If one side of an equilateral triangle is 12 cm then its height is",
+    "prashna": "एक समबाहु त्रिभुज की एक भुजा 12 सेमी हो तो इसकी ऊँचाई होगी",
+    "options": {
+      "A": "6\\sqrt{2} cm",
+      "B": "6\\sqrt{3} cm",
+      "C": "3\\sqrt{6} cm",
+      "D": "6\\sqrt{6} cm"
+    },
+    "vikalpa": {
+      "A": "6\\sqrt{2} सेमी",
+      "B": "6\\sqrt{3} सेमी",
+      "C": "3\\sqrt{6} सेमी",
+      "D": "6\\sqrt{6} सेमी"
+    }
+  },
+  {
+    "id": "obj_11",
+    "type": "objective",
+    "question": "The distance between two parallel tangents of a circle is 10 cm. Then the radius of the circle is",
+    "prashna": "किसी वृत्त की दो समांतर स्पर्शरेखाओं के बीच की दूरी 10 सेमी है तो वृत्त की त्रिज्या होगी",
+    "options": {
+      "A": "10 cm",
+      "B": "8 cm",
+      "C": "5 cm",
+      "D": "12 cm"
+    },
+    "vikalpa": {
+      "A": "10 सेमी",
+      "B": "8 सेमी",
+      "C": "5 सेमी",
+      "D": "12 सेमी"
+    }
+  },
+  {
+    "id": "obj_12",
+    "type": "objective",
+    "question": "If two circles touch each other externally then what is the number of common tangents ?",
+    "prashna": "दो वृत्त यदि बाह्य रूप से परस्पर स्पर्श करते हों तो उभयनिष्ठ स्पर्शरेखाओं की संख्या क्या होगी ?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "vikalpa": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    }
+  },
+  {
+    "id": "obj_13",
+    "type": "objective",
+    "question": "From an external point $P$, two tangents $PA$ and $PB$ are drawn on a circle. If $PA = 6$ cm then $PB = $",
+    "prashna": "किसी बाह्य बिन्दु $P$ से वृत्त पर $PA$ एवं $PB$ दो स्पर्श रेखाएँ खींची गई हैं। यदि $PA = 6$ सेमी तो $PB = $",
+    "options": {
+      "A": "12 cm",
+      "B": "6 cm",
+      "C": "8 cm",
+      "D": "18 cm"
+    },
+    "vikalpa": {
+      "A": "12 सेमी",
+      "B": "6 सेमी",
+      "C": "8 सेमी",
+      "D": "18 सेमी"
+    }
+  },
+  {
+    "id": "obj_14",
+    "type": "objective",
+    "question": "If two tangents drawn on a circle of radius 3 cm are inclined to each other at an angle of 60°, then the length of each tangent is",
+    "prashna": "यदि 3 सेमी त्रिज्या वाले एक वृत्त पर खींची गई स्पर्शरेखाएँ परस्पर 60° के कोण पर झुकी हों तो प्रत्येक स्पर्शरेखा की लंबाई है",
+    "options": {
+      "A": "2\\sqrt{3} cm",
+      "B": "\\frac{3\\sqrt{3}}{2} cm",
+      "C": "3\\sqrt{3} cm",
+      "D": "4 cm"
+    },
+    "vikalpa": {
+      "A": "2\\sqrt{3} सेमी",
+      "B": "\\frac{3\\sqrt{3}}{2} सेमी",
+      "C": "3\\sqrt{3} सेमी",
+      "D": "4 सेमी"
+    }
+  },
+  {
+    "id": "obj_15",
+    "type": "objective",
+    "question": "If $\\sin(20° + \\theta) = \\cos 30°$ then the value of $\\theta$ is",
+    "prashna": "यदि $\\sin(20° + \\theta) = \\cos 30°$ तो $\\theta$ का मान है",
+    "options": {
+      "A": "30°",
+      "B": "40°",
+      "C": "50°",
+      "D": "60°"
+    },
+    "vikalpa": {
+      "A": "30°",
+      "B": "40°",
+      "C": "50°",
+      "D": "60°"
+    }
+  },
+  {
+    "id": "obj_16",
+    "type": "objective",
+    "question": "If in $\\triangle ABC, \\angle C = 90°$ then $\\sin(A+B) = $",
+    "prashna": "यदि $\\triangle ABC$ में $\\angle C = 90°$ तो $\\sin(A+B) = $",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "1/2",
+      "D": "1/\\sqrt{2}"
+    },
+    "vikalpa": {
+      "A": "0",
+      "B": "1",
+      "C": "1/2",
+      "D": "1/\\sqrt{2}"
+    }
+  },
+  {
+    "id": "obj_17",
+    "type": "objective",
+    "question": "$\\sec^2 23° - \\tan^2 23° + 2 = $",
+    "prashna": "$\\sec^2 23° - \\tan^2 23° + 2 = $",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "vikalpa": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    }
+  },
+  {
+    "id": "obj_18",
+    "type": "objective",
+    "question": "If $x \\cos \\theta = 1, \\tan \\theta = y$ then the value of $x^2 - y^2$ is",
+    "prashna": "यदि $x \\cos \\theta = 1, \\tan \\theta = y$ तो $x^2 - y^2$ का मान है",
+    "options": {
+      "A": "2",
+      "B": "0",
+      "C": "-2",
+      "D": "1"
+    },
+    "vikalpa": {
+      "A": "2",
+      "B": "0",
+      "C": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "id": "obj_19",
+    "type": "objective",
+    "question": "If $\\tan \\theta = 3/4$ then $\\sin \\theta = $",
+    "prashna": "यदि $\\tan \\theta = 3/4$ तो $\\sin \\theta = $",
+    "options": {
+      "A": "4/5",
+      "B": "2/3",
+      "C": "4/3",
+      "D": "3/5"
+    },
+    "vikalpa": {
+      "A": "4/5",
+      "B": "2/3",
+      "C": "4/3",
+      "D": "3/5"
+    }
+  },
+  {
+    "id": "obj_20",
+    "type": "objective",
+    "question": "$\\sqrt{\\frac{1 + \\cos A}{1 - \\cos A}} = $",
+    "prashna": "$\\sqrt{\\frac{1 + \\cos A}{1 - \\cos A}} = $",
+    "options": {
+      "A": "\\text{cosec } A - \\cot A",
+      "B": "\\text{cosec } A + \\cot A",
+      "C": "\\text{cosec } A \\cdot \\cot A",
+      "D": "\\sin A \\cdot \\tan A"
+    },
+    "vikalpa": {
+      "A": "\\text{cosec } A - \\cot A",
+      "B": "\\text{cosec } A + \\cot A",
+      "C": "\\text{cosec } A \\cdot \\cot A",
+      "D": "\\sin A \\cdot \\tan A"
+    }
+  },
+  {
+    "id": "obj_21",
+    "type": "objective",
+    "question": "$\\tan 5° \\cdot \\tan 25° \\cdot \\tan 30° \\cdot \\tan 65° \\cdot \\tan 85° = $",
+    "prashna": "$\\tan 5° \\cdot \\tan 25° \\cdot \\tan 30° \\cdot \\tan 65° \\cdot \\tan 85° = $",
+    "options": {
+      "A": "1",
+      "B": "\\sqrt{3}",
+      "C": "1/\\sqrt{3}",
+      "D": "1/2"
+    },
+    "vikalpa": {
+      "A": "1",
+      "B": "\\sqrt{3}",
+      "C": "1/\\sqrt{3}",
+      "D": "1/2"
+    }
+  },
+  {
+    "id": "obj_22",
+    "type": "objective",
+    "question": "$\\cos 38° \\cos 52° - \\sin 38° \\sin 52° = $",
+    "prashna": "$\\cos 38° \\cos 52° - \\sin 38° \\sin 52° = $",
+    "options": {
+      "A": "1",
+      "B": "0",
+      "C": "2",
+      "D": "1/2"
+    },
+    "vikalpa": {
+      "A": "1",
+      "B": "0",
+      "C": "2",
+      "D": "1/2"
+    }
+  },
+  {
+    "id": "obj_23",
+    "type": "objective",
+    "question": "$\\frac{\\text{cosec } 42°}{\\sec 48°} \\times \\frac{\\cos 37°}{\\sin 53°} = $",
+    "prashna": "$\\frac{\\text{cosec } 42°}{\\sec 48°} \\times \\frac{\\cos 37°}{\\sin 53°} = $",
+    "options": {
+      "A": "0",
+      "B": "1/2",
+      "C": "1",
+      "D": "2"
+    },
+    "vikalpa": {
+      "A": "0",
+      "B": "1/2",
+      "C": "1",
+      "D": "2"
+    }
+  },
+  {
+    "id": "obj_24",
+    "type": "objective",
+    "question": "If $\\tan(\\alpha + \\beta) = \\sqrt{3}$ and $\\tan \\alpha = 1/\\sqrt{3}$ then the value of $\\tan \\beta$ is",
+    "prashna": "यदि $\\tan(\\alpha + \\beta) = \\sqrt{3}$ और $\\tan \\alpha = 1/\\sqrt{3}$ तो $\\tan \\beta$ का मान है",
+    "options": {
+      "A": "1/6",
+      "B": "1/7",
+      "C": "1/\\sqrt{3}",
+      "D": "7/6"
+    },
+    "vikalpa": {
+      "A": "1/6",
+      "B": "1/7",
+      "C": "1/\\sqrt{3}",
+      "D": "7/6"
+    }
+  },
+  {
+    "id": "obj_25",
+    "type": "objective",
+    "question": "$\\sqrt{2}\\left(\\sin \\frac{\\pi}{4} + \\cos \\frac{\\pi}{4}\\right) = $",
+    "prashna": "$\\sqrt{2}\\left(\\sin \\frac{\\pi}{4} + \\cos \\frac{\\pi}{4}\\right) = $",
+    "options": {
+      "A": "\\sqrt{2}",
+      "B": "2",
+      "C": "1",
+      "D": "1/2"
+    },
+    "vikalpa": {
+      "A": "\\sqrt{2}",
+      "B": "2",
+      "C": "1",
+      "D": "1/2"
+    }
+  },
+  {
+    "id": "obj_26",
+    "type": "objective",
+    "question": "If $a \\cos \\theta + b \\sin \\theta = 4$ and $a \\sin \\theta - b \\cos \\theta = 3$ then the value of $a^2 + b^2$ is",
+    "prashna": "यदि $a \\cos \\theta + b \\sin \\theta = 4$ तथा $a \\sin \\theta - b \\cos \\theta = 3$ तो $a^2 + b^2$ का मान है",
+    "options": {
+      "A": "7",
+      "B": "16",
+      "C": "25",
+      "D": "36"
+    },
+    "vikalpa": {
+      "A": "7",
+      "B": "16",
+      "C": "25",
+      "D": "36"
+    }
+  },
+  {
+    "id": "obj_27",
+    "type": "objective",
+    "question": "The ratio of the areas of two circles is $x^2 : y^2$. Then the ratio of their radii is",
+    "prashna": "दो वृत्तों के क्षेत्रफलों का अनुपात $x^2 : y^2$ है तो उनकी त्रिज्याओं का अनुपात होगा",
+    "options": {
+      "A": "x^2 : y^2",
+      "B": "\\sqrt{x} : \\sqrt{y}",
+      "C": "y : x",
+      "D": "x : y"
+    },
+    "vikalpa": {
+      "A": "x^2 : y^2",
+      "B": "\\sqrt{x} : \\sqrt{y}",
+      "C": "y : x",
+      "D": "x : y"
+    }
+  },
+  {
+    "id": "obj_28",
+    "type": "objective",
+    "question": "The area of a circle is $49\\pi$ square cm. Then its diameter is",
+    "prashna": "किसी वृत्त का क्षेत्रफल $49\\pi$ वर्ग सेमी है तो उसका व्यास होगा",
+    "options": {
+      "A": "7 cm",
+      "B": "14 cm",
+      "C": "49 cm",
+      "D": "21 cm"
+    },
+    "vikalpa": {
+      "A": "7 सेमी",
+      "B": "14 सेमी",
+      "C": "49 सेमी",
+      "D": "21 सेमी"
+    }
+  },
+  {
+    "id": "obj_29",
+    "type": "objective",
+    "question": "The distance covered by a wheel of radius 14 cm in 5 revolutions is",
+    "prashna": "5 चक्करों में 14 सेमी त्रिज्या के पहिया के द्वारा तय की गई दूरी है",
+    "options": {
+      "A": "400 cm",
+      "B": "440 cm",
+      "C": "288 cm",
+      "D": "388 cm"
+    },
+    "vikalpa": {
+      "A": "400 सेमी",
+      "B": "440 सेमी",
+      "C": "288 सेमी",
+      "D": "388 सेमी"
+    }
+  },
+  {
+    "id": "obj_30",
+    "type": "objective",
+    "question": "If the area of a circle is equal to the area of a square then the ratio of their perimeters is",
+    "prashna": "एक वृत्त का क्षेत्रफल एवं एक वर्ग का क्षेत्रफल बराबर है तो उनकी परिमितियों का अनुपात होगा",
+    "options": {
+      "A": "1 : 1",
+      "B": "2 : \\pi",
+      "C": "\\pi : 2",
+      "D": "\\sqrt{\\pi} : 2"
+    },
+    "vikalpa": {
+      "A": "1 : 1",
+      "B": "2 : \\pi",
+      "C": "\\pi : 2",
+      "D": "\\sqrt{\\pi} : 2"
+    }
+  },
+  {
+    "id": "obj_31",
+    "type": "objective",
+    "question": "If $p(x) = x^4 - 5x + 6$ and $q(x) = 2 - x^2$, then the degree of $\\frac{p(x)}{q(x)}$ is",
+    "prashna": "यदि $p(x) = x^4 - 5x + 6$ एवं $q(x) = 2 - x^2$ हो तो $\\frac{p(x)}{q(x)}$ का घात होगा",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "1",
+      "D": "3"
+    },
+    "vikalpa": {
+      "A": "2",
+      "B": "4",
+      "C": "1",
+      "D": "3"
+    }
+  },
+  {
+    "id": "obj_32",
+    "type": "objective",
+    "question": "Which of the following is a quadratic equation ?",
+    "prashna": "निम्नलिखित में कौन द्विघात समीकरण है ?",
+    "options": {
+      "A": "x^2 - 3\\sqrt{x} + 2 = 0",
+      "B": "x + 1/x = x^2",
+      "C": "x^2 + 1/x^2 = 5",
+      "D": "2x^2 - 5x = (x-1)^2"
+    },
+    "vikalpa": {
+      "A": "x^2 - 3\\sqrt{x} + 2 = 0",
+      "B": "x + 1/x = x^2",
+      "C": "x^2 + 1/x^2 = 5",
+      "D": "2x^2 - 5x = (x-1)^2"
+    }
+  },
+  {
+    "id": "obj_33",
+    "type": "objective",
+    "question": "If one root of the quadratic equation $x^2 + 2kx + 4 = 0$ is 2, then the value of $k$ is",
+    "prashna": "यदि द्विघात समीकरण $x^2 + 2kx + 4 = 0$ का एक मूल 2 है तो $k$ का मान होगा",
+    "options": {
+      "A": "-1",
+      "B": "-2",
+      "C": "2",
+      "D": "-4"
+    },
+    "vikalpa": {
+      "A": "-1",
+      "B": "-2",
+      "C": "2",
+      "D": "-4"
+    }
+  },
+  {
+    "id": "obj_34",
+    "type": "objective",
+    "question": "If $(x+3)$ is a factor of $ax^2 + x + 1$ then the value of $a$ is",
+    "prashna": "यदि $(x+3), ax^2 + x + 1$ का एक गुणनखंड हो तो $a$ का मान होगा",
+    "options": {
+      "A": "3",
+      "B": "9/2",
+      "C": "2/9",
+      "D": "9"
+    },
+    "vikalpa": {
+      "A": "3",
+      "B": "9/2",
+      "C": "2/9",
+      "D": "9"
+    }
+  },
+  {
+    "id": "obj_35",
+    "type": "objective",
+    "question": "For what value of $p$, roots of the quadratic equation $px^2 - 2x + 3 = 0$ are real and equal ?",
+    "prashna": "$p$ के किस मान के लिए द्विघात समीकरण $px^2 - 2x + 3 = 0$ के मूल वास्तविक एवं समान होंगे ?",
+    "options": {
+      "A": "1",
+      "B": "1/3",
+      "C": "3",
+      "D": "1/2"
+    },
+    "vikalpa": {
+      "A": "1",
+      "B": "1/3",
+      "C": "3",
+      "D": "1/2"
+    }
+  },
+  {
+    "id": "obj_36",
+    "type": "objective",
+    "question": "What is the nature of roots of the quadratic equation $6x^2 - 3x + 5 = 0$ ?",
+    "prashna": "द्विघात समीकरण $6x^2 - 3x + 5 = 0$ के मूलों की प्रकृति क्या होगी ?",
+    "options": {
+      "A": "Real and unequal",
+      "B": "Real and equal",
+      "C": "Not real",
+      "D": "None of these"
+    },
+    "vikalpa": {
+      "A": "वास्तविक एवं असमान",
+      "B": "वास्तविक एवं समान",
+      "C": "वास्तविक नहीं",
+      "D": "इनमें से कोई नहीं"
+    }
+  },
+  {
+    "id": "obj_37",
+    "type": "objective",
+    "question": "If one root of the quadratic equation $x^2 + x - 20 = 0$ is 4 then its other root is",
+    "prashna": "यदि द्विघात समीकरण $x^2 + x - 20 = 0$ का एक मूल 4 हो तो इसका दूसरा मूल होगा",
+    "options": {
+      "A": "5",
+      "B": "-4",
+      "C": "-5",
+      "D": "3"
+    },
+    "vikalpa": {
+      "A": "5",
+      "B": "-4",
+      "C": "-5",
+      "D": "3"
+    }
+  },
+  {
+    "id": "obj_38",
+    "type": "objective",
+    "question": "If $\\alpha$ and $\\beta$ are the roots of the quadratic equation $x^2 + 6x + 5 = 0$ then the value of $\\alpha^2 + \\beta^2$ is",
+    "prashna": "यदि द्विघात समीकरण $x^2 + 6x + 5 = 0$ के मूल $\\alpha$ एवं $\\beta$ हों तो $\\alpha^2 + \\beta^2$ का मान होगा",
+    "options": {
+      "A": "30",
+      "B": "16",
+      "C": "26",
+      "D": "20"
+    },
+    "vikalpa": {
+      "A": "30",
+      "B": "16",
+      "C": "26",
+      "D": "20"
+    }
+  },
+  {
+    "id": "obj_39",
+    "type": "objective",
+    "question": "The roots of the quadratic equation $px^2 - qx + r = 0, p \\neq 0$ are",
+    "prashna": "द्विघात समीकरण $px^2 - qx + r = 0, p \\neq 0$ के मूल हैं",
+    "options": {
+      "A": "\\frac{q \\pm \\sqrt{q^2 - 4pr}}{2p}",
+      "B": "\\frac{q \\pm \\sqrt{q^2 + 4pr}}{2p}",
+      "C": "\\frac{-q \\pm \\sqrt{q^2 - 4pr}}{2p}",
+      "D": "\\frac{-q \\pm \\sqrt{q^2 + 4pr}}{2p}"
+    },
+    "vikalpa": {
+      "A": "\\frac{q \\pm \\sqrt{q^2 - 4pr}}{2p}",
+      "B": "\\frac{q \\pm \\sqrt{q^2 + 4pr}}{2p}",
+      "C": "\\frac{-q \\pm \\sqrt{q^2 - 4pr}}{2p}",
+      "D": "\\frac{-q \\pm \\sqrt{q^2 + 4pr}}{2p}"
+    }
+  },
+  {
+    "id": "obj_40",
+    "type": "objective",
+    "question": "If $x = -1$ is a common root of both the equations $2x^2 + 3x + p = 0$ and $qx^2 - qx + 4 = 0$ then the value of $p + q$ is",
+    "prashna": "यदि $x = -1$ दोनों समीकरणों $2x^2 + 3x + p = 0$ और $qx^2 - qx + 4 = 0$ का एक उभयनिष्ठ मूल हो तो $p + q$ का मान होगा",
+    "options": {
+      "A": "1",
+      "B": "-1",
+      "C": "2",
+      "D": "-2"
+    },
+    "vikalpa": {
+      "A": "1",
+      "B": "-1",
+      "C": "2",
+      "D": "-2"
+    }
+  },
+  {
+    "id": "short_1",
+    "type": "short_answer",
+    "question": "Find the area of the triangle, whose vertices are $(0, 4), (3, 6)$ and $(-8, -2)$ respectively.",
+    "prashna": "एक त्रिभुज का क्षेत्रफल ज्ञात करें जिसके शीर्ष बिन्दु क्रमशः $(0, 4), (3, 6)$ एवं $(-8, -2)$ हैं।"
+  },
+  {
+    "id": "short_2",
+    "type": "short_answer",
+    "question": "Evaluate : $\\text{cosec } 39° \\cos 51° + \\tan 21° \\cot 69° - \\sec^2 21°$.",
+    "prashna": "मान निकालें : $\\text{cosec } 39° \\cos 51° + \\tan 21° \\cot 69° - \\sec^2 21°$।"
+  },
+  {
+    "id": "short_3",
+    "type": "short_answer",
+    "question": "Prove that $\\sec^4 \\theta - \\tan^4 \\theta = 1 + 2 \\tan^2 \\theta$.",
+    "prashna": "सिद्ध करें कि $\\sec^4 \\theta - \\tan^4 \\theta = 1 + 2 \\tan^2 \\theta$।"
+  },
+  {
+    "id": "short_4",
+    "type": "short_answer",
+    "question": "Prove that $(\\sqrt{2} + 2)^2$ is an irrational number.",
+    "prashna": "सिद्ध करें कि $(\\sqrt{2} + 2)^2$ एक अपरिमेय संख्या है।"
+  },
+  {
+    "id": "short_5",
+    "type": "short_answer",
+    "question": "Find the zeroes of the quadratic polynomial $x^2 - 3$ and verify the relationship between the zeroes and the co-efficients.",
+    "prashna": "द्विघात बहुपद $x^2 - 3$ के शून्यक ज्ञात करें और शून्यकों तथा गुणांकों के बीच के संबंध की सत्यता की जाँच करें।"
+  },
+  {
+    "id": "short_8",
+    "type": "short_answer",
+    "question": "Find the mean of the following data :\nVariable: 4, 6, 8, 10, 12\nFrequency: 4, 8, 14, 11, 3",
+    "prashna": "निम्नलिखित आँकड़ों का माध्य ज्ञात करें :\nचर: 4, 6, 8, 10, 12\nबारंबारता: 4, 8, 14, 11, 3"
+  },
+  {
+    "id": "long_1",
+    "type": "long_answer",
+    "question": "Draw the graph of the pair of linear equations $3x - 5y + 1 = 0$ and $2x - y + 3 = 0$ and solve them.",
+    "prashna": "रैखिक समीकरण युग्म $3x - 5y + 1 = 0$ तथा $2x - y + 3 = 0$ का आलेख खींचें और हल करें।"
+  },
+  {
+    "id": "long_2",
+    "type": "long_answer",
+    "question": "The area of a rectangular field is 260 square metre. If its length becomes 5 metre less and breadth 2 metre more, it becomes a square field. Find the length and breadth of the rectangular field.",
+    "prashna": "एक आयताकार मैदान का क्षेत्रफल 260 वर्ग मीटर है। उसकी लंबाई 5 मीटर कम और चौड़ाई 2 मीटर अधिक होने पर वह वर्गाकार हो जाता है। आयताकार मैदान की लंबाई और चौड़ाई निकालें।"
+  },
+  {
+    "id": "long_3",
+    "type": "long_answer",
+    "question": "Prove that the ratio of the areas of two similar triangles is equal to the ratio of the squares of their corresponding sides.",
+    "prashna": "सिद्ध करें कि दो समरूप त्रिभुजों के क्षेत्रफलों का अनुपात उनकी संगत भुजाओं के वर्गों के अनुपात के बराबर होता है।"
+  },
+  {
+    "id": "long_4",
+    "type": "long_answer",
+    "question": "Prove that $\\frac{\\sec^3 \\theta}{\\sec^2 \\theta - 1} + \\frac{\\text{cosec}^3 \\theta}{\\text{cosec}^2 \\theta - 1} = \\sec \\theta \\text{cosec } \\theta (\\sec \\theta + \\text{cosec } \\theta)$.",
+    "prashna": "सिद्ध करें कि $\\frac{\\sec^3 \\theta}{\\sec^2 \\theta - 1} + \\frac{\\text{cosec}^3 \\theta}{\\text{cosec}^2 \\theta - 1} = \\sec \\theta \\text{cosec } \\theta (\\sec \\theta + \\text{cosec } \\theta)$।"
+  },
+  {
+    "id": "long_8",
+    "type": "long_answer",
+    "question": "Find the mode of the following distribution :\nClass-interval: 80-85, 85-90, 90-95, 95-100, 100-105, 105-110, 110-115\nFrequency: 33, 27, 85, 155, 110, 45, 15",
+    "prashna": "निम्नलिखित बंटन का बहुलक ज्ञात करें :\nवर्ग-अंतराल: 80-85, 85-90, 90-95, 95-100, 100-105, 105-110, 110-115\nबारंबारता: 33, 27, 85, 155, 110, 45, 15"
+  }
+]
+```

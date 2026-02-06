@@ -1,0 +1,430 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "The sum of roots of the quadratic equation $x^2 + 2x - 3 = 0$ will be-",
+        "prashna": "द्विघात समीकरण $x^2 + 2x - 3 = 0$ के मूलों के योग का मान होगा-",
+        "options": {
+            "A": "-2",
+            "B": "2",
+            "C": "1/2",
+            "D": "-1/2"
+        },
+        "vikalpa": {
+            "A": "-2",
+            "B": "2",
+            "C": "1/2",
+            "D": "-1/2"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "If $\\alpha, \\beta$ are the zeros of the quadratic polynomial $p(x) = x^2 + 7x + 10$, then the value of $\\alpha \\cdot \\beta$ will be-",
+        "prashna": "यदि बहुपद $p(x) = x^2 + 7x + 10$ के शून्यक $\\alpha, \\beta$ हों तो $\\alpha \\cdot \\beta$ का मान होगा-",
+        "options": {
+            "A": "10",
+            "B": "-10",
+            "C": "1/10",
+            "D": "7/10"
+        },
+        "vikalpa": {
+            "A": "10",
+            "B": "-10",
+            "C": "1/10",
+            "D": "7/10"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "Putting the value of variables in ascending or descending order, the value of middle variable will be called-",
+        "prashna": "चरों को आरोही या अवरोही क्रम में रखने पर बीच वाले चर का मान कहलायेगा-",
+        "options": {
+            "A": "Mean",
+            "B": "Median",
+            "C": "Mode",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "माध्य",
+            "B": "माध्यिका",
+            "C": "बहुलक",
+            "D": "कुछ नहीं"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "$\\sqrt{5}$ is a number-",
+        "prashna": "$\\sqrt{5}$ एक संख्या है-",
+        "options": {
+            "A": "Rational number",
+            "B": "Irrational number",
+            "C": "Integer",
+            "D": "Natural number"
+        },
+        "vikalpa": {
+            "A": "परिमेय",
+            "B": "अपरिमेय",
+            "C": "पूर्णांक",
+            "D": "प्राकृत"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "Distance from the origin of the point $(4, -5)$ will be-",
+        "prashna": "बिन्दु $(4, -5)$ की दूरी मूल बिन्दु से होगी-",
+        "options": {
+            "A": "$\\sqrt{41}$",
+            "B": "3",
+            "C": "-3",
+            "D": "$-\\sqrt{41}$"
+        },
+        "vikalpa": {
+            "A": "$\\sqrt{41}$",
+            "B": "3",
+            "C": "-3",
+            "D": "$-\\sqrt{41}$"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "The length of Tangents on a circle from any external point will be-",
+        "prashna": "बाह्य बिन्दु से वृत्त पर खींची गई स्पर्श रेखाओं की लम्बाई होगी-",
+        "options": {
+            "A": "Unequal",
+            "B": "Equal",
+            "C": "Double",
+            "D": "Half"
+        },
+        "vikalpa": {
+            "A": "असमान",
+            "B": "समान",
+            "C": "दुगुनी",
+            "D": "आधा"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "The height of cone is $24$ cm, radius of base is $6$ cm. Then volume of cone will be-",
+        "prashna": "एक शंकु की ऊँचाई $24$ cm, आधार की त्रिज्या $6$ cm है। शंकु का आयतन होगा-",
+        "options": {
+            "A": "$288\\pi$",
+            "B": "$188\\pi$",
+            "C": "$100\\pi$",
+            "D": "$90\\pi$"
+        },
+        "vikalpa": {
+            "A": "$288\\pi$",
+            "B": "$188\\pi$",
+            "C": "$100\\pi$",
+            "D": "$90\\pi$"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "The probability of certain event will be-",
+        "prashna": "निश्चित घटना की प्रायिकता होगी-",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "0",
+            "D": "1/2"
+        },
+        "vikalpa": {
+            "A": "1",
+            "B": "2",
+            "C": "0",
+            "D": "1/2"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "The value of $1 + \\cot^2 \\theta$ will be-",
+        "prashna": "$1 + \\cot^2 \\theta$ का मान होगा-",
+        "options": {
+            "A": "$\\sec^2 \\theta$",
+            "B": "$\\csc^2 \\theta$",
+            "C": "$\\tan^2 \\theta$",
+            "D": "$\\cot^2 \\theta$"
+        },
+        "vikalpa": {
+            "A": "$\\sec^2 \\theta$",
+            "B": "$\\csc^2 \\theta$",
+            "C": "$\\tan^2 \\theta$",
+            "D": "$\\cot^2 \\theta$"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "The value of $\\cos \\frac{\\pi}{3}$ will be-",
+        "prashna": "$\\cos \\frac{\\pi}{3}$ का मान होगा-",
+        "options": {
+            "A": "1/2",
+            "B": "$1/\\sqrt{3}$",
+            "C": "$\\sqrt{3}/2$",
+            "D": "$\\sqrt{3}$"
+        },
+        "vikalpa": {
+            "A": "1/2",
+            "B": "$1/\\sqrt{3}$",
+            "C": "$\\sqrt{3}/2$",
+            "D": "$\\sqrt{3}$"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "$\\pi$ is a ................ Number.",
+        "prashna": "$\\pi$ एक ................ संख्या है ।"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "$4x^2 + \\frac{1}{7}$ is ................ polynomial.",
+        "prashna": "$4x^2 + \\frac{1}{7}$ ................ बहुपद है ।"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "The angle of semi circle is ................",
+        "prashna": "अर्धवृत्त का कोण ................ होता है ।"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "The perpendicular on the chord from the centre of any circle is ................",
+        "prashna": "वृत्त के केन्द्र से जीवा पर डाला गया लम्ब जीवा को ................ करता है ।"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "The co-ordinates of middle point of line joining points $(x_1, y_1)$ and $(x_2, y_2)$ will be ................",
+        "prashna": "बिन्दु $(x_1, y_1)$ और $(x_2, y_2)$ को मिलाने वाली रेखा के मध्य बिन्दु का निर्देशांक होगा ................"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "The distance between $(a, b)$ and $(-a, -b)$ will be ................",
+        "prashna": "बिन्दु $(a, b)$ और $(-a, -b)$ के बीच की दूरी होगी ................"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "If $2 \\sin A = \\sqrt{3}$ then the value of $A$ will be ................",
+        "prashna": "यदि $2 \\sin A = \\sqrt{3}$ तो $A$ का मान होगा ................"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "If $\\cos A = \\frac{4}{5}$ then the value of $\\tan A$ will be ................",
+        "prashna": "यदि $\\cos A = \\frac{4}{5}$ तो $\\tan A$ का मान ................ होगा ।"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "True or False - The product of two numbers is equal to $H.C.F. \\times L.C.M.$",
+        "prashna": "सही या गलत - दो संख्याओं का गुणनफल $= H.C.F. \\times L.C.M.$"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "The class which has maximum frequencies is called ................",
+        "prashna": "अधिकतम बारम्बारता वाले वर्ग को ................ कहते हैं ।"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "Find the sum and product of zeroes of quadratic polynomial $2x^2 - 8x + 6$",
+        "prashna": "द्विघात बहुपद $2x^2 - 8x + 6$ के शून्यकों का योग एवं गुणनफल ज्ञात करें ।"
+    },
+    {
+        "id": "short_12",
+        "type": "short_answer",
+        "question": "Find the conditions of roots of quadratic equation to be real and equal.",
+        "prashna": "द्विघात समीकरण के मूलों के वास्तविक एवं समान होने के लिए शर्तों को लिखें ।"
+    },
+    {
+        "id": "short_13",
+        "type": "short_answer",
+        "question": "The parameter of an equilateral triangle is $30$ cm. Find its area.",
+        "prashna": "एक समबाहु त्रिभुज की परिमिति $30$ सेमी. है इसका क्षेत्रफल ज्ञात कीजिए ।"
+    },
+    {
+        "id": "short_14",
+        "type": "short_answer",
+        "question": "In figure, find the value of $OP$, if Tangent $PA = 12$ cm and $OA = 5$ cm.",
+        "prashna": "चित्र में $OP$ का मान ज्ञात करें यदि स्पर्श रेखा $PA = 12$ cm और $OA = 5$ cm है ।"
+    },
+    {
+        "id": "short_15",
+        "type": "short_answer",
+        "question": "Find the area of $\\Delta ABC$ whose vertices are $A(5, 2), B(4, 7)$ and $(-7, -4)$",
+        "prashna": "बिन्दुओं $A(5, 2), B(4, 7)$ और $(-7, -4)$ से बनने वाले $\\Delta ABC$ का क्षेत्रफल ज्ञात करें ।"
+    },
+    {
+        "id": "short_16",
+        "type": "short_answer",
+        "question": "Find the area of circle whose circumference is $88$ cm.",
+        "prashna": "एक वृत्त की परिधि $88$ सेमी. है । वृत्त का क्षेत्रफल ज्ञात करें ।"
+    },
+    {
+        "id": "short_17",
+        "type": "short_answer",
+        "question": "Two cubes each of volume $64\\text{ cm}^3$ are joint end to end. Find the surface area of the resulting cuboid.",
+        "prashna": "दो घनों जिनमें से प्रत्येक का आयतन $64\\text{ cm}^3$ है के संलग्न फलकों को जोड़कर एक घनाभ बनाया जाता है । घनाभ का पृष्ठीय क्षेत्रफल ज्ञात करें ।"
+    },
+    {
+        "id": "short_18",
+        "type": "short_answer",
+        "question": "Find the centroid of a triangle whose vertices are $(3, -5), (-7, 4)$ and $(10, -2)$.",
+        "prashna": "उस त्रिभुज का केन्द्रक ज्ञात करें जिनके शीर्ष $(3, -5), (-7, 4)$ तथा $(10, -2)$ हैं ।"
+    },
+    {
+        "id": "short_19",
+        "type": "short_answer",
+        "question": "If $\\tan A = \\cot A$ then prove that - $A + B = 90^\\circ$",
+        "prashna": "यदि $\\tan A = \\cot A$ तो सिद्ध करें - $A + B = 90^\\circ$"
+    },
+    {
+        "id": "short_20",
+        "type": "short_answer",
+        "question": "Find the trigonometric ratios of $60^\\circ$",
+        "prashna": "$60^\\circ$ का त्रिकोणमितीय अनुपात ज्ञात करें ।"
+    },
+    {
+        "id": "short_21",
+        "type": "short_answer",
+        "question": "Which term of an A.P. $3, 8, 13, 18$ is $78$?",
+        "prashna": "A.P. $3, 8, 13, 18$ ................ का कौन सा पद $78$ है?"
+    },
+    {
+        "id": "short_22",
+        "type": "short_answer",
+        "question": "Prove that $\\sqrt{3}$ is an irrational number.",
+        "prashna": "सिद्ध करें कि $\\sqrt{3}$ अपरिमेय संख्या है ।"
+    },
+    {
+        "id": "short_23",
+        "type": "short_answer",
+        "question": "Find the H.C.F. and L.C.M. of $96$ and $404$ by the prime factorisation method.",
+        "prashna": "अभाज्य गुणन खंड विधि से $96$ और $404$ का H.C.F. और L.C.M. ज्ञात करें ।"
+    },
+    {
+        "id": "short_24",
+        "type": "short_answer",
+        "question": "Solve: $13 - x^2 = (x + 5)^2$",
+        "prashna": "$13 - x^2 = (x + 5)^2$ को हल करें ।"
+    },
+    {
+        "id": "short_25",
+        "type": "short_answer",
+        "question": "The height of a right angle triangle is $7$ cm less than its base. If hypotenuse is $13$ cm then find the value of remaining two sides.",
+        "prashna": "एक समकोण त्रिभुज की ऊँचाई आधार से $7$ सेमी. कम है । यदि कर्ण $13$ सेमी. का हो तो अन्य दो भुजाओं का मान ज्ञात करें ।"
+    },
+    {
+        "id": "short_26",
+        "type": "short_answer",
+        "question": "Each side of an equilateral triangle ABC is $a$ units. Prove that the altitude of the triangle will be $\\frac{\\sqrt{3}}{2}a$.",
+        "prashna": "समबाहु $\\Delta ABC$ की प्रत्येक भुजा $a$ इकाई है तो सिद्ध करें कि त्रिभुज का शीर्ष लम्ब $\\frac{\\sqrt{3}}{2}a$ होगा ।"
+    },
+    {
+        "id": "short_27",
+        "type": "short_answer",
+        "question": "If points $A(2, 3), B(4, K)$ and $C(6, -3)$ are collinear, then find the value of $K$.",
+        "prashna": "$K$ का मान ज्ञात कीजिए यदि बिन्दु $A(2, 3), B(4, K)$ और $C(6, -3)$ संरेख हैं ।"
+    },
+    {
+        "id": "short_28",
+        "type": "short_answer",
+        "question": "A bag contains $3$ red balls and $5$ black balls. One ball is drawn at random. Find the probability (i) ball is red (ii) ball is not red.",
+        "prashna": "एक थैले में $3$ लाल और $5$ काली गेंदे हैं । उस थैले में से एक गेंद यादृच्छया निकाली जाती है । उसकी प्रायिकता क्या है कि गेंद (i) लाल हो (ii) लाल नहीं हो",
+        "sub_questions": {
+            "i": "ball is red",
+            "ii": "ball is not red"
+        },
+        "anuprashna": {
+            "i": "लाल हो",
+            "ii": "लाल नहीं हो"
+        }
+    },
+    {
+        "id": "short_29",
+        "type": "short_answer",
+        "question": "If $\\tan(A + B) = \\sqrt{3}$ and $\\tan(A - B) = \\frac{1}{\\sqrt{3}}$, $0 < A + B < 90^\\circ$, $A > B$, then find the value of $A$ and $B$.",
+        "prashna": "यदि $\\tan(A + B) = \\sqrt{3}$ और $\\tan(A - B) = \\frac{1}{\\sqrt{3}}$, $0 < A + B < 90^\\circ$, $A > B$, तो $A$ और $B$ का मान ज्ञात करें ।"
+    },
+    {
+        "id": "short_30",
+        "type": "short_answer",
+        "question": "Prove that $\\sqrt{\\frac{1 + \\sin A}{1 - \\sin A}} = \\sec A + \\tan A$",
+        "prashna": "सिद्ध करें $\\sqrt{\\frac{1 + \\sin A}{1 - \\sin A}} = \\sec A + \\tan A$"
+    },
+    {
+        "id": "short_31",
+        "type": "short_answer",
+        "question": "Find the mean of following frequency distribution: C.I (10-25, 25-40, 40-55, 55-70, 70-85, 85-100), frequency (2, 3, 7, 6, 6, 6)",
+        "prashna": "निम्नलिखित बारम्बारता बंटन सारणी से माध्य ज्ञात करें । वर्ग अन्तराल (10-25, 25-40, 40-55, 55-70, 70-85, 85-100), बारम्बारता (2, 3, 7, 6, 6, 6)"
+    },
+    {
+        "id": "short_32",
+        "type": "short_answer",
+        "question": "Calculate the mode for following frequency distribution: C.I (25-30, 30-35, 35-40, 40-45, 45-50, 50-55), frequency (25, 34, 50, 42, 38, 14)",
+        "prashna": "निम्नलिखित बारम्बारता बंटन से बहुलक ज्ञात करें । वर्ग अन्तराल (25-30, 30-35, 35-40, 40-45, 45-50, 50-55), बारम्बारता (25, 34, 50, 42, 38, 14)"
+    },
+    {
+        "id": "long_1",
+        "type": "long_answer",
+        "question": "A toy is in the form of a cone mounted on a hemisphere of radius $3.5$ cm. The total height of the toy is $15.5$ cm. Find the total surface area and volume of the toy. $\\pi = \\frac{22}{7}$",
+        "prashna": "एक खिलौना $3.5$ सेमी. त्रिज्या वाले शंकु के आकार का है जो उसी त्रिज्या वाले एक अर्धगोले पर अध्यारोपित है । इस खिलौने की सम्पूर्ण ऊँचाई $15.5$ सेमी. है । इस खिलौने का सम्पूर्ण पृष्ठीय क्षेत्रफल व आयतन ज्ञात कीजिए । $\\pi = \\frac{22}{7}$"
+    },
+    {
+        "id": "long_2",
+        "type": "long_answer",
+        "question": "Solve by graphical method: $2x + y = 6$ and $4x - 2y = 4$",
+        "prashna": "ग्राफिय विधि से हल करें - $2x + y = 6$ तथा $4x - 2y = 4$"
+    },
+    {
+        "id": "long_3_1",
+        "type": "long_answer",
+        "question": "The angle of elevation of the top of building from the foot of a tower is $30^\\circ$ and the angle of elevation of the top of the tower from the foot of the building is $60^\\circ$. If the tower is $50$ metre high, find the height of the building.",
+        "prashna": "एक मीनार के पाद से एक भवन के शिखर का उन्नयन कोण $30^\\circ$ है और भवन के पाद से मीनार के शिखर का उन्नयन कोण $60^\\circ$ है । यदि मीनार की ऊँचाई $50$ मी. है तो भवन की ऊँचाई निकालें ।"
+    },
+    {
+        "id": "long_3_2",
+        "type": "long_answer",
+        "question": "The shadow of a tower standing on a level ground is found to be $40$m. longer when the sun's altitude is $30^\\circ$ than when it is $60^\\circ$. Find the height of the tower.",
+        "prashna": "अथवा: एक समतल जमीन पर खड़ी मीनार की छाया उस स्थिति में $40$ मी. अधिक लम्बी हो जाती है जबकि सूर्य का उन्नयन कोण $60^\\circ$ से घटकर $30^\\circ$ हो जाता है । मीनार की ऊँचाई ज्ञात कीजिए ।"
+    },
+    {
+        "id": "long_4_1",
+        "type": "long_answer",
+        "question": "Prove that the ratio of the areas of two similar triangular is equal to square of the ratio of their corresponding sides.",
+        "prashna": "सिद्ध करें कि दो समरूप त्रिभुजों के क्षेत्रफलों का अनुपात उनके संगत भुजाओं के वर्गों के अनुपात में होता है ।"
+    },
+    {
+        "id": "long_4_2",
+        "type": "long_answer",
+        "question": "In a triangle, if square of one side is equal to the sum of the square of the other two sides, than the angle opposite the first side is right angle.",
+        "prashna": "अथवा: यदि किसी त्रिभुज की एक भुजा का वर्ग अन्य दो भुजाओं के योग के बराबर हो तो पहली भुजा के सम्मुख कोण समकोण होता है ।"
+    },
+    {
+        "id": "long_5_1",
+        "type": "long_answer",
+        "question": "Draw a circle of radius $3$ cm. Draw a pair of tangents to the circle, which are inclined to each other at an angle of $60^\\circ$",
+        "prashna": "$3$ सेमी. त्रिज्या का एक वृत्त खींचे । उस वृत्त पर युग्म स्पर्श रेखा खींचे जो एक दूसरे के साथ $60^\\circ$ कोण बनाती हैं ।"
+    },
+    {
+        "id": "long_5_2",
+        "type": "long_answer",
+        "question": "Construct a triangle whose sides are $5$ cm., $6$ cm and $7$ cm. construct a similar triangle such that each of its side is $5/7$ of the corresponding sides of the triangle.",
+        "prashna": "अथवा: $5$ सेमी., $6$ सेमी. और $7$ सेमी. भुजाओं वाले एक त्रिभुज की रचना कीजिए और एक अन्य समरूप त्रिभुज की रचना कीजिए जिसकी भुजाएं दिए हुए त्रिभुज की संगत भुजाओं की $5/7$ गुनी हो ।"
+    }
+]

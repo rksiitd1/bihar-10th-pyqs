@@ -1,0 +1,304 @@
+```json
+[
+  {
+    "id": "obj_1",
+    "type": "objective",
+    "question": "The exponent of 2 in the prime factorisation of 64 is",
+    "prashna": "64 के अभाज्य गुणनखंड में 2 का घातांक है",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "8"
+    },
+    "vikalpa": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "8"
+    }
+  },
+  {
+    "id": "obj_2",
+    "type": "objective",
+    "question": "H.C.F. $(p, q) \times$ L.C.M. $(p, q)$ is equal to",
+    "prashna": "महत्तम समापवर्त्तक $(p, q) \times$ लघुत्तम समापवर्त्य $(p, q)$ बराबर है",
+    "options": {
+      "A": "$(p \times q)$",
+      "B": "$\\frac{p}{q}$",
+      "C": "$p^2 q^2$",
+      "D": "$\\frac{q}{p}$"
+    },
+    "vikalpa": {
+      "A": "$(p \times q)$",
+      "B": "$\\frac{p}{q}$",
+      "C": "$p^2 q^2$",
+      "D": "$\\frac{q}{p}$"
+    }
+  },
+  {
+    "id": "obj_3",
+    "type": "objective",
+    "question": "The degree of any polynomial is",
+    "prashna": "किसी बहुपद की घात होती है",
+    "options": {
+      "A": "fraction number",
+      "B": "negative integer",
+      "C": "whole number",
+      "D": "none of these"
+    },
+    "vikalpa": {
+      "A": "भिन्न संख्या",
+      "B": "ऋण पूर्णांक",
+      "C": "पूर्ण संख्या",
+      "D": "इनमें से कोई नहीं"
+    }
+  },
+  {
+    "id": "obj_4",
+    "type": "objective",
+    "question": "The graph of polynomial $ax^2 + bx + c, a \neq 0$ is",
+    "prashna": "बहुपद $ax^2 + bx + c, a \neq 0$ का आलेख होता है",
+    "options": {
+      "A": "circle",
+      "B": "parabola",
+      "C": "straight line",
+      "D": "hyperbola"
+    },
+    "vikalpa": {
+      "A": "वृत्त",
+      "B": "परवलय",
+      "C": "सरल रेखा",
+      "D": "अतिपरवलय"
+    }
+  },
+  {
+    "id": "obj_5",
+    "type": "objective",
+    "question": "The number of polynomials whose zeroes are 2, 8 is",
+    "prashna": "शून्यक 2, 8 वाले बहुपदों की संख्या होगी",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "4",
+      "D": "infinitely many"
+    },
+    "vikalpa": {
+      "A": "1",
+      "B": "2",
+      "C": "4",
+      "D": "अनगिनत"
+    }
+  },
+  {
+    "id": "obj_6",
+    "type": "objective",
+    "question": "If zeroes of a quadratic polynomial are 2 and 6 then the quadratic polynomial is",
+    "prashna": "किसी द्विघात बहुपद के शून्यक यदि 2 एवं 6 हैं, तो द्विघात बहुपद होगा",
+    "options": {
+      "A": "$x^2 + 12x + 8$",
+      "B": "$x^2 - 12x + 8$",
+      "C": "$x^2 + 4x + 12$",
+      "D": "$x^2 - 8x + 12$"
+    },
+    "vikalpa": {
+      "A": "$x^2 + 12x + 8$",
+      "B": "$x^2 - 12x + 8$",
+      "C": "$x^2 + 4x + 12$",
+      "D": "$x^2 - 8x + 12$"
+    }
+  },
+  {
+    "id": "obj_7",
+    "type": "objective",
+    "question": "The zeroes of the quadratic polynomial $y^2 + 16y + 55$ are",
+    "prashna": "द्विघात बहुपद $y^2 + 16y + 55$ के शून्यक हैं",
+    "options": {
+      "A": "both negative",
+      "B": "both positive",
+      "C": "one positive and other negative",
+      "D": "equal"
+    },
+    "vikalpa": {
+      "A": "दोनों ऋणात्मक",
+      "B": "दोनों धनात्मक",
+      "C": "एक धनात्मक तथा दूसरा ऋणात्मक",
+      "D": "समान"
+    }
+  },
+  {
+    "id": "obj_8",
+    "type": "objective",
+    "question": "If zeroes of the polynomial $2x^2 + 5x - k$ are reciprocal to each other, then the value of $k$ will be",
+    "prashna": "यदि बहुपद $2x^2 + 5x - k$ के शून्यक एक दूसरे के व्युत्क्रम हों, तो $k$ का मान होगा",
+    "options": {
+      "A": "2",
+      "B": "-2",
+      "C": "$\\frac{1}{2}$",
+      "D": "$-\\frac{1}{2}$"
+    },
+    "vikalpa": {
+      "A": "2",
+      "B": "-2",
+      "C": "$\\frac{1}{2}$",
+      "D": "$-\\frac{1}{2}$"
+    }
+  },
+  {
+    "id": "obj_9",
+    "type": "objective",
+    "question": "If $p(x) = x^2 + 5x - 12$ then the value of $p(1)$ is",
+    "prashna": "यदि $p(x) = x^2 + 5x - 12$ तो $p(1)$ का मान है",
+    "options": {
+      "A": "-12",
+      "B": "6",
+      "C": "-6",
+      "D": "12"
+    },
+    "vikalpa": {
+      "A": "-12",
+      "B": "6",
+      "C": "-6",
+      "D": "12"
+    }
+  },
+  {
+    "id": "obj_10",
+    "type": "objective",
+    "question": "The solution of the pair of the equations $2x + 4y = 3$ and $12y + 6x = 6$ is",
+    "prashna": "युग्म समीकरण $2x + 4y = 3$ तथा $12y + 6x = 6$ का हल है",
+    "options": {
+      "A": "no solution",
+      "B": "one solution",
+      "C": "two solutions",
+      "D": "infinitely many solutions"
+    },
+    "vikalpa": {
+      "A": "कोई हल नहीं",
+      "B": "एक हल",
+      "C": "दो हल",
+      "D": "अनगिनत हल"
+    }
+  },
+  {
+    "id": "short_1",
+    "type": "short_answer",
+    "question": "Find the area of the triangle whose vertices are $(1, 1), (4, 6)$ and $(-3, -5)$. ",
+    "prashna": "उस त्रिभुज का क्षेत्रफल ज्ञात करें जिसके शीर्ष $(1, 1), (4, 6)$ और $(-3, -5)$ हैं।"
+  },
+  {
+    "id": "short_2",
+    "type": "short_answer",
+    "question": "If points $A(2, 3), B(4, k)$ and $C(6, -3)$ are collinear then find the value of $k$.",
+    "prashna": "यदि बिन्दु $A(2, 3), B(4, k)$ एवं $C(6, -3)$ संरेखी हैं, तो $k$ का मान ज्ञात करें।"
+  },
+  {
+    "id": "short_3",
+    "type": "short_answer",
+    "question": "Prove that $(\\frac{1 + \\tan A}{1 + \\cot A})^2 = \\tan^2 A$.",
+    "prashna": "सिद्ध करें कि $(\\frac{1 + \\tan A}{1 + \\cot A})^2 = \\tan^2 A$।"
+  },
+  {
+    "id": "short_4",
+    "type": "short_answer",
+    "question": "Find the roots of the quadratic equation $x^2 - 2\\sqrt{2}x + 1 = 0$.",
+    "prashna": "द्विघात समीकरण $x^2 - 2\\sqrt{2}x + 1 = 0$ के मूल ज्ञात करें।"
+  },
+  {
+    "id": "short_5",
+    "type": "short_answer",
+    "question": "If the sum of a number and its reciprocal is $\\frac{10}{3}$, then find the number.",
+    "prashna": "यदि किसी संख्या और उसके व्युत्क्रम का योग $\\frac{10}{3}$ है, तो संख्या ज्ञात करें।"
+  },
+  {
+    "id": "short_6",
+    "type": "short_answer",
+    "question": "Which term of the A.P. $21, 18, 15, \\dots$ is $-81$?",
+    "prashna": "समांतर श्रेणी $21, 18, 15, \\dots$ का कौन-सा पद $-81$ है?"
+  },
+  {
+    "id": "short_7",
+    "type": "short_answer",
+    "question": "Find the height of an equilateral triangle whose side is $2a$.",
+    "prashna": "उस समबाहु त्रिभुज की ऊँचाई ज्ञात करें जिसकी भुजा $2a$ है।"
+  },
+  {
+    "id": "short_8",
+    "type": "short_answer",
+    "question": "The co-ordinates of the mid-point of line segment $AB$ are $(2, 4)$. If the co-ordinates of $A$ are $(5, 7)$ then find the co-ordinates of $B$.",
+    "prashna": "रेखाखण्ड $AB$ के मध्य बिन्दु के निर्देशांक $(2, 4)$ हैं। यदि $A$ के निर्देशांक $(5, 7)$ हैं तो $B$ के निर्देशांक ज्ञात करें।"
+  },
+  {
+    "id": "short_9",
+    "type": "short_answer",
+    "question": "Prove that $\\frac{1 + \\cos \\theta}{\\sin \\theta} + \\frac{\\sin \\theta}{1 + \\cos \\theta} = 2\\text{cosec }\\theta$.",
+    "prashna": "सिद्ध करें कि $\\frac{1 + \\cos \\theta}{\\sin \\theta} + \\frac{\\sin \\theta}{1 + \\cos \\theta} = 2\\text{cosec }\\theta$।"
+  },
+  {
+    "id": "short_10",
+    "type": "short_answer",
+    "question": "The three angles of a triangle are $x, y$ and $40^\\circ$. The difference between two angles $x$ and $y$ is $30^\\circ$. Find $x$ and $y$.",
+    "prashna": "किसी त्रिभुज के तीन कोण $x, y$ तथा $40^\\circ$ हैं। दो कोणों $x$ तथा $y$ के बीच का अंतर $30^\\circ$ है, तो $x$ तथा $y$ ज्ञात करें।"
+  },
+  {
+    "id": "short_11",
+    "type": "short_answer",
+    "question": "Solve $\\sqrt{13 - x^2} = x + 5$.",
+    "prashna": "हल करें $\\sqrt{13 - x^2} = x + 5$।"
+  },
+  {
+    "id": "short_12",
+    "type": "short_answer",
+    "question": "Find the curved surface area of a hemisphere of radius $3.5$ cm.",
+    "prashna": "3.5 सेमी त्रिज्या वाले अर्द्धगोले का वक्रपृष्ठ का क्षेत्रफल ज्ञात करें।"
+  },
+  {
+    "id": "long_1",
+    "type": "long_answer",
+    "question": "The difference of squares of two numbers is 180. If the square of smaller number is 8 times of bigger number, find both the numbers.",
+    "prashna": "दो संख्याओं के वर्गों का अंतर 180 है। यदि छोटी संख्या का वर्ग बड़ी संख्या का आठ गुना है, तो दोनों संख्याएँ ज्ञात करें।"
+  },
+  {
+    "id": "long_2",
+    "type": "long_answer",
+    "question": "Using graphical method, solve the pair of equations $4x - 5y = 20$ and $3x + 5y = 15$.",
+    "prashna": "ग्राफिय विधि से समीकरण युग्म $4x - 5y = 20$ एवं $3x + 5y = 15$ को हल करें।"
+  },
+  {
+    "id": "long_3",
+    "type": "long_answer",
+    "question": "Prove that $\\frac{\\sin \\theta - \\cos \\theta + 1}{\\sin \\theta + \\cos \\theta - 1} = \\frac{1}{\\sec \\theta - \\tan \\theta}$.",
+    "prashna": "सिद्ध करें कि $\\frac{\\sin \\theta - \\cos \\theta + 1}{\\sin \\theta + \\cos \\theta - 1} = \\frac{1}{\\sec \\theta - \\tan \\theta}$।"
+  },
+  {
+    "id": "long_4",
+    "type": "long_answer",
+    "question": "Draw a circle inside an equilateral triangle of side 5 cm which touches the sides of the triangle.",
+    "prashna": "5 सेमी भुजा वाले एक समबाहु त्रिभुज के अंतर्गत एक वृत्त खींचें जो त्रिभुज की भुजाओं को स्पर्श करे।"
+  },
+  {
+    "id": "long_5",
+    "type": "long_answer",
+    "question": "Prove that the line segment joining the points of contact of two parallel tangents to a circle is a diameter of the circle.",
+    "prashna": "सिद्ध करें कि दो समांतर स्पर्श रेखाओं के स्पर्श बिन्दु को जोड़ने वाला रेखाखण्ड वृत्त का व्यास होता है।"
+  },
+  {
+    "id": "long_6",
+    "type": "long_answer",
+    "question": "A vertical flagstaff and a 50 m high tower are situated on the same horizontal base. From the top of the tower, angles of depression of upper and lower ends of flagstaff are $30^\\circ$ and $45^\\circ$ respectively. Find the height of the flagstaff.",
+    "prashna": "एक उर्ध्वाधर झंडा स्तंभ तथा एक 50 मीटर ऊँची मीनार एक ही क्षैतिज तल पर स्थित हैं। मीनार के शीर्ष से स्तंभ के ऊपरी तथा निचले सिरे के अवनमन कोण क्रमशः $30^\\circ$ तथा $45^\\circ$ हैं, तो झंडा स्तंभ की ऊँचाई ज्ञात करें।"
+  },
+  {
+    "id": "long_7",
+    "type": "long_answer",
+    "question": "The mean of the given data is 18. Then find the unknown frequency :\n\n| Class-Interval | 11-13 | 13-15 | 15-17 | 17-19 | 19-21 | 21-23 | 23-25 |\n| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n| No. of children | 7 | 6 | 9 | 13 | f | 5 | 4 |",
+    "prashna": "दिए गए आँकड़ों का माध्य 18 है तो अज्ञात बारंबारता ज्ञात करें :\n\n| वर्ग-अंतराल | 11-13 | 13-15 | 15-17 | 17-19 | 19-21 | 21-23 | 23-25 |\n| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n| बच्चों की संख्या | 7 | 6 | 9 | 13 | f | 5 | 4 |"
+  },
+  {
+    "id": "long_8",
+    "type": "long_answer",
+    "question": "An article is made by scooping out a hemisphere from each end of a solid wooden cylinder. If the height of the cylinder is 10 cm and its base radius is 3.5 cm then find the surface area and volume of the remaining solid.",
+    "prashna": "लकड़ी के एक ठोस बेलन के प्रत्येक सिरे पर एक अर्द्धगोला खोदकर एक वस्तु बनाया जाता है। यदि बेलन की ऊँचाई 10 सेमी और बेलन के आधार की त्रिज्या 3.5 सेमी हो तो बचे हुए ठोस का पृष्ठीय क्षेत्रफल और आयतन ज्ञात करें।"
+  }
+]
+```
