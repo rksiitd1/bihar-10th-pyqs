@@ -140,10 +140,10 @@ def clean_json_response(raw_text: str) -> str:
     # --- Repair Logic ---
     
     # 1. Fix unescaped backslashes (common in LaTeX outputs)
-    # We escape backslashes that are NOT part of a valid JSON escape.
-    # Replace all \ with \\, then restore valid escapes if they were doubled.
-    text = text.replace('\\', '\\\\')
-    text = text.replace('\\\\\\\\', '\\\\') # Restore double backslashes if they were already there
+    # Strategy: First, normalize all double backslashes to single ones to avoid triple-escaping.
+    # Then, escape all backslashes that are NOT part of a valid JSON escape.
+    text = text.replace('\\\\', '\\')
+    text = re.sub(r'\\(?![\\\"/bfnrtu])', r'\\\\', text)
     
     # 2. Fix trailing commas in objects and arrays
     text = re.sub(r',\s*}', '}', text)

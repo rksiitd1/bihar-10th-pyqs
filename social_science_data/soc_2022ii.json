@@ -1,0 +1,1634 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "Where was the invention of printing first made?",
+        "prashna": "मुद्रण कहाँ का आविष्कार कहाँ हुआ था ?",
+        "options": {
+            "A": "Britain",
+            "B": "China",
+            "C": "Greece",
+            "D": "America"
+        },
+        "vikalpa": {
+            "A": "ब्रिटेन",
+            "B": "चीन",
+            "C": "यूनान",
+            "D": "अमेरिका"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "The world's first paper mill was established in",
+        "prashna": "विश्व की प्रथम पेपर मिल की स्थापना हुई थी",
+        "options": {
+            "A": "Germany",
+            "B": "France",
+            "C": "China",
+            "D": "England"
+        },
+        "vikalpa": {
+            "A": "जर्मनी में",
+            "B": "फ्रांस में",
+            "C": "चीन में",
+            "D": "इंग्लैंड में"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "Who wrote '95 Theses'?",
+        "prashna": "'95 थीसिस' किसने लिखी ?",
+        "options": {
+            "A": "Rousseau",
+            "B": "Karl Marx",
+            "C": "Martin Luther",
+            "D": "Gutenberg"
+        },
+        "vikalpa": {
+            "A": "रूसो",
+            "B": "कार्ल मार्क्स",
+            "C": "मार्टिन लूथर",
+            "D": "गुटेनबर्ग"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "Who was the founder of Mirat-ul-Akhbar?",
+        "prashna": "मिरात-उल अखबार के संस्थापक कौन थे ?",
+        "options": {
+            "A": "Raja Rammohan Roy",
+            "B": "Maulana Abul Kalam Azad",
+            "C": "Manmohan Ghosh",
+            "D": "Khan Abdul Ghaffar Khan"
+        },
+        "vikalpa": {
+            "A": "राजा राममोहन राय",
+            "B": "मौलाना अबुल कलाम आजाद",
+            "C": "मनमोहन घोष",
+            "D": "खान अब्दुल गफ्फार खान"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "Which thermal power project is located in Bihar?",
+        "prashna": "कौन तापीय विद्युत परियोजना बिहार में है ?",
+        "options": {
+            "A": "Kanti Thermal Power Project",
+            "B": "Kahalgaon Thermal Power Project",
+            "C": "Nabinagar Thermal Power Project",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "कांटी तापीय विद्युत परियोजना",
+            "B": "कहलगाँव तापीय विद्युत परियोजना",
+            "C": "नबीनगर तापीय विद्युत परियोजना",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "When was 'All India Radio' renamed to 'Akashvani'?",
+        "prashna": "'ऑल इंडिया रेडियो' का नाम बदलकर आकाशवाणी कब किया गया ?",
+        "options": {
+            "A": "1936",
+            "B": "1947",
+            "C": "1957",
+            "D": "1960"
+        },
+        "vikalpa": {
+            "A": "1936",
+            "B": "1947",
+            "C": "1957",
+            "D": "1960"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "Aluminum is associated with which mineral?",
+        "prashna": "एल्यूमीनियम किस खनिज से सम्बन्धित है ?",
+        "options": {
+            "A": "Copper",
+            "B": "Mica",
+            "C": "Iron Ore",
+            "D": "Bauxite"
+        },
+        "vikalpa": {
+            "A": "ताँबा",
+            "B": "अभ्रक",
+            "C": "लौह अयस्क",
+            "D": "बॉक्साइट"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "Where is Nanda Devi National Park located?",
+        "prashna": "नंदादेवी राष्ट्रीय उद्यान कहाँ है?",
+        "options": {
+            "A": "Uttar Pradesh",
+            "B": "Uttarakhand",
+            "C": "Kerala",
+            "D": "Jharkhand"
+        },
+        "vikalpa": {
+            "A": "उत्तर प्रदेश",
+            "B": "उत्तराखण्ड",
+            "C": "केरल",
+            "D": "झारखण्ड"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "MGNREGA was started in",
+        "prashna": "मनरेगा शुरू हुई थी",
+        "options": {
+            "A": "Andhra Pradesh",
+            "B": "Rajasthan",
+            "C": "Gujarat",
+            "D": "Karnataka"
+        },
+        "vikalpa": {
+            "A": "आन्ध्र प्रदेश में",
+            "B": "राजस्थान में",
+            "C": "गुजरात में",
+            "D": "कर्नाटक में"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "Which of the following is a component of non-economic infrastructure?",
+        "prashna": "निम्न में से कौन गैर-आर्थिक आधारभूत संरचना का अंग है ?",
+        "options": {
+            "A": "Energy",
+            "B": "Education",
+            "C": "Transport",
+            "D": "Communication"
+        },
+        "vikalpa": {
+            "A": "ऊर्जा",
+            "B": "शिक्षा",
+            "C": "यातायात",
+            "D": "संचार"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "When was the World Trade Organization (WTO) established?",
+        "prashna": "विश्व व्यापार संगठन (WTO) की स्थापना कब हुई थी ?",
+        "options": {
+            "A": "1945",
+            "B": "1965",
+            "C": "1975",
+            "D": "1995"
+        },
+        "vikalpa": {
+            "A": "1945",
+            "B": "1965",
+            "C": "1975",
+            "D": "1995"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "Brundtland Commission is related to",
+        "prashna": "ब्रंटलैंड आयोग सम्बन्धित है",
+        "options": {
+            "A": "Inclusive development",
+            "B": "Infrastructural development",
+            "C": "Sustainable development",
+            "D": "Economic development"
+        },
+        "vikalpa": {
+            "A": "समावेशी विकास से",
+            "B": "आधारभूत संरचना से",
+            "C": "सतत विकास से",
+            "D": "आर्थिक विकास से"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "Under which Prime Minister's tenure was the first National Human Development Report released?",
+        "prashna": "प्रथम राष्ट्रीय मानव विकास रिपोर्ट किस प्रधानमंत्री के कार्यकाल में जारी हुई?",
+        "options": {
+            "A": "Indira Gandhi",
+            "B": "Rajiv Gandhi",
+            "C": "Atal Bihari Vajpayee",
+            "D": "Manmohan Singh"
+        },
+        "vikalpa": {
+            "A": "इन्दिरा गाँधी",
+            "B": "राजीव गाँधी",
+            "C": "अटल बिहारी वाजपेयी",
+            "D": "मनमोहन सिंह"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "NITI Aayog was formed in",
+        "prashna": "नीति आयोग का गठन हुआ था",
+        "options": {
+            "A": "January 2015",
+            "B": "January 2016",
+            "C": "February 2017",
+            "D": "February 2018"
+        },
+        "vikalpa": {
+            "A": "जनवरी 2015",
+            "B": "जनवरी 2016",
+            "C": "फरवरी 2017",
+            "D": "फरवरी 1018"
+        }
+    },
+    {
+        "id": "obj_15",
+        "type": "objective",
+        "question": "Who first estimated National Income in India?",
+        "prashna": "भारत में सर्वप्रथम राष्ट्रीय आय का अनुमान किसने लगाया था?",
+        "options": {
+            "A": "Dr. V. K. R. V. Rao",
+            "B": "Prof. P. C. Mahalanobis",
+            "C": "Dadabhai Naoroji",
+            "D": "C. Rajagopalachari"
+        },
+        "vikalpa": {
+            "A": "डॉ० वी० के० आर० वी० - राव",
+            "B": "प्रो० पी० सी० महलानोबिस",
+            "C": "दादाभाई नौरजी",
+            "D": "सी. राजगोपालाचारी"
+        }
+    },
+    {
+        "id": "obj_16",
+        "type": "objective",
+        "question": "Who is the founder of Grameen Bank?",
+        "prashna": "ग्रामीण बैंक के संस्थापक कौन हैं?",
+        "options": {
+            "A": "Prof. Md. Yunus",
+            "B": "Amartya Sen",
+            "C": "Bimal Jalan",
+            "D": "C. Rangarajan"
+        },
+        "vikalpa": {
+            "A": "प्रो० मो० युनुस",
+            "B": "अमर्त्य सेन",
+            "C": "बिमल जलान",
+            "D": "सी. रंगराजन"
+        }
+    },
+    {
+        "id": "obj_17",
+        "type": "objective",
+        "question": "The concentration of which element has increased in Bihar due to over-exploitation of groundwater?",
+        "prashna": "बिहार में अति जल दोहन से किस तत्त्व का संकेन्द्रण बढ़ा है?",
+        "options": {
+            "A": "Fluoride",
+            "B": "Chloride",
+            "C": "Arsenic",
+            "D": "Iron"
+        },
+        "vikalpa": {
+            "A": "फ्लोराइड",
+            "B": "क्लोराइड",
+            "C": "आर्सेनिक",
+            "D": "लौह"
+        }
+    },
+    {
+        "id": "obj_18",
+        "type": "objective",
+        "question": "Who was the pioneer of the Chipko Movement?",
+        "prashna": "चिपको आन्दोलन के प्रवर्तक कौन हैं?",
+        "options": {
+            "A": "Medha Patkar",
+            "B": "Sunder Lal Bahuguna",
+            "C": "Vinoba Bhave",
+            "D": "Kailash Satyarthi"
+        },
+        "vikalpa": {
+            "A": "मेधा पाटकर",
+            "B": "सुन्दर लाल बहुगुणा",
+            "C": "विनोबा भावे",
+            "D": "कैलाश सत्यार्थी"
+        }
+    },
+    {
+        "id": "obj_19",
+        "type": "objective",
+        "question": "Which of the following is a non-renewable resource?",
+        "prashna": "निम्न में कौन अनवीकरणीय संसाधन है ?",
+        "options": {
+            "A": "Solar Energy",
+            "B": "Fossil Fuel",
+            "C": "Hydroelectricity",
+            "D": "Wind Energy"
+        },
+        "vikalpa": {
+            "A": "सौर ऊर्जा",
+            "B": "जीवाश्म ईंधन",
+            "C": "जल विद्युत",
+            "D": "पवन ऊर्जा"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "Where was the first hydroelectric plant established in India?",
+        "prashna": "भारत में प्रथम जल विद्युत संयंत्र की स्थापना कहाँ हुई थी?",
+        "options": {
+            "A": "Shillong",
+            "B": "Shivanasamudra",
+            "C": "Darjeeling",
+            "D": "Agartala"
+        },
+        "vikalpa": {
+            "A": "शिलांग",
+            "B": "शिवसमुद्रम",
+            "C": "दार्जिलिंग",
+            "D": "अगरतला"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "question": "Which district of Bihar has the highest population density?",
+        "prashna": "बिहार का सर्वाधिक जनसंख्या घनत्व वाला जिला कौन है?",
+        "options": {
+            "A": "Aurangabad",
+            "B": "Purnia",
+            "C": "Patna",
+            "D": "Vaishali"
+        },
+        "vikalpa": {
+            "A": "औरंगाबाद",
+            "B": "पूर्णिया",
+            "C": "पटना",
+            "D": "वैशाली"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "question": "Which type of coal is mainly found in India?",
+        "prashna": "भारत में मुख्यतः किस प्रकार का कोयला पाया जाता है ?",
+        "options": {
+            "A": "Anthracite",
+            "B": "Bituminous",
+            "C": "Lignite",
+            "D": "Peat"
+        },
+        "vikalpa": {
+            "A": "एन्थ्रासाइट",
+            "B": "बिटुमिनस",
+            "C": "लिग्नाइट",
+            "D": "पीट"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "question": "Which place in India receives the highest rainfall?",
+        "prashna": "भारत में सर्वाधिक वर्षा किस स्थान पर होती है ?",
+        "options": {
+            "A": "Mawsynram",
+            "B": "Cherrapunji",
+            "C": "Guwahati",
+            "D": "Agartala"
+        },
+        "vikalpa": {
+            "A": "मौसिनराम",
+            "B": "चेरापूँजी",
+            "C": "गुवाहाटी",
+            "D": "अगरतला"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "question": "The oldest river valley project of Bihar is:",
+        "prashna": "बिहार की प्राचीनतम नदी घाटी परियोजना है।",
+        "options": {
+            "A": "Sone Project",
+            "B": "Gandak Project",
+            "C": "Kosi Project",
+            "D": "Damodar Project"
+        },
+        "vikalpa": {
+            "A": "सोन परियोजना",
+            "B": "गंडक परियोजना",
+            "C": "कोसी परियोजना",
+            "D": "दामोदर परियोजना"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "question": "When was the Cooperative Credit Societies Act passed?",
+        "prashna": "सहकारिता साख समिति कानून कब पारित हुआ ?",
+        "options": {
+            "A": "1902",
+            "B": "1904",
+            "C": "1910",
+            "D": "1919"
+        },
+        "vikalpa": {
+            "A": "1902",
+            "B": "1904",
+            "C": "1910",
+            "D": "1919"
+        }
+    },
+    {
+        "id": "obj_26",
+        "type": "objective",
+        "question": "Which city is known as the financial capital of India?",
+        "prashna": "भारत की वित्तीय राजधानी किस नगर को कहा जाता है ?",
+        "options": {
+            "A": "Delhi",
+            "B": "Patna",
+            "C": "Bengaluru",
+            "D": "Mumbai"
+        },
+        "vikalpa": {
+            "A": "दिल्ली",
+            "B": "पटना",
+            "C": "बेंगलुरु",
+            "D": "मुंबई"
+        }
+    },
+    {
+        "id": "obj_27",
+        "type": "objective",
+        "question": "Which sector contributes the most to India's Gross Domestic Product?",
+        "prashna": "भारत के सकल घरेलू उत्पाद में किस क्षेत्र का सर्वाधिक योगदान है ?",
+        "options": {
+            "A": "Agricultural Sector",
+            "B": "Industrial Sector",
+            "C": "Service Sector",
+            "D": "Manufacturing Sector"
+        },
+        "vikalpa": {
+            "A": "कृषि क्षेत्र",
+            "B": "औद्योगिक क्षेत्र",
+            "C": "सेवा क्षेत्र",
+            "D": "विनिर्माण क्षेत्र"
+        }
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "question": "Which certified mark is necessary to ensure the purity of gold ornaments?",
+        "prashna": "स्वर्ण आभूषणों की शुद्धता को सुनिश्चित करने के लिए किस मान्यता प्राप्त चिह्न का होना आवश्यक है ?",
+        "options": {
+            "A": "ISI Mark",
+            "B": "Agmark",
+            "C": "Hallmark",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "ISI मार्क",
+            "B": "एगमार्क",
+            "C": "हॉलमार्क",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_29",
+        "type": "objective",
+        "question": "Consumer Protection Act came into force in",
+        "prashna": "उपभोक्ता संरक्षण अधिनियम लागू हुआ",
+        "options": {
+            "A": "1986",
+            "B": "1980",
+            "C": "1987",
+            "D": "1988"
+        },
+        "vikalpa": {
+            "A": "1986 में",
+            "B": "1980 में",
+            "C": "1987 में",
+            "D": "1988 में"
+        }
+    },
+    {
+        "id": "obj_30",
+        "type": "objective",
+        "question": "Which river is called the 'Sorrow of Bihar'?",
+        "prashna": "'बिहार का शोक' किस नदी को कहा जाता है ?",
+        "options": {
+            "A": "Sone",
+            "B": "Kosi",
+            "C": "Punpun",
+            "D": "Ganga"
+        },
+        "vikalpa": {
+            "A": "सोन",
+            "B": "कोसी",
+            "C": "पुनपुन",
+            "D": "गंगा"
+        }
+    },
+    {
+        "id": "obj_31",
+        "type": "objective",
+        "question": "Vibrations occurring on the ocean floor are related to",
+        "prashna": "महासागर की तली पर होनेवाले कंपन का सम्बन्ध है",
+        "options": {
+            "A": "Cyclone",
+            "B": "Tornado",
+            "C": "Tsunami",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "झंझावात से",
+            "B": "चक्रवात से",
+            "C": "सुनामी से",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_32",
+        "type": "objective",
+        "question": "Which satellite is used for the exploration and management of resources?",
+        "prashna": "संसाधनों की खोज एवं प्रबंधन के लिए किस उपग्रह का प्रयोग किया जाता है?",
+        "options": {
+            "A": "Communication Satellite",
+            "B": "Remote Sensing Satellite",
+            "C": "Navigation Satellite",
+            "D": "Polar Satellite"
+        },
+        "vikalpa": {
+            "A": "संचार उपग्रह",
+            "B": "सुदूर संवेदी उपग्रह",
+            "C": "नेविगेशन उपग्रह",
+            "D": "ध्रुवीय उपग्रह"
+        }
+    },
+    {
+        "id": "obj_33",
+        "type": "objective",
+        "question": "Where did the Moplah Rebellion take place?",
+        "prashna": "मोपला विद्रोह कहाँ हुआ था ?",
+        "options": {
+            "A": "Maharashtra",
+            "B": "Bengal",
+            "C": "Gujarat",
+            "D": "Kerala"
+        },
+        "vikalpa": {
+            "A": "महाराष्ट्र",
+            "B": "बंगाल",
+            "C": "गुजरात",
+            "D": "केरल"
+        }
+    },
+    {
+        "id": "obj_34",
+        "type": "objective",
+        "question": "Which is the oldest coal mine in India?",
+        "prashna": "भारत की प्राचीनतम कोयले की खान कौन है ?",
+        "options": {
+            "A": "Raniganj",
+            "B": "Jharia",
+            "C": "Dhanbad",
+            "D": "Korba"
+        },
+        "vikalpa": {
+            "A": "रानीगंज",
+            "B": "झरिया",
+            "C": "धनबाद",
+            "D": "कोरबा"
+        }
+    },
+    {
+        "id": "obj_35",
+        "type": "objective",
+        "question": "The Bonus Payment Act was enacted during which Five-Year Plan?",
+        "prashna": "बोनस भुगतान अधिनियम किस पंचवर्षीय योजना के दौरान बना?",
+        "options": {
+            "A": "First Five-Year Plan",
+            "B": "Second Five-Year Plan",
+            "C": "Third Five-Year Plan",
+            "D": "Fourth Five-Year Plan"
+        },
+        "vikalpa": {
+            "A": "प्रथम पंचवर्षीय योजना",
+            "B": "द्वितीय पंचवर्षीय योजना",
+            "C": "तृतीय पंचवर्षीय योजना",
+            "D": "चतुर्थ पंचवर्षीय योजना"
+        }
+    },
+    {
+        "id": "obj_36",
+        "type": "objective",
+        "question": "Where was the first jute mill established in India?",
+        "prashna": "भारत में पहली जूट मिल कहाँ स्थापित की गई ?",
+        "options": {
+            "A": "Bombay",
+            "B": "Calcutta",
+            "C": "Patna",
+            "D": "Delhi"
+        },
+        "vikalpa": {
+            "A": "बम्बई",
+            "B": "कलकत्ता",
+            "C": "पटना",
+            "D": "दिल्ली"
+        }
+    },
+    {
+        "id": "obj_37",
+        "type": "objective",
+        "question": "Who invented the powerloom?",
+        "prashna": "पावरलूम का आविष्कार किसने किया?",
+        "options": {
+            "A": "James Watt",
+            "B": "John Kay",
+            "C": "Edmund Cartwright",
+            "D": "Crompton"
+        },
+        "vikalpa": {
+            "A": "जेम्स वॉट",
+            "B": "जॉन के",
+            "C": "एडमण्ड कार्टराईट",
+            "D": "क्रॉम्पटन"
+        }
+    },
+    {
+        "id": "obj_38",
+        "type": "objective",
+        "question": "Where is the headquarters of the International Labour Organization (ILO) located?",
+        "prashna": "अंतरराष्ट्रीय श्रमिक संगठन का मुख्यालय कहाँ है?",
+        "options": {
+            "A": "Paris",
+            "B": "Washington D.C.",
+            "C": "Rome",
+            "D": "Geneva"
+        },
+        "vikalpa": {
+            "A": "पेरिस",
+            "B": "वाशिंगटन डी० सी०",
+            "C": "रोम",
+            "D": "जेनेवा"
+        }
+    },
+    {
+        "id": "obj_39",
+        "type": "objective",
+        "question": "When did Singapore become independent?",
+        "prashna": "सिंगापुर कब आजाद हुआ ?",
+        "options": {
+            "A": "1955",
+            "B": "1960",
+            "C": "1962",
+            "D": "1965"
+        },
+        "vikalpa": {
+            "A": "1955",
+            "B": "1960",
+            "C": "1962",
+            "D": "1965"
+        }
+    },
+    {
+        "id": "obj_40",
+        "type": "objective",
+        "question": "India is not a member of",
+        "prashna": "भारत सदस्य नहीं है",
+        "options": {
+            "A": "SAARC",
+            "B": "OPEC",
+            "C": "G-15",
+            "D": "WTO"
+        },
+        "vikalpa": {
+            "A": "दक्षेस का",
+            "B": "ओपेक का",
+            "C": "जी-15 का",
+            "D": "डब्ल्यू. टी. ओ. का"
+        }
+    },
+    {
+        "id": "obj_41",
+        "type": "objective",
+        "question": "Which is the largest man-made reservoir in India?",
+        "prashna": "भारत में सबसे बड़ा मानव-निर्मित जलाशय है",
+        "options": {
+            "A": "Nagarjuna Sagar",
+            "B": "Krishna Sagar",
+            "C": "Govind Ballabh Pant Sagar",
+            "D": "Govind Sagar"
+        },
+        "vikalpa": {
+            "A": "नागार्जुन सागर",
+            "B": "कृष्णा सागर",
+            "C": "गोविंद वल्लभ पंत सागर",
+            "D": "गोविन्द सागर"
+        }
+    },
+    {
+        "id": "obj_42",
+        "type": "objective",
+        "question": "Which country is most affected by floods?",
+        "prashna": "सर्वाधिक बाढ़ प्रभावित देश है",
+        "options": {
+            "A": "Pakistan",
+            "B": "Iran",
+            "C": "Bangladesh",
+            "D": "Bhutan"
+        },
+        "vikalpa": {
+            "A": "पाकिस्तान",
+            "B": "ईरान",
+            "C": "बांग्लादेश",
+            "D": "भूटान"
+        }
+    },
+    {
+        "id": "obj_43",
+        "type": "objective",
+        "question": "Which part is shown by blue color in the map?",
+        "prashna": "मानचित्र में नीले रंग द्वारा किस भाग की दिखाया जाता है?",
+        "options": {
+            "A": "Mountain",
+            "B": "Plateau",
+            "C": "Plain",
+            "D": "Water"
+        },
+        "vikalpa": {
+            "A": "पर्वत",
+            "B": "पठार",
+            "C": "मैदान",
+            "D": "जल"
+        }
+    },
+    {
+        "id": "obj_44",
+        "type": "objective",
+        "question": "In which earthquake zone is the Kutch region of Gujarat located?",
+        "prashna": "गुजरात का कच्छ प्रदेश किस भूकंपीय पेटी में है ?",
+        "options": {
+            "A": "Zone-1",
+            "B": "Zone-3",
+            "C": "Zone-4",
+            "D": "Zone-5"
+        },
+        "vikalpa": {
+            "A": "जोन-1",
+            "B": "जोन-3",
+            "C": "जोन-4",
+            "D": "जोन-5"
+        }
+    },
+    {
+        "id": "obj_45",
+        "type": "objective",
+        "question": "Where is the headquarters of North Eastern Railway?",
+        "prashna": "उत्तर रेलवे का मुख्यालय कहाँ है ?",
+        "options": {
+            "A": "Kolkata",
+            "B": "Gorakhpur",
+            "C": "Hajipur",
+            "D": "New Delhi"
+        },
+        "vikalpa": {
+            "A": "कोलकाता",
+            "B": "गोरखपुर",
+            "C": "हाजीपुर",
+            "D": "नई दिल्ली"
+        }
+    },
+    {
+        "id": "obj_46",
+        "type": "objective",
+        "question": "What is the main cause of land degradation in Punjab?",
+        "prashna": "पंजाब में भूमि निम्नीकरण का मुख्य कारण क्या है ?",
+        "options": {
+            "A": "Deforestation",
+            "B": "Intensive farming",
+            "C": "Overgrazing",
+            "D": "Excessive irrigation"
+        },
+        "vikalpa": {
+            "A": "वनोन्मूलन",
+            "B": "गहन खेती",
+            "C": "अतिचारण",
+            "D": "अधिक सिंचाई"
+        }
+    },
+    {
+        "id": "obj_47",
+        "type": "objective",
+        "question": "Who is the constitutional head of India?",
+        "prashna": "भारत का संवैधानिक अध्यक्ष कौन है ?",
+        "options": {
+            "A": "President",
+            "B": "Prime Minister",
+            "C": "Governor",
+            "D": "Vice President"
+        },
+        "vikalpa": {
+            "A": "राष्ट्रपति",
+            "B": "प्रधानमंत्री",
+            "C": "राज्यपाल",
+            "D": "उप-राष्ट्रपति"
+        }
+    },
+    {
+        "id": "obj_48",
+        "type": "objective",
+        "question": "Where is Angkor Wat temple located?",
+        "prashna": "अंगकोरवाट मंदिर कहाँ है ?",
+        "options": {
+            "A": "Vietnam",
+            "B": "Thailand",
+            "C": "Laos",
+            "D": "Cambodia"
+        },
+        "vikalpa": {
+            "A": "वियतनाम",
+            "B": "थाईलैण्ड",
+            "C": "लाओस",
+            "D": "कम्बोडिया"
+        }
+    },
+    {
+        "id": "obj_49",
+        "type": "objective",
+        "question": "Which state is the largest producer of bauxite?",
+        "prashna": "बॉक्साइट का सबसे बड़ा उत्पादक राज्य है",
+        "options": {
+            "A": "Jharkhand",
+            "B": "Odisha",
+            "C": "West Bengal",
+            "D": "Gujarat"
+        },
+        "vikalpa": {
+            "A": "झारखण्ड",
+            "B": "ओडिशा",
+            "C": "पश्चिम बंगाल",
+            "D": "गुजरात"
+        }
+    },
+    {
+        "id": "obj_50",
+        "type": "objective",
+        "question": "When did the Right to Information Act come into force?",
+        "prashna": "सूचना का अधिकार कानून कब लागू हुआ ?",
+        "options": {
+            "A": "2002",
+            "B": "2005",
+            "C": "2008",
+            "D": "2010"
+        },
+        "vikalpa": {
+            "A": "2002",
+            "B": "2005",
+            "C": "2008",
+            "D": "2010"
+        }
+    },
+    {
+        "id": "obj_51",
+        "type": "objective",
+        "question": "Which Indian state has the longest border with Nepal?",
+        "prashna": "नेपाल के साथ भारत के किस राज्य की सबसे लम्बी सीमा है ?",
+        "options": {
+            "A": "Uttar Pradesh",
+            "B": "Bihar",
+            "C": "West Bengal",
+            "D": "Jharkhand"
+        },
+        "vikalpa": {
+            "A": "उत्तर प्रदेश",
+            "B": "बिहार",
+            "C": "पश्चिम बंगाल",
+            "D": "झारखण्ड"
+        }
+    },
+    {
+        "id": "obj_52",
+        "type": "objective",
+        "question": "Who was the first president of the Bharatiya Janata Party?",
+        "prashna": "भारतीय जनता पार्टी के प्रथम अध्यक्ष कौन थे ?",
+        "options": {
+            "A": "Lal Krishna Advani",
+            "B": "Atal Bihari Vajpayee",
+            "C": "Kanshi Ram",
+            "D": "Kalyan Singh"
+        },
+        "vikalpa": {
+            "A": "लाल कृष्ण आडवनी",
+            "B": "अटल बिहारी वाजपेयी",
+            "C": "कांशी राम",
+            "D": "कल्याण सिंह"
+        }
+    },
+    {
+        "id": "obj_53",
+        "type": "objective",
+        "question": "What percentage of seats are reserved for women in Panchayats?",
+        "prashna": "पंचायतों में महिलाओं के लिए कितना प्रतिशत स्थान आरक्षित है?",
+        "options": {
+            "A": "27 percent",
+            "B": "33 percent",
+            "C": "50 percent",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "27 प्रतिशत",
+            "B": "33 प्रतिशत",
+            "C": "50 प्रतिशत",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_54",
+        "type": "objective",
+        "question": "State Finance Commission is constituted for:",
+        "prashna": "राज्य वित्त आयोग का गठन किया जाता है।",
+        "options": {
+            "A": "Reviewing the financial position of Panchayats",
+            "B": "Reviewing the financial relations between Centre and States",
+            "C": "Reviewing the financial position of Banks",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "पंचायतों की वित्तीय स्थिति के पुनरावलोकन हेतु",
+            "B": "केन्द्र और राज्यों के वित्तीय सम्बन्ध के पुनरावलोकन हेतु",
+            "C": "बैंकों की वित्तीय स्थिति के पुनरावलोकन हेतु",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_55",
+        "type": "objective",
+        "question": "Where was the first Municipal Corporation established in Bihar?",
+        "prashna": "बिहार में सर्वप्रथम नगर निगम की स्थापना कहाँ की गई थी ?",
+        "options": {
+            "A": "Motihari",
+            "B": "Gaya",
+            "C": "Bihar Sharif",
+            "D": "Patna"
+        },
+        "vikalpa": {
+            "A": "मोतिहारी",
+            "B": "गया",
+            "C": "बिहार शरीफ",
+            "D": "पटना"
+        }
+    },
+    {
+        "id": "obj_56",
+        "type": "objective",
+        "question": "Who led the Student Movement in Bihar?",
+        "prashna": "बिहार में छात्र आन्दोलन का नेतृत्व किसने किया?",
+        "options": {
+            "A": "Jayaprakash Narayan",
+            "B": "Anugrah Narayan Sinha",
+            "C": "Jagjivan Ram",
+            "D": "Yogendra Shukla"
+        },
+        "vikalpa": {
+            "A": "जयप्रकाश नारायण",
+            "B": "अनुग्रह नारायण सिन्हा",
+            "C": "जगजीवन राम",
+            "D": "योगेन्द्र शुक्ला"
+        }
+    },
+    {
+        "id": "obj_57",
+        "type": "objective",
+        "question": "Who was the Viceroy of India during the Civil Disobedience Movement?",
+        "prashna": "सविनय अवज्ञा आंदोलन के समय भारत के वायसराय कौन थे ?",
+        "options": {
+            "A": "Lord Dalhousie",
+            "B": "Lord Irwin",
+            "C": "Lord Chelmsford",
+            "D": "Lord Minto"
+        },
+        "vikalpa": {
+            "A": "लॉर्ड डलहौजी",
+            "B": "लॉर्ड इरविन",
+            "C": "लॉर्ड चेम्सफोर्ड",
+            "D": "लॉर्ड मिंटो"
+        }
+    },
+    {
+        "id": "obj_58",
+        "type": "objective",
+        "question": "When was the Geneva Accord signed?",
+        "prashna": "जेनेवा संधि कब हुई ?",
+        "options": {
+            "A": "1954",
+            "B": "1952",
+            "C": "1950",
+            "D": "1985"
+        },
+        "vikalpa": {
+            "A": "1954",
+            "B": "1952",
+            "C": "1950",
+            "D": "1985"
+        }
+    },
+    {
+        "id": "obj_59",
+        "type": "objective",
+        "question": "The Chauri-Chaura incident occurred in",
+        "prashna": "चौरी-चौरा कांड हुआ था",
+        "options": {
+            "A": "1920",
+            "B": "1922",
+            "C": "1930",
+            "D": "1942"
+        },
+        "vikalpa": {
+            "A": "1920 में",
+            "B": "1922 में",
+            "C": "1930 में",
+            "D": "1942 में"
+        }
+    },
+    {
+        "id": "obj_60",
+        "type": "objective",
+        "question": "Which was the world's first socialist country?",
+        "prashna": "विश्व का पहला समाजवादी देश था",
+        "options": {
+            "A": "Germany",
+            "B": "France",
+            "C": "Russia",
+            "D": "India"
+        },
+        "vikalpa": {
+            "A": "जर्मनी",
+            "B": "फ्रांस",
+            "C": "रूस",
+            "D": "भारत"
+        }
+    },
+    {
+        "id": "obj_61",
+        "type": "objective",
+        "question": "Who were the first merchants to reach Indo-China?",
+        "prashna": "हिंद- चीन पहुँचने वाले प्रथम व्यापारी थे",
+        "options": {
+            "A": "French",
+            "B": "Dutch",
+            "C": "British",
+            "D": "Portuguese"
+        },
+        "vikalpa": {
+            "A": "फ्रांसीसी",
+            "B": "डच",
+            "C": "ब्रिटिश",
+            "D": "पुर्तगाली"
+        }
+    },
+    {
+        "id": "obj_62",
+        "type": "objective",
+        "question": "When did the unification of Vietnam occur?",
+        "prashna": "वियतनाम का एकीकरण हुआ",
+        "options": {
+            "A": "1970",
+            "B": "1980",
+            "C": "1979",
+            "D": "1975"
+        },
+        "vikalpa": {
+            "A": "1970",
+            "B": "1980",
+            "C": "1979",
+            "D": "1975"
+        }
+    },
+    {
+        "id": "obj_63",
+        "type": "objective",
+        "question": "To which post was Count Cavour appointed by Victor Emmanuel?",
+        "prashna": "काउंट कावूर को विक्टर इमैनुएल ने किस पद पर नियुक्त किया ?",
+        "options": {
+            "A": "Army Chief",
+            "B": "Home Minister",
+            "C": "Secretary",
+            "D": "Prime Minister"
+        },
+        "vikalpa": {
+            "A": "सेनापति",
+            "B": "गृहमंत्री",
+            "C": "सचिव",
+            "D": "प्रधानमंत्री"
+        }
+    },
+    {
+        "id": "obj_64",
+        "type": "objective",
+        "question": "Who is known as Frontier Gandhi?",
+        "prashna": "किन्हें सीमान्त गाँधी के नाम से जाना जाता है ?",
+        "options": {
+            "A": "K. Kelappan",
+            "B": "Khan Abdul Ghaffar Khan",
+            "C": "Maulana Abul Kalam Azad",
+            "D": "C. Rajagopalachari"
+        },
+        "vikalpa": {
+            "A": "के. केलप्पन",
+            "B": "खान अब्दुल गफ्फार खान",
+            "C": "मौलाना अबुल कलाम आजाद",
+            "D": "सी. राजगोपालाचारी"
+        }
+    },
+    {
+        "id": "obj_65",
+        "type": "objective",
+        "question": "Which of the following states is not connected by railway routes?",
+        "prashna": "निम्न में से कौन राज्य रेल मार्ग से नहीं जुड़ा है?",
+        "options": {
+            "A": "Assam",
+            "B": "Nagaland",
+            "C": "Manipur",
+            "D": "Meghalaya"
+        },
+        "vikalpa": {
+            "A": "असम",
+            "B": "नागालैण्ड",
+            "C": "मणिपुर",
+            "D": "मेघालय"
+        }
+    },
+    {
+        "id": "obj_66",
+        "type": "objective",
+        "question": "When was air transport nationalized?",
+        "prashna": "वायु परिवहन का राष्ट्रीयकरण कब किया गया था ?",
+        "options": {
+            "A": "1950",
+            "B": "1951",
+            "C": "1953",
+            "D": "1964"
+        },
+        "vikalpa": {
+            "A": "1950",
+            "B": "1951",
+            "C": "1953",
+            "D": "1964"
+        }
+    },
+    {
+        "id": "obj_67",
+        "type": "objective",
+        "question": "Where was the first Export Processing Zone (EPZ) of India established?",
+        "prashna": "भारत का प्रथम निर्यात संवर्धन क्षेत्र कहाँ स्थापित किया गया ?",
+        "options": {
+            "A": "Falta",
+            "B": "Kandla",
+            "C": "Chennai",
+            "D": "Noida"
+        },
+        "vikalpa": {
+            "A": "फाल्टा",
+            "B": "कांडला",
+            "C": "चेन्नई",
+            "D": "नोएडा"
+        }
+    },
+    {
+        "id": "obj_68",
+        "type": "objective",
+        "question": "How much area of Bihar is covered with forests?",
+        "prashna": "बिहार का कितना क्षेत्र वनों से आच्छादित है ?",
+        "options": {
+            "A": "$15\\%$",
+            "B": "$20\\%$",
+            "C": "$28\\%$",
+            "D": "$7\\%$"
+        },
+        "vikalpa": {
+            "A": "$15\\%$",
+            "B": "$20\\%$",
+            "C": "$28\\%$",
+            "D": "$7\\%$"
+        }
+    },
+    {
+        "id": "obj_69",
+        "type": "objective",
+        "question": "Which is a type of paddy?",
+        "prashna": "धान का एक प्रकार है,",
+        "options": {
+            "A": "Aus",
+            "B": "Aman",
+            "C": "Boro",
+            "D": "All of these"
+        },
+        "vikalpa": {
+            "A": "ऑस",
+            "B": "अमन",
+            "C": "बोरो",
+            "D": "इनमें से सभी"
+        }
+    },
+    {
+        "id": "obj_70",
+        "type": "objective",
+        "question": "Which of the following is an organic mineral?",
+        "prashna": "निम्न में कौन कार्बनिक खनिज है?",
+        "options": {
+            "A": "Coal",
+            "B": "Mica",
+            "C": "Bauxite",
+            "D": "Copper"
+        },
+        "vikalpa": {
+            "A": "कोयला",
+            "B": "अभ्रक",
+            "C": "बॉक्साइट",
+            "D": "ताँबा"
+        }
+    },
+    {
+        "id": "obj_71",
+        "type": "objective",
+        "question": "Where was the first Earth Summit held?",
+        "prashna": "प्रथम पृथ्वी सम्मेलन कहाँ हुआ था ?",
+        "options": {
+            "A": "Johannesburg",
+            "B": "Rio de Janeiro",
+            "C": "New York",
+            "D": "Kyoto"
+        },
+        "vikalpa": {
+            "A": "जोहांसबर्ग",
+            "B": "रियो डी जेनेरो",
+            "C": "न्यूयार्क",
+            "D": "क्योटो"
+        }
+    },
+    {
+        "id": "obj_72",
+        "type": "objective",
+        "question": "Which of the following is not agro-based?",
+        "prashna": "निम्न में से कौन कृषि आधारित नहीं है?",
+        "options": {
+            "A": "Sugar Industry",
+            "B": "Jute Industry",
+            "C": "Cotton Textile Industry",
+            "D": "Cement Industry"
+        },
+        "vikalpa": {
+            "A": "चीनी उद्योग",
+            "B": "जूट उद्योग",
+            "C": "सूती वस्त्र उद्योग",
+            "D": "सीमेंट उद्योग"
+        }
+    },
+    {
+        "id": "obj_73",
+        "type": "objective",
+        "question": "Which of the following is not a national party?",
+        "prashna": "निम्न में से कौन राष्ट्रीय दल नहीं है ?",
+        "options": {
+            "A": "Indian National Congress",
+            "B": "Lok Janshakti Party",
+            "C": "Bahujan Samaj Party",
+            "D": "Bharatiya Janata Party"
+        },
+        "vikalpa": {
+            "A": "भारतीय राष्ट्रीय काँग्रेस",
+            "B": "लोक जनशक्ति पार्टी",
+            "C": "बहुजन समाज पार्टी",
+            "D": "भारतीय जनता पार्टी"
+        }
+    },
+    {
+        "id": "obj_74",
+        "type": "objective",
+        "question": "What was the main cause of public struggle in Bolivia?",
+        "prashna": "वोलिविया में जनसंघर्ष का मुख्य कारण क्या था ?",
+        "options": {
+            "A": "Establishment of democracy",
+            "B": "Privatization of water",
+            "C": "Privatization of electricity",
+            "D": "Increase in petrol prices"
+        },
+        "vikalpa": {
+            "A": "लोकतंत्र की स्थापना",
+            "B": "जल का निजीकरण",
+            "C": "बिजली का निजीकरण",
+            "D": "पेट्रोल की कीमत में वृद्धि"
+        }
+    },
+    {
+        "id": "obj_75",
+        "type": "objective",
+        "question": "Bolivia is a part of which continent?",
+        "prashna": "बोलिविया किस महादेश का हिस्सा है?",
+        "options": {
+            "A": "Africa",
+            "B": "Europe",
+            "C": "South America",
+            "D": "Asia"
+        },
+        "vikalpa": {
+            "A": "अफ्रीका",
+            "B": "यूरोप",
+            "C": "दक्षिण अमेरिका",
+            "D": "एशिया"
+        }
+    },
+    {
+        "id": "obj_76",
+        "type": "objective",
+        "question": "Which of the following is called the primary sector?",
+        "prashna": "निम्न में से किसे प्राथमिक क्षेत्र कहा जाता है ?",
+        "options": {
+            "A": "Service Sector",
+            "B": "Agricultural Sector",
+            "C": "Industrial Sector",
+            "D": "Financial Sector"
+        },
+        "vikalpa": {
+            "A": "सेवा क्षेत्र",
+            "B": "कृषि क्षेत्र",
+            "C": "औद्योगिक क्षेत्र",
+            "D": "वित्तीय क्षेत्र"
+        }
+    },
+    {
+        "id": "obj_77",
+        "type": "objective",
+        "question": "What is the currency of Sweden?",
+        "prashna": "स्वीडन की मुद्रा क्या है?",
+        "options": {
+            "A": "Pound",
+            "B": "Dollar",
+            "C": "Rouble",
+            "D": "Krona"
+        },
+        "vikalpa": {
+            "A": "पौण्ड",
+            "B": "डॉलर",
+            "C": "रूबल",
+            "D": "क्रोना"
+        }
+    },
+    {
+        "id": "obj_78",
+        "type": "objective",
+        "question": "Who gave the concept of the 'Vicious Circle of Poverty'?",
+        "prashna": "गरीबी के कुचक्र की धारणा किसने दी है?",
+        "options": {
+            "A": "Alfred Marshall",
+            "B": "Keynes",
+            "C": "Pigou",
+            "D": "Ragnar Nurkse"
+        },
+        "vikalpa": {
+            "A": "अल्फ्रेड मार्शल",
+            "B": "किन्स",
+            "C": "पीगू",
+            "D": "रैगनर नर्क्स"
+        }
+    },
+    {
+        "id": "obj_79",
+        "type": "objective",
+        "question": "Which is the apex institution for refinancing rural and agricultural development?",
+        "prashna": "कृषि तथा ग्रामीण विकास के लिए पुनर्वित्त करने वाली शीर्ष संस्था कौन है?",
+        "options": {
+            "A": "Land Development Bank",
+            "B": "NABARD",
+            "C": "Regional Rural Bank",
+            "D": "Commercial Bank"
+        },
+        "vikalpa": {
+            "A": "भूमि विकास बैंक",
+            "B": "नाबार्ड",
+            "C": "क्षेत्रीय ग्रामीण बैंक",
+            "D": "व्यावसायिक बैंक"
+        }
+    },
+    {
+        "id": "obj_80",
+        "type": "objective",
+        "question": "The Reserve Bank of India was established in",
+        "prashna": "भारतीय रिजर्व बैंक की स्थापना हुई थी",
+        "options": {
+            "A": "1935",
+            "B": "1949",
+            "C": "1950",
+            "D": "1955"
+        },
+        "vikalpa": {
+            "A": "1935 में",
+            "B": "1949 में",
+            "C": "1950 में",
+            "D": "1955 में"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "What were the causes of the French Revolution of 1848?",
+        "prashna": "1848 के फ्रांसीसी क्रांति के कारण क्या थे?"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "Give a brief description of the Champaran Satyagraha.",
+        "prashna": "चम्पारण सत्याग्रह का संक्षिप्त विवरण दें।"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "What do you understand by de-industrialization?",
+        "prashna": "विऔद्योगिकीकरण से आप क्या समझते हैं?"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "What was the main objective of the Bretton Woods Conference?",
+        "prashna": "ब्रेटन वुड्स सम्मेलन का मुख्य उद्देश्य क्या था ?"
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "What was the condition of Russian farmers before the Revolution?",
+        "prashna": "क्रांति से पूर्व रूसी किसानों की स्थिति कैसी थी ?"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "Why did the Khilafat Movement happen?",
+        "prashna": "खिलाफत आन्दोलन क्यों हुआ ?"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "Describe any two functions of a Municipal Corporation.",
+        "prashna": "नगर निगम के किन्हीं दो कार्यों का वर्णन करें।"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "What do you understand by secularism?",
+        "prashna": "धर्मनिरपेक्षता से आप क्या समझते हैं?"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "What is the Anti-Defection Law?",
+        "prashna": "दल-बदल कानून क्या है ?"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "Define secret ballot.",
+        "prashna": "गुप्त मतदान को परिभाषित करें।"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "What is the difference between Per Capita Income and National Income?",
+        "prashna": "प्रति व्यक्ति आय और राष्ट्रीय आय में क्या अन्तर है ?"
+    },
+    {
+        "id": "short_12",
+        "type": "short_answer",
+        "question": "Define economic planning.",
+        "prashna": "आर्थिक नियोजन को परिभाषित करें।"
+    },
+    {
+        "id": "short_13",
+        "type": "short_answer",
+        "question": "What do you understand by Self-Help Groups?",
+        "prashna": "स्वयं सहायता समूह से आप क्या समझते हैं?"
+    },
+    {
+        "id": "short_14",
+        "type": "short_answer",
+        "question": "What is meant by liberalization?",
+        "prashna": "उदारीकरण से क्या अभिप्राय है?"
+    },
+    {
+        "id": "short_15",
+        "type": "short_answer",
+        "question": "Name two regions of the Gondwana Group.",
+        "prashna": "गोंडवाना समूह के दो क्षेत्रों के नाम बताइए"
+    },
+    {
+        "id": "short_16",
+        "type": "short_answer",
+        "question": "Name any four trees of deciduous forests.",
+        "prashna": "पर्णपाती वनों के किन्हीं चार वृक्षों के नाम लिखिए।"
+    },
+    {
+        "id": "short_17",
+        "type": "short_answer",
+        "question": "Give four examples of renewable energy.",
+        "prashna": "नवीकरणीय ऊर्जा के चार उदाहरण दीजिए।"
+    },
+    {
+        "id": "short_18",
+        "type": "short_answer",
+        "question": "What is the difference between cash crops and plantation crops?",
+        "prashna": "नकदी फसल और रोपण फसल में क्या अन्तर है?"
+    },
+    {
+        "id": "short_19",
+        "type": "short_answer",
+        "question": "State two reasons for low agricultural productivity in Bihar.",
+        "prashna": "बिहार में कृषि की निम्न उत्पादकता के दो कारण बताइए।"
+    },
+    {
+        "id": "short_20",
+        "type": "short_answer",
+        "question": "How is crop rotation helpful in soil conservation?",
+        "prashna": "मृदा संरक्षण में फसल चक्रण किस प्रकार सहायक है?"
+    },
+    {
+        "id": "short_21",
+        "type": "short_answer",
+        "question": "What should be done to maintain soil moisture in drought conditions?",
+        "prashna": "सुखाड़ में मिट्टी की नमी को बनाए रखने के लिए क्या करना चाहिए?"
+    },
+    {
+        "id": "short_22",
+        "type": "short_answer",
+        "question": "What should be the shape of buildings in earthquake-prone areas?",
+        "prashna": "भूकम्प संभावित क्षेत्रों में भवनों की आकृति कैसी होनी चाहिए ?"
+    },
+    {
+        "id": "short_23",
+        "type": "short_answer",
+        "question": "What do you mean by rain water harvesting?",
+        "prashna": "वर्षा जल संग्रहण से आपका क्या अभिप्राय है ?"
+    },
+    {
+        "id": "short_24",
+        "type": "short_answer",
+        "question": "Why is disaster management necessary?",
+        "prashna": "आपदा प्रबंधन की आवश्यकता क्यों है ?"
+    },
+    {
+        "id": "long_1",
+        "type": "long_answer",
+        "question": "Describe the development of nationalism in Indo-China.",
+        "prashna": "हिन्द-चीन में राष्ट्रवाद के विकास का वर्णन करें।"
+    },
+    {
+        "id": "long_2",
+        "type": "long_answer",
+        "question": "State the causes and consequences of the Non-Cooperation Movement.",
+        "prashna": "असहयोग आन्दोलन के कारण एवं परिणाम बताइए ।"
+    },
+    {
+        "id": "long_3",
+        "type": "long_answer",
+        "question": "Describe the structure and functions of Gram Kachhari.",
+        "prashna": "ग्राम कचहरी की संरचना एवं कार्यों का वर्णन करें।"
+    },
+    {
+        "id": "long_4",
+        "type": "long_answer",
+        "question": "Why is the lack of education a challenge for democracy?",
+        "prashna": "शिक्षा का अभाव लोकतंत्र के लिए चुनौती क्यों है ?"
+    },
+    {
+        "id": "long_5",
+        "type": "long_answer",
+        "question": "Explain the three-tier judicial system formed by the government for consumer protection.",
+        "prashna": "उपभोक्ता संरक्षण हेतु सरकार द्वारा गठित त्रिस्तरीय न्यायिक प्रणाली की व्याख्या करें।"
+    },
+    {
+        "id": "long_6",
+        "type": "long_answer",
+        "question": "Mention the main characteristics of a mixed economy.",
+        "prashna": "मिश्रित अर्थव्यवस्था की मुख्य विशेषताओं का उल्लेख करें।"
+    },
+    {
+        "id": "long_7",
+        "type": "long_answer",
+        "question": "Mention the efforts made towards the conservation of power resources.",
+        "prashna": "शक्ति संसाधनों के संरक्षण की दिशा में उठाये गये प्रयासों का उल्लेख कीजिए।"
+    },
+    {
+        "id": "long_8",
+        "type": "long_answer",
+        "question": "Discuss the food security system adopted by the government to solve the problem of starvation.",
+        "prashna": "भुखमरी की समस्या के निवारण के लिए सरकार द्वारा अपनाई गई खाद्य सुरक्षा प्रणाली की विवेचना कीजिए ।"
+    }
+]

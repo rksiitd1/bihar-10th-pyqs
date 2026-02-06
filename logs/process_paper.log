@@ -407,3 +407,409 @@ Please retry in 34.853096736s. [links {
 2026-02-07 00:19:01,482 - INFO - Uploading file to the File API...
 2026-02-07 00:19:07,537 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/khha47pcnl3w
 2026-02-07 00:19:07,539 - INFO - Generating content with Gemini...
+2026-02-07 00:26:36,831 - INFO - Starting processing for: social_science_papers\soc_2025i.pdf
+2026-02-07 00:26:36,831 - INFO - Starting processing for: social_science_papers\soc_2023i.pdf
+2026-02-07 00:26:36,832 - INFO - Starting processing for: social_science_papers\soc_2022i.pdf
+2026-02-07 00:26:36,832 - INFO - Starting processing for: social_science_papers\soc_2022ii.pdf
+2026-02-07 00:26:36,833 - INFO - Uploading file to the File API...
+2026-02-07 00:26:36,835 - INFO - Uploading file to the File API...
+2026-02-07 00:26:36,833 - INFO - Uploading file to the File API...
+2026-02-07 00:26:36,835 - INFO - Uploading file to the File API...
+2026-02-07 00:26:43,746 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/a15rpf679iji
+2026-02-07 00:26:43,747 - INFO - Generating content with Gemini...
+2026-02-07 00:26:45,371 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/p12fdd9ld8rm
+2026-02-07 00:26:45,371 - INFO - Generating content with Gemini...
+2026-02-07 00:26:45,941 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/p33sjyfwvzal
+2026-02-07 00:26:45,941 - INFO - Generating content with Gemini...
+2026-02-07 00:26:51,685 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/o4jo3e5ys3fu
+2026-02-07 00:26:51,685 - INFO - Generating content with Gemini...
+2026-02-07 00:28:04,975 - INFO - Raw API response saved to: social_science_data_raw\soc_2022ii_raw.txt
+2026-02-07 00:28:04,975 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:28:04,977 - INFO - Writing structured data to: social_science_data\soc_2022ii.json
+2026-02-07 00:28:04,980 - INFO - Processing complete!
+2026-02-07 00:28:04,980 - INFO - Deleting file files/a15rpf679iji from the API...
+2026-02-07 00:28:06,930 - INFO - File deleted.
+2026-02-07 00:28:06,931 - INFO - Time: 90.10 seconds (1.50 minutes)
+2026-02-07 00:28:06,932 - INFO - Starting processing for: social_science_papers\soc_2021i.pdf
+2026-02-07 00:28:06,933 - INFO - Uploading file to the File API...
+2026-02-07 00:28:13,770 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/ja098vqcpkl4
+2026-02-07 00:28:13,771 - INFO - Generating content with Gemini...
+2026-02-07 00:28:14,803 - INFO - Raw API response saved to: social_science_data_raw\soc_2025i_raw.txt
+2026-02-07 00:28:14,804 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:28:14,809 - INFO - Writing structured data to: social_science_data\soc_2025i.json
+2026-02-07 00:28:14,812 - INFO - Processing complete!
+2026-02-07 00:28:14,812 - INFO - Deleting file files/p12fdd9ld8rm from the API...
+2026-02-07 00:28:17,849 - INFO - File deleted.
+2026-02-07 00:28:17,849 - INFO - Time: 101.02 seconds (1.68 minutes)
+2026-02-07 00:28:17,850 - INFO - Starting processing for: social_science_papers\soc_2021ii.pdf
+2026-02-07 00:28:17,851 - INFO - Uploading file to the File API...
+2026-02-07 00:28:22,089 - INFO - Raw API response saved to: social_science_data_raw\soc_2023i_raw.txt
+2026-02-07 00:28:22,089 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:28:22,091 - ERROR - Failed to decode JSON: Expecting ',' delimiter: line 293 column 21 (char 7066)
+2026-02-07 00:28:22,092 - ERROR - Raw response is preserved in: social_science_data_raw\soc_2023i_raw.txt
+2026-02-07 00:28:23,443 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/hurhoxscodde
+2026-02-07 00:28:23,445 - INFO - Generating content with Gemini...
+2026-02-07 00:28:24,844 - INFO - Starting processing for: social_science_papers\soc_2020i.pdf
+2026-02-07 00:28:24,844 - INFO - Uploading file to the File API...
+2026-02-07 00:28:35,442 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/1n0y528lar0z
+2026-02-07 00:28:35,442 - INFO - Generating content with Gemini...
+2026-02-07 00:28:35,578 - INFO - Raw API response saved to: social_science_data_raw\soc_2022i_raw.txt
+2026-02-07 00:28:35,578 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:28:35,581 - ERROR - Failed to decode JSON: Expecting ',' delimiter: line 1193 column 30 (char 27986)
+2026-02-07 00:28:35,582 - ERROR - Raw response is preserved in: social_science_data_raw\soc_2022i_raw.txt
+2026-02-07 00:28:37,742 - INFO - Starting processing for: social_science_papers\soc_2020ii.pdf
+2026-02-07 00:28:37,742 - INFO - Uploading file to the File API...
+2026-02-07 00:28:49,031 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/xzh4nj67zk9h
+2026-02-07 00:28:49,032 - INFO - Generating content with Gemini...
+2026-02-07 00:29:49,463 - INFO - Raw API response saved to: social_science_data_raw\soc_2020i_raw.txt
+2026-02-07 00:29:49,463 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:29:49,465 - ERROR - Failed to decode JSON: Expecting ',' delimiter: line 881 column 21 (char 22156)
+2026-02-07 00:29:49,465 - ERROR - Raw response is preserved in: social_science_data_raw\soc_2020i_raw.txt
+2026-02-07 00:29:51,726 - INFO - Raw API response saved to: social_science_data_raw\soc_2021i_raw.txt
+2026-02-07 00:29:51,726 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:29:51,729 - ERROR - Failed to decode JSON: Expecting ',' delimiter: line 239 column 21 (char 6342)
+2026-02-07 00:29:51,729 - ERROR - Raw response is preserved in: social_science_data_raw\soc_2021i_raw.txt
+2026-02-07 00:29:52,123 - INFO - Starting processing for: social_science_papers\soc_2019i.pdf
+2026-02-07 00:29:52,124 - INFO - Uploading file to the File API...
+2026-02-07 00:29:53,703 - INFO - Starting processing for: social_science_papers\soc_2019ii.pdf
+2026-02-07 00:29:53,703 - INFO - Uploading file to the File API...
+2026-02-07 00:29:56,508 - INFO - Raw API response saved to: social_science_data_raw\soc_2021ii_raw.txt
+2026-02-07 00:29:56,509 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:29:56,510 - ERROR - Failed to decode JSON: Expecting ',' delimiter: line 95 column 30 (char 2351)
+2026-02-07 00:29:56,512 - ERROR - Raw response is preserved in: social_science_data_raw\soc_2021ii_raw.txt
+2026-02-07 00:29:58,697 - INFO - Starting processing for: social_science_papers\soc_2018i.pdf
+2026-02-07 00:29:58,698 - INFO - Uploading file to the File API...
+2026-02-07 00:30:00,368 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/8ryv5kbrjk3s
+2026-02-07 00:30:00,369 - INFO - Generating content with Gemini...
+2026-02-07 00:30:00,869 - INFO - Raw API response saved to: social_science_data_raw\soc_2020ii_raw.txt
+2026-02-07 00:30:00,869 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:30:00,870 - INFO - Writing structured data to: social_science_data\soc_2020ii.json
+2026-02-07 00:30:00,872 - INFO - Processing complete!
+2026-02-07 00:30:00,872 - INFO - Deleting file files/xzh4nj67zk9h from the API...
+2026-02-07 00:30:00,992 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/uw8rlszfpup7
+2026-02-07 00:30:00,993 - INFO - Generating content with Gemini...
+2026-02-07 00:30:02,759 - INFO - File deleted.
+2026-02-07 00:30:02,759 - INFO - Time: 85.02 seconds (1.42 minutes)
+2026-02-07 00:30:02,761 - INFO - Starting processing for: social_science_papers\soc_2018ii.pdf
+2026-02-07 00:30:02,762 - INFO - Uploading file to the File API...
+2026-02-07 00:30:04,679 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/b7v9al6kj1zq
+2026-02-07 00:30:04,679 - INFO - Generating content with Gemini...
+2026-02-07 00:30:11,321 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/z2bpx57wh9kz
+2026-02-07 00:30:11,321 - INFO - Generating content with Gemini...
+2026-02-07 00:31:00,215 - INFO - Raw API response saved to: social_science_data_raw\soc_2019i_raw.txt
+2026-02-07 00:31:00,216 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:31:00,217 - ERROR - Failed to decode JSON: Expecting ',' delimiter: line 707 column 30 (char 17352)
+2026-02-07 00:31:00,217 - ERROR - Raw response is preserved in: social_science_data_raw\soc_2019i_raw.txt
+2026-02-07 00:31:02,370 - INFO - Starting processing for: social_science_papers\soc_2017i.pdf
+2026-02-07 00:31:02,371 - INFO - Uploading file to the File API...
+2026-02-07 00:31:02,846 - INFO - Raw API response saved to: social_science_data_raw\soc_2019ii_raw.txt
+2026-02-07 00:31:02,846 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:31:02,848 - INFO - Writing structured data to: social_science_data\soc_2019ii.json
+2026-02-07 00:31:02,850 - INFO - Processing complete!
+2026-02-07 00:31:02,850 - INFO - Deleting file files/uw8rlszfpup7 from the API...
+2026-02-07 00:31:05,435 - INFO - File deleted.
+2026-02-07 00:31:05,435 - INFO - Time: 71.73 seconds (1.20 minutes)
+2026-02-07 00:31:05,435 - INFO - Starting processing for: social_science_papers\soc_2017ii.pdf
+2026-02-07 00:31:05,437 - INFO - Uploading file to the File API...
+2026-02-07 00:31:09,689 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/jo92gb1mij42
+2026-02-07 00:31:09,690 - INFO - Generating content with Gemini...
+2026-02-07 00:31:10,101 - WARNING - ⚠️ Attempt 1/5 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 49.7184626s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 49
+}
+]
+2026-02-07 00:31:10,102 - INFO - ⏳ Rate limit reached. Retrying in 4.4s (manual rotation or wait required)...
+2026-02-07 00:31:10,797 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/2np0otpb9az6
+2026-02-07 00:31:10,798 - INFO - Generating content with Gemini...
+2026-02-07 00:31:11,092 - WARNING - ⚠️ Attempt 1/5 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 48.693802166s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 48
+}
+]
+2026-02-07 00:31:11,094 - INFO - ⏳ Rate limit reached. Retrying in 3.7s (manual rotation or wait required)...
+2026-02-07 00:31:14,650 - WARNING - ⚠️ Attempt 2/5 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 45.137324748s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 45
+}
+]
+2026-02-07 00:31:14,651 - INFO - ⏳ Rate limit reached. Retrying in 7.7s (manual rotation or wait required)...
+2026-02-07 00:31:14,921 - WARNING - ⚠️ Attempt 2/5 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 44.859049545s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 44
+}
+]
+2026-02-07 00:31:14,922 - INFO - ⏳ Rate limit reached. Retrying in 8.6s (manual rotation or wait required)...
+2026-02-07 00:31:18,303 - INFO - Raw API response saved to: social_science_data_raw\soc_2018i_raw.txt
+2026-02-07 00:31:18,304 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:31:18,305 - ERROR - Failed to decode JSON: Expecting ',' delimiter: line 168 column 31 (char 4652)
+2026-02-07 00:31:18,305 - ERROR - Raw response is preserved in: social_science_data_raw\soc_2018i_raw.txt
+2026-02-07 00:31:20,943 - INFO - Starting processing for: social_science_papers\soc_2016i.pdf
+2026-02-07 00:31:20,943 - INFO - Uploading file to the File API...
+2026-02-07 00:31:22,511 - WARNING - ⚠️ Attempt 3/5 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 37.282183293s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 37
+}
+]
+2026-02-07 00:31:22,511 - INFO - ⏳ Rate limit reached. Retrying in 28.0s (manual rotation or wait required)...
+2026-02-07 00:31:26,557 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/ai6nmmoekiga
+2026-02-07 00:31:26,558 - INFO - Generating content with Gemini...
+2026-02-07 00:31:26,930 - WARNING - ⚠️ Attempt 1/5 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 32.858474557s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 32
+}
+]
+2026-02-07 00:31:26,931 - INFO - ⏳ Rate limit reached. Retrying in 4.1s (manual rotation or wait required)...
+2026-02-07 00:31:34,587 - INFO - Raw API response saved to: social_science_data_raw\soc_2018ii_raw.txt
+2026-02-07 00:31:34,588 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:31:34,589 - ERROR - Failed to decode JSON: Expecting ',' delimiter: line 77 column 40 (char 2096)
+2026-02-07 00:31:34,591 - ERROR - Raw response is preserved in: social_science_data_raw\soc_2018ii_raw.txt
+2026-02-07 00:31:36,695 - INFO - Starting processing for: social_science_papers\soc_2016ii.pdf
+2026-02-07 00:31:36,696 - INFO - Uploading file to the File API...
+2026-02-07 00:31:42,201 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/gwiz3ia5m94i
+2026-02-07 00:31:42,201 - INFO - Generating content with Gemini...
+2026-02-07 00:31:42,595 - WARNING - ⚠️ Attempt 1/5 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 17.194361142s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 17
+}
+]
+2026-02-07 00:31:42,595 - INFO - ⏳ Rate limit reached. Retrying in 3.7s (manual rotation or wait required)...
+2026-02-07 00:31:46,480 - WARNING - ⚠️ Attempt 2/5 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 13.307905756s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 13
+}
+]
+2026-02-07 00:31:46,481 - INFO - ⏳ Rate limit reached. Retrying in 8.3s (manual rotation or wait required)...
+2026-02-07 00:31:50,716 - WARNING - ⚠️ Attempt 4/5 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 9.076993744s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 9
+}
+]
+2026-02-07 00:31:50,716 - INFO - ⏳ Rate limit reached. Retrying in 129.3s (manual rotation or wait required)...
+2026-02-07 00:31:54,950 - WARNING - ⚠️ Attempt 3/5 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 4.837357342s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 4
+}
+]
+2026-02-07 00:31:54,950 - INFO - ⏳ Rate limit reached. Retrying in 29.8s (manual rotation or wait required)...
+2026-02-07 00:32:02,351 - INFO - Raw API response saved to: social_science_data_raw\soc_2017ii_raw.txt
+2026-02-07 00:32:02,351 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:32:02,353 - INFO - Writing structured data to: social_science_data\soc_2017ii.json
+2026-02-07 00:32:02,353 - INFO - Processing complete!
+2026-02-07 00:32:02,354 - INFO - Deleting file files/2np0otpb9az6 from the API...
+2026-02-07 00:32:04,477 - INFO - File deleted.
+2026-02-07 00:32:04,477 - INFO - Time: 59.04 seconds (0.98 minutes)
+2026-02-07 00:32:04,478 - INFO - Starting processing for: social_science_papers\soc_2015i.pdf
+2026-02-07 00:32:04,479 - INFO - Uploading file to the File API...
+2026-02-07 00:32:09,315 - INFO - Raw API response saved to: social_science_data_raw\soc_2016i_raw.txt
+2026-02-07 00:32:09,316 - INFO - Cleaning and parsing the JSON response...
+2026-02-07 00:32:09,317 - INFO - Writing structured data to: social_science_data\soc_2016i.json
+2026-02-07 00:32:09,318 - INFO - Processing complete!
+2026-02-07 00:32:09,319 - INFO - Deleting file files/ai6nmmoekiga from the API...
+2026-02-07 00:32:11,421 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/a9ke9j6lx72e
+2026-02-07 00:32:11,421 - INFO - Generating content with Gemini...
+2026-02-07 00:32:11,924 - INFO - File deleted.
+2026-02-07 00:32:11,925 - INFO - Time: 50.98 seconds (0.85 minutes)
+2026-02-07 00:32:11,926 - INFO - Starting processing for: social_science_papers\soc_2015ii.pdf
+2026-02-07 00:32:11,927 - INFO - Uploading file to the File API...
+2026-02-07 00:32:12,016 - WARNING - ⚠️ Attempt 1/5 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 47.764209102s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 47
+}
+]
+2026-02-07 00:32:12,016 - INFO - ⏳ Rate limit reached. Retrying in 3.6s (manual rotation or wait required)...
+2026-02-07 00:32:15,781 - WARNING - ⚠️ Attempt 2/5 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 44.002443862s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 44
+}
+]
+2026-02-07 00:32:15,782 - INFO - ⏳ Rate limit reached. Retrying in 8.0s (manual rotation or wait required)...
+2026-02-07 00:32:17,160 - INFO - File uploaded successfully: https://generativelanguage.googleapis.com/v1beta/files/mkzfd7wj7y19
+2026-02-07 00:32:17,162 - INFO - Generating content with Gemini...
+2026-02-07 00:32:17,525 - WARNING - ⚠️ Attempt 1/5 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 42.261000522s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 42
+}
+]
+2026-02-07 00:32:17,525 - INFO - ⏳ Rate limit reached. Retrying in 3.7s (manual rotation or wait required)...
+2026-02-07 00:32:21,418 - WARNING - ⚠️ Attempt 2/5 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 38.368179168s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 38
+}
+]
+2026-02-07 00:32:21,418 - INFO - ⏳ Rate limit reached. Retrying in 7.6s (manual rotation or wait required)...
+2026-02-07 00:32:23,965 - WARNING - ⚠️ Attempt 3/5 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 35.818322482s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 35
+}
+]
+2026-02-07 00:32:23,965 - INFO - ⏳ Rate limit reached. Retrying in 28.0s (manual rotation or wait required)...
+2026-02-07 00:32:24,936 - WARNING - ⚠️ Attempt 4/5 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 34.853507218s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 34
+}
+]
+2026-02-07 00:32:24,937 - INFO - ⏳ Rate limit reached. Retrying in 127.8s (manual rotation or wait required)...
+2026-02-07 00:32:29,180 - WARNING - ⚠️ Attempt 3/5 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 30.605932736s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 30
+}
+]
+2026-02-07 00:32:29,181 - INFO - ⏳ Rate limit reached. Retrying in 29.1s (manual rotation or wait required)...
+2026-02-07 00:32:52,188 - WARNING - ⚠️ Attempt 4/5 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 7.606609831s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 7
+}
+]
+2026-02-07 00:32:52,189 - INFO - ⏳ Rate limit reached. Retrying in 127.5s (manual rotation or wait required)...
+2026-02-07 00:32:58,408 - WARNING - ⚠️ Attempt 4/5 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 1.385120629s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 1
+}
+]
+2026-02-07 00:32:58,408 - INFO - ⏳ Rate limit reached. Retrying in 128.4s (manual rotation or wait required)...
+2026-02-07 00:34:00,409 - WARNING - ⚠️ Attempt 5/5 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 59.38174023s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+}
+, retry_delay {
+  seconds: 59
+}
+]
+2026-02-07 00:34:00,409 - INFO - ⏳ Rate limit reached. Retrying in 627.2s (manual rotation or wait required)...

@@ -1,0 +1,910 @@
+```json
+[
+  {
+    "id": "obj_1",
+    "type": "objective",
+    "question": "Who was the founder of ‘Young Europe’?",
+    "prashna": "‘यंग यूरोप’ का संस्थापक कौन था?",
+    "options": {
+      "A": "Mazzini",
+      "B": "Garibaldi",
+      "C": "Victor Emmanuel",
+      "D": "Mussolini"
+    },
+    "vikalpa": {
+      "A": "मेजनी",
+      "B": "गैरीबाल्डी",
+      "C": "विक्टर इमानुएल",
+      "D": "मुसोलिनी"
+    }
+  },
+  {
+    "id": "obj_2",
+    "type": "objective",
+    "question": "Who was the ‘Sick man of Europe’?",
+    "prashna": "यूरोप का मरीज’ किसे कहा जाता था?",
+    "options": {
+      "A": "Turkey",
+      "B": "Italy",
+      "C": "England",
+      "D": "France"
+    },
+    "vikalpa": {
+      "A": "तुर्की",
+      "B": "इटली",
+      "C": "इंग्लैंड",
+      "D": "फ्रांस"
+    }
+  },
+  {
+    "id": "obj_3",
+    "type": "objective",
+    "question": "Where was Karl Marx born?",
+    "prashna": "कार्ल मार्क्स का जन्म कहाँ हुआ था?",
+    "options": {
+      "A": "Germany",
+      "B": "England",
+      "C": "France",
+      "D": "Poland"
+    },
+    "vikalpa": {
+      "A": "जर्मनी",
+      "B": "इंग्लैंड",
+      "C": "फ्रांस",
+      "D": "पोलैंड"
+    }
+  },
+  {
+    "id": "obj_4",
+    "type": "objective",
+    "question": "In which year did Gandhi ji establish the Sabarmati Ashram?",
+    "prashna": "गाँधी जी ने साबरमती आश्रम की स्थापना किस वर्ष की?",
+    "options": {
+      "A": "1895",
+      "B": "1900",
+      "C": "1915",
+      "D": "1916"
+    },
+    "vikalpa": {
+      "A": "1895",
+      "B": "1900",
+      "C": "1915",
+      "D": "1916"
+    }
+  },
+  {
+    "id": "obj_5",
+    "type": "objective",
+    "question": "Who founded the Brahmo Samaj?",
+    "prashna": "ब्रह्म समाज की स्थापना किसने की?",
+    "options": {
+      "A": "Raja Ram Mohan Roy",
+      "B": "Dayanand Saraswati",
+      "C": "Vivekananda",
+      "D": "Ramakrishna Paramhansa"
+    },
+    "vikalpa": {
+      "A": "राजा राममोहन राय",
+      "B": "दयानंद सरस्वती",
+      "C": "विवेकानंद",
+      "D": "रामकृष्ण परमहंस"
+    }
+  },
+  {
+    "id": "obj_6",
+    "type": "objective",
+    "question": "Who invented safety lamp?",
+    "prashna": "सेफ्टी लैम्प का आविष्कार किसने किया था?",
+    "options": {
+      "A": "Crompton",
+      "B": "James Hargreaves",
+      "C": "Humphry Davy",
+      "D": "John K"
+    },
+    "vikalpa": {
+      "A": "क्रॉम्पटन",
+      "B": "जेम्स हारग्रीव्स",
+      "C": "हंफ्री डेवी",
+      "D": "जॉन के"
+    }
+  },
+  {
+    "id": "obj_7",
+    "type": "objective",
+    "question": "In which year the International Labour Organization was established?",
+    "prashna": "अंतर्राष्ट्रीय श्रमिक संगठन की स्थापना किस वर्ष हुई?",
+    "options": {
+      "A": "1917",
+      "B": "1919",
+      "C": "1921",
+      "D": "1923"
+    },
+    "vikalpa": {
+      "A": "1917",
+      "B": "1919",
+      "C": "1921",
+      "D": "1923"
+    }
+  },
+  {
+    "id": "obj_8",
+    "type": "objective",
+    "question": "The purpose to built Golghar in Patna was-",
+    "prashna": "पटना में गोलघर किस उद्देश्य से बनाया गया था?",
+    "options": {
+      "A": "To keep the soldiers",
+      "B": "To keep the Arms and ammunitions",
+      "C": "To keep grains",
+      "D": "To worship"
+    },
+    "vikalpa": {
+      "A": "सैनिक रखने के लिए",
+      "B": "अस्त्र-शस्त्र रखने के लिए",
+      "C": "अनाज रखने के लिए",
+      "D": "पूजा करने के लिए"
+    }
+  },
+  {
+    "id": "obj_9",
+    "type": "objective",
+    "question": "In which country the invention of paper took place?",
+    "prashna": "कागज का आविष्कार किस देश में हुआ?",
+    "options": {
+      "A": "China",
+      "B": "Germany",
+      "C": "Japan",
+      "D": "Rome"
+    },
+    "vikalpa": {
+      "A": "चीन",
+      "B": "जर्मनी",
+      "C": "जापान",
+      "D": "रोम"
+    }
+  },
+  {
+    "id": "obj_10",
+    "type": "objective",
+    "question": "Who started the publication of the ‘Hindustan Review’?",
+    "prashna": "‘हिन्दुस्तान रिव्यू’ का प्रकाशन किसने आरम्भ किया?",
+    "options": {
+      "A": "Ramakrishna Varma",
+      "B": "Sri Krishna Singh",
+      "C": "Mazharul Haque",
+      "D": "Sachidanand Sinha"
+    },
+    "vikalpa": {
+      "A": "रामकृष्ण वर्मा",
+      "B": "श्री कृष्ण सिंह",
+      "C": "मजहरुल हक",
+      "D": "सच्चिदानंद सिन्हा"
+    }
+  },
+  {
+    "id": "obj_11",
+    "type": "objective",
+    "question": "Black soil is suitable for -",
+    "prashna": "काली मिट्टी उपयुक्त है -",
+    "options": {
+      "A": "Cotton",
+      "B": "Litchi",
+      "C": "Wheat",
+      "D": "Millet"
+    },
+    "vikalpa": {
+      "A": "कपास के लिए",
+      "B": "लीची के लिए",
+      "C": "गेहूँ के लिए",
+      "D": "बाजरा के लिए"
+    }
+  },
+  {
+    "id": "obj_12",
+    "type": "objective",
+    "question": "Highest rainfall occurs in -",
+    "prashna": "सर्वाधिक वर्षा होती है -",
+    "options": {
+      "A": "Purnia",
+      "B": "Cherrapunji",
+      "C": "Kochi",
+      "D": "Mawsynram"
+    },
+    "vikalpa": {
+      "A": "पूर्णिया में",
+      "B": "चेरापूंजी में",
+      "C": "कोच्चि में",
+      "D": "मावसिनराम में"
+    }
+  },
+  {
+    "id": "obj_13",
+    "type": "objective",
+    "question": "Brass is made of -",
+    "prashna": "पीतल बनाया जाता है -",
+    "options": {
+      "A": "Copper",
+      "B": "Zinc",
+      "C": "Copper and Zinc",
+      "D": "Copper, Zinc and Tin"
+    },
+    "vikalpa": {
+      "A": "ताँबे से",
+      "B": "जस्ते से",
+      "C": "ताँबा और जस्ता दोनों से",
+      "D": "ताँबा, जस्ता और टिन से"
+    }
+  },
+  {
+    "id": "obj_14",
+    "type": "objective",
+    "question": "Which of these is not the primary energy?",
+    "prashna": "इनमें से कौन सी प्राथमिक ऊर्जा नहीं है?",
+    "options": {
+      "A": "Natural gas",
+      "B": "Petroleum",
+      "C": "Electricity",
+      "D": "Coal"
+    },
+    "vikalpa": {
+      "A": "प्राकृतिक गैस",
+      "B": "पेट्रोलियम",
+      "C": "विद्युत",
+      "D": "कोयला"
+    }
+  },
+  {
+    "id": "obj_15",
+    "type": "objective",
+    "question": "Nepanagar is famous for -",
+    "prashna": "नेपानगर प्रसिद्ध है -",
+    "options": {
+      "A": "Sugar",
+      "B": "Cement",
+      "C": "News print paper",
+      "D": "Cotton textiles"
+    },
+    "vikalpa": {
+      "A": "चीनी के लिए",
+      "B": "सीमेंट के लिए",
+      "C": "अखबारी कागज़ के लिए",
+      "D": "सूती कपड़ों के लिए"
+    }
+  },
+  {
+    "id": "obj_16",
+    "type": "objective",
+    "question": "Pulse is the source of which nutrition?",
+    "prashna": "दाल किस पौष्टिक अंश का स्रोत है?",
+    "options": {
+      "A": "Carbohydrate",
+      "B": "Protein",
+      "C": "Vitamin D",
+      "D": "Fat"
+    },
+    "vikalpa": {
+      "A": "कार्बोहाइड्रेट",
+      "B": "प्रोटीन",
+      "C": "विटामिन D",
+      "D": "वसा"
+    }
+  },
+  {
+    "id": "obj_17",
+    "type": "objective",
+    "question": "Which industry in not based on agriculture?",
+    "prashna": "निम्नलिखित में से कौन सा उद्योग कृषि पर आधारित नहीं है?",
+    "options": {
+      "A": "Cotton cloth",
+      "B": "Cement",
+      "C": "Sugar",
+      "D": "Jute"
+    },
+    "vikalpa": {
+      "A": "सूती वस्त्र",
+      "B": "सीमेंट",
+      "C": "चीनी",
+      "D": "जूट"
+    }
+  },
+  {
+    "id": "obj_18",
+    "type": "objective",
+    "question": "Which among these is the longest National Highway?",
+    "prashna": "इनमें से कौन सा सबसे लम्बा राष्ट्रीय राजमार्ग है?",
+    "options": {
+      "A": "Highway no. $2$",
+      "B": "Highway no. $3$",
+      "C": "Highway no. $5$",
+      "D": "Highway no. $7$"
+    },
+    "vikalpa": {
+      "A": "राजमार्ग संख्या - $2$",
+      "B": "राजमार्ग संख्या - $3$",
+      "C": "राजमार्ग संख्या - $5$",
+      "D": "राजमार्ग संख्या - $7$"
+    }
+  },
+  {
+    "id": "obj_19",
+    "type": "objective",
+    "question": "The biggest port of India is -",
+    "prashna": "भारत का सबसे बड़ा बन्दरगाह है -",
+    "options": {
+      "A": "Mumbai",
+      "B": "Chennai",
+      "C": "Kolkata",
+      "D": "Kandla"
+    },
+    "vikalpa": {
+      "A": "मुंबई",
+      "B": "चेन्नई",
+      "C": "कोलकाता",
+      "D": "कांडला"
+    }
+  },
+  {
+    "id": "obj_20",
+    "type": "objective",
+    "question": "Mandar Hill is situated in which district?",
+    "prashna": "मन्दार हिल किस जिले में स्थित है?",
+    "options": {
+      "A": "Munger",
+      "B": "Bhagalpur",
+      "C": "Banka",
+      "D": "Buxar"
+    },
+    "vikalpa": {
+      "A": "मुंगेर",
+      "B": "भागलपुर",
+      "C": "बांका",
+      "D": "बक्सर"
+    }
+  },
+  {
+    "id": "obj_21",
+    "type": "objective",
+    "question": "How many women members are in the $16^{th}$ Lok Sabha?",
+    "prashna": "16 वीं लोकसभा में महिला सदस्यों की संख्या कितनी है?",
+    "options": {
+      "A": "61",
+      "B": "63",
+      "C": "65",
+      "D": "67"
+    },
+    "vikalpa": {
+      "A": "61",
+      "B": "63",
+      "C": "65",
+      "D": "67"
+    }
+  },
+  {
+    "id": "obj_22",
+    "type": "objective",
+    "question": "When was Jharkhand state formed -",
+    "prashna": "झारखंड राज्य का गठन कब हुआ था?",
+    "options": {
+      "A": "1 November 2000",
+      "B": "9 November 2000",
+      "C": "15 November 2000",
+      "D": "15 November 2001"
+    },
+    "vikalpa": {
+      "A": "1 नवम्बर 2000",
+      "B": "9 नवम्बर 2000",
+      "C": "15 नवम्बर 2000",
+      "D": "15 नवम्बर 2001"
+    }
+  },
+  {
+    "id": "obj_23",
+    "type": "objective",
+    "question": "Which party got a clear majority in the 1977 Lok Sabha election?",
+    "prashna": "1977 की लोकसभा के चुनाव में किस दल को स्पष्ट बहुमत मिला?",
+    "options": {
+      "A": "Bhartiya Janta Party",
+      "B": "Janta Party",
+      "C": "Bhartiya Rashtriya Congress",
+      "D": "Bhartiya Communist Party"
+    },
+    "vikalpa": {
+      "A": "भारतीय जनता पार्टी",
+      "B": "जनता पार्टी",
+      "C": "भारतीय राष्ट्रीय कांग्रेस",
+      "D": "भारतीय कम्युनिस्ट पार्टी"
+    }
+  },
+  {
+    "id": "obj_24",
+    "type": "objective",
+    "question": "When was the Indian National Congress established?",
+    "prashna": "भारतीय राष्ट्रीय कांग्रेस की स्थापना कब हुई?",
+    "options": {
+      "A": "1885",
+      "B": "1890",
+      "C": "1895",
+      "D": "1900"
+    },
+    "vikalpa": {
+      "A": "1885",
+      "B": "1890",
+      "C": "1895",
+      "D": "1900"
+    }
+  },
+  {
+    "id": "obj_25",
+    "type": "objective",
+    "question": "In which year the election of the $16^{th}$ Lok Sabha was held?",
+    "prashna": "सोलहवीं लोकसभा का चुनाव किस वर्ष हुआ?",
+    "options": {
+      "A": "2012",
+      "B": "2013",
+      "C": "2014",
+      "D": "2015"
+    },
+    "vikalpa": {
+      "A": "2012",
+      "B": "2013",
+      "C": "2014",
+      "D": "2015"
+    }
+  },
+  {
+    "id": "obj_26",
+    "type": "objective",
+    "question": "Who is the head of the village kutchery?",
+    "prashna": "ग्राम कचहरी का प्रधान कौन होता है?",
+    "options": {
+      "A": "Panch",
+      "B": "Sarpanch",
+      "C": "Pramukh",
+      "D": "Justice friend"
+    },
+    "vikalpa": {
+      "A": "पंच",
+      "B": "सरपंच",
+      "C": "प्रमुख",
+      "D": "न्यायमित्र"
+    }
+  },
+  {
+    "id": "obj_27",
+    "type": "objective",
+    "question": "What is the election symbol of the Bhartiya Janta party?",
+    "prashna": "भारतीय जनता पार्टी का चुनाव चिन्ह क्या है?",
+    "options": {
+      "A": "Hand paw",
+      "B": "Lotus flower",
+      "C": "Marigold",
+      "D": "Wheel"
+    },
+    "vikalpa": {
+      "A": "हाथ का पंजा",
+      "B": "कमल का फूल",
+      "C": "गेंदा का फूल",
+      "D": "चक्र"
+    }
+  },
+  {
+    "id": "obj_28",
+    "type": "objective",
+    "question": "“Democracy is of the people, for the people and by the people”. Whose statement is this?",
+    "prashna": "“लोकतंत्र जनता का, जनता के द्वारा और जनता के लिए शासन है।” यह कथन किसका है?",
+    "options": {
+      "A": "Aristotle",
+      "B": "George Washington",
+      "C": "Abraham Lincoln",
+      "D": "Lord Bryce"
+    },
+    "vikalpa": {
+      "A": "अरस्तू",
+      "B": "जॉर्ज वाशिंगटन",
+      "C": "अब्राहम लिंकन",
+      "D": "लार्ड ब्राइस"
+    }
+  },
+  {
+    "id": "obj_29",
+    "type": "objective",
+    "question": "The Lichchhavi Republic was located in which state of India?",
+    "prashna": "लिच्छवि गणतंत्र भारत के किस राज्य में अवस्थित था?",
+    "options": {
+      "A": "Bihar",
+      "B": "Rajasthan",
+      "C": "Maharashtra",
+      "D": "Tripura"
+    },
+    "vikalpa": {
+      "A": "बिहार",
+      "B": "राजस्थान",
+      "C": "महाराष्ट्र",
+      "D": "त्रिपुरा"
+    }
+  },
+  {
+    "id": "obj_30",
+    "type": "objective",
+    "question": "Under NREGA, what is the provision of minimum number of days of employment for rural laborers in a year?",
+    "prashna": "नरेगा के अंतर्गत ग्रामीण मजदूरों को साल में कम से कम कितने दिनों के लिए रोजगार देने की व्यवस्था है?",
+    "options": {
+      "A": "For 100 days",
+      "B": "For 125 days",
+      "C": "For 150 days",
+      "D": "For 200 days"
+    },
+    "vikalpa": {
+      "A": "100 दिनों के लिए",
+      "B": "125 दिनों के लिए",
+      "C": "150 दिनों के लिए",
+      "D": "200 दिनों के लिए"
+    }
+  },
+  {
+    "id": "obj_31",
+    "type": "objective",
+    "question": "When the Planning Commission was established in India?",
+    "prashna": "भारत में योजना आयोग का गठन कब किया गया था?",
+    "options": {
+      "A": "15 March 1950",
+      "B": "15 September 1950",
+      "C": "15 October 1951",
+      "D": "None of these"
+    },
+    "vikalpa": {
+      "A": "15 मार्च 1950",
+      "B": "15 सितम्बर 1950",
+      "C": "15 अक्टूबर 1951",
+      "D": "इनमें से कोई नहीं"
+    }
+  },
+  {
+    "id": "obj_32",
+    "type": "objective",
+    "question": "How many Nationalized banks are there in India?",
+    "prashna": "भारत में कितने राष्ट्रीयकृत बैंक हैं?",
+    "options": {
+      "A": "14",
+      "B": "19",
+      "C": "20",
+      "D": "27"
+    },
+    "vikalpa": {
+      "A": "14",
+      "B": "19",
+      "C": "20",
+      "D": "27"
+    }
+  },
+  {
+    "id": "obj_33",
+    "type": "objective",
+    "question": "Bangladeshi economist honoured with Nobel Prize is-",
+    "prashna": "नोबेल पुरस्कार से सम्मानित बांग्लादेशी अर्थशास्त्री हैं –",
+    "options": {
+      "A": "Prof. Iqbal Yunus",
+      "B": "Md. Iqbal Yunus",
+      "C": "Prof. Md. Yunus",
+      "D": "Md. Shafik Yunus"
+    },
+    "vikalpa": {
+      "A": "प्रो. इकबाल यूनुस",
+      "B": "मो. इकबाल यूनुस",
+      "C": "प्रो. मो. यूनुस",
+      "D": "मो. शफीक यूनुस"
+    }
+  },
+  {
+    "id": "obj_34",
+    "type": "objective",
+    "question": "What are the key components of human capital?",
+    "prashna": "मानव पूंजी के प्रमुख घटक है –",
+    "options": {
+      "A": "Knowledge",
+      "B": "Skill",
+      "C": "Experience",
+      "D": "All of these"
+    },
+    "vikalpa": {
+      "A": "ज्ञान",
+      "B": "कौशल",
+      "C": "अनुभव",
+      "D": "इनमें से सभी"
+    }
+  },
+  {
+    "id": "obj_35",
+    "type": "objective",
+    "question": "When the government of India passed the ‘Right to Information Act’?",
+    "prashna": "भारत सरकार ने ‘सूचना का अधिकार अधिनियम’ कब पारित किया?",
+    "options": {
+      "A": "2004",
+      "B": "2005",
+      "C": "2006",
+      "D": "2007"
+    },
+    "vikalpa": {
+      "A": "2004",
+      "B": "2005",
+      "C": "2006",
+      "D": "2007"
+    }
+  },
+  {
+    "id": "obj_36",
+    "type": "objective",
+    "question": "Jawahar Rozgar yojana was implemented in -",
+    "prashna": "जवाहर रोजगार योजना लागू हुई –",
+    "options": {
+      "A": "1988",
+      "B": "1989",
+      "C": "1990",
+      "D": "1991"
+    },
+    "vikalpa": {
+      "A": "1988",
+      "B": "1989",
+      "C": "1990",
+      "D": "1991"
+    }
+  },
+  {
+    "id": "obj_37",
+    "type": "objective",
+    "question": "Which of the following is not foreign brand?",
+    "prashna": "निम्न में से कौन विदेशी ब्राण्ड नहीं है?",
+    "options": {
+      "A": "Hyundai",
+      "B": "Toyota",
+      "C": "Ford",
+      "D": "TATA"
+    },
+    "vikalpa": {
+      "A": "हुंडई",
+      "B": "टोयोटा",
+      "C": "फोर्ड",
+      "D": "टाटा"
+    }
+  },
+  {
+    "id": "obj_38",
+    "type": "objective",
+    "question": "When the world Trade Organization was founded?",
+    "prashna": "विश्व – व्यापार संगठन (WTO) की स्थापना कब हुई?",
+    "options": {
+      "A": "1992",
+      "B": "1993",
+      "C": "1994",
+      "D": "1995"
+    },
+    "vikalpa": {
+      "A": "1992",
+      "B": "1993",
+      "C": "1994",
+      "D": "1995"
+    }
+  },
+  {
+    "id": "obj_39",
+    "type": "objective",
+    "question": "Which of these is not a natural disaster?",
+    "prashna": "इनमें से कौन सी प्राकृतिक आपदा नहीं है?",
+    "options": {
+      "A": "Terrorism",
+      "B": "Tsunami",
+      "C": "Flood",
+      "D": "Earthquake"
+    },
+    "vikalpa": {
+      "A": "आतंकवाद",
+      "B": "सुनामी",
+      "C": "बाढ़",
+      "D": "भूकम्प"
+    }
+  },
+  {
+    "id": "obj_40",
+    "type": "objective",
+    "question": "The most devastating earthquake in India occurred in-",
+    "prashna": "भारत में अत्यन्त विनाशकारी भूकम्प आया था –",
+    "options": {
+      "A": "1934",
+      "B": "1948",
+      "C": "1967",
+      "D": "1990"
+    },
+    "vikalpa": {
+      "A": "1934 में",
+      "B": "1948 में",
+      "C": "1967 में",
+      "D": "1990 में"
+    }
+  },
+  {
+    "id": "short_1",
+    "type": "short_answer",
+    "question": "What do you mean by October Revolution?",
+    "prashna": "अक्टूबर क्रांति से आप क्या समझते हैं?"
+  },
+  {
+    "id": "short_2",
+    "type": "short_answer",
+    "question": "What was the result of the Civil Disobedience Movement?",
+    "prashna": "सविनय अवज्ञा आन्दोलन का क्या परिणाम हुआ?"
+  },
+  {
+    "id": "short_3",
+    "type": "short_answer",
+    "question": "Describe any two causes of the First World War.",
+    "prashna": "प्रथम विश्व युद्ध के किन्हीं दो कारणों का वर्णन करें।"
+  },
+  {
+    "id": "short_4",
+    "type": "short_answer",
+    "question": "What is world market?",
+    "prashna": "विश्व बाजार किसे कहते हैं?"
+  },
+  {
+    "id": "short_5",
+    "type": "short_answer",
+    "question": "What is manuscript? What is its utility?",
+    "prashna": "पाण्डुलिपि क्या है? इसकी क्या उपयोगिता है?"
+  },
+  {
+    "id": "long_1",
+    "type": "long_answer",
+    "question": "Throw light on the life and achievements of Lenin.",
+    "prashna": "लेनिन के जीवन एवं उपलब्धियों पर प्रकाश डालें।"
+  },
+  {
+    "id": "long_2",
+    "type": "long_answer",
+    "question": "Write the characteristics of the Indian press.",
+    "prashna": "भारतीय प्रेस की विशेषताओं को लिखें।"
+  },
+  {
+    "id": "short_6",
+    "type": "short_answer",
+    "question": "What will you do to promote communal harmony?",
+    "prashna": "साम्प्रदायिक सद्भाव को प्रोत्साहित करने के लिए आप क्या करेंगे?"
+  },
+  {
+    "id": "short_7",
+    "type": "short_answer",
+    "question": "What are the main objectives of Chipko Movement?",
+    "prashna": "चिपको आन्दोलन के मुख्य उद्देश्य क्या हैं?"
+  },
+  {
+    "id": "short_8",
+    "type": "short_answer",
+    "question": "Describe four problems of Indian Democracy.",
+    "prashna": "भारतीय लोकतंत्र की किन्हीं चार समस्याओं का वर्णन करें।"
+  },
+  {
+    "id": "short_9",
+    "type": "short_answer",
+    "question": "What is secular state?",
+    "prashna": "धर्म निरपेक्ष राज्य किसे कहते हैं?"
+  },
+  {
+    "id": "short_10",
+    "type": "short_answer",
+    "question": "What is concurrent list?",
+    "prashna": "समवर्ती सूची क्या है?"
+  },
+  {
+    "id": "short_11",
+    "type": "short_answer",
+    "question": "Suggest two measures to make political parties more effective.",
+    "prashna": "राजनीतिक दलों को प्रभावशाली बनाने के दो सुझाव दें।"
+  },
+  {
+    "id": "long_3",
+    "type": "long_answer",
+    "question": "Write any four causes of Communalism.",
+    "prashna": "साम्प्रदायिकता के किन्हीं चार कारणों को लिखें।"
+  },
+  {
+    "id": "long_4",
+    "type": "long_answer",
+    "question": "Write main functions of Political Parties.",
+    "prashna": "राजनीतिक दलों के प्रमुख कार्य बताऐं।"
+  },
+  {
+    "id": "short_12",
+    "type": "short_answer",
+    "question": "What is the importance of economic infrastructure?",
+    "prashna": "आर्थिक आधारभूत संरचना का क्या महत्व है?"
+  },
+  {
+    "id": "short_13",
+    "type": "short_answer",
+    "question": "What do you mean by cooperative?",
+    "prashna": "सहकारिता से आप क्या समझते हैं?"
+  },
+  {
+    "id": "short_14",
+    "type": "short_answer",
+    "question": "What are the different ways by which consumers get exploited?",
+    "prashna": "उपभोक्ताओं के शोषण के कौन – कौन से तरीके हैं?"
+  },
+  {
+    "id": "long_5",
+    "type": "long_answer",
+    "question": "What are the reasons for economic backwardness of Bihar?",
+    "prashna": "बिहार के आर्थिक पिछड़ेपन के क्या कारण हैं?"
+  },
+  {
+    "id": "long_6",
+    "type": "long_answer",
+    "question": "Explain the effects of globalization on Bihar.",
+    "prashna": "वैश्वीकरण से बिहार पर पड़े प्रभावों को समझायें।"
+  },
+  {
+    "id": "short_15",
+    "type": "short_answer",
+    "question": "Why is the preservation of natural resources necessary?",
+    "prashna": "प्राकृतिक संसाधनों का संरक्षण क्यों आवश्यक है?"
+  },
+  {
+    "id": "short_16",
+    "type": "short_answer",
+    "question": "Why is Maharashtra famous for the production of cotton?",
+    "prashna": "कपास के उत्पादन में महाराष्ट्र क्यों प्रसिद्ध है?"
+  },
+  {
+    "id": "short_17",
+    "type": "short_answer",
+    "question": "Why is petroleum more important than coal?",
+    "prashna": "पेट्रोलियम का महत्व कोयले से अधिक क्यों है?"
+  },
+  {
+    "id": "short_18",
+    "type": "short_answer",
+    "question": "How does pollution spread from industries?",
+    "prashna": "उद्योगों से प्रदूषण कैसे फैलता है?"
+  },
+  {
+    "id": "short_19",
+    "type": "short_answer",
+    "question": "What is the importance of water ways for India?",
+    "prashna": "भारत के लिए जलमार्ग का क्या महत्व है?"
+  },
+  {
+    "id": "long_7",
+    "type": "long_answer",
+    "question": "Describe the effects of mining activity on the economy.",
+    "prashna": "अर्थव्यवस्था पर खनन – कार्य के प्रभावों का वर्णन करें।"
+  },
+  {
+    "id": "long_8",
+    "type": "long_answer",
+    "question": "Describe the characteristics of Indian Rail Transport.",
+    "prashna": "भारतीय रेल परिवहन की विशेषताओं का वर्णन करें।"
+  },
+  {
+    "id": "short_20",
+    "type": "short_answer",
+    "question": "What do you mean by Disaster?",
+    "prashna": "आपदा से आप क्या समझते हैं?"
+  },
+  {
+    "id": "short_21",
+    "type": "short_answer",
+    "question": "Discuss the damages caused by flood.",
+    "prashna": "बाढ़ से होने वाली हानियों की विवेचना कीजिए।"
+  },
+  {
+    "id": "short_22",
+    "type": "short_answer",
+    "question": "Mention any two measures for safety from earthquake.",
+    "prashna": "भूकम्प से बचाव के किन्हीं दो उपायों का उल्लेख करें।"
+  },
+  {
+    "id": "short_23",
+    "type": "short_answer",
+    "question": "Mention the measure for safety from Tsunami.",
+    "prashna": "सुनामी से बचाव के उपायों का उल्लेख करें।"
+  }
+]
+```

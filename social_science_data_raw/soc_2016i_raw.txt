@@ -1,0 +1,332 @@
+```json
+[
+  {
+    "id": "obj_1",
+    "type": "objective",
+    "question": "Who were the first traders to reach Indo-China ?",
+    "prashna": "हिन्द-चीन पहुँचने वाले प्रथम व्यापारी कौन थे ?",
+    "options": {
+      "A": "English",
+      "B": "French",
+      "C": "Portuguese",
+      "D": "Dutch"
+    },
+    "vikalpa": {
+      "A": "अंग्रेज",
+      "B": "फ्रांसीसी",
+      "C": "पुर्तगाली",
+      "D": "डच"
+    }
+  },
+  {
+    "id": "obj_2",
+    "type": "objective",
+    "question": "When did Rampa rebellion take place ?",
+    "prashna": "रम्पा विद्रोह कब हुआ ?",
+    "options": {
+      "A": "$1916$",
+      "B": "$1917$",
+      "C": "$1918$",
+      "D": "$1919$"
+    },
+    "vikalpa": {
+      "A": "$1916$ में",
+      "B": "$1917$ में",
+      "C": "$1918$ में",
+      "D": "$1919$ में"
+    }
+  },
+  {
+    "id": "short_1",
+    "type": "short_answer",
+    "question": ".......... was the leader of Khilafat movement in India.",
+    "prashna": ".......... भारत में खिलाफत आन्दोलन के नेता थे।"
+  },
+  {
+    "id": "short_2",
+    "type": "short_answer",
+    "question": "In $1838$ the chartist movement began in ..........",
+    "prashna": "सन् $1838$ में .......... में चार्टिस्ट आन्दोलन की शुरुआत हुई।"
+  },
+  {
+    "id": "short_3",
+    "type": "short_answer",
+    "question": "Explain the thoughts of European socialists.",
+    "prashna": "यूरोपीय समाजवादियों के विचारों का वर्णन करें।"
+  },
+  {
+    "id": "short_4",
+    "type": "short_answer",
+    "question": "Throw light on the social causes of the rise of nationalism in India.",
+    "prashna": "भारत में राष्ट्रवाद के उदय के सामाजिक कारणों पर प्रकाश डालें।"
+  },
+  {
+    "id": "short_5",
+    "type": "short_answer",
+    "question": "How did Gutenberg develop the printing machine ?",
+    "prashna": "गुटेनबर्ग ने मुद्रण यंत्र का विकास कैसे किया ?"
+  },
+  {
+    "id": "long_1_1",
+    "type": "long_answer",
+    "question": "What do you mean by colonization ? How did industrialisation give birth to colonization ? Explain.",
+    "prashna": "उपनिवेशवाद से आप क्या समझते हैं ? औद्योगिकीकरण ने उपनिवेशवाद को कैसे जन्म दिया ? वर्णन करें।"
+  },
+  {
+    "id": "long_1_2",
+    "type": "long_answer",
+    "question": "Clarify the differences between rural life and urban life.",
+    "prashna": "ग्रामीण तथा नगरीय जीवन में बीच की भिन्नताओं को स्पष्ट करें।"
+  },
+  {
+    "id": "obj_3",
+    "type": "objective",
+    "question": "In which state is desert soil found ?",
+    "prashna": "मरुस्थलीय मृदा किस राज्य में पाया जाता है ?",
+    "options": {
+      "A": "Uttar Pradesh",
+      "B": "Rajasthan",
+      "C": "Karnataka",
+      "D": "Maharashtra"
+    },
+    "vikalpa": {
+      "A": "उत्तर प्रदेश",
+      "B": "राजस्थान",
+      "C": "कर्नाटक",
+      "D": "महाराष्ट्र"
+    }
+  },
+  {
+    "id": "obj_4",
+    "type": "objective",
+    "question": "What geographical area of Bihar is covered with forest ?",
+    "prashna": "बिहार के कितने भौगोलिक क्षेत्र पर वन का फैलाव है ?",
+    "options": {
+      "A": "$15\\%$",
+      "B": "$20\\%$",
+      "C": "$30\\%$",
+      "D": "$7\\%$"
+    },
+    "vikalpa": {
+      "A": "$15\\%$",
+      "B": "$20\\%$",
+      "C": "$30\\%$",
+      "D": "$7\\%$"
+    }
+  },
+  {
+    "id": "short_6",
+    "type": "short_answer",
+    "question": "Fill in the blanks with appropriate words :",
+    "prashna": "सही शब्द से रिक्त स्थानों की पूर्ति करें :",
+    "sub_questions": {
+      "A": "Mandar hill is situated in .......... district.",
+      "B": "Concentration of .......... element has increased due to excess of water exploitation in Bihar."
+    },
+    "anuprashna": {
+      "A": "मन्दार हिल .......... जिला में है।",
+      "B": "बिहार में अति-जल-दोहन से .......... तत्व का संकेन्द्रण बढ़ा है।"
+    }
+  },
+  {
+    "id": "short_7",
+    "type": "short_answer",
+    "question": "Write two main factors of deforestation in Bihar.",
+    "prashna": "बिहार में वन विनाश के दो मुख्य कारकों को लिखें।"
+  },
+  {
+    "id": "short_8",
+    "type": "short_answer",
+    "question": "Differentiate between bench mark and spot height.",
+    "prashna": "तल चिह्न और स्थानिक ऊँचाई में अन्तर स्पष्ट करें।"
+  },
+  {
+    "id": "short_9",
+    "type": "short_answer",
+    "question": "What do you mean by Green revolution ?",
+    "prashna": "हरित क्रांति से आप क्या समझते हैं ?"
+  },
+  {
+    "id": "long_2_1",
+    "type": "long_answer",
+    "question": "Describe the contribution of industries on Indian economy in detail.",
+    "prashna": "भारतीय अर्थव्यवस्था में उद्योगों के योगदान का विस्तार पूर्वक वर्णन करें।"
+  },
+  {
+    "id": "long_2_2",
+    "type": "long_answer",
+    "question": "Draw the outline map of India on full page and mark the following :",
+    "prashna": "पूरे पृष्ठ पर भारत का एक रेखा मानचित्र बनाइए तथा निम्नलिखित को अंकित कीजिए :",
+    "sub_questions": {
+      "A": "Raniganj",
+      "B": "Ankleshwar",
+      "C": "Barauni",
+      "D": "Kalpakkam",
+      "E": "Sundarban region"
+    },
+    "anuprashna": {
+      "A": "रानीगंज",
+      "B": "अंकलेश्वर",
+      "C": "बरौनी",
+      "D": "कलपक्कम",
+      "E": "सुन्दरवन क्षेत्र"
+    }
+  },
+  {
+    "id": "long_2_3",
+    "type": "long_answer",
+    "question": "Describe the wheat farming of India in detail. (Only for Blind Candidates)",
+    "prashna": "भारत में गेहूँ की खेती का विस्तार पूर्वक वर्णन करें। (केवल नेत्रहीन छात्रों के लिए)"
+  },
+  {
+    "id": "obj_5",
+    "type": "objective",
+    "question": "How many seats are reserved for women in Panchayati Raj institutions in Bihar ?",
+    "prashna": "बिहार में पंचायती राज संस्थाओं में महिलाओं के लिए कितनी सीटें आरक्षित हैं ?",
+    "options": {
+      "A": "$50\\%$",
+      "B": "$25\\%$",
+      "C": "$33\\%$",
+      "D": "None of these"
+    },
+    "vikalpa": {
+      "A": "$50\\%$",
+      "B": "$25\\%$",
+      "C": "$33\\%$",
+      "D": "इनमें से कोई नहीं"
+    }
+  },
+  {
+    "id": "obj_6",
+    "type": "objective",
+    "question": "From which state was the Right to Information movement started ?",
+    "prashna": "सूचना के अधिकार आन्दोलन की शुरुआत किस राज्य से हुई ?",
+    "options": {
+      "A": "Rajasthan",
+      "B": "Delhi",
+      "C": "Tamil Nadu",
+      "D": "Bihar"
+    },
+    "vikalpa": {
+      "A": "राजस्थान",
+      "B": "दिल्ली",
+      "C": "तमिलनाडु",
+      "D": "बिहार"
+    }
+  },
+  {
+    "id": "short_10",
+    "type": "short_answer",
+    "question": "What is secret ballot ?",
+    "prashna": "गुप्त मतदान पत्र क्या है ?"
+  },
+  {
+    "id": "short_11",
+    "type": "short_answer",
+    "question": "Describe the formation and powers of Gram Kachhari.",
+    "prashna": "ग्राम कचहरी के गठन एवं शक्ति का वर्णन करें।"
+  },
+  {
+    "id": "short_12",
+    "type": "short_answer",
+    "question": "What is sexual inequality ?",
+    "prashna": "लैंगिक असमानता क्या है ?"
+  },
+  {
+    "id": "long_3_1",
+    "type": "long_answer",
+    "question": "How do familycracy and casteism affect the democracy in Bihar ?",
+    "prashna": "परिवारवाद और जातिवाद बिहार में किस तरह लोकतंत्र को प्रभावित करते हैं ?"
+  },
+  {
+    "id": "long_3_2",
+    "type": "long_answer",
+    "question": "Why are the political parties essential for democracy ?",
+    "prashna": "लोकतंत्र के लिए राजनीतिक दल क्यों आवश्यक है ?"
+  },
+  {
+    "id": "obj_7",
+    "type": "objective",
+    "question": "Which one of the following is not a Bimaru state ?",
+    "prashna": "निम्न में कौन एक बीमारू राज्य नहीं है ?",
+    "options": {
+      "A": "Bihar",
+      "B": "Madhya Pradesh",
+      "C": "Odisha",
+      "D": "Karnataka"
+    },
+    "vikalpa": {
+      "A": "बिहार",
+      "B": "मध्य प्रदेश",
+      "C": "उडीसा",
+      "D": "कर्नाटक"
+    }
+  },
+  {
+    "id": "obj_8",
+    "type": "objective",
+    "question": "When did nationalisation of commercial banks take place ?",
+    "prashna": "वाणिज्यिक बैंकों का राष्ट्रीयकरण कब हुआ था ?",
+    "options": {
+      "A": "$1966$",
+      "B": "$1969$",
+      "C": "$1980$",
+      "D": "$1975$"
+    },
+    "vikalpa": {
+      "A": "$1966$ में",
+      "B": "$1969$ में",
+      "C": "$1980$ में",
+      "D": "$1975$ में"
+    }
+  },
+  {
+    "id": "short_13",
+    "type": "short_answer",
+    "question": "What is mixed economy ?",
+    "prashna": "मिश्रित अर्थव्यवस्था क्या है ?"
+  },
+  {
+    "id": "short_14",
+    "type": "short_answer",
+    "question": "What is economic planning ?",
+    "prashna": "आर्थिक नियोजन क्या है ?"
+  },
+  {
+    "id": "short_15",
+    "type": "short_answer",
+    "question": "What is Gross Domestic Product ?",
+    "prashna": "सकल घरेलू उत्पाद क्या है ?"
+  },
+  {
+    "id": "long_4_1",
+    "type": "long_answer",
+    "question": "Give the definition of National Income. What are the main processes of its measurement ?",
+    "prashna": "राष्ट्रीय आय की परिभाषा दें। उसकी गणना की प्रमुख विधियाँ कौन-सी हैं ?"
+  },
+  {
+    "id": "long_4_2",
+    "type": "long_answer",
+    "question": "What are the effects of globalisation on common people in India ?",
+    "prashna": "भारत में सामान्य व्यक्ति पर वैश्वीकरण का क्या प्रभाव पड़ा ?"
+  },
+  {
+    "id": "obj_9",
+    "type": "objective",
+    "question": "To which place should we go at the time of flood ?",
+    "prashna": "बाढ़ के समय हमें निम्नलिखित में से किस स्थान पर जाना चाहिए ?",
+    "options": {
+      "A": "Place with high ground",
+      "B": "Outside the village",
+      "C": "Stay at the same place where we are",
+      "D": "In the fields"
+    },
+    "vikalpa": {
+      "A": "ऊँची भूमि वाले स्थान पर",
+      "B": "गाँव के बाहर",
+      "C": "जहाँ हैं उसी स्थान पर रहना",
+      "D": "खेतों में"
+    }
+  }
+]
+```
