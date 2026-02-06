@@ -1,0 +1,418 @@
+```json
+[
+  {
+    "id": "obj_1",
+    "type": "objective",
+    "question": "Distance between the points $(2, 3)$ and $(-2, 3)$ will be",
+    "prashna": "बिन्दु $(2, 3)$ एवं $(-2, 3)$ के बीच की दूरी होगी",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "$\\sqrt{3}$",
+      "D": "5"
+    },
+    "vikalpa": {
+      "A": "3",
+      "B": "4",
+      "C": "$\\sqrt{3}$",
+      "D": "5"
+    }
+  },
+  {
+    "id": "obj_2",
+    "type": "objective",
+    "question": "If $\\alpha$ and $\\beta$ are the zeros of quadratic polynomial $q(x) = x^2 - x + 4$, then the value of $\\alpha + \\beta$ will be",
+    "prashna": "यदि द्विघात बहुपद $q(x) = x^2 - x + 4$ के शून्यक $\\alpha, \\beta$ हों, तब $\\alpha + \\beta$ का मान होगा",
+    "options": {
+      "A": "-1",
+      "B": "4",
+      "C": "1",
+      "D": "0"
+    },
+    "vikalpa": {
+      "A": "-1",
+      "B": "4",
+      "C": "1",
+      "D": "0"
+    }
+  },
+  {
+    "id": "obj_3",
+    "type": "objective",
+    "question": "If the ratio of areas of two circles is $4 : 9$, then the ratio of their radii will be",
+    "prashna": "दो वृत्तों के क्षेत्रफल $4 : 9$ के अनुपात में हैं। इनकी त्रिज्याओं का अनुपात होगा",
+    "options": {
+      "A": "3 : 4",
+      "B": "2 : 3",
+      "C": "5 : 3",
+      "D": "none of these"
+    },
+    "vikalpa": {
+      "A": "3 : 4",
+      "B": "2 : 3",
+      "C": "5 : 3",
+      "D": "इनमें से कोई नहीं"
+    }
+  },
+  {
+    "id": "obj_4",
+    "type": "objective",
+    "question": "$\\sec^2 \\theta - 1$ is equal to",
+    "prashna": "$\\sec^2 \\theta - 1$ का मान है",
+    "options": {
+      "A": "$\\csc^2 \\theta$",
+      "B": "$\\sin^2 \\theta$",
+      "C": "$\\tan^2 \\theta$",
+      "D": "$\\cot^2 \\theta$"
+    },
+    "vikalpa": {
+      "A": "$\\csc^2 \\theta$",
+      "B": "$\\sin^2 \\theta$",
+      "C": "$\\tan^2 \\theta$",
+      "D": "$\\cot^2 \\theta$"
+    }
+  },
+  {
+    "id": "obj_5",
+    "type": "objective",
+    "question": "If $l \\parallel m$, then the value of $d$ will be (based on the figure showing consecutive interior angles $3d + 50^\\circ$ and $2d + 20^\\circ$)",
+    "prashna": "यदि $l \\parallel m$ हो, तब $d$ का मान होगा (चित्रानुसार जिसमें अंतः कोण $3d + 50^\\circ$ तथा $2d + 20^\\circ$ दिए गए हैं)",
+    "options": {
+      "A": "22^\\circ",
+      "B": "30^\\circ",
+      "C": "45^\\circ",
+      "D": "80^\\circ"
+    },
+    "vikalpa": {
+      "A": "22^\\circ",
+      "B": "30^\\circ",
+      "C": "45^\\circ",
+      "D": "80^\\circ"
+    }
+  },
+  {
+    "id": "obj_6",
+    "type": "objective",
+    "question": "If $E$ is an event, then the value of $P(E) + P(E')$ will be",
+    "prashna": "यदि $E$ कोई घटना हो, तब $P(E) + P(E')$ का मान होगा",
+    "options": {
+      "A": "2",
+      "B": "1",
+      "C": "-1",
+      "D": "none of these"
+    },
+    "vikalpa": {
+      "A": "2",
+      "B": "1",
+      "C": "-1",
+      "D": "इनमें से कोई नहीं"
+    }
+  },
+  {
+    "id": "obj_7",
+    "type": "objective",
+    "question": "The mode of $3, 4, 7, 2, 7, 6, 7, 9$ will be",
+    "prashna": "$3, 4, 7, 2, 7, 6, 7, 9$ का बहुलक होगा",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "7",
+      "D": "9"
+    },
+    "vikalpa": {
+      "A": "2",
+      "B": "3",
+      "C": "7",
+      "D": "9"
+    }
+  },
+  {
+    "id": "obj_8",
+    "type": "objective",
+    "question": "When first term is 2 and common difference is 3 in an A.P., then three terms of the A.P. will be",
+    "prashna": "जब A.P. के प्रथम पद 2 तथा सार्व अंतर 3 हो, तब A.P. के तीन पद होंगे",
+    "options": {
+      "A": "2, 6, 9",
+      "B": "2, 5, 8",
+      "C": "2, 6, 10",
+      "D": "2, 5, 9"
+    },
+    "vikalpa": {
+      "A": "2, 6, 9",
+      "B": "2, 5, 8",
+      "C": "2, 6, 10",
+      "D": "2, 5, 9"
+    }
+  },
+  {
+    "id": "obj_9",
+    "type": "objective",
+    "question": "The value of $\\sin \\frac{\\pi}{4} - \\cos \\frac{\\pi}{4}$ will be",
+    "prashna": "$\\sin \\frac{\\pi}{4} - \\cos \\frac{\\pi}{4}$ का मान होगा",
+    "options": {
+      "A": "2",
+      "B": "0",
+      "C": "-1",
+      "D": "1"
+    },
+    "vikalpa": {
+      "A": "2",
+      "B": "0",
+      "C": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "id": "obj_10",
+    "type": "objective",
+    "question": "Area of sector of angle $\\theta$ will be",
+    "prashna": "कोण $\\theta$ वाले त्रिज्यखण्ड का क्षेत्रफल होगा",
+    "options": {
+      "A": "$\\frac{\\theta}{270} \\times \\pi r^3$",
+      "B": "$\\frac{\\theta}{360} \\times \\pi r$",
+      "C": "$\\frac{\\theta}{270} \\times \\pi r^2$",
+      "D": "$\\frac{\\theta}{360} \\times \\pi r^2$"
+    },
+    "vikalpa": {
+      "A": "$\\frac{\\theta}{270} \\times \\pi r^3$",
+      "B": "$\\frac{\\theta}{360} \\times \\pi r$",
+      "C": "$\\frac{\\theta}{270} \\times \\pi r^2$",
+      "D": "$\\frac{\\theta}{360} \\times \\pi r^2$"
+    }
+  },
+  {
+    "id": "short_11",
+    "type": "short_answer",
+    "question": "Distance of $P(3, -4)$ from the origin will be __________.",
+    "prashna": "मूल बिन्दु से $P(3, -4)$ की दूरी __________ होगी।"
+  },
+  {
+    "id": "short_12",
+    "type": "short_answer",
+    "question": "9th term of an A.P. $2, 5, 8, 11, \\dots$ is __________.",
+    "prashna": "A.P. $2, 5, 8, 11, \\dots$ का 9वाँ पद __________ होगा।"
+  },
+  {
+    "id": "short_13",
+    "type": "short_answer",
+    "question": "Class mark = $\\frac{\\text{upper limit} + \\text{lower limit}}{2}$",
+    "prashna": "वर्ग चिह्न = $\\frac{\\text{ऊपरी वर्ग सीमा} + \\text{निम्न वर्ग सीमा}}{2}$"
+  },
+  {
+    "id": "short_14",
+    "type": "short_answer",
+    "question": "The tangents drawn from any external point on the given circle are __________.",
+    "prashna": "किसी वृत्त के बाह्य बिन्दु से वृत्त पर खींची गयी स्पर्श रेखाएँ __________ होती हैं।"
+  },
+  {
+    "id": "short_15",
+    "type": "short_answer",
+    "question": "If the ratio of areas of two circles is $14 : 9$, then the ratio of their radii will be __________.",
+    "prashna": "दो वृत्तों के क्षेत्रफल $14 : 9$ के अनुपात में हैं। इनकी त्रिज्याओं का अनुपात __________ होगा।"
+  },
+  {
+    "id": "short_16",
+    "type": "short_answer",
+    "question": "If $\\sqrt{3} \\tan \\theta = 1$, then $\\theta = $ __________.",
+    "prashna": "यदि $\\sqrt{3} \\tan \\theta = 1$, तो $\\theta = $ __________।"
+  },
+  {
+    "id": "short_17",
+    "type": "short_answer",
+    "question": "If $\\alpha$ and $\\beta$ are the roots of quadratic equation $cx^2 - bx + a = 0$, then $\\alpha^2 + \\beta^2 = $ __________.",
+    "prashna": "यदि द्विघातीय समीकरण $cx^2 - bx + a = 0$ के मूल $\\alpha$ एवं $\\beta$ हों, तब $\\alpha^2 + \\beta^2 = $ __________।"
+  },
+  {
+    "id": "short_18",
+    "type": "short_answer",
+    "question": "If $2\\theta = \\frac{\\pi}{3}$, then $\\sin \\theta = $ __________.",
+    "prashna": "यदि $2\\theta = \\frac{\\pi}{3}$ हो, तब $\\sin \\theta = $ __________।"
+  },
+  {
+    "id": "short_19",
+    "type": "short_answer",
+    "question": "The value of the ordinate of a point $(4, -5)$ situated in Cartesian plane will be __________.",
+    "prashna": "कार्तीय तल में किसी बिन्दु $(4, -5)$ के कोटि का मान __________ होगा।"
+  },
+  {
+    "id": "short_20",
+    "type": "short_answer",
+    "question": "The common difference of an A.P. $4, 10, 16, 22, 28$ will be __________.",
+    "prashna": "एक समान्तर श्रेढ़ी $4, 10, 16, 22, 28$ का सार्व अंतर __________ होगा।"
+  },
+  {
+    "id": "short_21",
+    "type": "short_answer",
+    "question": "By prime factorisation method find the L.C.M. and H.C.F. of $26$ and $91$.",
+    "prashna": "अभाज्य गुणनखण्ड विधि से $26$ एवं $91$ का ल० स० और म० स० ज्ञात करें।"
+  },
+  {
+    "id": "short_22",
+    "type": "short_answer",
+    "question": "Find the zeros of polynomial $4x^2 - 3$.",
+    "prashna": "बहुपद $4x^2 - 3$ के शून्यक ज्ञात करें।"
+  },
+  {
+    "id": "short_23",
+    "type": "short_answer",
+    "question": "In figure, $DE \\parallel BC$, find $EC$. Given $AD = 1.5$ cm, $DB = 3$ cm, $AE = 1$ cm.",
+    "prashna": "चित्र में $DE \\parallel BC$, तो $EC$ ज्ञात करें। जहाँ $AD = 1.5$ सेमी, $DB = 3$ सेमी, $AE = 1$ सेमी।"
+  },
+  {
+    "id": "short_24",
+    "type": "short_answer",
+    "question": "The side of equilateral triangle $ABC$ is $2a$. Find the perpendicular distance from vertex.",
+    "prashna": "एक समबाहु त्रिभुज $ABC$ की भुजा $2a$ है। उसके शीर्ष लम्ब ज्ञात कीजिए।"
+  },
+  {
+    "id": "short_25",
+    "type": "short_answer",
+    "question": "From a point $Q$ the length of tangent to a circle is $24$ cm and distance of $Q$ from centre is $25$ cm. Find the radius of the circle.",
+    "prashna": "एक बिन्दु $Q$ से एक वृत्त पर स्पर्श रेखा की लम्बाई $24$ सेमी तथा $Q$ की केन्द्र से दूरी $25$ सेमी है, तो वृत्त की त्रिज्या ज्ञात करें।"
+  },
+  {
+    "id": "short_26",
+    "type": "short_answer",
+    "question": "Find the distance between points $(0, 0)$ and $(36, 15)$.",
+    "prashna": "बिन्दुओं $(0, 0)$ और $(36, 15)$ के बीच की दूरी ज्ञात करें।"
+  },
+  {
+    "id": "short_27",
+    "type": "short_answer",
+    "question": "If points $A(2, 3)$, $B(4, k)$ and $C(6, -3)$ are collinear, then find the value of $k$.",
+    "prashna": "$k$ का मान ज्ञात करें, यदि बिन्दु $A(2, 3)$, $B(4, k)$ तथा $C(6, -3)$ संरेख हैं।"
+  },
+  {
+    "id": "short_28",
+    "type": "short_answer",
+    "question": "Find the area of quadrant of a circle whose circumference is $22$ cm.",
+    "prashna": "एक वृत्त के चतुर्थांश का क्षेत्रफल ज्ञात करें जिसकी परिधि $22$ सेमी है।"
+  },
+  {
+    "id": "short_29",
+    "type": "short_answer",
+    "question": "The diameter of a sphere is $6$ cm. By melting it a wire of diameter $0.2$ cm is made. Find the length of wire.",
+    "prashna": "एक गोले का व्यास $6$ सेमी है। इसे पिघलाकर $0.2$ सेमी व्यास वाला एक तार बनाया गया है। तार की लम्बाई ज्ञात करें।"
+  },
+  {
+    "id": "short_30",
+    "type": "short_answer",
+    "question": "If $\\sin 3A = \\cos(A - 26^\\circ)$, where $3A$ is an acute angle, find the value of $A$.",
+    "prashna": "यदि $\\sin 3A = \\cos(A - 26^\\circ)$, जहाँ $3A$ एक न्यूनकोण हो, तो $A$ का मान ज्ञात करें।"
+  },
+  {
+    "id": "short_31",
+    "type": "short_answer",
+    "question": "Which term of an A.P. $21, 18, 15, \\dots$ is $-81$?",
+    "prashna": "A.P. $21, 18, 15, \\dots$ का कौन-सा पद $-81$ है?"
+  },
+  {
+    "id": "short_32",
+    "type": "short_answer",
+    "question": "Prove that $3 + \\sqrt{5}$ is an irrational number.",
+    "prashna": "सिद्ध करें कि $3 + \\sqrt{5}$ एक अपरिमेय संख्या है।"
+  },
+  {
+    "id": "short_33",
+    "type": "short_answer",
+    "question": "Solve the following pair of linear equations by substitution method: $3x - 5y = 20$ and $x + 2y = 3$.",
+    "prashna": "प्रतिस्थापन विधि से निम्न रेखीय समीकरण युग्म का हल करें: $3x - 5y = 20$ और $x + 2y = 3$।"
+  },
+  {
+    "id": "short_34",
+    "type": "short_answer",
+    "question": "Find the quadratic equation, whose sum and product of zeros are $4$ and $1$ respectively.",
+    "prashna": "एक द्विघातीय बहुपद समीकरण ज्ञात करें, जिसके शून्यकों के योग एवं गुणनफल क्रमशः $4$ एवं $1$ हैं।"
+  },
+  {
+    "id": "short_35",
+    "type": "short_answer",
+    "question": "The difference of two numbers is $26$ and one number is three times of other. Find the numbers.",
+    "prashna": "दो संख्याओं का अन्तर $26$ है और एक संख्या दूसरी संख्या की तीन गुनी है। उन्हें ज्ञात करें।"
+  },
+  {
+    "id": "short_36",
+    "type": "short_answer",
+    "question": "Find $LE$ in the given figure where $LM \\parallel FG$. Given $LF = 7.2$ cm, $EM = 1.8$ cm, $MG = 5.4$ cm.",
+    "prashna": "दी गई आकृति में $LE$ ज्ञात करें जहाँ $LM \\parallel FG$। जहाँ $LF = 7.2$ सेमी, $EM = 1.8$ सेमी, $MG = 5.4$ सेमी।"
+  },
+  {
+    "id": "short_37",
+    "type": "short_answer",
+    "question": "Find the coordinate of that point, which divides the line joining the points $(-1, 7)$ and $(4, -3)$ in the ratio $2 : 3$.",
+    "prashna": "उस बिन्दु के निर्देशांक ज्ञात करें, जो बिन्दुओं $(-1, 7)$ तथा $(4, -3)$ को मिलाने वाले रेखाखण्ड को $2 : 3$ के अनुपात में विभाजित करता है।"
+  },
+  {
+    "id": "short_38",
+    "type": "short_answer",
+    "question": "Find the probability of getting a number greater than digit $3$ in the throw of a dice.",
+    "prashna": "एक पासे को फेंकने पर अंक $3$ के ऊपर आने की प्रायिकता ज्ञात कीजिए।"
+  },
+  {
+    "id": "short_39",
+    "type": "short_answer",
+    "question": "If $\\cot \\theta = \\frac{7}{8}$, then find the value of $\\frac{(1 + \\sin \\theta)(1 - \\sin \\theta)}{(1 + \\cos \\theta)(1 - \\cos \\theta)}$.",
+    "prashna": "यदि $\\cot \\theta = \\frac{7}{8}$ हो, तो $\\frac{(1 + \\sin \\theta)(1 - \\sin \\theta)}{(1 + \\cos \\theta)(1 - \\cos \\theta)}$ का मान निकालें।"
+  },
+  {
+    "id": "short_40",
+    "type": "short_answer",
+    "question": "Prove that $\\frac{\\cot \\theta - \\cos \\theta}{\\cot \\theta + \\cos \\theta} = \\frac{\\csc \\theta - 1}{\\csc \\theta + 1}$.",
+    "prashna": "सिद्ध करें कि $\\frac{\\cot \\theta - \\cos \\theta}{\\cot \\theta + \\cos \\theta} = \\frac{\\csc \\theta - 1}{\\csc \\theta + 1}$।"
+  },
+  {
+    "id": "short_41",
+    "type": "short_answer",
+    "question": "The mean of given data is $18$. Then find the missing frequency $f$: \nClass interval: 11-13, 13-15, 15-17, 17-19, 19-21, 21-23, 23-25 \nNo. of children: 7, 6, 9, 13, f, 5, 4",
+    "prashna": "दी गई आँकड़ों का माध्य $18$ है, तो अज्ञात बारंबारता ज्ञात करें: \nवर्ग अंतराल: 11-13, 13-15, 15-17, 17-19, 19-21, 21-23, 23-25 \nबच्चों की संख्या: 7, 6, 9, 13, f, 5, 4"
+  },
+  {
+    "id": "short_42",
+    "type": "short_answer",
+    "question": "If median is $12$ and mode is $18$ of any data, then find mean of the given data.",
+    "prashna": "यदि किसी आँकड़े की माध्यिका $12$ एवं बहुलक $18$ है, तो आँकड़े का माध्य ज्ञात करें।"
+  },
+  {
+    "id": "long_43",
+    "type": "long_answer",
+    "question": "Find the area of sector having $4$ cm radius and $30^\\circ$ angle at the centre of given circle. Also find the area of corresponding major sector.",
+    "prashna": "त्रिज्या $4$ सेमी वाले एक वृत्त के त्रिज्यखण्ड का क्षेत्रफल ज्ञात करें, जिसका कोण $30^\\circ$ है। साथ ही, संगत दीर्घ त्रिज्यखण्ड का क्षेत्रफल भी ज्ञात करें।"
+  },
+  {
+    "id": "long_44",
+    "type": "long_answer",
+    "question": "Solve by graphical method: $x + 2y - 4 = 0$ and $2x + 4y - 12 = 0$.",
+    "prashna": "ग्राफिय विधि से हल करें: $x + 2y - 4 = 0$ तथा $2x + 4y - 12 = 0$।"
+  },
+  {
+    "id": "long_45_1",
+    "type": "long_answer",
+    "question": "A vertical flag rod and a $50$ m high tower are situated at same horizontal ground. The angles of depression of the top of the tower from top and foot of the flag rod are $30^\\circ$ and $45^\\circ$ respectively. Find the height of the flag rod.",
+    "prashna": "एक ऊर्ध्वाधर झंडा स्तम्भ तथा एक $50$ मीटर ऊँची मीनार एक ही क्षैतिज तल पर स्थित है। मीनार के शीर्ष से स्तम्भ के ऊपर तथा निचले सिरे के अवनमन कोण क्रमशः $30^\\circ$ तथा $45^\\circ$ हैं, तो झंडा स्तम्भ की ऊँचाई ज्ञात करें।"
+  },
+  {
+    "id": "long_45_2",
+    "type": "long_answer",
+    "question": "The angle of elevation of the top of building from the foot of a tower is $30^\\circ$ and the angle of elevation of the top of tower from the foot of building is $60^\\circ$. If the height of tower is $50$ m, then find the height of the building.",
+    "prashna": "एक मीनार के पाद बिन्दु से एक भवन के शिखर का उन्नयन कोण $30^\\circ$ है और भवन के पाद-बिन्दु से मीनार के शिखर का उन्नयन कोण $60^\\circ$ है। यदि मीनार $50$ मी ऊँची हो, तो भवन की ऊँचाई ज्ञात करें।"
+  },
+  {
+    "id": "long_46",
+    "type": "long_answer",
+    "question": "In a triangle, a line drawn parallel to one side to intersect the other two sides in two distinct points, divides the two sides in the same ratio. Prove it.",
+    "prashna": "एक त्रिभुज की एक भुजा के समानान्तर खींची गयी रेखा अन्य दो भुजाओं को जिन दो बिन्दु पर प्रतिच्छेद करती है, वे बिन्दु भुजाओं को समान अनुपात में विभाजित करते हैं। सिद्ध करें।"
+  },
+  {
+    "id": "long_47_1",
+    "type": "long_answer",
+    "question": "Construct a circle of $3$ cm radius. Construct an equilateral triangle inside the circle.",
+    "prashna": "$3$ सेमी की त्रिज्या का एक वृत्त खींचें। इसके अन्तर्गत एक समबाहु त्रिभुज बनायें।"
+  },
+  {
+    "id": "long_47_2",
+    "type": "long_answer",
+    "question": "Draw a circle inside an equilateral triangle of sides $5$ cm which touches the sides of the triangle.",
+    "prashna": "$5$ सेमी भुजा वाले एक समबाहु त्रिभुज के अन्तर्गत एक वृत्त खींचें जो त्रिभुज की भुजाओं को स्पर्श करे।"
+  }
+]
+```

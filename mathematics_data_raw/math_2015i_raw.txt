@@ -1,0 +1,447 @@
+```json
+[
+  {
+    "id": "obj_1",
+    "type": "objective",
+    "question": "If the discriminant of quadratic equation $cx^2 - bx + a = 0$ is zero, then the value of equal root $\\beta$ will be",
+    "prashna": "यदि द्विघात समीकरण $cx^2 - bx + a = 0$ के विवेचक शून्य है, तो समान मूल $\\beta$ का मान होगा",
+    "options": {
+      "A": "$b/2c$",
+      "B": "$-b/2a$",
+      "C": "$-b/4ac$",
+      "D": "$a/c$"
+    },
+    "vikalpa": {
+      "A": "$b/2c$",
+      "B": "$-b/2a$",
+      "C": "$-b/4ac$",
+      "D": "$a/c$"
+    }
+  },
+  {
+    "id": "obj_2",
+    "type": "objective",
+    "question": "The roots of the equation $a^2 p^2 x^2 - q^2 = 0$ will be",
+    "prashna": "$a^2 p^2 x^2 - q^2 = 0$ के मूल होंगे",
+    "options": {
+      "A": "$a^2 p^2 / q^2$",
+      "B": "$ap/q$",
+      "C": "$q^2/ap$",
+      "D": "$\\pm q/ap$"
+    },
+    "vikalpa": {
+      "A": "$a^2 p^2 / q^2$",
+      "B": "$ap/q$",
+      "C": "$q^2/ap$",
+      "D": "$\\pm q/ap$"
+    }
+  },
+  {
+    "id": "obj_3",
+    "type": "objective",
+    "question": "If the diameter of a semicircle is 14 cm, then its circumference will be",
+    "prashna": "यदि अर्द्धवृत्त का व्यास 14 सेमी है, तो अर्द्धवृत्त की परिधि होगी",
+    "options": {
+      "A": "24 cm",
+      "B": "22 cm",
+      "C": "36 cm",
+      "D": "42 cm"
+    },
+    "vikalpa": {
+      "A": "24 सेमी",
+      "B": "22 सेमी",
+      "C": "36 सेमी",
+      "D": "42 सेमी"
+    }
+  },
+  {
+    "id": "obj_4",
+    "type": "objective",
+    "question": "If the mean and median of an asymmetrical distribution are 26.8 and 27.9 respectively, then mode will be",
+    "prashna": "किसी असममित बंटन का माध्य और माध्यक क्रमश: 26.8 और 27.9 हैं, तो बहुलक होगा",
+    "options": {
+      "A": "30.1",
+      "B": "30.5",
+      "C": "31.4",
+      "D": "30.8"
+    },
+    "vikalpa": {
+      "A": "30.1",
+      "B": "30.5",
+      "C": "31.4",
+      "D": "30.8"
+    }
+  },
+  {
+    "id": "obj_5",
+    "type": "objective",
+    "question": "PA and PB are two tangents drawn from an external point P to a circle. If $PA = 6$ cm, then length of PB will be",
+    "prashna": "किसी वृत्त के बाह्य बिन्दु P से दो स्पर्श रेखाएँ PA और PB खींची गई हैं। यदि $PA = 6$ सेमी हो, तो PB की लम्बाई होगी",
+    "options": {
+      "A": "3 cm",
+      "B": "4 cm",
+      "C": "6 cm",
+      "D": "12 cm"
+    },
+    "vikalpa": {
+      "A": "3 सेमी",
+      "B": "4 सेमी",
+      "C": "6 सेमी",
+      "D": "12 सेमी"
+    }
+  },
+  {
+    "id": "obj_6",
+    "type": "objective",
+    "question": "The midpoint of the line segment joining the points $p(-2, 8)$ and $q(-6, -4)$ is",
+    "prashna": "बिन्दुओं $p(-2, 8)$ और $q(-6, -4)$ को मिलाने वाली रेखा खण्ड का मध्य बिन्दु है",
+    "options": {
+      "A": "$(-6, -4)$",
+      "B": "$(-4, 2)$",
+      "C": "$(2, 6)$",
+      "D": "$(-4, -6)$"
+    },
+    "vikalpa": {
+      "A": "$(-6, -4)$",
+      "B": "$(-4, 2)$",
+      "C": "$(2, 6)$",
+      "D": "$(-4, -6)$"
+    }
+  },
+  {
+    "id": "obj_7",
+    "type": "objective",
+    "question": "If the ratio of circumferences of two circles is $2:3$, then the ratio of their radii will be",
+    "prashna": "दो वृत्तों की परिधियाँ $2:3$ के अनुपात में हैं। उनकी त्रिज्याओं का अनुपात होगा",
+    "options": {
+      "A": "$4:9$",
+      "B": "$2:3$",
+      "C": "$8:27$",
+      "D": "$3:2$"
+    },
+    "vikalpa": {
+      "A": "$4:9$",
+      "B": "$2:3$",
+      "C": "$8:27$",
+      "D": "$3:2$"
+    }
+  },
+  {
+    "id": "obj_8",
+    "type": "objective",
+    "question": "Probability of an impossible event is",
+    "prashna": "किसी असम्भव घटना की प्रायिकता होती है",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "1/2",
+      "D": "None of these"
+    },
+    "vikalpa": {
+      "A": "शून्य",
+      "B": "1",
+      "C": "1/2",
+      "D": "इनमें से कोई नहीं"
+    }
+  },
+  {
+    "id": "obj_9",
+    "type": "objective",
+    "question": "$\\sqrt{3}$ is the value of",
+    "prashna": "$\\sqrt{3}$ मान है",
+    "options": {
+      "A": "$\\tan 60^\\circ$",
+      "B": "$\\cos 45^\\circ$",
+      "C": "$\\sin 30^\\circ$",
+      "D": "$1/\\sin 45^\\circ$"
+    },
+    "vikalpa": {
+      "A": "$\\tan 60^\\circ$",
+      "B": "$\\cos 45^\\circ$",
+      "C": "$\\sin 30^\\circ$",
+      "D": "$1/\\sin 45^\\circ$"
+    }
+  },
+  {
+    "id": "obj_10",
+    "type": "objective",
+    "question": "$9\\sec^2 a - 9\\tan^2 a$ is equal to",
+    "prashna": "$9\\sec^2 a - 9\\tan^2 a$ बराबर है",
+    "options": {
+      "A": "1",
+      "B": "9",
+      "C": "8",
+      "D": "0"
+    },
+    "vikalpa": {
+      "A": "1",
+      "B": "9",
+      "C": "8",
+      "D": "0"
+    }
+  },
+  {
+    "id": "short_1",
+    "type": "short_answer",
+    "question": "The decimal expansion of $\\frac{2^3}{2^3 \\times 5^2}$ is _______.",
+    "prashna": "$\\frac{2^3}{2^3 \\times 5^2}$ का दशमलव प्रसार _______ होता है।"
+  },
+  {
+    "id": "short_2",
+    "type": "short_answer",
+    "question": "Sum of zeros of the polynomial $ax^2 + bx + c$ is _______.",
+    "prashna": "बहुपद $ax^2 + bx + c$ के शून्यक का योग _______ होता है।"
+  },
+  {
+    "id": "short_3",
+    "type": "short_answer",
+    "question": "Two circles are congruent if their _______ are equal.",
+    "prashna": "दो वृत्त सर्वांगसम होंगे यदि उनकी _______ बराबर हो।"
+  },
+  {
+    "id": "short_4",
+    "type": "short_answer",
+    "question": "_______ tangents can be drawn from an external point on the circle.",
+    "prashna": "किसी वृत्त पर बाहरी बिन्दु से _______ स्पर्श रेखाएँ खींची जा सकती है।"
+  },
+  {
+    "id": "short_5",
+    "type": "short_answer",
+    "question": "Point $(-5, -3)$ lies in the _______ quadrant.",
+    "prashna": "बिन्दु $(-5, -3)$ _______ चतुर्थांश में पड़ता है।"
+  },
+  {
+    "id": "short_6",
+    "type": "short_answer",
+    "question": "Coordinate of any point on x-axis is _______.",
+    "prashna": "$x$-अक्ष पर किसी बिन्दु का निर्देशांक _______ होता है।"
+  },
+  {
+    "id": "short_7",
+    "type": "short_answer",
+    "question": "If $\\sin \\theta = \\cos \\theta$, then value of $\\theta$ is _______.",
+    "prashna": "यदि $\\sin \\theta = \\cos \\theta$, तो $\\theta$ का मान _______ होता है।"
+  },
+  {
+    "id": "short_8",
+    "type": "short_answer",
+    "question": "Value of $\\sin^2 22^\\circ + \\cos^2 22^\\circ$ is _______.",
+    "prashna": "$\\sin^2 22^\\circ + \\cos^2 22^\\circ$ का मान _______ होता है।"
+  },
+  {
+    "id": "short_9",
+    "type": "short_answer",
+    "question": "10th term of an A.P. 2, 7, 12, ... is _______.",
+    "prashna": "A.P. 2, 7, 12, ... का 10वाँ पद _______ होगा।"
+  },
+  {
+    "id": "short_10",
+    "type": "short_answer",
+    "question": "If the mean of 3, 4, 5, 17, $x$ is 6, then $x = $ _______.",
+    "prashna": "यदि 3, 4, 5, 17, $x$ का माध्य 6 है, तो $x = $ _______।"
+  },
+  {
+    "id": "short_11",
+    "type": "short_answer",
+    "question": "If $\\alpha, \\beta$ are the zeros of polynomial $p(x) = x^2 - 7x + k$ and $\\alpha - \\beta = 1$, then find the value of $k$.",
+    "prashna": "यदि $\\alpha, \\beta$ बहुपद $p(x) = x^2 - 7x + k$ के शून्यक हैं और $\\alpha - \\beta = 1$ है, तो $k$ का मान निकालें।",
+    "marks": 2
+  },
+  {
+    "id": "short_12",
+    "type": "short_answer",
+    "question": "If $4x^2 - 25 = 0$, then find the value of $x$.",
+    "prashna": "यदि $4x^2 - 25 = 0$, तो $x$ का मान निकालें।",
+    "marks": 2
+  },
+  {
+    "id": "short_13",
+    "type": "short_answer",
+    "question": "In isosceles $\\triangle ABC, \\angle C = 90^\\circ$, then prove that $AB^2 = 2AC^2$.",
+    "prashna": "एक समद्विबाहु $\\triangle ABC$ में $\\angle C = 90^\\circ$, तो सिद्ध करें कि $AB^2 = 2AC^2$।",
+    "marks": 2
+  },
+  {
+    "id": "short_14",
+    "type": "short_answer",
+    "question": "In two concentric circles of radii 10 cm and 6 cm the chord of larger circle touches the smaller (inner) circle. Find the length of the chord of larger (outer) circle.",
+    "prashna": "दो संकेन्द्रीय वृत्तों की त्रिज्याएँ 10 सेमी और 6 सेमी हैं। बड़े वृत्त (बाहरी) की जीवा की लम्बाई निकालें जो छोटे (आंतरिक) वृत्त को स्पर्श करती है।",
+    "marks": 2
+  },
+  {
+    "id": "short_15",
+    "type": "short_answer",
+    "question": "Find the value of $y$ for which the distance between the points $P(2, -3)$ and $Q(10, y)$ is 10 unit.",
+    "prashna": "$y$ का मान निकालें जिसके लिए बिन्दुओं $P(2, -3)$ और $Q(10, y)$ के बीच की दूरी 10 मात्रक है।",
+    "marks": 2
+  },
+  {
+    "id": "short_16",
+    "type": "short_answer",
+    "question": "The volume of right circular cone is $100\\pi$ $cm^3$ and its height is 12 cm. Find its lateral height.",
+    "prashna": "एक लम्बवृत्तीय शंकु का आयतन $100\\pi$ सेमी$^3$ है और ऊँचाई 12 सेमी है, तो तिर्यक ऊँचाई निकालें।",
+    "marks": 2
+  },
+  {
+    "id": "short_17",
+    "type": "short_answer",
+    "question": "Find the surface area of a sphere whose diameter is 14 cm.",
+    "prashna": "उस गोले का पृष्ठ क्षेत्रफल निकालें जिसका व्यास 14 सेमी है।",
+    "marks": 2
+  },
+  {
+    "id": "short_18",
+    "type": "short_answer",
+    "question": "Find the centroid of the triangle, whose vertices are $(3, -5), (-7, 4)$ and $(10, -2)$.",
+    "prashna": "उस त्रिभुज का केन्द्रक निकालें जिनके शीर्ष $(3, -5), (-7, 4)$ तथा $(10, -2)$ हैं।",
+    "marks": 2
+  },
+  {
+    "id": "short_19",
+    "type": "short_answer",
+    "question": "If $\\tan A = \\cot B$, prove that $A + B = 90^\\circ$.",
+    "prashna": "यदि $\\tan A = \\cot B$, तो सिद्ध करें कि $A + B = 90^\\circ$।",
+    "marks": 2
+  },
+  {
+    "id": "short_20",
+    "type": "short_answer",
+    "question": "If $\\theta = 45^\\circ$, then find the value of $\\tan^2 \\theta + \\frac{1}{\\sin^2 \\theta}$.",
+    "prashna": "यदि $\\theta = 45^\\circ$, तो $\\tan^2 \\theta + \\frac{1}{\\sin^2 \\theta}$ का मान निकालें।",
+    "marks": 2
+  },
+  {
+    "id": "short_21",
+    "type": "short_answer",
+    "question": "Find the 30th term of an A.P. 10, 7, 4, ...",
+    "prashna": "A.P. 10, 7, 4 का 30वाँ पद निकालें।",
+    "marks": 2
+  },
+  {
+    "id": "short_22",
+    "type": "short_answer",
+    "question": "Prove that $5 - \\sqrt{3}$ is an irrational number.",
+    "prashna": "सिद्ध करें कि $5 - \\sqrt{3}$ एक अपरिमेय संख्या है।",
+    "marks": 3
+  },
+  {
+    "id": "short_23",
+    "type": "short_answer",
+    "question": "Express $0.\\overline{6}$ as rational number in simplest form.",
+    "prashna": "$0.\\overline{6}$ को परिमेय संख्या के सरल रूप में व्यक्त करें।",
+    "marks": 3
+  },
+  {
+    "id": "short_24",
+    "type": "short_answer",
+    "question": "Sum of a number and its reciprocal is $10/3$. Find the number.",
+    "prashna": "किसी संख्या और उसके व्युत्क्रम का योग $10/3$ है। संख्या ज्ञात करें।",
+    "marks": 3
+  },
+  {
+    "id": "short_25",
+    "type": "short_answer",
+    "question": "Find the roots of quadratic equation $2x^2 - 2\\sqrt{2}x + 1 = 0$.",
+    "prashna": "द्विघात समीकरण $2x^2 - 2\\sqrt{2}x + 1 = 0$ का मूल ज्ञात करें।",
+    "marks": 3
+  },
+  {
+    "id": "short_26",
+    "type": "short_answer",
+    "question": "Each side of an equilateral triangle $ABC$ is $a$ units. Prove that the altitude of the triangle will be $\\frac{\\sqrt{3}}{2}a$.",
+    "prashna": "समबाहु $\\triangle ABC$ की प्रत्येक भुजा $a$ इकाई है तो सिद्ध करें कि त्रिभुज का शीर्षलम्ब $\\frac{\\sqrt{3}}{2}a$ होगा।",
+    "marks": 3
+  },
+  {
+    "id": "short_27",
+    "type": "short_answer",
+    "question": "Find the point on x-axis which is equidistant from the points $(2, -5)$ and $(-2, 9)$.",
+    "prashna": "$x$-अक्ष पर वह बिन्दु ज्ञात करें जो बिन्दुओं $(2, -5)$ और $(-2, 9)$ से समदूरस्थ हो।",
+    "marks": 3
+  },
+  {
+    "id": "short_28",
+    "type": "short_answer",
+    "question": "A die is thrown once. What is the probability to get an odd number?",
+    "prashna": "किसी पासे को एक बार फेंका जाता है, तो एक विषम संख्या प्राप्त करने की प्रायिकता ज्ञात करें।",
+    "marks": 3
+  },
+  {
+    "id": "short_29",
+    "type": "short_answer",
+    "question": "Prove that $(\\sec \\theta - \\tan \\theta)^2 = \\frac{1 - \\sin \\theta}{1 + \\sin \\theta}$.",
+    "prashna": "सिद्ध करें कि $(\\sec \\theta - \\tan \\theta)^2 = \\frac{1 - \\sin \\theta}{1 + \\sin \\theta}$।",
+    "marks": 3
+  },
+  {
+    "id": "short_30",
+    "type": "short_answer",
+    "question": "Prove that $\\frac{\\sin^4 \\theta - \\cos^4 \\theta}{\\sin^2 \\theta - \\cos^2 \\theta} = 1$.",
+    "prashna": "सिद्ध करें कि $\\frac{\\sin^4 \\theta - \\cos^4 \\theta}{\\sin^2 \\theta - \\cos^2 \\theta} = 1$।",
+    "marks": 3
+  },
+  {
+    "id": "short_31",
+    "type": "short_answer",
+    "question": "The mean of the given frequency distribution is 52. Find the missing frequency. [Table: Marks 10-20 (5), 20-30 (3), 30-40 (4), 40-50 (-), 50-60 (2), 60-70 (6), 70-80 (13)]",
+    "prashna": "दिए गये बंटन का माध्य 52 है, तो अज्ञात बारम्बारता निकालें। [सारणी: प्राप्तांक 10-20 (5), 20-30 (3), 30-40 (4), 40-50 (-), 50-60 (2), 60-70 (6), 70-80 (13)]",
+    "marks": 3
+  },
+  {
+    "id": "short_32",
+    "type": "short_answer",
+    "question": "Calculate the mode of the given frequency distribution: [Table: C.I. 10-25 (2), 25-40 (3), 40-55 (7), 55-70 (6), 70-85 (6), 85-100 (6)]",
+    "prashna": "दिए गये बारम्बारता बंटन का बहुलक ज्ञात करें : [सारणी: वर्ग अंतराल 10-25 (2), 25-40 (3), 40-55 (7), 55-70 (6), 70-85 (6), 85-100 (6)]",
+    "marks": 3
+  },
+  {
+    "id": "long_1",
+    "type": "long_answer",
+    "question": "Find the area of shaded region in the given figure with centre O, if radii of two concentric circles are 7 cm and 14 cm respectively and $\\angle AOC = 40^\\circ$.",
+    "prashna": "प्रदत्त आकृति में छायांकित भाग का क्षेत्रफल निकालें यदि केन्द्र O वाले दोनों संकेन्द्रीय वृत्तों की त्रिज्याएँ क्रमश: 7 सेमी और 14 सेमी तथा $\\angle AOC = 40^\\circ$।",
+    "marks": 5
+  },
+  {
+    "id": "long_2",
+    "type": "long_answer",
+    "question": "Solve by graphical method: $2x + y = 6$ and $4x - 2y = 4$.",
+    "prashna": "ग्राफीय विधि से हल करें : $2x + y = 6$ तथा $4x - 2y = 4$।",
+    "marks": 5
+  },
+  {
+    "id": "long_3_1",
+    "type": "long_answer",
+    "question": "The angles of elevation of the top of tower from two points at distances of 4 m and 9 m from the base of tower and in same straight line with it are complementary. Prove that the height of the tower is 6 metre.",
+    "prashna": "मीनार के आधार से एक सरल रेखा में 4 मी और 9 मी की दूरी पर स्थित दो बिन्दुओं से मीनार के शिखर के उन्नयन कोण पूरक कोण हैं, तो सिद्ध करें की मीनार की ऊँचाई 6 मी है।",
+    "marks": 5
+  },
+  {
+    "id": "long_3_2",
+    "type": "long_answer",
+    "question": "The angle of elevation of the top of a building from the foot of a tower is $30^\\circ$ and the angle of elevation of the top of the tower from the foot of the building is $60^\\circ$. If the tower is 50 metre high, find the height of the building.",
+    "prashna": "एक मीनार के पाद से एक भवन के शिखर का उन्नयन कोण $30^\\circ$ है और भवन के पाद से मीनार के शिखर का उन्नयन कोण $60^\\circ$ है। यदि मीनार की ऊँचाई 50 मीटर है तो भवन की ऊँचाई निकालें।",
+    "marks": 5
+  },
+  {
+    "id": "long_4",
+    "type": "long_answer",
+    "question": "In a right triangle, the square of the hypotenuse is equal to the sum of the squares of other two sides. Prove it.",
+    "prashna": "सिद्ध करें कि समकोण त्रिभुज के कर्ण पर वर्ग अन्य दो भुजाओं के वर्ग के बराबर होते हैं।",
+    "marks": 5
+  },
+  {
+    "id": "long_5_1",
+    "type": "long_answer",
+    "question": "Draw a line $AB = 12$ cm and divide it in a ratio of $3:5$.",
+    "prashna": "रेखा $AB = 12$ सेमी खींचें और $3:5$ के अनुपात में बाँटें।",
+    "marks": 5
+  },
+  {
+    "id": "long_5_2",
+    "type": "long_answer",
+    "question": "Construct a triangle $ABC$ in which side $BC = 6$ cm, $AB = 5$ cm and $\\angle ABC = 60^\\circ$. Construct a triangle similar to this triangle whose sides are $3/4$th of the corresponding sides of triangle $ABC$.",
+    "prashna": "$\\triangle ABC$ की रचना करें जिसमें $BC = 6$ सेमी, $AB = 5$ सेमी तथा $\\angle ABC = 60^\\circ$ है। इसके समरूप एक अन्य त्रिभुज बनायें जिसकी भुजाएँ $\\triangle ABC$ की संगत भुजाओं का $3/4$ हों।",
+    "marks": 5
+  }
+]
+```

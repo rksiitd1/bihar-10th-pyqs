@@ -1,0 +1,314 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "Which of the following is not prime?",
+        "prashna": "निम्नलिखित में कौन अभाज्य नहीं है?",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "5",
+            "D": "1"
+        },
+        "vikalpa": {
+            "A": "2",
+            "B": "3",
+            "C": "5",
+            "D": "1"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "Which of the following is a quadratic polynomial?",
+        "prashna": "निम्नलिखित में कौन द्विघात बहुपद है?",
+        "options": {
+            "A": "$x^2 + 2\\sqrt{x} + 1$",
+            "B": "$x - \\frac{1}, {x}$",
+            "C": "$x^2 - \\sqrt{2}x + 1$",
+            "D": "$x^2 + \\frac{1}, {\\sqrt{2}x} + 1$"
+        },
+        "vikalpa": {
+            "A": "$x^2 + 2\\sqrt{x} + 1$",
+            "B": "$x - \\frac{1}, {x}$",
+            "C": "$x^2 - \\sqrt{2}x + 1$",
+            "D": "$x^2 + \\frac{1}, {\\sqrt{2}x} + 1$"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "If $\\alpha$ and $\\beta$ are zeros of polynomial $x^2 + x + 1$, then the value of $\\frac{1}, {\\alpha} + \\frac{1}, {\\beta}$ is-",
+        "prashna": "यदि $\\alpha$ और $\\beta$ बहुपद $x^2 + x + 1$ के शून्यक हो, तो $\\frac{1}, {\\alpha} + \\frac{1}, {\\beta}$ का मान है-",
+        "options": {
+            "A": "1",
+            "B": "-1",
+            "C": "0",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "1",
+            "B": "-1",
+            "C": "0",
+            "D": "इनमें कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "The distance between the origin and the point $(12, 5)$ is-",
+        "prashna": "मूल बिन्दु और $(12, 5)$ बिन्दु के बीच की दूरी है-",
+        "options": {
+            "A": "12 units",
+            "B": "5 units",
+            "C": "17 units",
+            "D": "13 units"
+        },
+        "vikalpa": {
+            "A": "12 इकाइयाँ",
+            "B": "5 इकाइयाँ",
+            "C": "17 इकाइयाँ",
+            "D": "13 इकाइयाँ"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "In $\\triangle ABC$, $AD$ is the angle bisector of $\\angle BAC$. If $AB = 6$ cm, $BD = 3$ cm and $CD = 4$ cm, then the value of $AC$ will be-",
+        "prashna": "$\\triangle ABC$ में $AD$, $\\angle BAC$ की समद्विभाजक रेखा है। यदि $AB = 6$ cm, $BD = 3$ cm तथा $CD = 4$ cm है, तो $AC$ का मान होगा-",
+        "options": {
+            "A": "6 cm",
+            "B": "4 cm",
+            "C": "8 cm",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "6 cm",
+            "B": "4 cm",
+            "C": "8 cm",
+            "D": "इनमें कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "If $\\triangle ABC \\sim \\triangle DEF$ and $ar(\\triangle ABC) : ar(\\triangle DEF) = 16:81$, then the value of $BC : EF$ will be-",
+        "prashna": "यदि $\\triangle ABC \\sim \\triangle DEF$ और $ar(\\triangle ABC) : ar(\\triangle DEF) = 16:81$ हो, तो $BC : EF$ का मान होगा-",
+        "options": {
+            "A": "2:3",
+            "B": "4:9",
+            "C": "9:4",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "2:3",
+            "B": "4:9",
+            "C": "9:4",
+            "D": "इनमें कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "Radii of two circles are $6$ cm and $8$ cm respectively. What is the radius of the circle in centimeters whose area is equal to the sum of the areas of these two circles?",
+        "prashna": "दो वृत्तों की त्रिज्याएँ क्रमशः $6$ सेमी० और $8$ सेमी० हैं। उस वृत्त की त्रिज्या सेंटीमीटर में कौन है, जिसका क्षेत्रफल इन दोनों वृत्तों के योग के बराबर है?",
+        "options": {
+            "A": "5",
+            "B": "15",
+            "C": "10",
+            "D": "20"
+        },
+        "vikalpa": {
+            "A": "5",
+            "B": "15",
+            "C": "10",
+            "D": "20"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "If $\\sqrt{3}\\tan \\theta - 1 = 0$, then the value of $\\theta$ is-",
+        "prashna": "यदि $\\sqrt{3}\\tan \\theta - 1 = 0$ हो, तो $\\theta$ का मान है-",
+        "options": {
+            "A": "$30^\\circ$",
+            "B": "$60^\\circ$",
+            "C": "$45^\\circ$",
+            "D": "$90^\\circ$"
+        },
+        "vikalpa": {
+            "A": "$30^\\circ$",
+            "B": "$60^\\circ$",
+            "C": "$45^\\circ$",
+            "D": "$90^\\circ$"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "If $\\sin \\theta = \\cos \\theta$, then which of the following is the value of $\\theta$-",
+        "prashna": "यदि $\\sin \\theta = \\cos \\theta$ हो, तो निम्नांकित में $\\theta$ का मान कौन-सा है-",
+        "options": {
+            "A": "$30^\\circ$",
+            "B": "$45^\\circ$",
+            "C": "$60^\\circ$",
+            "D": "$90^\\circ$"
+        },
+        "vikalpa": {
+            "A": "$30^\\circ$",
+            "B": "$45^\\circ$",
+            "C": "$60^\\circ$",
+            "D": "$90^\\circ$"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "Which of the following is the mean of the first five natural numbers?",
+        "prashna": "प्रथम पाँच प्राकृत संख्याओं का माध्य निम्नलिखित में कौन-सा है?",
+        "options": {
+            "A": "4",
+            "B": "3",
+            "C": "2.5",
+            "D": "2"
+        },
+        "vikalpa": {
+            "A": "4",
+            "B": "3",
+            "C": "2.5",
+            "D": "2"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "The graphs of dependent simultaneous equations are ______ straight lines.",
+        "prashna": "आश्रित युगपत समीकरण के आलेख ______ सरल रेखाएँ होती है।"
+    },
+    {
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "The value of $\\frac{\\cos 48^\\circ}, {\\sin 42^\\circ}$ will be ______.",
+        "prashna": "$\\frac{\\cos 48^\\circ}, {\\sin 42^\\circ}$ का मान ______ होगा।"
+    },
+    {
+        "id": "short_3",
+        "type": "short_answer",
+        "question": "If $\\alpha$, $\\beta$ and $\\gamma$ are zeros of the polynomial $3x^3 - 5x^2 - 11x - 2$, then find the values of $\\alpha\\beta\\gamma$, $\\alpha + \\beta + \\gamma$ and $\\alpha\\beta + \\beta\\gamma + \\gamma\\alpha$.",
+        "prashna": "यदि बहुपद $3x^3 - 5x^2 - 11x - 2$ के शून्यक $\\alpha, \\beta$ तथा $\\gamma$ हों, तो $\\alpha\\beta\\gamma$, $\\alpha + \\beta + \\gamma$ तथा $\\alpha\\beta + \\beta\\gamma + \\gamma\\alpha$ का मान ज्ञात करें।"
+    },
+    {
+        "id": "short_4",
+        "type": "short_answer",
+        "question": "Solve: $\\frac{x}, {2} + \\frac{2y}, {3} + 1 = 0$, $x - \\frac{y}, {3} - 3 = 0$.",
+        "prashna": "हल करें: $\\frac{x}, {2} + \\frac{2y}, {3} + 1 = 0$, $x - \\frac{y}, {3} - 3 = 0$."
+    },
+    {
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "Find the HCF and LCM of $540$ and $805$ by prime factorization method.",
+        "prashna": "अभाज्य गुणनखण्ड विधि द्वारा $540$ और $805$ का म०स० और ल०स० निकालें।"
+    },
+    {
+        "id": "short_6",
+        "type": "short_answer",
+        "question": "Find the coordinates of the point which divides the line segment joining the points $(-1, 7)$ and $(4, -3)$ internally in the ratio $2:3$.",
+        "prashna": "उस बिन्दु के निर्देशांक ज्ञात करें जो बिन्दुओं $(-1, 7)$ और $(4, -3)$ को मिलानेवाली रेखाखण्ड को $2:3$ के अनुपात में अन्तर्विभाजित करता है।"
+    },
+    {
+        "id": "short_7",
+        "type": "short_answer",
+        "question": "Prove that a line drawn parallel to the parallel sides of a trapezium divides the non-parallel sides proportionally.",
+        "prashna": "सिद्ध करें कि समलम्ब चतुर्भुज की समानांतर भुजाओं के समानांतर खींची गई रेखा असमानांतर भुजाओं को आनुपातिकता विभाजित करती है।"
+    },
+    {
+        "id": "short_8",
+        "type": "short_answer",
+        "question": "$AD$ and $PM$ are medians of triangles $ABC$ and $PQR$ respectively, where $\\triangle ABC \\sim \\triangle PQR$. Prove that $\\frac{AB}, {PQ} = \\frac{AD}, {PM}$.",
+        "prashna": "$AD$ और $PM$ त्रिभुजों $ABC$ और $PQR$ की क्रमशः माध्यिकाएँ हैं, जबकि $\\triangle ABC \\sim \\triangle PQR$ है। साबित करें कि $\\frac{AB}, {PQ} = \\frac{AD}, {PM}$ है।"
+    },
+    {
+        "id": "short_9",
+        "type": "short_answer",
+        "question": "The outer radius of a circular ring is $8$ meters. If the area of the ring is $88$ square meters, find its inner radius.",
+        "prashna": "एक गोल छल्ले की बाहरी गोलाई की त्रिज्या $8$ मीटर है। यदि छल्ले का क्षेत्रफल $88$ वर्गमीटर हो, तो उसकी भीतरी त्रिज्या ज्ञात करें।"
+    },
+    {
+        "id": "short_10",
+        "type": "short_answer",
+        "question": "Find the median of the distribution: $10, 17, 21, 16, 13, 12, 15, 19, 14, 13$.",
+        "prashna": "बंटन $10, 17, 21, 16, 13, 12, 15, 19, 14, 13$ का माध्यिका निकालें।"
+    },
+    {
+        "id": "short_11",
+        "type": "short_answer",
+        "question": "If $A = 60^\\circ$ and $B = 30^\\circ$, then prove that $\\sin(A + B) = \\sin A \\cdot \\cos B + \\cos A \\cdot \\sin B$.",
+        "prashna": "यदि $A = 60^\\circ$ और $B = 30^\\circ$ हो, तो साबित करें कि $\\sin(A + B) = \\sin A \\cdot \\cos B + \\cos A \\cdot \\sin B$."
+    },
+    {
+        "id": "short_12",
+        "type": "short_answer",
+        "question": "Find the numerical value of $4\\sin^2 60^\\circ + 3\\tan^2 30^\\circ - 8\\sin 45^\\circ \\cdot \\cos 45^\\circ$.",
+        "prashna": "$4\\sin^2 60^\\circ + 3\\tan^2 30^\\circ - 8\\sin 45^\\circ \\cdot \\cos 45^\\circ$ का संख्यात्मक मान ज्ञात करें।"
+    },
+    {
+        "id": "long_1",
+        "type": "long_answer",
+        "question": "Five years ago, father's age was seven times the age of the son and five years hence, it will be three times. Find the present ages of father and son.",
+        "prashna": "पांच वर्ष पहले पिता की आयु, पुत्र की आयु की सात गुनी थी और पांच वर्ष बाद तीन गुनी हो जाएगी। पिता और पुत्र की वर्तमान आयु निकालें।"
+    },
+    {
+        "id": "long_2",
+        "type": "long_answer",
+        "question": "If $\\text{cosec } \\theta = \\frac{5}, {3}$, then find the value of $\\sec^2 \\theta - \\tan^2 \\theta$.",
+        "prashna": "यदि $\\text{cosec } \\theta = \\frac{5}, {3}$ हो, तो $\\sec^2 \\theta - \\tan^2 \\theta$ का मान निकालें।"
+    },
+    {
+        "id": "long_3",
+        "type": "long_answer",
+        "question": "Show that every positive odd integer is of the form $6p + 1$ or $6p + 3$ or $6p + 5$, where $p$ is an integer.",
+        "prashna": "दिखाएँ कि एक धनात्मक विषम पूर्णांक $6p+1$ या $6p+3$ या $6p+5$ के रूप का है, जहाँ $p$ एक पूर्णांक है।"
+    },
+    {
+        "id": "long_4",
+        "type": "long_answer",
+        "question": "A fraction becomes $\\frac{1}, {3}$ when $1$ is subtracted from the numerator and it becomes $\\frac{1}, {4}$ when $8$ is added to its denominator. Find the fraction.",
+        "prashna": "किसी भिन्न के अंश से $1$ घटाने पर $\\frac{1}, {3}$ हो जाता है तथा इसके हर में $8$ जोड़ने पर $\\frac{1}, {4}$ हो जाता है। भिन्न ज्ञात करें।"
+    },
+    {
+        "id": "long_5",
+        "type": "long_answer",
+        "question": "Find the coordinates of the point on the $x$-axis which is equidistant from the points $(-2, 5)$ and $(2, -3)$.",
+        "prashna": "$x$-अक्ष पर स्थित उस बिन्दु का निर्देशांक ज्ञात करें जो बिन्दुओं $(-2, 5)$ और $(2, -3)$ से समदूरस्थ हो।"
+    },
+    {
+        "id": "long_6",
+        "type": "long_answer",
+        "question": "The diameter of each wheel of a car is $80$ cm. How many revolutions does each wheel make in $10$ minutes when the car is traveling at a speed of $66$ km/h?",
+        "prashna": "किसी कार के प्रत्येक पहिए का व्यास $80$ सेमी० है। प्रत्येक पहिया $10$ मिनट में कितना चक्कर लगाएगा, यदि कार $66$ किमी/घंटे की चाल से चल रही हो?"
+    },
+    {
+        "id": "long_7",
+        "type": "long_answer",
+        "question": "If $\\cos 3\\theta = \\sin 2\\theta$, then prove that $\\theta = 18^\\circ$.",
+        "prashna": "यदि $\\cos 3\\theta = \\sin 2\\theta$ हो, तो साबित करें कि $\\theta = 18^\\circ$."
+    },
+    {
+        "id": "long_8",
+        "type": "long_answer",
+        "question": "Find the mean for the following frequency distribution:\\n| Class Interval | 0-8 | 8-16 | 16-24 | 24-32 | 32-40 | 40-48 |\\n|---|---|---|---|---|---|---|\\n| Frequency | 10 | 20 | 14 | 16 | 18 | 22 |",
+        "prashna": "निम्नलिखित बारम्बारता बंटन के लिए माध्य निकालें:\\n| वर्ग-अन्तराल | 0-8 | 8-16 | 16-24 | 24-32 | 32-40 | 40-48 |\\n|---|---|---|---|---|---|---|\\n| बारम्बारता | 10 | 20 | 14 | 16 | 18 | 22 |"
+    },
+    {
+        "id": "long_9",
+        "type": "long_answer",
+        "question": "If the corresponding angles of two triangles are equal, then prove that their corresponding sides are proportional.",
+        "prashna": "यदि दो त्रिभुजों के संगत कोण बराबर हों, तो साबित करें कि उनकी संगत भुजाएँ समानुपाती होती हैं।"
+    },
+    {
+        "id": "long_10",
+        "type": "long_answer",
+        "question": "Construct a triangle with sides $4$ cm, $5$ cm and $6$ cm and then construct another triangle similar to it whose sides are $\\frac{2}, {3}$ of the corresponding sides of the first triangle.",
+        "prashna": "$4$ सेमी०, $5$ सेमी० और $6$ सेमी० भुजाओं वाला एक त्रिभुज बनाएं तथा इसके समरूप एक दूसरे त्रिभुज की रचना करें जिसकी भुजाएं पहले त्रिभुज की संगत भुजाओं का $\\frac{2}, {3}$ हो।"
+    }
+]

@@ -6,9 +6,9 @@
     "question": "The area of a circle of diameter 42 cm is",
     "prashna": "42 सेमी व्यास वाले वृत्त का क्षेत्रफल है",
     "options": {
-      "A": "1286 $cm^2$",
-      "B": "1386 $cm^2$",
-      "C": "1486 $cm^2$",
+      "A": "$1286\\text{ cm}^2$",
+      "B": "$1386\\text{ cm}^2$",
+      "C": "$1486\\text{ cm}^2$",
       "D": "None of these"
     },
     "vikalpa": {
@@ -111,7 +111,7 @@
   {
     "id": "obj_7",
     "type": "objective",
-    "question": "The distance of the point $(3, 4)$ from y-axis is",
+    "question": "The distance of the point $(3, 4)$ from $y$-axis is",
     "prashna": "$y$-अक्ष से बिन्दु $(3, 4)$ की दूरी है",
     "options": {
       "A": "3",
@@ -507,8 +507,8 @@
   {
     "id": "obj_29",
     "type": "objective",
-    "question": "If the radius of a circle is $14\\text{ cm}$, then the area of the circle is",
-    "prashna": "यदि किसी वृत्त की त्रिज्या $14\\text{ सेमी}$ हो, तो वृत्त का क्षेत्रफल होगा",
+    "question": "If the radius of a circle is 14 cm, then the area of the circle is",
+    "prashna": "यदि किसी वृत्त की त्रिज्या 14 सेमी हो, तो वृत्त का क्षेत्रफल होगा",
     "options": {
       "A": "$154\\text{ cm}^2$",
       "B": "$231\\text{ cm}^2$",
@@ -516,17 +516,17 @@
       "D": "$516\\text{ cm}^2$"
     },
     "vikalpa": {
-      "A": "$154\\text{ सेमी}^2$",
-      "B": "$231\\text{ सेमी}^2$",
-      "C": "$616\\text{ सेमी}^2$",
-      "D": "$516\\text{ सेमी}^2$"
+      "A": "154 सेमी$^2$",
+      "B": "231 सेमी$^2$",
+      "C": "616 सेमी$^2$",
+      "D": "516 सेमी$^2$"
     }
   },
   {
     "id": "obj_30",
     "type": "objective",
-    "question": "If the radius of a circle is $14\\text{ cm}$, then the circumference of the circle is",
-    "prashna": "यदि किसी वृत्त की त्रिज्या $14\\text{ सेमी}$ हो, तो वृत्त की परिधि होगी",
+    "question": "If the radius of a circle is 14 cm, then the circumference of the circle is",
+    "prashna": "यदि किसी वृत्त की त्रिज्या 14 सेमी हो, तो वृत्त की परिधि होगी",
     "options": {
       "A": "$44\\text{ cm}$",
       "B": "$88\\text{ cm}$",
@@ -534,17 +534,17 @@
       "D": "$616\\text{ cm}$"
     },
     "vikalpa": {
-      "A": "$44\\text{ सेमी}$",
-      "B": "$88\\text{ सेमी}$",
-      "C": "$42\\text{ सेमी}$",
-      "D": "$616\\text{ सेमी}$"
+      "A": "44 सेमी",
+      "B": "88 सेमी",
+      "C": "42 सेमी",
+      "D": "616 सेमी"
     }
   },
   {
     "id": "obj_31",
     "type": "objective",
     "question": "$0.\\overline{49}$ can be expressed in the form $\\frac{p}{q}$ (where $p, q$ are integers $q \\neq 0$) as",
-    "prashna": "$0.\\overline{49}$ को $\\frac{p}{q}$ के रूप में लिखा जा सकता है (जहाँ $p, q$ पूर्णांक है $q \\neq 0$)",
+    "prashna": "$0.\\overline{49}$ को $\\frac{p}{q}$ रूप में लिखा जा सकता है (जहाँ $p, q$ पूर्णांक है $q \\neq 0$)",
     "options": {
       "A": "$\\frac{49}{100}$",
       "B": "$\\frac{49}{99}$",
@@ -741,7 +741,7 @@
   {
     "id": "obj_42",
     "type": "objective",
-    "question": "If the diameter and the height of a cone and a cylinder be equal, then what will be the ratio of their volumes ?",
+    "question": "If the diameter and the height of a cone and a cylinder be equal, then what will be the ratio of their volumes?",
     "prashna": "यदि एक शंकु और एक बेलन के व्यास और ऊँचाई समान हों, तो उनके आयतनों का अनुपात क्या होगा ?",
     "options": {
       "A": "$2 : 3$",
@@ -762,14 +762,14 @@
     "question": "$\\frac{\\tan 45^\\circ - \\tan 30^\\circ}{1 + \\tan 45^\\circ \\cdot \\tan 30^\\circ} =$",
     "prashna": "$\\frac{\\tan 45^\\circ - \\tan 30^\\circ}{1 + \\tan 45^\\circ \\cdot \\tan 30^\\circ} =$",
     "options": {
-      "A": "$\\frac{\\sqrt{3}-1}{\\sqrt{3}+1}$",
-      "B": "$\\frac{\\sqrt{3}+1}{\\sqrt{3}-1}$",
+      "A": "$\\frac{\\sqrt{3} - 1}{\\sqrt{3} + 1}$",
+      "B": "$\\frac{\\sqrt{3} + 1}{\\sqrt{3} - 1}$",
       "C": "$\\frac{1}{\\sqrt{3}}$",
       "D": "1"
     },
     "vikalpa": {
-      "A": "$\\frac{\\sqrt{3}-1}{\\sqrt{3}+1}$",
-      "B": "$\\frac{\\sqrt{3}+1}{\\sqrt{3}-1}$",
+      "A": "$\\frac{\\sqrt{3} - 1}{\\sqrt{3} + 1}$",
+      "B": "$\\frac{\\sqrt{3} + 1}{\\sqrt{3} - 1}$",
       "C": "$\\frac{1}{\\sqrt{3}}$",
       "D": "1"
     }
@@ -858,9 +858,9 @@
       "D": "none of these"
     },
     "vikalpa": {
-      "A": "$10\\text{ सेमी}$",
-      "B": "$5\\text{ सेमी}$",
-      "C": "$15\\text{ सेमी}$",
+      "A": "10 सेमी",
+      "B": "5 सेमी",
+      "C": "15 सेमी",
       "D": "इनमें से कोई नहीं"
     }
   },
@@ -903,8 +903,8 @@
   {
     "id": "obj_51",
     "type": "objective",
-    "question": "The sum of the circumference and radius of a circle is 51 cm. Then the radius of the circle is",
-    "prashna": "एक वृत्त की परिधि तथा त्रिज्या का योग 51 सेमी है, तो वृत्त की त्रिज्या होगी",
+    "question": "The sum of the circumference and radius of a circle is $51\\text{ cm}$. Then the radius of the circle is",
+    "prashna": "एक वृत्त की परिधि तथा त्रिज्या का योग $51\\text{ सेमी}$ है, तो वृत्त की त्रिज्या होगी",
     "options": {
       "A": "$7\\text{ cm}$",
       "B": "$14\\text{ cm}$",
@@ -912,17 +912,17 @@
       "D": "$28\\text{ cm}$"
     },
     "vikalpa": {
-      "A": "$7\\text{ सेमी}$",
-      "B": "$14\\text{ सेमी}$",
-      "C": "$21\\text{ सेमी}$",
-      "D": "$28\\text{ सेमी}$"
+      "A": "7 सेमी",
+      "B": "14 सेमी",
+      "C": "21 सेमी",
+      "D": "28 सेमी"
     }
   },
   {
     "id": "obj_52",
     "type": "objective",
     "question": "A sphere of radius $8\\text{ cm}$ is melted and recast into a cone of height $32\\text{ cm}$. The radius of the base of the cone is",
-    "prashna": "$8\\text{ सेमी}$ त्रिज्या के गोले को पिघलाकर एक $32\\text{ सेमी}$ ऊँचाई के शंकु के रूप में लाया जाता है। शंकु के आधार की त्रिज्या है",
+    "prashna": "8 सेमी त्रिज्या के गोले को पिघलाकर एक 32 सेमी ऊँचाई के शंकु के रूप में लाया जाता है। शंकु के आधार की त्रिज्या है",
     "options": {
       "A": "$8\\text{ cm}$",
       "B": "$9\\text{ cm}$",
@@ -930,9 +930,9 @@
       "D": "none of these"
     },
     "vikalpa": {
-      "A": "$8\\text{ सेमी}$",
-      "B": "$9\\text{ सेमी}$",
-      "C": "$10\\text{ सेमी}$",
+      "A": "8 सेमी",
+      "B": "9 सेमी",
+      "C": "10 सेमी",
       "D": "इनमें से कोई नहीं"
     }
   },
@@ -948,9 +948,9 @@
       "D": "none of these"
     },
     "vikalpa": {
-      "A": "$7\\text{ सेमी}$",
-      "B": "$12\\text{ सेमी}$",
-      "C": "$5\\text{ सेमी}$",
+      "A": "7 सेमी",
+      "B": "12 सेमी",
+      "C": "5 सेमी",
       "D": "इनमें से कोई नहीं"
     }
   },
@@ -984,10 +984,10 @@
       "D": "$4\\sqrt{2}\\text{ cm}$"
     },
     "vikalpa": {
-      "A": "$6\\text{ सेमी}$",
-      "B": "$6\\sqrt{2}\\text{ सेमी}$",
-      "C": "$2\\sqrt{6}\\text{ सेमी}$",
-      "D": "$4\\sqrt{2}\\text{ सेमी}$"
+      "A": "6 सेमी",
+      "B": "$6\\sqrt{2}$ सेमी",
+      "C": "$2\\sqrt{6}$ सेमी",
+      "D": "$4\\sqrt{2}$ सेमी"
     }
   },
   {
@@ -996,23 +996,23 @@
     "question": "$\\frac{\\tan \\theta}{\\sec \\theta - 1} + \\frac{\\tan \\theta}{\\sec \\theta + 1} =$",
     "prashna": "$\\frac{\\tan \\theta}{\\sec \\theta - 1} + \\frac{\\tan \\theta}{\\sec \\theta + 1} =$",
     "options": {
-      "A": "$2\\tan \\theta$",
-      "B": "$2\\sec \\theta$",
-      "C": "$2\\text{cosec } \\theta$",
-      "D": "$2\\tan \\theta \\cdot \\sec \\theta$"
+      "A": "$2 \\tan \\theta$",
+      "B": "$2 \\sec \\theta$",
+      "C": "$2 \\text{cosec } \\theta$",
+      "D": "$2 \\tan \\theta \\cdot \\sec \\theta$"
     },
     "vikalpa": {
-      "A": "$2\\tan \\theta$",
-      "B": "$2\\sec \\theta$",
-      "C": "$2\\text{cosec } \\theta$",
-      "D": "$2\\tan \\theta \\cdot \\sec \\theta$"
+      "A": "$2 \\tan \\theta$",
+      "B": "$2 \\sec \\theta$",
+      "C": "$2 \\text{cosec } \\theta$",
+      "D": "$2 \\tan \\theta \\cdot \\sec \\theta$"
     }
   },
   {
     "id": "obj_57",
     "type": "objective",
     "question": "A tangent $PQ$ at a point $P$ of a circle of radius $5\\text{ cm}$ meets a line through the centre $O$ at a point $Q$ such that $OQ = 12\\text{ cm}$. Length of $PQ$ is",
-    "prashna": "$5\\text{ सेमी}$ त्रिज्या वाले एक वृत्त के बिन्दु $P$ पर स्पर्श रेखा $PQ$ केन्द्र $O$ से जाने वाली एक रेखा से बिन्दु $Q$ पर इस प्रकार है कि $OQ = 12\\text{ सेमी}$। $PQ$ की लम्बाई है",
+    "prashna": "5 सेमी त्रिज्या वाले एक वृत्त के बिन्दु $P$ पर स्पर्श रेखा $PQ$ केन्द्र $O$ से जाने वाली एक रेखा से बिन्दु $Q$ पर इस प्रकार है कि $OQ = 12$ सेमी। $PQ$ की लम्बाई है",
     "options": {
       "A": "$12\\text{ cm}$",
       "B": "$13\\text{ cm}$",
@@ -1020,10 +1020,10 @@
       "D": "$\\sqrt{119}\\text{ cm}$"
     },
     "vikalpa": {
-      "A": "$12\\text{ सेमी}$",
-      "B": "$13\\text{ सेमी}$",
-      "C": "$8.5\\text{ सेमी}$",
-      "D": "$\\sqrt{119}\\text{ सेमी}$"
+      "A": "12 सेमी",
+      "B": "13 सेमी",
+      "C": "8.5 सेमी",
+      "D": "$\\sqrt{119}$ सेमी"
     }
   },
   {
@@ -1122,16 +1122,16 @@
     "question": "The solution of the pair of equations $3x - 2y + 3 = 0, 4x + 3y - 47 = 0$ is",
     "prashna": "समीकरण युग्म $3x - 2y + 3 = 0, 4x + 3y - 47 = 0$ का हल है",
     "options": {
-      "A": "$x = 1, y = 3$",
-      "B": "$x = 4, y = 5$",
-      "C": "$x = 5, y = 9$",
-      "D": "$x = 8, y = 5$"
+      "A": "$x=1, y=3$",
+      "B": "$x=4, y=5$",
+      "C": "$x=5, y=9$",
+      "D": "$x=8, y=5$"
     },
     "vikalpa": {
-      "A": "$x = 1, y = 3$",
-      "B": "$x = 4, y = 5$",
-      "C": "$x = 5, y = 9$",
-      "D": "$x = 8, y = 5$"
+      "A": "$x=1, y=3$",
+      "B": "$x=4, y=5$",
+      "C": "$x=5, y=9$",
+      "D": "$x=8, y=5$"
     }
   },
   {
@@ -1155,8 +1155,8 @@
   {
     "id": "obj_65",
     "type": "objective",
-    "question": "The common difference of the A.P. 6, 9, 12, ... is",
-    "prashna": "A.P. 6, 9, 12, ... का सार्व अंतर है",
+    "question": "The common difference of the A.P. $6, 9, 12, ...$ is",
+    "prashna": "A.P. $6, 9, 12, ...$ का सार्व अंतर है",
     "options": {
       "A": "3",
       "B": "-3",
@@ -1191,8 +1191,8 @@
   {
     "id": "obj_67",
     "type": "objective",
-    "question": "The 40th term of 8, 5, 2, ... is",
-    "prashna": "8, 5, 2, ... का 40 वाँ पद है",
+    "question": "The 40th term of $8, 5, 2, ...$ is",
+    "prashna": "$8, 5, 2, ...$ का 40 वाँ पद है",
     "options": {
       "A": "-107",
       "B": "-109",
@@ -1209,8 +1209,8 @@
   {
     "id": "obj_68",
     "type": "objective",
-    "question": "Which term of A.P. 11, 15, 19, ... is 51?",
-    "prashna": "A.P. 11, 15, 19, ... का कौन-सा पद 51 है ?",
+    "question": "Which term of A.P. $11, 15, 19, ...$ is $51$?",
+    "prashna": "A.P. $11, 15, 19, ...$ का कौन-सा पद $51$ है ?",
     "options": {
       "A": "9th",
       "B": "10th",
@@ -1227,7 +1227,7 @@
   {
     "id": "obj_69",
     "type": "objective",
-    "question": "Which of the following is equal to $\\frac{1}{\\sqrt{2}}$ ?",
+    "question": "Which of the following is equal to $\\frac{1}{\\sqrt{2}}$?",
     "prashna": "निम्नलिखित में से किसका मान $\\frac{1}{\\sqrt{2}}$ के बराबर है ?",
     "options": {
       "A": "$\\sin 30^\\circ$",
@@ -1245,8 +1245,8 @@
   {
     "id": "obj_70",
     "type": "objective",
-    "question": "If $\\tan \\theta = \\sqrt{3}$, then what will be the value of $\\theta$ ?",
-    "prashna": "यदि $\\tan \\theta = \\sqrt{3}$ हो, तो $\\theta$ का मान क्या होगा ?",
+    "question": "If $\\tan \\theta = \\sqrt{3}$, then what will be the value of $\\theta$?",
+    "prashna": "यदि $\\tan \\theta = \\sqrt{3}$, तो $\\theta$ का मान क्या होगा ?",
     "options": {
       "A": "$90^\\circ$",
       "B": "$45^\\circ$",
@@ -1263,8 +1263,8 @@
   {
     "id": "obj_71",
     "type": "objective",
-    "question": "The median of 2, 7, 5, 3, 8 is",
-    "prashna": "2, 7, 5, 3, 8 का माध्यक है",
+    "question": "The median of $2, 7, 5, 3, 8$ is",
+    "prashna": "$2, 7, 5, 3, 8$ का माध्यक है",
     "options": {
       "A": "2",
       "B": "3",
@@ -1281,8 +1281,8 @@
   {
     "id": "obj_72",
     "type": "objective",
-    "question": "The mode of 7, 2, 5, 7, 7, 3, 7 is",
-    "prashna": "7, 2, 5, 7, 7, 3, 7 का बहुलक है",
+    "question": "The mode of $7, 2, 5, 7, 7, 3, 7$ is",
+    "prashna": "$7, 2, 5, 7, 7, 3, 7$ का बहुलक है",
     "options": {
       "A": "2",
       "B": "3",
@@ -1299,8 +1299,8 @@
   {
     "id": "obj_73",
     "type": "objective",
-    "question": "The class mark of the class interval 15 - 25 is",
-    "prashna": "वर्ग अंतराल 15 - 25 का वर्ग चिह्न है",
+    "question": "The class mark of the class interval $15 - 25$ is",
+    "prashna": "वर्ग अंतराल $15 - 25$ का वर्ग चिह्न है",
     "options": {
       "A": "10",
       "B": "20",
@@ -1317,8 +1317,8 @@
   {
     "id": "obj_74",
     "type": "objective",
-    "question": "The length of the class intervals of the classes 2 - 5, 5 - 8, 8 - 11, 11 - 14, ... is",
-    "prashna": "वर्ग अंतरालों 2 - 5, 5 - 8, 8 - 11, 11 - 14, ... के वर्गों की लम्बाई है",
+    "question": "The length of the class intervals of the classes $2 - 5, 5 - 8, 8 - 11, 11 - 14, ...$ is",
+    "prashna": "वर्ग अंतरालों $2 - 5, 5 - 8, 8 - 11, 11 - 14, ...$ के वर्गों की लम्बाई है",
     "options": {
       "A": "2",
       "B": "3",
@@ -1371,7 +1371,7 @@
   {
     "id": "obj_77",
     "type": "objective",
-    "question": "What should be the length of the classes to calculate the mode from the formula ?",
+    "question": "What should be the length of the classes to calculate the mode from the formula?",
     "prashna": "सूत्र से बहुलक परिकलित करने के लिए वर्गों की लम्बाई कैसी होनी चाहिए ?",
     "options": {
       "A": "Equal",
@@ -1389,7 +1389,7 @@
   {
     "id": "obj_78",
     "type": "objective",
-    "question": "The mean and mode of a frequency distribution are 28 and 16 respectively. What will be its median ?",
+    "question": "The mean and mode of a frequency distribution are 28 and 16 respectively. What will be its median?",
     "prashna": "एक बारम्बारता बंटन के माध्य तथा बहुलक क्रमशः 28 तथा 16 हैं। इसका माध्यक क्या होगा ?",
     "options": {
       "A": "22",
@@ -1430,14 +1430,14 @@
     "options": {
       "A": "$\\pi r l$",
       "B": "$\\pi r^2 h$",
-      "C": "$\\pi r(r + l)$",
-      "D": "$2\\pi r h$"
+      "C": "$\\pi r (r + l)$",
+      "D": "$2 \\pi r h$"
     },
     "vikalpa": {
       "A": "$\\pi r l$",
       "B": "$\\pi r^2 h$",
-      "C": "$\\pi r(r + l)$",
-      "D": "$2\\pi r h$"
+      "C": "$\\pi r (r + l)$",
+      "D": "$2 \\pi r h$"
     }
   },
   {
@@ -1479,8 +1479,8 @@
   {
     "id": "obj_83",
     "type": "objective",
-    "question": "$\\sqrt{\\frac{1 - \\sin A}{1 + \\sin A}} =$",
-    "prashna": "$\\sqrt{\\frac{1 - \\sin A}{1 + \\sin A}} =$",
+    "question": "$\\frac{\\sqrt{1 - \\sin A}}{\\sqrt{1 + \\sin A}} =$",
+    "prashna": "$\\frac{\\sqrt{1 - \\sin A}}{\\sqrt{1 + \\sin A}} =$",
     "options": {
       "A": "$\\sec A + \\tan A$",
       "B": "$\\sec A - \\tan A$",
@@ -1542,10 +1542,10 @@
       "D": "$15\\text{ m}$"
     },
     "vikalpa": {
-      "A": "$\\frac{30}{\\sqrt{3}}\\text{ मी}$",
-      "B": "$15\\sqrt{3}\\text{ मी}$",
-      "C": "$30\\sqrt{3}\\text{ मी}$",
-      "D": "$15\\text{ मी}$"
+      "A": "$\\frac{30}{\\sqrt{3}}$ मी",
+      "B": "$15\\sqrt{3}$ मी",
+      "C": "$30\\sqrt{3}$ मी",
+      "D": "15 मी"
     }
   },
   {
@@ -1569,8 +1569,8 @@
   {
     "id": "obj_88",
     "type": "objective",
-    "question": "$\\frac{2\\tan 30^\\circ}{1 - \\tan^2 30^\\circ} =$",
-    "prashna": "$\\frac{2\\tan 30^\\circ}{1 - \\tan^2 30^\\circ} =$",
+    "question": "$\\frac{2 \\tan 30^\\circ}{1 - \\tan^2 30^\\circ} =$",
+    "prashna": "$\\frac{2 \\tan 30^\\circ}{1 - \\tan^2 30^\\circ} =$",
     "options": {
       "A": "0",
       "B": "1",
@@ -1659,7 +1659,7 @@
   {
     "id": "obj_93",
     "type": "objective",
-    "question": "Which of the following is a quadratic polynomial whose zeroes are 0 and 5 ?",
+    "question": "Which of the following is a quadratic polynomial whose zeroes are 0 and 5?",
     "prashna": "निम्नलिखित में से कौन द्विघात बहुपद है जिसके शून्यक 0 और 5 हैं ?",
     "options": {
       "A": "$x^2 + 5x + 5$",
@@ -1731,7 +1731,7 @@
   {
     "id": "obj_97",
     "type": "objective",
-    "question": "What is the power of 3 in the prime factorisation of 234 ?",
+    "question": "What is the power of 3 in the prime factorisation of 234?",
     "prashna": "234 के अभाज्य गुणनखण्ड में 3 का घात क्या है ?",
     "options": {
       "A": "3",
@@ -1816,7 +1816,7 @@
     "id": "short_3",
     "type": "short_answer",
     "question": "Prove that $\\tan^2 \\theta + \\cot^2 \\theta + 2 = \\sec^2 \\theta \\cdot \\text{cosec}^2 \\theta$.",
-    "prashna": "सिद्ध करें कि $\\tan^2 \\theta + \\cot^2 \\theta + 2 = \\sec^2 \\theta \\cdot \\text{cosec}^2 \\theta$।"
+    "prashna": "सिद्ध करें कि $\\tan^2 \\theta + \\cot^2 \\theta + 2 = \\sec^2 \\theta \\cdot \\text{cosec}^2 \\theta$."
   },
   {
     "id": "short_4",
@@ -1827,19 +1827,19 @@
   {
     "id": "short_5",
     "type": "short_answer",
-    "question": "Solve : $(x + 4)(x - 4) = 20$.",
-    "prashna": "हल करें : $(x + 4)(x - 4) = 20$।"
+    "question": "Solve: $(x+4)(x-4) = 20$.",
+    "prashna": "हल करें: $(x+4)(x-4) = 20$।"
   },
   {
     "id": "short_6",
     "type": "short_answer",
     "question": "$\\Delta ABC$ and $\\Delta DEF$ are similar and their areas are respectively $64\\text{ cm}^2$ and $121\\text{ cm}^2$. If $EF = 15.4\\text{ cm}$, then find the length of $BC$.",
-    "prashna": "$\\Delta ABC$ और $\\Delta DEF$ समरूप हैं तथा इनके क्षेत्रफल क्रमशः $64\\text{ सेमी}^2$ तथा $121\\text{ सेमी}^2$ हैं। यदि $EF = 15.4\\text{ सेमी}$ है तो $BC$ की लम्बाई ज्ञात करें।"
+    "prashna": "$\\Delta ABC$ और $\\Delta DEF$ समरूप हैं तथा इनके क्षेत्रफल क्रमशः $64$ सेमी$^2$ तथा $121$ सेमी$^2$ हैं। यदि $EF = 15.4$ सेमी है तो $BC$ की लम्बाई ज्ञात कर।"
   },
   {
     "id": "short_7",
     "type": "short_answer",
-    "question": "By comparing the ratios $\\frac{a_1}{a_2}$, $\\frac{b_1}{b_2}$ and $\\frac{c_1}{c_2}$, find out that the following pair $3x + 12y = 5, 2x + 8y = 7$ is inconsistent.",
+    "question": "By comparing the ratios $\\frac{a_1}{a_2}, \\frac{b_1}{b_2}$ and $\\frac{c_1}{c_2}$, find out that the following pair $3x + 12y = 5, 2x + 8y = 7$ is inconsistent.",
     "prashna": "अनुपातों $\\frac{a_1}{a_2}, \\frac{b_1}{b_2}$ एवं $\\frac{c_1}{c_2}$ की तुलना कर ज्ञात करें कि निम्नांकित युग्म $3x + 12y = 5, 2x + 8y = 7$ असंगत है।"
   },
   {
@@ -1851,7 +1851,7 @@
   {
     "id": "short_9",
     "type": "short_answer",
-    "question": "Find the coordinates of a point on the y-axis which is equidistant from the points $(-5, -2)$ and $(3, 2)$.",
+    "question": "Find the coordinates of a point on the $y$-axis which is equidistant from the points $(-5, -2)$ and $(3, 2)$.",
     "prashna": "$y$-अक्ष पर स्थित उस बिन्दु के निर्देशांक ज्ञात करें जो बिन्दुओं $(-5, -2)$ तथा $(3, 2)$ से समदूरस्थ हो।"
   },
   {
@@ -1863,20 +1863,20 @@
   {
     "id": "short_11",
     "type": "short_answer",
-    "question": "Find the mean of the following data : \n Marks obtained: 10, 15, 20, 25, 30 \n Number of students: 4, 6, 3, 2, 5",
-    "prashna": "निम्नांकित आँकड़ों का माध्य ज्ञात करें : \n प्राप्त अंक: 10, 15, 20, 25, 30 \n विद्यार्थियों की संख्या: 4, 6, 3, 2, 5"
+    "question": "Find the mean of the following data:\n\\begin{tabular}{|c|c|c|c|c|c|} \\hline Marks obtained & 10 & 15 & 20 & 25 & 30 \\\\ \\hline Number of students & 4 & 6 & 3 & 2 & 5 \\\\ \\hline \\end{tabular}",
+    "prashna": "निम्नांकित आँकड़ों का माध्य ज्ञात करें :\n\\begin{tabular}{|c|c|c|c|c|c|} \\hline प्राप्त अंक & 10 & 15 & 20 & 25 & 30 \\\\ \\hline विद्यार्थियों की संख्या & 4 & 6 & 3 & 2 & 5 \\\\ \\hline \\end{tabular}"
   },
   {
     "id": "short_12",
     "type": "short_answer",
     "question": "Find the area of the triangle whose vertices are $(3, 4), (-4, 3)$ and $(8, 6)$ respectively.",
-    "prashna": "उस त्रिभुज का क्षेत्रफल ज्ञात करें जिसके शीर्ष क्रमशः : $(3, 4), (-4, 3)$ तथा $(8, 6)$ हैं।"
+    "prashna": "उस त्रिभुज का क्षेत्रफल ज्ञात करें जिसके शीर्ष क्रमशः $(3, 4), (-4, 3)$ तथा $(8, 6)$ हैं।"
   },
   {
     "id": "short_13",
     "type": "short_answer",
-    "question": "Which term of the A.P. 7, 13, 19, ... is 205 ?",
-    "prashna": "समांतर श्रेढ़ी 7, 13, 19, ... का कौन-सा पद 205 है ?",
+    "question": "Which term of the A.P. $7, 13, 19, ...$ is $205$?",
+    "prashna": "समांतर श्रेढ़ी $7, 13, 19, ...$ का कौन-सा पद $205$ है ?"
   },
   {
     "id": "short_14",
@@ -1912,19 +1912,19 @@
     "id": "short_19",
     "type": "short_answer",
     "question": "The length of the tangent drawn from an external point $P$ to a circle is $15\\text{ cm}$ and the distance of the point $P$ from the centre of the circle is $17\\text{ cm}$. Find the radius of the circle.",
-    "prashna": "एक बाह्य बिन्दु $P$ से वृत्त पर खींची गई स्पर्श रेखा की लंबाई $15\\text{ सेमी}$ है तथा बिन्दु $P$ की वृत्त के केन्द्र से दूरी $17\\text{ सेमी}$ है। वृत्त की त्रिज्या ज्ञात करें।"
+    "prashna": "एक बाह्य बिन्दु $P$ से वृत्त पर खींची गई स्पर्श रेखा की लंबाई $15$ सेमी है तथा बिन्दु $P$ की वृत्त के केन्द्र से दूरी $17$ सेमी है। वृत्त की त्रिज्या ज्ञात करें।"
   },
   {
     "id": "short_20",
     "type": "short_answer",
     "question": "Find the area of a quadrant of a circle whose circumference is $22\\text{ cm}$.",
-    "prashna": "एक वृत्त के चतुर्थांश का क्षेत्रफल ज्ञात करें जिसकी परिधि $22\\text{ सेमी}$ है।"
+    "prashna": "एक वृत्त के चतुर्थांश का क्षेत्रफल ज्ञात करें जिसकी परिधि $22$ सेमी है।"
   },
   {
     "id": "short_21",
     "type": "short_answer",
     "question": "If $A = 90^\\circ$ and $B = 45^\\circ$, then prove that $\\cos(A - B) = \\cos A \\cos B + \\sin A \\sin B$.",
-    "prashna": "यदि $A = 90^\\circ$ तथा $B = 45^\\circ$ हो, तो सिद्ध करें कि $\\cos(A - B) = \\cos A \\cos B + \\sin A \\sin B$।"
+    "prashna": "यदि $A = 90^\\circ$ तथा $B = 45^\\circ$ हो, तो सिद्ध करें कि $\\cos(A - B) = \\cos A \\cos B + \\sin A \\sin B$."
   },
   {
     "id": "short_22",
@@ -1936,13 +1936,13 @@
     "id": "short_23",
     "type": "short_answer",
     "question": "If the perimeter of a semi-circular protractor is $36\\text{ cm}$, then find its diameter.",
-    "prashna": "यदि एक अर्द्ध-वृत्ताकार चाँद का परिमाप $36\\text{ सेमी}$ है, तो इसका व्यास ज्ञात करें।"
+    "prashna": "यदि एक अर्द्ध-वृत्ताकार चाँद का परिमाप $36$ सेमी है, तो इसका व्यास ज्ञात करें।"
   },
   {
     "id": "short_24",
     "type": "short_answer",
-    "question": "Prove that $\\frac{2\\tan 30^\\circ}{1 - \\tan^2 30^\\circ} = \\sqrt{3}$.",
-    "prashna": "सिद्ध करें $\\frac{2\\tan 30^\\circ}{1 - \\tan^2 30^\\circ} = \\sqrt{3}$।"
+    "question": "Prove that $\\frac{2 \\tan 30^\\circ}{1 - \\tan^2 30^\\circ} = \\sqrt{3}$.",
+    "prashna": "सिद्ध करें $\\frac{2 \\tan 30^\\circ}{1 - \\tan^2 30^\\circ} = \\sqrt{3}$."
   },
   {
     "id": "short_25",
@@ -1995,32 +1995,32 @@
   {
     "id": "long_3",
     "type": "long_answer",
-    "question": "Find the mean of the following distribution : \n Class-interval: 5-15, 15-25, 25-35, 35-45, 45-55, 55-65 \n Frequency: 6, 11, 21, 23, 14, 5",
-    "prashna": "निम्नलिखित बंटन का माध्य ज्ञात करें : \n वर्ग-अंतराल: 5-15, 15-25, 25-35, 35-45, 45-55, 55-65 \n बारंबारता: 6, 11, 21, 23, 14, 5"
+    "question": "Find the mean of the following distribution:\n\\begin{tabular}{|c|c|c|c|c|c|c|} \\hline Class-interval & 5-15 & 15-25 & 25-35 & 35-45 & 45-55 & 55-65 \\\\ \\hline Frequency & 6 & 11 & 21 & 23 & 14 & 5 \\\\ \\hline \\end{tabular}",
+    "prashna": "निम्नलिखित बंटन का माध्य ज्ञात करें :\n\\begin{tabular}{|c|c|c|c|c|c|c|} \\hline वर्ग-अंतराल & 5-15 & 15-25 & 25-35 & 35-45 & 45-55 & 55-65 \\\\ \\hline बारंबारता & 6 & 11 & 21 & 23 & 14 & 5 \\\\ \\hline \\end{tabular}"
   },
   {
     "id": "long_4",
     "type": "long_answer",
     "question": "Two poles of equal heights are standing opposite to each other on either sides of the road which is $80\\text{ m}$ wide. From a point $P$ between them on the road the angle of elevation of the top of one pole is $60^\\circ$ and the angle of depression of the point $P$ from the top of another pole is $30^\\circ$. Find the height of each pole and distances of the point $P$ from the poles.",
-    "prashna": "समान ऊँचाई के दो खंभे $80\\text{ मी}$ चौड़ी सड़क के दोनों ओर एक दूसरे के सम्मुख हैं। इन दोनों खंभों के बीच सड़क के किसी बिन्दु $P$ पर एक खंभे के शीर्ष का उन्नयन कोण $60^\\circ$ है तथा दूसरे खंभे के शीर्ष से बिन्दु $P$ का अवनमन कोण $30^\\circ$ है। खंभों की ऊँचाइयाँ तथा बिन्दु $P$ की खंभों से दूरियाँ ज्ञात करें।"
+    "prashna": "समान ऊँचाई के दो खंभे $80$ मी चौड़ी सड़क के दोनों ओर एक दूसरे के सम्मुख हैं। इन दोनों खंभों के बीच सड़क के किसी बिन्दु $P$ पर एक खंभे के शीर्ष का उन्नयन कोण $60^\\circ$ है तथा दूसरे खंभे के शीर्ष से बिन्दु $P$ का अवनमन कोण $30^\\circ$ है। खंभों की ऊँचाइयाँ तथा बिन्दु $P$ की खंभों से दूरियाँ ज्ञात करें।"
   },
   {
     "id": "long_5",
     "type": "long_answer",
-    "question": "Draw a right angled triangle $ABC$ in which $AB = 6\\text{ cm}, BC = 8\\text{ cm}$ and $\\angle B = 90^\\circ$, $D$ is the foot of perpendicular $BD$ from $B$ on $AC$. Draw circumcircle of $\\Delta BCD$ and draw a tangent from $A$ on this circle.",
-    "prashna": "एक समकोण त्रिभुज $ABC$ खींचें जिसमें $AB = 6\\text{ सेमी}, BC = 8\\text{ सेमी}$ तथा $\\angle B = 90^\\circ$, $B$ से $AC$ पर लंब $BD$ का पाद $D$ है। $\\Delta BCD$ का परिवृत्त खींचें और $A$ से इस वृत्त पर एक स्पर्शी खींचें।"
+    "question": "Draw a right angled triangle $ABC$ in which $AB = 6\\text{ cm}, BC = 8\\text{ cm}$ and $\\angle B = 90^\\circ, D$ is the foot of perpendicular $BD$ from $B$ on $AC$. Draw circumcircle of $\\Delta BCD$ and draw a tangent from $A$ on this circle.",
+    "prashna": "एक समकोण त्रिभुज $ABC$ खींचें जिसमें $AB = 6$ सेमी, $BC = 8$ सेमी तथा $\\angle B = 90^\circ, B$ से $AC$ पर लंब $BD$ का पाद $D$ है। $\\Delta BCD$ का परिवृत्त खींचें और $A$ से इस वृत्त पर एक स्पर्शरेखा खींचें।"
   },
   {
     "id": "long_6",
     "type": "long_answer",
     "question": "A well of diameter $3\\text{ m}$ is dug $14\\text{ m}$ deep. The soil taken out of it has been spread evenly all around it in the shape of a circular ring of width $4\\text{ m}$ to form an embankment. Find the height of the embankment.",
-    "prashna": "व्यास $3\\text{ मी}$ का एक कुआँ $14\\text{ मी}$ की गहराई तक खोदा जाता है। इससे निकली हुई मिट्टी को कुएँ के चारों ओर $4\\text{ मी}$ चौड़ी एक वृत्ताकार वलय बनाते हुए समान रूप से फैलाकर एक प्रकार का बाँध बनाया जाता है। इस बाँध की ऊँचाई ज्ञात करें।"
+    "prashna": "व्यास $3$ मी का एक कुआँ $14$ मी की गहराई तक खोदा जाता है। इससे निकली हुई मिट्टी को कुएँ के चारों ओर $4$ मी चौड़ी एक वृत्ताकार वलय बनाते हुए समान रूप से फैलाकर एक प्रकार का बाँध बनाया जाता है। इस बाँध की ऊँचाई ज्ञात करें।"
   },
   {
     "id": "long_7",
     "type": "long_answer",
     "question": "Prove that $\\tan 7^\\circ \\cdot \\tan 23^\\circ \\cdot \\tan 60^\\circ \\cdot \\tan 67^\\circ \\cdot \\tan 83^\\circ = \\sqrt{3}$.",
-    "prashna": "सिद्ध करें कि $\\tan 7^\\circ \\cdot \\tan 23^\\circ \\cdot \\tan 60^\\circ \\cdot \\tan 67^\\circ \\cdot \\tan 83^\\circ = \\sqrt{3}$।"
+    "prashna": "सिद्ध करें कि $\\tan 7^\\circ \\cdot \\tan 23^\\circ \\cdot \\tan 60^\\circ \\cdot \\tan 67^\\circ \\cdot \\tan 83^\\circ = \\sqrt{3}$."
   },
   {
     "id": "long_8",

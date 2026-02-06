@@ -1,14 +1,20 @@
 import json
 import pathlib
 import re
-import utils
+
+def clean_json_response(raw_text: str) -> str:
+    """Extracts JSON content from a string, handling markdown code blocks."""
+    match = re.search(r'```json\s*([\s\S]*?)\s*```', raw_text, re.DOTALL)
+    if match:
+        return match.group(1).strip()
+    return raw_text.strip()
 
 def repair_json_string(raw_text):
     """
     Attempts to repair common JSON issues in Gemini's math responses.
     """
     # 1. Clean markdown blocks
-    text = utils.clean_json_response(raw_text)
+    text = clean_json_response(raw_text)
     
     # 2. Fix unescaped backslashes
     # We want to escape backslashes that are NOT part of a valid JSON escape.
@@ -37,7 +43,6 @@ def repair_json_string(raw_text):
     return text
 
 def main():
-    logger = utils.setup_logger('repair_mathematics', 'logs/repair_mathematics.log')
     print("Repairing Mathematics Data from Raw API Responses...")
     
     raw_folder = pathlib.Path("mathematics_data_raw")
