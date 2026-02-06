@@ -22,7 +22,7 @@ def main() -> None:
     output_dir = "english_pro"
     os.makedirs(output_dir, exist_ok=True)
 
-    input_files = sorted(glob.glob(os.path.join(source_dir, "english_*.json")))
+    input_files = sorted(glob.glob(os.path.join(source_dir, "eng_*.json")))
     grouped_by_year: Dict[str, List[Dict[str, Any]]] = {}
     per_file_counts: Dict[str, int] = {}
 

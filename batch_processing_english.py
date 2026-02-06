@@ -43,8 +43,10 @@ def main():
     # Configuration
     MAX_WORKERS = 4  # Number of parallel requests (adjust based on API limits)
     
-    # List of years to process
-    years = list(range(2025, 2020, -1))  # 2025 to 2021
+    # List of years to process (2011-2025)
+    years = list(range(2025, 2010, -1))  # 2025 to 2011
+    shifts = ["i", "ii"]  # Shift suffixes
+    
     input_folder = pathlib.Path("english_papers")
     output_folder = pathlib.Path("english_data")
     output_folder.mkdir(exist_ok=True)
@@ -53,20 +55,21 @@ def main():
     papers_to_process = []
     
     for year in years:
-        input_pdf = input_folder / f"english_{year}.pdf"
-        output_json = output_folder / f"english_{year}.json"
-        
-        # Check if input file exists
-        if not input_pdf.exists():
-            print(f"⚠️  Skipping {input_pdf.name} -> file not found")
-            continue
+        for shift in shifts:
+            input_pdf = input_folder / f"eng_{year}{shift}.pdf"
+            output_json = output_folder / f"eng_{year}{shift}.json"
             
-        # Check if output file already exists
-        if output_json.exists():
-            print(f"⏭️  Skipping {input_pdf.name} -> {output_json.name} (already processed)")
-            continue
-        
-        papers_to_process.append((input_pdf, output_json))
+            # Check if input file exists
+            if not input_pdf.exists():
+                print(f"⚠️  Skipping {input_pdf.name} -> file not found")
+                continue
+                
+            # Check if output file already exists
+            if output_json.exists():
+                print(f"⏭️  Skipping {input_pdf.name} -> {output_json.name} (already processed)")
+                continue
+            
+            papers_to_process.append((input_pdf, output_json))
     
     if not papers_to_process:
         print("\n✨ All papers already processed!")

@@ -79,6 +79,8 @@ def process_question_paper(input_pdf_path: str, output_json_path: str):
     raw_folder = output_parent.parent / raw_folder_name
     raw_folder.mkdir(exist_ok=True, parents=True)
 
+    # Initialize API
+    import google.generativeai as genai
     utils.configure_genai()
 
     logger.info("Uploading file...")
