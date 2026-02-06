@@ -1,22 +1,17 @@
 import os
-import google.generativeai as genai
 import json
 import argparse
 import pathlib
 import textwrap
-import re
 import time
 from dotenv import load_dotenv
 import utils
 
+# --- Configuration ---
 load_dotenv()
 logger = utils.setup_logger('process_hindi', 'logs/process_hindi.log')
 
-def clean_json_response(raw_text: str) -> str:
-    match = re.search(r'```json\s*([\s\S]*?)\s*```', raw_text, re.DOTALL)
-    if match:
-        return match.group(1).strip()
-    return raw_text.strip()
+# --- Core Functions ---
 
 def generate_extraction_prompt(uploaded_file_uri: str) -> list:
     prompt = textwrap.dedent("""
@@ -73,38 +68,76 @@ def process_question_paper(input_pdf_path: str, output_json_path: str):
     
     input_path = pathlib.Path(input_pdf_path)
     if not input_path.exists():
-        raise FileNotFoundError(f"Input file not found: {input_pdf_path}")
+        msg = f"Input file not found: {input_pdf_path}"
+        logger.error(msg)
+        raise FileNotFoundError(msg)
+
+    # Prepare raw output folder
+    output_path = pathlib.Path(output_json_path)
+    output_parent = output_path.parent
+    raw_folder_name = output_parent.name + "_raw"
+    raw_folder = output_parent.parent / raw_folder_name
+    raw_folder.mkdir(exist_ok=True, parents=True)
 
     utils.configure_genai()
 
+    logger.info("Uploading file...")
     print("Uploading file...")
-    uploaded_file = genai.upload_file(path=input_path, display_name=input_path.name)
-    
+    try:
+        uploaded_file = genai.upload_file(path=input_path, display_name=input_path.name)
+        logger.info(f"File uploaded: {uploaded_file.uri}")
+    except Exception as e:
+        logger.error(f"Upload failed: {e}")
+        raise
+
+    logger.info("Generating content...")
     print("Generating content...")
     prompt_parts = generate_extraction_prompt(uploaded_file.uri)
     model = utils.get_generative_model(model_name="models/gemini-2.0-flash")
     
     response = utils.generate_content_with_retry(model, prompt_parts, logger=logger)
 
-    if response:
-        print("Parsing response...")
-        try:
-            cleaned_json = clean_json_response(response.text)
-            data = json.loads(cleaned_json)
-            
-            output_path = pathlib.Path(output_json_path)
-            output_path.parent.mkdir(exist_ok=True, parents=True)
-            with open(output_path, 'w', encoding='utf-8') as f:
-                json.dump(data, f, indent=4, ensure_ascii=False)
-            print(f"✅ Saved to {output_json_path}")
-        except Exception as e:
-            logger.error(f"Error: {e}")
-            print(f"❌ Error: {e}")
-    
-    try: genai.delete_file(uploaded_file.name)
-    except: pass
+    if not response:
+        logger.error("API call failed after retries")
+        try: genai.delete_file(uploaded_file.name)
+        except: pass
+        return
 
-    logger.info(f"Time: {time.time() - start_time:.2f}s")
+    # Save raw response IMMEDIATELY
+    raw_path = raw_folder / f"{input_path.stem}_raw.txt"
+    try:
+        with open(raw_path, 'w', encoding='utf-8') as f:
+            f.write(response.text)
+        logger.info(f"Raw API response saved to: {raw_path}")
+    except Exception as e:
+        logger.error(f"Failed to save raw response: {e}")
+
+    logger.info("Parsing response...")
+    print("Parsing response...")
+    try:
+        cleaned_json = utils.clean_json_response(response.text)
+        data = json.loads(cleaned_json)
+        
+        output_path.parent.mkdir(exist_ok=True, parents=True)
+        with open(output_path, 'w', encoding='utf-8') as f:
+            json.dump(data, f, indent=4, ensure_ascii=False)
+            
+        logger.info(f"Saved extracted data to {output_json_path}")
+        print(f"✅ Saved to {output_json_path}")
+    except Exception as e:
+        logger.error(f"Error parsing/saving: {e}")
+        logger.info(f"Raw response is preserved at {raw_path}")
+        print(f"❌ Error: {e}")
+    
+    try:
+        genai.delete_file(uploaded_file.name)
+        logger.info("Deleted uploaded file from API")
+    except: 
+        pass
+
+    elapsed = time.time() - start_time
+    logger.info(f"Time: {elapsed:.2f}s")
+    print(f"⏱️  Time: {elapsed:.2f}s")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
