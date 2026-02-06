@@ -122,7 +122,7 @@ def main():
     chapters = SCIENCE_CHAPTERS
     model = utils.get_generative_model(model_name="models/gemini-3-flash-preview")
     
-    MAX_WORKERS = 2
+    MAX_WORKERS = 20
     
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         futures = [executor.submit(process_single_file, f, out_folder, raw_folder, chapters, model, logger) for f in files]
