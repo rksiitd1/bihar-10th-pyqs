@@ -75,7 +75,7 @@ def main() -> None:
     types_dir = "english_pro_types"
     base_output_dir = "english_pro_type_chapters"
     
-    types = ["objective", "short", "long"]
+    types = ["objective", "short", "long", "comprehension", "letter_writing", "essay", "translation"]
     
     overall_manifest = []
     
