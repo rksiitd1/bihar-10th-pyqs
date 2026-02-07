@@ -1,8 +1,20 @@
 [
   {
-    "type": "unknown",
-    "file": "type-unknown.json",
-    "total_items": 133,
+    "type": "comprehension",
+    "file": "type-comprehension.json",
+    "total_items": 50,
+    "years": 10
+  },
+  {
+    "type": "essay",
+    "file": "type-essay.json",
+    "total_items": 49,
+    "years": 10
+  },
+  {
+    "type": "letter_writing",
+    "file": "type-letter_writing.json",
+    "total_items": 34,
     "years": 10
   },
   {

@@ -37,5 +37,44 @@
         "years": 8
       }
     ]
+  },
+  {
+    "type": "comprehension",
+    "total_chapters": 1,
+    "total_items": 50,
+    "chapters": [
+      {
+        "chapter": "0",
+        "file": "chapter-0.json",
+        "total_items": 50,
+        "years": 10
+      }
+    ]
+  },
+  {
+    "type": "letter_writing",
+    "total_chapters": 1,
+    "total_items": 34,
+    "chapters": [
+      {
+        "chapter": "0",
+        "file": "chapter-0.json",
+        "total_items": 34,
+        "years": 10
+      }
+    ]
+  },
+  {
+    "type": "essay",
+    "total_chapters": 1,
+    "total_items": 49,
+    "chapters": [
+      {
+        "chapter": "0",
+        "file": "chapter-0.json",
+        "total_items": 49,
+        "years": 10
+      }
+    ]
   }
 ]

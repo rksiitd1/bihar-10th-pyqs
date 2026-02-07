@@ -1,9 +1,27 @@
 [
   {
-    "type": "unknown",
-    "file": "type-unknown.json",
-    "total_items": 142,
-    "years": 11
+    "type": "comprehension",
+    "file": "type-comprehension.json",
+    "total_items": 54,
+    "years": 10
+  },
+  {
+    "type": "letter_writing",
+    "file": "type-letter_writing.json",
+    "total_items": 47,
+    "years": 10
+  },
+  {
+    "type": "essay",
+    "file": "type-essay.json",
+    "total_items": 23,
+    "years": 10
+  },
+  {
+    "type": "translation",
+    "file": "type-translation.json",
+    "total_items": 18,
+    "years": 8
   },
   {
     "type": "long",
