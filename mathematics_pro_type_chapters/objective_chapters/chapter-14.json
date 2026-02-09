@@ -1,0 +1,836 @@
+{
+  "2019": [
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "Which of the following cannot be the probability of an event?",
+      "prashna": "निम्न में से कौन किसी घटना की प्रायिकता नहीं हो सकती है?",
+      "options": {
+        "A": "3.5",
+        "B": "0.2",
+        "C": "0.3",
+        "D": "60%"
+      },
+      "vikalpa": {
+        "A": "3.5",
+        "B": "0.2",
+        "C": "0.3",
+        "D": "60%"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "One card is drawn at random from a well shuffled deck of playing cards, then the probability of getting an ace is -",
+      "prashna": "ताश के पत्तों की एक गड्डी को अच्छी तरह से फेंटा गया है। एक पत्ती यादृच्छया निकाली जाती है, तो इसके इक्का होने की संभावना है -",
+      "options": {
+        "A": "$\frac{1}, {4}$",
+        "B": "$\frac{1}, {26}$",
+        "C": "$\frac{1}, {13}$",
+        "D": "$\frac{4}, {13}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{1}, {4}$",
+        "B": "$\frac{1}, {26}$",
+        "C": "$\frac{1}, {13}$",
+        "D": "$\frac{4}, {13}$"
+      }
+    },
+    {
+      "id": "obj_49",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "For an event E, which of the following is correct?",
+      "prashna": "किसी घटना E के लिए निम्न में कौन सही है?",
+      "options": {
+        "A": "$P(E) > 1$",
+        "B": "$P(E) < 0$",
+        "C": "$P(E) = 1$",
+        "D": "$P(E) = -1$"
+      },
+      "vikalpa": {
+        "A": "$P(E) > 1$",
+        "B": "$P(E) < 0$",
+        "C": "$P(E) = 1$",
+        "D": "$P(E) = -1$"
+      }
+    }
+  ],
+  "2020": [
+    {
+      "id": "obj_46",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "Which of the following numbers cannot be the probability of an event?",
+      "prashna": "निम्नलिखित में से कौन-सी संख्या, एक घटना की प्रायिकता नहीं हो सकती है?",
+      "options": {
+        "A": "$\frac{2}, {3}$",
+        "B": "-0.5",
+        "C": "0.7",
+        "D": "15%"
+      },
+      "vikalpa": {
+        "A": "$\frac{2}, {3}$",
+        "B": "-0.5",
+        "C": "0.7",
+        "D": "15%"
+      }
+    },
+    {
+      "id": "obj_55",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "A card is drawn at random from a well-shuffled deck of 52 cards. What is the probability of getting a king of black colour?",
+      "prashna": "52 ताशों की एक गड्डी को अच्छी तरह फेंटकर, उसमें से यादृच्छया एक पत्ता निकाला जाता है। इसके काले रंग का बादशाह होने की प्रायिकता कितनी है?",
+      "options": {
+        "A": "$\frac{1}, {13}$",
+        "B": "$\frac{1}, {26}$",
+        "C": "$\frac{1}, {52}$",
+        "D": "$\frac{3}, {39}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{1}, {13}$",
+        "B": "$\frac{1}, {26}$",
+        "C": "$\frac{1}, {52}$",
+        "D": "$\frac{3}, {39}$"
+      }
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "The probability of an impossible event is",
+      "prashna": "असंभव घटना की प्रायिकता होती है",
+      "options": {
+        "A": "$\frac{1}, {2}$",
+        "B": "1",
+        "C": "0",
+        "D": "$\frac{1}, {3}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{1}, {2}$",
+        "B": "1",
+        "C": "0",
+        "D": "$\frac{1}, {3}$"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "Two dice are thrown together. The probability of getting the same number on both dice is",
+      "prashna": "दो पासों को एक साथ उछाला गया। दोनों पासों के ऊपरी सतह पर एक ही संख्या आने की क्या प्रायिकता है ?",
+      "options": {
+        "A": "$\frac{1}, {3}$",
+        "B": "$\frac{1}, {6}$",
+        "C": "$\frac{1}, {4}$",
+        "D": "$\frac{2}, {3}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{1}, {3}$",
+        "B": "$\frac{1}, {6}$",
+        "C": "$\frac{1}, {4}$",
+        "D": "$\frac{2}, {3}$"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "If the probability of occurrence of an event $E$ is $P(E)$, then which of the following is correct?",
+      "prashna": "किसी घटना $E$ के घटित होने की प्रायिकता $P(E)$ हो, तो निम्नांकित में कौन सही है ?",
+      "options": {
+        "A": "$P(E) < 0$",
+        "B": "$P(E) > 1$",
+        "C": "$-1 \\leq P(E) \\leq 1$",
+        "D": "$0 \\leq P(E) \\leq 1$"
+      },
+      "vikalpa": {
+        "A": "$P(E) < 0$",
+        "B": "$P(E) > 1$",
+        "C": "$-1 \\leq P(E) \\leq 1$",
+        "D": "$0 \\leq P(E) \\leq 1$"
+      }
+    },
+    {
+      "id": "obj_51",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "A die is thrown. The probability of getting an even number is",
+      "prashna": "किसी पासे को फेंकने पर सम संख्या आने की प्रायिकता है",
+      "options": {
+        "A": "$\frac{2}, {3}$",
+        "B": "$\frac{1}, {6}$",
+        "C": "$\frac{1}, {3}$",
+        "D": "$\frac{1}, {2}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{2}, {3}$",
+        "B": "$\frac{1}, {6}$",
+        "C": "$\frac{1}, {3}$",
+        "D": "$\frac{1}, {2}$"
+      }
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_46",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "Which of the following numbers cannot be the probability of an event ?",
+      "prashna": "निम्नलिखित में से कौन-सी संख्या एक घटना की प्रायिकता नहीं हो सकती है ?",
+      "options": {
+        "A": "1.5",
+        "B": "$\frac{3}, {5}$",
+        "C": "25%",
+        "D": "0.3"
+      },
+      "vikalpa": {
+        "A": "1.5",
+        "B": "$\frac{3}, {5}$",
+        "C": "25%",
+        "D": "0.3"
+      }
+    },
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "The probability of sure event is",
+      "prashna": "निश्चित घटना की प्रायिकता होती है",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "$\frac{1}, {2}$",
+        "D": "1.5"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "0",
+        "C": "$\frac{1}, {2}$",
+        "D": "1.5"
+      }
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "If the probability of occurrence of an event $E$ is $P(E)$, then which of the following is correct ?",
+      "prashna": "किसी घटना $E$ के घटित होने की प्रायिकता $P(E)$ हो, तो निम्नांकित में कौन सही है ?",
+      "options": {
+        "A": "$P(E) < 0$",
+        "B": "$P(E) > 1$",
+        "C": "$-1 \\leq P(E) \\leq 1$",
+        "D": "$0 \\leq P(E) \\leq 1$"
+      },
+      "vikalpa": {
+        "A": "$P(E) < 0$",
+        "B": "$P(E) > 1$",
+        "C": "$-1 \\leq P(E) \\leq 1$",
+        "D": "$0 \\leq P(E) \\leq 1$"
+      }
+    },
+    {
+      "id": "obj_100",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "From a well-shuffled deck of 52 cards, one card is drawn at random. What is the probability of getting a queen ?",
+      "prashna": "अच्छी तरह से फेंटी गई ताश के 52 पत्तों की एक गड्डी से एक पत्ता यादृच्छया निकाला जाता है तो उसके बेगम होने की प्रायिकता क्या होगी ?",
+      "options": {
+        "A": "$\frac{1}, {13}$",
+        "B": "$\frac{1}, {26}$",
+        "C": "$\frac{4}, {39}$",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "$\frac{1}, {13}$",
+        "B": "$\frac{1}, {26}$",
+        "C": "$\frac{4}, {39}$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "Two unbiased coins are tossed, then the probability of getting $2$ heads (chit) is",
+      "prashna": "दो न्यायसंगत सिक्के उछाले जाते हैं, तो $2$ शीर्ष ( चित ) आने की प्रायिकता है",
+      "options": {
+        "A": "$\frac{1}, {3}$",
+        "B": "$\frac{1}, {2}$",
+        "C": "$\frac{1}, {8}$",
+        "D": "$\frac{1}, {4}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{1}, {3}$",
+        "B": "$\frac{1}, {2}$",
+        "C": "$\frac{1}, {8}$",
+        "D": "$\frac{1}, {4}$"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "Two dice are thrown together, the probability of getting the same number on both is",
+      "prashna": "दो पासे एक साथ उछाले गये तो दोनों पर एक ही संख्या आने की प्रायिकता होगी",
+      "options": {
+        "A": "$\frac{1}, {2}$",
+        "B": "$\frac{1}, {3}$",
+        "C": "$\frac{1}, {6}$",
+        "D": "$\frac{1}, {12}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{1}, {2}$",
+        "B": "$\frac{1}, {3}$",
+        "C": "$\frac{1}, {6}$",
+        "D": "$\frac{1}, {12}$"
+      }
+    },
+    {
+      "id": "obj_72",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "If the probability of an event happening is $p$, then the probability of its complementary event happening will be",
+      "prashna": "यदि किसी घटना की संभावना $p$ है, तो इसके पूरक घटना की संभावना होगी",
+      "options": {
+        "A": "$p$",
+        "B": "$p - 1$",
+        "C": "$1 - \frac{1}, {p}$",
+        "D": "$1 - p$"
+      },
+      "vikalpa": {
+        "A": "$p$",
+        "B": "$p - 1$",
+        "C": "$1 - \frac{1}, {p}$",
+        "D": "$1 - p$"
+      }
+    },
+    {
+      "id": "obj_77",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "The probability of a certain event is",
+      "prashna": "निश्चित घटना की प्रायिकता होती है",
+      "options": {
+        "A": "$0$",
+        "B": "$\frac{1}, {2}$",
+        "C": "$1$",
+        "D": "$\frac{1}, {4}$"
+      },
+      "vikalpa": {
+        "A": "$0$",
+        "B": "$\frac{1}, {2}$",
+        "C": "$1$",
+        "D": "$\frac{1}, {4}$"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_92",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "The probability of an impossible event is",
+      "prashna": "असंभव घटना की प्रायिकता होती है",
+      "options": {
+        "A": "$\frac{1}, {2}$",
+        "B": "1",
+        "C": "0",
+        "D": "$\frac{1}, {3}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{1}, {2}$",
+        "B": "1",
+        "C": "0",
+        "D": "$\frac{1}, {3}$"
+      }
+    },
+    {
+      "id": "obj_93",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "If $P(E)$ is the probability of an event $E$, then which one of the following is true?",
+      "prashna": "यदि $P(E)$ किसी घटना $E$ की प्रायिकता हो तो निम्नलिखित में कौन-सा सही है?",
+      "options": {
+        "A": "$P(E) < 0$",
+        "B": "$P(E) > 1$",
+        "C": "$0 \\leq P(E) \\leq 1$",
+        "D": "$-1 \\leq P(E) \\leq 1$"
+      },
+      "vikalpa": {
+        "A": "$P(E) < 0$",
+        "B": "$P(E) > 1$",
+        "C": "$0 \\leq P(E) \\leq 1$",
+        "D": "$-1 \\leq P(E) \\leq 1$"
+      }
+    },
+    {
+      "id": "obj_94",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "If the probability of winning a game is 0.4, then the probability of losing it is",
+      "prashna": "यदि किसी खेल को जीतने की प्रायिकता 0.4 है तो उसे हारने की प्रायिकता होगी",
+      "options": {
+        "A": "0.96",
+        "B": "$\frac{1}, {0.4}$",
+        "C": "0.6",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "0.96",
+        "B": "$\frac{1}, {0.4}$",
+        "C": "0.6",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_95",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "In tossing two coins simultaneously, the probability of getting no head is",
+      "prashna": "दो सिक्कों की युगपत् उछाल में एक भी शीर्ष नहीं आने की प्रायिकता है",
+      "options": {
+        "A": "$\frac{1}, {2}$",
+        "B": "$\frac{1}, {4}$",
+        "C": "$\frac{3}, {4}$",
+        "D": "1"
+      },
+      "vikalpa": {
+        "A": "$\frac{1}, {2}$",
+        "B": "$\frac{1}, {4}$",
+        "C": "$\frac{3}, {4}$",
+        "D": "1"
+      }
+    },
+    {
+      "id": "obj_96",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "Which of the following cannot be the probability of an event?",
+      "prashna": "निम्नलिखित में कौन किसी घटना की प्रायिकता नहीं हो सकती है?",
+      "options": {
+        "A": "0.5",
+        "B": "1.5",
+        "C": "0.08",
+        "D": "$\frac{3}, {4}$"
+      },
+      "vikalpa": {
+        "A": "0.5",
+        "B": "1.5",
+        "C": "0.08",
+        "D": "$\frac{3}, {4}$"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_82",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "Which of the following numbers is not the probability of any event?",
+      "prashna": "निम्नलिखित में से कौन-सी संख्या किसी घटना की प्रायिकता नहीं हो सकती है ?",
+      "options": {
+        "A": "0.7",
+        "B": "2.5",
+        "C": "75%",
+        "D": "4/5"
+      },
+      "vikalpa": {
+        "A": "0.7",
+        "B": "2.5",
+        "C": "75%",
+        "D": "4/5"
+      }
+    },
+    {
+      "id": "obj_83",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "If $E'$ is the complementary event of an event $E$ then which of the following is true?",
+      "prashna": "यदि घटना $E$ की पूरक घटना $E'$ है तो, निम्नलिखित में से कौन-सा सही है ?",
+      "options": {
+        "A": "$P(E) = P(E')$",
+        "B": "$P(E) + P(E') = 0$",
+        "C": "$P(E) + P(E') = 1$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$P(E) = P(E')$",
+        "B": "$P(E) + P(E') = 0$",
+        "C": "$P(E) + P(E') = 1$",
+        "D": "इनभें से कोई नहीॊ"
+      }
+    },
+    {
+      "id": "obj_84",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "In throwing a die one time what is the probability of not appearing 2 ?",
+      "prashna": "एक पासे की एक फेंक में 2 नहीं आने की प्रायिकता क्या है ?",
+      "options": {
+        "A": "0",
+        "B": "1/6",
+        "C": "5/6",
+        "D": "1/2"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "1/6",
+        "C": "5/6",
+        "D": "1/2"
+      }
+    },
+    {
+      "id": "obj_85",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "A card is drawn at random from a well-shuffled deck of 52 cards. What is the probability of getting a black king?",
+      "prashna": "अच्छी तरह फेंटे गए 52 ताश की एक गड्डी में से यादृच्छया एक पत्ता खींचा गया। इसके काले रंग के बादशाह होने की प्रायिकता क्या है ?",
+      "options": {
+        "A": "1 / 13",
+        "B": "1 / 26",
+        "C": "2 / 39",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "1 / 13",
+        "B": "1 / 26",
+        "C": "2 / 39",
+        "D": "इनभें से कोई नहीॊ"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "If three coins are tossed simultaneously then the probability of getting the same outcomes in all three coins is",
+      "prashna": "यदि तीन सिक्कों को एक साथ उछाला जाता है तो तीनों पर एक ही परिणाम आने की प्रायिकता है",
+      "options": {
+        "A": "$\frac{1}, {2}$",
+        "B": "$\frac{1}, {4}$",
+        "C": "$\frac{1}, {3}$",
+        "D": "$\frac{3}, {8}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{1}, {2}$",
+        "B": "$\frac{1}, {4}$",
+        "C": "$\frac{1}, {3}$",
+        "D": "$\frac{3}, {8}$"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "If $P(E) = 0.05$, then $P(E')$ is equal to",
+      "prashna": "यदि $P(E) = 0.05$, तो $P(E')$ बराबर है",
+      "options": {
+        "A": "0.94",
+        "B": "0.95",
+        "C": "0.03",
+        "D": "0.05"
+      },
+      "vikalpa": {
+        "A": "0.94",
+        "B": "0.95",
+        "C": "0.03",
+        "D": "0.05"
+      }
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "The probability of getting a tail when a coin is tossed is",
+      "prashna": "एक सिक्के को उछालने पर पट आने की प्रायिकता है",
+      "options": {
+        "A": "0",
+        "B": "$\frac{1}, {2}$",
+        "C": "1",
+        "D": "$\frac{1}, {4}$"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "$\frac{1}, {2}$",
+        "C": "1",
+        "D": "$\frac{1}, {4}$"
+      }
+    },
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "Two dice are thrown simultaneously. The probability that the sum of the numbers appearing on these dice is 10, is",
+      "prashna": "दो पासे एक साथ फेंके गए। इन पासों के ऊपर आने वाली संख्याओं का योग 10 होने की प्रायिकता है",
+      "options": {
+        "A": "$\frac{1}, {4}$",
+        "B": "$\frac{1}, {6}$",
+        "C": "$\frac{1}, {12}$",
+        "D": "$\frac{1}, {36}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{1}, {4}$",
+        "B": "$\frac{1}, {6}$",
+        "C": "$\frac{1}, {12}$",
+        "D": "$\frac{1}, {36}$"
+      }
+    },
+    {
+      "id": "obj_81",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "A bag contains 7 red, 8 green and 5 white balls. One ball is taken out at random. The probability that it is neither red nor white is",
+      "prashna": "एक थैले में 7 लाल, 8 हरा और 5 सफेद गेंद हैं। एक गेंद यादृच्छया निकाला जाता है। इसके न लाल, न सफेद होने की प्रायिकता है",
+      "options": {
+        "A": "$\frac{1}, {20}$",
+        "B": "$\frac{1}, {5}$",
+        "C": "$\frac{2}, {5}$",
+        "D": "$\frac{1}, {4}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{1}, {20}$",
+        "B": "$\frac{1}, {5}$",
+        "C": "$\frac{2}, {5}$",
+        "D": "$\frac{1}, {4}$"
+      }
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "The minimum value of a probability is",
+      "prashna": "प्रायिकता का न्यूनतम मान होता है",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "If the probability of occurrence of an event A is $0.35$ then the probability of non-occurrence of A is",
+      "prashna": "यदि किसी घटना A के घटने की प्रायिकता $0.35$ है तो A के नहीं घटने की प्रायिकता होगी",
+      "options": {
+        "A": "0.53",
+        "B": "6.5",
+        "C": "0.65",
+        "D": "3.5"
+      },
+      "vikalpa": {
+        "A": "0.53",
+        "B": "6.5",
+        "C": "0.65",
+        "D": "3.5"
+      }
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "In tossing of three coins the number of possible outcomes is",
+      "prashna": "तीन सिक्कों की उछाल में संभव परिणामों की संख्या है",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "8",
+        "D": "6"
+      },
+      "vikalpa": {
+        "A": "3",
+        "B": "4",
+        "C": "8",
+        "D": "6"
+      }
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "Which of the following numbers cannot be the probability of an event?",
+      "prashna": "निम्नलिखित में कौन-सी संख्या किसी घटना की प्रायिकता नहीं हो सकती है ?",
+      "options": {
+        "A": "0.5",
+        "B": "1.9",
+        "C": "80\\%",
+        "D": "\frac{3}, {4}"
+      },
+      "vikalpa": {
+        "A": "0.5",
+        "B": "1.9",
+        "C": "80\\%",
+        "D": "\frac{3}, {4}"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "In a throw of one die the probability of occurrence of a number 5 or less than 5 is",
+      "prashna": "एक पासे की एक फेंक में 5 या 5 से कम अंक प्राप्त होने की प्रायिकता है",
+      "options": {
+        "A": "\frac{1}, {6}",
+        "B": "\frac{1}, {5}",
+        "C": "\frac{5}, {6}",
+        "D": "\frac{1}, {2}"
+      },
+      "vikalpa": {
+        "A": "\frac{1}, {6}",
+        "B": "\frac{1}, {5}",
+        "C": "\frac{5}, {6}",
+        "D": "\frac{1}, {2}"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_76",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "If $P(E) = 0.02$ then $P(E')$ is equal to",
+      "prashna": "यदि $P(E) = 0.02$ तो $P(E')$ बराबर है",
+      "options": {
+        "A": "0.02",
+        "B": "0.002",
+        "C": "0.98",
+        "D": "0.97"
+      },
+      "vikalpa": {
+        "A": "0.02",
+        "B": "0.002",
+        "C": "0.98",
+        "D": "0.97"
+      }
+    },
+    {
+      "id": "obj_77",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "Two dice are thrown at the same time. What is the probability that the difference of the numbers appearing on top is zero?",
+      "prashna": "दो पासों को एक साथ फेंका जाता है। ऊपर आनेवाले अंकों का अंतर शून्य होने की प्रायिकता क्या है?",
+      "options": {
+        "A": "$\frac{1}, {36}$",
+        "B": "$\frac{1}, {6}$",
+        "C": "$\frac{5}, {18}$",
+        "D": "$\frac{5}, {36}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{1}, {36}$",
+        "B": "$\frac{1}, {6}$",
+        "C": "$\frac{5}, {18}$",
+        "D": "$\frac{5}, {36}$"
+      }
+    },
+    {
+      "id": "obj_78",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "The probability of getting heads on both the coins in throwing two coins is",
+      "prashna": "दो सिक्कों की उछाल में दोनों पर शीर्ष आने की प्रायिकता है",
+      "options": {
+        "A": "$\frac{1}, {2}$",
+        "B": "$\frac{1}, {3}$",
+        "C": "$\frac{1}, {4}$",
+        "D": "1"
+      },
+      "vikalpa": {
+        "A": "$\frac{1}, {2}$",
+        "B": "$\frac{1}, {3}$",
+        "C": "$\frac{1}, {4}$",
+        "D": "1"
+      }
+    },
+    {
+      "id": "obj_79",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "A month is selected at random in a year. The probability of it being June or September is",
+      "prashna": "एक वर्ष में एक महीना यदृच्छया चुना जाता है। इसके जून या सितम्बर होने की प्रायिकता है",
+      "options": {
+        "A": "$\frac{3}, {4}$",
+        "B": "$\frac{1}, {12}$",
+        "C": "$\frac{1}, {6}$",
+        "D": "$\frac{1}, {4}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{3}, {4}$",
+        "B": "$\frac{1}, {12}$",
+        "C": "$\frac{1}, {6}$",
+        "D": "$\frac{1}, {4}$"
+      }
+    },
+    {
+      "id": "obj_80",
+      "type": "objective",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "The probability of getting a number $4$ or $5$ in throwing a die is",
+      "prashna": "एक पासे की फेंक में संख्या $4$ या $5$ आने की प्रायिकता है",
+      "options": {
+        "A": "$\frac{1}, {2}$",
+        "B": "$\frac{1}, {3}$",
+        "C": "$\frac{1}, {6}$",
+        "D": "$\frac{2}, {3}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{1}, {2}$",
+        "B": "$\frac{1}, {3}$",
+        "C": "$\frac{1}, {6}$",
+        "D": "$\frac{2}, {3}$"
+      }
+    }
+  ]
+}

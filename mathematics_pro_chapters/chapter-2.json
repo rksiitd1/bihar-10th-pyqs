@@ -1,0 +1,1956 @@
+{
+  "2019": [
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "Zeros of the quadratic polynomial $x^2 - 2$ are -",
+      "prashna": "द्विघात बहुपद $x^2 - 2$ के शून्यक हैं -",
+      "options": {
+        "A": "2, 2",
+        "B": "$-\\sqrt{2}, \\sqrt{2}$",
+        "C": "$-\\sqrt{2}, -\\sqrt{2}$",
+        "D": "-2, -2"
+      },
+      "vikalpa": {
+        "A": "2, 2",
+        "B": "$-\\sqrt{2}, \\sqrt{2}$",
+        "C": "$-\\sqrt{2}, -\\sqrt{2}$",
+        "D": "-2, -2"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $p(x) = x^2 - 3x - 4$, then one of the zeros of $p(x)$ is -",
+      "prashna": "यदि $p(x) = x^2 - 3x - 4$, तो $p(x)$ का एक शून्यक है -",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "0",
+        "D": "3"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "4",
+        "C": "0",
+        "D": "3"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "In the following quadratic polynomial whose sum of zeros is -3 and product is 2?",
+      "prashna": "निम्न में से किस द्विघात बहुपद के शून्यकों का योग -3 तथा गुणनफल 2 है?",
+      "options": {
+        "A": "$x^2 + 3x + 2$",
+        "B": "$x^2 + 2x - 3$",
+        "C": "$x^2 - 3x - 2$",
+        "D": "$x^2 - 3x + 2$"
+      },
+      "vikalpa": {
+        "A": "$x^2 + 3x + 2$",
+        "B": "$x^2 + 2x - 3$",
+        "C": "$x^2 - 3x - 2$",
+        "D": "$x^2 - 3x + 2$"
+      }
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $\\alpha, \beta$ are the zeros of the quadratic polynomial $4x^2 - 4x + 1$, then find the value of $\frac{\\alpha}, {\beta} + \frac{\beta}, {\\alpha}$.",
+      "prashna": "यदि $\\alpha, \beta$ किसी द्विघात बहुपद $4x^2 - 4x + 1$ के मूल हों, तो $\frac{\\alpha}, {\beta} + \frac{\beta}, {\\alpha}$ का मान ज्ञात करें।"
+    }
+  ],
+  "2020": [
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "The sum of the zeros of the quadratic polynomial $x(2x - 5) - 3$ is",
+      "prashna": "द्विघात बहुपद $x(2x - 5) - 3$ के शून्यकों का योग है",
+      "options": {
+        "A": "$\frac{2}, {5}$",
+        "B": "$-\frac{5}, {2}$",
+        "C": "$-\frac{3}, {2}$",
+        "D": "$\frac{5}, {2}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{2}, {5}$",
+        "B": "$-\frac{5}, {2}$",
+        "C": "$-\frac{3}, {2}$",
+        "D": "$\frac{5}, {2}$"
+      }
+    },
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "Which of the following is a polynomial?",
+      "prashna": "निम्नलिखित में से कौन बहुपद है?",
+      "options": {
+        "A": "$x^2 - 5x + 4\\sqrt{x} + 3$",
+        "B": "$x^{\frac{3}, {2}} - x + x^{\frac{1}, {2}} + 1$",
+        "C": "$\\sqrt{x} + \frac{1}, {\\sqrt{x}}$",
+        "D": "$\\sqrt{2}x^2 - 3\\sqrt{3}x + \\sqrt{6}$"
+      },
+      "vikalpa": {
+        "A": "$x^2 - 5x + 4\\sqrt{x} + 3$",
+        "B": "$x^{\frac{3}, {2}} - x + x^{\frac{1}, {2}} + 1$",
+        "C": "$\\sqrt{x} + \frac{1}, {\\sqrt{x}}$",
+        "D": "$\\sqrt{2}x^2 - 3\\sqrt{3}x + \\sqrt{6}$"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "The zeroes of the polynomial $x^2 + \frac{1}, {6}x - 2$ are",
+      "prashna": "द्विघात बहुपद $x^2 + \frac{1}, {6}x - 2$ के शून्यक हैं",
+      "options": {
+        "A": "$-3, 4$",
+        "B": "$-\frac{3}, {2}, \frac{4}, {3}$",
+        "C": "$-\frac{4}, {3}, \frac{3}, {2}$",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "$-3, 4$",
+        "B": "$-\frac{3}, {2}, \frac{4}, {3}$",
+        "C": "$-\frac{4}, {3}, \frac{3}, {2}$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_45",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "In the following which is the quadratic polynomial whose sum of zeros is 3 and product is -10?",
+      "prashna": "निम्न में से किस द्विघात बहुपद के शून्यकों का योगफल 3 तथा गुणनफल -10 है?",
+      "options": {
+        "A": "$x^2 - 3x + 10$",
+        "B": "$x^2 + 3x - 10$",
+        "C": "$x^2 - 3x - 10$",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "$x^2 - 3x + 10$",
+        "B": "$x^2 + 3x - 10$",
+        "C": "$x^2 - 3x - 10$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "Which of the following are zeroes of $x^2 - \\sqrt{2}x - 12$?",
+      "prashna": "निम्नलिखित में $x^2 - \\sqrt{2}x - 12$ के शून्यक कौन-से हैं?",
+      "options": {
+        "A": "$-3\\sqrt{2}, \\sqrt{2}$",
+        "B": "$-3\\sqrt{2}, \frac{1}, {\\sqrt{2}}$",
+        "C": "$-\frac{3}, {\\sqrt{2}}, \frac{1}, {2\\sqrt{2}}$",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "$-3\\sqrt{2}, \\sqrt{2}$",
+        "B": "$-3\\sqrt{2}, \frac{1}, {\\sqrt{2}}$",
+        "C": "$-\frac{3}, {\\sqrt{2}}, \frac{1}, {2\\sqrt{2}}$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "Find the zeroes of the quadratic polynomial $x^2 - 2x - 8$.",
+      "prashna": "द्विघात बहुपद $x^2 - 2x - 8$ के शून्यकों ज्ञात कीजिए।"
+    },
+    {
+      "id": "short_15",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $\\alpha, \beta$ are the zeroes of the quadratic polynomial $ax^2 + bx + c$, then find the value of $\\alpha^2 + \beta^2$.",
+      "prashna": "यदि $\\alpha, \beta$ किसी द्विघात बहुपद $ax^2 + bx + c$ के शून्यक हों तो $\\alpha^2 + \beta^2$ का मान ज्ञात करें।"
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "The zeroes of the polynomial $2x^2 + 5x - 12$ are",
+      "prashna": "द्विघात बहुपद $2x^2 + 5x - 12$ के शून्यक हैं",
+      "options": {
+        "A": "$(4, \frac{3}, {2})$",
+        "B": "$(-4, \frac{3}, {2})$",
+        "C": "$(-\frac{3}, {2}, \frac{4}, {3})$",
+        "D": "$(-3, 4)$"
+      },
+      "vikalpa": {
+        "A": "$(4, \frac{3}, {2})$",
+        "B": "$(-4, \frac{3}, {2})$",
+        "C": "$(-\frac{3}, {2}, \frac{4}, {3})$",
+        "D": "$(-3, 4)$"
+      }
+    },
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $\\alpha$ and $\beta$ are zeroes of $(x^2 + 5x + 8)$ then $(\\alpha + \beta) = ?$",
+      "prashna": "यदि $(x^2 + 5x + 8)$ के शून्यक $\\alpha$ तथा $\beta$ हों तो $(\\alpha + \beta) = ?$",
+      "options": {
+        "A": "5",
+        "B": "-5",
+        "C": "8",
+        "D": "-8"
+      },
+      "vikalpa": {
+        "A": "5",
+        "B": "-5",
+        "C": "8",
+        "D": "-8"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "What are the zeroes of polynomial $x^2 - 2x - 3$ ?",
+      "prashna": "बहुपद $x^2 - 2x - 3$ के शून्यक कौन-से हैं ?",
+      "options": {
+        "A": "$3, 1$",
+        "B": "$3, -1$",
+        "C": "$-3, 1$",
+        "D": "$-3, -1$"
+      },
+      "vikalpa": {
+        "A": "$3, 1$",
+        "B": "$3, -1$",
+        "C": "$-3, 1$",
+        "D": "$-3, -1$"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "The product of the zeroes of the polynomial $2 - x(x - 1)$ is",
+      "prashna": "बहुपद $2 - x(x - 1)$ के शून्यकों का गुणनफल है",
+      "options": {
+        "A": "-2",
+        "B": "2",
+        "C": "7",
+        "D": "1"
+      },
+      "vikalpa": {
+        "A": "-2",
+        "B": "2",
+        "C": "7",
+        "D": "1"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "Which of the following is not a polynomial?",
+      "prashna": "निम्नलिखित में कौन बहुपद नहीं है ?",
+      "options": {
+        "A": "$2 - x^2 + \\sqrt{3}x$",
+        "B": "$\frac{2}, {3}x + 1$",
+        "C": "$x^3$",
+        "D": "$\frac{1}, {x+1}$"
+      },
+      "vikalpa": {
+        "A": "$2 - x^2 + \\sqrt{3}x$",
+        "B": "$\frac{2}, {3}x + 1$",
+        "C": "$x^3$",
+        "D": "$\frac{1}, {x+1}$"
+      }
+    },
+    {
+      "id": "short_15",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "Find the zeroes of the polynomial $6x^2 - 3 - 7x$ and verify the relationship between the zeroes and the coefficients.",
+      "prashna": "बहुपद $6x^2 - 3 - 7x$ के शून्यक ज्ञात करें तथा इसके शून्यकों और गुणांकों के बीच संबंध की सत्यता की जाँच करें।"
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $\\alpha$ and $\beta$ are the zeros of a quadratic polynomial $p(x) = x^2 + 2x + 3$, then the value of $\\alpha\beta$ will be",
+      "prashna": "यदि $\\alpha$ तथा $\beta$ द्विघात बहुपद $p(x) = x^2 + 2x + 3$ के शून्यक हों, तो $\\alpha\beta$ का मान होगा",
+      "options": {
+        "A": "3",
+        "B": "-2",
+        "C": "2",
+        "D": "-3"
+      },
+      "vikalpa": {
+        "A": "3",
+        "B": "-2",
+        "C": "2",
+        "D": "-3"
+      }
+    },
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "What are the zeros of the polynomial $4x^2 + 5\\sqrt{2}x - 3$ ?",
+      "prashna": "बहुपद $4x^2 + 5\\sqrt{2}x - 3$ के शून्यक कौन-से हैं ?",
+      "options": {
+        "A": "$-3\\sqrt{2}, \\sqrt{2}$",
+        "B": "$-3\\sqrt{2}, \frac{\\sqrt{2}}, {2}$",
+        "C": "$\frac{-3\\sqrt{2}}, {2}, \frac{\\sqrt{2}}, {4}$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$-3\\sqrt{2}, \\sqrt{2}$",
+        "B": "$-3\\sqrt{2}, \frac{\\sqrt{2}}, {2}$",
+        "C": "$\frac{-3\\sqrt{2}}, {2}, \frac{\\sqrt{2}}, {4}$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "In the following which is not a polynomial ?",
+      "prashna": "निम्नलिखित में से कौन बहुपद नहीं है ?",
+      "options": {
+        "A": "$\frac{2}, {3}x + 1$",
+        "B": "$2 - x^2 + \\sqrt{3}x$",
+        "C": "$\frac{1}, {x - 1}$",
+        "D": "$x^3$"
+      },
+      "vikalpa": {
+        "A": "$\frac{2}, {3}x + 1$",
+        "B": "$2 - x^2 + \\sqrt{3}x$",
+        "C": "$\frac{1}, {x - 1}$",
+        "D": "$x^3$"
+      }
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If the sum of the zeros of a quadratic polynomial is 4 and their product is 1, then that quadratic polynomial is",
+      "prashna": "यदि किसी द्विघात बहुपद के शून्यकों का योगफल 4 एवं गुणनफल 1 है, तो वह द्विघात बहुपद होगा",
+      "options": {
+        "A": "$x^2 + 4x + 4$",
+        "B": "$x^2 - 4x + 1$",
+        "C": "$x^2 - x + 4$",
+        "D": "$x^2 + 4x + 1$"
+      },
+      "vikalpa": {
+        "A": "$x^2 + 4x + 4$",
+        "B": "$x^2 - 4x + 1$",
+        "C": "$x^2 - x + 4$",
+        "D": "$x^2 + 4x + 1$"
+      }
+    },
+    {
+      "id": "obj_64",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $\\alpha, \beta, \\gamma$ are the zeroes of the polynomial $ax^3 + bx^2 + cx + d$, then $\\alpha\beta + \beta\\gamma + \\gamma\\alpha =$",
+      "prashna": "यदि $\\alpha, \beta, \\gamma$ बहुपद $ax^3 + bx^2 + cx + d$ के शून्यक हों, तो $\\alpha\beta + \beta\\gamma + \\gamma\\alpha =$",
+      "options": {
+        "A": "$\frac{b}, {a}$",
+        "B": "$\frac{c}, {a}$",
+        "C": "$\frac{-b}, {a}$",
+        "D": "$\frac{-d}, {a}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{b}, {a}$",
+        "B": "$\frac{c}, {a}$",
+        "C": "$\frac{-b}, {a}$",
+        "D": "$\frac{-d}, {a}$"
+      }
+    },
+    {
+      "id": "obj_65",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If 3 is a zero of the polynomial $2x^2 + x + k$ then value of $k$ is",
+      "prashna": "यदि बहुपद $2x^2 + x + k$ का एक शून्यक 3 हो तो $k$ का मान होगा",
+      "options": {
+        "A": "21",
+        "B": "-21",
+        "C": "20",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "21",
+        "B": "-21",
+        "C": "20",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_66",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $\\alpha, \beta$ and $\\gamma$ are the zeroes of the polynomial $p(x) = 4x^3 - 5x^2 + 3x + 7$, then value of $\\alpha \beta \\gamma$ is",
+      "prashna": "यदि बहुपद $p(x) = 4x^3 - 5x^2 + 3x + 7$ के शून्यक $\\alpha, \beta$ और $\\gamma$ हों, तो $\\alpha \beta \\gamma$ का मान होगा",
+      "options": {
+        "A": "$-\frac{7}, {4}$",
+        "B": "$\frac{5}, {4}$",
+        "C": "$\frac{7}, {4}$",
+        "D": "$-\frac{3}, {4}$"
+      },
+      "vikalpa": {
+        "A": "$-\frac{7}, {4}$",
+        "B": "$\frac{5}, {4}$",
+        "C": "$\frac{7}, {4}$",
+        "D": "$-\frac{3}, {4}$"
+      }
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If the product of the zeros of the polynomial $(ax^2 - 6x - 6)$ is 4, find the value of $a$.",
+      "prashna": "यदि बहुपद $(ax^2 - 6x - 6)$ के शून्यकों का गुणनफल 4 है तो $a$ का मान ज्ञात करें।"
+    },
+    {
+      "id": "short_19",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $\\alpha$ and $\beta$ are zeros of the quadratic polynomial $2x^2 + 7x + 5$, then find the value of $\\alpha + \beta + \\alpha\beta$.",
+      "prashna": "यदि $\\alpha$ और $\beta$ द्विघात बहुपद $2x^2 + 7x + 5$ के शून्यक हों, तो $\\alpha + \beta + \\alpha\beta$ का मान निकालें।"
+    },
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "For which of the following quadratic polynomials, the sum of its zeroes is $-4$ and the product of its zeroes is $-5$?",
+      "prashna": "निम्नलिखित में से किस द्विघात बहुपद के शून्यकों का योग $-4$ तथा गुणनफल $-5$ है ?",
+      "options": {
+        "A": "$x^2 + 4x + 5$",
+        "B": "$x^2 - 4x - 5$",
+        "C": "$x^2 - 4x + 5$",
+        "D": "$x^2 + 4x - 5$"
+      },
+      "vikalpa": {
+        "A": "$x^2 + 4x + 5$",
+        "B": "$x^2 - 4x - 5$",
+        "C": "$x^2 - 4x + 5$",
+        "D": "$x^2 + 4x - 5$"
+      }
+    },
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If the sum of the zeroes of the polynomial $x^2 - kx + 8$ is $6$, then the value of $k$ will be",
+      "prashna": "यदि बहुपद $x^2 - kx + 8$ के शून्यकों का योग $6$ है, तो $k$ का मान होगा",
+      "options": {
+        "A": "$8$",
+        "B": "$-8$",
+        "C": "$-6$",
+        "D": "$6$"
+      },
+      "vikalpa": {
+        "A": "$8$",
+        "B": "$-8$",
+        "C": "$-6$",
+        "D": "$6$"
+      }
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "The number of quadratic polynomials having zeroes $4, 7$ will be",
+      "prashna": "शून्यक $4, 7$ वाले द्विघात बहुपदों की संख्या होगी",
+      "options": {
+        "A": "$2$",
+        "B": "$3$",
+        "C": "$4$",
+        "D": "Infinite"
+      },
+      "vikalpa": {
+        "A": "$2$",
+        "B": "$3$",
+        "C": "$4$",
+        "D": "अनगिनत"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "The degree of the polynomial $y^2 - 6y + 8$ is",
+      "prashna": "बहुपद $y^2 - 6y + 8$ का घात है",
+      "options": {
+        "A": "$2$",
+        "B": "$0$",
+        "C": "$1$",
+        "D": "$3$"
+      },
+      "vikalpa": {
+        "A": "$2$",
+        "B": "$0$",
+        "C": "$1$",
+        "D": "$3$"
+      }
+    },
+    {
+      "id": "obj_44",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $f(x) = x^3 - 5x^2 + 2x + 2$, then the value of $f(1)$ is",
+      "prashna": "यदि $f(x) = x^3 - 5x^2 + 2x + 2$ तो $f(1)$ का मान है",
+      "options": {
+        "A": "$0$",
+        "B": "$2$",
+        "C": "$1$",
+        "D": "$-1$"
+      },
+      "vikalpa": {
+        "A": "$0$",
+        "B": "$2$",
+        "C": "$1$",
+        "D": "$-1$"
+      }
+    },
+    {
+      "id": "obj_46",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "The sum of the zeroes of quadratic polynomial $y^2 + 3y + 2$ will be",
+      "prashna": "द्विघात बहुपद $y^2 + 3y + 2$ के शून्यकों का योग होगा",
+      "options": {
+        "A": "$2$",
+        "B": "$-2$",
+        "C": "$3$",
+        "D": "$-3$"
+      },
+      "vikalpa": {
+        "A": "$2$",
+        "B": "$-2$",
+        "C": "$3$",
+        "D": "$-3$"
+      }
+    },
+    {
+      "id": "obj_48",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "$y^2 \\left( \frac{1}, {y} + 3 \right) =$",
+      "prashna": "$y^2 \\left( \frac{1}, {y} + 3 \right) =$",
+      "options": {
+        "A": "$y$",
+        "B": "$y + 3y^3$",
+        "C": "$y^2 + 3y$",
+        "D": "$y + 3y^2$"
+      },
+      "vikalpa": {
+        "A": "$y$",
+        "B": "$y + 3y^3$",
+        "C": "$y^2 + 3y$",
+        "D": "$y + 3y^2$"
+      }
+    },
+    {
+      "id": "obj_88",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "The sum of the zeroes of polynomial $5y^2 - 14y + 8$ will be",
+      "prashna": "बहुपद $5y^2 - 14y + 8$ के शून्यकों का योग होगा",
+      "options": {
+        "A": "$\frac{5}, {2}$",
+        "B": "$\frac{-5}, {2}$",
+        "C": "$\frac{14}, {5}$",
+        "D": "$\frac{8}, {5}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{5}, {2}$",
+        "B": "$\frac{-5}, {2}$",
+        "C": "$\frac{14}, {5}$",
+        "D": "$\frac{8}, {5}$"
+      }
+    },
+    {
+      "id": "obj_90",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "The zeroes of the polynomial $x^2 - 11$ are",
+      "prashna": "बहुपद $x^2 - 11$ के शून्यक हैं",
+      "options": {
+        "A": "$11, -11$",
+        "B": "$\\sqrt{11}, -11$",
+        "C": "$\\sqrt{11}, \\sqrt{11}$",
+        "D": "$\\sqrt{11}, -\\sqrt{11}$"
+      },
+      "vikalpa": {
+        "A": "$11, -11$",
+        "B": "$\\sqrt{11}, -11$",
+        "C": "$\\sqrt{11}, \\sqrt{11}$",
+        "D": "$\\sqrt{11}, -\\sqrt{11}$"
+      }
+    },
+    {
+      "id": "short_15",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "Find the zeroes of the quadratic polynomial $x^2 + 11x + 30$.",
+      "prashna": "द्विघात बहुपद $x^2 + 11x + 30$ के शून्यकों को ज्ञात करें।"
+    },
+    {
+      "id": "short_23",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $(x-a)$ is a factor of polynomial $(x^2 - ax + a - 1)$, then find the value of $a$.",
+      "prashna": "यदि बहुपद $(x^2 - ax + a - 1)$ का एक गुणनखंड $(x-a)$ है, तो $a$ का मान ज्ञात करें।"
+    },
+    {
+      "id": "short_24",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $\\alpha$ and $\beta$ are the zeroes of the polynomial $f(x) = x^2 - 2x - 8$, then find the value of $\\alpha + \beta - \\alpha\beta$.",
+      "prashna": "यदि $\\alpha$ तथा $\beta$ बहुपद $f(x) = x^2 - 2x - 8$ के शून्यक हों, तो $\\alpha + \beta - \\alpha\beta$ का मान ज्ञात करें।"
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "The degree of any polynomial is",
+      "prashna": "किसी बहुपद की घात होती है",
+      "options": {
+        "A": "fraction number",
+        "B": "negative integer",
+        "C": "whole number",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "भिन्न संख्या",
+        "B": "ऋण पूर्णांक",
+        "C": "पूर्ण संख्या",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "The graph of polynomial $ax^2 + bx + c, a \neq 0$ is",
+      "prashna": "बहुपद $ax^2 + bx + c, a \neq 0$ का आलेख होता है",
+      "options": {
+        "A": "circle",
+        "B": "parabola",
+        "C": "straight line",
+        "D": "hyperbola"
+      },
+      "vikalpa": {
+        "A": "वृत्त",
+        "B": "परवलय",
+        "C": "सरल रेखा",
+        "D": "अतिपरवलय"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "The number of polynomials whose zeroes are 2, 8 is",
+      "prashna": "शून्यक 2, 8 वाले बहुपदों की संख्या होगी",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "4",
+        "D": "infinitely many"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "2",
+        "C": "4",
+        "D": "अनगिनत"
+      }
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If zeroes of a quadratic polynomial are 2 and 6 then the quadratic polynomial is",
+      "prashna": "किसी द्विघात बहुपद के शून्यक यदि 2 एवं 6 हैं, तो द्विघात बहुपद होगा",
+      "options": {
+        "A": "$x^2 + 12x + 8$",
+        "B": "$x^2 - 12x + 8$",
+        "C": "$x^2 + 4x + 12$",
+        "D": "$x^2 - 8x + 12$"
+      },
+      "vikalpa": {
+        "A": "$x^2 + 12x + 8$",
+        "B": "$x^2 - 12x + 8$",
+        "C": "$x^2 + 4x + 12$",
+        "D": "$x^2 - 8x + 12$"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "The zeroes of the quadratic polynomial $y^2 + 16y + 55$ are",
+      "prashna": "द्विघात बहुपद $y^2 + 16y + 55$ के शून्यक हैं",
+      "options": {
+        "A": "both negative",
+        "B": "both positive",
+        "C": "one positive and other negative",
+        "D": "equal"
+      },
+      "vikalpa": {
+        "A": "दोनों ऋणात्मक",
+        "B": "दोनों धनात्मक",
+        "C": "एक धनात्मक तथा दूसरा ऋणात्मक",
+        "D": "समान"
+      }
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If zeroes of the polynomial $2x^2 + 5x - k$ are reciprocal to each other, then the value of $k$ will be",
+      "prashna": "यदि बहुपद $2x^2 + 5x - k$ के शून्यक एक दूसरे के व्युत्क्रम हों, तो $k$ का मान होगा",
+      "options": {
+        "A": "2",
+        "B": "-2",
+        "C": "$\frac{1}, {2}$",
+        "D": "$-\frac{1}, {2}$"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "-2",
+        "C": "$\frac{1}, {2}$",
+        "D": "$-\frac{1}, {2}$"
+      }
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $p(x) = x^2 + 5x - 12$ then the value of $p(1)$ is",
+      "prashna": "यदि $p(x) = x^2 + 5x - 12$ तो $p(1)$ का मान है",
+      "options": {
+        "A": "-12",
+        "B": "6",
+        "C": "-6",
+        "D": "12"
+      },
+      "vikalpa": {
+        "A": "-12",
+        "B": "6",
+        "C": "-6",
+        "D": "12"
+      }
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "What is the number of zeroes of a quadratic polynomial?",
+      "prashna": "द्विघात बहुपद के शून्यकों की संख्या कितनी होती है?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "Which of the following is not a polynomial?",
+      "prashna": "निम्नलिखित में कौन बहुपद नहीं है?",
+      "options": {
+        "A": "$\frac{2}, {3}x + 1$",
+        "B": "$2 - x^2 + 3x$",
+        "C": "$\frac{1}, {x - 1}$",
+        "D": "$x^3$"
+      },
+      "vikalpa": {
+        "A": "$\frac{2}, {3}x + 1$",
+        "B": "$2 - x^2 + 3x$",
+        "C": "$\frac{1}, {x - 1}$",
+        "D": "$x^3$"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $p(x) = q(x) \\cdot g(x)$ and degree of $p(x) = 7$ and degree of $g(x) = 3$, then degree of $\frac{p(x)}, {g(x)}$ will be",
+      "prashna": "यदि $p(x) = q(x) \\cdot g(x)$ और $p(x)$ का घात $= 7$ एवं $g(x)$ का घात $= 3$ तो $\frac{p(x)}, {g(x)}$ का घात होगा",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "7"
+      },
+      "vikalpa": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "7"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $-2$ is a zero of polynomial $p(x)$ then which of the following is a factor of $p(x)$?",
+      "prashna": "यदि बहुपद $p(x)$ का एक शून्यक $-2$ है तो निम्नलिखित में कौन $p(x)$ का एक गुणनखंड होगा?",
+      "options": {
+        "A": "$x - 2$",
+        "B": "$x + 2$",
+        "C": "$x - 1$",
+        "D": "$x + 1$"
+      },
+      "vikalpa": {
+        "A": "$x - 2$",
+        "B": "$x + 2$",
+        "C": "$x - 1$",
+        "D": "$x + 1$"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $\\alpha, \beta$ are zeroes of the polynomial $x^2 - 4x + 1$ then the value of $\\alpha\beta$ is",
+      "prashna": "यदि बहुपद $x^2 - 4x + 1$ के शून्यक $\\alpha, \beta$ हों तो $\\alpha\beta$ का मान होगा",
+      "options": {
+        "A": "$-1$",
+        "B": "1",
+        "C": "$\frac{1}, {4}$",
+        "D": "$-\frac{1}, {4}$"
+      },
+      "vikalpa": {
+        "A": "$-1$",
+        "B": "1",
+        "C": "$\frac{1}, {4}$",
+        "D": "$-\frac{1}, {4}$"
+      }
+    },
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $\\alpha, \beta, \\gamma$ are the zeroes of the polynomial $6x^3 - 11x^2 - 3x + 2$ then the value of $\\alpha\beta + \beta\\gamma + \\alpha\\gamma$ will be",
+      "prashna": "यदि बहुपद $6x^3 - 11x^2 - 3x + 2$ के शून्यक $\\alpha, \beta, \\gamma$ हों तो $\\alpha\beta + \beta\\gamma + \\alpha\\gamma$ का मान होगा",
+      "options": {
+        "A": "$\frac{6}, {11}$",
+        "B": "$-\frac{11}, {6}$",
+        "C": "$-\frac{1}, {2}$",
+        "D": "$\frac{1}, {3}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{6}, {11}$",
+        "B": "$-\frac{11}, {6}$",
+        "C": "$-\frac{1}, {2}$",
+        "D": "$\frac{1}, {3}$"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $\\alpha, \beta$ are zeroes of the polynomial $x^2 - 3(x + 1) - 5$ then the value of $(\\alpha + 1)(\beta + 1)$ will be",
+      "prashna": "यदि बहुपद $x^2 - 3(x + 1) - 5$ के शून्यक $\\alpha, \beta$ हों तो $(\\alpha + 1)(\beta + 1)$ का मान होगा",
+      "options": {
+        "A": "3",
+        "B": "$-3$",
+        "C": "$-4$",
+        "D": "4"
+      },
+      "vikalpa": {
+        "A": "3",
+        "B": "$-3$",
+        "C": "$-4$",
+        "D": "4"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If zeroes of the polynomial $x^2 + px - q$ are reciprocal to one another, then the value of $q$ is",
+      "prashna": "यदि बहुपद $x^2 + px - q$ के शून्यक एक-दूसरे के व्युत्क्रम हों तो $q$ का मान होगा",
+      "options": {
+        "A": "$-1$",
+        "B": "1",
+        "C": "$p$",
+        "D": "$p^2$"
+      },
+      "vikalpa": {
+        "A": "$-1$",
+        "B": "1",
+        "C": "$p$",
+        "D": "$p^2$"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "Which of the following is a quadratic polynomial whose zeroes are $-2$ and 6?",
+      "prashna": "निम्नलिखित में से कौन एक द्विघात बहुपद है जिसके शून्यक $-2$ और 6 हैं?",
+      "options": {
+        "A": "$x^2 - 4x - 12$",
+        "B": "$x^2 + 4x - 12$",
+        "C": "$x^2 + 4x + 12$",
+        "D": "$4x^2 - x + 4$"
+      },
+      "vikalpa": {
+        "A": "$x^2 - 4x - 12$",
+        "B": "$x^2 + 4x - 12$",
+        "C": "$x^2 + 4x + 12$",
+        "D": "$4x^2 - x + 4$"
+      }
+    },
+    {
+      "id": "obj_98",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $x^2 + \frac{1}, {x^2} = 14$, then the value of $x + \frac{1}, {x}$ is",
+      "prashna": "यदि $x^2 + \frac{1}, {x^2} = 14$ हो तो $x + \frac{1}, {x}$ का मान होगा",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "-2"
+      },
+      "vikalpa": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "-2"
+      }
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "Find the zeroes of the quadratic polynomial $z^2 - 2z - 8$.",
+      "prashna": "द्विघात बहुपद $z^2 - 2z - 8$ के शून्यक निकालें।"
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "Find a cubic polynomial whose zeroes are 3, -1 and -2.",
+      "prashna": "एक त्रिघाती बहुपद ज्ञात करें जिसके शून्यक 3, -1 एवं -2 हैं।"
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $\\alpha, \beta$ are the zeroes of polynomial $p(x) = 2x^2 - 11x + 15$ then find the value of $\frac{1}, {\\alpha} + \frac{1}, {\beta}$.",
+      "prashna": "यदि $\\alpha, \beta$ बहुपद $p(x) = 2x^2 - 11x + 15$ के शून्यक हैं तो $\frac{1}, {\\alpha} + \frac{1}, {\beta}$ का मान ज्ञात करें।"
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $-2$ is a zero of the polynomial $3x^2 + 4x + 2k$, then find the value of $k$.",
+      "prashna": "यदि बहुपद $3x^2 + 4x + 2k$ का एक शून्यक $-2$ है तो $k$ का मान ज्ञात करें।"
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_71",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $p(x) = 3x^3 + x^2 + 2x + 5$, is divided by $q(x) = x^2 + 2x + 1$, then the degree of quotient will be",
+      "prashna": "यदि $p(x) = 3x^3 + x^2 + 2x + 5, q(x) = x^2 + 2x + 1$ से भाग दिया जाए तो भागफल का घात होगा",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      }
+    },
+    {
+      "id": "obj_72",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If polynomial $g(x) = 3x^2 - 7x + 2$, then the value of $g(-1)$ is",
+      "prashna": "यदि बहुपद $g(x) = 3x^2 - 7x + 2$ हो, तो $g(- 1)$ का मान है",
+      "options": {
+        "A": "-8",
+        "B": "12",
+        "C": "-12",
+        "D": "0"
+      },
+      "vikalpa": {
+        "A": "-8",
+        "B": "12",
+        "C": "-12",
+        "D": "0"
+      }
+    },
+    {
+      "id": "obj_73",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "The zeroes of the polynomial $x^2 - 16$ are",
+      "prashna": "बहुपद $x^2 - 16$ के शून्यक हैं",
+      "options": {
+        "A": "+4, -4",
+        "B": "+4, +4",
+        "C": "-4, -4",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "+4, -4",
+        "B": "+4, +4",
+        "C": "-4, -4",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_74",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $\\alpha$ and $\beta$ are zeroes of the polynomial $p(x) = x^2 - 3x + 5$, then the value of $4(\\alpha + \beta)$ is",
+      "prashna": "यदि बहुपद $p(x) = x^2 - 3x + 5$ के शून्यक $\\alpha$ और $\beta$ हों, तो $4(\\alpha + \beta)$ का मान है",
+      "options": {
+        "A": "12",
+        "B": "-12",
+        "C": "20",
+        "D": "-20"
+      },
+      "vikalpa": {
+        "A": "12",
+        "B": "-12",
+        "C": "20",
+        "D": "-20"
+      }
+    },
+    {
+      "id": "obj_75",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If the product of zeroes of a polynomial $x^2 - 9x + 2a$ is 8, then the value of $a$ will be",
+      "prashna": "यदि बहुपद $x^2 - 9x + 2a$ के शून्यकों का गुणनफल 8 हो, तो $a$ का मान होगा",
+      "options": {
+        "A": "4",
+        "B": "-4",
+        "C": "9",
+        "D": "-9"
+      },
+      "vikalpa": {
+        "A": "4",
+        "B": "-4",
+        "C": "9",
+        "D": "-9"
+      }
+    },
+    {
+      "id": "obj_76",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If one zero of a polynomial $p(x)$ is - 1, then a factor of $p(x)$ will be",
+      "prashna": "यदि बहुपद $p(x)$ का एक शून्यक - 1 हो, तो $p(x)$ का एक गुणनखंड होगा",
+      "options": {
+        "A": "x - 1",
+        "B": "x + 1",
+        "C": "1 / (x + 1)",
+        "D": "1 / (x - 1)"
+      },
+      "vikalpa": {
+        "A": "x - 1",
+        "B": "x + 1",
+        "C": "1 / (x + 1)",
+        "D": "1 / (x - 1)"
+      }
+    },
+    {
+      "id": "obj_77",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "Which of the following quadratic polynomials has sum of zeroes - 3 and product of zeroes 2?",
+      "prashna": "निम्नलिखित में से किस द्विघात बहुपद के शून्यकों का योग-3 एवं शून्यकों का गुणनफल 2 है ?",
+      "options": {
+        "A": "$x^2 + 3x + 2$",
+        "B": "$x^2 + 2x - 3$",
+        "C": "$x^2 - 3x - 2$",
+        "D": "$x^2 - 3x + 2$"
+      },
+      "vikalpa": {
+        "A": "$x^2 + 3x + 2$",
+        "B": "$x^2 + 2x - 3$",
+        "C": "$x^2 - 3x - 2$",
+        "D": "$x^2 - 3x + 2$"
+      }
+    },
+    {
+      "id": "obj_78",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $\\alpha, \beta, \\gamma$ are zeroes of the cubic polynomial $ax^3 + bx^2 + cx + d = 0$ then the value of $\\alpha \beta \\gamma$ is",
+      "prashna": "यदि $\\alpha, \beta, \\gamma$ त्रिघात बहुपद $ax^3 + bx^2 + cx + d = 0$ के शून्यक हों, तो $\\alpha \beta \\gamma$ का मान होगा",
+      "options": {
+        "A": "b / a",
+        "B": "- c / a",
+        "C": "- d / a",
+        "D": "c / a"
+      },
+      "vikalpa": {
+        "A": "b / a",
+        "B": "- c / a",
+        "C": "- d / a",
+        "D": "c / a"
+      }
+    },
+    {
+      "id": "obj_79",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "The degree of the polynomial $(y^2 - 3y + 1) \\cdot (y^5 - 4y^3 + y^2 + 3y)$ is",
+      "prashna": "बहुपद $(y^2 - 3y + 1) \\cdot (y^5 - 4y^3 + y^2 + 3y)$ का घात है",
+      "options": {
+        "A": "6",
+        "B": "7",
+        "C": "3",
+        "D": "4"
+      },
+      "vikalpa": {
+        "A": "6",
+        "B": "7",
+        "C": "3",
+        "D": "4"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "The zero of the polynomial $10x - 25$ is",
+      "prashna": "बहुपद $10x - 25$ का शून्यक है",
+      "options": {
+        "A": "$\frac{5}, {2}$",
+        "B": "$-\frac{5}, {2}$",
+        "C": "$\frac{1}, {2}$",
+        "D": "$\frac{5}, {4}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{5}, {2}$",
+        "B": "$-\frac{5}, {2}$",
+        "C": "$\frac{1}, {2}$",
+        "D": "$\frac{5}, {4}$"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "The degree of the polynomial $3x^2 + 8x + 10$ is",
+      "prashna": "बहुपद $3x^2 + 8x + 10$ का घात है",
+      "options": {
+        "A": "3",
+        "B": "2",
+        "C": "8",
+        "D": "10"
+      },
+      "vikalpa": {
+        "A": "3",
+        "B": "2",
+        "C": "8",
+        "D": "10"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "The zeroes of the quadratic polynomial $x^2 + 4x - 12$ are",
+      "prashna": "द्विघात बहुपद $x^2 + 4x - 12$ के शून्यक हैं",
+      "options": {
+        "A": "$2, 5$",
+        "B": "$-2, 5$",
+        "C": "$2, -6$",
+        "D": "$2, 6$"
+      },
+      "vikalpa": {
+        "A": "$2, 5$",
+        "B": "$-2, 5$",
+        "C": "$2, -6$",
+        "D": "$2, 6$"
+      }
+    },
+    {
+      "id": "obj_91",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $\\alpha, \beta$ are the zeroes of any quadratic polynomial $p(x) = 6x^2 - 7x - 3$, then $\\alpha + \beta =$",
+      "prashna": "यदि किसी द्विघात बहुपद $p(x) = 6x^2 - 7x - 3$ के शून्यक $\\alpha, \beta$ हों, तो $\\alpha + \beta =$",
+      "options": {
+        "A": "$\frac{7}, {6}$",
+        "B": "$-\frac{7}, {6}$",
+        "C": "$\frac{7}, {3}$",
+        "D": "$\frac{1}, {2}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{7}, {6}$",
+        "B": "$-\frac{7}, {6}$",
+        "C": "$\frac{7}, {3}$",
+        "D": "$\frac{1}, {2}$"
+      }
+    },
+    {
+      "id": "obj_92",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If zeroes of the polynomial $x^2 + ax + b$ are equal but of opposite sign, then $a =$",
+      "prashna": "यदि बहुपद $x^2 + ax + b$ के शून्यक बराबर परन्तु विपरीत चिह्न के हों, तब $a =$",
+      "options": {
+        "A": "1",
+        "B": "-1",
+        "C": "0",
+        "D": "$b$"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "-1",
+        "C": "0",
+        "D": "$b$"
+      }
+    },
+    {
+      "id": "obj_93",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "Which of the following is a quadratic polynomial whose zeroes are 0 and 5 ?",
+      "prashna": "निम्नलिखित में से कौन द्विघात बहुपद है जिसके शून्यक 0 और 5 हैं ?",
+      "options": {
+        "A": "$x^2 + 5x + 5$",
+        "B": "$x^2 - 5x$",
+        "C": "$x^2 + 5x$",
+        "D": "$x^2 - 5$"
+      },
+      "vikalpa": {
+        "A": "$x^2 + 5x + 5$",
+        "B": "$x^2 - 5x$",
+        "C": "$x^2 + 5x$",
+        "D": "$x^2 - 5$"
+      }
+    },
+    {
+      "id": "obj_98",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "The sum and product of zeroes of a quadratic polynomial are -3 and 2 respectively. Then the polynomial is",
+      "prashna": "एक द्विघाती बहुपद के शून्यकों का योग तथा गुणनफल क्रमशः -3 एवं 2 हैं, तो बहुपद है",
+      "options": {
+        "A": "$x^2 + 2x - 3$",
+        "B": "$x^2 + 3x + 2$",
+        "C": "$x^2 - 3x - 2$",
+        "D": "$x^2 - 3x + 2$"
+      },
+      "vikalpa": {
+        "A": "$x^2 + 2x - 3$",
+        "B": "$x^2 + 3x + 2$",
+        "C": "$x^2 - 3x - 2$",
+        "D": "$x^2 - 3x + 2$"
+      }
+    },
+    {
+      "id": "obj_99",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "A polynomial of degree one is called",
+      "prashna": "एक घात वाला बहुपद कहलाता है",
+      "options": {
+        "A": "quadratic polynomial",
+        "B": "cubic polynomial",
+        "C": "linear polynomial",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "द्विघात बहुपद",
+        "B": "त्रिघात बहुपद",
+        "C": "रैखिक बहुपद",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_100",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "The most general form of the cubic polynomial in the following is",
+      "prashna": "निम्नलिखित में से त्रिघात बहुपद का सबसे व्यापक रूप है",
+      "options": {
+        "A": "$ax^2 + bx + c, a \neq 0$",
+        "B": "$ax^4 + bx^3 + c, a \neq 0$",
+        "C": "$ax^3 + bx^2 + cx + d, a \neq 0$",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "$ax^2 + bx + c, a \neq 0$",
+        "B": "$ax^4 + bx^3 + c, a \neq 0$",
+        "C": "$ax^3 + bx^2 + cx + d, a \neq 0$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "Find the zeroes of $4t^2 - 4t + 1$ and verify the relation between zeroes and coefficients.",
+      "prashna": "$4t^2 - 4t + 1$ के शून्यक ज्ञात करें एवं शून्यकों और गुणांकों के बीच के संबंध की जाँच करें।"
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "Find a quadratic polynomial, the sum and product of whose zeroes are 0 and -4 respectively.",
+      "prashna": "एक द्विघात बहुपद ज्ञात करें जिसके शून्यकों का योग तथा गुणनफल क्रमशः 0 और -4 है।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $p(x) = x^4 - 5x + 6$ and $q(x) = 2 - x^2$, then the degree of $\frac{p(x)}, {q(x)}$ is",
+      "prashna": "यदि $p(x) = x^4 - 5x + 6$ एवं $q(x) = 2 - x^2$ हो तो $\frac{p(x)}, {q(x)}$ का घात होगा",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "1",
+        "D": "3"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "4",
+        "C": "1",
+        "D": "3"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $(x+3)$ is a factor of $ax^2 + x + 1$ then the value of $a$ is",
+      "prashna": "यदि $(x+3), ax^2 + x + 1$ का एक गुणनखंड हो तो $a$ का मान होगा",
+      "options": {
+        "A": "3",
+        "B": "9/2",
+        "C": "2/9",
+        "D": "9"
+      },
+      "vikalpa": {
+        "A": "3",
+        "B": "9/2",
+        "C": "2/9",
+        "D": "9"
+      }
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "Find the zeroes of the quadratic polynomial $x^2 - 3$ and verify the relationship between the zeroes and the co-efficients.",
+      "prashna": "द्विघात बहुपद $x^2 - 3$ के शून्यक ज्ञात करें और शून्यकों तथा गुणांकों के बीच के संबंध की सत्यता की जाँच करें।"
+    },
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $p(y) = (y+1)(y^3+2)(y^4+6)$ and $g(y) = y^2 - 3y + 1$ then the degree of $\frac{p(y)}, {g(y)}$ is",
+      "prashna": "यदि $p(y) = (y+1)(y^3+2)(y^4+6)$ एवं $g(y) = y^2 - 3y + 1$ तो $\frac{p(y)}, {g(y)}$ का घात होगा",
+      "options": {
+        "A": "6",
+        "B": "3",
+        "C": "5",
+        "D": "4"
+      },
+      "vikalpa": {
+        "A": "6",
+        "B": "3",
+        "C": "5",
+        "D": "4"
+      }
+    },
+    {
+      "id": "obj_44",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $(x-2)$ is a factor of $px^2 - x - 6$ then the value of $p$ is",
+      "prashna": "यदि $(x-2)$, $px^2 - x - 6$ का एक गुणनखंड हो तो $p$ का मान होगा",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "1",
+        "D": "4"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "3",
+        "C": "1",
+        "D": "4"
+      }
+    },
+    {
+      "id": "obj_81",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "Which of the following is not a polynomial ?",
+      "prashna": "निम्नलिखित में कौन बहुपद नहीं है ?",
+      "options": {
+        "A": "\\sqrt{3}x^2 - 5\\sqrt{2}x + 3",
+        "B": "3x^2 - 4x + \\sqrt{5}",
+        "C": "x + 2\\sqrt{x}",
+        "D": "\frac{1}, {5}x^3 - 3x^2 + 2"
+      },
+      "vikalpa": {
+        "A": "\\sqrt{3}x^2 - 5\\sqrt{2}x + 3",
+        "B": "3x^2 - 4x + \\sqrt{5}",
+        "C": "x + 2\\sqrt{x}",
+        "D": "\frac{1}, {5}x^3 - 3x^2 + 2"
+      }
+    },
+    {
+      "id": "obj_82",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "The degree of the polynomial $(3x^2 - 7x + 2)(2x^4 + 3x^3 - 5x + 2)$ is",
+      "prashna": "बहुपद $(3x^2 - 7x + 2)(2x^4 + 3x^3 - 5x + 2)$ का घात है",
+      "options": {
+        "A": "2",
+        "B": "6",
+        "C": "4",
+        "D": "3"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "6",
+        "C": "4",
+        "D": "3"
+      }
+    },
+    {
+      "id": "obj_83",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "The zeroes of the polynomial $x^2 - 13$ are",
+      "prashna": "बहुपद $x^2 - 13$ के शून्यक हैं",
+      "options": {
+        "A": "13, -13",
+        "B": "13, -\\sqrt{13}",
+        "C": "\\sqrt{13}, -\\sqrt{13}",
+        "D": "\\sqrt{13}, -13"
+      },
+      "vikalpa": {
+        "A": "13, -13",
+        "B": "13, -\\sqrt{13}",
+        "C": "\\sqrt{13}, -\\sqrt{13}",
+        "D": "\\sqrt{13}, -13"
+      }
+    },
+    {
+      "id": "obj_84",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "For what value of $m$, -4 is one of the zeroes of the polynomial $x^2 - x - (2m+2)$ ?",
+      "prashna": "$m$ के किस मान के लिए -4, बहुपद $x^2 - x - (2m+2)$ का एक शून्यक है ?",
+      "options": {
+        "A": "7",
+        "B": "8",
+        "C": "9",
+        "D": "5"
+      },
+      "vikalpa": {
+        "A": "7",
+        "B": "8",
+        "C": "9",
+        "D": "5"
+      }
+    },
+    {
+      "id": "obj_85",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If 1 is one zero of the polynomial $p(x) = ax^2 - 3(a-1)x - 1$ then value of $a$ is",
+      "prashna": "यदि बहुपद $p(x) = ax^2 - 3(a-1)x - 1$ का एक शून्यक 1 है तो $a$ का मान होगा",
+      "options": {
+        "A": "3",
+        "B": "1",
+        "C": "0",
+        "D": "2"
+      },
+      "vikalpa": {
+        "A": "3",
+        "B": "1",
+        "C": "0",
+        "D": "2"
+      }
+    },
+    {
+      "id": "obj_86",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "Which of the following quadratic polynomials has zeroes $\frac{3}, {5}$ and $-\frac{1}, {2}$ ?",
+      "prashna": "निम्नलिखित में किस द्विघात बहुपद के शून्यक $\frac{3}, {5}$ एवं $-\frac{1}, {2}$ हैं ?",
+      "options": {
+        "A": "10x^2 + x + 3",
+        "B": "10x^2 + x - 3",
+        "C": "10x^2 - x + 3",
+        "D": "10x^2 - x - 3"
+      },
+      "vikalpa": {
+        "A": "10x^2 + x + 3",
+        "B": "10x^2 + x - 3",
+        "C": "10x^2 - x + 3",
+        "D": "10x^2 - x - 3"
+      }
+    },
+    {
+      "id": "obj_87",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $\\alpha$ and $\beta$ are the zeroes of the polynomial $p(x) = x^2 - 3x - 4$ then the value of $\frac{4}, {3}(\\alpha + \beta)$ is",
+      "prashna": "यदि बहुपद $p(x) = x^2 - 3x - 4$ के शून्यक $\\alpha$ एवं $\beta$ हों तो $\frac{4}, {3}(\\alpha + \beta)$ का मान होगा",
+      "options": {
+        "A": "4",
+        "B": "3",
+        "C": "-3",
+        "D": "1"
+      },
+      "vikalpa": {
+        "A": "4",
+        "B": "3",
+        "C": "-3",
+        "D": "1"
+      }
+    },
+    {
+      "id": "obj_88",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If one zero of the polynomial $p(x)$ is 5 then one factor of $p(x)$ is",
+      "prashna": "यदि बहुपद $p(x)$ का एक शून्यक 5 हो तो $p(x)$ का एक गुणनखंड होगा",
+      "options": {
+        "A": "x - 5",
+        "B": "x + 5",
+        "C": "\frac{1}, {x-5}",
+        "D": "\frac{1}, {x+5}"
+      },
+      "vikalpa": {
+        "A": "x - 5",
+        "B": "x + 5",
+        "C": "\frac{1}, {x-5}",
+        "D": "\frac{1}, {x+5}"
+      }
+    },
+    {
+      "id": "obj_89",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $p(x) = x^4 + 2x^3 - 17x^2 - 4x + 30$ is divided by $q(x) = x^2 + 2x - 15$, then the degree of the quotient is",
+      "prashna": "यदि $p(x) = x^4 + 2x^3 - 17x^2 - 4x + 30$ को $q(x) = x^2 + 2x - 15$ से भाग दिया जाता है तो भागफल का घात होगा",
+      "options": {
+        "A": "4",
+        "B": "2",
+        "C": "3",
+        "D": "1"
+      },
+      "vikalpa": {
+        "A": "4",
+        "B": "2",
+        "C": "3",
+        "D": "1"
+      }
+    },
+    {
+      "id": "obj_90",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $\\alpha$ and $\beta$ are the zeroes of the polynomial $x^2 + 5x + 8$ then the value of $\\alpha^2 + \beta^2 + 2\\alpha\beta$ is",
+      "prashna": "यदि बहुपद $x^2 + 5x + 8$ के शून्यक $\\alpha$ एवं $\beta$ हों तो $\\alpha^2 + \beta^2 + 2\\alpha\beta$ का मान होगा",
+      "options": {
+        "A": "25",
+        "B": "5",
+        "C": "8",
+        "D": "64"
+      },
+      "vikalpa": {
+        "A": "25",
+        "B": "5",
+        "C": "8",
+        "D": "64"
+      }
+    },
+    {
+      "id": "short_17",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "Find the zeroes of the quadratic polynomial $3x^2 - x - 4$ and verify the relationship between the zeroes and the co-efficients.",
+      "prashna": "द्विघात बहुपद $3x^2 - x - 4$ के शून्यक ज्ञात करें और शून्यकों तथा गुणांकों के बीच के संबंध की सत्यता की जाँच करें।"
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "Divide polynomial $2x^4 + 3x^3 - 2x^2 - 9x - 12$ by polynomial $x^2 - 3$.",
+      "prashna": "बहुपद $2x^4 + 3x^3 - 2x^2 - 9x - 12$ में बहुपद $x^2 - 3$ से भाग दें।"
+    },
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If one zero of the polynomial $(a^2+9)x^2 + 13x + 6a$ is reciprocal of the others, then find the value of $a$.",
+      "prashna": "यदि बहुपद $(a^2+9)x^2 + 13x + 6a$ का एक शून्यक दूसरे का व्युत्क्रम है तो $a$ का मान ज्ञात करें।"
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If one of the zeros of the polynomial $p(x)$ is $2$ then which of the following is a factor of $p(x)$?",
+      "prashna": "यदि बहुपद $p(x)$ का एक शून्यक $2$ हो, तो निम्नलिखित में कौन $p(x)$ का एक गुणनखण्ड है?",
+      "options": {
+        "A": "$x - 2$",
+        "B": "$x + 2$",
+        "C": "$x - 1$",
+        "D": "$x + 1$"
+      },
+      "vikalpa": {
+        "A": "$x - 2$",
+        "B": "$x + 2$",
+        "C": "$x - 1$",
+        "D": "$x + 1$"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $\\alpha$ and $\beta$ be the zeros of the polynomial $cx^2 + ax + b$ then the value of $\\alpha \\cdot \beta$ is",
+      "prashna": "यदि बहुपद $cx^2 + ax + b$ के शून्यक $\\alpha$ और $\beta$ हों, तो $\\alpha \\cdot \beta$ का मान है",
+      "options": {
+        "A": "$\frac{a}, {c}$",
+        "B": "$-\frac{a}, {c}$",
+        "C": "$\frac{b}, {c}$",
+        "D": "$-\frac{b}, {c}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{a}, {c}$",
+        "B": "$-\frac{a}, {c}$",
+        "C": "$\frac{b}, {c}$",
+        "D": "$-\frac{b}, {c}$"
+      }
+    },
+    {
+      "id": "obj_61",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "Which of the following quadratic polynomials has zeroes $3$ and $-10$?",
+      "prashna": "निम्नलिखित में से किस द्विघात बहुपद के शून्यक $3$ एवं $-10$ हैं?",
+      "options": {
+        "A": "$x^2 + 7x - 30$",
+        "B": "$x^2 - 7x - 30$",
+        "C": "$x^2 + 7x + 30$",
+        "D": "$x^2 - 7x + 30$"
+      },
+      "vikalpa": {
+        "A": "$x^2 + 7x - 30$",
+        "B": "$x^2 - 7x - 30$",
+        "C": "$x^2 + 7x + 30$",
+        "D": "$x^2 - 7x + 30$"
+      }
+    },
+    {
+      "id": "obj_62",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If the sum of zeros of a quadratic polynomial is $3$ and their product is $-2$ then that quadratic polynomial is",
+      "prashna": "यदि किसी द्विघात बहुपद के शून्यकों का योगफल $3$ एवं उनके गुणनफल $-2$ है, तो वह द्विघात बहुपद है",
+      "options": {
+        "A": "$x^2 - 3x - 2$",
+        "B": "$x^2 - 3x + 3$",
+        "C": "$x^2 - 2x + 3$",
+        "D": "$x^2 + 3x - 2$"
+      },
+      "vikalpa": {
+        "A": "$x^2 - 3x - 2$",
+        "B": "$x^2 - 3x + 3$",
+        "C": "$x^2 - 2x + 3$",
+        "D": "$x^2 + 3x - 2$"
+      }
+    },
+    {
+      "id": "obj_63",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $p(x) = x^4 - 2x^3 + 17x^2 - 4x + 30$ is divided by $q(x) = x + 2$ then the degree of the quotient is",
+      "prashna": "यदि $p(x) = x^4 - 2x^3 + 17x^2 - 4x + 30$ को $q(x) = x + 2$ से भाग दिया जाता है तो भागफल का घात है",
+      "options": {
+        "A": "6",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "vikalpa": {
+        "A": "6",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      }
+    },
+    {
+      "id": "obj_94",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "The zeroes of the polynomial $2x^2 - 4x - 6$ are",
+      "prashna": "बहुपद $2x^2 - 4x - 6$ के शून्यक हैं",
+      "options": {
+        "A": "1, 3",
+        "B": "-1, 3",
+        "C": "1, -3",
+        "D": "-1, -3"
+      },
+      "vikalpa": {
+        "A": "1, 3",
+        "B": "-1, 3",
+        "C": "1, -3",
+        "D": "-1, -3"
+      }
+    },
+    {
+      "id": "obj_95",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "The degree of the polynomial $(x^3 + x^2 + 2x + 1)(x^2 + 2x + 1)$ is",
+      "prashna": "बहुपद $(x^3 + x^2 + 2x + 1)(x^2 + 2x + 1)$ का घात है",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "vikalpa": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      }
+    },
+    {
+      "id": "obj_96",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "Which of the following is not a polynomial?",
+      "prashna": "निम्नलिखित में कौन बहुपद नहीं है?",
+      "options": {
+        "A": "$x^2 - 7$",
+        "B": "$2x^2 + 7x + 6$",
+        "C": "$\frac{1}, {2}x^2 + \frac{1}, {2}x + 4$",
+        "D": "$x + \frac{4}, {x}$"
+      },
+      "vikalpa": {
+        "A": "$x^2 - 7$",
+        "B": "$2x^2 + 7x + 6$",
+        "C": "$\frac{1}, {2}x^2 + \frac{1}, {2}x + 4$",
+        "D": "$x + \frac{4}, {x}$"
+      }
+    },
+    {
+      "id": "obj_97",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "Which of the following quadratic polynomials has zeroes $2$ and $-2$?",
+      "prashna": "निम्नलिखित में किस द्विघात बहुपद के शून्यक $2$ एवं $-2$ हैं?",
+      "options": {
+        "A": "$x^2 + 4$",
+        "B": "$x^2 - 4$",
+        "C": "$x^2 - 2x + 4$",
+        "D": "$x^2 + \\sqrt{8}$"
+      },
+      "vikalpa": {
+        "A": "$x^2 + 4$",
+        "B": "$x^2 - 4$",
+        "C": "$x^2 - 2x + 4$",
+        "D": "$x^2 + \\sqrt{8}$"
+      }
+    },
+    {
+      "id": "obj_98",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $\\alpha$ and $\beta$ are the zeroes of the polynomial $t^2 + 7t + 10$ then the value of $\\alpha + \beta$ is",
+      "prashna": "यदि बहुपद $t^2 + 7t + 10$ के शून्यक $\\alpha$ एवं $\beta$ हों तो $\\alpha + \beta$ का मान है",
+      "options": {
+        "A": "7",
+        "B": "10",
+        "C": "-7",
+        "D": "-10"
+      },
+      "vikalpa": {
+        "A": "7",
+        "B": "10",
+        "C": "-7",
+        "D": "-10"
+      }
+    },
+    {
+      "id": "obj_100",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If one zero of the quadratic polynomial $(k - 1)x^2 + kx + 1$ is $-4$ then the value of $k$ is",
+      "prashna": "यदि द्विघात बहुपद $(k - 1)x^2 + kx + 1$ का एक शून्यक $-4$ हो तो $k$ का मान है",
+      "options": {
+        "A": "$-\frac{5}, {4}$",
+        "B": "$\frac{5}, {4}$",
+        "C": "$-\frac{4}, {3}$",
+        "D": "$\frac{4}, {3}$"
+      },
+      "vikalpa": {
+        "A": "$-\frac{5}, {4}$",
+        "B": "$\frac{5}, {4}$",
+        "C": "$-\frac{4}, {3}$",
+        "D": "$\frac{4}, {3}$"
+      }
+    },
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "Divide $x^3 + 1$ by $x + 1$.",
+      "prashna": "$x^3 + 1$ को $x + 1$ से भाग दीजिए।"
+    }
+  ]
+}

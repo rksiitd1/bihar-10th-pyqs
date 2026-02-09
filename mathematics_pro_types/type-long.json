@@ -1,553 +1,58 @@
 {
-  "2015": [
-    {
-      "id": "long_1",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Find the area of shaded region in the given figure with centre O, if radii of two concentric circles are 7 cm and 14 cm respectively and $\\angle AOC = 40^\\circ$.",
-      "prashna": "प्रदत्त आकृति में छायांकित भाग का क्षेत्रफल निकालें यदि केन्द्र O वाले दोनों संकेन्द्रीय वृत्तों की त्रिज्याएँ क्रमश: 7 सेमी और 14 सेमी तथा $\\angle AOC = 40^\\circ$।",
-      "marks": 5
-    },
-    {
-      "id": "long_2",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Solve by graphical method: $2x + y = 6$ and $4x - 2y = 4$.",
-      "prashna": "ग्राफीय विधि से हल करें : $2x + y = 6$ तथा $4x - 2y = 4$।",
-      "marks": 5
-    },
-    {
-      "id": "long_3_1",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "The angles of elevation of the top of tower from two points at distances of 4 m and 9 m from the base of tower and in same straight line with it are complementary. Prove that the height of the tower is 6 metre.",
-      "prashna": "मीनार के आधार से एक सरल रेखा में 4 मी और 9 मी की दूरी पर स्थित दो बिन्दुओं से मीनार के शिखर के उन्नयन कोण पूरक कोण हैं, तो सिद्ध करें की मीनार की ऊँचाई 6 मी है।",
-      "marks": 5
-    },
-    {
-      "id": "long_3_2",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "The angle of elevation of the top of a building from the foot of a tower is $30^\\circ$ and the angle of elevation of the top of the tower from the foot of the building is $60^\\circ$. If the tower is 50 metre high, find the height of the building.",
-      "prashna": "एक मीनार के पाद से एक भवन के शिखर का उन्नयन कोण $30^\\circ$ है और भवन के पाद से मीनार के शिखर का उन्नयन कोण $60^\\circ$ है। यदि मीनार की ऊँचाई 50 मीटर है तो भवन की ऊँचाई निकालें।",
-      "marks": 5
-    },
-    {
-      "id": "long_4",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "In a right triangle, the square of the hypotenuse is equal to the sum of the squares of other two sides. Prove it.",
-      "prashna": "सिद्ध करें कि समकोण त्रिभुज के कर्ण पर वर्ग अन्य दो भुजाओं के वर्ग के बराबर होते हैं।",
-      "marks": 5
-    },
-    {
-      "id": "long_5_1",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Draw a line $AB = 12$ cm and divide it in a ratio of $3:5$.",
-      "prashna": "रेखा $AB = 12$ सेमी खींचें और $3:5$ के अनुपात में बाँटें।",
-      "marks": 5
-    },
-    {
-      "id": "long_5_2",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Construct a triangle $ABC$ in which side $BC = 6$ cm, $AB = 5$ cm and $\\angle ABC = 60^\\circ$. Construct a triangle similar to this triangle whose sides are $3/4$th of the corresponding sides of triangle $ABC$.",
-      "prashna": "$\\triangle ABC$ की रचना करें जिसमें $BC = 6$ सेमी, $AB = 5$ सेमी तथा $\\angle ABC = 60^\\circ$ है। इसके समरूप एक अन्य त्रिभुज बनायें जिसकी भुजाएँ $\\triangle ABC$ की संगत भुजाओं का $3/4$ हों।",
-      "marks": 5
-    }
-  ],
-  "2016": [
-    {
-      "id": "long_43",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Find the area of sector having $4$ cm radius and $30^\\circ$ angle at the centre of given circle. Also find the area of corresponding major sector.",
-      "prashna": "त्रिज्या $4$ सेमी वाले एक वृत्त के त्रिज्यखण्ड का क्षेत्रफल ज्ञात करें, जिसका कोण $30^\\circ$ है। साथ ही, संगत दीर्घ त्रिज्यखण्ड का क्षेत्रफल भी ज्ञात करें।"
-    },
-    {
-      "id": "long_44",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Solve by graphical method: $x + 2y - 4 = 0$ and $2x + 4y - 12 = 0$.",
-      "prashna": "ग्राफिय विधि से हल करें: $x + 2y - 4 = 0$ तथा $2x + 4y - 12 = 0$।"
-    },
-    {
-      "id": "long_45_1",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "A vertical flag rod and a $50$ m high tower are situated at same horizontal ground. The angles of depression of the top of the tower from top and foot of the flag rod are $30^\\circ$ and $45^\\circ$ respectively. Find the height of the flag rod.",
-      "prashna": "एक ऊर्ध्वाधर झंडा स्तम्भ तथा एक $50$ मीटर ऊँची मीनार एक ही क्षैतिज तल पर स्थित है। मीनार के शीर्ष से स्तम्भ के ऊपर तथा निचले सिरे के अवनमन कोण क्रमशः $30^\\circ$ तथा $45^\\circ$ हैं, तो झंडा स्तम्भ की ऊँचाई ज्ञात करें।"
-    },
-    {
-      "id": "long_45_2",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "The angle of elevation of the top of building from the foot of a tower is $30^\\circ$ and the angle of elevation of the top of tower from the foot of building is $60^\\circ$. If the height of tower is $50$ m, then find the height of the building.",
-      "prashna": "एक मीनार के पाद बिन्दु से एक भवन के शिखर का उन्नयन कोण $30^\\circ$ है और भवन के पाद-बिन्दु से मीनार के शिखर का उन्नयन कोण $60^\\circ$ है। यदि मीनार $50$ मी ऊँची हो, तो भवन की ऊँचाई ज्ञात करें।"
-    },
-    {
-      "id": "long_46",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "In a triangle, a line drawn parallel to one side to intersect the other two sides in two distinct points, divides the two sides in the same ratio. Prove it.",
-      "prashna": "एक त्रिभुज की एक भुजा के समानान्तर खींची गयी रेखा अन्य दो भुजाओं को जिन दो बिन्दु पर प्रतिच्छेद करती है, वे बिन्दु भुजाओं को समान अनुपात में विभाजित करते हैं। सिद्ध करें।"
-    },
-    {
-      "id": "long_47_1",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Construct a circle of $3$ cm radius. Construct an equilateral triangle inside the circle.",
-      "prashna": "$3$ सेमी की त्रिज्या का एक वृत्त खींचें। इसके अन्तर्गत एक समबाहु त्रिभुज बनायें।"
-    },
-    {
-      "id": "long_47_2",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Draw a circle inside an equilateral triangle of sides $5$ cm which touches the sides of the triangle.",
-      "prashna": "$5$ सेमी भुजा वाले एक समबाहु त्रिभुज के अन्तर्गत एक वृत्त खींचें जो त्रिभुज की भुजाओं को स्पर्श करे।"
-    }
-  ],
-  "2017": [
-    {
-      "id": "long_1",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "A toy is in the form of a cone mounted on a hemisphere of radius $3.5$ cm. The total height of the toy is $15.5$ cm. Find the total surface area and volume of the toy. $\\pi = \\frac{22}{7}$",
-      "prashna": "एक खिलौना $3.5$ सेमी. त्रिज्या वाले शंकु के आकार का है जो उसी त्रिज्या वाले एक अर्धगोले पर अध्यारोपित है । इस खिलौने की सम्पूर्ण ऊँचाई $15.5$ सेमी. है । इस खिलौने का सम्पूर्ण पृष्ठीय क्षेत्रफल व आयतन ज्ञात कीजिए । $\\pi = \\frac{22}{7}$"
-    },
-    {
-      "id": "long_2",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Solve by graphical method: $2x + y = 6$ and $4x - 2y = 4$",
-      "prashna": "ग्राफिय विधि से हल करें - $2x + y = 6$ तथा $4x - 2y = 4$"
-    },
-    {
-      "id": "long_3_1",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "The angle of elevation of the top of building from the foot of a tower is $30^\\circ$ and the angle of elevation of the top of the tower from the foot of the building is $60^\\circ$. If the tower is $50$ metre high, find the height of the building.",
-      "prashna": "एक मीनार के पाद से एक भवन के शिखर का उन्नयन कोण $30^\\circ$ है और भवन के पाद से मीनार के शिखर का उन्नयन कोण $60^\\circ$ है । यदि मीनार की ऊँचाई $50$ मी. है तो भवन की ऊँचाई निकालें ।"
-    },
-    {
-      "id": "long_3_2",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "The shadow of a tower standing on a level ground is found to be $40$m. longer when the sun's altitude is $30^\\circ$ than when it is $60^\\circ$. Find the height of the tower.",
-      "prashna": "अथवा: एक समतल जमीन पर खड़ी मीनार की छाया उस स्थिति में $40$ मी. अधिक लम्बी हो जाती है जबकि सूर्य का उन्नयन कोण $60^\\circ$ से घटकर $30^\\circ$ हो जाता है । मीनार की ऊँचाई ज्ञात कीजिए ।"
-    },
-    {
-      "id": "long_4_1",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Prove that the ratio of the areas of two similar triangular is equal to square of the ratio of their corresponding sides.",
-      "prashna": "सिद्ध करें कि दो समरूप त्रिभुजों के क्षेत्रफलों का अनुपात उनके संगत भुजाओं के वर्गों के अनुपात में होता है ।"
-    },
-    {
-      "id": "long_4_2",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "In a triangle, if square of one side is equal to the sum of the square of the other two sides, than the angle opposite the first side is right angle.",
-      "prashna": "अथवा: यदि किसी त्रिभुज की एक भुजा का वर्ग अन्य दो भुजाओं के योग के बराबर हो तो पहली भुजा के सम्मुख कोण समकोण होता है ।"
-    },
-    {
-      "id": "long_5_1",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Draw a circle of radius $3$ cm. Draw a pair of tangents to the circle, which are inclined to each other at an angle of $60^\\circ$",
-      "prashna": "$3$ सेमी. त्रिज्या का एक वृत्त खींचे । उस वृत्त पर युग्म स्पर्श रेखा खींचे जो एक दूसरे के साथ $60^\\circ$ कोण बनाती हैं ।"
-    },
-    {
-      "id": "long_5_2",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Construct a triangle whose sides are $5$ cm., $6$ cm and $7$ cm. construct a similar triangle such that each of its side is $5/7$ of the corresponding sides of the triangle.",
-      "prashna": "अथवा: $5$ सेमी., $6$ सेमी. और $7$ सेमी. भुजाओं वाले एक त्रिभुज की रचना कीजिए और एक अन्य समरूप त्रिभुज की रचना कीजिए जिसकी भुजाएं दिए हुए त्रिभुज की संगत भुजाओं की $5/7$ गुनी हो ।"
-    },
-    {
-      "id": "long_1",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Five years ago, father's age was seven times the age of the son and five years hence, it will be three times. Find the present ages of father and son.",
-      "prashna": "पांच वर्ष पहले पिता की आयु, पुत्र की आयु की सात गुनी थी और पांच वर्ष बाद तीन गुनी हो जाएगी। पिता और पुत्र की वर्तमान आयु निकालें।"
-    },
-    {
-      "id": "long_2",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "If $\\text{cosec } \\theta = \\frac{5}, {3}$, then find the value of $\\sec^2 \\theta - \\tan^2 \\theta$.",
-      "prashna": "यदि $\\text{cosec } \\theta = \\frac{5}, {3}$ हो, तो $\\sec^2 \\theta - \\tan^2 \\theta$ का मान निकालें।"
-    },
-    {
-      "id": "long_3",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Show that every positive odd integer is of the form $6p + 1$ or $6p + 3$ or $6p + 5$, where $p$ is an integer.",
-      "prashna": "दिखाएँ कि एक धनात्मक विषम पूर्णांक $6p+1$ या $6p+3$ या $6p+5$ के रूप का है, जहाँ $p$ एक पूर्णांक है।"
-    },
-    {
-      "id": "long_4",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "A fraction becomes $\\frac{1}, {3}$ when $1$ is subtracted from the numerator and it becomes $\\frac{1}, {4}$ when $8$ is added to its denominator. Find the fraction.",
-      "prashna": "किसी भिन्न के अंश से $1$ घटाने पर $\\frac{1}, {3}$ हो जाता है तथा इसके हर में $8$ जोड़ने पर $\\frac{1}, {4}$ हो जाता है। भिन्न ज्ञात करें।"
-    },
-    {
-      "id": "long_5",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Find the coordinates of the point on the $x$-axis which is equidistant from the points $(-2, 5)$ and $(2, -3)$.",
-      "prashna": "$x$-अक्ष पर स्थित उस बिन्दु का निर्देशांक ज्ञात करें जो बिन्दुओं $(-2, 5)$ और $(2, -3)$ से समदूरस्थ हो।"
-    },
-    {
-      "id": "long_6",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "The diameter of each wheel of a car is $80$ cm. How many revolutions does each wheel make in $10$ minutes when the car is traveling at a speed of $66$ km/h?",
-      "prashna": "किसी कार के प्रत्येक पहिए का व्यास $80$ सेमी० है। प्रत्येक पहिया $10$ मिनट में कितना चक्कर लगाएगा, यदि कार $66$ किमी/घंटे की चाल से चल रही हो?"
-    },
-    {
-      "id": "long_7",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "If $\\cos 3\\theta = \\sin 2\\theta$, then prove that $\\theta = 18^\\circ$.",
-      "prashna": "यदि $\\cos 3\\theta = \\sin 2\\theta$ हो, तो साबित करें कि $\\theta = 18^\\circ$."
-    },
-    {
-      "id": "long_8",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Find the mean for the following frequency distribution:\\n| Class Interval | 0-8 | 8-16 | 16-24 | 24-32 | 32-40 | 40-48 |\\n|---|---|---|---|---|---|---|\\n| Frequency | 10 | 20 | 14 | 16 | 18 | 22 |",
-      "prashna": "निम्नलिखित बारम्बारता बंटन के लिए माध्य निकालें:\\n| वर्ग-अन्तराल | 0-8 | 8-16 | 16-24 | 24-32 | 32-40 | 40-48 |\\n|---|---|---|---|---|---|---|\\n| बारम्बारता | 10 | 20 | 14 | 16 | 18 | 22 |"
-    },
-    {
-      "id": "long_9",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "If the corresponding angles of two triangles are equal, then prove that their corresponding sides are proportional.",
-      "prashna": "यदि दो त्रिभुजों के संगत कोण बराबर हों, तो साबित करें कि उनकी संगत भुजाएँ समानुपाती होती हैं।"
-    },
-    {
-      "id": "long_10",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Construct a triangle with sides $4$ cm, $5$ cm and $6$ cm and then construct another triangle similar to it whose sides are $\\frac{2}, {3}$ of the corresponding sides of the first triangle.",
-      "prashna": "$4$ सेमी०, $5$ सेमी० और $6$ सेमी० भुजाओं वाला एक त्रिभुज बनाएं तथा इसके समरूप एक दूसरे त्रिभुज की रचना करें जिसकी भुजाएं पहले त्रिभुज की संगत भुजाओं का $\\frac{2}, {3}$ हो।"
-    }
-  ],
-  "2018": [
-    {
-      "id": "long_1_1",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "A train covered a certain distance at a uniform speed. If the train would have been $10\\text{km/hr}$ faster, it would have taken 2 hours less than the scheduled time, but if the train were slower by $10\\text{km/hr}$, it would have taken 3 hours more than scheduled time. Find the distance covered by the train.",
-      "prashna": "एक ट्रेन एक नियत दूरी को एक समान गति से तय करती है। यदि ट्रेन की गति $10$ कि.मी./घण्टा अधिक होती तो यह दूरी नियत समय से $2$ घण्टा पहले पूरी हो जाती, परन्तु यदि ट्रेन की गति $10$ कि. मी./घण्टा कम होती तो यह दूरी नियत समय से $3$ घण्टा अधिक में पूरी होती। ट्रेन द्वारा तय की गयी दूरी की गणना करें।"
-    },
-    {
-      "id": "long_1_2",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Answer following sub-questions.",
-      "prashna": "निम्न अनुप्रश्नों के उत्तर दें।",
-      "sub_questions": {
-        "i": "Solve the pair of linear equations $px + qy = p - q$ and $qx - py = p + q$ for $x$ and $y$.",
-        "ii": "Find values of $a$ and $b$ for which the system of linear equations has infinite number of solution $(a + b)x - 2by = (5a + 2b + 1)$ and $3x - y = 14$"
-      },
-      "anuprashna": {
-        "i": "रैखीय समीकरण युग्म $px + qy = p - q$ तथा $qx - py = p + q$ को $x$ तथा $y$ के लिए हल करें।",
-        "ii": "रैखीय समीकरण युग्म $(a + b)x - 2by = (5a + 2b + 1)$ और $3x - y = 14$ के अनगिनत हल के लिए $a$ तथा $b$ का मान निर्धारित करें।"
-      }
-    },
-    {
-      "id": "long_2_1",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "In the given figure: $DE \\parallel BC$ and $\\frac{BD}{DA} = \\frac{5}{3}$ then, find $\\frac{ar(\\triangle ADE)}{ar(\\Delta ABFC)}$",
-      "prashna": "दिये गये चित्र में $DE \\parallel BC$ तथा $\\frac{BD}{DA} = \\frac{5}{3}$ तो $\\frac{ar(\\triangle ADE)}{ar(\\Delta ABFC)}$ ज्ञात करें।"
-    },
-    {
-      "id": "long_2_2",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "The in-circle of a triangle ABC touches the sides BC, CA and AB at D, E and F respectively. Prove that: $AF + BD + CE = AE + CD + BF = \\frac{1}{2}(\\text{Perimeter of } \\triangle ABC)$",
-      "prashna": "$\\triangle ABC$ का अन्तःवृत भुजाओं $BC, CA$ तथा $AB$ को क्रमशः $D, E$ तथा $F$ पर स्पर्श करता है। सिद्ध कीजिए कि - $AF + BD + CE = AE + CD + BF = \\frac{1}{2}(\\triangle ABC \\text{ का परिमाप})$"
-    },
-    {
-      "id": "long_3_1",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Prove that -",
-      "prashna": "सिद्ध करें -",
-      "sub_questions": {
-        "i": "$\\sin A (1 + \\tan A) + \\cos A (1 + \\cot A) = \\sec A + \\csc A$",
-        "ii": "$\\frac{\\sin \\theta - \\cos \\theta + 1}{\\sin \\theta + \\cos \\theta - 1} = \\frac{1}{\\sec \\theta - \\tan \\theta}$"
-      },
-      "anuprashna": {
-        "i": "$\\sin A (1 + \\tan A) + \\cos A (1 + \\cot A) = \\sec A + \\csc A$",
-        "ii": "$\\frac{\\sin \\theta - \\cos \\theta + 1}{\\sin \\theta + \\cos \\theta - 1} = \\frac{1}{\\sec \\theta - \\tan \\theta}$"
-      }
-    },
-    {
-      "id": "long_3_2",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "A person standing on the bank of a river, observes that the angle of elevation of the top of a tree, standing on opposite bank is $60^\\circ$. When he moves $40\\text{m}$ away from the bank, he finds the angle of elevation to be $30^\\circ$. Find the Width of the river.",
-      "prashna": "नदी के एक किनारे पर खड़े आदमी को दूसरे सिरे पर खड़े पेड़ का उन्नयन कोण $60^\\circ$ दिखता है। जब आदमी किनारे से $40$ मीटर दूर चलता है, तो उन्नयन कोण $30^\\circ$ हो जाता है। नदी की चौड़ाई ज्ञात करें।"
-    },
-    {
-      "id": "long_4_1",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "The canvass of a circus has height $11\\text{dm}$ (decimetre) in cylindrical section and above it, there is a conical shape. The maximum height of canvass is $16\\text{dm}$ and the diameter of canvass is $24\\text{dm}$. Evaluate the total area of the canvass.",
-      "prashna": "सरकस का एक तंबू $11$ डेसीमीटर की ऊँचाई तक तो बेलनाकार है और फिर इसके ऊपर शंकुवाकार है। यदि उसका व्यास $24$ डेसीमीटर है तथा शंकु के शीर्ष की ऊँचाई जमीन से $16$ डेसीमीटर है, तो उस कैनवास के कुल क्षेत्रफल की गणना करें।"
-    },
-    {
-      "id": "long_4_2",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "The radius and height of a cone are in the ratio $4:3$. The area of base is $154\\text{ cm}^2$. Find the area of curved surface.",
-      "prashna": "एक शंकु (कोन) की त्रिज्या व ऊँचाई का अनुपात $4:3$ है। वृत्ताकार आधार का क्षेत्रफल $154$ सेमी$^2$ है। वक्र क्षेत्र का क्षेत्रफल ज्ञात करें।"
-    },
-    {
-      "id": "long_1_1",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "A train covered a certain distance at a uniform speed. If the train would have been $10\\text{km/hr}$ faster, it would have taken 2 hours less than the scheduled time, but if the train were slower by $10\\text{km/hr}$, it would have taken 3 hours more than scheduled time. Find the distance covered by the train.",
-      "prashna": "एक ट्रेन एक नियत दूरी को एक समान गति से तय करती है। यदि ट्रेन की गति 10 कि.मी./घण्टा अधिक होती तो यह दूरी नियत समय से 2 घंटा पहले पूरी हो जाती, परन्तु यदि ट्रेन की गति 10 कि.मी./घण्टा कम होती तो यह दूरी नियत समय से 3 घंटा अधिक में पूरी होती। ट्रेन द्वारा तय की गयी दूरी की गणना करें।"
-    },
-    {
-      "id": "long_1_2",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "(i) Solve the pair of linear equations $px + qy = p - q$ and $qx - py = p + q$ for $x$ and $y$. (ii) Find values of $a$ and $b$ for which the system of linear equations has infinite number of solution $(a + b)x - 2by = (5a + 2b + 1)$ and $3x - y = 14$.",
-      "prashna": "(i) रैखीय समीकरण युग्म $px + qy = p - q$ तथा $qx - py = p + q$ को $x$ तथा $y$ के लिए हल करें। (ii) रैखीय समीकरण युग्म $(a + b)x - 2by = (5a + 2b + 1)$ और $3x - y = 14$ के अनगिनत हल के लिए $a$ तथा $b$ का मान निर्धारित करें।",
-      "sub_questions": {
-        "A": "Solve for $x$ and $y$: $px + qy = p - q$ and $qx - py = p + q$.",
-        "B": "Find $a, b$ for infinite solutions of $(a + b)x - 2by = (5a + 2b + 1)$ and $3x - y = 14$."
-      },
-      "anuprashna": {
-        "A": "$x$ तथा $y$ के लिए हल करें: $px + qy = p - q$ तथा $qx - py = p + q$ .",
-        "B": "$(a + b)x - 2by = (5a + 2b + 1)$ और $3x - y = 14$ के अनगिनत हल के लिए $a$ तथा $b$ ज्ञात करें।"
-      }
-    },
-    {
-      "id": "long_2_1",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "In the given figure: $DE \\parallel BC$ and $\\frac{BD}{DA} = \\frac{5}{3}$ then, find $\\frac{\\text{ar}(\\triangle DEF)}{\\text{ar}(\\triangle BFC)}$.",
-      "prashna": "दिये गये चित्र में $DE \\parallel BC$ तथा $\\frac{BD}{DA} = \\frac{5}{3}$ तो $\\frac{\\text{ar}(\\triangle DEF)}{\\text{ar}(\\triangle BFC)}$ ज्ञात करें।"
-    },
-    {
-      "id": "long_2_2",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "The in-circle of a triangle ABC touches the sides BC, CA and AB at D, E and F respectively. Prove that: $AF + BD + CE = AE + CD + BF = \\frac{1}{2}(\\text{Perimeter of } \\triangle ABC)$.",
-      "prashna": "$\\triangle ABC$ का अन्तः वृत्त भुजाओं BC, CA तथा AB को क्रमशः D, E तथा F पर स्पर्श करता है। सिद्ध कीजिए कि - $AF + BD + CE = AE + CD + BF = \\frac{1}{2}(\\triangle ABC \\text{ का परिमाप})$."
-    },
-    {
-      "id": "long_3_1",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Prove that - (i) $\\sin A (1 + \\tan A) + \\cos A (1 + \\cot A) = \\sec A + \\csc A$, (ii) $\\frac{\\sin\\theta - \\cos\\theta + 1}{\\sin\\theta + \\cos\\theta - 1} = \\frac{1}{\\sec\\theta - \\tan\\theta}$.",
-      "prashna": "सिद्ध करें - (i) $\\sin A (1 + \\tan A) + \\cos A (1 + \\cot A) = \\sec A + \\csc A$, (ii) $\\frac{\\sin\\theta - \\cos\\theta + 1}{\\sin\\theta + \\cos\\theta - 1} = \\frac{1}{\\sec\\theta - \\tan\\theta}$.",
-      "sub_questions": {
-        "A": "$\\sin A (1 + \\tan A) + \\cos A (1 + \\cot A) = \\sec A + \\csc A$",
-        "B": "$\\frac{\\sin\\theta - \\cos\\theta + 1}{\\sin\\theta + \\cos\\theta - 1} = \\frac{1}{\\sec\\theta - \\tan\\theta}$"
-      },
-      "anuprashna": {
-        "A": "$\\sin A (1 + \\tan A) + \\cos A (1 + \\cot A) = \\sec A + \\csc A$",
-        "B": "$\\frac{\\sin\\theta - \\cos\\theta + 1}{\\sin\\theta + \\cos\\theta - 1} = \\frac{1}{\\sec\\theta - \\tan\\theta}$"
-      }
-    },
-    {
-      "id": "long_3_2",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "A person standing on the bank of a river, observes that the angle of elevation of the top of a tree, standing on opposite bank is $60^\\circ$. When he moves 40m away from the bank, he finds the angle of elevation to be $30^\\circ$. Find the Width of the river.",
-      "prashna": "नदी के एक किनारे पर खड़े आदमी को दूसरे सिरे पर खड़े पेड़ का उन्नयन कोण $60^\\circ$ दिखता है। जब आदमी किनारे से 40 मीटर दूर चलता है, तो उन्नयन कोण $30^\\circ$ हो जाता है। नदी की चौड़ाई ज्ञात करें।"
-    },
-    {
-      "id": "long_4_1",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "The canvass of a circus has height $11 \\text{ dm (decimetre)}$ in cylindrical section and above it, there is a conical shape. The maximum height of canvass is $16 \\text{ decimetre}$ and the diameter of canvass is $24 \\text{ decimetre}$. Evaluate the total area of the canvass.",
-      "prashna": "सरकस का एक तंबू 11 डेसीमीटर की ऊँचाई तक तो बेलनाकार है और फिर इसके ऊपर शंकुकार है। यदि उसका व्यास 24 डेसीमीटर है तथा शंकु के शीर्ष की ऊँचाई जमीन से 16 डेसीमीटर है, तो उस कैनवास के कुल क्षेत्रफल की गणना करें।"
-    },
-    {
-      "id": "long_4_2",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "The radius and height of a cone are in the ratio 4:3. The area of base is $154 \\text{ cm}^2$. Find the area of curved surface.",
-      "prashna": "एक शंकु (कोन) की त्रिज्या व ऊँचाई का अनुपात 4:3 है। वृत्ताकार आधार का क्षेत्रफल 154 सेमी$^2$ है। वक्र क्षेत्र का क्षेत्रफल ज्ञात करें।"
-    }
-  ],
   "2019": [
     {
       "id": "long_1",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Draw the graph of pair of equations 2x + 3y = 17 and 3x - 2y = 6 and solve them.",
-      "prashna": "समीकरण युग्म 2x + 3y = 17 तथा 3x - 2y = 6 का ग्राफ खींचें और हल करें।"
-    },
-    {
-      "id": "long_2",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Two poles of equal heights are standing opposite to each other on either side of the road, which is 80m wide. From a point between them on the road, the angles of elevation of the top of the poles are $60^\\circ$ and $30^\\circ$ respectively. Find the height of the poles and the distance of the point from the pole.",
-      "prashna": "एक 80 मीटर चौड़ी सड़क के दोनों ओर आमने सामने समान लम्बाई वाले दो खम्भे लगे हुए हैं। इन दोनों खम्भों के बीच सड़क के एक बिन्दु से खम्भों के शिखर के उन्नयन कोण क्रमशः $60^\\circ$ और $30^\\circ$ हैं। खम्भों की ऊँचाई और खम्भों से बिन्दु की दूरी ज्ञात कीजिए।"
-    },
-    {
-      "id": "long_3",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Prove that the length of tangents drawn from an external point to a circle are equal.",
-      "prashna": "सिद्ध करें कि किसी बाह्य बिन्दु से वृत्त पर खींची गई स्पर्श रेखाओं की लम्बाइयाँ बराबर होती हैं।"
-    },
-    {
-      "id": "long_4",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "A train travels 360km at a uniform speed. If the speed had been 5 km/h more, it would have taken 1 hour less for the same journey. Find the speed of the train.",
-      "prashna": "एक रेलगाड़ी एक समान चाल से 360 किमी. की दूरी तय करती है। यदि यह चाल 5 किमी./घंटा अधिक होती तो वह उसी यात्रा में 1 घंटा कम समय लेती। रेलगाड़ी की चाल ज्ञात करें।"
-    },
-    {
-      "id": "long_5",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Prove that - $(\\sin A + \\csc A)^2 + (\\cos A + \\sec A)^2 = 7 + \\tan^2 A + \\cot^2 A$",
-      "prashna": "सिद्ध करें कि - $(\\sin A + \\csc A)^2 + (\\cos A + \\sec A)^2 = 7 + \\tan^2 A + \\cot^2 A$"
-    },
-    {
-      "id": "long_6",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "PQ is a chord of length 8 cm of a circle of radius 5 cm. The tangents at P and Q intersect at a point T. Find the length of TP.",
-      "prashna": "5 सेमी. त्रिज्या के एक वृत्त की 8 सेमी. लम्बी एक जीवा PQ है। P और Q पर स्पर्श रेखाएँ परस्पर एक बिन्दु T पर प्रतिच्छेद करती हैं। TP की लंबाई ज्ञात करें।"
-    },
-    {
-      "id": "long_7",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Water is flowing with a speed of 10 km/hour in a canal 6 m wide and 1.5 m deep. How much area will it irrigate in 30 minutes, if 8 cm of standing water is needed for irrigation?",
-      "prashna": "6 मीटर चौड़ी और 1.5 मीटर गहरी एक नहर में पानी 10 किमी./घंटा की चाल से बह रहा है। 30 मिनट में यह नहर कितने क्षेत्रफल की सिंचाई कर पाएगी, जबकि सिंचाई के लिए 8 सेमी. गहरे पानी की आवश्यकता होती है।"
-    },
-    {
-      "id": "long_8",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "A well of diameter 3 m is dug 14 m deep. The earth taken out of it has been spread evenly all around it in the shape of a circular ring of width 4 m to from an embankment. Find the height of the embankment.",
-      "prashna": "3 मीटर व्यास का एक कुआँ 14 मीटर की गहराई तक खोदा जाता है। इससे निकली हुई मिट्टी को कुएँ के चारों ओर 4 मीटर चौड़ी एक वृत्ताकार वलय बनाते हुए समान रूप से फैलाकर एक प्रकार का बाँध बनाया जाता है। इस बाँध की ऊँचाई ज्ञात करें।"
-    },
-    {
-      "id": "long_1",
-      "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
       "question": "Draw the graph of pair of equations $2x + 3y = 17$ and $3x - 2y = 6$ and solve them.",
       "prashna": "समीकरण युग्म $2x + 3y = 17$ तथा $3x - 2y = 6$ का ग्राफ खीचें और हल करें।"
     },
     {
       "id": "long_2",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "9",
+      "chapter_name": "Some Applications of Trigonometry",
       "question": "Two poles of equal heights are standing opposite to each other on either side of the road, which is 80m wide. From a point between them on the road, the angles of elevation of the top of the poles are $60^\\circ$ and $30^\\circ$ respectively. Find the height of the poles and the distance of the point from the pole.",
       "prashna": "एक 80 मीटर चौड़ी सड़क के दोनों ओर आमने सामने समान लम्बाई वाले दो खम्भे लगे हुए हैं। इन दोनों खम्भों के बीच सड़क के एक बिन्दु से खम्भों के शिखर के उन्नयन कोण क्रमशः $60^\\circ$ और $30^\\circ$ हैं। खम्भों की ऊँचाई और खम्भों से बिन्दु की दूरी ज्ञात कीजिए।"
     },
     {
       "id": "long_3",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "10",
+      "chapter_name": "Circles",
       "question": "Prove that the length of tangents drawn from an external point to a circle are equal.",
       "prashna": "सिद्ध करें कि किसी बाह्य बिन्दु से वृत्त पर खींची गई स्पर्श रेखाओं की लम्बाईयाँ बराबर होती हैं।"
     },
     {
       "id": "long_4",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
       "question": "A train travels 360km at a uniform speed. If the speed had been 5 km/h more, it would have taken 1 hour less for the same journey. Find the speed of the train.",
       "prashna": "एक रेलगाड़ी एक समान चाल से 360 किमी. की दूरी तय करती है। यदि यह चाल 5 किमी./ घंटा अधिक होती तो वह उसी यात्रा में 1 घंटा कम समय लेती। रेलगाड़ी की चाल ज्ञात करें।"
     },
     {
       "id": "long_5",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Prove that - $(\\sin A + \\csc A)^2 + (\\cos A + \\sec A)^2 = 7 + \\tan^2 A + \\cot^2 A$",
-      "prashna": "सिद्ध करें कि - $(\\sin A + \\csc A)^2 + (\\cos A + \\sec A)^2 = 7 + \\tan^2 A + \\cot^2 A$"
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "Prove that - $(\\sin A + \\csc A)^2 + (\\cos A + \\sec A)^2 = 7 + \tan^2 A + \\cot^2 A$",
+      "prashna": "सिद्ध करें कि - $(\\sin A + \\csc A)^2 + (\\cos A + \\sec A)^2 = 7 + \tan^2 A + \\cot^2 A$"
     },
     {
       "id": "long_6",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "10",
+      "chapter_name": "Circles",
       "question": "$PQ$ is a chord of length 8 cm of a circle of radius 5 cm. The tangents at $P$ and $Q$ intersect at a point $T$. Find the length of $TP$.",
       "prashna": "5 सेमी. त्रिज्या के एक वृत्त की 8 सेमी. लम्बी एक जीवा $PQ$ है। $P$ और $Q$ पर स्पर्श रेखाएँ परस्पर एक बिन्दु $T$ पर प्रतिच्छेद करती हैं। $TP$ की लंबाई ज्ञात करें।"
     },
     {
       "id": "long_7",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "12",
+      "chapter_name": "Surface Areas and Volumes",
       "question": "Water is flowing with a speed of 10 km/hour in a canal 6 m wide and 1.5 m deep. How much area will it irrigate in 30 minutes, if 8 cm of standing water is needed for irrigation?",
       "prashna": "6 मीटर चौड़ी और 1.5 मीटर गहरी एक नहर में पानी 10 किमी./ घंटा की चाल से बह रहा है। 30 मिनट में यह नहर कितने क्षेत्रफल की सिंचाई कर पाएगी, जबकि सिंचाई के लिए 8 सेमी. गहरे पानी की आवश्यकता होती है?",
       "translation": "Water is flowing with a speed of 10 km/hour in a canal 6 m wide and 1.5 m deep. How much area will it irrigate in 30 minutes, if 8 cm of standing water is needed for irrigation?"
@@ -555,8 +60,8 @@
     {
       "id": "long_8",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "12",
+      "chapter_name": "Surface Areas and Volumes",
       "question": "A well of diameter 3 m is dug 14 m deep. The earth taken out of it has been spread evenly all around it in the shape of a circular ring of width 4 m to from an embankment. Find the height of the embankment.",
       "prashna": "3 मीटर व्यास का एक कुआँ 14 मीटर की गहराई तक खोदा जाता है। इससे निकली हुई मिट्टी को कुएँ के चारों ओर 4 मीटर चौड़ी एक वृत्ताकार वलय बनाते हुए समान रूप से फैलाकर एक प्रकार का बाँध बनाया जाता है। इस बाँध की ऊँचाई ज्ञात करें।"
     }
@@ -565,388 +70,388 @@
     {
       "id": "long_28",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
       "question": "Draw the graph of pair of equations $x + 2y = 3$ and $4x + 3y = 2$.",
       "prashna": "समीकरण युग्म $x + 2y = 3$ तथा $4x + 3y = 2$ का ग्राफ खींचें और हल करें।"
     },
     {
       "id": "long_29",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "9",
+      "chapter_name": "Some Applications of Trigonometry",
       "question": "Two poles of equal heights are standing opposite to each other on either side of the road, which is 60 m wide. From a point between them on the road, the angles of elevation of the top of the poles are $30^\\circ$ and $60^\\circ$ respectively. Find the heights of the poles and the distance of the point from the poles.",
       "prashna": "एक 60 m चौड़ी सड़क के दोनों ओर आमने-सामने समान लंबाई वाले दो खम्भे लगे हुए हैं। इन दोनों खम्भों के बीच सड़क के एक बिन्दु से खम्भों के शिखर के उन्नयन कोण क्रमशः $30^\\circ$ और $60^\\circ$ हैं। खम्भों की ऊँचाई और खम्भों से बिन्दु की दूरी ज्ञात कीजिए।"
     },
     {
       "id": "long_30",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "10",
+      "chapter_name": "Circles",
       "question": "Prove that the line segment joining the points of contact of two parallel tangents of the circle passes through the centre of the circle.",
       "prashna": "सिद्ध करें कि वृत्त की दो समांतर स्पर्शरेखाओं के स्पर्शबिन्दुओं को मिलानेवाला रेखाखंड वृत्त के केन्द्र से होकर जाता है।"
     },
     {
       "id": "long_31",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
       "question": "A train travels a distance with equal speed. If the train had run 10 km/hr faster, it would have taken 2 hours less than the scheduled time and if it had run 10 km/hr slower, it would have taken 3 hours more than the scheduled time. Find the distance travelled by the train.",
       "prashna": "एक रेलगाड़ी कुछ दूरी समान चाल से तय करती है। यदि रेलगाड़ी 10 km/hr अधिक तेज चली होती, तो उसे नियत समय से 2 घंटे कम लगते और यदि 10 km/hr धीमी चली होती, तो उसे नियत समय से 3 घंटे अधिक लगते। रेलगाड़ी द्वारा तय की गई दूरी ज्ञात करें।"
     },
     {
       "id": "long_32",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Prove that $\\frac{\\tan A}, {1 - \\cot A} + \\frac{\\cot A}, {1 - \\tan A} = (1 + \\tan A + \\cot A)$.",
-      "prashna": "सिद्ध करें कि $\\frac{\\tan A}, {1 - \\cot A} + \\frac{\\cot A}, {1 - \\tan A} = (1 + \\tan A + \\cot A)$।"
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "Prove that $\frac{\tan A}, {1 - \\cot A} + \frac{\\cot A}, {1 - \tan A} = (1 + \tan A + \\cot A)$.",
+      "prashna": "सिद्ध करें कि $\frac{\tan A}, {1 - \\cot A} + \frac{\\cot A}, {1 - \tan A} = (1 + \tan A + \\cot A)$।"
     },
     {
       "id": "long_33",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "10",
+      "chapter_name": "Circles",
       "question": "If the angle between two tangents drawn on a circle with radius $a$ and centre $O$ from an exterior point $P$ is $60^\\circ$, find the length of $OP$.",
       "prashna": "यदि एक बाह्य बिन्दु $P$ से त्रिज्या $a$ तथा केन्द्र $O$ वाले वृत्त पर खींची गई दो स्पर्शरेखाओं के बीच का कोण $60^\\circ$ हो, तो $OP$ की लंबाई ज्ञात करें।"
     },
     {
       "id": "long_34",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
       "question": "Nisha can swim downstream 20 km in 2 hours and upstream 4 km in 2 hours. Find her speed of swimming in still water and the speed of the current.",
       "prashna": "निशा धारा के अनुकूल 2 घंटे में 20 km तैर सकती है और धारा के प्रतिकूल 2 घंटे में 4 km तैर सकती है। उसकी स्थिर जल में तैरने की चाल तथा धारा की चाल ज्ञात करें।"
     },
     {
       "id": "long_35",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "10",
+      "chapter_name": "Circles",
       "question": "Draw a circle of radius 3.5 cm. Draw two tangents to the circle which are perpendicular to each other.",
       "prashna": "3.5 cm त्रिज्या का वृत्त खींचिए। इस वृत्त पर ऐसी दो स्पर्शरेखाएँ खींचिए जो परस्पर लंबवत हों।"
     },
     {
       "id": "long_1",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
       "question": "Draw the graph of pair of equations $3x - y = 2$ and $9x - 3y = 6$ and solve them.",
       "prashna": "समीकरण युग्म $3x - y = 2$ तथा $9x - 3y = 6$ का ग्राफ खींचें और हल करें।"
     },
     {
       "id": "long_2",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "When viewed from the top of a multi-storied building, the angles of depressions of the top and bottom of an $8 \\text{ m}$ high building are $30^{\\circ}$ and $45^{\\circ}$ respectively. Find the height of the multi-storied building and the distance between the two buildings.",
-      "prashna": "एक बहुमंजिला भवन के शिखर से देखने पर एक $8 \\text{ m}$ ऊँचे भवन के शिखर और तल के अवनमन कोण क्रमशः $30^{\\circ}$ और $45^{\\circ}$ हैं। बहुमंजिला भवन की ऊँचाई और दोनों भवनों के बीच की दूरी ज्ञात करें।"
+      "chapter": "9",
+      "chapter_name": "Some Applications of Trigonometry",
+      "question": "When viewed from the top of a multi-storied building, the angles of depressions of the top and bottom of an $8 \text{ m}$ high building are $30^{\\circ}$ and $45^{\\circ}$ respectively. Find the height of the multi-storied building and the distance between the two buildings.",
+      "prashna": "एक बहुमंजिला भवन के शिखर से देखने पर एक $8 \text{ m}$ ऊँचे भवन के शिखर और तल के अवनमन कोण क्रमशः $30^{\\circ}$ और $45^{\\circ}$ हैं। बहुमंजिला भवन की ऊँचाई और दोनों भवनों के बीच की दूरी ज्ञात करें।"
     },
     {
       "id": "long_3",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "10",
+      "chapter_name": "Circles",
       "question": "Prove that the parallelogram circumscribing a circle is a rhombus.",
       "prashna": "सिद्ध करें कि किसी वृत्त के परिगत समांतर चतुर्भुज, समचतुर्भुज होता है।"
     },
     {
       "id": "long_4",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
       "question": "Five years ago, $A$ was thrice as old as $B$ and ten years later $A$ shall be twice as old as $B$. What are the present ages of $A$ and $B$ ?",
       "prashna": "पाँच वर्ष पूर्व, $A$ की आयु, $B$ की आयु की तीन गुनी थी। दस वर्ष पश्चात् $A$ की आयु, $B$ की आयु की दोगुनी हो जाएगी। $A$ और $B$ की वर्तमान आयु ज्ञात करें।"
     },
     {
       "id": "long_5",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Prove that $(\\text{cosec } A - \\sin A)(\\sec A - \\cos A) = \\frac{1}{\\tan A + \\cot A}$",
-      "prashna": "सिद्ध करें कि $(\\text{cosec } A - \\sin A)(\\sec A - \\cos A) = \\frac{1}{\\tan A + \\cot A}$"
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "Prove that $(\text{cosec } A - \\sin A)(\\sec A - \\cos A) = \frac{1}, {\tan A + \\cot A}$",
+      "prashna": "सिद्ध करें कि $(\text{cosec } A - \\sin A)(\\sec A - \\cos A) = \frac{1}, {\tan A + \\cot A}$"
     },
     {
       "id": "long_6",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Draw a triangle $ABC$ in which $AB = 5\\text{cm}, BC = 6\\text{cm}$ and $\\angle ABC = 60^{\\circ}$. Then construct a triangle whose sides are $\\frac{3}{4}$ times the corresponding sides of $\\triangle ABC$.",
-      "prashna": "एक त्रिभुज $ABC$ की रचना करें जिसमें $AB = 5\\text{cm}, BC = 6\\text{cm}$ तथा $\\angle ABC = 60^{\\circ}$ है। फिर, एक त्रिभुज की रचना करें जिसकी भुजाएँ $\\triangle ABC$ की संगत भुजाओं की $\\frac{3}{4}$ गुनी हों।"
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "Draw a triangle $ABC$ in which $AB = 5\text{cm}, BC = 6\text{cm}$ and $\\angle ABC = 60^{\\circ}$. Then construct a triangle whose sides are $\frac{3}, {4}$ times the corresponding sides of $\triangle ABC$.",
+      "prashna": "एक त्रिभुज $ABC$ की रचना करें जिसमें $AB = 5\text{cm}, BC = 6\text{cm}$ तथा $\\angle ABC = 60^{\\circ}$ है। फिर, एक त्रिभुज की रचना करें जिसकी भुजाएँ $\triangle ABC$ की संगत भुजाओं की $\frac{3}, {4}$ गुनी हों।"
     },
     {
       "id": "long_7",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "A motor boat covers $30 \\text{ km}$ upstream and $28 \\text{ km}$ downstream in $7$ hours. Also, it covers $21 \\text{ km}$ upstream and come back in $5$ hours. Find the speed of the motor boat in still water and that of the stream.",
-      "prashna": "एक मोटर बोट को धारा के प्रतिकूल $30 \\text{ km}$ और धारा के अनुकूल $28 \\text{ km}$ जाने में $7$ घंटे का समय लगता है। वह धारा के प्रतिकूल $21 \\text{ km}$ जाकर $5$ घंटे में वापस आ सकती है। शांत जल में मोटर बोट की चाल और धारा की चाल ज्ञात करें।"
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "A motor boat covers $30 \text{ km}$ upstream and $28 \text{ km}$ downstream in $7$ hours. Also, it covers $21 \text{ km}$ upstream and come back in $5$ hours. Find the speed of the motor boat in still water and that of the stream.",
+      "prashna": "एक मोटर बोट को धारा के प्रतिकूल $30 \text{ km}$ और धारा के अनुकूल $28 \text{ km}$ जाने में $7$ घंटे का समय लगता है। वह धारा के प्रतिकूल $21 \text{ km}$ जाकर $5$ घंटे में वापस आ सकती है। शांत जल में मोटर बोट की चाल और धारा की चाल ज्ञात करें।"
     },
     {
       "id": "long_8",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "A triangle $ABC$ is drawn to circumscribe a circle of radius $4 \\text{ cm}$ such that the segments $BD$ and $DC$ into which $BC$ is divided by the point of contact $D$ are of lengths $6 \\text{ cm}$ and $8 \\text{ cm}$ respectively. Find the lengths of the sides $AB$ and $AC$.",
-      "prashna": "एक त्रिभुज $ABC$ के अंत:वृत्त की त्रिज्या $4 \\text{ cm}$ है तथा उन दो रेखाखंडों $BD$ तथा $DC$ की लंबाईयाँ, जिनमें भुजा $BC$ स्पर्शबिन्दु $D$ द्वारा विभाजित होती है, $6 \\text{ cm}$ तथा $8 \\text{ cm}$ हैं। भुजाओं $AB$ तथा $AC$ की लंबाईयाँ ज्ञात करें।"
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "A triangle $ABC$ is drawn to circumscribe a circle of radius $4 \text{ cm}$ such that the segments $BD$ and $DC$ into which $BC$ is divided by the point of contact $D$ are of lengths $6 \text{ cm}$ and $8 \text{ cm}$ respectively. Find the lengths of the sides $AB$ and $AC$.",
+      "prashna": "एक त्रिभुज $ABC$ के अंत:वृत्त की त्रिज्या $4 \text{ cm}$ है तथा उन दो रेखाखंडों $BD$ तथा $DC$ की लंबाईयाँ, जिनमें भुजा $BC$ स्पर्शबिन्दु $D$ द्वारा विभाजित होती है, $6 \text{ cm}$ तथा $8 \text{ cm}$ हैं। भुजाओं $AB$ तथा $AC$ की लंबाईयाँ ज्ञात करें।"
     }
   ],
   "2021": [
     {
       "id": "long_1",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
       "question": "Draw the graph of pair of linear equations $x + y = 7$ and $2x - 3y = 9$ and solve.",
       "prashna": "रैखिक समीकरण युग्म $x + y = 7$ तथा $2x - 3y = 9$ का आलेख खींचें और हल करें।"
     },
     {
       "id": "long_2",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "If 2 is added to both numerator and denominator of a fraction it becomes $\\frac{9}{11}$ and if 3 is added to its numerator and denominator it becomes $\\frac{5}{6}$. Find the fraction.",
-      "prashna": "यदि किसी भिन्न के अंश और हर दोनों में 2 जोड़ दिया जाए, तो वह $\\frac{9}{11}$ हो जाती है। यदि अंश और हर दोनों में 3 जोड़ दिया जाए, तो वह $\\frac{5}{6}$ हो जाती है। वह भिन्न ज्ञात करें।"
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "If 2 is added to both numerator and denominator of a fraction it becomes $\frac{9}, {11}$ and if 3 is added to its numerator and denominator it becomes $\frac{5}, {6}$. Find the fraction.",
+      "prashna": "यदि किसी भिन्न के अंश और हर दोनों में 2 जोड़ दिया जाए, तो वह $\frac{9}, {11}$ हो जाती है। यदि अंश और हर दोनों में 3 जोड़ दिया जाए, तो वह $\frac{5}, {6}$ हो जाती है। वह भिन्न ज्ञात करें।"
     },
     {
       "id": "long_3",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "6",
+      "chapter_name": "Triangles",
       "question": "Prove that if a line is drawn parallel to one side of a triangle, the other two sides are divided in the same ratio.",
       "prashna": "सिद्ध करें कि यदि किसी त्रिभुज की एक भुजा के समांतर एक रेखा खींची जाए तो अन्य दो भुजाएँ एक ही अनुपात में विभाजित हो जाती हैं।"
     },
     {
       "id": "long_4",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Prove that $\\frac{\\csc A}{\\csc A - 1} + \\frac{\\csc A}{\\csc A + 1} = 2 \\sec^2 A$.",
-      "prashna": "सिद्ध करें कि $\\frac{\\csc A}{\\csc A - 1} + \\frac{\\csc A}{\\csc A + 1} = 2 \\sec^2 A$।"
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "Prove that $\frac{\\csc A}, {\\csc A - 1} + \frac{\\csc A}, {\\csc A + 1} = 2 \\sec^2 A$.",
+      "prashna": "सिद्ध करें कि $\frac{\\csc A}, {\\csc A - 1} + \frac{\\csc A}, {\\csc A + 1} = 2 \\sec^2 A$।"
     },
     {
       "id": "long_5",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "9",
+      "chapter_name": "Some Applications of Trigonometry",
       "question": "The shadow of a tower standing on a level ground is found to be 30 m longer when the sun's angle of elevation is $30^\\circ$, than when it was $60^\\circ$. Find the height of the tower.",
       "prashna": "एक समतल जमीन पर खड़ी मीनार की छाया उस स्थिति में 30 m अधिक लम्बी हो जाती है जबकि सूर्य का उन्नतांश $60^\\circ$ से घटकर $30^\\circ$ हो जाता है तो मीनार की ऊँचाई ज्ञात करें।"
     },
     {
       "id": "long_6",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "10",
+      "chapter_name": "Circles",
       "question": "Draw a circle of radius 6 cm. Construct a pair of tangents to this circle from a point 10 cm away from its centre.",
       "prashna": "6 cm त्रिज्या का एक वृत्त खींचें। इसके केन्द्र से 10 cm दूर एक बिन्दु से इस पर स्पर्श रेखा युग्म की रचना करें।"
     },
     {
       "id": "long_7",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "7",
+      "chapter_name": "Coordinate Geometry",
       "question": "Find the area of the quadrilateral whose vertices are $(-4, -2), (-3, -5), (3, -2)$ and $(2, 3)$.",
       "prashna": "उस चतुर्भुज का क्षेत्रफल ज्ञात करें जिसके शीर्ष $(-4, -2), (-3, -5), (3, -2)$ और $(2, 3)$ हैं।"
     },
     {
       "id": "long_8",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
       "question": "The speed of a boat in still water is 15 km/hr. It goes 30 km downstream and returns back upstream in a total time of 4 hours 30 minutes. Find the speed of the stream.",
       "prashna": "एक नाव को जिसकी शांत जल में चाल 15 किमी/घंटा है, धारा की दिशा में 30 किमी जाने और फिर धारा की विपरीत दिशा में लौटने में कुल 4 घंटे 30 मिनट लगता है। धारा की चाल ज्ञात करें।"
     },
     {
       "id": "long_1",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "6",
+      "chapter_name": "Triangles",
       "question": "Prove that if a line divides any two sides of a triangle in the same ratio, then the line is parallel to the third side.",
       "prashna": "सिद्ध करें कि यदि एक रेखा किसी त्रिभुज की दो भुजाओं को एक ही अनुपात में विभाजित करती है, तो वह तीसरी भुजा के समांतर होती है।"
     },
     {
       "id": "long_2",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "10",
+      "chapter_name": "Circles",
       "question": "Draw a circle of radius $3$ cm. From a point $5$ cm away from its center, draw two tangents to the circle and measure their lengths.",
       "prashna": "$3$ cm त्रिज्या का एक वृत्त खींचें। वृत्त के केन्द्र से $5$ cm की दूरी पर स्थित बिन्दु से वृत्त पर दो स्पर्श रेखाएँ खींचें और उनकी लंबाइयाँ मापें।"
     },
     {
       "id": "long_3",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
       "question": "Solve by graphical method: $9x - 10y + 12 = 0$ and $2x + 3y - 13 = 0$.",
       "prashna": "ग्राफिय विधि से हल करें : $9x - 10y + 12 = 0$ तथा $2x + 3y - 13 = 0$."
     },
     {
       "id": "long_4",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
       "question": "A motor boat whose speed in still water is $18$ km/h, takes $1$ hour more to go $24$ km upstream than to return downstream to the same spot. Find the speed of the stream.",
       "prashna": "एक मोटर बोट, जिसकी स्थिर जल में चाल $18$ km/h है, $24$ km धारा के प्रतिकूल जाने में, वही दूरी धारा के अनुकूल जाने की अपेक्षा $1$ घंटा अधिक समय लेती है। धारा की चाल ज्ञात करें।"
     },
     {
       "id": "long_5",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "9",
+      "chapter_name": "Some Applications of Trigonometry",
       "question": "From the top of a lighthouse, $95$ m above sea level, the angles of depression of two ships are $30^\\circ$ and $45^\\circ$. If one ship is exactly behind the other on the same side of the lighthouse, find the distance between the two ships.",
       "prashna": "समुद्र तल से $95$ m ऊँची प्रकाश गृह के शिखर से देखने पर दो समुद्री जहाजों के अवनमन कोण $30^\\circ$ और $45^\\circ$ हैं। यदि प्रकाश गृह के एक ही ओर एक जहाज दूसरे जहाज के ठीक पीछे हो तो जहाजों के बीच की दूरी ज्ञात करें।"
     },
     {
       "id": "long_6",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "12",
+      "chapter_name": "Surface Areas and Volumes",
       "question": "A toy is in the form of a cone of radius $3.5$ cm mounted on a hemisphere of the same radius. The total height of the toy is $15.5$ cm. Find the volume of the toy.",
       "prashna": "एक खिलौना $3.5$ cm त्रिज्या वाले शंकु के आकार का है, जो इसी त्रिज्या वाले गोलार्द्ध के ऊपर है। खिलौने की कुल ऊँचाई $15.5$ cm है। खिलौने का आयतन ज्ञात करें।"
     },
     {
       "id": "long_7",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Prove that $\\frac{1 + \\sec \\theta}{\\sec \\theta} = \\frac{\\sin^2 \\theta}{1 - \\cos \\theta}$.",
-      "prashna": "सिद्ध करें कि $\\frac{1 + \\sec \\theta}{\\sec \\theta} = \\frac{\\sin^2 \\theta}{1 - \\cos \\theta}$."
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "Prove that $\frac{1 + \\sec \theta}, {\\sec \theta} = \frac{\\sin^2 \theta}, {1 - \\cos \theta}$.",
+      "prashna": "सिद्ध करें कि $\frac{1 + \\sec \theta}, {\\sec \theta} = \frac{\\sin^2 \theta}, {1 - \\cos \theta}$."
     },
     {
       "id": "long_8",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "If $2$ is added to both numerator and denominator of a fraction, it becomes $\\frac{1}{2}$. If $7$ is subtracted from both numerator and denominator, it becomes $\\frac{1}{3}$. Find that fraction.",
-      "prashna": "यदि किसी भिन्न के अंश और हर दोनों में $2$ जोड़ दिया जाए, तो वह $\\frac{1}{2}$ हो जाती है। यदि अंश और हर दोनों में $7$ घटा दिया जाए, तो वह $\\frac{1}{3}$ हो जाती है। वह भिन्न ज्ञात करें।"
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "If $2$ is added to both numerator and denominator of a fraction, it becomes $\frac{1}, {2}$. If $7$ is subtracted from both numerator and denominator, it becomes $\frac{1}, {3}$. Find that fraction.",
+      "prashna": "यदि किसी भिन्न के अंश और हर दोनों में $2$ जोड़ दिया जाए, तो वह $\frac{1}, {2}$ हो जाती है। यदि अंश और हर दोनों में $7$ घटा दिया जाए, तो वह $\frac{1}, {3}$ हो जाती है। वह भिन्न ज्ञात करें।"
     }
   ],
   "2022": [
     {
       "id": "long_1",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
       "question": "The difference of squares of two numbers is 180. If the square of smaller number is 8 times of bigger number, find both the numbers.",
       "prashna": "दो संख्याओं के वर्गों का अंतर 180 है। यदि छोटी संख्या का वर्ग बड़ी संख्या का आठ गुना है, तो दोनों संख्याएँ ज्ञात करें।"
     },
     {
       "id": "long_2",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
       "question": "Using graphical method, solve the pair of equations $4x - 5y = 20$ and $3x + 5y = 15$.",
       "prashna": "ग्राफिय विधि से समीकरण युग्म $4x - 5y = 20$ एवं $3x + 5y = 15$ को हल करें।"
     },
     {
       "id": "long_3",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Prove that $\\frac{\\sin \\theta - \\cos \\theta + 1}{\\sin \\theta + \\cos \\theta - 1} = \\frac{1}{\\sec \\theta - \\tan \\theta}$.",
-      "prashna": "सिद्ध करें कि $\\frac{\\sin \\theta - \\cos \\theta + 1}{\\sin \\theta + \\cos \\theta - 1} = \\frac{1}{\\sec \\theta - \\tan \\theta}$।"
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "Prove that $\frac{\\sin \theta - \\cos \theta + 1}, {\\sin \theta + \\cos \theta - 1} = \frac{1}, {\\sec \theta - \tan \theta}$.",
+      "prashna": "सिद्ध करें कि $\frac{\\sin \theta - \\cos \theta + 1}, {\\sin \theta + \\cos \theta - 1} = \frac{1}, {\\sec \theta - \tan \theta}$।"
     },
     {
       "id": "long_4",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "10",
+      "chapter_name": "Circles",
       "question": "Draw a circle inside an equilateral triangle of side 5 cm which touches the sides of the triangle.",
       "prashna": "5 सेमी भुजा वाले एक समबाहु त्रिभुज के अंतर्गत एक वृत्त खींचें जो त्रिभुज की भुजाओं को स्पर्श करे।"
     },
     {
       "id": "long_5",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "10",
+      "chapter_name": "Circles",
       "question": "Prove that the line segment joining the points of contact of two parallel tangents to a circle is a diameter of the circle.",
       "prashna": "सिद्ध करें कि दो समांतर स्पर्श रेखाओं के स्पर्श बिन्दु को जोड़ने वाला रेखाखण्ड वृत्त का व्यास होता है।"
     },
     {
       "id": "long_6",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "9",
+      "chapter_name": "Some Applications of Trigonometry",
       "question": "A vertical flagstaff and a 50 m high tower are situated on the same horizontal base. From the top of the tower, angles of depression of upper and lower ends of flagstaff are $30^\\circ$ and $45^\\circ$ respectively. Find the height of the flagstaff.",
       "prashna": "एक उर्ध्वाधर झंडा स्तंभ तथा एक 50 मीटर ऊँची मीनार एक ही क्षैतिज तल पर स्थित हैं। मीनार के शीर्ष से स्तंभ के ऊपरी तथा निचले सिरे के अवनमन कोण क्रमशः $30^\\circ$ तथा $45^\\circ$ हैं, तो झंडा स्तंभ की ऊँचाई ज्ञात करें।"
     },
     {
       "id": "long_7",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "13",
+      "chapter_name": "Statistics",
       "question": "The mean of the given data is 18. Then find the unknown frequency :\n\n| Class-Interval | 11-13 | 13-15 | 15-17 | 17-19 | 19-21 | 21-23 | 23-25 |\n| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n| No. of children | 7 | 6 | 9 | 13 | f | 5 | 4 |",
       "prashna": "दिए गए आँकड़ों का माध्य 18 है तो अज्ञात बारंबारता ज्ञात करें :\n\n| वर्ग-अंतराल | 11-13 | 13-15 | 15-17 | 17-19 | 19-21 | 21-23 | 23-25 |\n| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n| बच्चों की संख्या | 7 | 6 | 9 | 13 | f | 5 | 4 |"
     },
     {
       "id": "long_8",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "12",
+      "chapter_name": "Surface Areas and Volumes",
       "question": "An article is made by scooping out a hemisphere from each end of a solid wooden cylinder. If the height of the cylinder is 10 cm and its base radius is 3.5 cm then find the surface area and volume of the remaining solid.",
       "prashna": "लकड़ी के एक ठोस बेलन के प्रत्येक सिरे पर एक अर्द्धगोला खोदकर एक वस्तु बनाया जाता है। यदि बेलन की ऊँचाई 10 सेमी और बेलन के आधार की त्रिज्या 3.5 सेमी हो तो बचे हुए ठोस का पृष्ठीय क्षेत्रफल और आयतन ज्ञात करें।"
     },
     {
       "id": "long_1",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
       "question": "Draw the graphs of pair of linear equations $x - 4y + 14 = 0$ and $3x + 2y - 14 = 0$ and solve them.",
       "prashna": "रैखिक समीकरण युग्म $x - 4y + 14 = 0$ तथा $3x + 2y - 14 = 0$ का आलेख खींचें और हल करें।"
     },
     {
       "id": "long_2",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "The perpendicular of a right angled triangle is $7 \\text{ cm}$ less than its base and its hypotenuse is $13 \\text{ cm}$. Find the base of the triangle.",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "The perpendicular of a right angled triangle is $7 \text{ cm}$ less than its base and its hypotenuse is $13 \text{ cm}$. Find the base of the triangle.",
       "prashna": "एक समकोण त्रिभुज का लम्ब उसके आधार से $7$ सेमी कम है तथा कर्ण $13$ सेमी है। त्रिभुज का आधार ज्ञात करें।"
     },
     {
       "id": "long_3",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "10",
+      "chapter_name": "Circles",
       "question": "Prove that the tangents drawn at the ends of a diameter of a circle are parallel.",
       "prashna": "सिद्ध करें कि किसी वृत्त के व्यास के छोरों पर खींची गई स्पर्श रेखाएँ समांतर होती हैं।"
     },
     {
       "id": "long_4",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Construct a triangle $ABC$ in which $BC = 6 \\text{ cm}, AB = 5 \\text{ cm}$ and $\\angle ABC = 60^\\circ$; then construct a similar triangle whose sides are $\\frac{3}{4}$ times the corresponding sides of $\\Delta ABC$.",
-      "prashna": "एक त्रिभुज $ABC$ की रचना करें जिसकी भुजा $BC = 6$ सेमी, $AB = 5$ सेमी एवं $\\angle ABC = 60^\\circ$, फिर एक समरूप त्रिभुज की रचना करें जिसकी भुजाएँ $\\Delta ABC$ की संगत भुजाओं की $\\frac{3}{4}$ है।"
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "Construct a triangle $ABC$ in which $BC = 6 \text{ cm}, AB = 5 \text{ cm}$ and $\\angle ABC = 60^\\circ$; then construct a similar triangle whose sides are $\frac{3}, {4}$ times the corresponding sides of $\\Delta ABC$.",
+      "prashna": "एक त्रिभुज $ABC$ की रचना करें जिसकी भुजा $BC = 6$ सेमी, $AB = 5$ सेमी एवं $\\angle ABC = 60^\\circ$, फिर एक समरूप त्रिभुज की रचना करें जिसकी भुजाएँ $\\Delta ABC$ की संगत भुजाओं की $\frac{3}, {4}$ है।"
     },
     {
       "id": "long_5",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Prove that $(\\text{cosec } A - \\sin A)(\\sec A - \\cos A) = \\frac{1}{\\tan A + \\cot A}$.",
-      "prashna": "सिद्ध करें कि $(\\text{cosec } A - \\sin A)(\\sec A - \\cos A) = \\frac{1}{\\tan A + \\cot A}$।"
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "Prove that $(\text{cosec } A - \\sin A)(\\sec A - \\cos A) = \frac{1}, {\tan A + \\cot A}$.",
+      "prashna": "सिद्ध करें कि $(\text{cosec } A - \\sin A)(\\sec A - \\cos A) = \frac{1}, {\tan A + \\cot A}$।"
     },
     {
       "id": "long_6",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Two ships are approaching a lighthouse from opposite directions. The angles of depression of the two ships from the top of lighthouse are $60^\\circ$ and $45^\\circ$. If the distance between two ships is $100 \\text{ m}$, find the height of the lighthouse.",
+      "chapter": "9",
+      "chapter_name": "Some Applications of Trigonometry",
+      "question": "Two ships are approaching a lighthouse from opposite directions. The angles of depression of the two ships from the top of lighthouse are $60^\\circ$ and $45^\\circ$. If the distance between two ships is $100 \text{ m}$, find the height of the lighthouse.",
       "prashna": "दो जहाज विपरीत दिशा से एक लाईटहाउस की तरफ बढ़ रही हैं। दोनों जहाजों का अवनमन कोण लाईटहाउस के शीर्ष से $60^\\circ$ एवं $45^\\circ$ हैं। यदि दोनों जहाजों के बीच की दूरी $100$ मीटर है तो लाईटहाउस की ऊँचाई ज्ञात करें।"
     },
     {
       "id": "long_7",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "A solid cube of edge $22 \\text{ cm}$ is melted to form a circular cylinder of length $7 \\text{ cm}$. Find the radius of cylinder.",
+      "chapter": "12",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "A solid cube of edge $22 \text{ cm}$ is melted to form a circular cylinder of length $7 \text{ cm}$. Find the radius of cylinder.",
       "prashna": "$22$ सेमी किनारे वाले एक ठोस घन को पिघलाकर एक $7$ सेमी लम्बा वृत्ताकार बेलन बनाया जाता है। बेलन की त्रिज्या ज्ञात करें।"
     },
     {
       "id": "long_8",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "13",
+      "chapter_name": "Statistics",
       "question": "Find the mode of the following distribution: Class-interval 0-10 (14), 10-20 (23), 20-30 (27), 30-40 (21), 40-50 (15).",
       "prashna": "निम्नलिखित बंटन का बहुलक ज्ञात करें : वर्ग-अंतराल 0-10 (14), 10-20 (23), 20-30 (27), 30-40 (21), 40-50 (15)।"
     }
@@ -955,64 +460,64 @@
     {
       "id": "long_1",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
       "question": "Using graphical method solve the pair of equations $3x - 5y + 1 = 0$ and $2x - y - 3 = 0$.",
       "prashna": "ग्राफिय विधि से समीकरण युग्म $3x - 5y + 1 = 0$ एवं $2x - y - 3 = 0$ को हल करें।"
     },
     {
       "id": "long_2",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Divide 50 into two parts so that the sum of their reciprocals is $\\frac{1}, {12}$.",
-      "prashna": "50 को दो भागों में इस प्रकार बाँटें कि उनके व्युत्क्रमों का योग $\\frac{1}, {12}$ हो।"
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Divide 50 into two parts so that the sum of their reciprocals is $\frac{1}, {12}$.",
+      "prashna": "50 को दो भागों में इस प्रकार बाँटें कि उनके व्युत्क्रमों का योग $\frac{1}, {12}$ हो।"
     },
     {
       "id": "long_3",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Find the mean of the following distribution : \\n Class-interval: 5-15, 15-25, 25-35, 35-45, 45-55, 55-65 \\n Frequency: 6, 11, 21, 23, 14, 5",
-      "prashna": "निम्नलिखित बंटन का माध्य ज्ञात करें : \\n वर्ग-अंतराल: 5-15, 15-25, 25-35, 35-45, 45-55, 55-65 \\n बारंबारता: 6, 11, 21, 23, 14, 5"
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "Find the mean of the following distribution : \n Class-interval: 5-15, 15-25, 25-35, 35-45, 45-55, 55-65 \n Frequency: 6, 11, 21, 23, 14, 5",
+      "prashna": "निम्नलिखित बंटन का माध्य ज्ञात करें : \n वर्ग-अंतराल: 5-15, 15-25, 25-35, 35-45, 45-55, 55-65 \n बारंबारता: 6, 11, 21, 23, 14, 5"
     },
     {
       "id": "long_4",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Two poles of equal heights are standing opposite to each other on either sides of the road which is $80\\text{ m}$ wide. From a point $P$ between them on the road the angle of elevation of the top of one pole is $60^\\circ$ and the angle of depression of the point $P$ from the top of another pole is $30^\\circ$. Find the height of each pole and distances of the point $P$ from the poles.",
-      "prashna": "समान ऊँचाई के दो खंभे $80\\text{ मी}$ चौड़ी सड़क के दोनों ओर एक दूसरे के सम्मुख हैं। इन दोनों खंभों के बीच सड़क के किसी बिन्दु $P$ पर एक खंभे के शीर्ष का उन्नयन कोण $60^\\circ$ है तथा दूसरे खंभे के शीर्ष से बिन्दु $P$ का अवनमन कोण $30^\\circ$ है। खंभों की ऊँचाइयाँ तथा बिन्दु $P$ की खंभों से दूरियाँ ज्ञात करें।"
+      "chapter": "9",
+      "chapter_name": "Some Applications of Trigonometry",
+      "question": "Two poles of equal heights are standing opposite to each other on either sides of the road which is $80\text{ m}$ wide. From a point $P$ between them on the road the angle of elevation of the top of one pole is $60^\\circ$ and the angle of depression of the point $P$ from the top of another pole is $30^\\circ$. Find the height of each pole and distances of the point $P$ from the poles.",
+      "prashna": "समान ऊँचाई के दो खंभे $80\text{ मी}$ चौड़ी सड़क के दोनों ओर एक दूसरे के सम्मुख हैं। इन दोनों खंभों के बीच सड़क के किसी बिन्दु $P$ पर एक खंभे के शीर्ष का उन्नयन कोण $60^\\circ$ है तथा दूसरे खंभे के शीर्ष से बिन्दु $P$ का अवनमन कोण $30^\\circ$ है। खंभों की ऊँचाइयाँ तथा बिन्दु $P$ की खंभों से दूरियाँ ज्ञात करें।"
     },
     {
       "id": "long_5",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Draw a right angled triangle $ABC$ in which $AB = 6\\text{ cm}, BC = 8\\text{ cm}$ and $\\angle B = 90^\\circ$, $D$ is the foot of perpendicular $BD$ from $B$ on $AC$. Draw circumcircle of $\\Delta BCD$ and draw a tangent from $A$ on this circle.",
-      "prashna": "एक समकोण त्रिभुज $ABC$ खींचें जिसमें $AB = 6\\text{ सेमी}, BC = 8\\text{ सेमी}$ तथा $\\angle B = 90^\\circ$, $B$ से $AC$ पर लंब $BD$ का पाद $D$ है। $\\Delta BCD$ का परिवृत्त खींचें और $A$ से इस वृत्त पर एक स्पर्शी खींचें।"
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "Draw a right angled triangle $ABC$ in which $AB = 6\text{ cm}, BC = 8\text{ cm}$ and $\\angle B = 90^\\circ$, $D$ is the foot of perpendicular $BD$ from $B$ on $AC$. Draw circumcircle of $\\Delta BCD$ and draw a tangent from $A$ on this circle.",
+      "prashna": "एक समकोण त्रिभुज $ABC$ खींचें जिसमें $AB = 6\text{ सेमी}, BC = 8\text{ सेमी}$ तथा $\\angle B = 90^\\circ$, $B$ से $AC$ पर लंब $BD$ का पाद $D$ है। $\\Delta BCD$ का परिवृत्त खींचें और $A$ से इस वृत्त पर एक स्पर्शी खींचें।"
     },
     {
       "id": "long_6",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "A well of diameter $3\\text{ m}$ is dug $14\\text{ m}$ deep. The soil taken out of it has been spread evenly all around it in the shape of a circular ring of width $4\\text{ m}$ to form an embankment. Find the height of the embankment.",
-      "prashna": "व्यास $3\\text{ मी}$ का एक कुआँ $14\\text{ मी}$ की गहराई तक खोदा जाता है। इससे निकली हुई मिट्टी को कुएँ के चारों ओर $4\\text{ मी}$ चौड़ी एक वृत्ताकार वलय बनाते हुए समान रूप से फैलाकर एक प्रकार का बाँध बनाया जाता है। इस बाँध की ऊँचाई ज्ञात करें।"
+      "chapter": "12",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "A well of diameter $3\text{ m}$ is dug $14\text{ m}$ deep. The soil taken out of it has been spread evenly all around it in the shape of a circular ring of width $4\text{ m}$ to form an embankment. Find the height of the embankment.",
+      "prashna": "व्यास $3\text{ मी}$ का एक कुआँ $14\text{ मी}$ की गहराई तक खोदा जाता है। इससे निकली हुई मिट्टी को कुएँ के चारों ओर $4\text{ मी}$ चौड़ी एक वृत्ताकार वलय बनाते हुए समान रूप से फैलाकर एक प्रकार का बाँध बनाया जाता है। इस बाँध की ऊँचाई ज्ञात करें।"
     },
     {
       "id": "long_7",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Prove that $\\tan 7^\\circ \\cdot \\tan 23^\\circ \\cdot \\tan 60^\\circ \\cdot \\tan 67^\\circ \\cdot \\tan 83^\\circ = \\sqrt{3}$.",
-      "prashna": "सिद्ध करें कि $\\tan 7^\\circ \\cdot \\tan 23^\\circ \\cdot \\tan 60^\\circ \\cdot \\tan 67^\\circ \\cdot \\tan 83^\\circ = \\sqrt{3}$।"
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "Prove that $\tan 7^\\circ \\cdot \tan 23^\\circ \\cdot \tan 60^\\circ \\cdot \tan 67^\\circ \\cdot \tan 83^\\circ = \\sqrt{3}$.",
+      "prashna": "सिद्ध करें कि $\tan 7^\\circ \\cdot \tan 23^\\circ \\cdot \tan 60^\\circ \\cdot \tan 67^\\circ \\cdot \tan 83^\\circ = \\sqrt{3}$।"
     },
     {
       "id": "long_8",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "10",
+      "chapter_name": "Circles",
       "question": "Prove that the angle between the two tangents drawn from an external point to a circle is supplementary to the angle subtended by the line segment joining the points of contact at the centre.",
       "prashna": "सिद्ध करें कि किसी बाह्य बिन्दु से किसी वृत्त पर खींची गई स्पर्श रेखाओं के बीच का कोण स्पर्श बिन्दुओं को मिलाने वाले रेखाखण्ड द्वारा केन्द्र पर अंतरित कोण का संपूरक होता है।"
     }
@@ -1021,80 +526,80 @@
     {
       "id": "long_1",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
       "question": "Draw the graph of the pair of linear equations $3x - 5y + 1 = 0$ and $2x - y + 3 = 0$ and solve them.",
       "prashna": "रैखिक समीकरण युग्म $3x - 5y + 1 = 0$ तथा $2x - y + 3 = 0$ का आलेख खींचें और हल करें।"
     },
     {
       "id": "long_2",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
       "question": "The area of a rectangular field is 260 square metre. If its length becomes 5 metre less and breadth 2 metre more, it becomes a square field. Find the length and breadth of the rectangular field.",
       "prashna": "एक आयताकार मैदान का क्षेत्रफल 260 वर्ग मीटर है। उसकी लंबाई 5 मीटर कम और चौड़ाई 2 मीटर अधिक होने पर वह वर्गाकार हो जाता है। आयताकार मैदान की लंबाई और चौड़ाई निकालें।"
     },
     {
       "id": "long_3",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "6",
+      "chapter_name": "Triangles",
       "question": "Prove that the ratio of the areas of two similar triangles is equal to the ratio of the squares of their corresponding sides.",
       "prashna": "सिद्ध करें कि दो समरूप त्रिभुजों के क्षेत्रफलों का अनुपात उनकी संगत भुजाओं के वर्गों के अनुपात के बराबर होता है।"
     },
     {
       "id": "long_4",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Prove that $\\frac{\\sec^3 \\theta}{\\sec^2 \\theta - 1} + \\frac{\\text{cosec}^3 \\theta}{\\text{cosec}^2 \\theta - 1} = \\sec \\theta \\text{cosec } \\theta (\\sec \\theta + \\text{cosec } \\theta)$.",
-      "prashna": "सिद्ध करें कि $\\frac{\\sec^3 \\theta}{\\sec^2 \\theta - 1} + \\frac{\\text{cosec}^3 \\theta}{\\text{cosec}^2 \\theta - 1} = \\sec \\theta \\text{cosec } \\theta (\\sec \\theta + \\text{cosec } \\theta)$।"
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "Prove that $\frac{\\sec^3 \theta}, {\\sec^2 \theta - 1} + \frac{\text{cosec}^3 \theta}, {\text{cosec}^2 \theta - 1} = \\sec \theta \text{cosec } \theta (\\sec \theta + \text{cosec } \theta)$.",
+      "prashna": "सिद्ध करें कि $\frac{\\sec^3 \theta}, {\\sec^2 \theta - 1} + \frac{\text{cosec}^3 \theta}, {\text{cosec}^2 \theta - 1} = \\sec \theta \text{cosec } \theta (\\sec \theta + \text{cosec } \theta)$।"
     },
     {
       "id": "long_8",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "13",
+      "chapter_name": "Statistics",
       "question": "Find the mode of the following distribution :\nClass-interval: 80-85, 85-90, 90-95, 95-100, 100-105, 105-110, 110-115\nFrequency: 33, 27, 85, 155, 110, 45, 15",
       "prashna": "निम्नलिखित बंटन का बहुलक ज्ञात करें :\nवर्ग-अंतराल: 80-85, 85-90, 90-95, 95-100, 100-105, 105-110, 110-115\nबारंबारता: 33, 27, 85, 155, 110, 45, 15"
     },
     {
       "id": "long_1",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Prove that $\\left(\\frac{\\sin A}{1 + \\cos A} + \\frac{1 + \\cos A}{\\sin A}\\right)\\left(\\frac{\\sin A}{1 - \\cos A} - \\frac{1 - \\cos A}{\\sin A}\\right) = 4 \\csc A \\cot A$.",
-      "prashna": "सिद्ध करें कि $\\left(\\frac{\\sin A}{1 + \\cos A} + \\frac{1 + \\cos A}{\\sin A}\\right)\\left(\\frac{\\sin A}{1 - \\cos A} - \\frac{1 - \\cos A}{\\sin A}\\right) = 4 \\csc A \\cot A$."
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "Prove that $\\left(\frac{\\sin A}, {1 + \\cos A} + \frac{1 + \\cos A}, {\\sin A}\right)\\left(\frac{\\sin A}, {1 - \\cos A} - \frac{1 - \\cos A}, {\\sin A}\right) = 4 \\csc A \\cot A$.",
+      "prashna": "सिद्ध करें कि $\\left(\frac{\\sin A}, {1 + \\cos A} + \frac{1 + \\cos A}, {\\sin A}\right)\\left(\frac{\\sin A}, {1 - \\cos A} - \frac{1 - \\cos A}, {\\sin A}\right) = 4 \\csc A \\cot A$."
     },
     {
       "id": "long_2",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "12",
+      "chapter_name": "Surface Areas and Volumes",
       "question": "Metallic spheres of radii 6 cm, 8 cm and 10 cm respectively, are melted to form a single solid sphere. Find the radius of the resulting sphere.",
       "prashna": "क्रमशः 6 सेमी, 8 सेमी और 10 सेमी त्रिज्याओं वाले धातु के तीन ठोस गोलों को पिघलाकर एक एकल ठोस गोला बनाया जाता है। इस गोले की त्रिज्या ज्ञात करें।"
     },
     {
       "id": "long_3",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "9",
+      "chapter_name": "Some Applications of Trigonometry",
       "question": "The angles of elevation of the top of a tower from two points at distances of 4 m and 9 m from the base of the tower which are in the same straight line, are complementary. Prove that the height of the tower is 6 m.",
       "prashna": "मीनार के आधार से और एक सरल रेखा में 4 मी और 9 मी की दूरी पर स्थित दो बिन्दुओं से मीनार के शिखर के उन्नयन कोण पूरक कोण हैं। सिद्ध करें कि मीनार की ऊँचाई 6 मी है।"
     },
     {
       "id": "long_4",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "10",
+      "chapter_name": "Circles",
       "question": "Draw a circle of radius 6 cm. From a point 10 cm away from its centre, construct the pair of tangents to the circle and measure their lengths.",
       "prashna": "6 सेमी त्रिज्या का एक वृत्त खींचिए। केन्द्र से 10 सेमी दूर स्थित एक बिन्दु से वृत्त पर स्पर्श रेखा युग्म की रचना करें और उनकी लम्बाइयाँ मापें।"
     },
     {
       "id": "long_5",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "13",
+      "chapter_name": "Statistics",
       "question": "Find the median of the following data :\nClass-interval: 40-45, 45-50, 50-55, 55-60, 60-65, 65-70, 70-75\nFrequency: 2, 3, 8, 6, 6, 3, 2",
       "prashna": "निम्नलिखित बंटन का माध्यिका निकालें :\nवर्ग-अंतराल: 40-45, 45-50, 50-55, 55-60, 60-65, 65-70, 70-75\nबारंबारता: 2, 3, 8, 6, 6, 3, 2"
     }
@@ -1103,56 +608,56 @@
     {
       "id": "long_1",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
       "question": "Draw the graphs of the pair of linear equations $x + 3y - 6 = 0$ and $2x - 3y - 12 = 0$ and solve them.",
       "prashna": "रैखिक समीकरण युग्म $x + 3y - 6 = 0$ तथा $2x - 3y - 12 = 0$ का आलेख खींचें तथा हल करें।"
     },
     {
       "id": "long_2",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "6",
+      "chapter_name": "Triangles",
       "question": "If one angle of a triangle is equal to one angle of the other triangle and the sides included between these angles are proportional then prove that the triangles are similar.",
       "prashna": "सिद्ध करें कि यदि किसी त्रिभुज का एक कोण दूसरे त्रिभुज के एक कोण के बराबर हो और इन कोणों को अंतरित करने वाली भुजाएँ आनुपातिक हों तो त्रिभुज समरूप होते हैं।"
     },
     {
       "id": "long_3",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
       "question": "A two digit number is four times of the sum of its digits and twice the product of its digits. Find the number.",
       "prashna": "दो अंकों की एक संख्या अपने अंकों के जोड़ की चार गुनी है एवं अपने अंकों के गुणनफल की दुगुनी है तो संख्या ज्ञात करें।"
     },
     {
       "id": "long_4",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "6",
+      "chapter_name": "Triangles",
       "question": "Draw a line segment of length 7.6 cm and divide it in the ratio $5 : 8$. Measure both parts.",
       "prashna": "7.6 सेमी लंबा एक रेखाखंड खींचें और इसे $5 : 8$ के अनुपात में विभाजित करें। दोनों मापों को मापिए।"
     },
     {
       "id": "long_5",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
-      "question": "Prove that $\\frac{(\\sec \\theta - \\tan \\theta)}{(\\sec \\theta + \\tan \\theta)} = 1 + 2 \\tan^2 \\theta - 2 \\sec \\theta \\cdot \\tan \\theta$.",
-      "prashna": "सिद्ध करें कि $\\frac{(\\sec \\theta - \\tan \\theta)}{(\\sec \\theta + \\tan \\theta)} = 1 + 2 \\tan^2 \\theta - 2 \\sec \\theta \\cdot \\tan \\theta$।"
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "Prove that $\frac{(\\sec \theta - \tan \theta)}, {(\\sec \theta + \tan \theta)} = 1 + 2 \tan^2 \theta - 2 \\sec \theta \\cdot \tan \theta$.",
+      "prashna": "सिद्ध करें कि $\frac{(\\sec \theta - \tan \theta)}, {(\\sec \theta + \tan \theta)} = 1 + 2 \tan^2 \theta - 2 \\sec \theta \\cdot \tan \theta$।"
     },
     {
       "id": "long_6",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "11",
+      "chapter_name": "Areas Related to Circles",
       "question": "The radii of two circles are 19 cm and 9 cm respectively. Find the radius of the circle which has circumference equal to the sum of the circumferences of the two circles.",
       "prashna": "दो वृत्तों की त्रिज्याएँ क्रमशः 19 सेमी और 9 सेमी हैं। उस वृत्त की त्रिज्या ज्ञात करें जिसकी परिधि इन दोनों वृत्तों की परिधियों के योग के बराबर हो।"
     },
     {
       "id": "long_7",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "13",
+      "chapter_name": "Statistics",
       "question": "Find the mean of the following distribution:",
       "prashna": "निम्नलिखित बंटन का माध्य ज्ञात करें :",
       "sub_questions": {
@@ -1199,8 +704,8 @@
     {
       "id": "long_8",
       "type": "long_answer",
-      "chapter": "0",
-      "chapter_name": "0000",
+      "chapter": "12",
+      "chapter_name": "Surface Areas and Volumes",
       "question": "The slant height of a frustum of a cone is 4 cm and the perimeters (circumferences) of its circular ends are 18 cm and 6 cm. Find the curved surface area of the frustum.",
       "prashna": "एक शंकु के छिन्नक की तिर्यक ऊँचाई 4 सेमी है तथा इसके वृत्तीय सिरों के परिमाप (परिधियाँ) 18 सेमी और 6 सेमी हैं। इस छिन्नक का वक्रपृष्ठीय क्षेत्रफल ज्ञात करें।"
     }

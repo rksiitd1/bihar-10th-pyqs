@@ -1,0 +1,96 @@
+{
+  "2017": [
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "What do you understand by conductor, insulator, semiconductor and superconductor? Explain with examples.",
+      "prashna": "चालक, अचालक, अर्द्धचालक एवं अतिचालक से आप क्या समझते हैं? सोदाहरण व्याख्या करें।"
+    }
+  ],
+  "2018": [
+    {
+      "id": "long_1_1",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Answer the following questions:",
+      "prashna": "निम्नलिखित प्रश्नों के उत्तर दें:",
+      "sub_questions": {
+        "A": "What is electric power?",
+        "B": "Derive $H = I^2Rt$, where $H$ is the amount of Heat produced by steady current ($I$) through a resistor ($R$) in time $t$.",
+        "C": "How much energy is given to each Coulomb of charge passing through a $6\text{V}$ battery?"
+      },
+      "anuprashna": {
+        "A": "विद्युत शक्ति क्या है?",
+        "B": "निगमन करें $H = I^2Rt$ जहाँ $H$, किसी प्रतिरोधक ($R$) में विद्युत धारा ($I$) द्वारा $t$ समय में उत्पन्न ऊष्मा की मात्रा है।",
+        "C": "$6\text{V}$ बैटरी से गुजरने वाले हर एक कूलॉम आवेश को कितनी ऊर्जा दी जाती है?"
+      }
+    }
+  ],
+  "2019": [
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Derive the formulas for total resistance in the following cases:",
+      "prashna": "निम्नलिखित मामलों में कुल प्रतिरोध के सूत्रों को व्युत्पन्न करें:",
+      "sub_questions": {
+        "A": "Prove that $R = R_1 + R_2$ where $R$ is the equivalent resistance of resistors $R_1$ and $R_2$ connected in series.",
+        "B": "Prove that $\frac{1}, {R} = \frac{1}, {R_1} + \frac{1}, {R_2}$ where $R$ is the equivalent resistance of resistors $R_1$ and $R_2$ connected in parallel."
+      },
+      "anuprashna": {
+        "A": "सिद्ध करें, $R = R_1 + R_2$ जहाँ R, श्रेणीक्रम में संयोजित प्रतिरोधों $R_1$ और $R_2$ का समतुल्य प्रतिरोध है।",
+        "B": "सिद्ध करें, $\frac{1}, {R} = \frac{1}, {R_1} + \frac{1}, {R_2}$ जहाँ R, पार्श्वक्रम में संयोजित प्रतिरोधों $R_1$ और $R_2$ का समतुल्य प्रतिरोध है।"
+      }
+    },
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "What is electric power? Derive $H = I^2Rt$, where $H$ is the amount of heat produced by steady current $I$ through a resistor $R$ in time $t$.",
+      "prashna": "विद्युत शक्ति क्या है? निगमन करें $H = I^2Rt$ जहाँ $H$, किसी प्रतिरोधक $R$ में विद्युत धारा $I$ द्वारा $t$ समय में उत्पन्न ऊष्मा की मात्रा है।"
+    }
+  ],
+  "2020": [
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Write Ohm's law. Explain an experiment for its verification.",
+      "prashna": "ओम का नियम लिखें। इसके सत्यापन के लिये एक प्रयोग का वर्णन करें।"
+    },
+    {
+      "id": "long_1_1",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Write the S.I. units of resistance and potential difference. Explain the verification of Ohm's law.",
+      "prashna": "प्रतिरोध और विभवान्तर के S.I. मात्रक को लिखें। ओम के नियम के सत्यापन कर समझावें।"
+    }
+  ],
+  "2022": [
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Explain conductor, insulator, semiconductor and superconductor with examples.",
+      "prashna": "चारक, अचारक, अद्थधचारक एिॊ अनतचारक की सोदाहयर् व्माख्मा कयें।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "long_10",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Explain conductor, insulator and semiconductor with examples.",
+      "prashna": "चालक, अचालक एवं अर्द्धचालक की सोदाहरण व्याख्या करें।"
+    }
+  ]
+}

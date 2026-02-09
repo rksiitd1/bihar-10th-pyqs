@@ -1,0 +1,98 @@
+{
+  "2022": [
+    {
+      "id": "long_7",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "The mean of the given data is 18. Then find the unknown frequency :\n\n| Class-Interval | 11-13 | 13-15 | 15-17 | 17-19 | 19-21 | 21-23 | 23-25 |\n| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n| No. of children | 7 | 6 | 9 | 13 | f | 5 | 4 |",
+      "prashna": "दिए गए आँकड़ों का माध्य 18 है तो अज्ञात बारंबारता ज्ञात करें :\n\n| वर्ग-अंतराल | 11-13 | 13-15 | 15-17 | 17-19 | 19-21 | 21-23 | 23-25 |\n| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n| बच्चों की संख्या | 7 | 6 | 9 | 13 | f | 5 | 4 |"
+    },
+    {
+      "id": "long_8",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "Find the mode of the following distribution: Class-interval 0-10 (14), 10-20 (23), 20-30 (27), 30-40 (21), 40-50 (15).",
+      "prashna": "निम्नलिखित बंटन का बहुलक ज्ञात करें : वर्ग-अंतराल 0-10 (14), 10-20 (23), 20-30 (27), 30-40 (21), 40-50 (15)।"
+    }
+  ],
+  "2023": [
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "Find the mean of the following distribution : \n Class-interval: 5-15, 15-25, 25-35, 35-45, 45-55, 55-65 \n Frequency: 6, 11, 21, 23, 14, 5",
+      "prashna": "निम्नलिखित बंटन का माध्य ज्ञात करें : \n वर्ग-अंतराल: 5-15, 15-25, 25-35, 35-45, 45-55, 55-65 \n बारंबारता: 6, 11, 21, 23, 14, 5"
+    }
+  ],
+  "2024": [
+    {
+      "id": "long_8",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "Find the mode of the following distribution :\nClass-interval: 80-85, 85-90, 90-95, 95-100, 100-105, 105-110, 110-115\nFrequency: 33, 27, 85, 155, 110, 45, 15",
+      "prashna": "निम्नलिखित बंटन का बहुलक ज्ञात करें :\nवर्ग-अंतराल: 80-85, 85-90, 90-95, 95-100, 100-105, 105-110, 110-115\nबारंबारता: 33, 27, 85, 155, 110, 45, 15"
+    },
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "Find the median of the following data :\nClass-interval: 40-45, 45-50, 50-55, 55-60, 60-65, 65-70, 70-75\nFrequency: 2, 3, 8, 6, 6, 3, 2",
+      "prashna": "निम्नलिखित बंटन का माध्यिका निकालें :\nवर्ग-अंतराल: 40-45, 45-50, 50-55, 55-60, 60-65, 65-70, 70-75\nबारंबारता: 2, 3, 8, 6, 6, 3, 2"
+    }
+  ],
+  "2025": [
+    {
+      "id": "long_7",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "Find the mean of the following distribution:",
+      "prashna": "निम्नलिखित बंटन का माध्य ज्ञात करें :",
+      "sub_questions": {
+        "Class-interval": [
+          "11-13",
+          "13-15",
+          "15-17",
+          "17-19",
+          "19-21",
+          "21-23",
+          "23-25"
+        ],
+        "Frequency": [
+          7,
+          6,
+          9,
+          13,
+          20,
+          5,
+          4
+        ]
+      },
+      "anuprashna": {
+        "वर्ग अंतराल": [
+          "11-13",
+          "13-15",
+          "15-17",
+          "17-19",
+          "19-21",
+          "21-23",
+          "23-25"
+        ],
+        "बारंबारता": [
+          7,
+          6,
+          9,
+          13,
+          20,
+          5,
+          4
+        ]
+      }
+    }
+  ]
+}

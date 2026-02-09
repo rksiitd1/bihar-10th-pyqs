@@ -1,0 +1,1484 @@
+{
+  "2019": [
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Which of the following is not a quadratic equation?",
+      "prashna": "निम्न में कौन द्विघात समीकरण नहीं है?",
+      "options": {
+        "A": "$(x + 2)^3 = x(x^2 - 1)$",
+        "B": "$(x + 1)^2 = 2(x - 3)$",
+        "C": "$(x - 2)(x + 2) = 5$",
+        "D": "$x^2 + \frac{1}, {x^2} = 2$"
+      },
+      "vikalpa": {
+        "A": "$(x + 2)^3 = x(x^2 - 1)$",
+        "B": "$(x + 1)^2 = 2(x - 3)$",
+        "C": "$(x - 2)(x + 2) = 5$",
+        "D": "$x^2 + \frac{1}, {x^2} = 2$"
+      }
+    },
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "If roots of the quadratic equation $bx^2 + ax + c = 0$ are equal, then -",
+      "prashna": "यदि द्विघात समीकरण $bx^2 + ax + c = 0$ के मूल समान हैं, तो -",
+      "options": {
+        "A": "$b^2 - 4ac = 0$",
+        "B": "$a^2 - 4ac = 0$",
+        "C": "$c^2 - 4ab = 0$",
+        "D": "$a^2 - 4bc = 0$"
+      },
+      "vikalpa": {
+        "A": "$b^2 - 4ac = 0$",
+        "B": "$a^2 - 4ac = 0$",
+        "C": "$c^2 - 4ab = 0$",
+        "D": "$a^2 - 4bc = 0$"
+      }
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Using quadratic formula find the solutions of the equation $x^2 - 3x - 10 = 0$.",
+      "prashna": "द्विघात सूत्र का प्रयोग कर समीकरण $x^2 - 3x - 10 = 0$ का हल निकालें।"
+    },
+    {
+      "id": "short_24",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "If the product of two consecutive natural numbers is 20, then find the numbers.",
+      "prashna": "यदि दो लगातार प्राकृत संख्याओं का गुणनफल 20 है, तो उन संख्याओं को ज्ञात करें।"
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "A train travels 360km at a uniform speed. If the speed had been 5 km/h more, it would have taken 1 hour less for the same journey. Find the speed of the train.",
+      "prashna": "एक रेलगाड़ी एक समान चाल से 360 किमी. की दूरी तय करती है। यदि यह चाल 5 किमी./ घंटा अधिक होती तो वह उसी यात्रा में 1 घंटा कम समय लेती। रेलगाड़ी की चाल ज्ञात करें।"
+    }
+  ],
+  "2020": [
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Which of the following is a quadratic equation?",
+      "prashna": "निम्नलिखित में से कौन-सा द्विघात समीकरण है?",
+      "options": {
+        "A": "$2x^3 - 3x = (x + 1)^2$",
+        "B": "$x^2 - 2\\sqrt{x} + 3 = 0$",
+        "C": "$3x^2 + 2 = (3 - x)^2 + 4$",
+        "D": "$x^2 - \frac{1}, {x^2} = 4$"
+      },
+      "vikalpa": {
+        "A": "$2x^3 - 3x = (x + 1)^2$",
+        "B": "$x^2 - 2\\sqrt{x} + 3 = 0$",
+        "C": "$3x^2 + 2 = (3 - x)^2 + 4$",
+        "D": "$x^2 - \frac{1}, {x^2} = 4$"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "If the roots of a quadratic equation $x^2 - px + 4 = 0$ are equal then $p = ?$",
+      "prashna": "यदि द्विघात समीकरण $x^2 - px + 4 = 0$ के मूल बराबर हों तो $p = ?$",
+      "options": {
+        "A": "$\\pm 3$",
+        "B": "$\\pm 4$",
+        "C": "$\\pm 5$",
+        "D": "$\\pm 2$"
+      },
+      "vikalpa": {
+        "A": "$\\pm 3$",
+        "B": "$\\pm 4$",
+        "C": "$\\pm 5$",
+        "D": "$\\pm 2$"
+      }
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Using quadratic formula find the solution of the equation $x^2 - 4x - 1 = 0$.",
+      "prashna": "द्विघात सूत्र का प्रयोग कर समीकरण $x^2 - 4x - 1 = 0$ का हल निकालें।"
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "If roots of quadratic equation $px^2 + 4x + 3 = 0$ are equal, then the value of $P$ is",
+      "prashna": "यदि द्विघात समीकरण $px^2 + 4x + 3 = 0$ के मूल बराबर हों, तो $p$ का मान होगा",
+      "options": {
+        "A": "$\frac{2}, {3}$",
+        "B": "$\frac{4}, {3}$",
+        "C": "$\frac{4}, {5}$",
+        "D": "$\frac{3}, {5}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{2}, {3}$",
+        "B": "$\frac{4}, {3}$",
+        "C": "$\frac{4}, {5}$",
+        "D": "$\frac{3}, {5}$"
+      }
+    },
+    {
+      "id": "obj_48",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Which of the following is not a quadratic equation?",
+      "prashna": "निम्नलिखित में कौन-सा द्विघात समीकरण नहीं है ?",
+      "options": {
+        "A": "$5x + 2x^2 = x^2 + 3$",
+        "B": "$x^3 - x^2 = (x - 1)^3$",
+        "C": "$(x + 3)^2 = 3(x^2 - 5)$",
+        "D": "$(\\sqrt{2}x + 3)^2 = 2x^2 + 5$"
+      },
+      "vikalpa": {
+        "A": "$5x + 2x^2 = x^2 + 3$",
+        "B": "$x^3 - x^2 = (x - 1)^3$",
+        "C": "$(x + 3)^2 = 3(x^2 - 5)$",
+        "D": "$(\\sqrt{2}x + 3)^2 = 2x^2 + 5$"
+      }
+    },
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Using quadratic formula find the solutions of the equation $3x^2 - 4x - 1 = 0$.",
+      "prashna": "द्विघात सूत्र का प्रयोग कर समीकरण $3x^2 - 4x - 1 = 0$ का हल निकालें।"
+    },
+    {
+      "id": "short_19",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "The difference of two numbers is 4 and the difference of their reciprocals is $\frac{4}, {21}$. Find the numbers.",
+      "prashna": "दो संख्याओं का अंतर 4 है तथा उनके व्युत्क्रमों का अंतर $\frac{4}, {21}$ है। संख्याएँ ज्ञात करें।"
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Which of the following is a quadratic equation ?",
+      "prashna": "निम्नलिखित में कौन द्विघात समीकरण है ?",
+      "options": {
+        "A": "$x^2 - 3\\sqrt{x} + 2 = 0$",
+        "B": "$x + \frac{1}, {x} = x^2$",
+        "C": "$x^2 + \frac{1}, {x^2} = 5$",
+        "D": "$2x^2 - 5x = (x - 1)^2$"
+      },
+      "vikalpa": {
+        "A": "$x^2 - 3\\sqrt{x} + 2 = 0$",
+        "B": "$x + \frac{1}, {x} = x^2$",
+        "C": "$x^2 + \frac{1}, {x^2} = 5$",
+        "D": "$2x^2 - 5x = (x - 1)^2$"
+      }
+    },
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "If the roots of the equation $ax^2 + bx + c = 0$ are reciprocal of each other, then",
+      "prashna": "यदि समीकरण $ax^2 + bx + c = 0$ के मूल एक दूसरे के व्युत्क्रम हों, तो",
+      "options": {
+        "A": "$a = b$",
+        "B": "$b = c$",
+        "C": "$c = a$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$a = b$",
+        "B": "$b = c$",
+        "C": "$c = a$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "The sum of the roots of quadratic equation $x^2 - 6x + 2 = 0$ is",
+      "prashna": "द्विघात समीकरण $x^2 - 6x + 2 = 0$ के मूलों का योग है",
+      "options": {
+        "A": "2",
+        "B": "-2",
+        "C": "6",
+        "D": "-6"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "-2",
+        "C": "6",
+        "D": "-6"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "The nature of roots of quadratic equation $2x^2 - 6x + 7 = 0$ is",
+      "prashna": "द्विघात समीकरण $2x^2 - 6x + 7 = 0$ के मूलों की प्रकृति होगी",
+      "options": {
+        "A": "real and unequal",
+        "B": "real and equal",
+        "C": "not real",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "वास्तविक और असमान",
+        "B": "वास्तविक और बराबर",
+        "C": "अवास्तविक",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_71",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "If one root of the quadratic equation $2x^2 + ax + 6 = 0$ is $2$ then $a = ?$",
+      "prashna": "यदि द्विघात समीकरण $2x^2 + ax + 6 = 0$ का एक मूल $2$ है तो $a = ?$",
+      "options": {
+        "A": "7",
+        "B": "-7",
+        "C": "$\frac{7}, {2}$",
+        "D": "$-\frac{7}, {2}$"
+      },
+      "vikalpa": {
+        "A": "7",
+        "B": "-7",
+        "C": "$\frac{7}, {2}$",
+        "D": "$-\frac{7}, {2}$"
+      }
+    },
+    {
+      "id": "obj_72",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "If the equation $x^2 + 2(k + 2)x + 9k = 0$ has real and equal roots, then the value of $k$ will be",
+      "prashna": "यदि समीकरण $x^2 + 2(k + 2)x + 9k = 0$ के मूल वास्तविक और बराबर हों, तो $k$ का मान होगा",
+      "options": {
+        "A": "1 or 4",
+        "B": "-1 or 4",
+        "C": "1 or -4",
+        "D": "-1 or -4"
+      },
+      "vikalpa": {
+        "A": "1 या 4",
+        "B": "-1 या 4",
+        "C": "1 या -4",
+        "D": "-1 या -4"
+      }
+    },
+    {
+      "id": "obj_73",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Which of the following are the roots of the equation $x^2 - 2x + 1 = 1$ ?",
+      "prashna": "समीकरण $x^2 - 2x + 1 = 1$ के मूल निम्नलिखित में से कौन होंगे ?",
+      "options": {
+        "A": "1, -1",
+        "B": "$\\sqrt{2}, 1$",
+        "C": "0, 1",
+        "D": "0, 2"
+      },
+      "vikalpa": {
+        "A": "1, -1",
+        "B": "$\\sqrt{2}, 1$",
+        "C": "0, 1",
+        "D": "0, 2"
+      }
+    },
+    {
+      "id": "obj_74",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Which of the following is the value of $q$ to make $x^2 + px + q = 0$ a perfect square ?",
+      "prashna": "$x^2 + px + q = 0$ को पूर्ण वर्ग होने के लिए $q$ का मान निम्नलिखित में से कौन होगा ?",
+      "options": {
+        "A": "0",
+        "B": "$\frac{p^2}, {4}$",
+        "C": "$\frac{p}, {2}$",
+        "D": "$\frac{-p}, {2}$"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "$\frac{p^2}, {4}$",
+        "C": "$\frac{p}, {2}$",
+        "D": "$\frac{-p}, {2}$"
+      }
+    },
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Using quadratic formula find the solutions of the equation $x^2 + 6x + 5 = 0$.",
+      "prashna": "द्विघात सूत्र का प्रयोग कर समीकरण $x^2 + 6x + 5 = 0$ का हल निकालें।"
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Without finding roots find the nature of roots of the quadratic equation $4x^2 - 8x + 3 = 0$.",
+      "prashna": "मूल ज्ञात किये बिना द्विघात समीकरण $4x^2 - 8x + 3 = 0$ के मूलों की प्रकृति बताएँ।"
+    },
+    {
+      "id": "long_8",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "The speed of a boat in still water is 15 km/hr. It goes 30 km downstream and returns back upstream in a total time of 4 hours 30 minutes. Find the speed of the stream.",
+      "prashna": "एक नाव को जिसकी शांत जल में चाल 15 किमी/घंटा है, धारा की दिशा में 30 किमी जाने और फिर धारा की विपरीत दिशा में लौटने में कुल 4 घंटे 30 मिनट लगता है। धारा की चाल ज्ञात करें।"
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Which of the following equations has a root $2$?",
+      "prashna": "निम्नलिखित में से किस समीकरण का एक मूल $2$ है ?",
+      "options": {
+        "A": "$x^2 - 4x - 21 = 0$",
+        "B": "$x^2 - 4x + 5 = 0$",
+        "C": "$x^2 - 2x + 1 = 0$",
+        "D": "$2x^2 - 7x + 6 = 0$"
+      },
+      "vikalpa": {
+        "A": "$x^2 - 4x - 21 = 0$",
+        "B": "$x^2 - 4x + 5 = 0$",
+        "C": "$x^2 - 2x + 1 = 0$",
+        "D": "$2x^2 - 7x + 6 = 0$"
+      }
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "If the roots of the equation $bx^2 + ax + c = 0$ are equal, then $c =$",
+      "prashna": "यदि समीकरण $bx^2 + ax + c = 0$ का मूल समान हो, तो $c =$",
+      "options": {
+        "A": "$\frac{-a^2}, {4b}$",
+        "B": "$\frac{a^2}, {4b}$",
+        "C": "$\frac{a}, {2b}$",
+        "D": "$\frac{-a}, {2b}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{-a^2}, {4b}$",
+        "B": "$\frac{a^2}, {4b}$",
+        "C": "$\frac{a}, {2b}$",
+        "D": "$\frac{-a}, {2b}$"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "The discriminant of the quadratic equation $x^2 - 15x + 50 = 0$ will be",
+      "prashna": "द्विघात समीकरण $x^2 - 15x + 50 = 0$ का विविक्तकर होगा",
+      "options": {
+        "A": "$25$",
+        "B": "$425$",
+        "C": "$750$",
+        "D": "$-25$"
+      },
+      "vikalpa": {
+        "A": "$25$",
+        "B": "$425$",
+        "C": "$750$",
+        "D": "$-25$"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "If $ax^2 - bx + c = 0$ ($a \neq 0$), then $x =$",
+      "prashna": "यदि $ax^2 - bx + c = 0$ ($a \neq 0$) तो $x =$",
+      "options": {
+        "A": "$\frac{-b \\pm \\sqrt{4ac - b^2}}, {2a}$",
+        "B": "$b \\pm 4ac$",
+        "C": "$\frac{-b \\pm \\sqrt{b^2 + 4ac}}, {2a}$",
+        "D": "$\frac{-b \\pm \\sqrt{b^2 - 4ac}}, {2a}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{-b \\pm \\sqrt{4ac - b^2}}, {2a}$",
+        "B": "$b \\pm 4ac$",
+        "C": "$\frac{-b \\pm \\sqrt{b^2 + 4ac}}, {2a}$",
+        "D": "$\frac{-b \\pm \\sqrt{b^2 - 4ac}}, {2a}$"
+      }
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "If one root of the quadratic equation $7y^2 + ky - 3 = 0$ is $\frac{2}, {3}$, then find the value of $k$.",
+      "prashna": "यदि द्विघात समीकरण $7y^2 + ky - 3 = 0$ का एक हल $\frac{2}, {3}$ है, तो $k$ का मान ज्ञात करें।"
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Find the nature of the roots of the quadratic equation $3x^2 - 4\\sqrt{x} + 4 = 0$.",
+      "prashna": "द्विघात समीकरण $3x^2 - 4\\sqrt{x} + 4 = 0$ के मूलों की प्रकृति ज्ञात करें।"
+    },
+    {
+      "id": "short_25",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "The sum of two natural numbers is $8$ and the sum of their reciprocals is $\frac{8}, {15}$, find the numbers.",
+      "prashna": "दो प्राकृत संख्याओं का योगफल $8$ है और उनके व्युत्क्रमों का योगफल $\frac{8}, {15}$ है, तो संख्या ज्ञात करें।"
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "A motor boat whose speed in still water is $18$ km/h, takes $1$ hour more to go $24$ km upstream than to return downstream to the same spot. Find the speed of the stream.",
+      "prashna": "एक मोटर बोट, जिसकी स्थिर जल में चाल $18$ km/h है, $24$ km धारा के प्रतिकूल जाने में, वही दूरी धारा के अनुकूल जाने की अपेक्षा $1$ घंटा अधिक समय लेती है। धारा की चाल ज्ञात करें।"
+    }
+  ],
+  "2022": [
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Find the roots of the quadratic equation $x^2 - 2\\sqrt{2}x + 1 = 0$.",
+      "prashna": "द्विघात समीकरण $x^2 - 2\\sqrt{2}x + 1 = 0$ के मूल ज्ञात करें।"
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "If the sum of a number and its reciprocal is $\frac{10}, {3}$, then find the number.",
+      "prashna": "यदि किसी संख्या और उसके व्युत्क्रम का योग $\frac{10}, {3}$ है, तो संख्या ज्ञात करें।"
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Solve $\\sqrt{13 - x^2} = x + 5$.",
+      "prashna": "हल करें $\\sqrt{13 - x^2} = x + 5$।"
+    },
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "The difference of squares of two numbers is 180. If the square of smaller number is 8 times of bigger number, find both the numbers.",
+      "prashna": "दो संख्याओं के वर्गों का अंतर 180 है। यदि छोटी संख्या का वर्ग बड़ी संख्या का आठ गुना है, तो दोनों संख्याएँ ज्ञात करें।"
+    },
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Which of the following is not a quadratic equation?",
+      "prashna": "निम्नलिखित में से कौन द्विघात समीकरण नहीं है?",
+      "options": {
+        "A": "$(x + 1)^2 = 2(x - 3)$",
+        "B": "$(x - 2)^2 + 1 = 2x - 3$",
+        "C": "$(x - 2)(x + 1) = (x - 1)(x + 3)$",
+        "D": "$x(2x + 3) = x^2 + 1$"
+      },
+      "vikalpa": {
+        "A": "$(x + 1)^2 = 2(x - 3)$",
+        "B": "$(x - 2)^2 + 1 = 2x - 3$",
+        "C": "$(x - 2)(x + 1) = (x - 1)(x + 3)$",
+        "D": "$x(2x + 3) = x^2 + 1$"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "For what values of $k$, the roots of the quadratic equation $9x^2 + 3kx + 4 = 0$ are equal?",
+      "prashna": "$k$ के किस मान के लिए द्विघात समीकरण $9x^2 + 3kx + 4 = 0$ के मूल समान हैं?",
+      "options": {
+        "A": "$\\pm 5$",
+        "B": "$\\pm 4$",
+        "C": "$\\pm 3$",
+        "D": "$\\pm 9$"
+      },
+      "vikalpa": {
+        "A": "$\\pm 5$",
+        "B": "$\\pm 4$",
+        "C": "$\\pm 3$",
+        "D": "$\\pm 9$"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "If $x - y = 6$ and $x^2 + y^2 = 30$ then the value of $xy$ will be",
+      "prashna": "यदि $x - y = 6$ और $x^2 + y^2 = 30$ तो $xy$ का मान होगा",
+      "options": {
+        "A": "2",
+        "B": "$-2$",
+        "C": "3",
+        "D": "$-3$"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "$-2$",
+        "C": "3",
+        "D": "$-3$"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "The roots of the quadratic equation $y^2 + 3y - 18 = 0$ are",
+      "prashna": "द्विघात समीकरण $y^2 + 3y - 18 = 0$ के मूल होंगे",
+      "options": {
+        "A": "$-6, 3$",
+        "B": "$6, -3$",
+        "C": "$-6, -3$",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "$-6, 3$",
+        "B": "$6, -3$",
+        "C": "$-6, -3$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "The nature of the roots of the quadratic equation $x^2 + x + 5 = 0$ is",
+      "prashna": "द्विघात समीकरण $x^2 + x + 5 = 0$ के मूलों की प्रकृति है",
+      "options": {
+        "A": "Real and equal",
+        "B": "Real and unequal",
+        "C": "Not real",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "वास्तविक और समान",
+        "B": "वास्तविक और असमान",
+        "C": "अवास्तविक",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Find the roots of the quadratic equation $4x^2 - 12x + 9 = 0$ using factorisation.",
+      "prashna": "गुणनखंड के द्वारा द्विघात समीकरण $4x^2 - 12x + 9 = 0$ के मूल निकालें।"
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Find two consecutive positive integers whose sum of squares is 365.",
+      "prashna": "दो लगातार धनात्मक पूर्णांक ज्ञात करें जिनके वर्गों का योगफल 365 है।"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "The perpendicular of a right angled triangle is $7 \text{ cm}$ less than its base and its hypotenuse is $13 \text{ cm}$. Find the base of the triangle.",
+      "prashna": "एक समकोण त्रिभुज का लम्ब उसके आधार से $7$ सेमी कम है तथा कर्ण $13$ सेमी है। त्रिभुज का आधार ज्ञात करें।"
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Which of the following is a quadratic equation?",
+      "prashna": "निम्नलिखित में से कौन द्विघात समीकरण है ?",
+      "options": {
+        "A": "$(x + 2) (x - 2) = x^2 - 4x^3$",
+        "B": "$(x + 2)^2 = 3(x + 4)$",
+        "C": "$(2x^2 + 3) = (5 + x) (2x^2 - 3)$",
+        "D": "$2x + \frac{1}, {2x} = 4x^2$"
+      },
+      "vikalpa": {
+        "A": "$(x + 2) (x - 2) = x^2 - 4x^3$",
+        "B": "$(x + 2)^2 = 3(x + 4)$",
+        "C": "$(2x^2 + 3) = (5 + x) (2x^2 - 3)$",
+        "D": "$2x + \frac{1}, {2x} = 4x^2$"
+      }
+    },
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "If one root of the equation $2x^2 + px - 3 = 0$ is -3 then the value of $p$ will be",
+      "prashna": "यदि समीकरण $2x^2 + px - 3 = 0$ का एक मूल -3 हो, तो $p$ का मान होगा",
+      "options": {
+        "A": "3",
+        "B": "5",
+        "C": "4",
+        "D": "6"
+      },
+      "vikalpa": {
+        "A": "3",
+        "B": "5",
+        "C": "4",
+        "D": "6"
+      }
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "For what values of $k$ the roots of the quadratic equation $9x^2 + 3kx + 4 = 0$ are real and equal ?",
+      "prashna": "$k$ के किन मानों के लिए द्विघात समीकरण $9x^2 + 3kx + 4 = 0$ के मूल वास्तविक और समान हैं ?",
+      "options": {
+        "A": "$\\pm 4$",
+        "B": "$\\pm 7$",
+        "C": "$\\pm 9$",
+        "D": "$\\pm 6$"
+      },
+      "vikalpa": {
+        "A": "$\\pm 4$",
+        "B": "$\\pm 7$",
+        "C": "$\\pm 9$",
+        "D": "$\\pm 6$"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "If $\\alpha, \beta$ are the roots of the equation $x^2 + 3px + 2p^2 = 0$ and $\\alpha^2 + \beta^2 = 5$ then the value of $p$ is",
+      "prashna": "यदि $x^2 + 3px + 2p^2 = 0$ के मूल $\\alpha, \beta$ हों तथा $\\alpha^2 + \beta^2 = 5$ हो, तो $p$ का मान है",
+      "options": {
+        "A": "$\\pm 3$",
+        "B": "$\\pm 2$",
+        "C": "$\\pm 1$",
+        "D": "$\\pm 5$"
+      },
+      "vikalpa": {
+        "A": "$\\pm 3$",
+        "B": "$\\pm 2$",
+        "C": "$\\pm 1$",
+        "D": "$\\pm 5$"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "The roots of the quadratic equation $a^2 p^2 x^2 - q^2 = 0$ are",
+      "prashna": "द्विघात समीकरण $a^2 p^2 x^2 - q^2 = 0$ के मूल होंगे",
+      "options": {
+        "A": "$\frac{a^2 p^2}, {q^2}$",
+        "B": "$\frac{ap}, {q}$",
+        "C": "$\frac{q^2}, {ap}$",
+        "D": "$\\pm \frac{q}, {ap}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{a^2 p^2}, {q^2}$",
+        "B": "$\frac{ap}, {q}$",
+        "C": "$\frac{q^2}, {ap}$",
+        "D": "$\\pm \frac{q}, {ap}$"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "The ratio of the sum of the roots and product of the roots of a quadratic equation $x^2 - 15x + 50 = 0$ is",
+      "prashna": "यदि द्विघात समीकरण $x^2 - 15x + 50 = 0$ के मूलों के योग एवं मूलों के गुणनफल का अनुपात होगा",
+      "options": {
+        "A": "3 : 10",
+        "B": "3 : 25",
+        "C": "3 : 50",
+        "D": "5 : 3"
+      },
+      "vikalpa": {
+        "A": "3 : 10",
+        "B": "3 : 25",
+        "C": "3 : 50",
+        "D": "5 : 3"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "If -5 and -1 are the roots of a quadratic equation, then the equation will be",
+      "prashna": "यदि द्विघात समीकरण के मूल -5 एवं -1 हैं, तो द्विघात समीकरण होगा",
+      "options": {
+        "A": "$x^2 + 6x + 5 = 0$",
+        "B": "$x^2 - 6x + 5 = 0$",
+        "C": "$x^2 - 6x - 5 = 0$",
+        "D": "$x^2 + 6x - 5 = 0$"
+      },
+      "vikalpa": {
+        "A": "$x^2 + 6x + 5 = 0$",
+        "B": "$x^2 - 6x + 5 = 0$",
+        "C": "$x^2 - 6x - 5 = 0$",
+        "D": "$x^2 + 6x - 5 = 0$"
+      }
+    },
+    {
+      "id": "obj_61",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "The discriminant of quadratic equation $x^2 + 4x + b = 0$ is",
+      "prashna": "द्विघात समीकरण $x^2 + 4x + b = 0$ का विवेचक है",
+      "options": {
+        "A": "16 - 4b",
+        "B": "4b - 16",
+        "C": "b^2 - 16",
+        "D": "16 - b^2"
+      },
+      "vikalpa": {
+        "A": "16 - 4b",
+        "B": "4b - 16",
+        "C": "b^2 - 16",
+        "D": "16 - b^2"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Which of the following is a quadratic equation?",
+      "prashna": "निम्नलिखित में से कौन द्विघात समीकरण है ?",
+      "options": {
+        "A": "$x^2 + 4\\sqrt{x} + 4 = 0$",
+        "B": "$(x^2 + \\sqrt{x})(x + \\sqrt{x}) = 5$",
+        "C": "$(x + 1)^2 + x^2 = 0$",
+        "D": "$(x + 1)^3 = 11$"
+      },
+      "vikalpa": {
+        "A": "$x^2 + 4\\sqrt{x} + 4 = 0$",
+        "B": "$(x^2 + \\sqrt{x})(x + \\sqrt{x}) = 5$",
+        "C": "$(x + 1)^2 + x^2 = 0$",
+        "D": "$(x + 1)^3 = 11$"
+      }
+    },
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Common root in $x^2 - 2x - 3 = 0$ and $x^2 - 8x + 15 = 0$ is",
+      "prashna": "$x^2 - 2x - 3 = 0$ तथा $x^2 - 8x + 15 = 0$ में उभयनिष्ठ मूल है",
+      "options": {
+        "A": "5",
+        "B": "3",
+        "C": "-3",
+        "D": "-5"
+      },
+      "vikalpa": {
+        "A": "5",
+        "B": "3",
+        "C": "-3",
+        "D": "-5"
+      }
+    },
+    {
+      "id": "obj_95",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "One root of $2x^2 + 5x - 12 = 0$ is",
+      "prashna": "$2x^2 + 5x - 12 = 0$ का एक मूल है",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-4",
+        "D": "4"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "1",
+        "C": "-4",
+        "D": "4"
+      }
+    },
+    {
+      "id": "obj_96",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "The discriminant of the equation $3\\sqrt{3}x^2 + 10x + \\sqrt{3} = 0$ is equal to",
+      "prashna": "समीकरण $3\\sqrt{3}x^2 + 10x + \\sqrt{3} = 0$ का विवेचक बराबर है",
+      "options": {
+        "A": "44",
+        "B": "54",
+        "C": "64",
+        "D": "74"
+      },
+      "vikalpa": {
+        "A": "44",
+        "B": "54",
+        "C": "64",
+        "D": "74"
+      }
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Solve : $(x + 4)(x - 4) = 20$.",
+      "prashna": "हल करें : $(x + 4)(x - 4) = 20$।"
+    },
+    {
+      "id": "short_14",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Find the value of $k$ for which $2x^2 + kx + 3 = 0$ has two real and equal roots.",
+      "prashna": "$k$ का मान ज्ञात करें जिसके लिए $2x^2 + kx + 3 = 0$ के दोनों मूल वास्तविक और समान हों।"
+    },
+    {
+      "id": "short_17",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Find the roots of the equation $2x^2 - 3x - 5 = 0$.",
+      "prashna": "समीकरण $2x^2 - 3x - 5 = 0$ के मूल ज्ञात करें।"
+    },
+    {
+      "id": "short_25",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Find the discriminant of quadratic equation $bx^2 + ax + c = 0$.",
+      "prashna": "द्विघात समीकरण $bx^2 + ax + c = 0$ का विवेचक ज्ञात करें।"
+    },
+    {
+      "id": "short_26",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Show that $x = -3$ is a solution of equation $2x^2 + 5x - 3 = 0$.",
+      "prashna": "दिखाएँ कि $x = -3$ समीकरण $2x^2 + 5x - 3 = 0$ का एक हल है।"
+    },
+    {
+      "id": "short_27",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Find the nature of the roots of the quadratic equation $3x^2 - 4\\sqrt{3}x + 4 = 0$.",
+      "prashna": "द्विघात समीकरण $3x^2 - 4\\sqrt{3}x + 4 = 0$ के मूलों की प्रकृति ज्ञात करें।"
+    },
+    {
+      "id": "short_28",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "The difference of two positive numbers is 3 and their product is 504. Find the numbers.",
+      "prashna": "दो धनात्मक संख्याओं का अंतर 3 है तथा उनका गुणनफल 504 है। संख्याएँ ज्ञात करें।"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Divide 50 into two parts so that the sum of their reciprocals is $\frac{1}, {12}$.",
+      "prashna": "50 को दो भागों में इस प्रकार बाँटें कि उनके व्युत्क्रमों का योग $\frac{1}, {12}$ हो।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Which of the following is a quadratic equation ?",
+      "prashna": "निम्नलिखित में कौन द्विघात समीकरण है ?",
+      "options": {
+        "A": "x^2 - 3\\sqrt{x} + 2 = 0",
+        "B": "x + 1/x = x^2",
+        "C": "x^2 + 1/x^2 = 5",
+        "D": "2x^2 - 5x = (x-1)^2"
+      },
+      "vikalpa": {
+        "A": "x^2 - 3\\sqrt{x} + 2 = 0",
+        "B": "x + 1/x = x^2",
+        "C": "x^2 + 1/x^2 = 5",
+        "D": "2x^2 - 5x = (x-1)^2"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "If one root of the quadratic equation $x^2 + 2kx + 4 = 0$ is 2, then the value of $k$ is",
+      "prashna": "यदि द्विघात समीकरण $x^2 + 2kx + 4 = 0$ का एक मूल 2 है तो $k$ का मान होगा",
+      "options": {
+        "A": "-1",
+        "B": "-2",
+        "C": "2",
+        "D": "-4"
+      },
+      "vikalpa": {
+        "A": "-1",
+        "B": "-2",
+        "C": "2",
+        "D": "-4"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "For what value of $p$, roots of the quadratic equation $px^2 - 2x + 3 = 0$ are real and equal ?",
+      "prashna": "$p$ के किस मान के लिए द्विघात समीकरण $px^2 - 2x + 3 = 0$ के मूल वास्तविक एवं समान होंगे ?",
+      "options": {
+        "A": "1",
+        "B": "1/3",
+        "C": "3",
+        "D": "1/2"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "1/3",
+        "C": "3",
+        "D": "1/2"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "What is the nature of roots of the quadratic equation $6x^2 - 3x + 5 = 0$ ?",
+      "prashna": "द्विघात समीकरण $6x^2 - 3x + 5 = 0$ के मूलों की प्रकृति क्या होगी ?",
+      "options": {
+        "A": "Real and unequal",
+        "B": "Real and equal",
+        "C": "Not real",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "वास्तविक एवं असमान",
+        "B": "वास्तविक एवं समान",
+        "C": "वास्तविक नहीं",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "If one root of the quadratic equation $x^2 + x - 20 = 0$ is 4 then its other root is",
+      "prashna": "यदि द्विघात समीकरण $x^2 + x - 20 = 0$ का एक मूल 4 हो तो इसका दूसरा मूल होगा",
+      "options": {
+        "A": "5",
+        "B": "-4",
+        "C": "-5",
+        "D": "3"
+      },
+      "vikalpa": {
+        "A": "5",
+        "B": "-4",
+        "C": "-5",
+        "D": "3"
+      }
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "If $\\alpha$ and $\beta$ are the roots of the quadratic equation $x^2 + 6x + 5 = 0$ then the value of $\\alpha^2 + \beta^2$ is",
+      "prashna": "यदि द्विघात समीकरण $x^2 + 6x + 5 = 0$ के मूल $\\alpha$ एवं $\beta$ हों तो $\\alpha^2 + \beta^2$ का मान होगा",
+      "options": {
+        "A": "30",
+        "B": "16",
+        "C": "26",
+        "D": "20"
+      },
+      "vikalpa": {
+        "A": "30",
+        "B": "16",
+        "C": "26",
+        "D": "20"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "The roots of the quadratic equation $px^2 - qx + r = 0, p \neq 0$ are",
+      "prashna": "द्विघात समीकरण $px^2 - qx + r = 0, p \neq 0$ के मूल हैं",
+      "options": {
+        "A": "\frac{q \\pm \\sqrt{q^2 - 4pr}}, {2p}",
+        "B": "\frac{q \\pm \\sqrt{q^2 + 4pr}}, {2p}",
+        "C": "\frac{-q \\pm \\sqrt{q^2 - 4pr}}, {2p}",
+        "D": "\frac{-q \\pm \\sqrt{q^2 + 4pr}}, {2p}"
+      },
+      "vikalpa": {
+        "A": "\frac{q \\pm \\sqrt{q^2 - 4pr}}, {2p}",
+        "B": "\frac{q \\pm \\sqrt{q^2 + 4pr}}, {2p}",
+        "C": "\frac{-q \\pm \\sqrt{q^2 - 4pr}}, {2p}",
+        "D": "\frac{-q \\pm \\sqrt{q^2 + 4pr}}, {2p}"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "If $x = -1$ is a common root of both the equations $2x^2 + 3x + p = 0$ and $qx^2 - qx + 4 = 0$ then the value of $p + q$ is",
+      "prashna": "यदि $x = -1$ दोनों समीकरणों $2x^2 + 3x + p = 0$ और $qx^2 - qx + 4 = 0$ का एक उभयनिष्ठ मूल हो तो $p + q$ का मान होगा",
+      "options": {
+        "A": "1",
+        "B": "-1",
+        "C": "2",
+        "D": "-2"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "-1",
+        "C": "2",
+        "D": "-2"
+      }
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "The area of a rectangular field is 260 square metre. If its length becomes 5 metre less and breadth 2 metre more, it becomes a square field. Find the length and breadth of the rectangular field.",
+      "prashna": "एक आयताकार मैदान का क्षेत्रफल 260 वर्ग मीटर है। उसकी लंबाई 5 मीटर कम और चौड़ाई 2 मीटर अधिक होने पर वह वर्गाकार हो जाता है। आयताकार मैदान की लंबाई और चौड़ाई निकालें।"
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Which of the following is a quadratic equation ?",
+      "prashna": "निम्नलिखित में कौन द्विघात समीकरण है ?",
+      "options": {
+        "A": "(x+1)(x-1) = x^2 - 4x^3",
+        "B": "(x+4)^2 = 3x+4",
+        "C": "4x + \frac{1}, {2x} = 8x^2",
+        "D": "(2x^2+4) = (5+x)(2x-3)"
+      },
+      "vikalpa": {
+        "A": "(x+1)(x-1) = x^2 - 4x^3",
+        "B": "(x+4)^2 = 3x+4",
+        "C": "4x + \frac{1}, {2x} = 8x^2",
+        "D": "(2x^2+4) = (5+x)(2x-3)"
+      }
+    },
+    {
+      "id": "obj_43",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "If product of the roots of the quadratic equation $x^2 - 5x + p = 10$ is -4, then the value of $p$ is",
+      "prashna": "यदि द्विघात समीकरण $x^2 - 5x + p = 10$ के मूलों का गुणनफल -4 हो तो $p$ का मान होगा",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "8"
+      },
+      "vikalpa": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "8"
+      }
+    },
+    {
+      "id": "obj_45",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "For what value of $k$, roots of the quadratic equation $x^2 + 6x + k = 0$ are real and equal ?",
+      "prashna": "$k$ के किस मान के लिए द्विघात समीकरण $x^2 + 6x + k = 0$ के मूल वास्तविक एवं समान होंगे ?",
+      "options": {
+        "A": "12",
+        "B": "9",
+        "C": "10",
+        "D": "6"
+      },
+      "vikalpa": {
+        "A": "12",
+        "B": "9",
+        "C": "10",
+        "D": "6"
+      }
+    },
+    {
+      "id": "obj_46",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "What is the nature of the roots of the quadratic equation $\frac{4}, {3}x^2 - 2x + \frac{3}, {4} = 0$ ?",
+      "prashna": "द्विघात समीकरण $\frac{4}, {3}x^2 - 2x + \frac{3}, {4} = 0$ के मूलों की प्रकृति क्या होगी ?",
+      "options": {
+        "A": "Real and unequal",
+        "B": "Real and equal",
+        "C": "Not real",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "वास्तविक एवं असमान",
+        "B": "वास्तविक एवं समान",
+        "C": "वास्तविक नहीं",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "If one root of the quadratic equation $y^2 + 3y - 18 = 0$ is -6 then its another root is",
+      "prashna": "यदि द्विघात समीकरण $y^2 + 3y - 18 = 0$ का एक मूल -6 है तो इसका दूसरा मूल होगा",
+      "options": {
+        "A": "3",
+        "B": "-3",
+        "C": "6",
+        "D": "5"
+      },
+      "vikalpa": {
+        "A": "3",
+        "B": "-3",
+        "C": "6",
+        "D": "5"
+      }
+    },
+    {
+      "id": "obj_48",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "If $\\alpha$ and $\beta$ are the roots of the quadratic equation $x^2 - 8x + 5 = 0$ then the value of $\\alpha^2 + \beta^2$ is",
+      "prashna": "यदि द्विघात समीकरण $x^2 - 8x + 5 = 0$ के मूल $\\alpha$ एवं $\beta$ हों तो $\\alpha^2 + \beta^2$ का मान होगा",
+      "options": {
+        "A": "44",
+        "B": "54",
+        "C": "74",
+        "D": "64"
+      },
+      "vikalpa": {
+        "A": "44",
+        "B": "54",
+        "C": "74",
+        "D": "64"
+      }
+    },
+    {
+      "id": "obj_49",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "The roots of the quadratic equation $ax^2 - bx - c = 0, a \neq 0$ are",
+      "prashna": "द्विघात समीकरण $ax^2 - bx - c = 0, a \neq 0$ के मूल हैं",
+      "options": {
+        "A": "\frac{-b \\pm \\sqrt{b^2 - 4ac}}, {2a}",
+        "B": "\frac{b \\pm \\sqrt{b^2 + 4ac}}, {2a}",
+        "C": "\frac{-b \\pm \\sqrt{b^2 + 4ac}}, {2a}",
+        "D": "\frac{b \\pm \\sqrt{b^2 - 4ac}}, {2a}"
+      },
+      "vikalpa": {
+        "A": "\frac{-b \\pm \\sqrt{b^2 - 4ac}}, {2a}",
+        "B": "\frac{b \\pm \\sqrt{b^2 + 4ac}}, {2a}",
+        "C": "\frac{-b \\pm \\sqrt{b^2 + 4ac}}, {2a}",
+        "D": "\frac{b \\pm \\sqrt{b^2 - 4ac}}, {2a}"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "If $x = 2$ is a common root of both the equations $2x^2 + 2x + p = 0$ and $qx^2 + qx + 18 = 0$ then the value of $(q-p)$ is",
+      "prashna": "यदि $x = 2$ दोनों समीकरण $2x^2 + 2x + p = 0$ तथा $qx^2 + qx + 18 = 0$ का एक उभयनिष्ठ मूल हो तो $(q-p)$ का मान होगा",
+      "options": {
+        "A": "-4",
+        "B": "-3",
+        "C": "9",
+        "D": "4"
+      },
+      "vikalpa": {
+        "A": "-4",
+        "B": "-3",
+        "C": "9",
+        "D": "4"
+      }
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Find the roots of the equation $\frac{1}, {x} - \frac{1}, {x-2} = 3, x \neq 0, 2$.",
+      "prashna": "समीकरण $\frac{1}, {x} - \frac{1}, {x-2} = 3, x \neq 0, 2$ के मूलों को ज्ञात करें।"
+    },
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Find the discriminant of the quadratic equation $\\sqrt{2}x^2 - x - \\sqrt{2} = 0$ and hence find the nature of the roots.",
+      "prashna": "द्विघात समीकरण $\\sqrt{2}x^2 - x - \\sqrt{2} = 0$ के विवेचक ज्ञात करें एवं फिर मूलों की प्रकृति बताएँ।"
+    },
+    {
+      "id": "short_14",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "For what value of $k$ will the equation $kx(x-2) + 6 = 0$ have equal roots ?",
+      "prashna": "$k$ के किस मान के लिए समीकरण $kx(x-2) + 6 = 0$ के मूल बराबर होंगे ?"
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "For what value of $k$, roots of the quadratic equation $kx^2 - 6x + 1 = 0$ are real and equal?",
+      "prashna": "$k$ के किस मान के लिए द्विघात समीकरण $kx^2 - 6x + 1 = 0$ के मूल वास्तविक एवं समान हैं?",
+      "options": {
+        "A": "6",
+        "B": "8",
+        "C": "9",
+        "D": "10"
+      },
+      "vikalpa": {
+        "A": "6",
+        "B": "8",
+        "C": "9",
+        "D": "10"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Which of the following is a quadratic equation?",
+      "prashna": "निम्नलिखित में से कौन द्विघात समीकरण है?",
+      "options": {
+        "A": "$(x + 3)(x - 3) = x^2 - 4x^3$",
+        "B": "$(x + 3)^2 = 4(x + 4)$",
+        "C": "$(2x - 2)^2 = 4x^2 + 7$",
+        "D": "$4x + \frac{1}, {4x} = 4x$"
+      },
+      "vikalpa": {
+        "A": "$(x + 3)(x - 3) = x^2 - 4x^3$",
+        "B": "$(x + 3)^2 = 4(x + 4)$",
+        "C": "$(2x - 2)^2 = 4x^2 + 7$",
+        "D": "$4x + \frac{1}, {4x} = 4x$"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Which of the following is not a quadratic equation?",
+      "prashna": "निम्नलिखित में से कौन द्विघात समीकरण नहीं है?",
+      "options": {
+        "A": "$5x - x^2 = x^2 + 3$",
+        "B": "$x^3 - x^2 = (x - 1)^3$",
+        "C": "$(x + 3)^2 = 3(x^2 - 5)$",
+        "D": "$(\\sqrt{2}x + 3)^2 = 2x^2 + 5$"
+      },
+      "vikalpa": {
+        "A": "$5x - x^2 = x^2 + 3$",
+        "B": "$x^3 - x^2 = (x - 1)^3$",
+        "C": "$(x + 3)^2 = 3(x^2 - 5)$",
+        "D": "$(\\sqrt{2}x + 3)^2 = 2x^2 + 5$"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "The discriminant of the quadratic equation $2x^2 - 7x + 6 = 0$ is",
+      "prashna": "द्विघात समीकरण $2x^2 - 7x + 6 = 0$ का विवेचक है",
+      "options": {
+        "A": "1",
+        "B": "-1",
+        "C": "27",
+        "D": "37"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "-1",
+        "C": "27",
+        "D": "37"
+      }
+    },
+    {
+      "id": "obj_67",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "If $\\alpha$ and $\beta$ are roots of the quadratic equation $3x^2 - 5x + 2 = 0$ then the value of $\\alpha^2 + \beta^2$ is",
+      "prashna": "यदि द्विघात समीकरण $3x^2 - 5x + 2 = 0$ के मूल $\\alpha$ एवं $\beta$ हों तो $\\alpha^2 + \beta^2$ का मान है",
+      "options": {
+        "A": "$\frac{13}, {9}$",
+        "B": "$\frac{9}, {13}$",
+        "C": "$\frac{5}, {3}$",
+        "D": "$\frac{3}, {5}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{13}, {9}$",
+        "B": "$\frac{9}, {13}$",
+        "C": "$\frac{5}, {3}$",
+        "D": "$\frac{3}, {5}$"
+      }
+    },
+    {
+      "id": "obj_68",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "If one root of the quadratic equation $2x^2 - 7x - p = 0$ is $2$ then the value of $p$ is",
+      "prashna": "यदि द्विघात समीकरण $2x^2 - 7x - p = 0$ का एक मूल $2$ हो तो $p$ का मान है",
+      "options": {
+        "A": "4",
+        "B": "-4",
+        "C": "-6",
+        "D": "6"
+      },
+      "vikalpa": {
+        "A": "4",
+        "B": "-4",
+        "C": "-6",
+        "D": "6"
+      }
+    },
+    {
+      "id": "obj_69",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "If one root of the quadratic equation $2x^2 - x - 6 = 0$ is $-\frac{3}, {2}$ then its another root is",
+      "prashna": "यदि द्विघात समीकरण $2x^2 - x - 6 = 0$ का एक मूल $-\frac{3}, {2}$ है तो इसका दूसरा मूल है",
+      "options": {
+        "A": "-2",
+        "B": "2",
+        "C": "$\frac{3}, {2}$",
+        "D": "3"
+      },
+      "vikalpa": {
+        "A": "-2",
+        "B": "2",
+        "C": "$\frac{3}, {2}$",
+        "D": "3"
+      }
+    },
+    {
+      "id": "obj_70",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "What is the nature of the roots of the quadratic equation $2x^2 - 6x + 3 = 0$?",
+      "prashna": "द्विघात समीकरण $2x^2 - 6x + 3 = 0$ के मूलों की प्रकृति क्या है?",
+      "options": {
+        "A": "real and unequal",
+        "B": "real and equal",
+        "C": "not real",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "वास्तविक एवं असमान",
+        "B": "वास्तविक एवं समान",
+        "C": "वास्तविक नहीं",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "short_15",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Find the discriminant of the quadratic equation $2x^2 + 5x - 3 = 0$ and find the nature of the roots also.",
+      "prashna": "द्विघात समीकरण $2x^2 + 5x - 3 = 0$ के विवेचक ज्ञात करें और मूलों की प्रकृति भी ज्ञात करें।"
+    },
+    {
+      "id": "short_19",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Using quadratic formula find the roots of the equation $2x^2 - 2\\sqrt{2}x + 1 = 0$.",
+      "prashna": "द्विघात सूत्र का प्रयोग कर समीकरण $2x^2 - 2\\sqrt{2}x + 1 = 0$ के मूल ज्ञात करें।"
+    },
+    {
+      "id": "short_25",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Find two consecutive positive integers, sum of whose squares is 365.",
+      "prashna": "दो क्रमागत धनात्मक पूर्णांक ज्ञात करें जिनके वर्गों का योग 365 हो।"
+    },
+    {
+      "id": "short_26",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "The difference of squares of two numbers is 180. The square of the smaller number is 8 times the larger number. Write the equation for this statement.",
+      "prashna": "दो संख्याओं के वर्गों का अंतर 180 है। छोटी संख्या का वर्ग बड़ी संख्या का आठ गुना है। इस कथन के लिए समीकरण लिखें।"
+    }
+  ]
+}

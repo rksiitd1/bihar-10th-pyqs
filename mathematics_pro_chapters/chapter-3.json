@@ -1,0 +1,1208 @@
+{
+  "2019": [
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Pair of equations $x + 2y + 5 = 0$ and $-3x - 6y + 1 = 0$ have-",
+      "prashna": "समीकरण युग्म $x + 2y + 5 = 0$ तथा $-3x - 6y + 1 = 0$ के हल हैं -",
+      "options": {
+        "A": "Unique solution",
+        "B": "Infinite solution",
+        "C": "No solution",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "अद्वितीय हल",
+        "B": "अनन्त हल",
+        "C": "कोई हल नहीं",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "If the equations $kx - 5y = 2$ and $6x + 2y = 7$ have no solutions, then-",
+      "prashna": "यदि समीकरण $kx - 5y = 2$ तथा $6x + 2y = 7$ के कोई हल न हों, तो -",
+      "options": {
+        "A": "$k = -10$",
+        "B": "$k = -5$",
+        "C": "$k = -6$",
+        "D": "$k = -15$"
+      },
+      "vikalpa": {
+        "A": "$k = -10$",
+        "B": "$k = -5$",
+        "C": "$k = -6$",
+        "D": "$k = -15$"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "If the graph of two linear equations in two variables is intersecting lines, then the number of solutions is -",
+      "prashna": "दो चर में दो एकघातीय समीकरणों के ग्राफ यदि प्रतिच्छेदी रेखाएँ हों, तो हलों की संख्या है -",
+      "options": {
+        "A": "Only one",
+        "B": "No solution",
+        "C": "Infinite solutions",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "सिर्फ एक",
+        "B": "कोई हल नहीं",
+        "C": "अनन्त हल",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Solve the system of equations $2x + y = 5$ and $3x + 2y = 8$ by cross-multiplication method.",
+      "prashna": "समीकरण निकाय $2x + y = 5$ और $3x + 2y = 8$ को वज्र गुणन विधि से हल करें।"
+    },
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Draw the graph of pair of equations $2x + 3y = 17$ and $3x - 2y = 6$ and solve them.",
+      "prashna": "समीकरण युग्म $2x + 3y = 17$ तथा $3x - 2y = 6$ का ग्राफ खीचें और हल करें।"
+    }
+  ],
+  "2020": [
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "The pair of equations $2x + 3y = 5$ and $4x + 6y = 15$ have",
+      "prashna": "समीकरण युग्म $2x + 3y = 5$ तथा $4x + 6y = 15$ का है",
+      "options": {
+        "A": "unique solution",
+        "B": "infinitely many solutions",
+        "C": "no solution",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "अद्वितीय हल",
+        "B": "अनन्त हल",
+        "C": "कोई हल नहीं",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "What type of straight line will the graph of $x = -5$ be?",
+      "prashna": "$x = -5$ का आलेख कैसी सरल रेखा होगी?",
+      "options": {
+        "A": "parallel to $x$-axis",
+        "B": "parallel to $y$-axis",
+        "C": "passing through the origin",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "$x$-अक्ष के समांतर",
+        "B": "$y$-अक्ष के समांतर",
+        "C": "मूल बिन्दु से जाती हुई",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "How many maximum solutions of the linear equation $ax + by + c = 0$ are possible in two variables $x, y$?",
+      "prashna": "दो चर $x, y$ में रैखिक समीकरण $ax + by + c = 0$ के कितने अधिकतम हल संभव हैं?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "Infinitely many",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "2",
+        "C": "अनगिनत",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "If the equations $3x - y = 5$ and $6x - 2y = k$ have no solution, then",
+      "prashna": "यदि समीकरण $3x - y = 5$ तथा $6x - 2y = k$ के कोई हल न हो, तो",
+      "options": {
+        "A": "$k = 0$",
+        "B": "$k \neq 0$",
+        "C": "$k \neq 10$",
+        "D": "$k = -10$"
+      },
+      "vikalpa": {
+        "A": "$k = 0$",
+        "B": "$k \neq 0$",
+        "C": "$k \neq 10$",
+        "D": "$k = -10$"
+      }
+    },
+    {
+      "id": "short_19",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Solve the system of equations $2x + 5y = 1$ and $2x + 3y = 3$ by cross-multiplication method.",
+      "prashna": "समीकरण निकाय $2x + 5y = 1$ और $2x + 3y = 3$ को वज्र गुणन विधि से हल करें।"
+    },
+    {
+      "id": "short_27",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "If the sum of two numbers is 1000 and the difference of their squares is 256000, then find the numbers.",
+      "prashna": "दो संख्याओं का योगफल 1000 है तथा उनके वर्गों का अंतर 256000 है तो संख्याएं ज्ञात करें।"
+    },
+    {
+      "id": "long_28",
+      "type": "long_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Draw the graph of pair of equations $x + 2y = 3$ and $4x + 3y = 2$.",
+      "prashna": "समीकरण युग्म $x + 2y = 3$ तथा $4x + 3y = 2$ का ग्राफ खींचें और हल करें।"
+    },
+    {
+      "id": "long_31",
+      "type": "long_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "A train travels a distance with equal speed. If the train had run 10 km/hr faster, it would have taken 2 hours less than the scheduled time and if it had run 10 km/hr slower, it would have taken 3 hours more than the scheduled time. Find the distance travelled by the train.",
+      "prashna": "एक रेलगाड़ी कुछ दूरी समान चाल से तय करती है। यदि रेलगाड़ी 10 km/hr अधिक तेज चली होती, तो उसे नियत समय से 2 घंटे कम लगते और यदि 10 km/hr धीमी चली होती, तो उसे नियत समय से 3 घंटे अधिक लगते। रेलगाड़ी द्वारा तय की गई दूरी ज्ञात करें।"
+    },
+    {
+      "id": "long_34",
+      "type": "long_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Nisha can swim downstream 20 km in 2 hours and upstream 4 km in 2 hours. Find her speed of swimming in still water and the speed of the current.",
+      "prashna": "निशा धारा के अनुकूल 2 घंटे में 20 km तैर सकती है और धारा के प्रतिकूल 2 घंटे में 4 km तैर सकती है। उसकी स्थिर जल में तैरने की चाल तथा धारा की चाल ज्ञात करें।"
+    },
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "For which value of $k$ will the system of equations $4x + ky = 6, 2x - 4y = 3$ have infinite solutions?",
+      "prashna": "$k$ के किस मान के लिए समीकरण निकाय $4x + ky = 6, 2x - 4y = 3$ के अनगिनत हल होंगे ?",
+      "options": {
+        "A": "-2",
+        "B": "-8",
+        "C": "8",
+        "D": "2"
+      },
+      "vikalpa": {
+        "A": "-2",
+        "B": "-8",
+        "C": "8",
+        "D": "2"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "If the equations $x - 2y = 3$ and $3x + ky = 1$ have a unique solution, then",
+      "prashna": "यदि समीकरण $x - 2y = 3$ तथा $3x + ky = 1$ का एक अद्वितीय हल हो, तो",
+      "options": {
+        "A": "$k = -6$",
+        "B": "$k \neq -6$",
+        "C": "$k = 0$",
+        "D": "$k \neq 0$"
+      },
+      "vikalpa": {
+        "A": "$k = -6$",
+        "B": "$k \neq -6$",
+        "C": "$k = 0$",
+        "D": "$k \neq 0$"
+      }
+    },
+    {
+      "id": "obj_45",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Solutions of $2x + 3y = 11$ and $2x - 4y = -24$ are",
+      "prashna": "$2x + 3y = 11$ और $2x - 4y = -24$ के हल हैं",
+      "options": {
+        "A": "$x = 2, y = 4$",
+        "B": "$x = -2, y = -5$",
+        "C": "$x = -3, y = 1$",
+        "D": "$x = -2, y = 5$"
+      },
+      "vikalpa": {
+        "A": "$x = 2, y = 4$",
+        "B": "$x = -2, y = -5$",
+        "C": "$x = -3, y = 1$",
+        "D": "$x = -2, y = 5$"
+      }
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "If a pair of linear equations is inconsistent then the lines representing them will be",
+      "prashna": "यदि रैखिक समीकरण का युग्म असंगत है, तो उसे निरूपित करने वाली रेखाएँ होंगी",
+      "options": {
+        "A": "parallel",
+        "B": "always coincident",
+        "C": "always intersecting",
+        "D": "intersecting or coincident"
+      },
+      "vikalpa": {
+        "A": "समांतर",
+        "B": "सदैव संपाती",
+        "C": "सदैव प्रतिच्छेदी",
+        "D": "प्रतिच्छेदी अथवा संपाती"
+      }
+    },
+    {
+      "id": "short_17",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Solve the system of equations $7x - 2y = 3$ and $22x - 3y = 16$ by cross-multiplication method.",
+      "prashna": "समीकरण निकाय $7x - 2y = 3$ और $22x - 3y = 16$ को वज्र गुणन विधि से हल करें।"
+    },
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Draw the graph of pair of equations $3x - y = 2$ and $9x - 3y = 6$ and solve them.",
+      "prashna": "समीकरण युग्म $3x - y = 2$ तथा $9x - 3y = 6$ का ग्राफ खींचें और हल करें।"
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Five years ago, $A$ was thrice as old as $B$ and ten years later $A$ shall be twice as old as $B$. What are the present ages of $A$ and $B$ ?",
+      "prashna": "पाँच वर्ष पूर्व, $A$ की आयु, $B$ की आयु की तीन गुनी थी। दस वर्ष पश्चात् $A$ की आयु, $B$ की आयु की दोगुनी हो जाएगी। $A$ और $B$ की वर्तमान आयु ज्ञात करें।"
+    },
+    {
+      "id": "long_7",
+      "type": "long_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "A motor boat covers $30 \text{ km}$ upstream and $28 \text{ km}$ downstream in $7$ hours. Also, it covers $21 \text{ km}$ upstream and come back in $5$ hours. Find the speed of the motor boat in still water and that of the stream.",
+      "prashna": "एक मोटर बोट को धारा के प्रतिकूल $30 \text{ km}$ और धारा के अनुकूल $28 \text{ km}$ जाने में $7$ घंटे का समय लगता है। वह धारा के प्रतिकूल $21 \text{ km}$ जाकर $5$ घंटे में वापस आ सकती है। शांत जल में मोटर बोट की चाल और धारा की चाल ज्ञात करें।"
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "The system of equations $x + 2y - 8 = 0$ and $2x + 4y = 16$ have",
+      "prashna": "समीकरण निकायों $x + 2y - 8 = 0$ तथा $2x + 4y = 16$ का है",
+      "options": {
+        "A": "unique solution",
+        "B": "infinitely many solutions",
+        "C": "no solution",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "अद्वितीय हल",
+        "B": "अनन्त हल",
+        "C": "कोई हल नहीं",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "If the system of equations $4x + ky + 8 = 0$ and $2x + 2y + 2 = 0$ have an unique solution, then",
+      "prashna": "यदि समीकरण निकायों $4x + ky + 8 = 0$ एवं $2x + 2y + 2 = 0$ का एक अद्वितीय हल हो, तो",
+      "options": {
+        "A": "$k = 4$",
+        "B": "$k \neq 4$",
+        "C": "$k \neq -4$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$k = 4$",
+        "B": "$k \neq 4$",
+        "C": "$k \neq -4$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "What type of straight line will the graph of $x = 6$ be ?",
+      "prashna": "$x = 6$ का आलेख कैसी सरल रेखा होगी ?",
+      "options": {
+        "A": "Parallel to x-axis",
+        "B": "Parallel to y-axis",
+        "C": "Passing through the origin",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$x$-अक्ष के समांतर",
+        "B": "$y$-अक्ष के समांतर",
+        "C": "मूल बिन्दु से जाती हुई",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_55",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Solutions of equations $x + y = 14$ and $x - y = 4$ are",
+      "prashna": "समीकरण $x + y = 14$ और $x - y = 4$ के हल है",
+      "options": {
+        "A": "$x = 2, y = 4$",
+        "B": "$x = 9, y = 5$",
+        "C": "$x = -2, y = -4$",
+        "D": "$x = 6, y = -5$"
+      },
+      "vikalpa": {
+        "A": "$x = 2, y = 4$",
+        "B": "$x = 9, y = 5$",
+        "C": "$x = -2, y = -4$",
+        "D": "$x = 6, y = -5$"
+      }
+    },
+    {
+      "id": "obj_67",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "The system of equations $2x + 3y = 7$ and $6x + 5y = 11$ has how many solutions ?",
+      "prashna": "समीकरण निकाय $2x + 3y = 7, 6x + 5y = 11$ के कितने हल होंगे ?",
+      "options": {
+        "A": "Infinite solutions",
+        "B": "No solution",
+        "C": "A unique solution",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "अनगिनत हल",
+        "B": "कोई हल नहीं",
+        "C": "अद्वितीय हल",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_68",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "If a pair of linear equations is inconsistent, then their graphs will be",
+      "prashna": "यदि रैखिक समीकरणों का युग्म असंगत है, तो उनके आलेख होंगे",
+      "options": {
+        "A": "parallel lines",
+        "B": "intersecting lines",
+        "C": "coincident lines",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "समांतर रेखाएँ",
+        "B": "प्रतिच्छेदी रेखाएँ",
+        "C": "संपाती रेखाएँ",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_69",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "The solution of pair of linear equations $x - 2y = 0$ and $3x + 4y = 20$ is",
+      "prashna": "रैखिक समीकरण युग्म $x - 2y = 0$ एवं $3x + 4y = 20$ का हल है",
+      "options": {
+        "A": "$x = 4, y = 2$",
+        "B": "$x = 2, y = 4$",
+        "C": "$x = 1, y = 2$",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "$x = 4, y = 2$",
+        "B": "$x = 2, y = 4$",
+        "C": "$x = 1, y = 2$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Find the set of solutions of the equation $x + 2y = 9$ in natural numbers.",
+      "prashna": "समीकरण $x + 2y = 9$ के लिए प्राकृत संख्याओं के समुच्चय में हल लिखें।"
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "For what value of $p$ following pair of linear equations has a unique solution ?\n$4x + py + 8 = 0$ and $2x + 2y + 2 = 0$.",
+      "prashna": "$p$ के किस मान के लिए निम्न रैखिक समीकरणों के युग्म का एक अद्वितीय हल है ?\n$4x + py + 8 = 0$ एवं $2x + 2y + 2 = 0$।"
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Solve the system of equations $2x + 3y = 7$ and $6x - 5y = 11$ by cross multiplication method.",
+      "prashna": "समीकरण निकाय $2x + 3y = 7$ और $6x - 5y = 11$ को वज्र गुणन विधि से हल करें।"
+    },
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Draw the graph of pair of linear equations $x + y = 7$ and $2x - 3y = 9$ and solve.",
+      "prashna": "रैखिक समीकरण युग्म $x + y = 7$ तथा $2x - 3y = 9$ का आलेख खींचें और हल करें।"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "If 2 is added to both numerator and denominator of a fraction it becomes $\frac{9}, {11}$ and if 3 is added to its numerator and denominator it becomes $\frac{5}, {6}$. Find the fraction.",
+      "prashna": "यदि किसी भिन्न के अंश और हर दोनों में 2 जोड़ दिया जाए, तो वह $\frac{9}, {11}$ हो जाती है। यदि अंश और हर दोनों में 3 जोड़ दिया जाए, तो वह $\frac{5}, {6}$ हो जाती है। वह भिन्न ज्ञात करें।"
+    },
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "For what value of $k$, the equations $3x - y = -8$ and $6x - ky = -16$ represent coincident lines?",
+      "prashna": "$k$ के किस मान के लिए समीकरण $3x - y = -8$ तथा $6x - ky = -16$, संपाती रेखाओं को प्रदर्शित करता है ?",
+      "options": {
+        "A": "$2$",
+        "B": "$-2$",
+        "C": "$\frac{1}, {2}$",
+        "D": "$-\frac{1}, {2}$"
+      },
+      "vikalpa": {
+        "A": "$2$",
+        "B": "$-2$",
+        "C": "$\frac{1}, {2}$",
+        "D": "$-\frac{1}, {2}$"
+      }
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "If the graphs of two linear equations in two variables are intersecting lines, then the number of solutions is",
+      "prashna": "यदि दो चर में दो रैखिक समीकरणों के आलेख प्रतिच्छेदी रेखाएँ हों, तो हलों की संख्या है",
+      "options": {
+        "A": "Only one",
+        "B": "No solution",
+        "C": "Infinite solutions",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "सिर्फ एक",
+        "B": "कोई हल नहीं",
+        "C": "अनन्त हल",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "The sum of two angles of a triangle is equal to the third angle. If the difference between the two angles is $50^\\circ$, then the angles of the triangle are",
+      "prashna": "किसी त्रिभुज के दो कोणों का योग, तीसरे कोण के बराबर है। यदि दो कोणों का अन्तर $50^\\circ$ है, तब त्रिभुज के कोण हैं",
+      "options": {
+        "A": "$45^\\circ, 45^\\circ, 90^\\circ$",
+        "B": "$20^\\circ, 70^\\circ, 90^\\circ$",
+        "C": "$40^\\circ, 70^\\circ, 70^\\circ$",
+        "D": "$20^\\circ, 60^\\circ, 100^\\circ$"
+      },
+      "vikalpa": {
+        "A": "$45^\\circ, 45^\\circ, 90^\\circ$",
+        "B": "$20^\\circ, 70^\\circ, 90^\\circ$",
+        "C": "$40^\\circ, 70^\\circ, 70^\\circ$",
+        "D": "$20^\\circ, 60^\\circ, 100^\\circ$"
+      }
+    },
+    {
+      "id": "obj_49",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "If $3x - 5y = 0$ and $9x + 15y = 0$, then the values of $x$ and $y$ will be",
+      "prashna": "यदि $3x - 5y = 0$ तथा $9x + 15y = 0$ तो $x$ तथा $y$ के मान होंगे",
+      "options": {
+        "A": "$x = 1, y = 1$",
+        "B": "$x = 0, y = 0$",
+        "C": "$x = 3, y = 0$",
+        "D": "$x = 0, y = 5$"
+      },
+      "vikalpa": {
+        "A": "$x = 1, y = 1$",
+        "B": "$x = 0, y = 0$",
+        "C": "$x = 3, y = 0$",
+        "D": "$x = 0, y = 5$"
+      }
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Solve by graphical method: $9x - 10y + 12 = 0$ and $2x + 3y - 13 = 0$.",
+      "prashna": "ग्राफिय विधि से हल करें : $9x - 10y + 12 = 0$ तथा $2x + 3y - 13 = 0$."
+    },
+    {
+      "id": "long_8",
+      "type": "long_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "If $2$ is added to both numerator and denominator of a fraction, it becomes $\frac{1}, {2}$. If $7$ is subtracted from both numerator and denominator, it becomes $\frac{1}, {3}$. Find that fraction.",
+      "prashna": "यदि किसी भिन्न के अंश और हर दोनों में $2$ जोड़ दिया जाए, तो वह $\frac{1}, {2}$ हो जाती है। यदि अंश और हर दोनों में $7$ घटा दिया जाए, तो वह $\frac{1}, {3}$ हो जाती है। वह भिन्न ज्ञात करें।"
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "The solution of the pair of the equations $2x + 4y = 3$ and $12y + 6x = 6$ is",
+      "prashna": "युग्म समीकरण $2x + 4y = 3$ तथा $12y + 6x = 6$ का हल है",
+      "options": {
+        "A": "no solution",
+        "B": "one solution",
+        "C": "two solutions",
+        "D": "infinitely many solutions"
+      },
+      "vikalpa": {
+        "A": "कोई हल नहीं",
+        "B": "एक हल",
+        "C": "दो हल",
+        "D": "अनगिनत हल"
+      }
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "The three angles of a triangle are $x, y$ and $40^\\circ$. The difference between two angles $x$ and $y$ is $30^\\circ$. Find $x$ and $y$.",
+      "prashna": "किसी त्रिभुज के तीन कोण $x, y$ तथा $40^\\circ$ हैं। दो कोणों $x$ तथा $y$ के बीच का अंतर $30^\\circ$ है, तो $x$ तथा $y$ ज्ञात करें।"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Using graphical method, solve the pair of equations $4x - 5y = 20$ and $3x + 5y = 15$.",
+      "prashna": "ग्राफिय विधि से समीकरण युग्म $4x - 5y = 20$ एवं $3x + 5y = 15$ को हल करें।"
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "How many solutions does the pair of linear equations $2x - 3y + 2 = 0$ and $6x - 9y + 5 = 0$ have?",
+      "prashna": "रैखिक समीकरण युग्म $2x - 3y + 2 = 0, 6x - 9y + 5 = 0$ के कितने हल होंगे?",
+      "options": {
+        "A": "One and only one solution",
+        "B": "No solution",
+        "C": "Infinitely many solutions",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "एक और केवल एक हल",
+        "B": "कोई हल नहीं",
+        "C": "अनगिनत हल",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "For what value of $k$, the equations $kx + 2y = 5$ and $3x + y = 1$ have a unique solution?",
+      "prashna": "$k$ के किस मान के लिए समीकरण $kx + 2y = 5$ तथा $3x + y = 1$ का एक अद्वितीय हल होगा?",
+      "options": {
+        "A": "$k = 6$",
+        "B": "$k \neq 6$",
+        "C": "$k \neq 12$",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "$k = 6$",
+        "B": "$k \neq 6$",
+        "C": "$k \neq 12$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "The graph of two linear equations is parallel lines, then number of solutions will be",
+      "prashna": "दो रैखिक समीकरणों के लेखाचित्र यदि समांतर रेखाएँ हों तो हलों की संख्या होगी",
+      "options": {
+        "A": "zero",
+        "B": "one",
+        "C": "infinitely many",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "शून्य",
+        "B": "एक",
+        "C": "अनगिनत",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "What type of straight line will the graph of $y - 4 = 0$ be?",
+      "prashna": "$y - 4 = 0$ का आलेख कैसी सरल रेखा होगी?",
+      "options": {
+        "A": "Parallel to x-axis",
+        "B": "Parallel to y-axis",
+        "C": "Passing through origin",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$x$-अक्ष के समांतर",
+        "B": "$y$-अक्ष के समांतर",
+        "C": "मूल बिन्दु से जाती हुई",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "If $2x + 3y = 11$ and $2x - 4y = -24$, then",
+      "prashna": "यदि $2x + 3y = 11$ और $2x - 4y = -24$, तो",
+      "options": {
+        "A": "$x = 2, y = 4$",
+        "B": "$x = -2, y = -5$",
+        "C": "$x = -3, y = 1$",
+        "D": "$x = -2, y = 5$"
+      },
+      "vikalpa": {
+        "A": "$x = 2, y = 4$",
+        "B": "$x = -2, y = -5$",
+        "C": "$x = -3, y = 1$",
+        "D": "$x = -2, y = 5$"
+      }
+    },
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "The system of a pair of linear equations $a_1x + b_1y = c_1, a_2x + b_2y = c_2$ has infinitely many solutions if",
+      "prashna": "युगपत रैखिक समीकरणों के निकाय $a_1x + b_1y = c_1, a_2x + b_2y = c_2$ के अनगिनत हल प्राप्त होते हैं यदि",
+      "options": {
+        "A": "$\frac{a_1}, {a_2} = \frac{b_1}, {b_2} \neq \frac{c_1}, {c_2}$",
+        "B": "$\frac{a_1}, {a_2} \neq \frac{b_1}, {b_2} = \frac{c_1}, {c_2}$",
+        "C": "$\frac{a_1}, {a_2} \neq \frac{b_1}, {b_2} \neq \frac{c_1}, {c_2}$",
+        "D": "$\frac{a_1}, {a_2} = \frac{b_1}, {b_2} = \frac{c_1}, {c_2}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{a_1}, {a_2} = \frac{b_1}, {b_2} \neq \frac{c_1}, {c_2}$",
+        "B": "$\frac{a_1}, {a_2} \neq \frac{b_1}, {b_2} = \frac{c_1}, {c_2}$",
+        "C": "$\frac{a_1}, {a_2} \neq \frac{b_1}, {b_2} \neq \frac{c_1}, {c_2}$",
+        "D": "$\frac{a_1}, {a_2} = \frac{b_1}, {b_2} = \frac{c_1}, {c_2}$"
+      }
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "If the solution of the pair of equations $2x + ky = 3$ and $x - hy = 2$ is $x = 1, y = 3$ then find the values of $h$ and $k$.",
+      "prashna": "समीकरण युग्म $2x + ky = 3$ और $x - hy = 2$ का हल $x = 1, y = 3$ हो तो $h$ और $k$ का मान निकालें।"
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Show that the system of equations $3x - 5y = 7, 6x - 10y = 3$ has no solution.",
+      "prashna": "दिखाएँ कि समीकरण निकाय $3x - 5y = 7, 6x - 10y = 3$ का कोई हल नहीं है।"
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "The difference of two numbers is 14 and the difference of their squares is 448. Find the numbers.",
+      "prashna": "दो संख्याओं का अंतर 14 है और उनके वर्गों का अंतर 448 है तो संख्याएँ ज्ञात करें।"
+    },
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Draw the graphs of pair of linear equations $x - 4y + 14 = 0$ and $3x + 2y - 14 = 0$ and solve them.",
+      "prashna": "रैखिक समीकरण युग्म $x - 4y + 14 = 0$ तथा $3x + 2y - 14 = 0$ का आलेख खींचें और हल करें।"
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "The graph of the straight line $y = 2x - 3$ passes through which of the following points?",
+      "prashna": "सरल रेखा $y = 2x - 3$ का आलेख निम्न में से किस बिन्दु से होकर गुजरेगी ?",
+      "options": {
+        "A": "(2, 2)",
+        "B": "(4, 1)",
+        "C": "(3, 4)",
+        "D": "(5, 7)"
+      },
+      "vikalpa": {
+        "A": "(2, 2)",
+        "B": "(4, 1)",
+        "C": "(3, 4)",
+        "D": "(5, 7)"
+      }
+    },
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "If the graph of two linear equations is coincident lines then how many solutions do they have ?",
+      "prashna": "दो रैखिक समीकरणों के लेखाचित्र यदि संपाती रेखाएँ हैं तो उनके कितने हल होंगे?",
+      "options": {
+        "A": "One solution",
+        "B": "No solution",
+        "C": "Infinitely many solutions",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "एक हल",
+        "B": "कोई हल नहीं",
+        "C": "अनगिनत हल",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "The graphs of equations $2x - y - 3 = 0$ and $12x + 7y - 5 = 0$ are which type of straight lines?",
+      "prashna": "समीकरण $2x - y - 3 = 0$ एवं $12x + 7y - 5 = 0$ के आरेख किस प्रकार की सरल रेखाएँ होंगी ?",
+      "options": {
+        "A": "Coincident straight lines",
+        "B": "Parallel straight lines",
+        "C": "Intersecting straight lines",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "संपाती सरल रेखाएँ",
+        "B": "समांतर सरल रेखाएँ",
+        "C": "प्रतिच्छेदी सरल रेखाएँ",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Which type of straight line will be the graph of $x - y = 0$ ?",
+      "prashna": "$x - y = 0$ का आलेख कैसी सरल रेखा होगी ?",
+      "options": {
+        "A": "Parallel to $x$-axis",
+        "B": "Parallel to $y$-axis",
+        "C": "Passing through origin",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$x$-अक्ष के समांतर",
+        "B": "$y$-अक्ष के समांतर",
+        "C": "मूल बिन्दु से जाती हुई",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_80",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "If $3x - 2y = 12$ and $4x - 5y = 16$, then",
+      "prashna": "यदि $3x - 2y = 12$ एवं $4x - 5y = 16$ हो, तो",
+      "options": {
+        "A": "x = 4, y = 0",
+        "B": "x = 0, y = 4",
+        "C": "x = 4, y = 2",
+        "D": "x = 1, y = 10"
+      },
+      "vikalpa": {
+        "A": "x = 4, y = 0",
+        "B": "x = 0, y = 4",
+        "C": "x = 4, y = 2",
+        "D": "x = 1, y = 10"
+      }
+    },
+    {
+      "id": "obj_46",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "If the point $(4, a)$ lies on the line $2x - 3y = 5$, then the value of $a$ is",
+      "prashna": "यदि बिन्दु $(4, a)$ रेखा $2x - 3y = 5$ पर स्थित हो, तो $a$ का मान होगा",
+      "options": {
+        "A": "1",
+        "B": "-1",
+        "C": "3",
+        "D": "$\frac{1}, {3}$"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "-1",
+        "C": "3",
+        "D": "$\frac{1}, {3}$"
+      }
+    },
+    {
+      "id": "obj_63",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "The solution of the pair of equations $3x - 2y + 3 = 0, 4x + 3y - 47 = 0$ is",
+      "prashna": "समीकरण युग्म $3x - 2y + 3 = 0, 4x + 3y - 47 = 0$ का हल है",
+      "options": {
+        "A": "$x = 1, y = 3$",
+        "B": "$x = 4, y = 5$",
+        "C": "$x = 5, y = 9$",
+        "D": "$x = 8, y = 5$"
+      },
+      "vikalpa": {
+        "A": "$x = 1, y = 3$",
+        "B": "$x = 4, y = 5$",
+        "C": "$x = 5, y = 9$",
+        "D": "$x = 8, y = 5$"
+      }
+    },
+    {
+      "id": "obj_94",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "The value of $a$ for which the system of equations $ax + 10y = 9, 2x + 5y = 11$ has no solution is",
+      "prashna": "$a$ का मान जिसके लिए समीकरण निकाय $ax + 10y = 9, 2x + 5y = 11$ का कोई हल नहीं है, है",
+      "options": {
+        "A": "2",
+        "B": "-2",
+        "C": "-4",
+        "D": "4"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "-2",
+        "C": "-4",
+        "D": "4"
+      }
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "By comparing the ratios $\frac{a_1}, {a_2}$, $\frac{b_1}, {b_2}$ and $\frac{c_1}, {c_2}$, find out that the following pair $3x + 12y = 5, 2x + 8y = 7$ is inconsistent.",
+      "prashna": "अनुपातों $\frac{a_1}, {a_2}, \frac{b_1}, {b_2}$ एवं $\frac{c_1}, {c_2}$ की तुलना कर ज्ञात करें कि निम्नांकित युग्म $3x + 12y = 5, 2x + 8y = 7$ असंगत है।"
+    },
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Using graphical method solve the pair of equations $3x - 5y + 1 = 0$ and $2x - y - 3 = 0$.",
+      "prashna": "ग्राफिय विधि से समीकरण युग्म $3x - 5y + 1 = 0$ एवं $2x - y - 3 = 0$ को हल करें।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Draw the graph of the pair of linear equations $3x - 5y + 1 = 0$ and $2x - y + 3 = 0$ and solve them.",
+      "prashna": "रैखिक समीकरण युग्म $3x - 5y + 1 = 0$ तथा $2x - y + 3 = 0$ का आलेख खींचें और हल करें।"
+    },
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "If $3x + 4y = 10$ and $2x - 2y = 2$ then",
+      "prashna": "यदि $3x + 4y = 10$ एवं $2x - 2y = 2$ हों तो",
+      "options": {
+        "A": "x = 2, y = 1",
+        "B": "x = 1, y = 2",
+        "C": "x = -1, y = -2",
+        "D": "x = 3, y = 1"
+      },
+      "vikalpa": {
+        "A": "x = 2, y = 1",
+        "B": "x = 1, y = 2",
+        "C": "x = -1, y = -2",
+        "D": "x = 3, y = 1"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "The pair of linear equations $\frac{3}, {2}x + \frac{5}, {3}y = 7$ and $9x - 10y = 14$ is",
+      "prashna": "रैखिक समीकरण युग्म $\frac{3}, {2}x + \frac{5}, {3}y = 7$ एवं $9x - 10y = 14$ हैं",
+      "options": {
+        "A": "consistent",
+        "B": "inconsistent",
+        "C": "dependent",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "अविरोधी",
+        "B": "विरोधी",
+        "C": "आश्रित",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "The graphs of the equations $2x + 3y + 15 = 0$ and $3x - 2y - 12 = 0$ are which type of straight lines ?",
+      "prashna": "समीकरण $2x + 3y + 15 = 0$ एवं $3x - 2y - 12 = 0$ के आलेख किस प्रकार की रेखाएँ होंगी ?",
+      "options": {
+        "A": "Coincident straight lines",
+        "B": "Parallel straight lines",
+        "C": "Intersecting straight lines",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "संपाती सरल रेखाएँ",
+        "B": "समांतर सरल रेखाएँ",
+        "C": "प्रतिच्छेदी सरल रेखाएँ",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "The system of linear equations $2x - 3y = 5$ and $4x - 6y = 7$ has",
+      "prashna": "समीकरण निकाय $2x - 3y = 5$ तथा $4x - 6y = 7$ के हल हैं",
+      "options": {
+        "A": "one and only one solution",
+        "B": "no solution",
+        "C": "infinitely many solutions",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "एक और केवल एक हल",
+        "B": "कोई हल नहीं",
+        "C": "अनगिनत हल",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "If straight lines $4x + py = 16$ and $2x + 9y = 15$ are parallel then what is the value of $p$ ?",
+      "prashna": "यदि सरल रेखाएँ $4x + py = 16$ तथा $2x + 9y = 15$ समांतर हैं तो $p$ का मान क्या होगा ?",
+      "options": {
+        "A": "\frac{1}, {3}",
+        "B": "3",
+        "C": "18",
+        "D": "-3"
+      },
+      "vikalpa": {
+        "A": "\frac{1}, {3}",
+        "B": "3",
+        "C": "18",
+        "D": "-3"
+      }
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "For what value of $k$ equations $kx + y = 1$ and $(k - 1)x + 2y = 3$ have no solution ?",
+      "prashna": "$k$ के किस मान के लिए समीकरण $kx + y = 1$ तथा $(k - 1)x + 2y = 3$ का कोई हल नहीं होगा ?"
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Write the solution of the equation $3x + y = 11$ in natural numbers.",
+      "prashna": "समीकरण $3x + y = 11$ का प्राकृत संख्याओं में हल लिखें।"
+    },
+    {
+      "id": "short_23",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "On adding 1 to the numerator of a fraction it becomes $\frac{1}, {2}$ and on adding 1 to the denominator it becomes $\frac{1}, {3}$. Write the equation for this statement.",
+      "prashna": "किसी भिन्न के अंश के साथ 1 जोड़ने पर वह $\frac{1}, {2}$ बन जाता है और हर के साथ 1 जोड़ने पर वह $\frac{1}, {3}$ बन जाता है। इस कथन का समीकरण लिखें।"
+    },
+    {
+      "id": "short_24",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Solve the pair of equations $8x + 5y = 9$ and $3x + 2y = 4$ by substitution method.",
+      "prashna": "समीकरण युग्म $8x + 5y = 9$ तथा $3x + 2y = 4$ को प्रतिस्थापन विधि से हल करें।"
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Which of the following points lies on the graph of $x = 2$?",
+      "prashna": "निम्नलिखित में कौन बिन्दु $x = 2$ के लेखाचित्र पर है?",
+      "options": {
+        "A": "$(2, 0)$",
+        "B": "$(2, 1)$",
+        "C": "$(2, 2)$",
+        "D": "all of these"
+      },
+      "vikalpa": {
+        "A": "$(2, 0)$",
+        "B": "$(2, 1)$",
+        "C": "$(2, 2)$",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_64",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "How many solutions will $x + 2y + 3 = 0, 3x + 6y + 9 = 0$ have?",
+      "prashna": "$x + 2y + 3 = 0, 3x + 6y + 9 = 0$ के कितने हल होंगे?",
+      "options": {
+        "A": "One solution",
+        "B": "No solution",
+        "C": "Infinitely many solutions",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "एक हल",
+        "B": "कोई हल नहीं",
+        "C": "अनगिनत हल",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_65",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "If the graphs of two linear equations are parallel then the number of solutions will be",
+      "prashna": "दो रैखिक समीकरणों के लेखाचित्र यदि समांतर हों तो हलों की संख्या होगी",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "infinitely many",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "2",
+        "C": "अनगिनत",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_66",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "The pair of linear equations $5x - 4y + 8 = 0$ and $7x + 6y - 9 = 0$ is",
+      "prashna": "रैखिक समीकरण युग्म $5x - 4y + 8 = 0$ एवं $7x + 6y - 9 = 0$ है",
+      "options": {
+        "A": "consistent",
+        "B": "inconsistent",
+        "C": "dependent",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "संगत",
+        "B": "असंगत",
+        "C": "आश्रित",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "The sum of two numbers is 50 and one number is $\frac{7}, {3}$ times of the other; then find the numbers.",
+      "prashna": "दो संख्याओं का योगफल 50 है एवं उसमें से एक संख्या दूसरी की $\frac{7}, {3}$ गुनी है; तो संख्याएँ ज्ञात करें।"
+    },
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Draw the graphs of the pair of linear equations $x + 3y - 6 = 0$ and $2x - 3y - 12 = 0$ and solve them.",
+      "prashna": "रैखिक समीकरण युग्म $x + 3y - 6 = 0$ तथा $2x - 3y - 12 = 0$ का आलेख खींचें तथा हल करें।"
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "A two digit number is four times of the sum of its digits and twice the product of its digits. Find the number.",
+      "prashna": "दो अंकों की एक संख्या अपने अंकों के जोड़ की चार गुनी है एवं अपने अंकों के गुणनफल की दुगुनी है तो संख्या ज्ञात करें।"
+    }
+  ]
+}
