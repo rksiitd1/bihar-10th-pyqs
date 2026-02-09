@@ -1,5 +1,207 @@
 {
+  "2018": [
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "The pair of linear equations $x + 2y = 5$ and $3x + 12y = 10$ has-",
+      "prashna": "रैखिक समीकरण युग्म $x + 2y = 5$ तथा $3x + 12y = 10$ का -",
+      "options": {
+        "A": "unique solution",
+        "B": "no solution",
+        "C": "more than one solution",
+        "D": "infinitely many solution"
+      },
+      "vikalpa": {
+        "A": "एकल हल होगा",
+        "B": "कोई हल नहीं होगा",
+        "C": "एक से अधिक हल होगा",
+        "D": "अनन्त बहुआयामी हल होंगे"
+      }
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "If $0.3x - 0.37 = 0.37x - 0.3$, then x has the value -",
+      "prashna": "यदि $0.3x - 0.37 = 0.37x - 0.3$, तो $x$ का मान है -",
+      "options": {
+        "A": "-1",
+        "B": "-2",
+        "C": "+1",
+        "D": "+2"
+      },
+      "vikalpa": {
+        "A": "-1",
+        "B": "-2",
+        "C": "+1",
+        "D": "+2"
+      }
+    },
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "If $173x + 197y = 149$ and $197x + 173y = 221$, then $(x, y)$ will be",
+      "prashna": "यदि $173x + 197y = 149$ और $197x + 173y = 221$, तो $(x, y)$ होगा -",
+      "options": {
+        "A": "$(3, -2)$",
+        "B": "$(2, 1)$",
+        "C": "$(1, -2)$",
+        "D": "$(2, -1)$"
+      },
+      "vikalpa": {
+        "A": "$(3, -2)$",
+        "B": "$(2, 1)$",
+        "C": "$(1, -2)$",
+        "D": "$(2, -1)$"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "To determine a straight line, atleast $K$ points are required. Then $K$ is equal to-",
+      "prashna": "एक सरल रेखा को खींचने (निर्धारित करने) में $K$ बिन्दु आवश्यक है, तो $K$ का मान है -",
+      "options": {
+        "A": "4",
+        "B": "3",
+        "C": "2",
+        "D": "1"
+      },
+      "vikalpa": {
+        "A": "4",
+        "B": "3",
+        "C": "2",
+        "D": "1"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "The pair of linear equations $x + 2y = 5$ and $3x + 12y = 10$ has-",
+      "prashna": "रैखिक समीकरण युग्म $x + 2y = 5$ तथा $3x + 12y = 10$ का -",
+      "options": {
+        "A": "unique solution",
+        "B": "no solution",
+        "C": "more than one solution",
+        "D": "infinitely many solution"
+      },
+      "vikalpa": {
+        "A": "एकल हल होगा",
+        "B": "कोई हल नहीं होगा",
+        "C": "एक से अधिक हल होगा",
+        "D": "अनन्त बहुआयामी हल होंगे"
+      }
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "If $0.3x - 0.37 = 0.37x - 0.3$, then $x$ has the value -",
+      "prashna": "यदि $0.3x - 0.37 = 0.37x - 0.3$, तो $x$ का मान है -",
+      "options": {
+        "A": "-1",
+        "B": "-2",
+        "C": "+1",
+        "D": "+2"
+      },
+      "vikalpa": {
+        "A": "-1",
+        "B": "-2",
+        "C": "+1",
+        "D": "+2"
+      }
+    },
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "If $173x + 197y = 149$ and $197x + 173y = 221$, then $(x, y)$ will be",
+      "prashna": "यदि $173x + 197y = 149$ और $197x + 173y = 221$, तो $(x, y)$ होगा-",
+      "options": {
+        "A": "$(3, -2)$",
+        "B": "$(2, 1)$",
+        "C": "$(1, -2)$",
+        "D": "$(2, -1)$"
+      },
+      "vikalpa": {
+        "A": "$(3, -2)$",
+        "B": "$(2, 1)$",
+        "C": "$(1, -2)$",
+        "D": "$(2, -1)$"
+      }
+    }
+  ],
   "2019": [
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Pair of equations x + 2y + 5 = 0 and -3x - 6y + 1 = 0 have-",
+      "prashna": "समीकरण युग्म x + 2y + 5 = 0 तथा -3x - 6y + 1 = 0 के हल हैं -",
+      "options": {
+        "A": "Unique solution",
+        "B": "Infinite solution",
+        "C": "No solution",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "अद्वितीय हल",
+        "B": "अनन्त हल",
+        "C": "कोई हल नहीं",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_43",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "If the equations $kx - 5y = 2$ and $6x + 2y = 7$ have no solutions, then-",
+      "prashna": "यदि समीकरण $kx - 5y = 2$ तथा $6x + 2y = 7$ के कोई हल न हों, तो -",
+      "options": {
+        "A": "k = -10",
+        "B": "k = -5",
+        "C": "k = -6",
+        "D": "k = -15"
+      },
+      "vikalpa": {
+        "A": "k = -10",
+        "B": "k = -5",
+        "C": "k = -6",
+        "D": "k = -15"
+      }
+    },
+    {
+      "id": "obj_45",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "If the graph of two linear equations in two variables is intersecting lines, then the number of solutions is -",
+      "prashna": "दो चर में दो एकघातीय समीकरणों के ग्राफ यदि प्रतिच्छेदी रेखाएँ हों, तो हलों की संख्या है-",
+      "options": {
+        "A": "Only one",
+        "B": "No solution",
+        "C": "Infinite solutions",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "सिर्फ एक",
+        "B": "कोई हल नहीं",
+        "C": "अनन्त हल",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
     {
       "id": "obj_2",
       "type": "objective",
@@ -930,6 +1132,86 @@
         "B": "असंगत",
         "C": "आश्रित",
         "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "How many solutions will $2x - 3y + 1 = 0$, $3x + y + 2 = 0$ have ?",
+      "prashna": "$2x - 3y + 1 = 0$, $3x + y + 2 = 0$ के कितने हल होंगे ?",
+      "options": {
+        "A": "One solution",
+        "B": "No solution",
+        "C": "Infinitely many solutions",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "एक हल",
+        "B": "कोई हल नहीं",
+        "C": "अनगिनत हल",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "If the graphs of two linear equations intersect, what will be the number of solutions ?",
+      "prashna": "दो रैखिक समीकरणों के लेखाचित्र यदि प्रतिच्छेदी हों तो हलों की संख्या कितनी होगी ?",
+      "options": {
+        "A": "2",
+        "B": "1",
+        "C": "infinitely many",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "1",
+        "C": "अनगिनत",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "The pair of linear equations $6x - 3y + 10 = 0$ and $2x - y + 9 = 0$ is",
+      "prashna": "रैखिक समीकरण युग्म $6x - 3y + 10 = 0$ एवं $2x - y + 9 = 0$ हैं",
+      "options": {
+        "A": "consistent",
+        "B": "inconsistent",
+        "C": "dependent",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "अविरोधी",
+        "B": "विरोधी",
+        "C": "आश्रित",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_57",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Which of the following points lies on the graph of $x = 5$ ?",
+      "prashna": "निम्नलिखित में कौन बिन्दु $x = 5$ के लेखाचित्र पर है ?",
+      "options": {
+        "A": "$(5, 0)$",
+        "B": "$(5, 2)$",
+        "C": "$(5, 3)$",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "$(5, 0)$",
+        "B": "$(5, 2)$",
+        "C": "$(5, 3)$",
+        "D": "इनमें से सभी"
       }
     }
   ]

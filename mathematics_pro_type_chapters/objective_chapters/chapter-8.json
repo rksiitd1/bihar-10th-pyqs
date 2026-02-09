@@ -1,5 +1,573 @@
 {
+  "2015": [
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "$\\sqrt{3}$ is the value of",
+      "prashna": "$\\sqrt{3}$ मान है",
+      "options": {
+        "A": "$\tan 60^\\circ$",
+        "B": "$\\cos 45^\\circ$",
+        "C": "$\\sin 30^\\circ$",
+        "D": "$1/\\sin 45^\\circ$"
+      },
+      "vikalpa": {
+        "A": "$\tan 60^\\circ$",
+        "B": "$\\cos 45^\\circ$",
+        "C": "$\\sin 30^\\circ$",
+        "D": "$1/\\sin 45^\\circ$"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "$9\\sec^2 a - 9\tan^2 a$ is equal to",
+      "prashna": "$9\\sec^2 a - 9\tan^2 a$ बराबर है",
+      "options": {
+        "A": "1",
+        "B": "9",
+        "C": "8",
+        "D": "0"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "9",
+        "C": "8",
+        "D": "0"
+      }
+    }
+  ],
+  "2016": [
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "$\\sec^2 \theta - 1$ is equal to",
+      "prashna": "$\\sec^2 \theta - 1$ का मान है",
+      "options": {
+        "A": "$\\csc^2 \theta$",
+        "B": "$\\sin^2 \theta$",
+        "C": "$\tan^2 \theta$",
+        "D": "$\\cot^2 \theta$"
+      },
+      "vikalpa": {
+        "A": "$\\csc^2 \theta$",
+        "B": "$\\sin^2 \theta$",
+        "C": "$\tan^2 \theta$",
+        "D": "$\\cot^2 \theta$"
+      }
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "The value of $\\sin \frac{\\pi}, {4} - \\cos \frac{\\pi}, {4}$ will be",
+      "prashna": "$\\sin \frac{\\pi}, {4} - \\cos \frac{\\pi}, {4}$ का मान होगा",
+      "options": {
+        "A": "2",
+        "B": "0",
+        "C": "-1",
+        "D": "1"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "0",
+        "C": "-1",
+        "D": "1"
+      }
+    }
+  ],
+  "2017": [
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "The value of $1 + \\cot^2 \theta$ will be-",
+      "prashna": "$1 + \\cot^2 \theta$ का मान होगा-",
+      "options": {
+        "A": "$\\sec^2 \theta$",
+        "B": "$\\csc^2 \theta$",
+        "C": "$\tan^2 \theta$",
+        "D": "$\\cot^2 \theta$"
+      },
+      "vikalpa": {
+        "A": "$\\sec^2 \theta$",
+        "B": "$\\csc^2 \theta$",
+        "C": "$\tan^2 \theta$",
+        "D": "$\\cot^2 \theta$"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "The value of $\\cos \frac{\\pi}, {3}$ will be-",
+      "prashna": "$\\cos \frac{\\pi}, {3}$ का मान होगा-",
+      "options": {
+        "A": "1/2",
+        "B": "$1/\\sqrt{3}$",
+        "C": "$\\sqrt{3}/2$",
+        "D": "$\\sqrt{3}$"
+      },
+      "vikalpa": {
+        "A": "1/2",
+        "B": "$1/\\sqrt{3}$",
+        "C": "$\\sqrt{3}/2$",
+        "D": "$\\sqrt{3}$"
+      }
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If $\\sqrt{3}\tan \theta - 1 = 0$, then the value of $\theta$ is-",
+      "prashna": "यदि $\\sqrt{3}\tan \theta - 1 = 0$ हो, तो $\theta$ का मान है-",
+      "options": {
+        "A": "$30^\\circ$",
+        "B": "$60^\\circ$",
+        "C": "$45^\\circ$",
+        "D": "$90^\\circ$"
+      },
+      "vikalpa": {
+        "A": "$30^\\circ$",
+        "B": "$60^\\circ$",
+        "C": "$45^\\circ$",
+        "D": "$90^\\circ$"
+      }
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If $\\sin \theta = \\cos \theta$, then which of the following is the value of $\theta$-",
+      "prashna": "यदि $\\sin \theta = \\cos \theta$ हो, तो निम्नांकित में $\theta$ का मान कौन-सा है-",
+      "options": {
+        "A": "$30^\\circ$",
+        "B": "$45^\\circ$",
+        "C": "$60^\\circ$",
+        "D": "$90^\\circ$"
+      },
+      "vikalpa": {
+        "A": "$30^\\circ$",
+        "B": "$45^\\circ$",
+        "C": "$60^\\circ$",
+        "D": "$90^\\circ$"
+      }
+    }
+  ],
+  "2018": [
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If $\\sqrt{3} \tan \theta = 3 \\sin \theta$, then $\\sin^2 \theta - \\cos^2 \theta$ is equal to -",
+      "prashna": "यदि $\\sqrt{3} \tan \theta = 3 \\sin \theta$ तब $\\sin^2 \theta - \\cos^2 \theta$ बराबर है -",
+      "options": {
+        "A": "$\\sqrt{3}$",
+        "B": "2/3",
+        "C": "1/3",
+        "D": "$1/\\sqrt{3}$"
+      },
+      "vikalpa": {
+        "A": "$\\sqrt{3}$",
+        "B": "2/3",
+        "C": "1/3",
+        "D": "$1/\\sqrt{3}$"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If $7 \\sin^2 \theta + 3 \\cos^2 \theta = 4$, then $\\sec \theta + \\csc \theta$ is equal to -",
+      "prashna": "यदि $7 \\sin^2 \theta + 3 \\cos^2 \theta = 4$ तब $\\sec \theta + \\csc \theta$ बराबर है -",
+      "options": {
+        "A": "$\frac{2}, {\\sqrt{3}} - 2$",
+        "B": "$\frac{2}, {\\sqrt{3}} + 2$",
+        "C": "2/3",
+        "D": "$\\sqrt{3}/2$"
+      },
+      "vikalpa": {
+        "A": "$\frac{2}, {\\sqrt{3}} - 2$",
+        "B": "$\frac{2}, {\\sqrt{3}} + 2$",
+        "C": "2/3",
+        "D": "$\\sqrt{3}/2$"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If $5 \\cot \theta = 3$, then $\frac{5 \\sin \theta - 3 \\cos \theta}, {4 \\sin \theta + 3 \\cos \theta}$ is equal to -",
+      "prashna": "यदि $5 \\cot \theta = 3$ तब $\frac{5 \\sin \theta - 3 \\cos \theta}, {4 \\sin \theta + 3 \\cos \theta}$ बराबर है -",
+      "options": {
+        "A": "11/18",
+        "B": "16/29",
+        "C": "14/27",
+        "D": "11/29"
+      },
+      "vikalpa": {
+        "A": "11/18",
+        "B": "16/29",
+        "C": "14/27",
+        "D": "11/29"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If $\\sin x^\\circ = \\sin \\alpha$, then $\\alpha$ is -",
+      "prashna": "यदि $\\sin x^\\circ = \\sin \\alpha$ तब $\\alpha$ है -",
+      "options": {
+        "A": "$\frac{180}, {\\pi}$",
+        "B": "$\frac{\\pi}, {270}$",
+        "C": "$\frac{270}, {\\pi}$",
+        "D": "$\frac{\\pi}, {180}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{180}, {\\pi}$",
+        "B": "$\frac{\\pi}, {270}$",
+        "C": "$\frac{270}, {\\pi}$",
+        "D": "$\frac{\\pi}, {180}$"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "The value of $\tan 15^\\circ \\cdot \tan 20^\\circ \\cdot \tan 70^\\circ \\cdot \tan 75^\\circ$ is -",
+      "prashna": "$\tan 15^\\circ \\cdot \tan 20^\\circ \\cdot \tan 70^\\circ \\cdot \tan 75^\\circ$ का मान होगा -",
+      "options": {
+        "A": "-1",
+        "B": "2",
+        "C": "0",
+        "D": "1"
+      },
+      "vikalpa": {
+        "A": "-1",
+        "B": "2",
+        "C": "0",
+        "D": "1"
+      }
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If $\\sqrt{3}\tan\theta = 3\\sin\theta$, then $\\sin^2\theta - \\cos^2\theta$ is equal to -",
+      "prashna": "यदि $\\sqrt{3}\tan\theta = 3\\sin\theta$ तब $\\sin^2\theta - \\cos^2\theta$ बराबर है -",
+      "options": {
+        "A": "$\\sqrt{3}$",
+        "B": "$\frac{2}, {3}$",
+        "C": "$\frac{1}, {3}$",
+        "D": "$\frac{1}, {\\sqrt{3}}$"
+      },
+      "vikalpa": {
+        "A": "$\\sqrt{3}$",
+        "B": "$\frac{2}, {3}$",
+        "C": "$\frac{1}, {3}$",
+        "D": "$\frac{1}, {\\sqrt{3}}$"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If $7\\sin^2\theta + 3\\cos^2\theta = 4$, then $\\sec\theta + \\csc\theta$ is equal to -",
+      "prashna": "यदि $7\\sin^2\theta + 3\\cos^2\theta = 4$ तब $\\sec\theta + \\csc\theta$ बराबर है -",
+      "options": {
+        "A": "$\frac{2}, {\\sqrt{3}} - 2$",
+        "B": "$\frac{2}, {\\sqrt{3}} + 2$",
+        "C": "$\frac{2}, {\\sqrt{3}}$",
+        "D": "$\frac{\\sqrt{3}}, {2}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{2}, {\\sqrt{3}} - 2$",
+        "B": "$\frac{2}, {\\sqrt{3}} + 2$",
+        "C": "$\frac{2}, {\\sqrt{3}}$",
+        "D": "$\frac{\\sqrt{3}}, {2}$"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If $5\\cot\theta = 3$, then $\frac{5\\sin\theta - 3\\cos\theta}, {4\\sin\theta + 3\\cos\theta}$ is equal to -",
+      "prashna": "यदि $5\\cot\theta = 3$ तब $\frac{5\\sin\theta - 3\\cos\theta}, {4\\sin\theta + 3\\cos\theta}$ बराबर है -",
+      "options": {
+        "A": "$\frac{11}, {18}$",
+        "B": "$\frac{16}, {29}$",
+        "C": "$\frac{14}, {27}$",
+        "D": "$\frac{11}, {29}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{11}, {18}$",
+        "B": "$\frac{16}, {29}$",
+        "C": "$\frac{14}, {27}$",
+        "D": "$\frac{11}, {29}$"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If $\\sin x^\\circ = \\sin \\alpha$, then $\\alpha$ is -",
+      "prashna": "यदि $\\sin x^\\circ = \\sin \\alpha$ तब $\\alpha$ है -",
+      "options": {
+        "A": "$\frac{180}, {\\pi}$",
+        "B": "$\frac{\\pi}, {270}$",
+        "C": "$\frac{270}, {\\pi}$",
+        "D": "$\frac{\\pi}, {180}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{180}, {\\pi}$",
+        "B": "$\frac{\\pi}, {270}$",
+        "C": "$\frac{270}, {\\pi}$",
+        "D": "$\frac{\\pi}, {180}$"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "The value of $\tan 15^\\circ \\cdot \tan 20^\\circ \\cdot \tan 70^\\circ \\cdot \tan 75^\\circ$ -",
+      "prashna": "$\tan 15^\\circ \\cdot \tan 20^\\circ \\cdot \tan 70^\\circ \\cdot \tan 75^\\circ$ का मान होगा-",
+      "options": {
+        "A": "-1",
+        "B": "2",
+        "C": "0",
+        "D": "1"
+      },
+      "vikalpa": {
+        "A": "-1",
+        "B": "2",
+        "C": "0",
+        "D": "1"
+      }
+    }
+  ],
   "2019": [
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If A, B, C are angles of a triangle, then $\\sin \\left( \frac{B+C}, {2} \right)$ is equal to -",
+      "prashna": "यदि A, B, C किसी त्रिभुज के कोण हों, तो $\\sin \\left( \frac{B+C}, {2} \right)$ बराबर है-",
+      "options": {
+        "A": "$\tan \frac{A}, {2}$",
+        "B": "$\\sin \frac{A}, {2}$",
+        "C": "$\\cos \frac{A}, {2}$",
+        "D": "$\\sec \frac{A}, {2}$"
+      },
+      "vikalpa": {
+        "A": "$\tan \frac{A}, {2}$",
+        "B": "$\\sin \frac{A}, {2}$",
+        "C": "$\\cos \frac{A}, {2}$",
+        "D": "$\\sec \frac{A}, {2}$"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If $\tan \theta = \frac{3}, {4}$, then the value of $\\sin \theta$ is -",
+      "prashna": "यदि $\tan \theta = \frac{3}, {4}$ हो, तो $\\sin \theta$ का मान है -",
+      "options": {
+        "A": "$\frac{4}, {5}$",
+        "B": "$\frac{2}, {3}$",
+        "C": "$\frac{4}, {3}$",
+        "D": "$\frac{3}, {5}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{4}, {5}$",
+        "B": "$\frac{2}, {3}$",
+        "C": "$\frac{4}, {3}$",
+        "D": "$\frac{3}, {5}$"
+      }
+    },
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "$\frac{\\sin 18^\\circ}, {\\cos 72^\\circ} =$",
+      "prashna": "$\frac{\\sin 18^\\circ}, {\\cos 72^\\circ} =$",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "$\\infty$"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "$\\infty$"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If $5\\cos \theta = 3$, then the value of $3\tan \theta$ will be -",
+      "prashna": "यदि $5\\cos \theta = 3$, तो $3\tan \theta$ का मान होगा-",
+      "options": {
+        "A": "3",
+        "B": "5",
+        "C": "4",
+        "D": "7"
+      },
+      "vikalpa": {
+        "A": "3",
+        "B": "5",
+        "C": "4",
+        "D": "7"
+      }
+    },
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "$\\cos(90^\\circ - A) =$",
+      "prashna": "$\\cos(90^\\circ - A) =$",
+      "options": {
+        "A": "$\\cot A$",
+        "B": "$\\sin A$",
+        "C": "$\tan A$",
+        "D": "$\\sec A$"
+      },
+      "vikalpa": {
+        "A": "$\\cot A$",
+        "B": "$\\sin A$",
+        "C": "$\tan A$",
+        "D": "$\\sec A$"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "$\\cos 1^\\circ \\cos 2^\\circ \\cos 3^\\circ \\dots \\cos 90^\\circ =$",
+      "prashna": "$\\cos 1^\\circ \\cos 2^\\circ \\cos 3^\\circ \\dots \\cos 90^\\circ =$",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "$\\sqrt{2}$"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "$\\sqrt{2}$"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If $\\sin \theta = \\cos \theta$, then $\theta$ is equal to-",
+      "prashna": "यदि $\\sin \theta = \\cos \theta$, तो $\theta$ किसके बराबर है?",
+      "options": {
+        "A": "$45^\\circ$",
+        "B": "$30^\\circ$",
+        "C": "$90^\\circ$",
+        "D": "$60^\\circ$"
+      },
+      "vikalpa": {
+        "A": "$45^\\circ$",
+        "B": "$30^\\circ$",
+        "C": "$90^\\circ$",
+        "D": "$60^\\circ$"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "$\\sin^2 \theta + \\cos^2 \theta =$",
+      "prashna": "$\\sin^2 \theta + \\cos^2 \theta =$",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "0",
+        "D": "-1"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "2",
+        "C": "0",
+        "D": "-1"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "Which of the following is equal to $\\cot \theta$?",
+      "prashna": "निम्न में से कौन $\\cot \theta$ के बराबर है?",
+      "options": {
+        "A": "$\frac{\\sin \theta}, {\\cos \theta}$",
+        "B": "$\frac{\\cos \theta}, {\\sin \theta}$",
+        "C": "$\frac{1}, {\\sec \theta}$",
+        "D": "$\frac{1}, {\\sin \theta}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{\\sin \theta}, {\\cos \theta}$",
+        "B": "$\frac{\\cos \theta}, {\\sin \theta}$",
+        "C": "$\frac{1}, {\\sec \theta}$",
+        "D": "$\frac{1}, {\\sin \theta}$"
+      }
+    },
+    {
+      "id": "obj_49",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "Value of $\tan^2 60^\\circ$ is-",
+      "prashna": "$\tan^2 60^\\circ$ का मान है -",
+      "options": {
+        "A": "1",
+        "B": "3",
+        "C": "$\frac{1}, {\\sqrt{3}}$",
+        "D": "$\frac{1}, {3}$"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "3",
+        "C": "$\frac{1}, {\\sqrt{3}}$",
+        "D": "$\frac{1}, {3}$"
+      }
+    },
     {
       "id": "obj_9",
       "type": "objective",
@@ -3430,6 +3998,446 @@
         "B": "0",
         "C": "1",
         "D": "2"
+      }
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "$\\sin 33^\\circ \\cdot \\cos 57^\\circ + \\sin 57^\\circ \\cdot \\cos 33^\\circ =$",
+      "prashna": "$\\sin 33^\\circ \\cdot \\cos 57^\\circ + \\sin 57^\\circ \\cdot \\cos 33^\\circ =$",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "- 1",
+        "D": "$\frac{1}, {2}$"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "1",
+        "C": "- 1",
+        "D": "$\frac{1}, {2}$"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If $\\sin \theta + \\sin^2 \theta = 1$ then the value of $\\cos^2 \theta + \\cos^4 \theta$ is",
+      "prashna": "यदि $\\sin \theta + \\sin^2 \theta = 1$ हो तो $\\cos^2 \theta + \\cos^4 \theta$ का मान है",
+      "options": {
+        "A": "- 1",
+        "B": "1",
+        "C": "0",
+        "D": "2"
+      },
+      "vikalpa": {
+        "A": "- 1",
+        "B": "1",
+        "C": "0",
+        "D": "2"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "$\frac{\tan \theta}, {\\sec \theta - 1} + \frac{\tan \theta}, {\\sec \theta + 1} =$",
+      "prashna": "$\frac{\tan \theta}, {\\sec \theta - 1} + \frac{\tan \theta}, {\\sec \theta + 1} =$",
+      "options": {
+        "A": "$2 \tan \theta$",
+        "B": "$2 \\sec \theta$",
+        "C": "$2 \text{ cosec } \theta$",
+        "D": "$2 \tan \theta \\sec \theta$"
+      },
+      "vikalpa": {
+        "A": "$2 \tan \theta$",
+        "B": "$2 \\sec \theta$",
+        "C": "$2 \text{ cosec } \theta$",
+        "D": "$2 \tan \theta \\sec \theta$"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "Which of the following values is equal to 1 ?",
+      "prashna": "निम्नलिखित में किसका मान 1 के बराबर है ?",
+      "options": {
+        "A": "$\\sin^2 45^\\circ + \\cos^2 45^\\circ$",
+        "B": "$\\sin 0^\\circ \times \\cos 0^\\circ$",
+        "C": "$\\cos^2 60^\\circ$",
+        "D": "$\\sin 30^\\circ \times \frac{1}, {\\cos 30^\\circ}$"
+      },
+      "vikalpa": {
+        "A": "$\\sin^2 45^\\circ + \\cos^2 45^\\circ$",
+        "B": "$\\sin 0^\\circ \times \\cos 0^\\circ$",
+        "C": "$\\cos^2 60^\\circ$",
+        "D": "$\\sin 30^\\circ \times \frac{1}, {\\cos 30^\\circ}$"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "$(1 + \tan^2 \theta) \\sin^2 \theta =$",
+      "prashna": "$(1 + \tan^2 \theta) \\sin^2 \theta =$",
+      "options": {
+        "A": "$\\cos^2 \theta$",
+        "B": "$\\cot^2 \theta$",
+        "C": "$\tan^2 \theta$",
+        "D": "$\\sec^2 \theta$"
+      },
+      "vikalpa": {
+        "A": "$\\cos^2 \theta$",
+        "B": "$\\cot^2 \theta$",
+        "C": "$\tan^2 \theta$",
+        "D": "$\\sec^2 \theta$"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "$\tan 45^\\circ =$",
+      "prashna": "$\tan 45^\\circ =$",
+      "options": {
+        "A": "$\\sqrt{3}$",
+        "B": "$\frac{1}, {\\sqrt{3}}$",
+        "C": "1",
+        "D": "$\frac{1}, {2}$"
+      },
+      "vikalpa": {
+        "A": "$\\sqrt{3}$",
+        "B": "$\frac{1}, {\\sqrt{3}}$",
+        "C": "1",
+        "D": "$\frac{1}, {2}$"
+      }
+    },
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "$\\sec 60^\\circ =$",
+      "prashna": "$\\sec 60^\\circ =$",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "$\\sqrt{2}$",
+        "D": "$\frac{1}, {\\sqrt{2}}$"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "2",
+        "C": "$\\sqrt{2}$",
+        "D": "$\frac{1}, {\\sqrt{2}}$"
+      }
+    },
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "$\\sin^2 30^\\circ - \\cos^2 60^\\circ =$",
+      "prashna": "$\\sin^2 30^\\circ - \\cos^2 60^\\circ =$",
+      "options": {
+        "A": "1",
+        "B": "- 1",
+        "C": "0",
+        "D": "2"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "- 1",
+        "C": "0",
+        "D": "2"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "$6 \\sec^2 A - 6 \tan^2 A =$",
+      "prashna": "$6 \\sec^2 A - 6 \tan^2 A =$",
+      "options": {
+        "A": "36",
+        "B": "6",
+        "C": "12",
+        "D": "0"
+      },
+      "vikalpa": {
+        "A": "36",
+        "B": "6",
+        "C": "12",
+        "D": "0"
+      }
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If $a = x \\cos \theta$ and $b = y \\sin \theta$ then $y^2 a^2 + x^2 b^2 =$",
+      "prashna": "यदि $a = x \\cos \theta$ और $b = y \\sin \theta$ तो $y^2 a^2 + x^2 b^2 =$",
+      "options": {
+        "A": "$xy$",
+        "B": "$x^2 y^2$",
+        "C": "$x^4 y^4$",
+        "D": "$x^2 + y^2$"
+      },
+      "vikalpa": {
+        "A": "$xy$",
+        "B": "$x^2 y^2$",
+        "C": "$x^4 y^4$",
+        "D": "$x^2 + y^2$"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "$\tan 40^\\circ \\cdot \tan 20^\\circ \\cdot \tan 50^\\circ \\cdot \tan 70^\\circ =$",
+      "prashna": "$\tan 40^\\circ \\cdot \tan 20^\\circ \\cdot \tan 50^\\circ \\cdot \tan 70^\\circ =$",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "$\\sqrt{3}$",
+        "D": "$\frac{1}, {\\sqrt{3}}$"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "1",
+        "C": "$\\sqrt{3}$",
+        "D": "$\frac{1}, {\\sqrt{3}}$"
+      }
+    },
+    {
+      "id": "obj_73",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "$\\sqrt{\frac{1 - \\cos \theta}, {1 + \\cos \theta}} =$",
+      "prashna": "$\\sqrt{\frac{1 - \\cos \theta}, {1 + \\cos \theta}} =$",
+      "options": {
+        "A": "$\\sec \theta - \tan \theta$",
+        "B": "$\\cos \theta - \\sin \theta$",
+        "C": "$\text{cosec } \theta - \\cot \theta$",
+        "D": "$\tan \theta - \\cot \theta$"
+      },
+      "vikalpa": {
+        "A": "$\\sec \theta - \tan \theta$",
+        "B": "$\\cos \theta - \\sin \theta$",
+        "C": "$\text{cosec } \theta - \\cot \theta$",
+        "D": "$\tan \theta - \\cot \theta$"
+      }
+    },
+    {
+      "id": "obj_89",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "$\\sin 45^\\circ + \\cos 45^\\circ =$",
+      "prashna": "$\\sin 45^\\circ + \\cos 45^\\circ =$",
+      "options": {
+        "A": "$\frac{1}, {\\sqrt{2}}$",
+        "B": "$\\sqrt{2}$",
+        "C": "$\frac{\\sqrt{3}}, {2}$",
+        "D": "1"
+      },
+      "vikalpa": {
+        "A": "$\frac{1}, {\\sqrt{2}}$",
+        "B": "$\\sqrt{2}$",
+        "C": "$\frac{\\sqrt{3}}, {2}$",
+        "D": "1"
+      }
+    },
+    {
+      "id": "obj_91",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "$\tan(90^\\circ - x) =$",
+      "prashna": "$\tan(90^\\circ - x) =$",
+      "options": {
+        "A": "$\\cos x$",
+        "B": "$\\sin x$",
+        "C": "$\\cot x$",
+        "D": "$\\sec x$"
+      },
+      "vikalpa": {
+        "A": "$\\cos x$",
+        "B": "$\\sin x$",
+        "C": "$\\cot x$",
+        "D": "$\\sec x$"
+      }
+    },
+    {
+      "id": "obj_92",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If $\\alpha = 60^\\circ$ and $\beta = 30^\\circ$ then the value of $\\sin(\\alpha - \beta)$ is",
+      "prashna": "यदि $\\alpha = 60^\\circ$ तथा $\beta = 30^\\circ$ हो तो $\\sin(\\alpha - \beta)$ का मान है",
+      "options": {
+        "A": "$\frac{1}, {\\sqrt{2}}$",
+        "B": "$\frac{1}, {2}$",
+        "C": "$\frac{\\sqrt{3}}, {2}$",
+        "D": "1"
+      },
+      "vikalpa": {
+        "A": "$\frac{1}, {\\sqrt{2}}$",
+        "B": "$\frac{1}, {2}$",
+        "C": "$\frac{\\sqrt{3}}, {2}$",
+        "D": "1"
+      }
+    },
+    {
+      "id": "obj_93",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If $\theta = 45^\\circ$ then the value of $\tan \theta + \\cot \theta$ is",
+      "prashna": "यदि $\theta = 45^\\circ$ तो $\tan \theta + \\cot \theta$ का मान है",
+      "options": {
+        "A": "1",
+        "B": "$\frac{1}, {\\sqrt{3}}$",
+        "C": "2",
+        "D": "$\frac{1}, {2}$"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "$\frac{1}, {\\sqrt{3}}$",
+        "C": "2",
+        "D": "$\frac{1}, {2}$"
+      }
+    },
+    {
+      "id": "obj_94",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If $A = 60^\\circ$ then the value of $\frac{2 \tan A}, {1 - \tan^2 A}$ is",
+      "prashna": "यदि $A = 60^\\circ$ हो तो $\frac{2 \tan A}, {1 - \tan^2 A}$ का मान है",
+      "options": {
+        "A": "$\\sqrt{3}$",
+        "B": "$-\\sqrt{3}$",
+        "C": "$\frac{1}, {\\sqrt{3}}$",
+        "D": "$-\frac{1}, {\\sqrt{3}}$"
+      },
+      "vikalpa": {
+        "A": "$\\sqrt{3}$",
+        "B": "$-\\sqrt{3}$",
+        "C": "$\frac{1}, {\\sqrt{3}}$",
+        "D": "$-\frac{1}, {\\sqrt{3}}$"
+      }
+    },
+    {
+      "id": "obj_95",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If $\tan \theta = \frac{12}, {5}$ then the value of $\\cos \theta$ is",
+      "prashna": "यदि $\tan \theta = \frac{12}, {5}$ हो तो $\\cos \theta$ का मान है",
+      "options": {
+        "A": "$\frac{5}, {12}$",
+        "B": "$\frac{5}, {13}$",
+        "C": "$\frac{13}, {5}$",
+        "D": "$\frac{12}, {13}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{5}, {12}$",
+        "B": "$\frac{5}, {13}$",
+        "C": "$\frac{13}, {5}$",
+        "D": "$\frac{12}, {13}$"
+      }
+    },
+    {
+      "id": "obj_96",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "$\frac{\\cos 49^\\circ}, {\\sin 41^\\circ} \times \frac{\tan 70^\\circ}, {\\cot 20^\\circ} =$",
+      "prashna": "$\frac{\\cos 49^\\circ}, {\\sin 41^\\circ} \times \frac{\tan 70^\\circ}, {\\cot 20^\\circ} =$",
+      "options": {
+        "A": "- 1",
+        "B": "0",
+        "C": "1",
+        "D": "2"
+      },
+      "vikalpa": {
+        "A": "- 1",
+        "B": "0",
+        "C": "1",
+        "D": "2"
+      }
+    },
+    {
+      "id": "obj_97",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If $\tan 35^\\circ \times \tan 55^\\circ = \\sin A$ then the value of $A$ is",
+      "prashna": "यदि $\tan 35^\\circ \times \tan 55^\\circ = \\sin A$ हो तो $A$ का मान है",
+      "options": {
+        "A": "35^\\circ",
+        "B": "55^\\circ",
+        "C": "90^\\circ",
+        "D": "45^\\circ"
+      },
+      "vikalpa": {
+        "A": "35^\\circ",
+        "B": "55^\\circ",
+        "C": "90^\\circ",
+        "D": "45^\\circ"
+      }
+    },
+    {
+      "id": "obj_98",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If $\\sin \theta = P$ then $\\sec \theta =$",
+      "prashna": "यदि $\\sin \theta = P$ हो तो $\\sec \theta =$",
+      "options": {
+        "A": "$\\sqrt{1 + P^2}$",
+        "B": "$\frac{1}, {\\sqrt{1 - P^2}}$",
+        "C": "$\frac{P}, {\\sqrt{1 - P^2}}$",
+        "D": "$\frac{1}, {\\sqrt{1 + P^2}}$"
+      },
+      "vikalpa": {
+        "A": "$\\sqrt{1 + P^2}$",
+        "B": "$\frac{1}, {\\sqrt{1 - P^2}}$",
+        "C": "$\frac{P}, {\\sqrt{1 - P^2}}$",
+        "D": "$\frac{1}, {\\sqrt{1 + P^2}}$"
+      }
+    },
+    {
+      "id": "obj_99",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "$(1 + \\cot^2 \theta)(1 - \\cos^2 \theta) =$",
+      "prashna": "$(1 + \\cot^2 \theta)(1 - \\cos^2 \theta) =$",
+      "options": {
+        "A": "$\\sin^2 \theta$",
+        "B": "$\tan^2 \theta$",
+        "C": "$\\cos^2 \theta$",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "$\\sin^2 \theta$",
+        "B": "$\tan^2 \theta$",
+        "C": "$\\cos^2 \theta$",
+        "D": "इनमें से कोई नहीं"
       }
     }
   ]

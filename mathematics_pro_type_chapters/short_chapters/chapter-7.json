@@ -1,5 +1,216 @@
 {
+  "2015": [
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Coordinate Geometry",
+      "question": "Point $(-5, -3)$ lies in the _______ quadrant.",
+      "prashna": "बिन्दु $(-5, -3)$ _______ चतुर्थांश में पड़ता है।"
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Coordinate Geometry",
+      "question": "Coordinate of any point on x-axis is _______.",
+      "prashna": "$x$-अक्ष पर किसी बिन्दु का निर्देशांक _______ होता है।"
+    },
+    {
+      "id": "short_15",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Coordinate Geometry",
+      "question": "Find the value of $y$ for which the distance between the points $P(2, -3)$ and $Q(10, y)$ is 10 unit.",
+      "prashna": "$y$ का मान निकालें जिसके लिए बिन्दुओं $P(2, -3)$ और $Q(10, y)$ के बीच की दूरी 10 मात्रक है।",
+      "marks": 2
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Coordinate Geometry",
+      "question": "Find the centroid of the triangle, whose vertices are $(3, -5), (-7, 4)$ and $(10, -2)$.",
+      "prashna": "उस त्रिभुज का केन्द्रक निकालें जिनके शीर्ष $(3, -5), (-7, 4)$ तथा $(10, -2)$ हैं।",
+      "marks": 2
+    },
+    {
+      "id": "short_27",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Coordinate Geometry",
+      "question": "Find the point on x-axis which is equidistant from the points $(2, -5)$ and $(-2, 9)$.",
+      "prashna": "$x$-अक्ष पर वह बिन्दु ज्ञात करें जो बिन्दुओं $(2, -5)$ और $(-2, 9)$ से समदूरस्थ हो।",
+      "marks": 3
+    }
+  ],
+  "2016": [
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Coordinate Geometry",
+      "question": "Distance of $P(3, -4)$ from the origin will be __________.",
+      "prashna": "मूल बिन्दु से $P(3, -4)$ की दूरी __________ होगी।"
+    },
+    {
+      "id": "short_19",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Coordinate Geometry",
+      "question": "The value of the ordinate of a point $(4, -5)$ situated in Cartesian plane will be __________.",
+      "prashna": "कार्तीय तल में किसी बिन्दु $(4, -5)$ के कोटि का मान __________ होगा।"
+    },
+    {
+      "id": "short_26",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Coordinate Geometry",
+      "question": "Find the distance between points $(0, 0)$ and $(36, 15)$.",
+      "prashna": "बिन्दुओं $(0, 0)$ और $(36, 15)$ के बीच की दूरी ज्ञात करें।"
+    },
+    {
+      "id": "short_27",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Coordinate Geometry",
+      "question": "If points $A(2, 3)$, $B(4, k)$ and $C(6, -3)$ are collinear, then find the value of $k$.",
+      "prashna": "$k$ का मान ज्ञात करें, यदि बिन्दु $A(2, 3)$, $B(4, k)$ तथा $C(6, -3)$ संरेख हैं।"
+    },
+    {
+      "id": "short_37",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Coordinate Geometry",
+      "question": "Find the coordinate of that point, which divides the line joining the points $(-1, 7)$ and $(4, -3)$ in the ratio $2 : 3$.",
+      "prashna": "उस बिन्दु के निर्देशांक ज्ञात करें, जो बिन्दुओं $(-1, 7)$ तथा $(4, -3)$ को मिलाने वाले रेखाखण्ड को $2 : 3$ के अनुपात में विभाजित करता है।"
+    }
+  ],
+  "2017": [
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Coordinate Geometry",
+      "question": "The co-ordinates of middle point of line joining points $(x_1, y_1)$ and $(x_2, y_2)$ will be ................",
+      "prashna": "बिन्दु $(x_1, y_1)$ और $(x_2, y_2)$ को मिलाने वाली रेखा के मध्य बिन्दु का निर्देशांक होगा ................"
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Coordinate Geometry",
+      "question": "The distance between $(a, b)$ and $(-a, -b)$ will be ................",
+      "prashna": "बिन्दु $(a, b)$ और $(-a, -b)$ के बीच की दूरी होगी ................"
+    },
+    {
+      "id": "short_15",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Coordinate Geometry",
+      "question": "Find the area of $\\Delta ABC$ whose vertices are $A(5, 2), B(4, 7)$ and $(-7, -4)$",
+      "prashna": "बिन्दुओं $A(5, 2), B(4, 7)$ और $(-7, -4)$ से बनने वाले $\\Delta ABC$ का क्षेत्रफल ज्ञात करें ।"
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Coordinate Geometry",
+      "question": "Find the centroid of a triangle whose vertices are $(3, -5), (-7, 4)$ and $(10, -2)$.",
+      "prashna": "उस त्रिभुज का केन्द्रक ज्ञात करें जिनके शीर्ष $(3, -5), (-7, 4)$ तथा $(10, -2)$ हैं ।"
+    },
+    {
+      "id": "short_27",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Coordinate Geometry",
+      "question": "If points $A(2, 3), B(4, K)$ and $C(6, -3)$ are collinear, then find the value of $K$.",
+      "prashna": "$K$ का मान ज्ञात कीजिए यदि बिन्दु $A(2, 3), B(4, K)$ और $C(6, -3)$ संरेख हैं ।"
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Coordinate Geometry",
+      "question": "Find the coordinates of the point which divides the line segment joining the points $(-1, 7)$ and $(4, -3)$ internally in the ratio $2:3$.",
+      "prashna": "उस बिन्दु के निर्देशांक ज्ञात करें जो बिन्दुओं $(-1, 7)$ और $(4, -3)$ को मिलानेवाली रेखाखण्ड को $2:3$ के अनुपात में अन्तर्विभाजित करता है।"
+    }
+  ],
+  "2018": [
+    {
+      "id": "short_16",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Coordinate Geometry",
+      "question": "Find the distance between $(-1, 3)$ and $(-5, 7)$.",
+      "prashna": "बिन्दुओं $(-1, 3)$ तथा $(-5, 7)$ के बीच की दूरी ज्ञात करें।"
+    },
+    {
+      "id": "short_17",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Coordinate Geometry",
+      "question": "Find value of $y$ such that the distance between points $(2, -3)$ and $(10, y)$ is 10 units.",
+      "prashna": "$y$ के किस मान के लिए बिन्दु $(2, -3)$ तथा $(10, y)$ के बीच की दूरी $10$ इकाई होगी।"
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Coordinate Geometry",
+      "question": "Find the co-ordinates of midpoint of line, having its extreme ends at $(6, 8)$ and $(2, 4)$.",
+      "prashna": "बिन्दुओं $(6, 8)$ और $(2, 4)$ को मिलाने वाले रेखाखण्ड के मध्यबिन्दु का नियामक ज्ञात कीजिए।"
+    },
+    {
+      "id": "short_16",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Coordinate Geometry",
+      "question": "Find the distance between $(-1, 3)$ and $(-5, 7)$.",
+      "prashna": "बिन्दुओं $(-1, 3)$ तथा $(-5, 7)$ के बीच की दूरी ज्ञात करें।"
+    },
+    {
+      "id": "short_17",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Coordinate Geometry",
+      "question": "Find value of $y$ such that the distance between points $(2, -3)$ and $(10, y)$ is 10 units.",
+      "prashna": "$y$ के किस मान के लिए बिन्दु $(2, -3)$ तथा $(10, y)$ के बीच की दूरी 10 इकाई होगी।"
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Coordinate Geometry",
+      "question": "Find the co-ordinates of midpoint of line, having its extreme ends at $(6, 8)$ and $(2, 4)$.",
+      "prashna": "बिन्दुओं (6, 8) और (2, 4) को मिलाने वाले रेखाखण्ड के मध्यबिन्दु का नियामक ज्ञात कीजिए।"
+    }
+  ],
   "2019": [
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Coordinate Geometry",
+      "question": "Find a point on x-axis which is equidistant from the points (7, 6) and (-3, 4).",
+      "prashna": "x-अक्ष पर उस बिन्दु को ज्ञात करें जो बिन्दुओं (7, 6) तथा (-3, 4) से समदूरस्थ है।"
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Coordinate Geometry",
+      "question": "Establish a relation between x and y if the points (x, y), (1, 2) and (7, 0) are collinear.",
+      "prashna": "x और y में एक सम्बन्ध स्थापित करें यदि बिन्दु (x, y), (1, 2) तथा (7, 0) संरेखी हैं।"
+    },
+    {
+      "id": "short_15",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "Coordinate Geometry",
+      "question": "Two vertices of a triangle are (3, -5) and (-7, 4). If its centroid is (2, -1), then find its third vertex.",
+      "prashna": "किसी त्रिभुज के दो शीर्ष (3, -5) और (-7, 4) हैं। यदि इसके केन्द्रक का नियामक (2, -1) है, तो तीसरे शीर्ष का नियामक ज्ञात करें।"
+    },
     {
       "id": "short_6",
       "type": "short_answer",

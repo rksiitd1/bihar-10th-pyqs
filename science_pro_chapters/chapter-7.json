@@ -1,5 +1,517 @@
 {
+  "2011": [
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "By which method does reproduction occur in Hydra?",
+      "prashna": "हाइड्रा में प्रजनन किस विधि से होता है?",
+      "options": {
+        "A": "Fission",
+        "B": "Budding",
+        "C": "Sexual reproduction",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "द्विखण्डन",
+        "B": "मुकुलन",
+        "C": "लैंगिक जनन",
+        "D": "इनमें से सभी"
+      }
+    }
+  ],
+  "2012": [
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "The anther contains",
+      "prashna": "परागकोश में होते हैं",
+      "options": {
+        "A": "sepals",
+        "B": "ovary",
+        "C": "carpel",
+        "D": "pollen grains"
+      },
+      "vikalpa": {
+        "A": "बाह्य दल",
+        "B": "अंडाशय",
+        "C": "अंडप",
+        "D": "परागकण"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "Asexual reproduction takes place through budding in",
+      "prashna": "मुकुलन द्वारा अलैंगिक जनन होता है",
+      "options": {
+        "A": "Amoeba",
+        "B": "Yeast",
+        "C": "Plasmodium",
+        "D": "Leishmania"
+      },
+      "vikalpa": {
+        "A": "अभीफण भें",
+        "B": "मीस्ट भें",
+        "C": "प्रज्ै भोडडमभ भें",
+        "D": "रेश्भननमण भें"
+      }
+    }
+  ],
+  "2013": [
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "What is pollination? What will be the effect on pollination if it rains?",
+      "prashna": "परागण किसे कहते हैं? वर्षा होने पर परागण पर क्या प्रभाव पड़ेगा?"
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "Binary fission occurs in",
+      "prashna": "द्विखण्डन होता है",
+      "options": {
+        "A": "Amoeba",
+        "B": "Paramecium",
+        "C": "Leishmania",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "अमीबा में",
+        "B": "पैरामैशियम में",
+        "C": "लीशमैनिया में",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "The male reproductive organ in a flower is",
+      "prashna": "फूल में नर प्रजनन अंग होता है",
+      "options": {
+        "A": "Stamen",
+        "B": "Carpel",
+        "C": "Stigma",
+        "D": "Style"
+      },
+      "vikalpa": {
+        "A": "पुंकेसर",
+        "B": "अंडप",
+        "C": "वर्तिकाग्र",
+        "D": "वर्तिका"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "The egg is fertilized in",
+      "prashna": "अण्डाणु निषेचित होता है",
+      "options": {
+        "A": "Vagina",
+        "B": "Uterus",
+        "C": "Fallopian tube",
+        "D": "Ovary"
+      },
+      "vikalpa": {
+        "A": "योनि से",
+        "B": "गर्भाशय से",
+        "C": "फेलोपियन नलिका से",
+        "D": "अण्डाशय से"
+      }
+    }
+  ],
+  "2014": [
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "The reason for physical changes occurring in adolescence is",
+      "prashna": "किशोरावस्था में होने वाले शारीरिक परिवर्तन का कारण है",
+      "options": {
+        "A": "Testosterone",
+        "B": "Estrogen",
+        "C": "Thyroxine",
+        "D": "Both (A) and (B)"
+      },
+      "vikalpa": {
+        "A": "टेस्टोस्टेरोन",
+        "B": "एस्ट्रोजेन",
+        "C": "थारॉक्सिन",
+        "D": "(A) और (B) दोनों"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "Pollen grains are formed inside which of the following?",
+      "prashna": "परागकण निम्न में से किसके अंदर बनते हैं",
+      "options": {
+        "A": "Anther",
+        "B": "Ovary",
+        "C": "Stigma",
+        "D": "Leaves"
+      },
+      "vikalpa": {
+        "A": "पराग-कोष",
+        "B": "अंडाशय",
+        "C": "वर्तिका",
+        "D": "पत्तियाँ"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "Ovum is fertilized in",
+      "prashna": "अंडाणु निषेचित होता है",
+      "options": {
+        "A": "In Vagina",
+        "B": "In Uterus",
+        "C": "In Ovary",
+        "D": "In Fallopian tube"
+      },
+      "vikalpa": {
+        "A": "योनि में",
+        "B": "गर्भाशय में",
+        "C": "अंडाशय में",
+        "D": "फैलोपियन नलिका में"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "Male reproductive organ in a flower is",
+      "prashna": "फूल में नर-प्रजनन अंग है।",
+      "options": {
+        "A": "Stamen",
+        "B": "Ovary",
+        "C": "Stigma",
+        "D": "Style"
+      },
+      "vikalpa": {
+        "A": "पुंकेसर",
+        "B": "अंडाशय",
+        "C": "वर्तिकाग्र",
+        "D": "वर्तिका"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "Binary fission does not occur in which of the following?",
+      "prashna": "निम्नलिखित में किसमें द्विखंडन नहीं होता",
+      "options": {
+        "A": "In Amoeba",
+        "B": "In Yeast",
+        "C": "In Paramecium",
+        "D": "In Euglena"
+      },
+      "vikalpa": {
+        "A": "अमीबा में",
+        "B": "यीस्ट में",
+        "C": "पैरामीशियम में",
+        "D": "युगलीना में"
+      }
+    },
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "What is the importance of sexual reproduction?",
+      "prashna": "लैंगिक जनन का क्या महत्व है?"
+    },
+    {
+      "id": "short_23",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "Tell about contraceptive pills.",
+      "prashna": "गर्भनिरोधक गोलियों के बारे में बताएँ।"
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "What is called pollination?",
+      "prashna": "परागण किसे कहते हैं?"
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "Give the full forms of HIV and AIDS.",
+      "prashna": "HIV और AIDS का पूर्ण रूप दें।"
+    },
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "What are male and female gametes called in a flower?",
+      "prashna": "पुष्प में नर तथा मादा युग्मकों को क्या कहते हैं?"
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "Which of the following is a hermaphrodite animal?",
+      "prashna": "निम्नलिखित में से कौन एक उभयलिंगी जंतु है?",
+      "options": {
+        "A": "Earthworm",
+        "B": "Fish",
+        "C": "Lion",
+        "D": "Goat"
+      },
+      "vikalpa": {
+        "A": "केचुआ",
+        "B": "मछली",
+        "C": "शेर",
+        "D": "बकरी"
+      }
+    }
+  ],
+  "2015": [
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "Asexual reproduction occurs through budding in",
+      "prashna": "किसमें अलैंगिक जनन मुकुलन द्वारा होता है ?",
+      "options": {
+        "A": "Yeast",
+        "B": "Plasmodium",
+        "C": "Amoeba",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "यीस्ट",
+        "B": "प्लाज्मोडियम",
+        "C": "अमीबा",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "In anther ............... is found",
+      "prashna": "परागकोश में पाया जाता है",
+      "options": {
+        "A": "Calyx",
+        "B": "Pollen grains",
+        "C": "Stigma",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "दलपुंज",
+        "B": "पराग कण",
+        "C": "स्टिग्मा",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "In which of the following does asexual reproduction occur by budding?",
+      "prashna": "किसमें अलैंगिक जनन मुकुलन द्वारा होता है?",
+      "options": {
+        "A": "Yeast",
+        "B": "Plasmodium",
+        "C": "Amoeba",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "यीस्ट",
+        "B": "प्लाज्मोडियम",
+        "C": "अमीबा",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "What is found in the anther?",
+      "prashna": "परागकोश में पाया जाता है.",
+      "options": {
+        "A": "Petals",
+        "B": "Pollen grains",
+        "C": "Stigma",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "दलपुंज",
+        "B": "परागकण",
+        "C": "स्टिग्मा",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ],
+  "2016": [
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "What do you mean by pollination ?",
+      "prashna": "परागण से आप क्या समझते हैं ?"
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": ".......... is not a part of human female reproductive system.",
+      "prashna": "मानव मादा के जनन तंत्र का भाग नहीं है",
+      "options": {
+        "A": "Ovary",
+        "B": "Uterus",
+        "C": "Vas deferens",
+        "D": "Fallopian tube"
+      },
+      "vikalpa": {
+        "A": "अण्डाशय",
+        "B": "गर्भाशय",
+        "C": "शुक्रवाहिका",
+        "D": "डिम्बवाहिनी"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "The anther has",
+      "prashna": "परागकोश में होते हैं",
+      "options": {
+        "A": "sepals",
+        "B": "ovary",
+        "C": "ovules",
+        "D": "pollens"
+      },
+      "vikalpa": {
+        "A": "बाह्य दल",
+        "B": "अण्डाशय",
+        "C": "अंडप",
+        "D": "परागकण"
+      }
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "Which is not a part of the human female reproductive system?",
+      "prashna": "मानव मादा के जनन तंत्र का भाग नहीं",
+      "options": {
+        "A": "Ovary",
+        "B": "Uterus",
+        "C": "Vas deferens",
+        "D": "Fallopian tube"
+      },
+      "vikalpa": {
+        "A": "अण्डाशय",
+        "B": "गर्भाशय",
+        "C": "शुक्रवाहिका",
+        "D": "डिम्बवाहिनी"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "Anthers contain:",
+      "prashna": "परागकोश में होते हैं",
+      "options": {
+        "A": "Sepals",
+        "B": "Ovary",
+        "C": "Carpel",
+        "D": "Pollen grains"
+      },
+      "vikalpa": {
+        "A": "बाह्य दल",
+        "B": "अण्डाशय",
+        "C": "अंडप",
+        "D": "परागकण"
+      }
+    }
+  ],
   "2017": [
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "Write full form of AIDS.",
+      "prashna": "AIDS (एडस) का पूरा नाम लिखें।"
+    },
+    {
+      "id": "short_26",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "What is budding?",
+      "prashna": "मुकुलन क्या है?"
+    },
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "Draw diagram of longitudinal section of flower.",
+      "prashna": "पुष्प के अनुदैर्घ्य काट का नामांकित चित्र बनायें।"
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "The anther contains -",
+      "prashna": "परागकोश में होता है -",
+      "options": {
+        "A": "Sepal",
+        "B": "Ovule",
+        "C": "Carpel",
+        "D": "Pollen grains"
+      },
+      "vikalpa": {
+        "A": "पंखुड़ी",
+        "B": "बीजाणु",
+        "C": "अंडप",
+        "D": "पराग कण"
+      }
+    },
     {
       "id": "short_11",
       "type": "short_answer",
@@ -38,6 +550,98 @@
     }
   ],
   "2018": [
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "Asexual reproduction takes place through budding in -",
+      "prashna": "अलैंगिक जनन मुकुलन द्वारा होता है -",
+      "options": {
+        "A": "Amoeba",
+        "B": "Yeast",
+        "C": "Plasmodium",
+        "D": "Leishmania"
+      },
+      "vikalpa": {
+        "A": "अमीबा में",
+        "B": "यीस्ट में",
+        "C": "प्लैज्मोडियम में",
+        "D": "लेस्मानिया में"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "The formation of sperms takes place in -",
+      "prashna": "शुक्राणु का निर्माण होता है -",
+      "options": {
+        "A": "Testes",
+        "B": "Uterus",
+        "C": "Ovary",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "वृषण में",
+        "B": "गर्भाशय में",
+        "C": "अंडाशय में",
+        "D": "इनमें सभी में"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "Which part of a flower becomes fruit?",
+      "prashna": "पुष्प का कौन सा भाग फल बनता है?",
+      "options": {
+        "A": "Anther",
+        "B": "Stigma",
+        "C": "Style",
+        "D": "Ovary"
+      },
+      "vikalpa": {
+        "A": "परागकोश",
+        "B": "वर्तिकाग्र",
+        "C": "वर्तिका",
+        "D": "अंडाशय"
+      }
+    },
+    {
+      "id": "short_15",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "Why does menstruation occur?",
+      "prashna": "ऋतुस्राव क्यों होता है?"
+    },
+    {
+      "id": "short_16",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "What is the difference in mode of reproduction between unicellular and multicellular organisms?",
+      "prashna": "एक -कोशिक एवं बहुकोशिक जीवों की जनन पद्धति में क्या अंतर है?"
+    },
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "Explain the modes of reproduction in single organism.",
+      "prashna": "एकल जीवों में प्रजनन की विधि की व्याख्या करें।"
+    },
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "Draw labelled diagram of male reproductive system and explain its functions.",
+      "prashna": "नर जनन तंत्र का नामांकित चित्र बनाएँ एवं उसके कार्यों का वर्णन करें।"
+    },
     {
       "id": "obj_32",
       "type": "objective",
@@ -369,6 +973,216 @@
       "chapter_name": "How do Organisms Reproduce?",
       "question": "What are the benefits of sexual reproduction in comparison to asexual reproduction ?",
       "prashna": "अलैंगिक जनन की अपेक्षा लैंगिक जनन के क्या लाभ हैं ?"
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "The cause of physical changes occurring during adolescence is",
+      "prashna": "किशोरावस्था में होने वाले शारीरिक परिवर्तन का कारण है",
+      "options": {
+        "A": "Testosterone",
+        "B": "Estrogen",
+        "C": "Thyroxine",
+        "D": "Both (A) and (B)"
+      },
+      "vikalpa": {
+        "A": "टेस्टोस्टेरोन",
+        "B": "एस्ट्रोजेन",
+        "C": "थारॉक्सिन",
+        "D": "(A) और (B) दोनों"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "Pollen grains are formed inside which of the following?",
+      "prashna": "परागकण निम्न में से किसके अंदर बनते हैं",
+      "options": {
+        "A": "Anther",
+        "B": "Ovary",
+        "C": "Style",
+        "D": "Leaves"
+      },
+      "vikalpa": {
+        "A": "पराग-कोष",
+        "B": "अंडाशय",
+        "C": "वर्तिका",
+        "D": "पत्तियाँ"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "Fertilization of the egg occurs in",
+      "prashna": "अंडाणु निषेचित होता है",
+      "options": {
+        "A": "Vagina",
+        "B": "Uterus",
+        "C": "Ovary",
+        "D": "Fallopian tube"
+      },
+      "vikalpa": {
+        "A": "योनि में",
+        "B": "गर्भाशय में",
+        "C": "अंडाशय में",
+        "D": "फैलोपियन नलिका में"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "Male reproductive organ in a flower is",
+      "prashna": "फूल में नर-प्रजनन अंग है।",
+      "options": {
+        "A": "Stamen",
+        "B": "Ovary",
+        "C": "Stigma",
+        "D": "Style"
+      },
+      "vikalpa": {
+        "A": "पुंकेसर",
+        "B": "अंडाशय",
+        "C": "वर्तिकाग्र",
+        "D": "वर्तिका"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "Binary fission does not occur in which of the following?",
+      "prashna": "निम्नलिखित में किसमें द्विखंडन नहीं होता",
+      "options": {
+        "A": "Amoeba",
+        "B": "Yeast",
+        "C": "Paramecium",
+        "D": "Euglena"
+      },
+      "vikalpa": {
+        "A": "अमीबा में",
+        "B": "यीस्ट में",
+        "C": "पैरामीशियम में",
+        "D": "युग्लीना में"
+      }
+    },
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "What is the importance of sexual reproduction?",
+      "prashna": "लैंगिक जनन का क्या महत्व है?"
+    },
+    {
+      "id": "short_23",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "Tell about contraceptive pills.",
+      "prashna": "गर्भनिरोधक गोलियों के बारे में बताएँ।"
+    },
+    {
+      "id": "obj_76",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "An example of a unisexual plant is",
+      "prashna": "एकलिंगी पादप का उदाहरण है",
+      "options": {
+        "A": "Papaya",
+        "B": "Mustard",
+        "C": "China Rose",
+        "D": "Pea"
+      },
+      "vikalpa": {
+        "A": "पपीता",
+        "B": "सरसों",
+        "C": "उडहुल",
+        "D": "मटर"
+      }
+    },
+    {
+      "id": "obj_77",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "Which of the following is not a part of the female reproductive system?",
+      "prashna": "निम्न में से कौन मादा जनन तंत्र का भाग नहीं है?",
+      "options": {
+        "A": "Ovary",
+        "B": "Uterus",
+        "C": "Vas deferens",
+        "D": "Fallopian tube"
+      },
+      "vikalpa": {
+        "A": "अंडाशय",
+        "B": "गर्भाशय",
+        "C": "शुक्रवाहिका",
+        "D": "डिम्बवाहिनी"
+      }
+    },
+    {
+      "id": "obj_78",
+      "type": "objective",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "Fission occurs in",
+      "prashna": "विखण्डन होता है",
+      "options": {
+        "A": "Paramecium",
+        "B": "Amoeba",
+        "C": "Leishmania",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "पैरामिशियम में",
+        "B": "अमीबा में",
+        "C": "लीशमैनिया में",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "short_19",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "What is regeneration?",
+      "prashna": "पुनर्जनन क्या होता है?"
+    },
+    {
+      "id": "short_20",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "Write the names of sexually transmitted diseases occurring in humans.",
+      "prashna": "मनुष्य में होने वाले लैंगिक संचारित रोगों के नाम लिखें।"
+    },
+    {
+      "id": "short_21",
+      "type": "short_answer",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "Write two differences between binary fission and multiple fission.",
+      "prashna": "द्विखंडन एवं बहुखंडन में दो अंतर लिखें।"
+    },
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter": "7",
+      "chapter_name": "How do Organisms Reproduce?",
+      "question": "What is pollination? What is the effect of rain on pollination?",
+      "prashna": "परागगण किसे कहते हैं? परागगण पर वर्षा होने का क्या प्रभाव पड़ता है?"
     }
   ],
   "2022": [

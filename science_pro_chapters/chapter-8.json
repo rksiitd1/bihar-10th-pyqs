@@ -1,5 +1,217 @@
 {
+  "2011": [
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "8",
+      "chapter_name": "Heredity",
+      "question": "If a trait A exists in 10% of a population of an asexually reproducing species and a trait B exists in 90% of the same population, which trait is likely to have arisen earlier and why?",
+      "prashna": "यदि एक लक्षण (trait) A अलैंगिक प्रजनन वाली समष्टि के 10% सदस्यों में पाया जाता है तथा B उसी समष्टि में 90% जीवों में पाया जाता है, तो कौन-सा लक्षण पहले उत्पन्न होगा, और क्यों ?"
+    }
+  ],
+  "2012": [
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Heredity",
+      "question": "In evolutionary terms, with whom do we have more commonalities?",
+      "prashna": "विकासीय दृष्टिकोण से हमारी किससे अधिक समानता है?",
+      "options": {
+        "A": "Chinese student",
+        "B": "Chimpanzee",
+        "C": "Spider",
+        "D": "Bacterium"
+      },
+      "vikalpa": {
+        "A": "चीन के विद्यार्थी",
+        "B": "चिम्पैंजी",
+        "C": "मकड़ी",
+        "D": "जीवाणु"
+      }
+    }
+  ],
+  "2014": [
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Heredity",
+      "question": "Who presented the word 'Gene'?",
+      "prashna": "'जीन' शब्द किसने प्रस्तुत किया ?",
+      "options": {
+        "A": "Mendel",
+        "B": "Darwin",
+        "C": "Johannsen",
+        "D": "Lamarck"
+      },
+      "vikalpa": {
+        "A": "मेंडल",
+        "B": "डार्विन",
+        "C": "जोहनसन",
+        "D": "लैमार्क"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Heredity",
+      "question": "Which of the following is called 'Father of Genetics'?",
+      "prashna": "निम्नलिखित में से किसे 'आनुवंशिकी का पिता' कहा जाता है?",
+      "options": {
+        "A": "Charles Darwin",
+        "B": "Gregor Johann Mendel",
+        "C": "Lamarck",
+        "D": "Weismann"
+      },
+      "vikalpa": {
+        "A": "चार्ल्स डार्विन",
+        "B": "ग्रेगर जॉन मेंडल",
+        "C": "लामार्क",
+        "D": "वाइसमान"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Heredity",
+      "question": "The number of chromosomes in male gamete is",
+      "prashna": "नर- युग्मक में गुणसूत्र की संख्या होती है",
+      "options": {
+        "A": "22",
+        "B": "23",
+        "C": "24",
+        "D": "11"
+      },
+      "vikalpa": {
+        "A": "22",
+        "B": "23",
+        "C": "24",
+        "D": "11"
+      }
+    },
+    {
+      "id": "short_15",
+      "type": "short_answer",
+      "chapter": "8",
+      "chapter_name": "Heredity",
+      "question": "Draw a clean labeled diagram of a chromosome.",
+      "prashna": "गुणसूत्र का स्वच्छ नामांकित चित्र बनाइए।"
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Heredity",
+      "question": "What type of organs are the wings of insects and the wings of bats?",
+      "prashna": "कीटों के पंख और चमगादड़ के पंख किस तरह के अंग है?",
+      "options": {
+        "A": "Homologous organs",
+        "B": "Vestigial organs",
+        "C": "Analogous organs",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "समजात अंग",
+        "B": "अवशेषी अंग",
+        "C": "समवृत्ति अंग",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ],
+  "2015": [
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter": "8",
+      "chapter_name": "Heredity",
+      "question": "Mendel selected which plant for his experiment?",
+      "prashna": "मेंडल ने अपने प्रयोग में किस पौधे का चयन किया था ?"
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Heredity",
+      "question": "Who wrote the book 'The Origin of Species'?",
+      "prashna": "'The Origin of Species' नामक पुस्तक किसने लिखी ?",
+      "options": {
+        "A": "Darwin",
+        "B": "Operin",
+        "C": "Lamarck",
+        "D": "None of them"
+      },
+      "vikalpa": {
+        "A": "डार्विन",
+        "B": "ओपेरिन",
+        "C": "लेमार्क",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Heredity",
+      "question": "Who wrote the book named 'The Origin of Species'?",
+      "prashna": "'The Origin of Species' नामक पुस्तक किसने लिखी?",
+      "options": {
+        "A": "Darwin",
+        "B": "Oparin",
+        "C": "Lamarck",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "डार्विन",
+        "B": "ओपेरिन",
+        "C": "लेमार्क",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ],
   "2018": [
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Heredity",
+      "question": "The perfect pair of sex chromosomes are found in -",
+      "prashna": "लिंग गुण-सूत्र का पूर्ण जोड़ा पाया जाता है -",
+      "options": {
+        "A": "male",
+        "B": "female",
+        "C": "male and female both",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "पुरूष में",
+        "B": "स्त्री में",
+        "C": "पुरूष और स्त्री दोनों में",
+        "D": "किसी में नहीं"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Heredity",
+      "question": "How many pairs of Chromosome are found in a normal cell of human body?",
+      "prashna": "मानव शरीर के किसी सामान्य कोशिका में गुणसूत्रों के किनते युग्म होते हैं?",
+      "options": {
+        "A": "21",
+        "B": "22",
+        "C": "23",
+        "D": "46"
+      },
+      "vikalpa": {
+        "A": "21",
+        "B": "22",
+        "C": "23",
+        "D": "46"
+      }
+    },
     {
       "id": "obj_35",
       "type": "objective",
@@ -206,6 +418,68 @@
         "B": "गुलाब",
         "C": "मटर",
         "D": "गुलदाऊदी"
+      }
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Heredity",
+      "question": "Who introduced the word 'Gene'?",
+      "prashna": "'जीन' शब्द किसने प्रस्तुत किया ?",
+      "options": {
+        "A": "Mendel",
+        "B": "Darwin",
+        "C": "Johannsen",
+        "D": "Lamarck"
+      },
+      "vikalpa": {
+        "A": "मेंडल",
+        "B": "डार्विन",
+        "C": "जोहनसन",
+        "D": "लैमार्क"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Heredity",
+      "question": "Who among the following is called 'Father of Genetics'?",
+      "prashna": "निम्नलिखित में से किसे 'आनुवंशिकी का पिता' कहा जाता है?",
+      "options": {
+        "A": "Charles Darwin",
+        "B": "Gregor Johann Mendel",
+        "C": "Lamarck",
+        "D": "Weismann"
+      },
+      "vikalpa": {
+        "A": "चार्ल्स डार्विन",
+        "B": "ग्रेगर जॉन मेंडल",
+        "C": "लामार्क",
+        "D": "वाइसमान"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Heredity",
+      "question": "Number of chromosomes in a male gamete is",
+      "prashna": "नर- युग्मक में गुणसूत्र की संख्या होती है",
+      "options": {
+        "A": "22",
+        "B": "23",
+        "C": "24",
+        "D": "11"
+      },
+      "vikalpa": {
+        "A": "22",
+        "B": "23",
+        "C": "24",
+        "D": "11"
       }
     }
   ],

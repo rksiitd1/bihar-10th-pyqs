@@ -1,5 +1,236 @@
 {
+  "2015": [
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "If the discriminant of quadratic equation $cx^2 - bx + a = 0$ is zero, then the value of equal root $\beta$ will be",
+      "prashna": "यदि द्विघात समीकरण $cx^2 - bx + a = 0$ के विवेचक शून्य है, तो समान मूल $\beta$ का मान होगा",
+      "options": {
+        "A": "$b/2c$",
+        "B": "$-b/2a$",
+        "C": "$-b/4ac$",
+        "D": "$a/c$"
+      },
+      "vikalpa": {
+        "A": "$b/2c$",
+        "B": "$-b/2a$",
+        "C": "$-b/4ac$",
+        "D": "$a/c$"
+      }
+    },
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "The roots of the equation $a^2 p^2 x^2 - q^2 = 0$ will be",
+      "prashna": "$a^2 p^2 x^2 - q^2 = 0$ के मूल होंगे",
+      "options": {
+        "A": "$a^2 p^2 / q^2$",
+        "B": "$ap/q$",
+        "C": "$q^2/ap$",
+        "D": "$\\pm q/ap$"
+      },
+      "vikalpa": {
+        "A": "$a^2 p^2 / q^2$",
+        "B": "$ap/q$",
+        "C": "$q^2/ap$",
+        "D": "$\\pm q/ap$"
+      }
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "If $4x^2 - 25 = 0$, then find the value of $x$.",
+      "prashna": "यदि $4x^2 - 25 = 0$, तो $x$ का मान निकालें।",
+      "marks": 2
+    },
+    {
+      "id": "short_24",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Sum of a number and its reciprocal is $10/3$. Find the number.",
+      "prashna": "किसी संख्या और उसके व्युत्क्रम का योग $10/3$ है। संख्या ज्ञात करें।",
+      "marks": 3
+    },
+    {
+      "id": "short_25",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Find the roots of quadratic equation $2x^2 - 2\\sqrt{2}x + 1 = 0$.",
+      "prashna": "द्विघात समीकरण $2x^2 - 2\\sqrt{2}x + 1 = 0$ का मूल ज्ञात करें।",
+      "marks": 3
+    }
+  ],
+  "2016": [
+    {
+      "id": "short_17",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "If $\\alpha$ and $\beta$ are the roots of quadratic equation $cx^2 - bx + a = 0$, then $\\alpha^2 + \beta^2 = $ __________.",
+      "prashna": "यदि द्विघातीय समीकरण $cx^2 - bx + a = 0$ के मूल $\\alpha$ एवं $\beta$ हों, तब $\\alpha^2 + \beta^2 = $ __________।"
+    }
+  ],
+  "2017": [
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "The sum of roots of the quadratic equation $x^2 + 2x - 3 = 0$ will be-",
+      "prashna": "द्विघात समीकरण $x^2 + 2x - 3 = 0$ के मूलों के योग का मान होगा-",
+      "options": {
+        "A": "-2",
+        "B": "2",
+        "C": "1/2",
+        "D": "-1/2"
+      },
+      "vikalpa": {
+        "A": "-2",
+        "B": "2",
+        "C": "1/2",
+        "D": "-1/2"
+      }
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Find the conditions of roots of quadratic equation to be real and equal.",
+      "prashna": "द्विघात समीकरण के मूलों के वास्तविक एवं समान होने के लिए शर्तों को लिखें ।"
+    },
+    {
+      "id": "short_24",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Solve: $13 - x^2 = (x + 5)^2$",
+      "prashna": "$13 - x^2 = (x + 5)^2$ को हल करें ।"
+    },
+    {
+      "id": "short_25",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "The height of a right angle triangle is $7$ cm less than its base. If hypotenuse is $13$ cm then find the value of remaining two sides.",
+      "prashna": "एक समकोण त्रिभुज की ऊँचाई आधार से $7$ सेमी. कम है । यदि कर्ण $13$ सेमी. का हो तो अन्य दो भुजाओं का मान ज्ञात करें ।"
+    }
+  ],
+  "2018": [
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "If the quadratic equation $ax^2 - 4ax + 2a + 1 = 0$ has repeated (equal) roots, $a = ......$",
+      "prashna": "यदि द्विघाती समीकरण $ax^2 - 4ax + 2a + 1 = 0$ का समान मूल है, तो $a = ......$",
+      "options": {
+        "A": "0",
+        "B": "1/2",
+        "C": "2",
+        "D": "4"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "1/2",
+        "C": "2",
+        "D": "4"
+      }
+    },
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "If the quadratic equation $ax^2 - 4ax + 2a + 1 = 0$ has repeated (equal) roots, $a = \\dots$",
+      "prashna": "यदि द्विघाती समीकरण $ax^2 - 4ax + 2a + 1 = 0$ का समान मूल हैं, तो $a = \\dots$",
+      "options": {
+        "A": "0",
+        "B": "$\frac{1}, {2}$",
+        "C": "2",
+        "D": "4"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "$\frac{1}, {2}$",
+        "C": "2",
+        "D": "4"
+      }
+    }
+  ],
   "2019": [
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "If roots of the quadratic equation $bx^2 + ax + c = 0$ are equal, then -",
+      "prashna": "यदि द्विघात समीकरण $bx^2 + ax + c = 0$ के मूल समान हैं, तो -",
+      "options": {
+        "A": "$b^2 - 4ac = 0$",
+        "B": "$a^2 - 4ac = 0$",
+        "C": "$c^2 - 4ab = 0$",
+        "D": "$a^2 - 4bc = 0$"
+      },
+      "vikalpa": {
+        "A": "$b^2 - 4ac = 0$",
+        "B": "$a^2 - 4ac = 0$",
+        "C": "$c^2 - 4ab = 0$",
+        "D": "$a^2 - 4bc = 0$"
+      }
+    },
+    {
+      "id": "obj_44",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Which of the following is not a quadratic equation?",
+      "prashna": "निम्न में कौन द्विघात समीकरण नहीं है?",
+      "options": {
+        "A": "$(x + 2)^3 = x(x^2 - 1)$",
+        "B": "$(x + 1)^2 = 2(x - 3)$",
+        "C": "$(x - 2)(x + 2) = 5$",
+        "D": "$x^2 + \frac{1}, {x^2} = 2$"
+      },
+      "vikalpa": {
+        "A": "$(x + 2)^3 = x(x^2 - 1)$",
+        "B": "$(x + 1)^2 = 2(x - 3)$",
+        "C": "$(x - 2)(x + 2) = 5$",
+        "D": "$x^2 + \frac{1}, {x^2} = 2$"
+      }
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Using quadratic formula find the solutions of the equation $x^2 - 3x - 10 = 0$.",
+      "prashna": "द्विघात सूत्र का प्रयोग कर समीकरण $x^2 - 3x - 10 = 0$ का हल निकालें।"
+    },
+    {
+      "id": "short_24",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "If the product of two consecutive natural numbers is 20, then find the numbers.",
+      "prashna": "यदि दो लगातार प्राकृत संख्याओं का गुणनफल 20 है, तो उन संख्याओं को ज्ञात करें।"
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "A train travels 360km at a uniform speed. If the speed had been 5 km/h more, it would have taken 1 hour less for the same journey. Find the speed of the train.",
+      "prashna": "एक रेलगाड़ी एक समान चाल से 360 किमी. की दूरी तय करती है। यदि यह चाल 5 किमी./घंटा अधिक होती तो वह उसी यात्रा में 1 घंटा कम समय लेती। रेलगाड़ी की चाल ज्ञात करें।"
+    },
     {
       "id": "obj_1",
       "type": "objective",
@@ -1479,6 +1710,166 @@
       "chapter_name": "Quadratic Equations",
       "question": "The difference of squares of two numbers is 180. The square of the smaller number is 8 times the larger number. Write the equation for this statement.",
       "prashna": "दो संख्याओं के वर्गों का अंतर 180 है। छोटी संख्या का वर्ग बड़ी संख्या का आठ गुना है। इस कथन के लिए समीकरण लिखें।"
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "If $\\alpha$ and $\beta$ are the roots of the quadratic equation $2z^2 + z - 6 = 0$ then the value of $\\alpha^2 + \beta^2$ is",
+      "prashna": "यदि द्विघात समीकरण $2z^2 + z - 6 = 0$ के मूल $\\alpha$ एवं $\beta$ हों तो $\\alpha^2 + \beta^2$ का मान है",
+      "options": {
+        "A": "$-\frac{25}, {4}$",
+        "B": "$\frac{4}, {25}$",
+        "C": "$\frac{25}, {4}$",
+        "D": "$\frac{23}, {4}$"
+      },
+      "vikalpa": {
+        "A": "$-\frac{25}, {4}$",
+        "B": "$\frac{4}, {25}$",
+        "C": "$\frac{25}, {4}$",
+        "D": "$\frac{23}, {4}$"
+      }
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "If one root of the quadratic equation $2x^2 + px - 3 = 0$ is - 3 then the value of $p$ is",
+      "prashna": "यदि द्विघात समीकरण $2x^2 + px - 3 = 0$ का एक मूल - 3 हो तो $p$ का मान है",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "vikalpa": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      }
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "If one root of the quadratic equation $2x^2 - 5x - 3 = 0$ is $-\frac{1}, {2}$ then its another root is",
+      "prashna": "यदि द्विघात समीकरण $2x^2 - 5x - 3 = 0$ का एक मूल $-\frac{1}, {2}$ है तो इसका दूसरा मूल है",
+      "options": {
+        "A": "- 3",
+        "B": "3",
+        "C": "$\frac{1}, {2}$",
+        "D": "2"
+      },
+      "vikalpa": {
+        "A": "- 3",
+        "B": "3",
+        "C": "$\frac{1}, {2}$",
+        "D": "2"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "What is the nature of the roots of the quadratic equation $4x^2 - 1 = 0$ ?",
+      "prashna": "द्विघात समीकरण $4x^2 - 1 = 0$ के मूलों की प्रकृति क्या है ?",
+      "options": {
+        "A": "Real and unequal",
+        "B": "Real and equal",
+        "C": "Not real",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "वास्तविक एवं असमान",
+        "B": "वास्तविक एवं समान",
+        "C": "वास्तविक नहीं",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_51",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "For what value of $p$, roots of the quadratic equation $px^2 - 2x + 3 = 0$ are real and equal ?",
+      "prashna": "$p$ के किस मान के लिए द्विघात समीकरण $px^2 - 2x + 3 = 0$ के मूल वास्तविक एवं समान है ?",
+      "options": {
+        "A": "$\frac{1}, {3}$",
+        "B": "$\frac{1}, {4}$",
+        "C": "$\frac{1}, {5}$",
+        "D": "$\frac{1}, {2}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{1}, {3}$",
+        "B": "$\frac{1}, {4}$",
+        "C": "$\frac{1}, {5}$",
+        "D": "$\frac{1}, {2}$"
+      }
+    },
+    {
+      "id": "obj_54",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Which of the following is a quadratic equation ?",
+      "prashna": "निम्नलिखित में से कौन द्विघात समीकरण है ?",
+      "options": {
+        "A": "$x^2 - 2\\sqrt{x} + 3 = 0$",
+        "B": "$2x^2 - 3x = (x + 1)^2$",
+        "C": "$x^2 + 2 = (3 - x)^2 + 4$",
+        "D": "$x^2 - \frac{1}, {x^2} = 4$"
+      },
+      "vikalpa": {
+        "A": "$x^2 - 2\\sqrt{x} + 3 = 0$",
+        "B": "$2x^2 - 3x = (x + 1)^2$",
+        "C": "$x^2 + 2 = (3 - x)^2 + 4$",
+        "D": "$x^2 - \frac{1}, {x^2} = 4$"
+      }
+    },
+    {
+      "id": "obj_55",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Which of the following is not a quadratic equation ?",
+      "prashna": "निम्नलिखित में से कौन द्विघात समीकरण नहीं है ?",
+      "options": {
+        "A": "$(x + 2)^3 = x(x^2 - 1)$",
+        "B": "$(x + 1)^2 = 2(x - 3)$",
+        "C": "$x^2 - 2x + 1 = 2x^2 + 4$",
+        "D": "$x^2 + \frac{1}, {x^2} = 2$"
+      },
+      "vikalpa": {
+        "A": "$(x + 2)^3 = x(x^2 - 1)$",
+        "B": "$(x + 1)^2 = 2(x - 3)$",
+        "C": "$x^2 - 2x + 1 = 2x^2 + 4$",
+        "D": "$x^2 + \frac{1}, {x^2} = 2$"
+      }
+    },
+    {
+      "id": "obj_56",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "The discriminant of the quadratic equation $2x^2 - 4x + 3 = 0$ is",
+      "prashna": "द्विघात समीकरण $2x^2 - 4x + 3 = 0$ का विवेचक है",
+      "options": {
+        "A": "- 4",
+        "B": "0",
+        "C": "- 8",
+        "D": "8"
+      },
+      "vikalpa": {
+        "A": "- 4",
+        "B": "0",
+        "C": "- 8",
+        "D": "8"
+      }
     }
   ]
 }

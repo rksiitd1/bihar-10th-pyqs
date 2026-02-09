@@ -1,5 +1,94 @@
 {
+  "2015": [
+    {
+      "id": "short_28",
+      "type": "short_answer",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "A die is thrown once. What is the probability to get an odd number?",
+      "prashna": "किसी पासे को एक बार फेंका जाता है, तो एक विषम संख्या प्राप्त करने की प्रायिकता ज्ञात करें।",
+      "marks": 3
+    }
+  ],
+  "2016": [
+    {
+      "id": "short_38",
+      "type": "short_answer",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "Find the probability of getting a number greater than digit $3$ in the throw of a dice.",
+      "prashna": "एक पासे को फेंकने पर अंक $3$ के ऊपर आने की प्रायिकता ज्ञात कीजिए।"
+    }
+  ],
+  "2017": [
+    {
+      "id": "short_28",
+      "type": "short_answer",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "A bag contains $3$ red balls and $5$ black balls. One ball is drawn at random. Find the probability (i) ball is red (ii) ball is not red.",
+      "prashna": "एक थैले में $3$ लाल और $5$ काली गेंदे हैं । उस थैले में से एक गेंद यादृच्छया निकाली जाती है । उसकी प्रायिकता क्या है कि गेंद (i) लाल हो (ii) लाल नहीं हो",
+      "sub_questions": {
+        "i": "ball is red",
+        "ii": "ball is not red"
+      },
+      "anuprashna": {
+        "i": "लाल हो",
+        "ii": "लाल नहीं हो"
+      }
+    }
+  ],
+  "2018": [
+    {
+      "id": "short_21",
+      "type": "short_answer",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "Explain 'Impossible Event' and 'Sure Event' in brief.",
+      "prashna": "'असंभव घटना' तथा 'निश्चित घटना' को समझावें।"
+    },
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "Give formula for representing the happening of an event A.",
+      "prashna": "घटना $A$ के घटित होने को प्रदर्शित करने वाला सूत्र लिखें।"
+    },
+    {
+      "id": "short_21",
+      "type": "short_answer",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "Explain 'impossible Event' and 'Sure Event' in brief.",
+      "prashna": "'असंभव घटना' तथा 'निश्चित घटना' को समझाएँ।"
+    },
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "Give formula for representing the happening of an event A.",
+      "prashna": "घटना A के घटित होने को प्रदर्शित करने वाला सूत्र लिखें।"
+    }
+  ],
   "2019": [
+    {
+      "id": "short_21",
+      "type": "short_answer",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "Two dice are thrown together, then find the probability of getting same digit on both dice.",
+      "prashna": "दो पाँसों को एक बार फेंका जाता है, तो दोनों पर समान अंक आने की प्रायिकता ज्ञात करें।"
+    },
+    {
+      "id": "short_25",
+      "type": "short_answer",
+      "chapter": "14",
+      "chapter_name": "Probability",
+      "question": "Two coins are tossed together. Find the probability of getting at least one head.",
+      "prashna": "दो सिक्कों को एक बार उछाला जाता है। कम-से-कम एक पृष्ठ आने की प्रायिकता ज्ञात करें।"
+    },
     {
       "id": "short_21",
       "type": "short_answer",

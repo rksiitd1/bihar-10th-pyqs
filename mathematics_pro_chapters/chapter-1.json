@@ -1,5 +1,603 @@
 {
+  "2015": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "The decimal expansion of $\frac{2^3}, {2^3 \times 5^2}$ is _______.",
+      "prashna": "$\frac{2^3}, {2^3 \times 5^2}$ का दशमलव प्रसार _______ होता है।"
+    },
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Prove that $5 - \\sqrt{3}$ is an irrational number.",
+      "prashna": "सिद्ध करें कि $5 - \\sqrt{3}$ एक अपरिमेय संख्या है।",
+      "marks": 3
+    },
+    {
+      "id": "short_23",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Express $0.\\overline{6}$ as rational number in simplest form.",
+      "prashna": "$0.\\overline{6}$ को परिमेय संख्या के सरल रूप में व्यक्त करें।",
+      "marks": 3
+    }
+  ],
+  "2016": [
+    {
+      "id": "short_21",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "By prime factorisation method find the L.C.M. and H.C.F. of $26$ and $91$.",
+      "prashna": "अभाज्य गुणनखण्ड विधि से $26$ एवं $91$ का ल० स० और म० स० ज्ञात करें।"
+    },
+    {
+      "id": "short_32",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Prove that $3 + \\sqrt{5}$ is an irrational number.",
+      "prashna": "सिद्ध करें कि $3 + \\sqrt{5}$ एक अपरिमेय संख्या है।"
+    }
+  ],
+  "2017": [
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "$\\sqrt{5}$ is a number-",
+      "prashna": "$\\sqrt{5}$ एक संख्या है-",
+      "options": {
+        "A": "Rational number",
+        "B": "Irrational number",
+        "C": "Integer",
+        "D": "Natural number"
+      },
+      "vikalpa": {
+        "A": "परिमेय",
+        "B": "अपरिमेय",
+        "C": "पूर्णांक",
+        "D": "प्राकृत"
+      }
+    },
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "$\\pi$ is a ................ Number.",
+      "prashna": "$\\pi$ एक ................ संख्या है ।"
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "True or False - The product of two numbers is equal to $H.C.F. \times L.C.M.$",
+      "prashna": "सही या गलत - दो संख्याओं का गुणनफल $= H.C.F. \times L.C.M.$"
+    },
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Prove that $\\sqrt{3}$ is an irrational number.",
+      "prashna": "सिद्ध करें कि $\\sqrt{3}$ अपरिमेय संख्या है ।"
+    },
+    {
+      "id": "short_23",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Find the H.C.F. and L.C.M. of $96$ and $404$ by the prime factorisation method.",
+      "prashna": "अभाज्य गुणन खंड विधि से $96$ और $404$ का H.C.F. और L.C.M. ज्ञात करें ।"
+    },
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Which of the following is not prime?",
+      "prashna": "निम्नलिखित में कौन अभाज्य नहीं है?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "5",
+        "D": "1"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "3",
+        "C": "5",
+        "D": "1"
+      }
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Find the HCF and LCM of $540$ and $805$ by prime factorization method.",
+      "prashna": "अभाज्य गुणनखण्ड विधि द्वारा $540$ और $805$ का म०स० और ल०स० निकालें।"
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Show that every positive odd integer is of the form $6p + 1$ or $6p + 3$ or $6p + 5$, where $p$ is an integer.",
+      "prashna": "दिखाएँ कि एक धनात्मक विषम पूर्णांक $6p+1$ या $6p+3$ या $6p+5$ के रूप का है, जहाँ $p$ एक पूर्णांक है।"
+    }
+  ],
+  "2018": [
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Every point on a number line represents -",
+      "prashna": "संख्या रेखा (नंबर लाइन) पर प्रत्येक बिन्दु प्रदर्शित करता है -",
+      "options": {
+        "A": "a real number",
+        "B": "a natural number",
+        "C": "a rational number",
+        "D": "an irrational number"
+      },
+      "vikalpa": {
+        "A": "एक वास्तविक संख्या",
+        "B": "एक प्राकृतिक संख्या",
+        "C": "एक परिमेय संख्या",
+        "D": "एक अपरिमेय संख्या"
+      }
+    },
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Which of the following numbers has terminating decimal expansion?",
+      "prashna": "निम्नलिखित में से कौन-सा भिन्न दशमलव प्रसार सांत है?",
+      "options": {
+        "A": "$\frac{11}, {700}$",
+        "B": "$\frac{91}, {2100}$",
+        "C": "$\frac{343}, {2^3 \times 5^3 \times 7^3}$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$\frac{11}, {700}$",
+        "B": "$\frac{91}, {2100}$",
+        "C": "$\frac{343}, {2^3 \times 5^3 \times 7^3}$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "The least number, which is perfect square and is divisible by each 16, 20, and 24 is-",
+      "prashna": "सबसे छोटी पूर्ण-वर्ग संख्या जो 16, 20, तथा 24 प्रत्येक से भाज्य हो, वह है -",
+      "options": {
+        "A": "240",
+        "B": "1600",
+        "C": "2400",
+        "D": "3600"
+      },
+      "vikalpa": {
+        "A": "240",
+        "B": "1600",
+        "C": "2400",
+        "D": "3600"
+      }
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "The LCM of two numbers is 14 times their HCF. The sum of LCM and HCF is 600. If one of the number is 280 then the other number is -",
+      "prashna": "दो संख्याओं का लघुत्तम समापवर्त्य इनके महत्तम समापवर्तक का 14 गुणा है। लघुत्तम समापवर्तक (LCM) तथा महत्तम समापवर्तक (HCF) का जोड़ 600 है। यदि एक संख्या 280 है, तो दूसरी संख्या है -",
+      "options": {
+        "A": "40",
+        "B": "80",
+        "C": "120",
+        "D": "20"
+      },
+      "vikalpa": {
+        "A": "40",
+        "B": "80",
+        "C": "120",
+        "D": "20"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "$23.\\overline{43}$ can be expressed in the form of $\frac{p}, {q}$ ($p, q$ are integers, $q \neq 0$) -",
+      "prashna": "संख्या $23.\\overline{43}$ को $\frac{p}, {q}$ के रूप में (जहाँ $p, q$ पूर्णांक है, $q \neq 0$) प्रकट किया जा सकता है -",
+      "options": {
+        "A": "$\frac{2320}, {99}$",
+        "B": "$\frac{2343}, {100}$",
+        "C": "$\frac{2343}, {999}$",
+        "D": "$\frac{2320}, {999}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{2320}, {99}$",
+        "B": "$\frac{2343}, {100}$",
+        "C": "$\frac{2343}, {999}$",
+        "D": "$\frac{2320}, {999}$"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "The square root of 64 divided by the cube root of 64 is -",
+      "prashna": "64 के वर्गमूल को 64 के घनमूल से भाग देने का मान होगा -",
+      "options": {
+        "A": "64",
+        "B": "2",
+        "C": "1/2",
+        "D": "$(64)^{2/3}$"
+      },
+      "vikalpa": {
+        "A": "64",
+        "B": "2",
+        "C": "1/2",
+        "D": "$(64)^{2/3}$"
+      }
+    },
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "$\\sqrt{10} \times \\sqrt{15}$ is equal to -",
+      "prashna": "$\\sqrt{10} \times \\sqrt{15}$ बराबर है -",
+      "options": {
+        "A": "$5\\sqrt{6}$",
+        "B": "$6\\sqrt{5}$",
+        "C": "$\\sqrt{30}$",
+        "D": "$\\sqrt{25}$"
+      },
+      "vikalpa": {
+        "A": "$5\\sqrt{6}$",
+        "B": "$6\\sqrt{5}$",
+        "C": "$\\sqrt{30}$",
+        "D": "$\\sqrt{25}$"
+      }
+    },
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Use Euclid's division algorithm to find H.C.F. of 960 and 432.",
+      "prashna": "यूक्लिड विभाजन एल्गोरिथ्म की मदद से $960$ और $432$ का महत्तम समापवर्तक निकालें।"
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Without actually performing the long division. State whether rational number $\frac{2}, {25}$ has a terminating decimal expansion or non-terminating decimal expansion.",
+      "prashna": "बिना भाग दिये बतावें कि परिमेय संख्या $\frac{2}, {25}$ का दशमलव प्रसार सांत है या असांत?"
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Prove $\\sqrt{5}$ is an irrational number.",
+      "prashna": "सिद्ध करें कि $\\sqrt{5}$ एक अपरिमेय संख्या है।"
+    },
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Every point on a number line represents -",
+      "prashna": "संख्या रेखा (नंबर लाइन) पर प्रत्येक बिन्दु प्रदर्शित करता है -",
+      "options": {
+        "A": "a real number",
+        "B": "a natural number",
+        "C": "a rational number",
+        "D": "an irrational number"
+      },
+      "vikalpa": {
+        "A": "एक वास्तविक संख्या",
+        "B": "एक प्राकृतिक संख्या",
+        "C": "एक परिमेय संख्या",
+        "D": "एक अपरिमेय संख्या"
+      }
+    },
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Which of the following numbers has terminating decimal expansion?",
+      "prashna": "निम्नलिखित में से कौन-सा भिन्न दशमलव प्रसार शांत है?",
+      "options": {
+        "A": "$\frac{11}, {700}$",
+        "B": "$\frac{91}, {2100}$",
+        "C": "$\frac{343}, {2^3 \times 5^3 \times 7^3}$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$\frac{11}, {700}$",
+        "B": "$\frac{91}, {2100}$",
+        "C": "$\frac{343}, {2^3 \times 5^3 \times 7^3}$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "The least number, which is perfect square and is divisible by each 16, 20, and 24 is-",
+      "prashna": "सबसे छोटी पूर्ण-वर्ग संख्या जो 16, 20, तथा 24 प्रत्येक से भाज्य हो, वह है -",
+      "options": {
+        "A": "240",
+        "B": "1600",
+        "C": "2400",
+        "D": "3600"
+      },
+      "vikalpa": {
+        "A": "240",
+        "B": "1600",
+        "C": "2400",
+        "D": "3600"
+      }
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "The LCM of two numbers is 14 times their HCF. The sum of LCM and HCF is 600. If one of the number is 280 then the other number is -",
+      "prashna": "दो संख्याओं का लघुत्तम समापवर्त्य इनके महत्तम समापवर्तक का 14 गुणा है। लघुत्तम समापवर्त्य (LCM) तथा महत्तम समापवर्तक (HCF) का जोड़ 600 है। यदि एक संख्या 280 है, तो दूसरी संख्या है -",
+      "options": {
+        "A": "40",
+        "B": "80",
+        "C": "120",
+        "D": "20"
+      },
+      "vikalpa": {
+        "A": "40",
+        "B": "80",
+        "C": "120",
+        "D": "20"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "$23.\\overline{43}$ can be expressed in the form of $\frac{p}, {q}$ ($p, q$ are integers, $q \neq 0$) -",
+      "prashna": "संख्या $23.\\overline{43}$ को $\frac{p}, {q}$ के रूप में (जहाँ $p, q$ पूर्णांक है, $q \neq 0$) प्रकट किया जा सकता है -",
+      "options": {
+        "A": "$\frac{2320}, {99}$",
+        "B": "$\frac{2343}, {100}$",
+        "C": "$\frac{2343}, {999}$",
+        "D": "$\frac{2320}, {999}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{2320}, {99}$",
+        "B": "$\frac{2343}, {100}$",
+        "C": "$\frac{2343}, {999}$",
+        "D": "$\frac{2320}, {999}$"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "The square root of 64 divided by the cube root of 64 is -",
+      "prashna": "64 के वर्गमूल को 64 के घनमूल से भाग देने का मान होगा -",
+      "options": {
+        "A": "64",
+        "B": "2",
+        "C": "$\frac{1}, {2}$",
+        "D": "$(64)^{2/3}$"
+      },
+      "vikalpa": {
+        "A": "64",
+        "B": "2",
+        "C": "$\frac{1}, {2}$",
+        "D": "$(64)^{2/3}$"
+      }
+    },
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "$\\sqrt{10} \times \\sqrt{15}$ is equal to -",
+      "prashna": "$\\sqrt{10} \times \\sqrt{15}$ बराबर है -",
+      "options": {
+        "A": "$5\\sqrt{6}$",
+        "B": "$6\\sqrt{5}$",
+        "C": "$\\sqrt{30}$",
+        "D": "$\\sqrt{25}$"
+      },
+      "vikalpa": {
+        "A": "$5\\sqrt{6}$",
+        "B": "$6\\sqrt{5}$",
+        "C": "$\\sqrt{30}$",
+        "D": "$\\sqrt{25}$"
+      }
+    },
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Use Euclid's division algorithm to find H.C.F. of 960 and 432.",
+      "prashna": "यूक्लिड विभाजन एल्गोरिदम की मदद से 960 और 432 का महत्तम समापवर्तक निकालें।"
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Without actually performing the long division. State whether rational number $\frac{2}, {25}$ has a terminating decimal expansion or non-terminating decimal expansion.",
+      "prashna": "बिना भाग दिये बतावें कि परिमेय संख्या $\frac{2}, {25}$ का दशमलव प्रसार शांत है या अशांत?"
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Prove $\\sqrt{5}$ is an irrational number.",
+      "prashna": "सिद्ध करें कि $\\sqrt{5}$ एक अपरिमेय संख्या है।"
+    }
+  ],
   "2019": [
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "The ratio between the LCM and HCF of 5, 15 and 20 is -",
+      "prashna": "5, 15 और 20 के ल. स. और म. स. का अनुपात है -",
+      "options": {
+        "A": "9 : 1",
+        "B": "4 : 3",
+        "C": "11 : 1",
+        "D": "12 : 1"
+      },
+      "vikalpa": {
+        "A": "9 : 1",
+        "B": "4 : 3",
+        "C": "11 : 1",
+        "D": "12 : 1"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "LCM of two numbers a and 18 is 36 and HCF is 2, then the value if 'a' is -",
+      "prashna": "दो संख्याओं a और 18 का ल. स. 36 तथा म. स. 2 है, तो a का मान है -",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "1"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "1"
+      }
+    },
+    {
+      "id": "obj_46",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "If p and q are two prime numbers, then their HCF is -",
+      "prashna": "यदि p तथा q दो अभाज्य संख्याएँ हैं, तो उनका म. स. है-",
+      "options": {
+        "A": "2",
+        "B": "0",
+        "C": "Either 1 or 2",
+        "D": "1"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "0",
+        "C": "1 या 2",
+        "D": "1"
+      }
+    },
+    {
+      "id": "obj_48",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Which of the following is not irrational?",
+      "prashna": "निम्न में कौन अपरिमेय नहीं है?",
+      "options": {
+        "A": "$\\sqrt{10}$",
+        "B": "$\\sqrt{24}$",
+        "C": "$\\sqrt{35}$",
+        "D": "$\\sqrt{121}$"
+      },
+      "vikalpa": {
+        "A": "$\\sqrt{10}$",
+        "B": "$\\sqrt{24}$",
+        "C": "$\\sqrt{35}$",
+        "D": "$\\sqrt{121}$"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "The product of the smallest prime number and the smallest composite number is -",
+      "prashna": "सबसे छोटी अभाज्य और सबसे छोटी भाज्य संख्या का गुणनफल है-",
+      "options": {
+        "A": "10",
+        "B": "6",
+        "C": "8",
+        "D": "4"
+      },
+      "vikalpa": {
+        "A": "10",
+        "B": "6",
+        "C": "8",
+        "D": "4"
+      }
+    },
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Convert $2.\\overline{47}$ in the form of $\frac{p}, {q}$.",
+      "prashna": "$2.\\overline{47}$ को $\frac{p}, {q}$ के रूप में बदलें।"
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Prove that $5 - \\sqrt{3}$ is an irrational number.",
+      "prashna": "सिद्ध करें कि $5 - \\sqrt{3}$ एक अपरिमेय संख्या है।"
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "The HCF of two numbers is 145 and their LCM is 2175. If one number is 725, then find the other number.",
+      "prashna": "दो संख्याओं का म. स. 145 तथा उनका ल. स. 2175 है। यदि एक संख्या 725 है, तो दूसरी संख्या ज्ञात करें।"
+    },
+    {
+      "id": "short_16",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Using Euclid's division algorithm, find the HCF of 570 and 1425.",
+      "prashna": "यूक्लिड विभाजकता एल्गोरिथ्म का प्रयोग कर 570 तथा 1425 का म. स. निकालें।"
+    },
     {
       "id": "obj_10",
       "type": "objective",
@@ -1927,6 +2525,66 @@
       "chapter_name": "Real Numbers",
       "question": "Prove that $5 - \\sqrt{3}$ is an irrational number.",
       "prashna": "सिद्ध करें कि $5 - \\sqrt{3}$ एक अपरिमेय संख्या है।"
+    },
+    {
+      "id": "obj_81",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Which of the following fractions has terminating decimal expansion ?",
+      "prashna": "निम्नलिखित में कौन-सा भिन्न का दशमलव प्रसार शांत होगा ?",
+      "options": {
+        "A": "$\frac{15}, {1600}$",
+        "B": "$\frac{19}, {210}$",
+        "C": "$\frac{3}, {88}$",
+        "D": "$\frac{8}, {75}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{15}, {1600}$",
+        "B": "$\frac{19}, {210}$",
+        "C": "$\frac{3}, {88}$",
+        "D": "$\frac{8}, {75}$"
+      }
+    },
+    {
+      "id": "obj_82",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "If $p$ be the form of $3^n$ and $q$ be the form of $6^n \times 5^m$ and $m, n$ be non-negative integers then how will be the decimal expansion of the fraction $\frac{p}, {q}$ ?",
+      "prashna": "यदि $p, 3^n$ रूप का हो और $q, 6^n \times 5^m$ रूप का तथा $m, n$ कोई ऋणेतर पूर्णांक हैं तो भिन्न $\frac{p}, {q}$ का दशमलव प्रसार कैसा होगा ?",
+      "options": {
+        "A": "non-terminating repeating",
+        "B": "terminating",
+        "C": "non-terminating non-repeating",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "अशांत आवर्ती",
+        "B": "शांत",
+        "C": "अशांत अनावर्ती",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_83",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "If in division algorithm $a = bq + r$, $b = 73, q = 34$ and $r = 23$, then what is the value of $a$ ?",
+      "prashna": "यदि भाग एल्गोरिथ्म $a = bq + r$ में $b = 73, q = 34$ और $r = 23$ हो तो $a$ का मान क्या है ?",
+      "options": {
+        "A": "2500",
+        "B": "2505",
+        "C": "3505",
+        "D": "3510"
+      },
+      "vikalpa": {
+        "A": "2500",
+        "B": "2505",
+        "C": "3505",
+        "D": "3510"
+      }
     }
   ]
 }

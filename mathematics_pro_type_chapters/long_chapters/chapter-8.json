@@ -1,5 +1,65 @@
 {
+  "2017": [
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If $\text{cosec } \theta = \frac{5}, {3}$, then find the value of $\\sec^2 \theta - \tan^2 \theta$.",
+      "prashna": "यदि $\text{cosec } \theta = \frac{5}, {3}$ हो, तो $\\sec^2 \theta - \tan^2 \theta$ का मान निकालें।"
+    },
+    {
+      "id": "long_7",
+      "type": "long_answer",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If $\\cos 3\theta = \\sin 2\theta$, then prove that $\theta = 18^\\circ$.",
+      "prashna": "यदि $\\cos 3\theta = \\sin 2\theta$ हो, तो साबित करें कि $\theta = 18^\\circ$."
+    }
+  ],
+  "2018": [
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "Prove that -",
+      "prashna": "सिद्ध करें -",
+      "sub_questions": {
+        "i": "$\\sin A (1 + \tan A) + \\cos A (1 + \\cot A) = \\sec A + \\csc A$",
+        "ii": "$\frac{\\sin \theta - \\cos \theta + 1}, {\\sin \theta + \\cos \theta - 1} = \frac{1}, {\\sec \theta - \tan \theta}$"
+      },
+      "anuprashna": {
+        "i": "$\\sin A (1 + \tan A) + \\cos A (1 + \\cot A) = \\sec A + \\csc A$",
+        "ii": "$\frac{\\sin \theta - \\cos \theta + 1}, {\\sin \theta + \\cos \theta - 1} = \frac{1}, {\\sec \theta - \tan \theta}$"
+      }
+    },
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "Prove that - (i) $\\sin A (1 + \tan A) + \\cos A (1 + \\cot A) = \\sec A + \\csc A$, (ii) $\frac{\\sin\theta - \\cos\theta + 1}, {\\sin\theta + \\cos\theta - 1} = \frac{1}, {\\sec\theta - \tan\theta}$.",
+      "prashna": "सिद्ध करें - (i) $\\sin A (1 + \tan A) + \\cos A (1 + \\cot A) = \\sec A + \\csc A$, (ii) $\frac{\\sin\theta - \\cos\theta + 1}, {\\sin\theta + \\cos\theta - 1} = \frac{1}, {\\sec\theta - \tan\theta}$.",
+      "sub_questions": {
+        "A": "$\\sin A (1 + \tan A) + \\cos A (1 + \\cot A) = \\sec A + \\csc A$",
+        "B": "$\frac{\\sin\theta - \\cos\theta + 1}, {\\sin\theta + \\cos\theta - 1} = \frac{1}, {\\sec\theta - \tan\theta}$"
+      },
+      "anuprashna": {
+        "A": "$\\sin A (1 + \tan A) + \\cos A (1 + \\cot A) = \\sec A + \\csc A$",
+        "B": "$\frac{\\sin\theta - \\cos\theta + 1}, {\\sin\theta + \\cos\theta - 1} = \frac{1}, {\\sec\theta - \tan\theta}$"
+      }
+    }
+  ],
   "2019": [
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "Prove that - $(\\sin A + \\csc A)^2 + (\\cos A + \\sec A)^2 = 7 + \tan^2 A + \\cot^2 A$",
+      "prashna": "सिद्ध करें कि - $(\\sin A + \\csc A)^2 + (\\cos A + \\sec A)^2 = 7 + \tan^2 A + \\cot^2 A$"
+    },
     {
       "id": "long_5",
       "type": "long_answer",

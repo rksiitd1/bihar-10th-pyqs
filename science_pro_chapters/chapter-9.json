@@ -1,5 +1,773 @@
 {
+  "2011": [
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Draw a labeled diagram showing two rays of refraction through a rectangular glass slab.",
+      "prashna": "काँच की आयताकार सिल्ली में अपवर्तन के दो किरणों का नामांकित चित्र खींचें।"
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "The value of the refractive index $(\\mu)$ of a medium is",
+      "prashna": "किसी माध्यम के अपवर्तनांक $(\\mu)$ का मान होता है",
+      "options": {
+        "A": "$\\sin r / \\sin i$",
+        "B": "$\\sin i / \\sin r$",
+        "C": "$\\sin i \times \\sin r$",
+        "D": "$\\sin i + \\sin r$"
+      },
+      "vikalpa": {
+        "A": "$\\sin r / \\sin i$",
+        "B": "$\\sin i / \\sin r$",
+        "C": "$\\sin i \times \\sin r$",
+        "D": "$\\sin i + \\sin r$"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Which mirror is suitable for shaving?",
+      "prashna": "दाढ़ी बनाने में कौन दर्पण उपयुक्त है?",
+      "options": {
+        "A": "Plane",
+        "B": "Convex",
+        "C": "Concave",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "समतल",
+        "B": "उत्तल",
+        "C": "अवतल",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ],
+  "2012": [
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "What is the meaning of the statement \"The refractive index of diamond is 2.42\"?",
+      "prashna": "\"हीरे का अपवर्तनांक 2.42 है।\" इस कथन का क्या अभिप्राय है?"
+    },
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Which of the following materials cannot be used to make a lens?",
+      "prashna": "निम्न में कौन-सा पदार्थ लेंस बनाने के लिए प्रयुक्त नहीं किया जा सकता है?",
+      "options": {
+        "A": "Water",
+        "B": "Glass",
+        "C": "Plastic",
+        "D": "Clay"
+      },
+      "vikalpa": {
+        "A": "जल",
+        "B": "काँच",
+        "C": "प्लास्टिक",
+        "D": "मिट्टी"
+      }
+    },
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Where should an object be placed in front of a convex lens to get a real image of the same size as the object?",
+      "prashna": "किसी बिंब का वास्तविक प्रतिबिंब समान आकार का प्राप्त करने हेतु बिंब को उत्तल लेंस के सामने कहाँ रखें?",
+      "options": {
+        "A": "At focus",
+        "B": "At the centre of curvature",
+        "C": "At infinity",
+        "D": "At the optical centre"
+      },
+      "vikalpa": {
+        "A": "फोकस पर",
+        "B": "वक्रता केन्द्र पर",
+        "C": "अनंत पर",
+        "D": "प्रकाशीय केन्द्र पर"
+      }
+    }
+  ],
+  "2013": [
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Write three uses of convex and concave mirrors.",
+      "prashna": "उत्तल एवं अवतल दर्पण के तीन उपयोगों को लिखें।"
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Magnification (m) of a concave lens is equal to",
+      "prashna": "अवतल लेंस का आवर्धन (m) बराबर होता है।",
+      "options": {
+        "A": "$u/v$",
+        "B": "$uv$",
+        "C": "$u+v$",
+        "D": "$v/u$"
+      },
+      "vikalpa": {
+        "A": "$u/v$",
+        "B": "$uv$",
+        "C": "$u+v$",
+        "D": "$v/u$"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "The relation between focal length and radius of curvature in a spherical mirror is",
+      "prashna": "गोलीय दर्पण में फोकसांतर एवं वक्रता त्रिज्या के बीच संबंध है",
+      "options": {
+        "A": "$r = 2f$",
+        "B": "$f = r$",
+        "C": "$f = r/2$",
+        "D": "$r = f/2$"
+      },
+      "vikalpa": {
+        "A": "$r = 2f$",
+        "B": "$f = r$",
+        "C": "$f = r/2$",
+        "D": "$r = f/2$"
+      }
+    }
+  ],
+  "2014": [
+    {
+      "id": "obj_57",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Oily paper is",
+      "prashna": "तैलीय कागज होता है",
+      "options": {
+        "A": "Transparent",
+        "B": "Opaque",
+        "C": "Translucent",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "पारदर्शक",
+        "B": "अपारदर्शक",
+        "C": "पारभासक",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "What is the S.I. unit of magnification produced by a lens?",
+      "prashna": "लेंस द्वारा उत्पन्न आवर्धन की S.I. इकाई क्या है?",
+      "options": {
+        "A": "m",
+        "B": "cm",
+        "C": "mm",
+        "D": "Unitless"
+      },
+      "vikalpa": {
+        "A": "मी",
+        "B": "सेमी",
+        "C": "मिमी",
+        "D": "मात्रक विहीन"
+      }
+    },
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Speed of light in different media is",
+      "prashna": "प्रकाश की चाल विभिन्न माध्यमों में",
+      "options": {
+        "A": "Same",
+        "B": "Different",
+        "C": "Both (A) and (B)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "समान होती है",
+        "B": "भिन्न-भिन्न होती है",
+        "C": "(A) और (B) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_60",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Speed of light in air compared to vacuum is",
+      "prashna": "वायु में प्रकाश की चाल निर्वात की अपेक्षा होती है",
+      "options": {
+        "A": "Less",
+        "B": "More",
+        "C": "Same",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "कम",
+        "B": "ज्यादा",
+        "C": "समान",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_61",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "The number of principal foci in a lens is",
+      "prashna": "लेंस में मुख्य फोकस की संख्या होती है",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      }
+    },
+    {
+      "id": "obj_73",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Which mirror is used for shaving?",
+      "prashna": "दाढ़ी बनाने के लिए कौन-सा दर्पण प्रयुक्त होता है",
+      "options": {
+        "A": "Convex mirror",
+        "B": "Plane mirror",
+        "C": "Concave mirror",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "उत्तर दर्पण",
+        "B": "समतल दर्पण",
+        "C": "अवतल दर्पण",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_75",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Focal length of a plane mirror is",
+      "prashna": "समतल दर्पण की फोकस दूरी होती है",
+      "options": {
+        "A": "Infinite",
+        "B": "Zero",
+        "C": "100 cm",
+        "D": "50 cm"
+      },
+      "vikalpa": {
+        "A": "अनंत",
+        "B": "शून्य",
+        "C": "100 cm",
+        "D": "50 cm"
+      }
+    },
+    {
+      "id": "obj_76",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Where should an object be placed in front of a concave mirror so that the image formed is inverted, real and of same size?",
+      "prashna": "अवतल दर्पण के सामने वस्तु को कहाँ रखा जाय ताकि प्रतिबिम्ब उल्टा, वास्तविक और समान आकार बने ?",
+      "options": {
+        "A": "At pole",
+        "B": "At infinity",
+        "C": "At centre of curvature",
+        "D": "At focus"
+      },
+      "vikalpa": {
+        "A": "ध्रुव पर",
+        "B": "अनंत पर",
+        "C": "वक्रता केन्द्र पर",
+        "D": "फोकस पर"
+      }
+    },
+    {
+      "id": "obj_79",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Virtual image formed by a convex mirror is",
+      "prashna": "उत्तर दर्पण से बना काल्पनिक प्रतिबिम्ब होता है",
+      "options": {
+        "A": "Erect and magnified",
+        "B": "Inverted and magnified",
+        "C": "Erect and diminished",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "सीधा एवं आवर्धित",
+        "B": "अल्टा एवं आवर्धित",
+        "C": "सीधा एवं हासित",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_80",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Magnification (m) of a concave lens is equal to",
+      "prashna": "अवतल लेंस का आवर्धन (m) बराबर होता है",
+      "options": {
+        "A": "$v/u$",
+        "B": "$uv$",
+        "C": "$u/v$",
+        "D": "$u + v$"
+      },
+      "vikalpa": {
+        "A": "$v/u$",
+        "B": "$uv$",
+        "C": "$u/v$",
+        "D": "$u + v$"
+      }
+    },
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Where should an object be placed in a convex lens to get a virtual and magnified image? Explain with a diagram.",
+      "prashna": "उत्तर लेंस में वस्तु का आभासी एवं आवर्धित प्रतिबिंब हेतु वस्तु की स्थिति कहाँ होनी चाहिए? सचित्र बताएँ।"
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Why does a coin kept in water appear raised?",
+      "prashna": "पानी में रखा सिक्का उठा हुआ दिखता है। क्यों?"
+    },
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "The radius of curvature of a convex mirror used for rear view in an automobile is $5\text{ metres}$. If a bus is located at $5\text{ m}$ from this mirror, find the position, nature, and size of the image.",
+      "prashna": "किसी ऑटोमोबाइल में पीछे का दृश्य देखने के लिए उपयोग होने वाले उत्तर दर्पण की वक्रता त्रिज्या $5$ मीटर है। यदि एक बस इस दर्पण से $5$ मी की दूरी पर स्थित है तो प्रतिबिंब की स्थिति, प्रकृति तथा आकार ज्ञात करें।"
+    },
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "What do you understand by lateral displacement?",
+      "prashna": "पाश्विक विस्थापन से आप क्या समझते हैं ?"
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "How will you identify a convex lens, a concave lens, and a circular glass slab by touching their surfaces?",
+      "prashna": "दिए गए उत्तल लेंस, अवतल लेंस एवं काँच की एक वृत्ताकार पट्टिका के सतहों को छुए बिना उनकी पहचान कैसे करेंगे ?"
+    }
+  ],
+  "2015": [
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "To get the image equal to the size of object where should an object be placed before convex lens?",
+      "prashna": "उत्तल लेंस के सामने वस्तु कहाँ रखने पर प्रतिबिम्ब वस्तु के बराबर आकार का बनेगा ?"
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "What is refraction of light? Define its law.",
+      "prashna": "प्रकाश का अपवर्तन क्या है ? इसके नियम लिखें।"
+    },
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Prove $R = 2f$ in a concave mirror.",
+      "prashna": "अवतल दर्पण में $R = 2f$ सिद्ध करें।"
+    },
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "How many laws of reflection of light are there?",
+      "prashna": "प्रकाश के परावर्तन के कितने नियम हैं ?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      }
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "The value of refractive index of a medium is",
+      "prashna": "किसी माध्यम के अपवर्तनांक का मान होता है",
+      "options": {
+        "A": "$\frac{\\sin i}, {\\sin r}$",
+        "B": "$\frac{\\sin r}, {\\sin i}$",
+        "C": "$\\sin i \times \\sin r$",
+        "D": "$\\sin i + \\sin r$"
+      },
+      "vikalpa": {
+        "A": "$\frac{\\sin i}, {\\sin r}$",
+        "B": "$\frac{\\sin r}, {\\sin i}$",
+        "C": "$\\sin i \times \\sin r$",
+        "D": "$\\sin i + \\sin r$"
+      }
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "The image formed by plane mirror is",
+      "prashna": "समतल दर्पण द्वारा बना प्रतिबिम्ब होता है",
+      "options": {
+        "A": "real",
+        "B": "virtual",
+        "C": "both (a) and (b)",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "वास्तविक",
+        "B": "काल्पनिक",
+        "C": "(a) और (b) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "What is refraction of light? Write its laws.",
+      "prashna": "प्रकाश का अपवर्तन क्या है? इसके नियम लिखें।"
+    },
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Prove $R = 2f$ for a concave mirror.",
+      "prashna": "अवतल दर्पण में $R = 2f$ सिद्ध करें।"
+    },
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "How many laws of reflection of light are there?",
+      "prashna": "प्रकाश के परावर्तन के कितने नियम है?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      }
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "The value of the refractive index of a medium is:",
+      "prashna": "किसी माध्यम के अपवर्तनांक का मान होता है:",
+      "options": {
+        "A": "$\\sin i / \\sin r$",
+        "B": "$\\sin r / \\sin i$",
+        "C": "$\\sin i \times \\sin r$",
+        "D": "$\\sin i + \\sin r$"
+      },
+      "vikalpa": {
+        "A": "$\\sin i / \\sin r$",
+        "B": "$\\sin r / \\sin i$",
+        "C": "$\\sin i \times \\sin r$",
+        "D": "$\\sin i + \\sin r$"
+      }
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "The image formed by a plane mirror is:",
+      "prashna": "समतल दर्पण द्वारा बना प्रतिबिंब होता है:",
+      "options": {
+        "A": "Real",
+        "B": "Virtual",
+        "C": "Both (A) and (B)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "वास्तविक",
+        "B": "काल्पनिक",
+        "C": "(A) और (B) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ],
+  "2016": [
+    {
+      "id": "short_17",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "What is reflection of light ? Describe its laws with diagram.",
+      "prashna": "प्रकाश का परावर्तन क्या है ? इसके नियमों का सचित्र उल्लेख करें।"
+    },
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Why is convex lens called converging lens ?",
+      "prashna": "उत्तर लेंस को अभिसारी लेंस क्यों कहा जाता है ?"
+    },
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "The image formed by plane mirror is",
+      "prashna": "समतल दर्पण द्वारा बना प्रतिबिम्ब होता है",
+      "options": {
+        "A": "virtual",
+        "B": "real",
+        "C": "both (A) and (B)",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "काल्पनिक",
+        "B": "वास्तविक",
+        "C": "(a) और (b) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "By which lens only virtual image is formed ?",
+      "prashna": "किस लेंस के द्वारा सिर्फ काल्पनिक प्रतिबिम्ब बनता है ?",
+      "options": {
+        "A": "Convex",
+        "B": "Concave",
+        "C": "Bifocal",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "उत्तल",
+        "B": "अवतल",
+        "C": "बाईफोकल",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "What is reflection of light? Illustrate its laws with a diagram.",
+      "prashna": "प्रकाश का परावर्तन क्या है? इसके नियमों का सचित्र उल्लेख करें।"
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Why is a convex lens called a converging lens?",
+      "prashna": "उत्तल लेंस को अभिसारी लेंस क्यों कहा जाता है?"
+    },
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "The image formed by a plane mirror is:",
+      "prashna": "समतल दर्पण द्वारा बना प्रतिबिंब होता है",
+      "options": {
+        "A": "Virtual",
+        "B": "Real",
+        "C": "Both (A) and (B)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "काल्पनिक",
+        "B": "वास्तविक",
+        "C": "(a) और (b) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Through which lens is only a virtual image formed?",
+      "prashna": "किस लेंस के द्वारा सिर्फ काल्पनिक प्रतिबिंब बनता है?",
+      "options": {
+        "A": "Convex",
+        "B": "Concave",
+        "C": "Bifocal",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "उत्तल",
+        "B": "अवतल",
+        "C": "बाईफोकल",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ],
   "2017": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Which type of mirror is used in front of driver?",
+      "prashna": "मोटर गाडी चालक के सामने कौन सा दर्पण लगा रहता है?"
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "How many Laws of refraction of light are there?",
+      "prashna": "प्रकाश के अपवर्तन के कितने नियम हैं?"
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Which lens is known as diverging lens?",
+      "prashna": "किस लेंस को अपसारी लेंस कहते हैं?"
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "What is magnification? Explain it.",
+      "prashna": "आवर्धन किसे कहते हैं? वर्णन करें।"
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Write formula of relation between focal length and radius of curvature in concave mirror.",
+      "prashna": "अवतल दर्पण में फोकस दूरी ($f$) और वक्रता त्रिज्या में क्या सम्बन्ध है?"
+    },
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "The ray of light passes through",
+      "prashna": "प्रकाश की किरणें गमन करती है",
+      "options": {
+        "A": "In straight line",
+        "B": "In Zig Zag line",
+        "C": "In any direction",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "सीधी रेखा में",
+        "B": "टेढ़ी रेखा में",
+        "C": "किसी भी दिशा में",
+        "D": "इनमें कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Which mirror is used as shaving mirror?",
+      "prashna": "हजामत के लिए किस दर्पण का उपयोग होता है?",
+      "options": {
+        "A": "Concave mirror",
+        "B": "Convex mirror",
+        "C": "Plane mirror",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "अवतल दर्पण",
+        "B": "उत्तल दर्पण",
+        "C": "समतल दर्पण",
+        "D": "इनमें कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "The reflective surface of search light is :-",
+      "prashna": "सर्चलाइट का परावर्तक सतह होता है :-",
+      "options": {
+        "A": "Convex",
+        "B": "Concave",
+        "C": "Plane",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "उत्तल",
+        "B": "अवतल",
+        "C": "समतल",
+        "D": "इनमें कोई नहीं"
+      }
+    },
     {
       "id": "short_1",
       "type": "short_answer",
@@ -78,6 +846,122 @@
     }
   ],
   "2018": [
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Which mirror do the dentists use to see large images of the teeth of patients?",
+      "prashna": "दंत विशेषज्ञ किस दर्पण का उपयोग मरीजों के दाँतों का बड़ा प्रतिबिंब देखने के लिए करता है?",
+      "options": {
+        "A": "Plane Mirror",
+        "B": "Concave Mirror",
+        "C": "Convex Mirror",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "समतल दर्पण",
+        "B": "अवतल दर्पण",
+        "C": "उत्तल दर्पण",
+        "D": "इनमें सभी"
+      }
+    },
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Which lens is also called diverging lens?",
+      "prashna": "कौन सा लेंस अपसारी लेंस भी कहलाता है?",
+      "options": {
+        "A": "Concave lens",
+        "B": "Convex lens",
+        "C": "Both the concave and convex lens",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "अवतल लेंस",
+        "B": "उत्तल लेंस",
+        "C": "अवतल एवं उत्तल लेंस दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "In an experiment, the image of an object formed by a concave mirror is obtained on a screen. To determine the focal length of the mirror, the experimenter needs to measure the distance between the:",
+      "prashna": "एक प्रयोग में अवतल दर्पण द्वारा किसी बिंब का प्रतिबिंब एक पर्दे पर प्राप्त किया जाता है। दर्पण की फोकस दूरी को निर्धारित करने के लिए प्रयोगकर्ता को मापने की जरूरत है -",
+      "options": {
+        "A": "Mirror and Screen",
+        "B": "Mirror and Object",
+        "C": "Both (A) and (B)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "दर्पण तथा पर्दे के बीच की दूरी को",
+        "B": "दर्पण तथा बिंब के बीच की दूरी को",
+        "C": "(A) और (B) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Which of the following lenses would you prefer to use while reading small letters found in a dictionary?",
+      "prashna": "शब्दकोष के छोटे अक्षरों को पढ़ने के लिए आप किस लेंस का उपयोग करना पसंद करेंगे?",
+      "options": {
+        "A": "A convex lens of focal length $50 cm$.",
+        "B": "A concave lens of focal length $50 cm$.",
+        "C": "A convex lens of focal length $5 cm$.",
+        "D": "A concave lens of focal length $5 cm$."
+      },
+      "vikalpa": {
+        "A": "$50 cm$ फोकस दूरी का उत्तल लेंस",
+        "B": "$50 cm$ फोकस दूरी का अवतल लेंस",
+        "C": "$5 cm$ फोकस दूरी का उत्तल लेंस",
+        "D": "$5 cm$ फोकस दूरी का अवतल लेंस"
+      }
+    },
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "What kind of mirror would be most suited for a solar cooker?",
+      "prashna": "सौर कुकर के लिए कौन सा दर्पण सर्वाधिक उपयुक्त होता है?",
+      "options": {
+        "A": "Plane mirror",
+        "B": "Convex mirror",
+        "C": "Concave mirror",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "समतल दर्पण",
+        "B": "उत्तल दर्पण",
+        "C": "अवतल दर्पण",
+        "D": "इनमें सभी"
+      }
+    },
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Illustrate the new Cartesian sign convention for reflection by spherical mirrors.",
+      "prashna": "गोलीय दर्पणों द्वारा परावर्तन के लिए नयी कार्तीय चिन्ह परिपाटी दर्शायें।"
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Draw a ray diagram for image of an object placed at centre of curvature of a convex lens. Write the nature, position, and size of the image formed by the lens.",
+      "prashna": "उत्तल लेंस के वक्रता केन्द्र पर रखे बिंब के प्रतिबिंब के लिए एक किरण आरेख खींचें और उस प्रतिबिंब की प्रकृति, आकार (साइज) एवं स्थान को लिखें।"
+    },
     {
       "id": "obj_1",
       "type": "objective",
@@ -579,6 +1463,500 @@
         "B": "उत्तल दर्पण का उपयोग साइड मिरर के रूप में क्यों किया जाता है ?",
         "C": "अवतल दर्पण का उपयोग सोलर कुकर में क्यों किया जाता है ?"
       }
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_57",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Oily paper is",
+      "prashna": "तैलीय कागज होता है",
+      "options": {
+        "A": "Transparent",
+        "B": "Opaque",
+        "C": "Translucent",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "पारदर्शक",
+        "B": "अपारदर्शक",
+        "C": "पारभासक",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "What is the S.I. unit of magnification produced by a lens?",
+      "prashna": "लेंस द्वारा उत्पन्न आवर्धन की S.I. इकाई क्या है?",
+      "options": {
+        "A": "m",
+        "B": "cm",
+        "C": "mm",
+        "D": "Unitless"
+      },
+      "vikalpa": {
+        "A": "मी",
+        "B": "सेमी",
+        "C": "मिमी",
+        "D": "मात्रक विहीन"
+      }
+    },
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Speed of light in different media is",
+      "prashna": "प्रकाश की चाल विभिन्न माध्यमों में",
+      "options": {
+        "A": "Same",
+        "B": "Different",
+        "C": "Both (A) and (B)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "समान होती है",
+        "B": "भिन्न-भिन्न होती है",
+        "C": "(A) और (B) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_60",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Speed of light in air as compared to vacuum is",
+      "prashna": "वायु में प्रकाश की चाल निर्वात की अपेक्षा होती है",
+      "options": {
+        "A": "Less",
+        "B": "More",
+        "C": "Same",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "कम",
+        "B": "ज्यादा",
+        "C": "समान",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_61",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Number of principal focus in a lens is",
+      "prashna": "लेंस में मुख्य फोकस की संख्या होती है",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      }
+    },
+    {
+      "id": "obj_73",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Which mirror is used for shaving?",
+      "prashna": "दाढ़ी बनाने के लिए कौन-सा दर्पण प्रयुक्त होता है",
+      "options": {
+        "A": "Convex mirror",
+        "B": "Plane mirror",
+        "C": "Concave mirror",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "उत्तल दर्पण",
+        "B": "समतल दर्पण",
+        "C": "अवतल दर्पण",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_75",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "The focal length of a plane mirror is",
+      "prashna": "समतल दर्पण की फोकस दूरी होती है",
+      "options": {
+        "A": "Infinite",
+        "B": "Zero",
+        "C": "100 cm",
+        "D": "50 cm"
+      },
+      "vikalpa": {
+        "A": "अनंत",
+        "B": "शून्य",
+        "C": "100 cm",
+        "D": "50 cm"
+      }
+    },
+    {
+      "id": "obj_76",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Where should an object be placed in front of a concave mirror so that the image is inverted, real, and of the same size?",
+      "prashna": "अवतल दर्पण के सामने वस्तु को कहाँ रखा जाय ताकि प्रतिबिम्ब उल्टा, वास्तविक और समान आकार बने ?",
+      "options": {
+        "A": "At Pole",
+        "B": "At Infinity",
+        "C": "At Centre of Curvature",
+        "D": "At Focus"
+      },
+      "vikalpa": {
+        "A": "ध्रुव पर",
+        "B": "अनंत पर",
+        "C": "वक्रता केन्द्र पर",
+        "D": "फोकस पर"
+      }
+    },
+    {
+      "id": "obj_79",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "The virtual image formed by a convex mirror is",
+      "prashna": "उत्तल दर्पण से बना काल्पनिक प्रतिबिम्ब होता है",
+      "options": {
+        "A": "Erect and magnified",
+        "B": "Inverted and magnified",
+        "C": "Erect and diminished",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "सीधा एवं आवर्धित",
+        "B": "अल्टा एवं आवर्धित",
+        "C": "सीधा एवं हासित",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_80",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Magnification (m) of a concave lens is equal to",
+      "prashna": "अवतल लेंस का आवर्धन (m) बराबर होता है",
+      "options": {
+        "A": "$v/u$",
+        "B": "$uv$",
+        "C": "$u/v$",
+        "D": "$u+v$"
+      },
+      "vikalpa": {
+        "A": "$v/u$",
+        "B": "$uv$",
+        "C": "$u/v$",
+        "D": "$u+v$"
+      }
+    },
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Where should the object be placed in front of a convex lens to get a virtual and magnified image? Explain with a diagram.",
+      "prashna": "उत्तल लेंस में वस्तु का आबासी एवं आवर्धित प्रतिबिंब हेतु वस्तु की स्थिति कहाँ होनी चाहिए? सचित्र बताएँ।"
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "A coin kept in water appears raised. Why?",
+      "prashna": "पानी में रखा सिक्का उठा हुआ दिखता है। क्यों?"
+    },
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "The radius of curvature of a convex mirror used for rear-view in an automobile is $5 m$. If a bus is located at a distance of $5 m$ from this mirror, find the position, nature, and size of the image.",
+      "prashna": "किसी ऑटोमोबाइल में पीछे का दृश्य देखने के लिए उपयोग होने वाले उत्तल दर्पण की वक्रता त्रिज्या $5$ मीटर है। यदि एक बस इस दर्पण से $5$ मी की दूरी पर स्थित है तो प्रतिबिंव की स्थिति, प्रकृति तथा आकार ज्ञात करें।"
+    },
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Which of the following materials cannot be used to make a lens?",
+      "prashna": "निम्न में कौन-सा पदार्थ लेंस के लिए प्रयुक्त नहीं किया जा सकता है?",
+      "options": {
+        "A": "Water",
+        "B": "Glass",
+        "C": "Brass",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "जल",
+        "B": "काँच",
+        "C": "पीतल",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Which of the following numbers is correct for the laws of refraction of light?",
+      "prashna": "निम्नलिखित में कौन संख्या प्रकाश के अपवर्तन के नियम के लिए सही है?",
+      "options": {
+        "A": "2",
+        "B": "1",
+        "C": "3",
+        "D": "4"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "1",
+        "C": "3",
+        "D": "4"
+      }
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "The value of the refractive index ($\\mu$) of a medium is",
+      "prashna": "किसी माध्यम के अपवर्तनांक ($\\mu$) का मान होता है।",
+      "options": {
+        "A": "$\\sin r / \\sin i$",
+        "B": "$\\sin i / \\sin r$",
+        "C": "$\\sin i \times \\sin r$",
+        "D": "$\\sin i + \\sin r$"
+      },
+      "vikalpa": {
+        "A": "$\\sin r / \\sin i$",
+        "B": "$\\sin i / \\sin r$",
+        "C": "$\\sin i \times \\sin r$",
+        "D": "$\\sin i + \\sin r$"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "If the focal length of a spherical mirror is $+20\text{ cm}$, then what kind of spherical mirror is it?",
+      "prashna": "एक गोलीय दर्पण की फोकस दूरी $+20\text{ cm}$ है, तो यह गोलीय दर्पण कैसा है?",
+      "options": {
+        "A": "Convex",
+        "B": "Concave",
+        "C": "Equi-convex",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "उत्तल",
+        "B": "अवतल",
+        "C": "समतलोत्तल",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "The reason why pond water appears less deep is",
+      "prashna": "तालाब का जल कम गहरा दिखाई देने का कारण है।",
+      "options": {
+        "A": "Reflection",
+        "B": "Diffraction",
+        "C": "Refraction",
+        "D": "Polarization"
+      },
+      "vikalpa": {
+        "A": "परावर्तन",
+        "B": "विवर्तन",
+        "C": "अपवर्तन",
+        "D": "ध्रुवण"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "The focal length of a concave mirror is",
+      "prashna": "अवतल दर्पण की फोकस दूरी होती है।",
+      "options": {
+        "A": "Negative",
+        "B": "Positive",
+        "C": "Both negative and positive",
+        "D": "Zero"
+      },
+      "vikalpa": {
+        "A": "ऋणात्मक",
+        "B": "धनात्मक",
+        "C": "ऋणात्मक एवं धनात्मक दोनों",
+        "D": "शून्य"
+      }
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "If the focal length of a concave mirror is $f$ and its radius of curvature is $R$, then which of the following relations is correct?",
+      "prashna": "किसी अवतल दर्पण की फोकस दूरी ($f$) और उसकी वक्रता त्रिज्या $R$ है, तो निम्नांकित में कौन संबंध सही है?",
+      "options": {
+        "A": "$R = f$",
+        "B": "$R = 2f$",
+        "C": "$R = 3f$",
+        "D": "$R = r/2$"
+      },
+      "vikalpa": {
+        "A": "$R = f$",
+        "B": "$R = 2f$",
+        "C": "$R = 3f$",
+        "D": "$R = r/2$"
+      }
+    },
+    {
+      "id": "obj_49",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "How many laws of reflection of light are there?",
+      "prashna": "प्रकाश के परावर्तन के कितने नियम हैं?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "The magnification of a concave lens is",
+      "prashna": "अवतल लेंस का आवर्धन होता है।",
+      "options": {
+        "A": "$u/v$",
+        "B": "$uv$",
+        "C": "$u + v$",
+        "D": "$v/u$"
+      },
+      "vikalpa": {
+        "A": "$u/v$",
+        "B": "$uv$",
+        "C": "$u + v$",
+        "D": "$v/u$"
+      }
+    },
+    {
+      "id": "obj_51",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "The mirror formula is",
+      "prashna": "दर्पण का सूत्र है",
+      "options": {
+        "A": "$\frac{1}, {v} + \frac{1}, {u} + \frac{1}, {f}$",
+        "B": "$\frac{1}, {v} - \frac{1}, {u} = \frac{1}, {f}$",
+        "C": "$\frac{1}, {f} + \frac{1}, {u} = \frac{1}, {v}$",
+        "D": "$\frac{1}, {f} + \frac{1}, {v} = \frac{1}, {u}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{1}, {v} + \frac{1}, {u} + \frac{1}, {f}$",
+        "B": "$\frac{1}, {v} - \frac{1}, {u} = \frac{1}, {f}$",
+        "C": "$\frac{1}, {f} + \frac{1}, {u} = \frac{1}, {v}$",
+        "D": "$\frac{1}, {f} + \frac{1}, {v} = \frac{1}, {u}$"
+      }
+    },
+    {
+      "id": "obj_53",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Which lens is also known as a converging lens in air?",
+      "prashna": "कौन-सा लेंस हवा में अभिसारी लेंस भी कहलाता है?",
+      "options": {
+        "A": "Concave lens",
+        "B": "Convex lens",
+        "C": "Both concave and convex lens",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "अवतल लेंस",
+        "B": "उत्तल लेंस",
+        "C": "अवतल लेंस एवं उत्तल लेंस दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_54",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "The image formed in a convex mirror is",
+      "prashna": "उत्तल दर्पण में प्रतिबिम्ब बनता है।",
+      "options": {
+        "A": "Real",
+        "B": "Virtual",
+        "C": "Both real and virtual",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "वास्तविक",
+        "B": "आभासी",
+        "C": "वास्तविक तथा आभासी",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_55",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "How many types of optical media are there?",
+      "prashna": "प्रकाशिक माध्यम कितने प्रकार के होते हैं?",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four"
+      },
+      "vikalpa": {
+        "A": "एक",
+        "B": "दो",
+        "C": "तीन",
+        "D": "चार"
+      }
+    },
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Light - Reflection and Refraction",
+      "question": "Find the power of a concave lens having a focal length of $2\text{m}$.",
+      "prashna": "$2\text{m}$ फोकस दूरी वाले किस अवतल लेंस की क्षमता ज्ञात करें।"
     }
   ],
   "2022": [

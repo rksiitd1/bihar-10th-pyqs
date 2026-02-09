@@ -1,5 +1,125 @@
 {
+  "2011": [
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Draw a labeled diagram of an electric bulb.",
+      "prashna": "विद्युत बल्ब का नामांकित चित्र बनाइए।"
+    }
+  ],
+  "2014": [
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "If the resistance of the filament of an electric bulb is $1200\\Omega$, how much current will the bulb draw from a $220\text{ V}$ source?",
+      "prashna": "यदि किसी विद्युत बल्ब के तंतु का प्रतिरोध $1200\\Omega$ है तो बल्ब $220\text{ V}$ स्रोत से कितनी विद्युत धारा लेगा?"
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Give the definition of the strength of electric current.",
+      "prashna": "विद्युत धारा की प्रबलता की परिभाषा दें।"
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Write three main characteristics of a fuse wire.",
+      "prashna": "फ्यूज के तार की तीन प्रमुख विशेषताएँ लिखें।"
+    }
+  ],
+  "2015": [
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "In Ohm's law which value remains constant?",
+      "prashna": "ओम के नियम में किसका मान नियतांक होता है ?"
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Which works as positive terminal in simple cell?",
+      "prashna": "सरल सेल में धन ध्रुव का कार्य कौन करता है ?"
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "What is electric current? Write its equation and unit.",
+      "prashna": "विद्युत धारा क्या है ? इसका समीकरण एवं मात्रक लिखें।"
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "What is electric current? Write its equation and unit.",
+      "prashna": "विद्युत धारा क्या है? इसका समीकरण एवं मात्रक लिखें।"
+    }
+  ],
+  "2016": [
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "$100 W - 220 V$ is printed on an electric bulb. How much current will pass through the bulb ?",
+      "prashna": "विद्युत बल्ब पर $100 W - 220 V$ अंकित है। बल्ब से प्रवाहित विद्युत धारा का मान बताएँ।"
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "What is the S.I. unit of resistance?",
+      "prashna": "प्रतिरोध का S.I. मात्रक क्या है ?"
+    },
+    {
+      "id": "short_23",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "What is grouping of resistances ? What are its types ?",
+      "prashna": "प्रतिरोधों का संयोजन क्या है ? यह कितने प्रकार से होता है ?"
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "What is the combination of resistors? How many types are there?",
+      "prashna": "प्रतिरोधों का संयोजन क्या है? यह कितने प्रकार से होता है ?"
+    }
+  ],
   "2017": [
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "What is commercial unit of electrical energy?",
+      "prashna": "विद्युत ऊर्जा का व्यवसायिक मात्रक क्या है?"
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "What do you mean by Electric charge? Write types of Electric charge.",
+      "prashna": "विद्युत आवेश क्या है? विद्युत आवेश कितने प्रकार के होते हैं?"
+    },
     {
       "id": "short_3",
       "type": "short_answer",
@@ -10,6 +130,22 @@
     }
   ],
   "2018": [
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Why an ammeter and a voltmeter are connected in an electric circuit in series and in parallel respectively?",
+      "prashna": "ऐमीटर और वोल्टमीटर को विद्युत परिपथ के साथ क्रमश: श्रेणी एवं समांतर क्रम में क्यों जोड़ा जाता है?"
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Two lamps, one rated $100W$ at $220V$ and the other $60W$ at $220V$, are connected in parallel to electric mains supply. What current is drawn from the main line if the supply voltage is $220V$?",
+      "prashna": "दो विद्युत लैंप जिनमें से एक का अनुमतांक $100W, 220V$ तथा दूसरे का $60W, 220V$ है, विद्युत मेंस के साथ पार्श्वक्रम में संयोजित है। यदि विद्युत आपूर्ति की वोल्टता $220V$ है तो विद्युत मेंस से कितनी धारा ली जाती है?"
+    },
     {
       "id": "short_3",
       "type": "short_answer",
@@ -85,6 +221,56 @@
       "chapter_name": "Electricity",
       "question": "Write Ohm's law.",
       "prashna": "ओम के नियम को लिखें।"
+    }
+  ],
+  "2021": [
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "If the resistance of the filament of an electric bulb is $1200\\Omega$, how much current will the bulb draw from a $220 V$ source?",
+      "prashna": "यदि किसी विद्युत बल्ब के तंतु का प्रतिरोध $1200\\Omega$ है तो बल्ब $220 V$ स्रोत से कितनी विद्युत धारा लेगा?"
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Define the strength of electric current.",
+      "prashna": "विद्युत धारा की प्रबलता की परिभाषा दें।"
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Write three main characteristics of fuse wire.",
+      "prashna": "फ्यूज के तार की तीन प्रमुख विशेषताएँ लिखें।"
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Draw a labeled diagram of an electric bulb.",
+      "prashna": "विद्युत बल्ब का नामांकित चित्र बनाइए।"
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "What is nuclear fusion?",
+      "prashna": "नाभिकीय संलयन क्या है?"
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Define Ampere.",
+      "prashna": "ऐम्पियर की परिभाषा दें।"
     }
   ],
   "2022": [

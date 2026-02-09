@@ -2,19 +2,19 @@
   {
     "type": "objective",
     "total_chapters": 13,
-    "total_items": 1109,
+    "total_items": 1133,
     "chapters": [
       {
         "chapter": "N/A",
         "file": "chapter-na.json",
-        "total_items": 553,
-        "years": 7
+        "total_items": 567,
+        "years": 9
       },
       {
         "chapter": "0",
         "file": "chapter-0.json",
-        "total_items": 101,
-        "years": 2
+        "total_items": 111,
+        "years": 3
       },
       {
         "chapter": "5",
@@ -86,32 +86,50 @@
   },
   {
     "type": "short",
-    "total_chapters": 10,
-    "total_items": 210,
+    "total_chapters": 11,
+    "total_items": 332,
     "chapters": [
       {
         "chapter": "N/A",
         "file": "chapter-na.json",
-        "total_items": 108,
-        "years": 7
+        "total_items": 189,
+        "years": 12
       },
       {
         "chapter": "5",
         "file": "chapter-5.json",
-        "total_items": 31,
+        "total_items": 35,
+        "years": 10
+      },
+      {
+        "chapter": "0",
+        "file": "chapter-0.json",
+        "total_items": 36,
+        "years": 4
+      },
+      {
+        "chapter": "2",
+        "file": "chapter-2.json",
+        "total_items": 14,
         "years": 7
+      },
+      {
+        "chapter": "8",
+        "file": "chapter-8.json",
+        "total_items": 22,
+        "years": 8
+      },
+      {
+        "chapter": "None",
+        "file": "chapter-none.json",
+        "total_items": 4,
+        "years": 1
       },
       {
         "chapter": "6",
         "file": "chapter-6.json",
         "total_items": 9,
         "years": 4
-      },
-      {
-        "chapter": "2",
-        "file": "chapter-2.json",
-        "total_items": 13,
-        "years": 6
       },
       {
         "chapter": "1",
@@ -126,12 +144,6 @@
         "years": 3
       },
       {
-        "chapter": "8",
-        "file": "chapter-8.json",
-        "total_items": 16,
-        "years": 6
-      },
-      {
         "chapter": "7",
         "file": "chapter-7.json",
         "total_items": 3,
@@ -142,43 +154,43 @@
         "file": "chapter-3.json",
         "total_items": 6,
         "years": 4
-      },
-      {
-        "chapter": "0",
-        "file": "chapter-0.json",
-        "total_items": 10,
-        "years": 1
       }
     ]
   },
   {
     "type": "comprehension",
-    "total_chapters": 11,
-    "total_items": 55,
+    "total_chapters": 12,
+    "total_items": 64,
     "chapters": [
-      {
-        "chapter": "0",
-        "file": "chapter-0.json",
-        "total_items": 5,
-        "years": 2
-      },
       {
         "chapter": "N/A",
         "file": "chapter-na.json",
-        "total_items": 23,
-        "years": 7
+        "total_items": 26,
+        "years": 9
+      },
+      {
+        "chapter": "0",
+        "file": "chapter-0.json",
+        "total_items": 9,
+        "years": 5
+      },
+      {
+        "chapter": "6",
+        "file": "chapter-6.json",
+        "total_items": 5,
+        "years": 3
+      },
+      {
+        "chapter": "None",
+        "file": "chapter-none.json",
+        "total_items": 1,
+        "years": 1
       },
       {
         "chapter": "5",
         "file": "chapter-5.json",
         "total_items": 6,
         "years": 4
-      },
-      {
-        "chapter": "6",
-        "file": "chapter-6.json",
-        "total_items": 4,
-        "years": 2
       },
       {
         "chapter": "3",
@@ -227,19 +239,19 @@
   {
     "type": "letter_writing",
     "total_chapters": 8,
-    "total_items": 60,
+    "total_items": 62,
     "chapters": [
-      {
-        "chapter": "0",
-        "file": "chapter-0.json",
-        "total_items": 8,
-        "years": 2
-      },
       {
         "chapter": "N/A",
         "file": "chapter-na.json",
-        "total_items": 30,
-        "years": 6
+        "total_items": 31,
+        "years": 7
+      },
+      {
+        "chapter": "0",
+        "file": "chapter-0.json",
+        "total_items": 9,
+        "years": 3
       },
       {
         "chapter": "3",
@@ -281,63 +293,75 @@
   },
   {
     "type": "essay",
-    "total_chapters": 6,
-    "total_items": 59,
+    "total_chapters": 7,
+    "total_items": 88,
     "chapters": [
-      {
-        "chapter": "0",
-        "file": "chapter-0.json",
-        "total_items": 6,
-        "years": 2
-      },
       {
         "chapter": "N/A",
         "file": "chapter-na.json",
-        "total_items": 31,
-        "years": 6
+        "total_items": 45,
+        "years": 10
       },
       {
-        "chapter": "5",
-        "file": "chapter-5.json",
-        "total_items": 9,
-        "years": 4
+        "chapter": "0",
+        "file": "chapter-0.json",
+        "total_items": 16,
+        "years": 5
       },
       {
         "chapter": "1",
         "file": "chapter-1.json",
-        "total_items": 5,
-        "years": 3
+        "total_items": 6,
+        "years": 4
+      },
+      {
+        "chapter": "5",
+        "file": "chapter-5.json",
+        "total_items": 11,
+        "years": 5
+      },
+      {
+        "chapter": "8",
+        "file": "chapter-8.json",
+        "total_items": 4,
+        "years": 2
+      },
+      {
+        "chapter": "None",
+        "file": "chapter-none.json",
+        "total_items": 1,
+        "years": 1
       },
       {
         "chapter": "Vyakaran",
         "file": "chapter-vyakaran.json",
         "total_items": 5,
         "years": 1
-      },
-      {
-        "chapter": "8",
-        "file": "chapter-8.json",
-        "total_items": 3,
-        "years": 1
       }
     ]
   },
   {
     "type": "translation",
-    "total_chapters": 8,
-    "total_items": 145,
+    "total_chapters": 9,
+    "total_items": 182,
     "chapters": [
-      {
-        "chapter": "0",
-        "file": "chapter-0.json",
-        "total_items": 22,
-        "years": 2
-      },
       {
         "chapter": "N/A",
         "file": "chapter-na.json",
-        "total_items": 70,
-        "years": 6
+        "total_items": 93,
+        "years": 10
+      },
+      {
+        "chapter": "0",
+        "file": "chapter-0.json",
+        "total_items": 35,
+        "years": 5
+      },
+      {
+        "chapter": "None",
+        "file": "chapter-none.json",
+        "total_items": 1,
+        "years": 1
       },
       {
         "chapter": "5",

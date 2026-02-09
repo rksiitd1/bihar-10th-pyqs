@@ -1,5 +1,51 @@
 {
+  "2012": [
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Describe myopia (near-sightedness) with a clear diagram.",
+      "prashna": "साफ चित्र द्वारा निकट दृष्टि दोष का वर्णन करें।"
+    }
+  ],
+  "2016": [
+    {
+      "id": "long_1_1",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "What is vision defect? Name its types. How can they be removed ?",
+      "prashna": "दृष्टि दोष क्या है ? यह कितने प्रकार के होते हैं ? इनका निवारण कैसे किया जाता है ?"
+    },
+    {
+      "id": "long_1_1",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "What is a defect of vision? How many types are there? How are they corrected?",
+      "prashna": "दृष्टि दोष क्या है? यह कितने प्रकार के होते हैं? इनका निवारण कैसे किया जाता है?"
+    }
+  ],
   "2018": [
+    {
+      "id": "long_1_1",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "State types of defects of vision. Write these eye defects and their correction in brief. The far point of a myopic person is $80cm$ in front of the eye. What is the nature and power of the lens required to correct the problem?",
+      "prashna": "दृष्टि दोष के प्रकार लिखें। इन दोषों तथा उनके संशोधन के बारे में संक्षेप में लिखें। किसी निकट दृष्टि से पीड़ित व्यक्ति का दूर बिन्दु नेत्र के सामने $80 cm$ दूरी पर है। इस दोष को संशोधित करने के लिए आवश्यक लेंस की प्रकृति तथा क्षमता क्या होगी?",
+      "sub_questions": {
+        "a": "State types of defects of vision.",
+        "b": "Write these eye defects and their correction in brief.",
+        "c": "The far point of a myopic person is $80cm$ in front of the eye. What is the nature and power of the lens required to correct the problem?"
+      },
+      "anuprashna": {
+        "a": "दृष्टि दोष के प्रकार लिखें।",
+        "b": "इन दोषों तथा उनके संशोधन के बारे में संक्षेप में लिखें।",
+        "c": "किसी निकट दृष्टि से पीड़ित व्यक्ति का दूर बिन्दु नेत्र के सामने $80 cm$ दूरी पर है। इस दोष को संशोधित करने के लिए आवश्यक लेंस की प्रकृति तथा क्षमता क्या होगी?"
+      }
+    },
     {
       "id": "long_1_2",
       "type": "long_answer",
@@ -45,6 +91,16 @@
       "chapter_name": "The Human Eye and the Colourful World",
       "question": "What is short sightedness (myopia)? What are its causes? Explain the method of removing this defect with diagram.",
       "prashna": "निकट-दृष्टि दोष किसे कहते हैं ? इसके क्या कारण हैं ? इसके संशोधन की विधि को सचित्र समझायें।"
+    }
+  ],
+  "2021": [
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "What do you understand by dispersion of light? Explain the formation of a rainbow.",
+      "prashna": "प्रकाश के वर्ण-विक्षेपण से आप क्या समझते हैं? इन्द्रधनुष की व्याख्या करें।"
     }
   ],
   "2025": [

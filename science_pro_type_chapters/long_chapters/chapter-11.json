@@ -1,5 +1,89 @@
 {
+  "2011": [
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Define electric current, potential difference and resistance along with their S.I. units and establish the relationship between them with an explanation of the law.",
+      "prashna": "S.I. मात्रक के साथ विद्युत धारा, विभवान्तर और प्रतिरोध को परिभाषित करें और इनमें संबंध नियम की व्याख्या के साथ स्थापित करें।"
+    }
+  ],
+  "2012": [
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Find the equivalent resistance of two resistors connected in parallel.",
+      "prashna": "समांनातर श्रेणी में संयोजित दो प्रतिरोधों का तुल्य प्रतिरोध ज्ञात करें।"
+    }
+  ],
+  "2013": [
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "State Ohm's law. Verify this law using an ammeter and voltmeter.",
+      "prashna": "ओम के नियम को लिखें। एमीटर एवं वोल्टमीटर द्वारा इस नियम की जाँच करें।"
+    }
+  ],
+  "2014": [
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "What is called parallel combination of resistors? Obtain the expression for equivalent resistance when resistors $R_1, R_2$ and $R_3$ are connected in parallel.",
+      "prashna": "प्रतिरोधों का पार्श्वक्रम संयोजन किसे कहते हैं? प्रतिरोध $R_1, R_2$ तथा $R_3$ को पार्श्वक्रम में संयोजित करने पर समतुल्य प्रतिरोध का व्यंजक प्राप्त करें।"
+    }
+  ],
+  "2015": [
+    {
+      "id": "long_1_1",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Find the electric current ($I$) in the following circuit :",
+      "prashna": "विद्युत धारा ($I$) का मान ज्ञात करें :"
+    },
+    {
+      "id": "long_1_1",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Find the value of electric current ($I$).",
+      "prashna": "विद्युत धारा ($I$) का मान ज्ञात करें।"
+    }
+  ],
+  "2016": [
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "What is resistance ? How is the resistance of a coil calculated practically with the help of ammeter and voltmeter ?",
+      "prashna": "प्रतिरोध क्या है ? किसी कुण्डली का प्रतिरोध आमीटर और वोल्टमीटर की सहायता से ज्ञात करने के लिए प्रयोग का वर्णन करें।"
+    },
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "What is resistance? Describe an experiment to find the resistance of a coil with the help of an ammeter and a voltmeter.",
+      "prashna": "प्रतिरोध क्या है? किसी कुण्डली का प्रतिरोध आमीटर और वोल्टमीटर की सहायता से ज्ञात करने के लिए प्रयोग का वर्णन करें।"
+    }
+  ],
   "2017": [
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Explain Conductor, Non-conductor, Semi-conductor and Super-conductor with example.",
+      "prashna": "चालक, अचालक, अर्द्धचालक एवं अति चालक से आप क्या समझते हैं? सोदाहरण व्याख्या करें।"
+    },
     {
       "id": "long_1_2",
       "type": "long_answer",
@@ -10,6 +94,24 @@
     }
   ],
   "2018": [
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Draw a circuit diagram for studying Ohm's law. State Ohm's law. Draw V-I graph that verifies Ohm's law. State the nature of the V-I graph.",
+      "prashna": "ओम के नियम के अध्ययन के लिए एक विद्युत परिपथ खींचे। ओम का नियम लिखें। ओम के नियम को सत्यापित करने वाले V-I ग्राफ को खींचे और उस ग्राफ की प्रकृति को लिखें।",
+      "sub_questions": {
+        "a": "Draw a circuit diagram for studying Ohm's law.",
+        "b": "State Ohm's law.",
+        "c": "Draw V-I graph that verifies Ohm's law. State the nature of the V-I graph."
+      },
+      "anuprashna": {
+        "a": "ओम के नियम के अध्ययन के लिए एक विद्युत परिपथ खींचे।",
+        "b": "ओम का नियम लिखें।",
+        "c": "ओम के नियम को सत्यापित करने वाले V-I ग्राफ को खींचे और उस ग्राफ की प्रकृति को लिखें।"
+      }
+    },
     {
       "id": "long_1_1",
       "type": "long_answer",
@@ -71,6 +173,24 @@
       "chapter_name": "Electricity",
       "question": "Write the S.I. units of resistance and potential difference. Explain the verification of Ohm's law.",
       "prashna": "प्रतिरोध और विभवान्तर के S.I. मात्रक को लिखें। ओम के नियम के सत्यापन कर समझावें।"
+    }
+  ],
+  "2021": [
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "What is called parallel combination of resistances? Obtain the expression for equivalent resistance when resistances $R_1$, $R_2$, and $R_3$ are connected in parallel.",
+      "prashna": "प्रतिरोधों का पार्श्वक्रम संयोजन किसे कहते हैं? प्रतिरोध $R_1, R_2$ तथा $R_3$ को पार्श्वक्रम में संयोजित करने पर समतुल्य प्रतिरोध का व्यंजक प्राप्त करें।"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Obtain an expression for the equivalent resistance of three resistors of different values connected in series.",
+      "prashna": "श्रेणीक्रम में संयोजित तीन विभिन्न मान के प्रतिरोधों के समतुल्य प्रतिरोध के लिए व्यंजक प्राप्त करें।"
     }
   ],
   "2022": [

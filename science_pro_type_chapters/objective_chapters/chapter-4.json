@@ -1,5 +1,537 @@
 {
+  "2011": [
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "Which is the functional group of $-OH$?",
+      "prashna": "$-OH-$ का क्रियाशील मूलक कौन है ?",
+      "options": {
+        "A": "Ketone",
+        "B": "Aldehyde",
+        "C": "Alcohol",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "कोटोन",
+        "B": "एल्डिहाइड",
+        "C": "अल्कोहल",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ],
+  "2012": [
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "The functional group $-CHO$ is called",
+      "prashna": "–CHO अभिक्रिया मूलक को कहते हैं",
+      "options": {
+        "A": "Aldehyde",
+        "B": "Alcohol",
+        "C": "Ketone",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "एल्डिहाइड",
+        "B": "एल्कोहर",
+        "C": "कीटोन",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "Ethane, with the molecular formula $C_2H_6$ has",
+      "prashna": "एथेन का आण्विक सूत्र $C_2H_6$ है। इसमें",
+      "options": {
+        "A": "6 covalent bonds",
+        "B": "7 covalent bonds",
+        "C": "8 covalent bonds",
+        "D": "9 covalent bonds"
+      },
+      "vikalpa": {
+        "A": "6 सह-संयोजक बंध हैं",
+        "B": "7 सह-संयोजक बंध हैं",
+        "C": "8 सह-संयोजक बंध हैं",
+        "D": "9 सह-संयोजक बंध हैं"
+      }
+    }
+  ],
+  "2013": [
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "What is the $-COOH$ functional group called?",
+      "prashna": "$-COOH$ अभिक्रियाशील मूलक को क्या कहते हैं?",
+      "options": {
+        "A": "Ketone",
+        "B": "Aldehyde",
+        "C": "Acid",
+        "D": "Ether"
+      },
+      "vikalpa": {
+        "A": "कीटोन",
+        "B": "एल्डिहाइड",
+        "C": "अम्ल",
+        "D": "ईथर"
+      }
+    }
+  ],
+  "2014": [
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "Diesel is used in",
+      "prashna": "डीजल का उपयोग होता है।",
+      "options": {
+        "A": "In heavy vehicles",
+        "B": "In railway engines",
+        "C": "In power generation",
+        "D": "In all of these"
+      },
+      "vikalpa": {
+        "A": "भारी वाहनों में",
+        "B": "रेल के इंजनों में",
+        "C": "विद्युत उत्पादन में",
+        "D": "इन सभी में"
+      }
+    },
+    {
+      "id": "obj_43",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "Which of the following is a covalent compound?",
+      "prashna": "निम्न में कौन सहसंयोजी यौगिक है?",
+      "options": {
+        "A": "$\text{NaCl}$",
+        "B": "$\text{CaCl}_2$",
+        "C": "$\text{CH}_4$",
+        "D": "$\text{Na}_2\text{O}$"
+      },
+      "vikalpa": {
+        "A": "$\text{NaCl}$",
+        "B": "$\text{CaCl}_2$",
+        "C": "$\text{CH}_4$",
+        "D": "$\text{Na}_2\text{O}$"
+      }
+    },
+    {
+      "id": "obj_53",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "Which element is present in alcohol?",
+      "prashna": "एल्कोहोल में कौन-सा तत्त्व उपस्थित है?",
+      "options": {
+        "A": "Carbon",
+        "B": "Oxygen",
+        "C": "Hydrogen",
+        "D": "Nitrogen"
+      },
+      "vikalpa": {
+        "A": "कार्बन",
+        "B": "ऑक्सीजन",
+        "C": "हाइड्रोजन",
+        "D": "नाइट्रोजन"
+      }
+    },
+    {
+      "id": "obj_65",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "Vegetable oils contain",
+      "prashna": "वनस्पति तेलों में होती है",
+      "options": {
+        "A": "Long saturated hydrocarbon chains",
+        "B": "Long unsaturated hydrocarbon chains",
+        "C": "Short unsaturated hydrocarbon chains",
+        "D": "Short saturated hydrocarbon chains"
+      },
+      "vikalpa": {
+        "A": "लंबी संतृप्त हाइड्रोकार्बन श्रृंखलाएँ",
+        "B": "लंबी असंतृप्त हाइड्रोकार्बन श्रृंखलाएँ",
+        "C": "लघु असंतृप्त हाइड्रोकार्बन श्रृंखलाएँ",
+        "D": "लघु संतृप्त हाइड्रोकार्बन श्रृंखलाएँ"
+      }
+    },
+    {
+      "id": "obj_66",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "How many isomers of butane are possible?",
+      "prashna": "ब्यूटेन के कितने समावयवी संभव हैं?",
+      "options": {
+        "A": "5",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "vikalpa": {
+        "A": "5",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      }
+    },
+    {
+      "id": "obj_69",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "Which of the following is liquid at room temperature?",
+      "prashna": "निम्न में कौन कमरे के तापक्रम पर द्रव है",
+      "options": {
+        "A": "Ethane",
+        "B": "Ethyne",
+        "C": "Ethanol",
+        "D": "Methane"
+      },
+      "vikalpa": {
+        "A": "एथेन",
+        "B": "एथाइन",
+        "C": "एथनॉल",
+        "D": "मिथेन"
+      }
+    },
+    {
+      "id": "obj_70",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "Which of the following acids is found in vinegar?",
+      "prashna": "सिरका में निम्न में कौन-सा अम्ल पाया जाता है?",
+      "options": {
+        "A": "Sulphuric acid",
+        "B": "Hydrochloric acid",
+        "C": "Formic acid",
+        "D": "Acetic acid"
+      },
+      "vikalpa": {
+        "A": "गंधकाम्ल",
+        "B": "हाइड्रोक्लोरिक अम्ल",
+        "C": "फॉर्मिल अम्ल",
+        "D": "ऐसीटिक अम्ल"
+      }
+    },
+    {
+      "id": "obj_71",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "Which of the following are allotropes of carbon?",
+      "prashna": "निम्न में कौन कार्बन के अपररूप हैं?",
+      "options": {
+        "A": "Graphite",
+        "B": "Diamond",
+        "C": "Fullerene",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "ग्रेफाइट",
+        "B": "हीरा",
+        "C": "फुलेरिन",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_72",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "Compounds having same molecular formula but different structural formula are called",
+      "prashna": "एक अणुसूत्र परन्तु विभिन्न सूत्र वाले यौगिक कहलाते हैं।",
+      "options": {
+        "A": "Isomers",
+        "B": "Allotropes",
+        "C": "Catalyst",
+        "D": "Polymer"
+      },
+      "vikalpa": {
+        "A": "समावयवी",
+        "B": "अपररूप",
+        "C": "उत्प्रेरक",
+        "D": "बहुलक"
+      }
+    },
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "Which of the following hydrocarbons contains a triple bond?",
+      "prashna": "निम्न में से किस हाइड्रोकार्बन में तीन आबंध होते हैं?",
+      "options": {
+        "A": "$CH_4$",
+        "B": "$C_2H_6$",
+        "C": "$C_3H_4$",
+        "D": "$C_3H_8$"
+      },
+      "vikalpa": {
+        "A": "$CH_4$",
+        "B": "$C_2H_6$",
+        "C": "$C_3H_4$",
+        "D": "$C_3H_8$"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "Which is the carbonyl group functional group?",
+      "prashna": "कार्बोनिल ग्रुप प्रतिकारक कौन है?",
+      "options": {
+        "A": "$-CHO$",
+        "B": "$>CO$",
+        "C": "$-COOH$",
+        "D": "$-O-$"
+      },
+      "vikalpa": {
+        "A": "$-CHO$",
+        "B": "$>CO$",
+        "C": "$-COOH$",
+        "D": "$-O-$"
+      }
+    }
+  ],
+  "2015": [
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "Carbonyl group is indicated by",
+      "prashna": "कार्बोनिल समूह को सूचित किया जाता है",
+      "options": {
+        "A": "$-CHO$",
+        "B": "$-COOH$",
+        "C": "$-CO$",
+        "D": "$-COCl_2$"
+      },
+      "vikalpa": {
+        "A": "$-CHO$ द्वारा",
+        "B": "$-COOH$ द्वारा",
+        "C": "$-CO$ द्वारा",
+        "D": "$-COCl_2$ द्वारा"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "Molecular formula of ethyl alcohol is",
+      "prashna": "इथाइल अल्कोहल का अणु सूत्र होता है",
+      "options": {
+        "A": "$CH_3OH$",
+        "B": "$C_2H_5OH$",
+        "C": "$C_2H_6OH$",
+        "D": "$C_2H_2OH$"
+      },
+      "vikalpa": {
+        "A": "$CH_3OH$",
+        "B": "$C_2H_5OH$",
+        "C": "$C_2H_6OH$",
+        "D": "$C_2H_2OH$"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "How many covalent bonds are present in methane?",
+      "prashna": "मिथेन में कितने सह-संयोजक बन्धन होते हैं ?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "8"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "8"
+      }
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "The carbonyl group is indicated by:",
+      "prashna": "कार्बोनिल समूह को सूचित किया जाता है:",
+      "options": {
+        "A": "$-CHO$",
+        "B": "$-COOH$",
+        "C": "$-CO$",
+        "D": "$-COCl_2$"
+      },
+      "vikalpa": {
+        "A": "$-CHO$ द्वारा",
+        "B": "$-COOH$ द्वारा",
+        "C": "$-CO$ द्वारा",
+        "D": "$-COCl_2$ द्वारा"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "The molecular formula of ethyl alcohol is:",
+      "prashna": "इथाइल अल्कोहल का अणुसूत्र होता है:",
+      "options": {
+        "A": "$CH_3OH$",
+        "B": "$C_2H_5OH$",
+        "C": "$C_2H_6OH$",
+        "D": "$C_2H_4OH$"
+      },
+      "vikalpa": {
+        "A": "$CH_3OH$",
+        "B": "$C_2H_5OH$",
+        "C": "$C_2H_6OH$",
+        "D": "$C_2H_4OH$"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "How many covalent bonds are there in methane?",
+      "prashna": "मिथेन में कितने सह-संयोजक बंधन होते हैं?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "8"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "8"
+      }
+    }
+  ],
+  "2016": [
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "Carbon combining with hydrogen forms",
+      "prashna": "कार्बन हाइड्रोजन से संयोग कर बनाता है",
+      "options": {
+        "A": "ionic compound",
+        "B": "hydrocarbon",
+        "C": "halogen",
+        "D": "aqua regia"
+      },
+      "vikalpa": {
+        "A": "आयनिक यौगिक",
+        "B": "हाइड्रोकार्बन",
+        "C": "हैलोजन",
+        "D": "अम्लराज"
+      }
+    },
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "Carbon combines with hydrogen to form:",
+      "prashna": "कार्बन हाइड्रोजन से संयोग कर बनाता है?",
+      "options": {
+        "A": "Ionic compound",
+        "B": "Hydrocarbon",
+        "C": "Halogen",
+        "D": "Aqua-regia"
+      },
+      "vikalpa": {
+        "A": "आयनिक यौगिक",
+        "B": "हाइड्रोकार्बन",
+        "C": "हैलोन",
+        "D": "अम्लराज"
+      }
+    }
+  ],
   "2017": [
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "Which of the following is not used as a cooking fuel?",
+      "prashna": "निम्नलिखित में से किसका उपयोग खाना बनाने वाले ईंधन में नहीं होता है?",
+      "options": {
+        "A": "C.N.G",
+        "B": "L.P.G",
+        "C": "Bio Gas",
+        "D": "Coal"
+      },
+      "vikalpa": {
+        "A": "C.N.G",
+        "B": "L.P.G",
+        "C": "बायो गैस",
+        "D": "कोयला"
+      }
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "COOH Functional group is called-",
+      "prashna": "COOH अभिक्रियाशील मूलक को क्या कहते हैं?",
+      "options": {
+        "A": "Aldehyde",
+        "B": "Acid",
+        "C": "Ketone",
+        "D": "Ether"
+      },
+      "vikalpa": {
+        "A": "एल्डिहाइड",
+        "B": "अम्ल",
+        "C": "कीटोन",
+        "D": "ईथर"
+      }
+    },
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "Organic compounds which have same molecular formula but different structural formula are known as -",
+      "prashna": "एक अणुसूत्र परन्तु विभिन्न संरचना सूत्र वाले यौगिक कहलाते हैं :-",
+      "options": {
+        "A": "Polymers",
+        "B": "Allotropes",
+        "C": "Isomers",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "बहुलक",
+        "B": "अपररूप",
+        "C": "समावयवी",
+        "D": "कोई नहीं"
+      }
+    },
     {
       "id": "obj_4",
       "type": "objective",
@@ -62,6 +594,46 @@
     }
   ],
   "2018": [
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "The functional group present in propanone is-",
+      "prashna": "प्रोपोनोन में उपस्थित प्रकार्यात्मक समूह है -",
+      "options": {
+        "A": "$-OH$",
+        "B": "$-CHO$",
+        "C": "$>C=O$",
+        "D": "$-COOH$"
+      },
+      "vikalpa": {
+        "A": "$-OH$",
+        "B": "$-CHO$",
+        "C": "$>C=O$",
+        "D": "$-COOH$"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "The IUPAC name of acetic acid is -",
+      "prashna": "ऐसेटिक अम्ल का IUPAC नाम है-",
+      "options": {
+        "A": "ethanoic acid",
+        "B": "methanoic acid",
+        "C": "propanone",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "एथेनॉइक अम्ल",
+        "B": "मेथेनॉइक अम्ल",
+        "C": "प्रोपेनोन",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
     {
       "id": "obj_20",
       "type": "objective",
@@ -384,6 +956,388 @@
         "B": "4",
         "C": "6",
         "D": "7"
+      }
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "Diesel is used in",
+      "prashna": "डीजल का उपयोग होता है।",
+      "options": {
+        "A": "Heavy vehicles",
+        "B": "Railway engines",
+        "C": "Electricity generation",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "भारी वाहनों में",
+        "B": "रेल के इंजनों में",
+        "C": "विद्युत उत्पादन में",
+        "D": "इन सभी में"
+      }
+    },
+    {
+      "id": "obj_43",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "Which of the following is a covalent compound?",
+      "prashna": "निम्न में कौन सहसंयोजी यौगिक है?",
+      "options": {
+        "A": "$NaCl$",
+        "B": "$CaCl_2$",
+        "C": "$CH_4$",
+        "D": "$Na_2O$"
+      },
+      "vikalpa": {
+        "A": "$NaCl$",
+        "B": "$CaCl_2$",
+        "C": "$CH_4$",
+        "D": "$Na_2O$"
+      }
+    },
+    {
+      "id": "obj_53",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "Which element is present in alcohol?",
+      "prashna": "एल्कोहल में कौन-सा तत्त्व उपस्थित है?",
+      "options": {
+        "A": "Carbon",
+        "B": "Oxygen",
+        "C": "Hydrogen",
+        "D": "Nitrogen"
+      },
+      "vikalpa": {
+        "A": "कार्बन",
+        "B": "ऑक्सीजन",
+        "C": "हाइड्रोजन",
+        "D": "नाइट्रोजन"
+      }
+    },
+    {
+      "id": "obj_54",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "The common name of Methanoic acid is",
+      "prashna": "मेथनॉइक अम्ल का सामान्य नाम है",
+      "options": {
+        "A": "Formic acid",
+        "B": "Acetic acid",
+        "C": "Lactic acid",
+        "D": "Tartaric acid"
+      },
+      "vikalpa": {
+        "A": "फॉर्मिक अम्ल",
+        "B": "एसीटीक अम्ल",
+        "C": "लैक्टिक अम्ल",
+        "D": "टार्टरिक अम्ल"
+      }
+    },
+    {
+      "id": "obj_65",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "Vegetable oils contain",
+      "prashna": "वनस्पति तेलों में होती है",
+      "options": {
+        "A": "Long saturated hydrocarbon chains",
+        "B": "Long unsaturated hydrocarbon chains",
+        "C": "Short unsaturated hydrocarbon chains",
+        "D": "Short saturated hydrocarbon chains"
+      },
+      "vikalpa": {
+        "A": "लंबी संतृप्त हाइड्रोकार्बन श्रृंखलाएँ",
+        "B": "लंबी असंतृप्त हाइड्रोकार्बन श्रृंखलाएँ",
+        "C": "लघु असंतृप्त हाइड्रोकार्बन श्रृंखलाएँ",
+        "D": "लघु संतृप्त हाइड्रोकार्बन श्रृंखलाएँ"
+      }
+    },
+    {
+      "id": "obj_66",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "How many isomers are possible for Butane?",
+      "prashna": "ब्यूटेन के कितने समावयवी संभव हैं?",
+      "options": {
+        "A": "5",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "vikalpa": {
+        "A": "5",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      }
+    },
+    {
+      "id": "obj_69",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "Which of the following is liquid at room temperature?",
+      "prashna": "निम्न में कौन कमरे के तापक्रम पर द्रव है",
+      "options": {
+        "A": "Ethane",
+        "B": "Ethyne",
+        "C": "Ethanol",
+        "D": "Methane"
+      },
+      "vikalpa": {
+        "A": "एथेन",
+        "B": "एथाइन",
+        "C": "एथनॉल",
+        "D": "मिथेन"
+      }
+    },
+    {
+      "id": "obj_70",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "Which of the following acids is found in vinegar?",
+      "prashna": "सिरका में निम्न में कौन-सा अम्ल पाया जाता है?",
+      "options": {
+        "A": "Sulphuric acid",
+        "B": "Hydrochloric acid",
+        "C": "Formic acid",
+        "D": "Acetic acid"
+      },
+      "vikalpa": {
+        "A": "गंधकाम्ल",
+        "B": "हाइड्रोक्लोरिक अम्ल",
+        "C": "फॉर्मिक अम्ल",
+        "D": "ऐसीटिक अम्ल"
+      }
+    },
+    {
+      "id": "obj_71",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "Which of the following are allotropes of Carbon?",
+      "prashna": "निम्न में कौन कार्बन के अपररूप हैं?",
+      "options": {
+        "A": "Graphite",
+        "B": "Diamond",
+        "C": "Fullerene",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "ग्रेफाइट",
+        "B": "हीरा",
+        "C": "फुलेरिन",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_72",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "Compounds having the same molecular formula but different structural formulas are called",
+      "prashna": "एक अणुसूत्र परन्तु विभिन्न सूत्र वाले यौगिक कहलाते हैं।",
+      "options": {
+        "A": "Isomers",
+        "B": "Allotropes",
+        "C": "Catalysts",
+        "D": "Polymers"
+      },
+      "vikalpa": {
+        "A": "समावयवी",
+        "B": "अपररूप",
+        "C": "उत्प्रेरक",
+        "D": "बहुलक"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "What is the molecular formula of Benzene?",
+      "prashna": "बेंजीन का अणुसूत्र क्या है?",
+      "options": {
+        "A": "$\text{CH}_4$",
+        "B": "$\text{C}_2\text{H}_6$",
+        "C": "$\text{C}_6\text{H}_6$",
+        "D": "$\text{C}_2\text{H}_4$"
+      },
+      "vikalpa": {
+        "A": "$\text{CH}_4$",
+        "B": "$\text{C}_2\text{H}_6$",
+        "C": "$\text{C}_6\text{H}_6$",
+        "D": "$\text{C}_2\text{H}_4$"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "The IUPAC name of ethyl alcohol is",
+      "prashna": "एथिल ऐल्कोहॉल का IUPAC नाम है",
+      "options": {
+        "A": "Ethanal",
+        "B": "Ethanol",
+        "C": "Ethanone",
+        "D": "Ethanoic acid"
+      },
+      "vikalpa": {
+        "A": "एथेनल",
+        "B": "एथेनॉल",
+        "C": "एथोनोन",
+        "D": "एथेनोइक अम्ल"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "$\text{C}_n\text{H}_{2n}$ is the general formula of which of the following?",
+      "prashna": "$\text{C}_n\text{H}_{2n}$ निम्नलिखित में किसका सामान्य सूत्र है?",
+      "options": {
+        "A": "Alkane",
+        "B": "Alkene",
+        "C": "Alkyne",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "ऐल्केन",
+        "B": "ऐल्कीन",
+        "C": "ऐल्काइन",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "What is the name of the compound with the $-\text{OH}$ functional group?",
+      "prashna": "$-\text{OH}$ अभिक्रियाशील मूलक वाले यौगिक का नाम क्या है?",
+      "options": {
+        "A": "Ketone",
+        "B": "Alcohol",
+        "C": "Acid",
+        "D": "Aldehyde"
+      },
+      "vikalpa": {
+        "A": "कीटोन",
+        "B": "एल्कोहॉल",
+        "C": "अम्ल",
+        "D": "एल्डिहाइड"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "Calcium carbide reacts with water to give",
+      "prashna": "कैल्सियम कार्बाइड जल के साथ अभिक्रिया करके देता है",
+      "options": {
+        "A": "Alkane",
+        "B": "Ethane",
+        "C": "Ethene",
+        "D": "Ethyne"
+      },
+      "vikalpa": {
+        "A": "ऐल्केन",
+        "B": "एथेन",
+        "C": "एथीन",
+        "D": "एथाइन"
+      }
+    },
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "The simplest hydrocarbon is",
+      "prashna": "सरलतम हाइड्रोकार्बन है",
+      "options": {
+        "A": "Methane",
+        "B": "Ethane",
+        "C": "Propane",
+        "D": "Butane"
+      },
+      "vikalpa": {
+        "A": "मिथेन",
+        "B": "एथेन",
+        "C": "प्रोपेन",
+        "D": "ब्यूटेन"
+      }
+    },
+    {
+      "id": "obj_66",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "Carbon is a",
+      "prashna": "कार्बन है",
+      "options": {
+        "A": "Metal",
+        "B": "Non-metal",
+        "C": "Metalloid",
+        "D": "Alloy"
+      },
+      "vikalpa": {
+        "A": "धातु",
+        "B": "अधातु",
+        "C": "उपधातु",
+        "D": "मिश्रधातु"
+      }
+    },
+    {
+      "id": "obj_67",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "Which of the following is an unsaturated hydrocarbon?",
+      "prashna": "निम्न में से कौन-सा असंतृप्त हाइड्रोकार्बन है ?",
+      "options": {
+        "A": "$\text{CH}_4$",
+        "B": "$\text{C}_2\text{H}_6$",
+        "C": "$\text{C}_2\text{H}_4$",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "$\text{CH}_4$",
+        "B": "$\text{C}_2\text{H}_6$",
+        "C": "$\text{C}_2\text{H}_4$",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_68",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "Which is an aromatic hydrocarbon?",
+      "prashna": "ऐरोमेटिक हाइड्रोकार्बन है।",
+      "options": {
+        "A": "$\text{CH}_4$",
+        "B": "$\text{C}_2\text{H}_4$",
+        "C": "$\text{C}_6\text{H}_6$",
+        "D": "$\text{C}_3\text{H}_8$"
+      },
+      "vikalpa": {
+        "A": "$\text{CH}_4$",
+        "B": "$\text{C}_2\text{H}_4$",
+        "C": "$\text{C}_6\text{H}_6$",
+        "D": "$\text{C}_3\text{H}_8$"
       }
     }
   ],

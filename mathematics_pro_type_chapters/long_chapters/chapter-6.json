@@ -1,4 +1,103 @@
 {
+  "2015": [
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "In a right triangle, the square of the hypotenuse is equal to the sum of the squares of other two sides. Prove it.",
+      "prashna": "सिद्ध करें कि समकोण त्रिभुज के कर्ण पर वर्ग अन्य दो भुजाओं के वर्ग के बराबर होते हैं।",
+      "marks": 5
+    },
+    {
+      "id": "long_5_1",
+      "type": "long_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "Draw a line $AB = 12$ cm and divide it in a ratio of $3:5$.",
+      "prashna": "रेखा $AB = 12$ सेमी खींचें और $3:5$ के अनुपात में बाँटें।",
+      "marks": 5
+    },
+    {
+      "id": "long_5_2",
+      "type": "long_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "Construct a triangle $ABC$ in which side $BC = 6$ cm, $AB = 5$ cm and $\\angle ABC = 60^\\circ$. Construct a triangle similar to this triangle whose sides are $3/4$th of the corresponding sides of triangle $ABC$.",
+      "prashna": "$\triangle ABC$ की रचना करें जिसमें $BC = 6$ सेमी, $AB = 5$ सेमी तथा $\\angle ABC = 60^\\circ$ है। इसके समरूप एक अन्य त्रिभुज बनायें जिसकी भुजाएँ $\triangle ABC$ की संगत भुजाओं का $3/4$ हों।",
+      "marks": 5
+    }
+  ],
+  "2016": [
+    {
+      "id": "long_46",
+      "type": "long_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "In a triangle, a line drawn parallel to one side to intersect the other two sides in two distinct points, divides the two sides in the same ratio. Prove it.",
+      "prashna": "एक त्रिभुज की एक भुजा के समानान्तर खींची गयी रेखा अन्य दो भुजाओं को जिन दो बिन्दु पर प्रतिच्छेद करती है, वे बिन्दु भुजाओं को समान अनुपात में विभाजित करते हैं। सिद्ध करें।"
+    }
+  ],
+  "2017": [
+    {
+      "id": "long_4_1",
+      "type": "long_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "Prove that the ratio of the areas of two similar triangular is equal to square of the ratio of their corresponding sides.",
+      "prashna": "सिद्ध करें कि दो समरूप त्रिभुजों के क्षेत्रफलों का अनुपात उनके संगत भुजाओं के वर्गों के अनुपात में होता है ।"
+    },
+    {
+      "id": "long_4_2",
+      "type": "long_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "In a triangle, if square of one side is equal to the sum of the square of the other two sides, than the angle opposite the first side is right angle.",
+      "prashna": "अथवा: यदि किसी त्रिभुज की एक भुजा का वर्ग अन्य दो भुजाओं के योग के बराबर हो तो पहली भुजा के सम्मुख कोण समकोण होता है ।"
+    },
+    {
+      "id": "long_5_2",
+      "type": "long_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "Construct a triangle whose sides are $5$ cm., $6$ cm and $7$ cm. construct a similar triangle such that each of its side is $5/7$ of the corresponding sides of the triangle.",
+      "prashna": "अथवा: $5$ सेमी., $6$ सेमी. और $7$ सेमी. भुजाओं वाले एक त्रिभुज की रचना कीजिए और एक अन्य समरूप त्रिभुज की रचना कीजिए जिसकी भुजाएं दिए हुए त्रिभुज की संगत भुजाओं की $5/7$ गुनी हो ।"
+    },
+    {
+      "id": "long_9",
+      "type": "long_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "If the corresponding angles of two triangles are equal, then prove that their corresponding sides are proportional.",
+      "prashna": "यदि दो त्रिभुजों के संगत कोण बराबर हों, तो साबित करें कि उनकी संगत भुजाएँ समानुपाती होती हैं।"
+    },
+    {
+      "id": "long_10",
+      "type": "long_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "Construct a triangle with sides $4$ cm, $5$ cm and $6$ cm and then construct another triangle similar to it whose sides are $\frac{2}, {3}$ of the corresponding sides of the first triangle.",
+      "prashna": "$4$ सेमी०, $5$ सेमी० और $6$ सेमी० भुजाओं वाला एक त्रिभुज बनाएं तथा इसके समरूप एक दूसरे त्रिभुज की रचना करें जिसकी भुजाएं पहले त्रिभुज की संगत भुजाओं का $\frac{2}, {3}$ हो।"
+    }
+  ],
+  "2018": [
+    {
+      "id": "long_2_1",
+      "type": "long_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "In the given figure: $DE \\parallel BC$ and $\frac{BD}, {DA} = \frac{5}, {3}$ then, find $\frac{ar(\triangle ADE)}, {ar(\\Delta ABFC)}$",
+      "prashna": "दिये गये चित्र में $DE \\parallel BC$ तथा $\frac{BD}, {DA} = \frac{5}, {3}$ तो $\frac{ar(\triangle ADE)}, {ar(\\Delta ABFC)}$ ज्ञात करें।"
+    },
+    {
+      "id": "long_2_1",
+      "type": "long_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "In the given figure: $DE \\parallel BC$ and $\frac{BD}, {DA} = \frac{5}, {3}$ then, find $\frac{\text{ar}(\triangle DEF)}, {\text{ar}(\triangle BFC)}$.",
+      "prashna": "दिये गये चित्र में $DE \\parallel BC$ तथा $\frac{BD}, {DA} = \frac{5}, {3}$ तो $\frac{\text{ar}(\triangle DEF)}, {\text{ar}(\triangle BFC)}$ ज्ञात करें।"
+    }
+  ],
   "2020": [
     {
       "id": "long_6",

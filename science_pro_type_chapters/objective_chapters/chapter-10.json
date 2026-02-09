@@ -1,5 +1,235 @@
 {
+  "2011": [
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Which color ray has the maximum deviation in the spectrum?",
+      "prashna": "स्पेक्ट्रम में किस रंग की किरण का झुकाव अधिक है ?",
+      "options": {
+        "A": "Red",
+        "B": "Green",
+        "C": "Yellow",
+        "D": "Violet"
+      },
+      "vikalpa": {
+        "A": "लाल",
+        "B": "हरा",
+        "C": "पीला",
+        "D": "बैंगनी"
+      }
+    }
+  ],
+  "2012": [
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "The least distance of distinct vision for a young adult with normal vision is about",
+      "prashna": "सामान्य दृष्टि के वयस्क के लिए सुस्पष्ट दर्शन की अल्पतम दूरी लगभग होती है",
+      "options": {
+        "A": "25 m",
+        "B": "2.5 cm",
+        "C": "25 cm",
+        "D": "2.5 m"
+      },
+      "vikalpa": {
+        "A": "25 मी",
+        "B": "2.5 सेमी",
+        "C": "25 सेमी",
+        "D": "2.5 भी"
+      }
+    }
+  ],
+  "2013": [
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Which color has the maximum wavelength in visible light?",
+      "prashna": "दृश्य प्रकाश में किस वर्ण का तरंगदैर्ध्य अधिकतम होता है?",
+      "options": {
+        "A": "Violet",
+        "B": "Red",
+        "C": "Blue",
+        "D": "Yellow"
+      },
+      "vikalpa": {
+        "A": "बैंगनी",
+        "B": "लाल",
+        "C": "नीला",
+        "D": "पीला"
+      }
+    }
+  ],
+  "2014": [
+    {
+      "id": "obj_74",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "In white light spectrum, which color ray has maximum deviation?",
+      "prashna": "श्वेत प्रकाश वर्णक्रम में किस रंग की किरण का विचलन अधिक होता है?",
+      "options": {
+        "A": "Red",
+        "B": "Green",
+        "C": "Yellow",
+        "D": "Violet"
+      },
+      "vikalpa": {
+        "A": "लाल",
+        "B": "हरा",
+        "C": "पीला",
+        "D": "बैंगनी"
+      }
+    },
+    {
+      "id": "obj_77",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Twinkling of stars is due to",
+      "prashna": "तारे के टिमटिमाने का कारण है।",
+      "options": {
+        "A": "Atmospheric reflection",
+        "B": "Total reflection",
+        "C": "Atmospheric refraction",
+        "D": "Total refraction"
+      },
+      "vikalpa": {
+        "A": "वायुमंडलीय परावर्तन",
+        "B": "कुल परावर्तन",
+        "C": "वायुमंडलीय अपवर्तन",
+        "D": "कुल अपवर्तन"
+      }
+    },
+    {
+      "id": "obj_78",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "The persistence of vision for human eye is",
+      "prashna": "मानव नेत्र के लिए दृष्टि का स्थायित्व होता है।",
+      "options": {
+        "A": "1/10 sec",
+        "B": "1/16 sec",
+        "C": "1/6 sec",
+        "D": "1/18 sec"
+      },
+      "vikalpa": {
+        "A": "1/10 sec",
+        "B": "1/16 sec",
+        "C": "1/6 sec",
+        "D": "1/18 sec"
+      }
+    }
+  ],
+  "2016": [
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Which lens is used to remove the near sightedness defect ?",
+      "prashna": "निकट दृष्टि दोष दूर करने के लिए किस लेंस का व्यवहार होता है ?",
+      "options": {
+        "A": "Convex",
+        "B": "Concave",
+        "C": "Cylindrical",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "उत्तर",
+        "B": "अवतल",
+        "C": "बेलनाकार",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "What type of lens is found in human eye ?",
+      "prashna": "मानव नेत्र में किस प्रकार का लेंस पाया जाता है ?",
+      "options": {
+        "A": "Convex",
+        "B": "Concave",
+        "C": "Ring",
+        "D": "Bifocal"
+      },
+      "vikalpa": {
+        "A": "उत्तल",
+        "B": "अवतल",
+        "C": "वलयाकार",
+        "D": "बाईफोकल"
+      }
+    },
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Which lens is used to correct near-sightedness (Myopia)?",
+      "prashna": "निकट दृष्टि दोष दूर करने के लिए किस लेंस का व्यवहार होता है?",
+      "options": {
+        "A": "Convex",
+        "B": "Concave",
+        "C": "Cylindrical",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "उत्तल",
+        "B": "अवतल",
+        "C": "बेलनाकार",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Which type of lens is found in the human eye?",
+      "prashna": "मानव नेत्र में किस प्रकार का लेंस पाया जाता है?",
+      "options": {
+        "A": "Convex",
+        "B": "Concave",
+        "C": "Annular",
+        "D": "Bifocal"
+      },
+      "vikalpa": {
+        "A": "उत्तल",
+        "B": "अवतल",
+        "C": "वलयाकार",
+        "D": "फाईपोकल"
+      }
+    }
+  ],
   "2017": [
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "The eye is used as:-",
+      "prashna": "आँख व्यवहार होता है :-",
+      "options": {
+        "A": "Concave mirror",
+        "B": "Convex lens",
+        "C": "Plane Mirror",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "अवतल दर्पण की तरह",
+        "B": "उत्तल लेंस की तरह",
+        "C": "समतल दर्पण की तरह",
+        "D": "इनमें कोई नहीं"
+      }
+    },
     {
       "id": "obj_7",
       "type": "objective",
@@ -22,6 +252,46 @@
     }
   ],
   "2018": [
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Who controls pupil's size?",
+      "prashna": "पुतली के साइज को कौन नियंत्रित करता है?",
+      "options": {
+        "A": "Ciliary muscles",
+        "B": "Iris",
+        "C": "Eye lens",
+        "D": "Retina"
+      },
+      "vikalpa": {
+        "A": "पक्ष्माभी",
+        "B": "परितारिका",
+        "C": "नेत्र लेंस",
+        "D": "रेटिना (दृष्टि पटल)"
+      }
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Which eye defect can be corrected by using 'bi-focal lens' consisting of both concave and convex lens?",
+      "prashna": "किस दृष्टि दोष को अवतल और उत्तल दोनों लेंसों से बने द्विफोकसी लेंस द्वारा संशोधित किया जा सकता है?",
+      "options": {
+        "A": "Myopia",
+        "B": "Hypermetropia",
+        "C": "Presbyopia",
+        "D": "Cataract"
+      },
+      "vikalpa": {
+        "A": "निकट दृष्टि दोष",
+        "B": "दीर्घ-दृष्टि दोष",
+        "C": "जरा - दूर दृष्टिता",
+        "D": "मोतियाबिंद"
+      }
+    },
     {
       "id": "obj_4",
       "type": "objective",
@@ -324,6 +594,108 @@
         "B": "जूल के रूप में",
         "C": "एम्पियर के रूप में",
         "D": "ऐंग्स्ट्रम में"
+      }
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_74",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Which color of light deviates most in a white light spectrum?",
+      "prashna": "श्वेत प्रकाश वर्णक्रम में किस रंग की किरण का विचलन अधिक होता है?",
+      "options": {
+        "A": "Red",
+        "B": "Green",
+        "C": "Yellow",
+        "D": "Violet"
+      },
+      "vikalpa": {
+        "A": "लाल",
+        "B": "हरा",
+        "C": "पीला",
+        "D": "बैंगनी"
+      }
+    },
+    {
+      "id": "obj_77",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "The reason for the twinkling of stars is",
+      "prashna": "तारे के टिमटिमाने का कारण है।",
+      "options": {
+        "A": "Atmospheric reflection",
+        "B": "Total reflection",
+        "C": "Atmospheric refraction",
+        "D": "Total refraction"
+      },
+      "vikalpa": {
+        "A": "वायुमंडलीय परावर्तन",
+        "B": "कुल परावर्तन",
+        "C": "वायुमंडलीय अपवर्तन",
+        "D": "कुल अपवर्तन"
+      }
+    },
+    {
+      "id": "obj_78",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "The persistence of vision for the human eye is",
+      "prashna": "मानव नेत्र के लिए दृष्टि का स्थायित्व होता है।",
+      "options": {
+        "A": "1/10 sec",
+        "B": "1/16 sec",
+        "C": "1/6 sec",
+        "D": "1/18 sec"
+      },
+      "vikalpa": {
+        "A": "1/10 sec",
+        "B": "1/16 sec",
+        "C": "1/6 sec",
+        "D": "1/18 sec"
+      }
+    },
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "The part of the eye on which the image of an object is formed is",
+      "prashna": "किसी वस्तु का प्रतिबिम्ब आँख के जिस भाग पर बनता है वह है",
+      "options": {
+        "A": "Cornea",
+        "B": "Retina",
+        "C": "Pupil",
+        "D": "Iris"
+      },
+      "vikalpa": {
+        "A": "कॉर्निया",
+        "B": "रेटिना",
+        "C": "पुतली",
+        "D": "आइरिस"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "The Tyndall effect demonstrates",
+      "prashna": "टिंडल प्रभाव प्रदर्शित करता है।",
+      "options": {
+        "A": "Reflection of light",
+        "B": "Dispersion of light",
+        "C": "Refraction of light",
+        "D": "Scattering of light"
+      },
+      "vikalpa": {
+        "A": "प्रकाश का परावर्तन",
+        "B": "प्रकाश का विक्षेपण",
+        "C": "प्रकाश का अपवर्तन",
+        "D": "प्रकाश का प्रकीर्णन"
       }
     }
   ],

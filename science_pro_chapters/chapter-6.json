@@ -1,5 +1,287 @@
 {
+  "2012": [
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Control and Coordination",
+      "question": "The gap between two neurons is called a",
+      "prashna": "दो तंत्रिका कोशिका के मध्य खाली स्थान को कहते हैं",
+      "options": {
+        "A": "dendrite",
+        "B": "synapse",
+        "C": "axon",
+        "D": "impulse"
+      },
+      "vikalpa": {
+        "A": "द्रुमिका",
+        "B": "सिनेप्स",
+        "C": "एक्सॉन",
+        "D": "आवेग"
+      }
+    }
+  ],
+  "2013": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Control and Coordination",
+      "question": "Explain the difference between reflex action and reflex arc.",
+      "prashna": "प्रतिवर्ती क्रिया एवं प्रतिवर्ती चाप में अंतर स्पष्ट करें।"
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Control and Coordination",
+      "question": "Write the names of any four plant hormones.",
+      "prashna": "किन्हीं चार पादप हॉर्मोन के नाम लिखें।"
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Control and Coordination",
+      "question": "The disease caused due to deficiency of insulin is",
+      "prashna": "इन्सुलिन की कमी के कारण रोग होता है",
+      "options": {
+        "A": "Goitre",
+        "B": "Diabetes",
+        "C": "Cretinism",
+        "D": "Dwarfism"
+      },
+      "vikalpa": {
+        "A": "घेघा",
+        "B": "मधुमेह",
+        "C": "क्रेटिनिज्म",
+        "D": "बौनापन"
+      }
+    }
+  ],
+  "2014": [
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Control and Coordination",
+      "question": "It maintains the balance of the body.",
+      "prashna": "शरीर का संतुलन बनाए रखता है।",
+      "options": {
+        "A": "Cerebellum",
+        "B": "Cranium",
+        "C": "Brain Stem",
+        "D": "Cerebrum"
+      },
+      "vikalpa": {
+        "A": "सेरीबेलम",
+        "B": "क्रेनियम",
+        "C": "मस्तिष्क स्टेम",
+        "D": "सेरीब्रभ"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Control and Coordination",
+      "question": "The longest cell of the human body is",
+      "prashna": "मानव शरीर की सबसे लम्बी कोशिका है।",
+      "options": {
+        "A": "Bone cell",
+        "B": "Muscle cell",
+        "C": "Neuron",
+        "D": "Master cell"
+      },
+      "vikalpa": {
+        "A": "अस्थि कोशिका",
+        "B": "पेशी कोशिका",
+        "C": "न्यूरॉन",
+        "D": "मास्टर सेल"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Control and Coordination",
+      "question": "Which of the following is not a plant hormone?",
+      "prashna": "निम्नांकित में कौन पादप हॉर्मोन नहीं है?",
+      "options": {
+        "A": "Ethylene",
+        "B": "Cytokinin",
+        "C": "Auxin",
+        "D": "Oxytocin"
+      },
+      "vikalpa": {
+        "A": "एथिलिन",
+        "B": "साइटोकाइनीन",
+        "C": "आक्सिन",
+        "D": "आक्सीटोसीन"
+      }
+    }
+  ],
+  "2015": [
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Control and Coordination",
+      "question": "Goitre disease is caused by",
+      "prashna": "ग्वाइटर अथवा घेंघा पनपता है",
+      "options": {
+        "A": "lack of sugar",
+        "B": "lack of iodine",
+        "C": "lack of blood",
+        "D": "fatness"
+      },
+      "vikalpa": {
+        "A": "चीनी की कमी से",
+        "B": "आयोडीन की कमी से",
+        "C": "रक्त की कमी से",
+        "D": "मोटापा से"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Control and Coordination",
+      "question": "Goitre develops due to:",
+      "prashna": "ग्वाइटर अथवा घेघा पनपता है",
+      "options": {
+        "A": "Deficiency of sugar",
+        "B": "Deficiency of iodine",
+        "C": "Deficiency of blood",
+        "D": "Obesity"
+      },
+      "vikalpa": {
+        "A": "चीनी की कमी से",
+        "B": "आयोडीन की कमी से",
+        "C": "रक्त की कमी से",
+        "D": "मोटापा से"
+      }
+    }
+  ],
+  "2016": [
+    {
+      "id": "short_27",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Control and Coordination",
+      "question": "Write the names and functions of male and female sex hormones.",
+      "prashna": "नर तथा मादा जनन हार्मोनों के नाम एवं कार्य लिखें।"
+    },
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Control and Coordination",
+      "question": "Auxin is",
+      "prashna": "ऑक्सीन है",
+      "options": {
+        "A": "a hormone",
+        "B": "fat",
+        "C": "enzyme",
+        "D": "carbohydrate"
+      },
+      "vikalpa": {
+        "A": "एक हार्मोन",
+        "B": "वसा",
+        "C": "इन्जाइम",
+        "D": "कार्बोहाइड्रेट"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Control and Coordination",
+      "question": "Example of phytohormone is",
+      "prashna": "पादप हार्मोन का उदाहरण है",
+      "options": {
+        "A": "pepsin",
+        "B": "adrenaline",
+        "C": "auxin",
+        "D": "testosterone"
+      },
+      "vikalpa": {
+        "A": "पेप्सीन",
+        "B": "एड्रीनलीन",
+        "C": "ऑक्सीन",
+        "D": "टेस्टोस्टेरोन"
+      }
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Control and Coordination",
+      "question": "Write the names and functions of male and female sex hormones.",
+      "prashna": "नर तथा मादा जनन हार्मोनों के नाम एवं कार्य लिखें।"
+    },
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Control and Coordination",
+      "question": "Auxin is a/an:",
+      "prashna": "ऑक्सीन है",
+      "options": {
+        "A": "Hormone",
+        "B": "Fat",
+        "C": "Enzyme",
+        "D": "Carbohydrate"
+      },
+      "vikalpa": {
+        "A": "एक हार्मोन",
+        "B": "वसा",
+        "C": "एंजाइम है",
+        "D": "कार्बोहाइड्रेट"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Control and Coordination",
+      "question": "An example of a plant hormone is:",
+      "prashna": "पादप हार्मोन का उदाहरण है",
+      "options": {
+        "A": "Pepsin",
+        "B": "Adrenaline",
+        "C": "Auxin",
+        "D": "Testosterone"
+      },
+      "vikalpa": {
+        "A": "पेप्सीन",
+        "B": "एड्रीनलीन",
+        "C": "ऑक्सीन",
+        "D": "टेस्टोस्टेरान"
+      }
+    }
+  ],
   "2017": [
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Control and Coordination",
+      "question": "Brain is responsible for -",
+      "prashna": "मस्तिष्क उत्तरदायी है-",
+      "options": {
+        "A": "To think over",
+        "B": "Palpitation of heart",
+        "C": "Balance of body",
+        "D": "All"
+      },
+      "vikalpa": {
+        "A": "सोचने के लिये",
+        "B": "हृदय स्पंदन",
+        "C": "शारीरिक संतुलन",
+        "D": "सभी"
+      }
+    },
     {
       "id": "obj_18",
       "type": "objective",
@@ -22,6 +304,94 @@
     }
   ],
   "2018": [
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Control and Coordination",
+      "question": "Which plant hormone is responsible for wilting of leaves?",
+      "prashna": "कौन सा पादप हार्मोन पत्तियों के मुरझाने के लिए उत्तरदायी है?",
+      "options": {
+        "A": "auxin",
+        "B": "cytokinin",
+        "C": "abscisic acid",
+        "D": "gibberellin"
+      },
+      "vikalpa": {
+        "A": "ऑक्सीन",
+        "B": "साइटोकाइनिन",
+        "C": "एब्सिसिक अम्ल",
+        "D": "जिब्बेरेलिन"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Control and Coordination",
+      "question": "Downward growth of root is -",
+      "prashna": "जड़ का अधोगामी वृद्धि है -",
+      "options": {
+        "A": "phototropism",
+        "B": "geotropism",
+        "C": "hydrotropism",
+        "D": "chemotropism"
+      },
+      "vikalpa": {
+        "A": "प्रकाशानुवर्तन",
+        "B": "गुरुत्वानुवर्तन",
+        "C": "जलानुवर्तन",
+        "D": "रसायनानुवर्तन"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Control and Coordination",
+      "question": "Pons, medulla and cerebellum are parts of -",
+      "prashna": "पॉन्स, मेडुला और अनुमस्तिष्क -",
+      "options": {
+        "A": "forebrain",
+        "B": "mid-brain",
+        "C": "hind brain",
+        "D": "cerebrum"
+      },
+      "vikalpa": {
+        "A": "अग्रमस्तिष्क का हिस्सा है।",
+        "B": "मध्य मस्तिष्क का हिस्सा है।",
+        "C": "पश्च मस्तिष्क का हिस्सा है।",
+        "D": "प्रमस्तिष्क का हिस्सा है।"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Control and Coordination",
+      "question": "Which of the following is not an involuntary action?",
+      "prashna": "निम्नलिखित कौन सी अनैच्छिक क्रिया नहीं है?",
+      "options": {
+        "A": "Vomiting",
+        "B": "Chewing",
+        "C": "Salivation",
+        "D": "Heart beat"
+      },
+      "vikalpa": {
+        "A": "वमन",
+        "B": "चबाना",
+        "C": "लार आना",
+        "D": "हृदय का धड़कना"
+      }
+    },
+    {
+      "id": "short_14",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Control and Coordination",
+      "question": "Why does the nervous tissue act?",
+      "prashna": "तंत्रिका उत्तक कैसे क्रिया करता है?"
+    },
     {
       "id": "obj_29",
       "type": "objective",
@@ -361,6 +731,224 @@
       "chapter_name": "Control and Coordination",
       "question": "How does chemical coordination take place in animals ?",
       "prashna": "जन्तुओं में रासायनिक समन्वय कैसे होता है ?"
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Control and Coordination",
+      "question": "Maintains the balance of the body",
+      "prashna": "शरीर का संतुलन बनाए रखता है।",
+      "options": {
+        "A": "Cerebellum",
+        "B": "Cranium",
+        "C": "Brain stem",
+        "D": "Cerebrum"
+      },
+      "vikalpa": {
+        "A": "सेरीबेलम",
+        "B": "क्रेनियम",
+        "C": "मस्तिष्क स्टेम",
+        "D": "सेरीब्रम"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Control and Coordination",
+      "question": "The longest cell in the human body is",
+      "prashna": "मानव शरीर की सबसे लम्बी कोशिका है।",
+      "options": {
+        "A": "Bone cell",
+        "B": "Muscle cell",
+        "C": "Neuron",
+        "D": "Master cell"
+      },
+      "vikalpa": {
+        "A": "अस्थि कोशिका",
+        "B": "पेशी कोशिका",
+        "C": "न्यूरॉन",
+        "D": "मास्टर सेल"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Control and Coordination",
+      "question": "Which of the following is not a plant hormone?",
+      "prashna": "निम्नांकित में कौन पादप हार्मोन नहीं है?",
+      "options": {
+        "A": "Ethylene",
+        "B": "Cytokinin",
+        "C": "Auxin",
+        "D": "Oxytocin"
+      },
+      "vikalpa": {
+        "A": "एथिलिन",
+        "B": "साइटोकाइनीन",
+        "C": "आक्सिन",
+        "D": "आक्सीटोसीन"
+      }
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Control and Coordination",
+      "question": "The growth of the pollen tube towards the ovule is due to",
+      "prashna": "बीजांड की ओर पराग नलिका की वृद्धि का कारण होता है",
+      "options": {
+        "A": "Hydrotropism",
+        "B": "Chemotropism",
+        "C": "Geotropism",
+        "D": "Phototropism"
+      },
+      "vikalpa": {
+        "A": "हाइड्रोट्रॉपिज्म",
+        "B": "केमोट्रॉपिज्म",
+        "C": "गुरुत्वानुवर्तन",
+        "D": "फोटोट्रॉपिज्म"
+      }
+    },
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Control and Coordination",
+      "question": "The level of sugar in blood is controlled by",
+      "prashna": "रक्त में शर्करा का स्तर नियंत्रित करता है",
+      "options": {
+        "A": "Relaxin",
+        "B": "Estrogen",
+        "C": "Progesterone",
+        "D": "Insulin"
+      },
+      "vikalpa": {
+        "A": "रिलैक्सिन",
+        "B": "एस्ट्रोजेन",
+        "C": "प्रोजेस्टेरोन",
+        "D": "इंसुलिन"
+      }
+    },
+    {
+      "id": "obj_48",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Control and Coordination",
+      "question": "Which is the longest cell in the human body?",
+      "prashna": "मानव शरीर में सबसे लम्बी कोशिका कौन है ?",
+      "options": {
+        "A": "Blood cell",
+        "B": "Muscles",
+        "C": "Nerve cell",
+        "D": "Heart cell"
+      },
+      "vikalpa": {
+        "A": "रक्त कोशिका",
+        "B": "मांसपेशियाँ,",
+        "C": "तंत्रिका कोशिका",
+        "D": "दिल की कोशिका"
+      }
+    },
+    {
+      "id": "obj_74",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Control and Coordination",
+      "question": "Androgen is a",
+      "prashna": "एंड्रोजन है",
+      "options": {
+        "A": "Male hormone",
+        "B": "Female hormone",
+        "C": "Digestive juice",
+        "D": "Enzyme"
+      },
+      "vikalpa": {
+        "A": "नर हॉर्मोन",
+        "B": "मादा हॉर्मोन",
+        "C": "पाचक रस",
+        "D": "एजाइम"
+      }
+    },
+    {
+      "id": "obj_75",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Control and Coordination",
+      "question": "Blood pressure is controlled by",
+      "prashna": "रुधिर चाप नियंत्रित होता है",
+      "options": {
+        "A": "Thymus",
+        "B": "By Thyroid",
+        "C": "By Adrenal",
+        "D": "By Vrishana (Testes)"
+      },
+      "vikalpa": {
+        "A": "थाइमस",
+        "B": "थायराइड द्वारा",
+        "C": "एड्रिनल द्वारा",
+        "D": "वृषण द्वारा"
+      }
+    },
+    {
+      "id": "obj_79",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Control and Coordination",
+      "question": "Testosterone is secreted from the",
+      "prashna": "टेस्टोस्टेरोन स्रावित होता है।",
+      "options": {
+        "A": "Testis",
+        "B": "Kidney",
+        "C": "Ovary",
+        "D": "Thyroid gland"
+      },
+      "vikalpa": {
+        "A": "वृषण से",
+        "B": "वृक्क से",
+        "C": "अंडाशय से",
+        "D": "थायराइड ग्रंथि से"
+      }
+    },
+    {
+      "id": "obj_80",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Control and Coordination",
+      "question": "The average weight of the human brain is",
+      "prashna": "मानव मस्तिष्क का औसत भार है",
+      "options": {
+        "A": "$1\text{ kg}$",
+        "B": "$2\text{ kg}$",
+        "C": "$1.4\text{ kg}$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$1\text{ kg}$",
+        "B": "$2\text{ kg}$",
+        "C": "$1.4\text{ kg}$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Control and Coordination",
+      "question": "Why is it advised to use iodized salt?",
+      "prashna": "आयोडीन युक्त नमक के उपयोग की सलाह क्यों दी जाती है ?"
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Control and Coordination",
+      "question": "What are the functions of the nervous system?",
+      "prashna": "तंत्रिका तंत्र के क्या कार्य है?"
     }
   ],
   "2022": [

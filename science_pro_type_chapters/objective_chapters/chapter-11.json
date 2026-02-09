@@ -1,5 +1,697 @@
 {
+  "2011": [
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "On which effect of electric current does the electric fuse work?",
+      "prashna": "विद्युत फ्यूज विद्युत धारा के किस प्रभाव पर कार्य करता है?",
+      "options": {
+        "A": "Heating",
+        "B": "Magnetic",
+        "C": "Chemical",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "ऊष्मीय",
+        "B": "चुम्बकीय",
+        "C": "रासायनिक",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "The formula for finding the resistance of a coil is",
+      "prashna": "किस कुण्डली का प्रतिरोध ज्ञात करने के लिए सूत्र है",
+      "options": {
+        "A": "$R = V \times I$",
+        "B": "$R = I / V$",
+        "C": "$R = V / I$",
+        "D": "$R = V - I$"
+      },
+      "vikalpa": {
+        "A": "$R = V \times I$",
+        "B": "$R = I / V$",
+        "C": "$R = V / I$",
+        "D": "$R = V - I$"
+      }
+    }
+  ],
+  "2012": [
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Which of the following terms does not represent electrical power in a circuit?",
+      "prashna": "निम्नलिखित में से कौन-सा पद विद्युत परिपथ में विद्युत शक्ति को निरूपित नहीं करता है?",
+      "options": {
+        "A": "$I^2R$",
+        "B": "$IR^2$",
+        "C": "$VI$",
+        "D": "$V^2/R$"
+      },
+      "vikalpa": {
+        "A": "$I^2R$",
+        "B": "$IR^2$",
+        "C": "$VI$",
+        "D": "$V^2/R$"
+      }
+    }
+  ],
+  "2013": [
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "The S.I. unit of electric power is",
+      "prashna": "विद्युत शक्ति का S.I. मात्रक होता है",
+      "options": {
+        "A": "Volt",
+        "B": "Watt",
+        "C": "Joule",
+        "D": "Coulomb"
+      },
+      "vikalpa": {
+        "A": "वोल्ट",
+        "B": "वाट",
+        "C": "जूल",
+        "D": "कूलॉम्ब"
+      }
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "The filament of an electric bulb is made of",
+      "prashna": "विद्युत बल्ब का तंतु बना होता है।",
+      "options": {
+        "A": "Iron",
+        "B": "Copper",
+        "C": "Tungsten",
+        "D": "Aluminum"
+      },
+      "vikalpa": {
+        "A": "लोहे का",
+        "B": "ताँबा का",
+        "C": "टंगस्टन का",
+        "D": "ऐल्युमिनियम का"
+      }
+    }
+  ],
+  "2014": [
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "$1\text{ mA}$ is equal to",
+      "prashna": "$1\text{ mA}$ बराबर होता है",
+      "options": {
+        "A": "$10^{-3}\text{ A}$",
+        "B": "$10^{-2}\text{ A}$",
+        "C": "$10^{-1}\text{ A}$",
+        "D": "$10^{-6}\text{ A}$"
+      },
+      "vikalpa": {
+        "A": "$10^{-3}\text{ A}$",
+        "B": "$10^{-2}\text{ A}$",
+        "C": "$10^{-1}\text{ A}$",
+        "D": "$10^{-6}\text{ A}$"
+      }
+    },
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Solar cells convert solar energy into",
+      "prashna": "सौर सेल सौर ऊर्जा को रूपान्तरित करते है",
+      "options": {
+        "A": "Light energy",
+        "B": "Kinetic energy",
+        "C": "Heat energy",
+        "D": "Electrical energy"
+      },
+      "vikalpa": {
+        "A": "प्रकाश ऊर्जा में",
+        "B": "गतिज ऊर्जा में",
+        "C": "ताप ऊर्जा में",
+        "D": "विद्युत ऊर्जा में"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "When an electric current flows through a conducting wire, what is the moving particle?",
+      "prashna": "जब किसी चालक तार विद्युत धारा प्रवाहित होती है तो गतिशील कण क्या है?",
+      "options": {
+        "A": "Atom",
+        "B": "Ion",
+        "C": "Proton",
+        "D": "Electron"
+      },
+      "vikalpa": {
+        "A": "परमाणु",
+        "B": "आयन",
+        "C": "प्रोटॉन",
+        "D": "इलेक्ट्रॉन"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Ohm's law is",
+      "prashna": "ओम का नियम है",
+      "options": {
+        "A": "$V = IR$",
+        "B": "$V = R^2 I$",
+        "C": "$V = I^2 R$",
+        "D": "$V = I + R$"
+      },
+      "vikalpa": {
+        "A": "$V = IR$",
+        "B": "$V = R^2 I$",
+        "C": "$V = I^2 R$",
+        "D": "$V = I + R$"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "What is the S.I. unit of potential difference?",
+      "prashna": "विभवान्तर का S.I. मात्रक क्या है",
+      "options": {
+        "A": "Joule",
+        "B": "Watt",
+        "C": "Ampere",
+        "D": "Volt"
+      },
+      "vikalpa": {
+        "A": "जूल",
+        "B": "वाट",
+        "C": "एम्पीयर",
+        "D": "वोल्ट"
+      }
+    },
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "The resistance of an ammeter is",
+      "prashna": "आम्मीटर का प्रतिरोध होता है।",
+      "options": {
+        "A": "Small",
+        "B": "Large",
+        "C": "Very small",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "छोटा",
+        "B": "बड़ा",
+        "C": "बहुत छोटा",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Filament of an electric bulb is made of which of the following metals?",
+      "prashna": "विद्युत बल्ब का फिलामेंट निम्न में से किस धातु का बना होता है ?",
+      "options": {
+        "A": "Copper",
+        "B": "Nichrome",
+        "C": "Lead",
+        "D": "Tungsten"
+      },
+      "vikalpa": {
+        "A": "ताँबा",
+        "B": "नाइक्रोम",
+        "C": "सीसा",
+        "D": "टंगस्टन"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "What is the purpose of a rheostat?",
+      "prashna": "रिओस्टेट का उद्देश्य क्या है ?",
+      "options": {
+        "A": "Increase in the magnitude of current",
+        "B": "Decrease in the magnitude of current",
+        "C": "Increase or decrease in the magnitude of current",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "धारा का परिमाण में वृद्धि",
+        "B": "धारा का परिमाण में कमी",
+        "C": "धारा का परिमाण में वृद्धि या कमी",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "The S.I. unit of electric charge is",
+      "prashna": "विद्युत आवेश का S.I. मात्रक होता है",
+      "options": {
+        "A": "Volt",
+        "B": "Ohm",
+        "C": "Joule",
+        "D": "Coulomb"
+      },
+      "vikalpa": {
+        "A": "वोल्ट",
+        "B": "ओम",
+        "C": "जूल",
+        "D": "कूलॉम"
+      }
+    },
+    {
+      "id": "obj_62",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "A good conductor of electricity is",
+      "prashna": "विद्युत का अच्छा चालक है",
+      "options": {
+        "A": "Wood",
+        "B": "Plastic",
+        "C": "Carbon",
+        "D": "Silver"
+      },
+      "vikalpa": {
+        "A": "लकड़ी",
+        "B": "प्लास्टिक",
+        "C": "कार्बन",
+        "D": "चाँदी"
+      }
+    },
+    {
+      "id": "obj_63",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Negative electrode in a dry cell is made of",
+      "prashna": "शुष्क सेल में ऋण इलेक्ट्रोड बना होता है",
+      "options": {
+        "A": "Copper",
+        "B": "Carbon",
+        "C": "Zinc",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "ताँबा का",
+        "B": "कार्बन का",
+        "C": "जस्ता का",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_64",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "The value of 1 Joule is",
+      "prashna": "1 जूल का मान होता है",
+      "options": {
+        "A": "0.24 calorie",
+        "B": "4.18 calorie",
+        "C": "0.42 calorie",
+        "D": "2.4 calorie"
+      },
+      "vikalpa": {
+        "A": "0.24 कैलोरी",
+        "B": "4.18 कैलोरी",
+        "C": "0.42 कैलोरी",
+        "D": "2.4 कैलोरी"
+      }
+    },
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Choose the correct option from the following: The relation between potential difference V, resistance R, and current I across the ends of a conductor is",
+      "prashna": "निम्नांकित विकल्पों में से सही विकल्प चुनें। किसी चालक के छोरों के बीच विभवांतर V, प्रतिरोध R एवं प्रवाहित धारा I के बीच संबंध है",
+      "options": {
+        "A": "$I = \frac{R}, {V}$",
+        "B": "$R = \frac{I}, {V}$",
+        "C": "$R = \frac{V}, {I}$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$I = \frac{R}, {V}$",
+        "B": "$R = \frac{I}, {V}$",
+        "C": "$R = \frac{V}, {I}$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "A 100 W electric bulb is connected to a 250 V electric main. The value of current flowing through the bulb will be",
+      "prashna": "100 W का विद्युत बल्ब 250 V के विद्युत मेन से जोड़ा जाता है। बल्ब से प्रवाहित धारा का मान होगा",
+      "options": {
+        "A": "0.1 Ampere",
+        "B": "0.4 Ampere",
+        "C": "2.5 Ampere",
+        "D": "10 Ampere"
+      },
+      "vikalpa": {
+        "A": "0.1 ऐम्पियर",
+        "B": "0.4 एम्पियर",
+        "C": "2.5 ऐम्पियर",
+        "D": "10 एम्पियर"
+      }
+    },
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "An electric fuse is based on",
+      "prashna": "विद्युत फ्यूज आधारित है",
+      "options": {
+        "A": "Heating effect of current",
+        "B": "Magnetic effect of current",
+        "C": "Chemical effect of current",
+        "D": "Electromagnetic effect of current"
+      },
+      "vikalpa": {
+        "A": "धारा के ऊष्मीय प्रभाव पर",
+        "B": "धारा के चुंबकीय प्रभाव पर",
+        "C": "धारा के रासायनिक प्रभाव पर",
+        "D": "धारा के विद्युत-चुंबकीय प्रभाव पर"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "When electric current flows through a conducting wire, the moving particles are",
+      "prashna": "जब किसी चालक तार से विद्युत धारा प्रवाहित होती है तो गतिशील कण होते हैं।",
+      "options": {
+        "A": "Atoms",
+        "B": "Ions",
+        "C": "Protons",
+        "D": "Electrons"
+      },
+      "vikalpa": {
+        "A": "परमाणु",
+        "B": "आयन",
+        "C": "प्रोटॉन",
+        "D": "इलेक्ट्रॉन"
+      }
+    }
+  ],
+  "2015": [
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "The current of $2\text{ A}$ at $220\text{ V}$ is flowing through an electric bulb. The resistance of filament will be",
+      "prashna": "किसी बल्ब से $220\text{ V}$ पर $2\text{ A}$ की धारा प्रवाहित होती है, तो फिलामेंट का प्रतिरोध होगा",
+      "options": {
+        "A": "$55\\ \\Omega$",
+        "B": "$110\\ \\Omega$",
+        "C": "$220\\ \\Omega$",
+        "D": "$440\\ \\Omega$"
+      },
+      "vikalpa": {
+        "A": "$55\\ \\Omega$",
+        "B": "$110\\ \\Omega$",
+        "C": "$220\\ \\Omega$",
+        "D": "$440\\ \\Omega$"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "$1\text{ kWh}$ is equal to",
+      "prashna": "$1\text{ kWh}$ तुल्य है",
+      "options": {
+        "A": "$3600\text{ J}$",
+        "B": "$3.6 \times 10^6\text{ J}$",
+        "C": "$36 \times 10^6\text{ J}$",
+        "D": "$36.00\text{ J}$"
+      },
+      "vikalpa": {
+        "A": "$3600\text{ J}$ का",
+        "B": "$3.6 \times 10^6\text{ J}$ का",
+        "C": "$36 \times 10^6\text{ J}$ का",
+        "D": "$36.00\text{ J}$ का"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "The SI unit of potential difference is",
+      "prashna": "विभवान्तर का SI मात्रक होता है",
+      "options": {
+        "A": "watt",
+        "B": "ampere",
+        "C": "volt",
+        "D": "Ohm"
+      },
+      "vikalpa": {
+        "A": "वाट",
+        "B": "एम्पीयर",
+        "C": "वोल्ट",
+        "D": "ओम"
+      }
+    },
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "If a current of $2A$ flows through a bulb at $220 V$, then the resistance of the filament will be:",
+      "prashna": "किसी बल्ब से $220 V$ पर $2A$ की धारा प्रवाहित होती है, तो फिलामेंट का प्रतिरोध होगा:",
+      "options": {
+        "A": "55 $\\Omega$",
+        "B": "110 $\\Omega$",
+        "C": "220 $\\Omega$",
+        "D": "440 $\\Omega$"
+      },
+      "vikalpa": {
+        "A": "55 $\\Omega$",
+        "B": "110 $\\Omega$",
+        "C": "220 $\\Omega$",
+        "D": "440 $\\Omega$"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "$1 \text{ kWh}$ is equal to:",
+      "prashna": "$1 \text{ kWh}$ तुल्य है:",
+      "options": {
+        "A": "$3600 \text{ J}$",
+        "B": "$3.6 \times 10^6 \text{ J}$",
+        "C": "$36 \times 10^6 \text{ J}$",
+        "D": "$36.00 \text{ J}$"
+      },
+      "vikalpa": {
+        "A": "$3600 \text{ J}$ का",
+        "B": "$3.6 \times 10^6 \text{ J}$ का",
+        "C": "$36 \times 10^6 \text{ J}$ का",
+        "D": "$36.00 \text{ J}$ का"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "The SI unit of potential difference is:",
+      "prashna": "विभवांतर का SI मात्रक होता है:",
+      "options": {
+        "A": "Watt",
+        "B": "Ampere",
+        "C": "Volt",
+        "D": "Ohm"
+      },
+      "vikalpa": {
+        "A": "वाट",
+        "B": "एम्पीयर",
+        "C": "वोल्ट",
+        "D": "ओम"
+      }
+    }
+  ],
+  "2016": [
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "The instrument used to measure the potential difference is called",
+      "prashna": "विभवान्तर मापने वाले यंत्र को कहा जाता है",
+      "options": {
+        "A": "ammeter",
+        "B": "voltmeter",
+        "C": "galvanometer",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "आमीटर",
+        "B": "वोल्टमीटर",
+        "C": "गैल्वनोमीटर",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Ammeter is connected in an electric circuit",
+      "prashna": "आमीटर को विद्युत परिपथ में कैसे जोड़ा जाता है ?",
+      "options": {
+        "A": "in series",
+        "B": "in parallel",
+        "C": "both (A) and (B)",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "श्रेणीक्रम",
+        "B": "पार्श्वबद्ध",
+        "C": "(a) और (b) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "The S.I. unit of electric current is",
+      "prashna": "विद्युत धारा का S.I. मात्रक है",
+      "options": {
+        "A": "volt",
+        "B": "coulomb",
+        "C": "watt",
+        "D": "ampere"
+      },
+      "vikalpa": {
+        "A": "वोल्ट",
+        "B": "कुलॉम",
+        "C": "वाट",
+        "D": "एम्पियर"
+      }
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "The instrument used to measure potential difference is called:",
+      "prashna": "विभ्वान्तर मापने वाले यंत्र को कहा जाता है",
+      "options": {
+        "A": "Ammeter",
+        "B": "Voltmeter",
+        "C": "Galvanometer",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "आमीटर",
+        "B": "वोल्टमीटर",
+        "C": "गैल्वेनोमीटर",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "How is an ammeter connected in an electric circuit?",
+      "prashna": "आमीटर को विद्युत परिपथ में कैसे जोड़ा जाता है ?",
+      "options": {
+        "A": "Series",
+        "B": "Parallel",
+        "C": "Both (A) and (B)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "श्रेणीक्रम",
+        "B": "पार्श्वबद्ध",
+        "C": "(a) और (b) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "The S.I. unit of electric current is:",
+      "prashna": "विद्युत धारा का S.I. मात्रक है",
+      "options": {
+        "A": "Volt",
+        "B": "Coulomb",
+        "C": "Watt",
+        "D": "Ampere"
+      },
+      "vikalpa": {
+        "A": "वोल्ट",
+        "B": "कुलॉम",
+        "C": "वाट",
+        "D": "एम्पियर"
+      }
+    }
+  ],
   "2018": [
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Which of the following is SI unit of electric potential difference?",
+      "prashna": "निम्नलिखित में से कौन विद्युत विभवान्तर का SI मात्रक है?",
+      "options": {
+        "A": "Volt",
+        "B": "Ohm",
+        "C": "Volt per Coulomb",
+        "D": "Ampere"
+      },
+      "vikalpa": {
+        "A": "वोल्ट",
+        "B": "ओम",
+        "C": "वोल्ट प्रति कूलॉम",
+        "D": "ऐम्पियर"
+      }
+    },
     {
       "id": "obj_7",
       "type": "objective",
@@ -262,6 +954,468 @@
         "B": "वोल्ट",
         "C": "एम्मीटर",
         "D": "ओम"
+      }
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "$1mA$ is equal to",
+      "prashna": "$1mA$ बराबर होता है",
+      "options": {
+        "A": "$10^{-3} A$",
+        "B": "$10^{-2} A$",
+        "C": "$10^{-1} A$",
+        "D": "$10^{-6} A$"
+      },
+      "vikalpa": {
+        "A": "$10^{-3} A$",
+        "B": "$10^{-2} A$",
+        "C": "$10^{-1} A$",
+        "D": "$10^{-6} A$"
+      }
+    },
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Solar cells convert solar energy into",
+      "prashna": "सौर सेल सौर ऊर्जा को रूपान्तरित करते है",
+      "options": {
+        "A": "Light energy",
+        "B": "Kinetic energy",
+        "C": "Heat energy",
+        "D": "Electrical energy"
+      },
+      "vikalpa": {
+        "A": "प्रकाश ऊर्जा में",
+        "B": "गतिज ऊर्जा में",
+        "C": "ताप ऊर्जा में",
+        "D": "विद्युत ऊर्जा में"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "What are the moving particles when an electric current flows through a conductor wire?",
+      "prashna": "जब किसी चालक तार विद्युत धारा प्रवाहित होती है तो गतिशील कण क्या है?",
+      "options": {
+        "A": "Atom",
+        "B": "Ion",
+        "C": "Proton",
+        "D": "Electron"
+      },
+      "vikalpa": {
+        "A": "परमाणु",
+        "B": "आयन",
+        "C": "प्रोटॉन",
+        "D": "इलेक्ट्रॉन"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Ohm's law is",
+      "prashna": "ओम का नियम है",
+      "options": {
+        "A": "$V = IR$",
+        "B": "$V = R^2 I$",
+        "C": "$V = I^2 R$",
+        "D": "$V = I + R$"
+      },
+      "vikalpa": {
+        "A": "$V = IR$",
+        "B": "$V = R^2 I$",
+        "C": "$V = I^2 R$",
+        "D": "$V = I + R$"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "What is the S.I. unit of potential difference?",
+      "prashna": "विभवान्तर का S.I. मात्रक क्या है",
+      "options": {
+        "A": "Joule",
+        "B": "Watt",
+        "C": "Ampere",
+        "D": "Volt"
+      },
+      "vikalpa": {
+        "A": "जूल",
+        "B": "वाट",
+        "C": "एम्पीयर",
+        "D": "वोल्ट"
+      }
+    },
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "The resistance of an ammeter is",
+      "prashna": "आम्मीटर का प्रतिरोध होता है।",
+      "options": {
+        "A": "Small",
+        "B": "Big",
+        "C": "Very small",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "छोटा",
+        "B": "बड़ा",
+        "C": "बहुत छोटा",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "The filament of an electric bulb is made of which of the following metals?",
+      "prashna": "विद्युत बल्ब का फिलामेंट निम्न में से किस धातु का बना होता है?",
+      "options": {
+        "A": "Copper",
+        "B": "Nichrome",
+        "C": "Lead",
+        "D": "Tungsten"
+      },
+      "vikalpa": {
+        "A": "ताँबा",
+        "B": "नाइट्रोम",
+        "C": "सीसा",
+        "D": "टंगस्टन"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "What is the purpose of a rheostat?",
+      "prashna": "रिओस्टेट का उद्देश्य क्या है ?",
+      "options": {
+        "A": "Increase in the magnitude of current",
+        "B": "Decrease in the magnitude of current",
+        "C": "Increase or decrease in the magnitude of current",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "धारा का परिमाण में वृद्धि",
+        "B": "धारा का परिमाण में कमी",
+        "C": "धारा का परिमाण में वृद्धि या कमी",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "The S.I. unit of electric charge is",
+      "prashna": "विद्युत आवेश का S.I. मात्रक होता है",
+      "options": {
+        "A": "Volt",
+        "B": "Ohm",
+        "C": "Joule",
+        "D": "Coulomb"
+      },
+      "vikalpa": {
+        "A": "वोल्ट",
+        "B": "ओम",
+        "C": "जूल",
+        "D": "कूलॉम"
+      }
+    },
+    {
+      "id": "obj_62",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "A good conductor of electricity is",
+      "prashna": "विद्युत का अच्छा चालक है",
+      "options": {
+        "A": "Wood",
+        "B": "Plastic",
+        "C": "Carbon",
+        "D": "Silver"
+      },
+      "vikalpa": {
+        "A": "लकड़ी",
+        "B": "प्लास्टिक",
+        "C": "कार्बन",
+        "D": "चाँदी"
+      }
+    },
+    {
+      "id": "obj_63",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Negative electrode in a dry cell is made of",
+      "prashna": "शुष्क सेल में ऋण इलेक्ट्रोड बना होता है",
+      "options": {
+        "A": "Copper",
+        "B": "Carbon",
+        "C": "Zinc",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "ताँबा का",
+        "B": "कार्बन का",
+        "C": "जस्ता का",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_64",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Value of 1 Joule is",
+      "prashna": "1 जूल का मान होता है",
+      "options": {
+        "A": "0.24 calorie",
+        "B": "4.18 calorie",
+        "C": "0.42 calorie",
+        "D": "2.4 calorie"
+      },
+      "vikalpa": {
+        "A": "0.24 कैलोरी",
+        "B": "4.18 कैलोरी",
+        "C": "0.42 कैलोरी",
+        "D": "2.4 कैलोरी"
+      }
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Which material is used to make the coil of an electric heater?",
+      "prashna": "इलेक्ट्रिक हीटर की कुंडली बनाने में किस पदार्थ का प्रयोग किया जाता है?",
+      "options": {
+        "A": "Copper",
+        "B": "Iron",
+        "C": "Silver",
+        "D": "Nichrome"
+      },
+      "vikalpa": {
+        "A": "ताँबा",
+        "B": "लोहा",
+        "C": "चाँदी",
+        "D": "नाइक्रोम"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "The value of one unit of electrical energy is",
+      "prashna": "एक यूनिट विद्युत ऊर्जा का मान है,",
+      "options": {
+        "A": "$3.6 \times 10^3\text{ J}$",
+        "B": "$3.6 \times 10^5\text{ J}$",
+        "C": "$3.6 \times 10^4\text{ J}$",
+        "D": "$3.6 \times 10^6\text{ J}$"
+      },
+      "vikalpa": {
+        "A": "$3.6 \times 10^3\text{ J}$",
+        "B": "$3.6 \times 10^5\text{ J}$",
+        "C": "$3.6 \times 10^4\text{ J}$",
+        "D": "$3.6 \times 10^6\text{ J}$"
+      }
+    },
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Kilowatt / hour is a unit of",
+      "prashna": "किलोवाट / घंटा एक इकाई है।",
+      "options": {
+        "A": "Energy",
+        "B": "Power",
+        "C": "Electric charge",
+        "D": "Electric current"
+      },
+      "vikalpa": {
+        "A": "ऊर्जा की",
+        "B": "शक्ति की",
+        "C": "विद्युत आवेश की",
+        "D": "विद्युत धारा की"
+      }
+    },
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "On which principle of electric current does an electric fuse work?",
+      "prashna": "विद्युत फ्यूज धारा के किस सिद्धांत पर कार्य करता है?",
+      "options": {
+        "A": "Thermal",
+        "B": "Magnetic",
+        "C": "Chemical",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "ऊष्मीय",
+        "B": "चुम्बकीय",
+        "C": "रासायनिक",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "In which order is a voltmeter connected in an electric circuit?",
+      "prashna": "वोल्टमीटर को विद्युत परिपथ में किस क्रम में जोड़ा जाता है",
+      "options": {
+        "A": "Series order",
+        "B": "Parallel order",
+        "C": "Both (A) and (B)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "श्रेणीक्रम",
+        "B": "समानान्तर क्रम",
+        "C": "(A) और (B) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "What is used to measure the potential difference between two points in an electric circuit?",
+      "prashna": "विद्युत परिपथ में दो बिन्दुओं के बीच विभवान्तर मापने के लिए प्रयुक्त होता है",
+      "options": {
+        "A": "Ammeter",
+        "B": "Voltmeter",
+        "C": "Galvanometer",
+        "D": "Plug-key"
+      },
+      "vikalpa": {
+        "A": "आमीटर",
+        "B": "वोल्टमीटर",
+        "C": "गैल्वेनोमीटर",
+        "D": "प्लग-कुंजी"
+      }
+    },
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Which energy is converted into electricity by a hydro-electric power plant?",
+      "prashna": "जल विद्युत संयंत्र किस ऊर्जा को विद्युत में रूपांतरित करता है?",
+      "options": {
+        "A": "Thermal energy",
+        "B": "Nuclear energy",
+        "C": "Solar energy",
+        "D": "Potential energy"
+      },
+      "vikalpa": {
+        "A": "तापीय ऊर्जा",
+        "B": "नाभिकीय ऊर्जा",
+        "C": "सौर ऊर्जा",
+        "D": "स्थितिज ऊर्जा"
+      }
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Which gas is filled in an electric bulb?",
+      "prashna": "विद्युत बल्ब में कौन-सी गैस भरी रहती है?",
+      "options": {
+        "A": "Nitrogen",
+        "B": "Air",
+        "C": "Inert gas",
+        "D": "Hydrogen gas"
+      },
+      "vikalpa": {
+        "A": "नाइट्रोजन",
+        "B": "वायु",
+        "C": "निष्क्रिय गैस",
+        "D": "हाइड्रोजन गैस"
+      }
+    },
+    {
+      "id": "obj_57",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "The charge on an electron is",
+      "prashna": "इलेक्ट्रॉन पर आवेश होता है",
+      "options": {
+        "A": "$-1.6 \times 10^{20}\text{ Coulomb}$",
+        "B": "$-1.6 \times 10^{-27}\text{ Coulomb}$",
+        "C": "$-1.6 \times 10^{-19}\text{ Coulomb}$",
+        "D": "$-1.6 \times 10^{-19}\text{ Coulomb}$"
+      },
+      "vikalpa": {
+        "A": "$-1.6 \times 10^{20}$ कूलम्ब",
+        "B": "$-1.6 \times 10^{-27}$ कूलम्ब",
+        "C": "$-1.6 \times 10^{-19}$ कूलम्ब",
+        "D": "$-1.6 \times 10^{-19}$ कूलम्ब"
+      }
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "Which cell is used in toys?",
+      "prashna": "खिलौनों में किस सेल का उपयोग होता है?",
+      "options": {
+        "A": "Dry cell",
+        "B": "Daniel cell",
+        "C": "Solar cell",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "सुखा मेल",
+        "B": "डेनियल सेल",
+        "C": "सौर सेल",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Electricity",
+      "question": "The ability to do work is called",
+      "prashna": "कार्य करने की क्षमता को कहते हैं",
+      "options": {
+        "A": "Force",
+        "B": "Power",
+        "C": "Energy",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "बल",
+        "B": "शक्ति",
+        "C": "ऊर्जा",
+        "D": "इनमें से कोई नहीं"
       }
     }
   ],

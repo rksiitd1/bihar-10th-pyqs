@@ -1,5 +1,173 @@
 {
+  "2015": [
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Areas Related to Circles",
+      "question": "If the diameter of a semicircle is 14 cm, then its circumference will be",
+      "prashna": "यदि अर्द्धवृत्त का व्यास 14 सेमी है, तो अर्द्धवृत्त की परिधि होगी",
+      "options": {
+        "A": "24 cm",
+        "B": "22 cm",
+        "C": "36 cm",
+        "D": "42 cm"
+      },
+      "vikalpa": {
+        "A": "24 सेमी",
+        "B": "22 सेमी",
+        "C": "36 सेमी",
+        "D": "42 सेमी"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Areas Related to Circles",
+      "question": "If the ratio of circumferences of two circles is $2:3$, then the ratio of their radii will be",
+      "prashna": "दो वृत्तों की परिधियाँ $2:3$ के अनुपात में हैं। उनकी त्रिज्याओं का अनुपात होगा",
+      "options": {
+        "A": "$4:9$",
+        "B": "$2:3$",
+        "C": "$8:27$",
+        "D": "$3:2$"
+      },
+      "vikalpa": {
+        "A": "$4:9$",
+        "B": "$2:3$",
+        "C": "$8:27$",
+        "D": "$3:2$"
+      }
+    }
+  ],
+  "2016": [
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Areas Related to Circles",
+      "question": "If the ratio of areas of two circles is $4 : 9$, then the ratio of their radii will be",
+      "prashna": "दो वृत्तों के क्षेत्रफल $4 : 9$ के अनुपात में हैं। इनकी त्रिज्याओं का अनुपात होगा",
+      "options": {
+        "A": "3 : 4",
+        "B": "2 : 3",
+        "C": "5 : 3",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "3 : 4",
+        "B": "2 : 3",
+        "C": "5 : 3",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Areas Related to Circles",
+      "question": "Area of sector of angle $\theta$ will be",
+      "prashna": "कोण $\theta$ वाले त्रिज्यखण्ड का क्षेत्रफल होगा",
+      "options": {
+        "A": "$\frac{\theta}, {270} \times \\pi r^3$",
+        "B": "$\frac{\theta}, {360} \times \\pi r$",
+        "C": "$\frac{\theta}, {270} \times \\pi r^2$",
+        "D": "$\frac{\theta}, {360} \times \\pi r^2$"
+      },
+      "vikalpa": {
+        "A": "$\frac{\theta}, {270} \times \\pi r^3$",
+        "B": "$\frac{\theta}, {360} \times \\pi r$",
+        "C": "$\frac{\theta}, {270} \times \\pi r^2$",
+        "D": "$\frac{\theta}, {360} \times \\pi r^2$"
+      }
+    }
+  ],
+  "2017": [
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Areas Related to Circles",
+      "question": "Radii of two circles are $6$ cm and $8$ cm respectively. What is the radius of the circle in centimeters whose area is equal to the sum of the areas of these two circles?",
+      "prashna": "दो वृत्तों की त्रिज्याएँ क्रमशः $6$ सेमी० और $8$ सेमी० हैं। उस वृत्त की त्रिज्या सेंटीमीटर में कौन है, जिसका क्षेत्रफल इन दोनों वृत्तों के योग के बराबर है?",
+      "options": {
+        "A": "5",
+        "B": "15",
+        "C": "10",
+        "D": "20"
+      },
+      "vikalpa": {
+        "A": "5",
+        "B": "15",
+        "C": "10",
+        "D": "20"
+      }
+    }
+  ],
+  "2018": [
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Areas Related to Circles",
+      "question": "At 4:24 pm, how many degrees has the hour hand of a clock moved from its position at noon?",
+      "prashna": "ठीक 4:24 अपराह्न पर घंटे की सुई दोपहर के बाद कितने डिग्री घूम जा चुकी होगी -",
+      "options": {
+        "A": "$135^\\circ$",
+        "B": "$134^\\circ$",
+        "C": "$133^\\circ$",
+        "D": "$132^\\circ$"
+      },
+      "vikalpa": {
+        "A": "$135^\\circ$",
+        "B": "$134^\\circ$",
+        "C": "$133^\\circ$",
+        "D": "$132^\\circ$"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Areas Related to Circles",
+      "question": "At 4:24 pm, how many degrees has the hour hand of a clock moved from its position at noon?",
+      "prashna": "ठीक 4:24 अपराह्न पर घंटे की सुई दोपहर के बाद कितने डिग्री घूम जा चुकी होगी-",
+      "options": {
+        "A": "$135^\\circ$",
+        "B": "$134^\\circ$",
+        "C": "$133^\\circ$",
+        "D": "$132^\\circ$"
+      },
+      "vikalpa": {
+        "A": "$135^\\circ$",
+        "B": "$134^\\circ$",
+        "C": "$133^\\circ$",
+        "D": "$132^\\circ$"
+      }
+    }
+  ],
   "2019": [
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Areas Related to Circles",
+      "question": "The radius of a circle with area $38.5\\ cm^2$ is -",
+      "prashna": "38.5 सेमी$^2$ क्षेत्रफल वाले वृत्त की त्रिज्या है -",
+      "options": {
+        "A": "7 cm",
+        "B": "3.5 cm",
+        "C": "10.5 cm",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "7 सेमी.",
+        "B": "3.5 सेमी.",
+        "C": "10.5 सेमी.",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
     {
       "id": "obj_11",
       "type": "objective",
@@ -910,6 +1078,66 @@
         "B": "$5 : 7$",
         "C": "$25 : 49$",
         "D": "$49 : 25$"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Areas Related to Circles",
+      "question": "The ratio of the radii of two circles is 5 : 7 ; then the ratio of their areas is",
+      "prashna": "दो वृत्तों की त्रिज्याओं का अनुपात 5 : 7 है तो उनके क्षेत्रफलों का अनुपात है",
+      "options": {
+        "A": "5 : 7",
+        "B": "7 : 5",
+        "C": "49 : 25",
+        "D": "25 : 49"
+      },
+      "vikalpa": {
+        "A": "5 : 7",
+        "B": "7 : 5",
+        "C": "49 : 25",
+        "D": "25 : 49"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Areas Related to Circles",
+      "question": "The area of the sector of a circle of radius $14\text{ cm}$ and central angle $30^\\circ$ is",
+      "prashna": "14 सेमी त्रिज्या वाले वृत्त के उस त्रिज्यखण्ड जिसका केन्द्रीय कोण $30^\\circ$ है, का क्षेत्रफल है",
+      "options": {
+        "A": "$50.33\text{ cm}^2$",
+        "B": "$51.33\text{ cm}^2$",
+        "C": "$52.33\text{ cm}^2$",
+        "D": "$61.33\text{ cm}^2$"
+      },
+      "vikalpa": {
+        "A": "$50.33\text{ सेमी}^2$",
+        "B": "$51.33\text{ सेमी}^2$",
+        "C": "$52.33\text{ सेमी}^2$",
+        "D": "$61.33\text{ सेमी}^2$"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "Areas Related to Circles",
+      "question": "The ratio of the circumferences of two circles is 2 : 3 then the ratio of their radii is",
+      "prashna": "दो वृत्तों की परिधियों का अनुपात 2 : 3 है तो उनकी त्रिज्याओं का अनुपात है",
+      "options": {
+        "A": "3 : 2",
+        "B": "2 : 3",
+        "C": "4 : 9",
+        "D": "9 : 4"
+      },
+      "vikalpa": {
+        "A": "3 : 2",
+        "B": "2 : 3",
+        "C": "4 : 9",
+        "D": "9 : 4"
       }
     }
   ]

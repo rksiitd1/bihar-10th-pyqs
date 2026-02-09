@@ -1,5 +1,175 @@
 {
+  "2015": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "The decimal expansion of $\frac{2^3}, {2^3 \times 5^2}$ is _______.",
+      "prashna": "$\frac{2^3}, {2^3 \times 5^2}$ का दशमलव प्रसार _______ होता है।"
+    },
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Prove that $5 - \\sqrt{3}$ is an irrational number.",
+      "prashna": "सिद्ध करें कि $5 - \\sqrt{3}$ एक अपरिमेय संख्या है।",
+      "marks": 3
+    },
+    {
+      "id": "short_23",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Express $0.\\overline{6}$ as rational number in simplest form.",
+      "prashna": "$0.\\overline{6}$ को परिमेय संख्या के सरल रूप में व्यक्त करें।",
+      "marks": 3
+    }
+  ],
+  "2016": [
+    {
+      "id": "short_21",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "By prime factorisation method find the L.C.M. and H.C.F. of $26$ and $91$.",
+      "prashna": "अभाज्य गुणनखण्ड विधि से $26$ एवं $91$ का ल० स० और म० स० ज्ञात करें।"
+    },
+    {
+      "id": "short_32",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Prove that $3 + \\sqrt{5}$ is an irrational number.",
+      "prashna": "सिद्ध करें कि $3 + \\sqrt{5}$ एक अपरिमेय संख्या है।"
+    }
+  ],
+  "2017": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "$\\pi$ is a ................ Number.",
+      "prashna": "$\\pi$ एक ................ संख्या है ।"
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "True or False - The product of two numbers is equal to $H.C.F. \times L.C.M.$",
+      "prashna": "सही या गलत - दो संख्याओं का गुणनफल $= H.C.F. \times L.C.M.$"
+    },
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Prove that $\\sqrt{3}$ is an irrational number.",
+      "prashna": "सिद्ध करें कि $\\sqrt{3}$ अपरिमेय संख्या है ।"
+    },
+    {
+      "id": "short_23",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Find the H.C.F. and L.C.M. of $96$ and $404$ by the prime factorisation method.",
+      "prashna": "अभाज्य गुणन खंड विधि से $96$ और $404$ का H.C.F. और L.C.M. ज्ञात करें ।"
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Find the HCF and LCM of $540$ and $805$ by prime factorization method.",
+      "prashna": "अभाज्य गुणनखण्ड विधि द्वारा $540$ और $805$ का म०स० और ल०स० निकालें।"
+    }
+  ],
+  "2018": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Use Euclid's division algorithm to find H.C.F. of 960 and 432.",
+      "prashna": "यूक्लिड विभाजन एल्गोरिथ्म की मदद से $960$ और $432$ का महत्तम समापवर्तक निकालें।"
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Without actually performing the long division. State whether rational number $\frac{2}, {25}$ has a terminating decimal expansion or non-terminating decimal expansion.",
+      "prashna": "बिना भाग दिये बतावें कि परिमेय संख्या $\frac{2}, {25}$ का दशमलव प्रसार सांत है या असांत?"
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Prove $\\sqrt{5}$ is an irrational number.",
+      "prashna": "सिद्ध करें कि $\\sqrt{5}$ एक अपरिमेय संख्या है।"
+    },
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Use Euclid's division algorithm to find H.C.F. of 960 and 432.",
+      "prashna": "यूक्लिड विभाजन एल्गोरिदम की मदद से 960 और 432 का महत्तम समापवर्तक निकालें।"
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Without actually performing the long division. State whether rational number $\frac{2}, {25}$ has a terminating decimal expansion or non-terminating decimal expansion.",
+      "prashna": "बिना भाग दिये बतावें कि परिमेय संख्या $\frac{2}, {25}$ का दशमलव प्रसार शांत है या अशांत?"
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Prove $\\sqrt{5}$ is an irrational number.",
+      "prashna": "सिद्ध करें कि $\\sqrt{5}$ एक अपरिमेय संख्या है।"
+    }
+  ],
   "2019": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Convert $2.\\overline{47}$ in the form of $\frac{p}, {q}$.",
+      "prashna": "$2.\\overline{47}$ को $\frac{p}, {q}$ के रूप में बदलें।"
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Prove that $5 - \\sqrt{3}$ is an irrational number.",
+      "prashna": "सिद्ध करें कि $5 - \\sqrt{3}$ एक अपरिमेय संख्या है।"
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "The HCF of two numbers is 145 and their LCM is 2175. If one number is 725, then find the other number.",
+      "prashna": "दो संख्याओं का म. स. 145 तथा उनका ल. स. 2175 है। यदि एक संख्या 725 है, तो दूसरी संख्या ज्ञात करें।"
+    },
+    {
+      "id": "short_16",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Using Euclid's division algorithm, find the HCF of 570 and 1425.",
+      "prashna": "यूक्लिड विभाजकता एल्गोरिथ्म का प्रयोग कर 570 तथा 1425 का म. स. निकालें।"
+    },
     {
       "id": "short_1",
       "type": "short_answer",

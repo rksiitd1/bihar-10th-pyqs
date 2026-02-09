@@ -30,13 +30,13 @@
     "options": {
       "A": "$\\frac{11}{700}$",
       "B": "$\\frac{91}{2100}$",
-      "C": "$\\frac{343}{2^3 \\times 5^3 \\times 7^3}$",
+      "C": "$\\frac{343}{2^3 \times 5^3 \times 7^3}$",
       "D": "None of these"
     },
     "vikalpa": {
       "A": "$\\frac{11}{700}$",
       "B": "$\\frac{91}{2100}$",
-      "C": "$\\frac{343}{2^3 \\times 5^3 \\times 7^3}$",
+      "C": "$\\frac{343}{2^3 \times 5^3 \times 7^3}$",
       "D": "इनमें से कोई नहीं"
     }
   },
@@ -345,7 +345,7 @@
     "type": "objective",
     "chapter": "8",
     "chapter_name": "Introduction to Trigonometry",
-    "question": "If $5 \\ cot \\theta = 3$, then $\\frac{5 \\sin \\theta - 3 \\cos \\theta}{4 \\sin \\theta + 3 \\cos \\theta}$ is equal to -",
+    "question": "If $5 \\cot \\theta = 3$, then $\\frac{5 \\sin \\theta - 3 \\cos \\theta}{4 \\sin \\theta + 3 \\cos \\theta}$ is equal to -",
     "prashna": "यदि $5 \\cot \\theta = 3$ तब $\\frac{5 \\sin \\theta - 3 \\cos \\theta}{4 \\sin \\theta + 3 \\cos \\theta}$ बराबर है -",
     "options": {
       "A": "11/18",
@@ -663,8 +663,8 @@
   {
     "id": "obj_34",
     "type": "objective",
-    "chapter": "7",
-    "chapter_name": "Coordinate Geometry",
+    "chapter": "3",
+    "chapter_name": "Pair of Linear Equations in Two Variables",
     "question": "To determine a straight line, atleast $K$ points are required. Then $K$ is equal to-",
     "prashna": "एक सरल रेखा को खींचने (निर्धारित करने) में $K$ बिन्दु आवश्यक है, तो $K$ का मान है -",
     "options": {
@@ -1228,7 +1228,7 @@
       "ii": "$\\frac{\\sin \\theta - \\cos \\theta + 1}{\\sin \\theta + \\cos \\theta - 1} = \\frac{1}{\\sec \\theta - \\tan \\theta}$"
     },
     "anuprashna": {
-      "i": "$\\sin A (1 + \\tan A) + \\cos A (1 + \\ cot A) = \\sec A + \\csc A$",
+      "i": "$\\sin A (1 + \\tan A) + \\cos A (1 + \\cot A) = \\sec A + \\csc A$",
       "ii": "$\\frac{\\sin \\theta - \\cos \\theta + 1}{\\sin \\theta + \\cos \\theta - 1} = \\frac{1}{\\sec \\theta - \\tan \\theta}$"
     }
   },

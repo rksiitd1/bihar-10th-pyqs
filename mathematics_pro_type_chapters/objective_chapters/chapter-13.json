@@ -1,5 +1,273 @@
 {
+  "2015": [
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "If the mean and median of an asymmetrical distribution are 26.8 and 27.9 respectively, then mode will be",
+      "prashna": "किसी असममित बंटन का माध्य और माध्यक क्रमश: 26.8 और 27.9 हैं, तो बहुलक होगा",
+      "options": {
+        "A": "30.1",
+        "B": "30.5",
+        "C": "31.4",
+        "D": "30.8"
+      },
+      "vikalpa": {
+        "A": "30.1",
+        "B": "30.5",
+        "C": "31.4",
+        "D": "30.8"
+      }
+    }
+  ],
+  "2016": [
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "The mode of $3, 4, 7, 2, 7, 6, 7, 9$ will be",
+      "prashna": "$3, 4, 7, 2, 7, 6, 7, 9$ का बहुलक होगा",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "7",
+        "D": "9"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "3",
+        "C": "7",
+        "D": "9"
+      }
+    }
+  ],
+  "2017": [
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "Putting the value of variables in ascending or descending order, the value of middle variable will be called-",
+      "prashna": "चरों को आरोही या अवरोही क्रम में रखने पर बीच वाले चर का मान कहलायेगा-",
+      "options": {
+        "A": "Mean",
+        "B": "Median",
+        "C": "Mode",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "माध्य",
+        "B": "माध्यिका",
+        "C": "बहुलक",
+        "D": "कुछ नहीं"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "Which of the following is the mean of the first five natural numbers?",
+      "prashna": "प्रथम पाँच प्राकृत संख्याओं का माध्य निम्नलिखित में कौन-सा है?",
+      "options": {
+        "A": "4",
+        "B": "3",
+        "C": "2.5",
+        "D": "2"
+      },
+      "vikalpa": {
+        "A": "4",
+        "B": "3",
+        "C": "2.5",
+        "D": "2"
+      }
+    }
+  ],
+  "2018": [
+    {
+      "id": "obj_46",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "Mean of first 10 even natural numbers is -",
+      "prashna": "प्रथम 10 सम प्राकृतिक संख्याओं का माध्य है -",
+      "options": {
+        "A": "110",
+        "B": "100",
+        "C": "11",
+        "D": "10"
+      },
+      "vikalpa": {
+        "A": "110",
+        "B": "100",
+        "C": "11",
+        "D": "10"
+      }
+    },
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "The class-interval for drawing ogive should be -",
+      "prashna": "तोरण खींचने के लिए वर्ग-अंतरालों को होना चाहिए -",
+      "options": {
+        "A": "non-overlapping",
+        "B": "overlapping",
+        "C": "both (a) & (b)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "समावेशिक",
+        "B": "अपवर्जी",
+        "C": "दोनों (a) तथा (b)",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_48",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "Mean $(x)$, Median $(y)$ and Mode $(z)$ are related as -",
+      "prashna": "माध्य $(x)$, माध्यिका $(y)$ और बहुलक $(z)$ के बीच संबंध है -",
+      "options": {
+        "A": "$x - y = 3(z - y)$",
+        "B": "$x - z = 3(x - y)$",
+        "C": "$x - y = z - y$",
+        "D": "$3(x - z) = x - y$"
+      },
+      "vikalpa": {
+        "A": "$x - y = 3(z - y)$",
+        "B": "$x - z = 3(x - y)$",
+        "C": "$x - y = z - y$",
+        "D": "$3(x - z) = x - y$"
+      }
+    },
+    {
+      "id": "obj_46",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "Mean of first 10 even natural numbers is -",
+      "prashna": "प्रथम 10 सम प्राकृतिक संख्याओं का माध्य है -",
+      "options": {
+        "A": "110",
+        "B": "100",
+        "C": "11",
+        "D": "10"
+      },
+      "vikalpa": {
+        "A": "110",
+        "B": "100",
+        "C": "11",
+        "D": "10"
+      }
+    },
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "The class-interval for drawing ogive should be -",
+      "prashna": "तोरण खींचने के लिए वर्ग-अंतरालों को होना चाहिए -",
+      "options": {
+        "A": "non-overlapping",
+        "B": "overlapping",
+        "C": "both (a) & (b)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "समावेशिक",
+        "B": "अपवर्जी",
+        "C": "दोनों (a) तथा (b)",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_48",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "Mean (x), Median (y) and Mode (z) are related as -",
+      "prashna": "माध्य (x), माध्यिका (y) और बहुलक (z) के बीच संबंध है -",
+      "options": {
+        "A": "$x - y = 3(z - y)$",
+        "B": "$x - z = 3(x - y)$",
+        "C": "$x - y = z - y$",
+        "D": "$3(x - z) = x - y$"
+      },
+      "vikalpa": {
+        "A": "$x - y = 3(z - y)$",
+        "B": "$x - z = 3(x - y)$",
+        "C": "$x - y = z - y$",
+        "D": "$3(x - z) = x - y$"
+      }
+    }
+  ],
   "2019": [
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "The arithmetic mean of x, x + 3, x + 6, x + 9 and x + 12 is -",
+      "prashna": "x, x + 3, x + 6, x + 9 तथा x + 12 का समान्तर माध्य है-",
+      "options": {
+        "A": "x + 6",
+        "B": "x + 5",
+        "C": "x + 7",
+        "D": "x + 8"
+      },
+      "vikalpa": {
+        "A": "x + 6",
+        "B": "x + 5",
+        "C": "x + 7",
+        "D": "x + 8"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "If the mean of 6, 8, 9, x and 13 is 10, then the value of x is -",
+      "prashna": "यदि 6, 8, 9, x तथा 13 का माध्य 10 हो, तो x का मान है-",
+      "options": {
+        "A": "12",
+        "B": "13",
+        "C": "14",
+        "D": "15"
+      },
+      "vikalpa": {
+        "A": "12",
+        "B": "13",
+        "C": "14",
+        "D": "15"
+      }
+    },
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "Range of 24, 15, 22, 13, 9, 10 and 30 will be-",
+      "prashna": "24, 15, 22, 13, 9, 10 तथा 30 का परिसर होगा-",
+      "options": {
+        "A": "22",
+        "B": "24",
+        "C": "9",
+        "D": "21"
+      },
+      "vikalpa": {
+        "A": "22",
+        "B": "24",
+        "C": "9",
+        "D": "21"
+      }
+    },
     {
       "id": "obj_28",
       "type": "objective",
@@ -990,6 +1258,86 @@
         "B": "7",
         "C": "8",
         "D": "9"
+      }
+    },
+    {
+      "id": "obj_61",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "The length of the classes of the class intervals $3 - 7, 7 - 11, 11 - 15, \\dots$ is",
+      "prashna": "वर्ग अंतरालों $3 - 7, 7 - 11, 11 - 15, \\dots$ के वर्गों की लंबाई है",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      }
+    },
+    {
+      "id": "obj_62",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "The mean of first 10 even natural numbers is",
+      "prashna": "प्रथम 10 सम प्राकृत संख्याओं का माध्य है",
+      "options": {
+        "A": "110",
+        "B": "11",
+        "C": "10",
+        "D": "100"
+      },
+      "vikalpa": {
+        "A": "110",
+        "B": "11",
+        "C": "10",
+        "D": "100"
+      }
+    },
+    {
+      "id": "obj_63",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "What is the median of $7, 3, 5, 8, 6, 10, 9, 12$ ?",
+      "prashna": "$7, 3, 5, 8, 6, 10, 9, 12$ की माध्यिका क्या है ?",
+      "options": {
+        "A": "8",
+        "B": "6",
+        "C": "7.5",
+        "D": "7"
+      },
+      "vikalpa": {
+        "A": "8",
+        "B": "6",
+        "C": "7.5",
+        "D": "7"
+      }
+    },
+    {
+      "id": "obj_64",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "The mode of $8, 9, 7, 8, 3, 9, 5, 8$ is",
+      "prashna": "$8, 9, 7, 8, 3, 9, 5, 8$ का बहुलक है",
+      "options": {
+        "A": "3",
+        "B": "7",
+        "C": "8",
+        "D": "5"
+      },
+      "vikalpa": {
+        "A": "3",
+        "B": "7",
+        "C": "8",
+        "D": "5"
       }
     }
   ]

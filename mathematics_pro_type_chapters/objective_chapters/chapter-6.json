@@ -1,5 +1,391 @@
 {
+  "2016": [
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "If $l \\parallel m$, then the value of $d$ will be (based on the figure showing consecutive interior angles $3d + 50^\\circ$ and $2d + 20^\\circ$)",
+      "prashna": "यदि $l \\parallel m$ हो, तब $d$ का मान होगा (चित्रानुसार जिसमें अंतः कोण $3d + 50^\\circ$ तथा $2d + 20^\\circ$ दिए गए हैं)",
+      "options": {
+        "A": "22^\\circ",
+        "B": "30^\\circ",
+        "C": "45^\\circ",
+        "D": "80^\\circ"
+      },
+      "vikalpa": {
+        "A": "22^\\circ",
+        "B": "30^\\circ",
+        "C": "45^\\circ",
+        "D": "80^\\circ"
+      }
+    }
+  ],
+  "2017": [
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "In $\triangle ABC$, $AD$ is the angle bisector of $\\angle BAC$. If $AB = 6$ cm, $BD = 3$ cm and $CD = 4$ cm, then the value of $AC$ will be-",
+      "prashna": "$\triangle ABC$ में $AD$, $\\angle BAC$ की समद्विभाजक रेखा है। यदि $AB = 6$ cm, $BD = 3$ cm तथा $CD = 4$ cm है, तो $AC$ का मान होगा-",
+      "options": {
+        "A": "6 cm",
+        "B": "4 cm",
+        "C": "8 cm",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "6 cm",
+        "B": "4 cm",
+        "C": "8 cm",
+        "D": "इनमें कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "If $\triangle ABC \\sim \triangle DEF$ and $ar(\triangle ABC) : ar(\triangle DEF) = 16:81$, then the value of $BC : EF$ will be-",
+      "prashna": "यदि $\triangle ABC \\sim \triangle DEF$ और $ar(\triangle ABC) : ar(\triangle DEF) = 16:81$ हो, तो $BC : EF$ का मान होगा-",
+      "options": {
+        "A": "2:3",
+        "B": "4:9",
+        "C": "9:4",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "2:3",
+        "B": "4:9",
+        "C": "9:4",
+        "D": "इनमें कोई नहीं"
+      }
+    }
+  ],
+  "2018": [
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "A tree of $6\text{m}$ height casts a $4\text{m}$ long shadow. At the same time a flag post casts a shadow $50\text{m}$ long. The height of the post (in m.) is -",
+      "prashna": "एक $6$ मीटर ऊँचे वृक्ष की छाया $4$ मीटर लम्बी है। उसी समय एक खम्भे की छाया $50$ मीटर है, तो खम्भे की ऊँचाई (मीटर में) है -",
+      "options": {
+        "A": "40",
+        "B": "25",
+        "C": "15",
+        "D": "10"
+      },
+      "vikalpa": {
+        "A": "40",
+        "B": "25",
+        "C": "15",
+        "D": "10"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "In the figure if $BD = CD$, $CE = AE$, $\\angle BAD = \\angle CAD$, $\\angle EBC = \\angle EBA$ then which of the following statement is true?",
+      "prashna": "चित्र में यदि $BD = CD, CE = AE, \\angle BAD = \\angle CAD, \\angle EBC = \\angle EBA$ तो निम्नलिखित में कौन सत्य है?",
+      "options": {
+        "A": "$AB = BC = AC$",
+        "B": "$AB \neq BC$",
+        "C": "$AB \neq AC$",
+        "D": "$BC \neq AC$"
+      },
+      "vikalpa": {
+        "A": "$AB = BC = AC$",
+        "B": "$AB \neq BC$",
+        "C": "$AB \neq AC$",
+        "D": "$BC \neq AC$"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "In the figure $PQ \\parallel BC$, $AP = 2\text{cm}$, $PB = 6\text{cm}$, $PQ = 3\text{cm}$ then $BC$ (in cm) =",
+      "prashna": "दिये गए चित्र में $PQ \\parallel BC, AP = 2 \text{ सेमी} PB = 6 \text{ सेमी} PQ = 3 \text{ सेमी}$ तो $BC$ (सेमी में) =",
+      "options": {
+        "A": "8",
+        "B": "9",
+        "C": "10",
+        "D": "12"
+      },
+      "vikalpa": {
+        "A": "8",
+        "B": "9",
+        "C": "10",
+        "D": "12"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "$\triangle ABC \\sim \triangle DEF$, Area of $\triangle ABC$ and $\triangle DEF$ are 9 and 16 sq. cm respectively. If $EF = 4.2\text{cm}$ then $BC$ (in cm) =",
+      "prashna": "$\triangle ABC$ तथा $\triangle DEF$ समरूप है, दोनों का क्षेत्रफल क्रमशः $9$ तथा $16$ वर्ग सेमी है यदि $EF = 4.2$ सेमी तो $BC$ (सेमी में) =",
+      "options": {
+        "A": "4.2",
+        "B": "3.15",
+        "C": "4.7",
+        "D": "5.15"
+      },
+      "vikalpa": {
+        "A": "4.2",
+        "B": "3.15",
+        "C": "4.7",
+        "D": "5.15"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "In the figure, $DE \\parallel BC$, $AD = 2\text{cm}$, $DB = 3\text{cm}$ and $AE = 1.6\text{cm}$ then $EC$ (in cm) =",
+      "prashna": "दिये गये चित्र में $DE \\parallel BC, AD = 2 \text{ सेमी} DB = 3 \text{ सेमी}$ और $AE = 1.6 \text{ सेमी}$ तब $EC$ (सेमी में) =",
+      "options": {
+        "A": "1.2",
+        "B": "2.4",
+        "C": "2.5",
+        "D": "4.8"
+      },
+      "vikalpa": {
+        "A": "1.2",
+        "B": "2.4",
+        "C": "2.5",
+        "D": "4.8"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "The point of concurrency of three altitudes of a triangle is called its-",
+      "prashna": "किसी त्रिभुज के तीनों लम्ब (ऊँचाई) के मिलान बिन्दु को कहा जाता है -",
+      "options": {
+        "A": "in centre",
+        "B": "circum-centre",
+        "C": "centroid",
+        "D": "ortho centre"
+      },
+      "vikalpa": {
+        "A": "अन्तः केन्द्र",
+        "B": "बाह्य केन्द्र",
+        "C": "मध्य केन्द्र",
+        "D": "लम्ब केन्द्र"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "A tree of $6\text{m}$ height casts a $4\text{m}$ long shadow. At the same time a flag post casts a shadow $50\text{m}$ long. The height of the post (in m.) is -",
+      "prashna": "एक $6$ मीटर ऊँचे वृक्ष की छाया $4$ मीटर लम्बी है। उसी समय एक खम्भे की छाया $50$ मीटर है, तो खम्भे की ऊँचाई (मीटर में) है -",
+      "options": {
+        "A": "40",
+        "B": "25",
+        "C": "15",
+        "D": "75"
+      },
+      "vikalpa": {
+        "A": "40",
+        "B": "25",
+        "C": "15",
+        "D": "75"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "In the figure if $BD = CD$, $CE = AE$, $\\angle BAD = \\angle CAD$; $\\angle EBC = \\angle EBA$ then which of the following statement is true?",
+      "prashna": "चित्र में यदि $BD = CD$, $CE = AE$, $\\angle BAD = \\angle CAD$; $\\angle EBC = \\angle EBA$ तो निम्नलिखित में कौन सत्य है?",
+      "options": {
+        "A": "$AB = BC = AC$",
+        "B": "$AB \neq BC$",
+        "C": "$AB \neq AC$",
+        "D": "$BC \neq AC$"
+      },
+      "vikalpa": {
+        "A": "$AB = BC = AC$",
+        "B": "$AB \neq BC$",
+        "C": "$AB \neq AC$",
+        "D": "$BC \neq AC$"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "In the figure $PQ \\parallel BC$, $AP = 2\text{cm}$, $PB = 6\text{cm}$, $PQ = 3\text{cm}$ then $BC$ (in cm) =",
+      "prashna": "दिये गए चित्र में $PQ \\parallel BC$, $AP = 2$ सेमी, $PB = 6$ सेमी $PQ = 3$ सेमी तो $BC$ (सेमी में) =",
+      "options": {
+        "A": "8",
+        "B": "9",
+        "C": "10",
+        "D": "12"
+      },
+      "vikalpa": {
+        "A": "8",
+        "B": "9",
+        "C": "10",
+        "D": "12"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "$\triangle ABC \\sim \triangle DEF$, Area of $\triangle ABC$ and $\triangle DEF$ are $9$ and $16 \text{ sq. cm}$ respectively. If $EF = 4.2\text{cm}$ then $BC$ (in cm) =",
+      "prashna": "$\triangle ABC$ तथा $\triangle DEF$ समरूप हैं, दोनों का क्षेत्रफल क्रमशः $9$ तथा $16$ वर्ग सेमी है यदि $EF = 4.2$ सेमी तो $BC$ (सेमी में) =",
+      "options": {
+        "A": "4.2",
+        "B": "3.15",
+        "C": "4.7",
+        "D": "5.15"
+      },
+      "vikalpa": {
+        "A": "4.2",
+        "B": "3.15",
+        "C": "4.7",
+        "D": "5.15"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "In the figure, $DE \\parallel BC$, $AD = 2\text{ cm}$, $DB = 3\text{ cm}$ and $AE = 1.6\text{ cm}$ then $EC$ (in cm) =",
+      "prashna": "दिये गये चित्र में $DE \\parallel BC$, $AD = 2$ सेमी $DB = 3$ सेमी और $AE = 1.6$ सेमी, तब $EC$ (सेमी में) =",
+      "options": {
+        "A": "1.2",
+        "B": "2.4",
+        "C": "2.5",
+        "D": "4.8"
+      },
+      "vikalpa": {
+        "A": "1.2",
+        "B": "2.4",
+        "C": "2.5",
+        "D": "4.8"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "The point of concurrency of three altitudes of a triangle is called its-",
+      "prashna": "किसी त्रिभुज के तीनों लम्ब (ऊँचाई) के मिलान बिन्दु को कहा जाता है-",
+      "options": {
+        "A": "in centre",
+        "B": "circum-centre",
+        "C": "centroid",
+        "D": "ortho centre"
+      },
+      "vikalpa": {
+        "A": "अन्तः केन्द्र",
+        "B": "बाह्य केन्द्र",
+        "C": "मध्य केन्द्र",
+        "D": "लम्ब केन्द्र"
+      }
+    }
+  ],
   "2019": [
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "If the ratio of areas of two similar triangles is 64 : 121, then the ratio of their corresponding sides is -",
+      "prashna": "यदि दो समरूप त्रिभुजों के क्षेत्रफलों का अनुपात 64 : 121 है, तो इनके संगत भुजाओं का अनुपात होगा-",
+      "options": {
+        "A": "8 : 11",
+        "B": "8 : 12",
+        "C": "12 : 14",
+        "D": "11 : 8"
+      },
+      "vikalpa": {
+        "A": "8 : 11",
+        "B": "8 : 12",
+        "C": "12 : 14",
+        "D": "11 : 8"
+      }
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "One of the side of an equilateral triangle is 2a, then its height is -",
+      "prashna": "एक समबाहु त्रिभुज ABC की एक भुजा 2a है, तो इसकी ऊँचाई होगी -",
+      "options": {
+        "A": "3a",
+        "B": "$\\sqrt{3} a$",
+        "C": "$\\sqrt{3} a^2$",
+        "D": "$\frac{\\sqrt{3}}, {2} a$"
+      },
+      "vikalpa": {
+        "A": "3a",
+        "B": "$\\sqrt{3} a$",
+        "C": "$\\sqrt{3} a^2$",
+        "D": "$\frac{\\sqrt{3}}, {2} a$"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "If in two triangles ABC and PQR, $\\angle A = \\angle P$, $\\angle B = \\angle Q$, $\\angle C = \\angle R$, then -",
+      "prashna": "यदि दो त्रिभुजों ABC तथा PQR में $\\angle A = \\angle P$, $\\angle B = \\angle Q$, $\\angle C = \\angle R$, तो -",
+      "options": {
+        "A": "$\\Delta PQR \\sim \\Delta CAB$",
+        "B": "$\\Delta PQR \\sim \\Delta BCA$",
+        "C": "$\\Delta CBA \\sim \\Delta PQR$",
+        "D": "$\\Delta ABC \\sim \\Delta PQR$"
+      },
+      "vikalpa": {
+        "A": "$\\Delta PQR \\sim \\Delta CAB$",
+        "B": "$\\Delta PQR \\sim \\Delta BCA$",
+        "C": "$\\Delta CBA \\sim \\Delta PQR$",
+        "D": "$\\Delta ABC \\sim \\Delta PQR$"
+      }
+    },
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "A man goes 24 m West, again he goes 10 m North. Now at what distance is the man from his initial point?",
+      "prashna": "एक आदमी 24 मीटर पश्चिम जाता है, पुनः वह 10 मीटर उत्तर जाता है। अब वह अपने प्रारंभिक बिन्दु से कितनी दूरी पर है?",
+      "options": {
+        "A": "34 m",
+        "B": "17 m",
+        "C": "26 m",
+        "D": "28 m"
+      },
+      "vikalpa": {
+        "A": "34 m",
+        "B": "17 m",
+        "C": "26 m",
+        "D": "28 m"
+      }
+    },
     {
       "id": "obj_8",
       "type": "objective",
@@ -1150,6 +1536,146 @@
         "B": "$45^\\circ$",
         "C": "$60^\\circ$",
         "D": "$40^\\circ$"
+      }
+    },
+    {
+      "id": "obj_43",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "If the ratio of the areas of two similar triangles is 49 : 81 then the ratio of their corresponding sides is",
+      "prashna": "यदि दो समरूप त्रिभुजों के क्षेत्रफलों का अनुपात 49 : 81 है तो उनकी संगत भुजाओं का अनुपात है",
+      "options": {
+        "A": "9 : 7",
+        "B": "7 : 9",
+        "C": "7 : 8",
+        "D": "8 : 9"
+      },
+      "vikalpa": {
+        "A": "9 : 7",
+        "B": "7 : 9",
+        "C": "7 : 8",
+        "D": "8 : 9"
+      }
+    },
+    {
+      "id": "obj_44",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "If the ratio of the areas of two similar triangles is 121 : 169 then the ratio of their corresponding altitudes is",
+      "prashna": "दो समरूप त्रिभुजों के क्षेत्रफलों का अनुपात 121 : 169 है तो उनकी संगत ऊँचाइयों का अनुपात है",
+      "options": {
+        "A": "13 : 12",
+        "B": "12 : 13",
+        "C": "11 : 12",
+        "D": "11 : 13"
+      },
+      "vikalpa": {
+        "A": "13 : 12",
+        "B": "12 : 13",
+        "C": "11 : 12",
+        "D": "11 : 13"
+      }
+    },
+    {
+      "id": "obj_45",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "The corresponding sides of two similar triangles are in the ratio 7 : 11. What will be the ratio of the areas of the triangles ?",
+      "prashna": "दो समरूप त्रिभुजों की संगत भुजाएँ 7 : 11 के अनुपात में हैं। त्रिभुजों के क्षेत्रफलों का अनुपात कितना होगा ?",
+      "options": {
+        "A": "11 : 7",
+        "B": "49 : 81",
+        "C": "49 : 121",
+        "D": "14 : 33"
+      },
+      "vikalpa": {
+        "A": "11 : 7",
+        "B": "49 : 81",
+        "C": "49 : 121",
+        "D": "14 : 33"
+      }
+    },
+    {
+      "id": "obj_46",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "If $\triangle ABC \\sim \triangle DEF$, $AB = 3\\, DE$ and the area of $\triangle ABC$ is $54\text{ cm}^2$, then the area of $\triangle DEF$ will be",
+      "prashna": "यदि $\triangle ABC \\sim \triangle DEF$, $AB = 3\\, DE$ एवं $\triangle ABC$ का क्षेत्रफल $54\text{ सेमी}^2$ हो, तो $\triangle DEF$ का क्षेत्रफल होगा",
+      "options": {
+        "A": "$15\text{ cm}^2$",
+        "B": "$10\text{ cm}^2$",
+        "C": "$6\text{ cm}^2$",
+        "D": "$18\text{ cm}^2$"
+      },
+      "vikalpa": {
+        "A": "$15\text{ सेमी}^2$",
+        "B": "$10\text{ सेमी}^2$",
+        "C": "$6\text{ सेमी}^2$",
+        "D": "$18\text{ सेमी}^2$"
+      }
+    },
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "If in $\triangle ABC$, $AC^2 = AB^2 + BC^2$ then the value of $\\angle B$ is",
+      "prashna": "यदि $\triangle ABC$ में $AC^2 = AB^2 + BC^2$ तो $\\angle B$ का मान है",
+      "options": {
+        "A": "$60^\\circ$",
+        "B": "$75^\\circ$",
+        "C": "$90^\\circ$",
+        "D": "$45^\\circ$"
+      },
+      "vikalpa": {
+        "A": "$60^\\circ$",
+        "B": "$75^\\circ$",
+        "C": "$90^\\circ$",
+        "D": "$45^\\circ$"
+      }
+    },
+    {
+      "id": "obj_48",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "$\triangle ABC \\sim \triangle DEF$; then which of the following is true ?",
+      "prashna": "$\triangle ABC \\sim \triangle DEF$ हो तो निम्नलिखित में कौन सत्य है ?",
+      "options": {
+        "A": "$\frac{AB}, {DE} = \frac{AC}, {EF}$",
+        "B": "$\frac{AB}, {EF} = \frac{BC}, {DE}$",
+        "C": "$\frac{AB}, {DE} = \frac{BC}, {EF}$",
+        "D": "$\frac{AB}, {DF} = \frac{BC}, {DE}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{AB}, {DE} = \frac{AC}, {EF}$",
+        "B": "$\frac{AB}, {EF} = \frac{BC}, {DE}$",
+        "C": "$\frac{AB}, {DE} = \frac{BC}, {EF}$",
+        "D": "$\frac{AB}, {DF} = \frac{BC}, {DE}$"
+      }
+    },
+    {
+      "id": "obj_49",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "$\triangle PQR$ and $\triangle XYZ$ are such that $\frac{PQ}, {XY} = \frac{QR}, {YZ} = \frac{RP}, {ZX}$ and $\\angle P = 60^\\circ$, $\\angle Q = 80^\\circ$, then the measure of $\\angle Z$ is",
+      "prashna": "$\triangle PQR$ एवं $\triangle XYZ$ इस प्रकार हैं कि $\frac{PQ}, {XY} = \frac{QR}, {YZ} = \frac{RP}, {ZX}$ एवं $\\angle P = 60^\\circ$, $\\angle Q = 80^\\circ$, तो $\\angle Z$ की माप है",
+      "options": {
+        "A": "$20^\\circ$",
+        "B": "$30^\\circ$",
+        "C": "$40^\\circ$",
+        "D": "$60^\\circ$"
+      },
+      "vikalpa": {
+        "A": "$20^\\circ$",
+        "B": "$30^\\circ$",
+        "C": "$40^\\circ$",
+        "D": "$60^\\circ$"
       }
     }
   ]

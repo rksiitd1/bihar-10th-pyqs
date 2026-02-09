@@ -1,5 +1,394 @@
 {
+  "2015": [
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "PA and PB are two tangents drawn from an external point P to a circle. If $PA = 6$ cm, then length of PB will be",
+      "prashna": "किसी वृत्त के बाह्य बिन्दु P से दो स्पर्श रेखाएँ PA और PB खींची गई हैं। यदि $PA = 6$ सेमी हो, तो PB की लम्बाई होगी",
+      "options": {
+        "A": "3 cm",
+        "B": "4 cm",
+        "C": "6 cm",
+        "D": "12 cm"
+      },
+      "vikalpa": {
+        "A": "3 सेमी",
+        "B": "4 सेमी",
+        "C": "6 सेमी",
+        "D": "12 सेमी"
+      }
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "Two circles are congruent if their _______ are equal.",
+      "prashna": "दो वृत्त सर्वांगसम होंगे यदि उनकी _______ बराबर हो।"
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "_______ tangents can be drawn from an external point on the circle.",
+      "prashna": "किसी वृत्त पर बाहरी बिन्दु से _______ स्पर्श रेखाएँ खींची जा सकती है।"
+    },
+    {
+      "id": "short_14",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "In two concentric circles of radii 10 cm and 6 cm the chord of larger circle touches the smaller (inner) circle. Find the length of the chord of larger (outer) circle.",
+      "prashna": "दो संकेन्द्रीय वृत्तों की त्रिज्याएँ 10 सेमी और 6 सेमी हैं। बड़े वृत्त (बाहरी) की जीवा की लम्बाई निकालें जो छोटे (आंतरिक) वृत्त को स्पर्श करती है।",
+      "marks": 2
+    }
+  ],
+  "2016": [
+    {
+      "id": "short_14",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "The tangents drawn from any external point on the given circle are __________.",
+      "prashna": "किसी वृत्त के बाह्य बिन्दु से वृत्त पर खींची गयी स्पर्श रेखाएँ __________ होती हैं।"
+    },
+    {
+      "id": "short_25",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "From a point $Q$ the length of tangent to a circle is $24$ cm and distance of $Q$ from centre is $25$ cm. Find the radius of the circle.",
+      "prashna": "एक बिन्दु $Q$ से एक वृत्त पर स्पर्श रेखा की लम्बाई $24$ सेमी तथा $Q$ की केन्द्र से दूरी $25$ सेमी है, तो वृत्त की त्रिज्या ज्ञात करें।"
+    },
+    {
+      "id": "long_47_1",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "Construct a circle of $3$ cm radius. Construct an equilateral triangle inside the circle.",
+      "prashna": "$3$ सेमी की त्रिज्या का एक वृत्त खींचें। इसके अन्तर्गत एक समबाहु त्रिभुज बनायें।"
+    },
+    {
+      "id": "long_47_2",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "Draw a circle inside an equilateral triangle of sides $5$ cm which touches the sides of the triangle.",
+      "prashna": "$5$ सेमी भुजा वाले एक समबाहु त्रिभुज के अन्तर्गत एक वृत्त खींचें जो त्रिभुज की भुजाओं को स्पर्श करे।"
+    }
+  ],
+  "2017": [
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "The length of Tangents on a circle from any external point will be-",
+      "prashna": "बाह्य बिन्दु से वृत्त पर खींची गई स्पर्श रेखाओं की लम्बाई होगी-",
+      "options": {
+        "A": "Unequal",
+        "B": "Equal",
+        "C": "Double",
+        "D": "Half"
+      },
+      "vikalpa": {
+        "A": "असमान",
+        "B": "समान",
+        "C": "दुगुनी",
+        "D": "आधा"
+      }
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "The angle of semi circle is ................",
+      "prashna": "अर्धवृत्त का कोण ................ होता है ।"
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "The perpendicular on the chord from the centre of any circle is ................",
+      "prashna": "वृत्त के केन्द्र से जीवा पर डाला गया लम्ब जीवा को ................ करता है ।"
+    },
+    {
+      "id": "short_14",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "In figure, find the value of $OP$, if Tangent $PA = 12$ cm and $OA = 5$ cm.",
+      "prashna": "चित्र में $OP$ का मान ज्ञात करें यदि स्पर्श रेखा $PA = 12$ cm और $OA = 5$ cm है ।"
+    },
+    {
+      "id": "long_5_1",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "Draw a circle of radius $3$ cm. Draw a pair of tangents to the circle, which are inclined to each other at an angle of $60^\\circ$",
+      "prashna": "$3$ सेमी. त्रिज्या का एक वृत्त खींचे । उस वृत्त पर युग्म स्पर्श रेखा खींचे जो एक दूसरे के साथ $60^\\circ$ कोण बनाती हैं ।"
+    }
+  ],
+  "2018": [
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "If two circles touch each other externally, then the number of common tangent to the circle is-",
+      "prashna": "यदि दो वृत्त एक-दूसरे को बाहर से छूते हैं, तो दोनों वृत्त से एक साथ गुजरने वाली स्पर्श रेखा की संख्या है -",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "If $PQRS$ is a parallelogram inscribed in a circle then it is not a-",
+      "prashna": "$PQRS$ एक समानान्तर चतुर्भुज पूर्णतया वृत्त से घिरा है, तो यह एक ............... नहीं है।",
+      "options": {
+        "A": "rhombus",
+        "B": "square",
+        "C": "rectangle",
+        "D": "trapezium"
+      },
+      "vikalpa": {
+        "A": "विषमकोण चतुर्भुज",
+        "B": "वर्ग",
+        "C": "आयत",
+        "D": "समलम्ब चतुर्भुज"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "In the given figure, $PQRS$ is a cyclic quadrilateral inscribed in a circle with center $O$, then $\\angle RPS =$",
+      "prashna": "दिये गए चित्र में $PQRS$ एक चक्रीय चतुर्भुज है, जो $O$ केन्द्र वाले वृत्त से पूर्णतया घिरा है, तब $\\angle RPS =$",
+      "options": {
+        "A": "$30^\\circ$",
+        "B": "$65^\\circ$",
+        "C": "$70^\\circ$",
+        "D": "$80^\\circ$"
+      },
+      "vikalpa": {
+        "A": "$30^\\circ$",
+        "B": "$65^\\circ$",
+        "C": "$70^\\circ$",
+        "D": "$80^\\circ$"
+      }
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "The radius of a circle is $13\text{cm}$ and length of one of its chords is $10\text{cm}$. Find the distance of chord from the center.",
+      "prashna": "एक वृत्त की त्रिज्या $13$ सेमी है और उसके चापकर्ण (जीवा) की लम्बाई $10$ सेमी है। जीवा की दूरी वृत्त के केन्द्र से ज्ञात करें।"
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "If two chords of a circle are equally inclined to the diameter through their point of intersection, prove that chords are equal.",
+      "prashna": "यदि दो चापकर्ण (जीवा) काटन बिन्दु पर वृत्त के व्यास पर एक समान झुके हों, तो सिद्ध करें कि दोनों जीवा समान हैं।"
+    },
+    {
+      "id": "long_2_2",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "The in-circle of a triangle ABC touches the sides BC, CA and AB at D, E and F respectively. Prove that: $AF + BD + CE = AE + CD + BF = \frac{1}, {2}(\text{Perimeter of } \triangle ABC)$",
+      "prashna": "$\triangle ABC$ का अन्तःवृत भुजाओं $BC, CA$ तथा $AB$ को क्रमशः $D, E$ तथा $F$ पर स्पर्श करता है। सिद्ध कीजिए कि - $AF + BD + CE = AE + CD + BF = \frac{1}, {2}(\triangle ABC \text{ का परिमाप})$"
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "If two circles touch each other externally, then the number of common tangent to the circle is-",
+      "prashna": "यदि दो वृत्त एक-दूसरे को बाहर से छूते हैं, तो दोनों वृत्त से एक साथ गुजरने वाली स्पर्श रेखा की संख्या है-",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "If PQRS is a parallelogram inscribed in a circle then it is not a-",
+      "prashna": "PQRS एक समानान्तर चतुर्भुज पूर्णतया वृत्त से घिरा है, तो यह एक ...................... नहीं है।",
+      "options": {
+        "A": "rhombus",
+        "B": "square",
+        "C": "rectangle",
+        "D": "trapezium"
+      },
+      "vikalpa": {
+        "A": "विषमकोण चतुर्भुज",
+        "B": "वर्ग",
+        "C": "आयत",
+        "D": "समलम्ब चतुर्भुज"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "In the given figure, PQRS is a cyclic quadrilateral inscribed in a circle with center O, then $\\angle RPS =$ ",
+      "prashna": "दिये गये चित्र में PQRS एक चक्रीय चतुर्भुज है जो O केन्द्र वाले वृत्त से पूर्णतया घिरा है, तब $\\angle RPS = $ ",
+      "options": {
+        "A": "$30^\\circ$",
+        "B": "$65^\\circ$",
+        "C": "$70^\\circ$",
+        "D": "$80^\\circ$"
+      },
+      "vikalpa": {
+        "A": "$30^\\circ$",
+        "B": "$65^\\circ$",
+        "C": "$70^\\circ$",
+        "D": "$80^\\circ$"
+      }
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "The radius of a circle is $13 \text{ cm}$ and length of one of its chords is $10 \text{ cm}$. Find the distance of chord from the center.",
+      "prashna": "एक वृत्त की त्रिज्या 13 सेमी है और उसके चापकर्ण (जीवा) की लम्बाई 10 सेमी है। जीवा की दूरी वृत्त के केन्द्र से ज्ञात करें।"
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "If two chords of a circle are equally inclined to the diameter through their point of intersection, prove that chords are equal.",
+      "prashna": "यदि दो चापकर्ण (जीवा) काटन बिन्दु पर वृत्त के व्यास पर एक समान झुके हों, तो सिद्ध करें कि दोनों जीवा समान हैं।"
+    },
+    {
+      "id": "long_2_2",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "The in-circle of a triangle ABC touches the sides BC, CA and AB at D, E and F respectively. Prove that: $AF + BD + CE = AE + CD + BF = \frac{1}, {2}(\text{Perimeter of } \triangle ABC)$.",
+      "prashna": "$\triangle ABC$ का अन्तः वृत्त भुजाओं BC, CA तथा AB को क्रमशः D, E तथा F पर स्पर्श करता है। सिद्ध कीजिए कि - $AF + BD + CE = AE + CD + BF = \frac{1}, {2}(\triangle ABC \text{ का परिमाप})$."
+    }
+  ],
   "2019": [
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "A line which intersects a circle at two distinct points is known as -",
+      "prashna": "एक रेखा जो वृत्त को दो भिन्न बिन्दुओं पर प्रतिच्छेद करती है, कहलाती है-",
+      "options": {
+        "A": "Chord",
+        "B": "Tangent",
+        "C": "Both (A) and (B)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "जीवा",
+        "B": "स्पर्श रेखा",
+        "C": "(A) और (B) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "PA and PB are two tangents drawn from an external point P to a circle. If PA = 4 cm then the length of PB is -",
+      "prashna": "किसी वृत्त के बाह्य बिन्दु P से दो स्पर्श रेखाएँ PA तथा PB खींची गई हैं। यदि PA = 4 सेमी., तो PB की लम्बाई है -",
+      "options": {
+        "A": "16 cm",
+        "B": "12 cm",
+        "C": "8 cm",
+        "D": "4 cm"
+      },
+      "vikalpa": {
+        "A": "16 सेमी.",
+        "B": "12 सेमी.",
+        "C": "8 सेमी.",
+        "D": "4 सेमी."
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "The length of a tangent from a point P at a distance 13 cm from the centre of a circle is 12 cm, then the radius of the circle is-",
+      "prashna": "किसी वृत्त के केन्द्र से 13 सेमी. दूर स्थित बिन्दु P से खींची गई स्पर्श रेखा की लम्बाई 12 सेमी. है, तो वृत्त की त्रिज्या है-",
+      "options": {
+        "A": "6 cm",
+        "B": "12 cm",
+        "C": "9 cm",
+        "D": "5 cm"
+      },
+      "vikalpa": {
+        "A": "6 सेमी",
+        "B": "12 सेमी",
+        "C": "9 सेमी",
+        "D": "5 सेमी"
+      }
+    },
+    {
+      "id": "short_19",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "$\\Delta ABC$ is an isosceles triangle in which AB = AC. A circle is drawn inside the triangle such that it touches AB at E, BC at D and AC at F. Show that D is the mid-point of BC.",
+      "prashna": "$\\Delta ABC$ एक समद्विबाहु त्रिभुज है जिसमें AB = AC। त्रिभुज के अन्दर एक वृत्त इस प्रकार खींचा गया है कि यह भुजा AB को E पर, BC को D पर तथा AC को F पर स्पर्श करती है। दिखाएँ कि D भुजा BC का मध्य बिन्दु है।"
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "Prove that the length of tangents drawn from an external point to a circle are equal.",
+      "prashna": "सिद्ध करें कि किसी बाह्य बिन्दु से वृत्त पर खींची गई स्पर्श रेखाओं की लम्बाइयाँ बराबर होती हैं।"
+    },
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "PQ is a chord of length 8 cm of a circle of radius 5 cm. The tangents at P and Q intersect at a point T. Find the length of TP.",
+      "prashna": "5 सेमी. त्रिज्या के एक वृत्त की 8 सेमी. लम्बी एक जीवा PQ है। P और Q पर स्पर्श रेखाएँ परस्पर एक बिन्दु T पर प्रतिच्छेद करती हैं। TP की लंबाई ज्ञात करें।"
+    },
     {
       "id": "obj_14",
       "type": "objective",
@@ -942,6 +1331,86 @@
         "B": "$45^\\circ$",
         "C": "$60^\\circ$",
         "D": "$90^\\circ$"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "From an external point $P$, two tangents $PA$ and $PB$ are drawn on a circle. If $PA = 7\text{ cm}$ then $PB =$",
+      "prashna": "किसी बाह्य बिन्दु $P$ से वृत्त पर $PA$ एवं $PB$ दो स्पर्श रेखाएँ खींची गई हैं। यदि $PA = 7\text{ सेमी}$ हो तो $PB =$",
+      "options": {
+        "A": "$7\text{ cm}$",
+        "B": "$14\text{ cm}$",
+        "C": "$3.5\text{ cm}$",
+        "D": "$15\text{ cm}$"
+      },
+      "vikalpa": {
+        "A": "$7\text{ सेमी}$",
+        "B": "$14\text{ सेमी}$",
+        "C": "$3.5\text{ सेमी}$",
+        "D": "$15\text{ सेमी}$"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "If $PA$ and $PB$ are tangents drawn from an external point $P$ to a circle with centre at $O$ and $\\angle APB = 100^\\circ$ then $\\angle POA =$",
+      "prashna": "यदि $PA$ एवं $PB$ किसी बाह्य बिन्दु $P$ से केन्द्र $O$ वाले वृत्त पर खींची गई स्पर्श रेखाएँ हैं एवं $\\angle APB = 100^\\circ$ तो $\\angle POA =$",
+      "options": {
+        "A": "$30^\\circ$",
+        "B": "$40^\\circ$",
+        "C": "$50^\\circ$",
+        "D": "$60^\\circ$"
+      },
+      "vikalpa": {
+        "A": "$30^\\circ$",
+        "B": "$40^\\circ$",
+        "C": "$50^\\circ$",
+        "D": "$60^\\circ$"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "If a chord $AB$ subtends an angle $50^\\circ$ at the centre of a circle then the angle between the tangents drawn on points $A$ and $B$ is",
+      "prashna": "यदि जीवा $AB$ वृत्त के केन्द्र पर $50^\\circ$ का कोण अंतरित करता है तो $A$ और $B$ बिन्दुओं पर खींची गई स्पर्श रेखाओं के बीच का कोण है",
+      "options": {
+        "A": "$30^\\circ$",
+        "B": "$130^\\circ$",
+        "C": "$90^\\circ$",
+        "D": "$60^\\circ$"
+      },
+      "vikalpa": {
+        "A": "$30^\\circ$",
+        "B": "$130^\\circ$",
+        "C": "$90^\\circ$",
+        "D": "$60^\\circ$"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "How many tangents can be drawn to a circle from an external point ?",
+      "prashna": "किसी बाह्य बिन्दु से वृत्त पर कितनी स्पर्श रेखाएँ खींची जा सकती हैं ?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "Infinitely many"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "अनगिनत"
       }
     }
   ]

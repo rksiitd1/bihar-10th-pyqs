@@ -59,6 +59,36 @@
       }
     }
   ],
+  "2017": [
+    {
+      "id": "translation_1",
+      "type": "translation",
+      "chapter": "N/A",
+      "chapter_name": "N/A",
+      "question": "Translate any five into English:",
+      "prashna": "किन्हीं पांच का अंग्रेजी में अनुवाद करें:",
+      "sub_questions": {
+        "1": "हरि कहाँ गया है?",
+        "2": "रूबी नाचेगी।",
+        "3": "वह तुम्हारा भाई है।",
+        "4": "वह तैरना जानता है।",
+        "5": "मीरा नहीं रो रही थी।",
+        "6": "सूरज पूरब में उगता है।",
+        "7": "राम कब लौटेगा?",
+        "8": "पेड़ के ऊपर कौवा है।"
+      },
+      "anuprashna": {
+        "1": "Where has Hari gone?",
+        "2": "Ruby will dance.",
+        "3": "He is your brother.",
+        "4": "He knows how to swim.",
+        "5": "Meera was not crying.",
+        "6": "The sun rises in the east.",
+        "7": "When will Ram return?",
+        "8": "There is a crow on the tree."
+      }
+    }
+  ],
   "2021": [
     {
       "id": "trans_1",
@@ -198,6 +228,68 @@
         "B": "क्या मैं घर जा सकता हूँ?",
         "C": "मैं घर जा सकता हूँ?",
         "D": "मैं घर जाता हूँ?"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "translation_1",
+      "type": "translation",
+      "chapter": "N/A",
+      "chapter_name": "N/A",
+      "question": "Choose the most suitable translation : मैं एक पत्र लिखने जा रहा हूँ।",
+      "prashna": "सबसे उपयुक्त अनुवाद चुनें : मैं एक पत्र लिखने जा रहा हूँ।",
+      "options": {
+        "A": "I am going to write a letter",
+        "B": "I have been writing a letter",
+        "C": "I write a letter",
+        "D": "I was writing a letter"
+      },
+      "vikalpa": {
+        "A": "आई एम गोइंग टू राइट ए लेटर",
+        "B": "आई हैव बीन राइटिंग ए लेटर",
+        "C": "आई राइट ए लेटर",
+        "D": "आई वाज राइटिंग ए लेटर"
+      }
+    },
+    {
+      "id": "translation_2",
+      "type": "translation",
+      "chapter": "N/A",
+      "chapter_name": "N/A",
+      "question": "Choose the most suitable translation : नदियों को प्रदूषित नहीं करना चाहिए।",
+      "prashna": "सबसे उपयुक्त अनुवाद चुनें : नदियों को प्रदूषित नहीं करना चाहिए।",
+      "options": {
+        "A": "The rivers are not be polluted",
+        "B": "The rivers were not be polluted",
+        "C": "The rivers would not be polluted",
+        "D": "The rivers should not be polluted"
+      },
+      "vikalpa": {
+        "A": "द रिवर्स आर नॉट बी पॉल्यूटेड",
+        "B": "द रिवर्स वर नॉट बी पॉल्यूटेड",
+        "C": "द रिवर्स वुड नॉट बी पॉल्यूटेड",
+        "D": "द रिवर्स शुड नॉट बी पॉल्यूटेड"
+      }
+    },
+    {
+      "id": "translation_3",
+      "type": "translation",
+      "chapter": "N/A",
+      "chapter_name": "N/A",
+      "question": "Choose the most suitable translation : सच्ची मित्रता दुर्लभ है।",
+      "prashna": "सबसे उपयुक्त अनुवाद चुनें : सच्ची मित्रता दुर्लभ है।",
+      "options": {
+        "A": "True friend is not available",
+        "B": "True friendship is rare",
+        "C": "True friend is difficult",
+        "D": "It is true to get good friend"
+      },
+      "vikalpa": {
+        "A": "ट्रू फ्रेंड इज नॉट अवेलेबल",
+        "B": "ट्रू फ्रेंडशिप इज रेयर",
+        "C": "ट्रू फ्रेंड इज डिफिकल्ट",
+        "D": "इट इज ट्रू टू गेट गुड फ्रेंड"
       }
     }
   ]

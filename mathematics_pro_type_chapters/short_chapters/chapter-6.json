@@ -1,5 +1,135 @@
 {
+  "2015": [
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "In isosceles $\triangle ABC, \\angle C = 90^\\circ$, then prove that $AB^2 = 2AC^2$.",
+      "prashna": "एक समद्विबाहु $\triangle ABC$ में $\\angle C = 90^\\circ$, तो सिद्ध करें कि $AB^2 = 2AC^2$।",
+      "marks": 2
+    },
+    {
+      "id": "short_26",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "Each side of an equilateral triangle $ABC$ is $a$ units. Prove that the altitude of the triangle will be $\frac{\\sqrt{3}}, {2}a$.",
+      "prashna": "समबाहु $\triangle ABC$ की प्रत्येक भुजा $a$ इकाई है तो सिद्ध करें कि त्रिभुज का शीर्षलम्ब $\frac{\\sqrt{3}}, {2}a$ होगा।",
+      "marks": 3
+    }
+  ],
+  "2016": [
+    {
+      "id": "short_23",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "In figure, $DE \\parallel BC$, find $EC$. Given $AD = 1.5$ cm, $DB = 3$ cm, $AE = 1$ cm.",
+      "prashna": "चित्र में $DE \\parallel BC$, तो $EC$ ज्ञात करें। जहाँ $AD = 1.5$ सेमी, $DB = 3$ सेमी, $AE = 1$ सेमी।"
+    },
+    {
+      "id": "short_24",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "The side of equilateral triangle $ABC$ is $2a$. Find the perpendicular distance from vertex.",
+      "prashna": "एक समबाहु त्रिभुज $ABC$ की भुजा $2a$ है। उसके शीर्ष लम्ब ज्ञात कीजिए।"
+    },
+    {
+      "id": "short_36",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "Find $LE$ in the given figure where $LM \\parallel FG$. Given $LF = 7.2$ cm, $EM = 1.8$ cm, $MG = 5.4$ cm.",
+      "prashna": "दी गई आकृति में $LE$ ज्ञात करें जहाँ $LM \\parallel FG$। जहाँ $LF = 7.2$ सेमी, $EM = 1.8$ सेमी, $MG = 5.4$ सेमी।"
+    }
+  ],
+  "2017": [
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "The parameter of an equilateral triangle is $30$ cm. Find its area.",
+      "prashna": "एक समबाहु त्रिभुज की परिमिति $30$ सेमी. है इसका क्षेत्रफल ज्ञात कीजिए ।"
+    },
+    {
+      "id": "short_26",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "Each side of an equilateral triangle ABC is $a$ units. Prove that the altitude of the triangle will be $\frac{\\sqrt{3}}, {2}a$.",
+      "prashna": "समबाहु $\\Delta ABC$ की प्रत्येक भुजा $a$ इकाई है तो सिद्ध करें कि त्रिभुज का शीर्ष लम्ब $\frac{\\sqrt{3}}, {2}a$ होगा ।"
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "Prove that a line drawn parallel to the parallel sides of a trapezium divides the non-parallel sides proportionally.",
+      "prashna": "सिद्ध करें कि समलम्ब चतुर्भुज की समानांतर भुजाओं के समानांतर खींची गई रेखा असमानांतर भुजाओं को आनुपातिकता विभाजित करती है।"
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "$AD$ and $PM$ are medians of triangles $ABC$ and $PQR$ respectively, where $\triangle ABC \\sim \triangle PQR$. Prove that $\frac{AB}, {PQ} = \frac{AD}, {PM}$.",
+      "prashna": "$AD$ और $PM$ त्रिभुजों $ABC$ और $PQR$ की क्रमशः माध्यिकाएँ हैं, जबकि $\triangle ABC \\sim \triangle PQR$ है। साबित करें कि $\frac{AB}, {PQ} = \frac{AD}, {PM}$ है।"
+    }
+  ],
+  "2018": [
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "In the given figure. Find $\\angle P$",
+      "prashna": "दिये गए चित्र में $\\angle P$ ज्ञात करें।"
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "If $\triangle ABC$ and $\triangle DEF$ are similar, such that $AB = 1.2\text{cm}$ and $DE = 1.4\text{cm}$, find the ratio of areas of $\triangle ABC$ and $\triangle DEF$.",
+      "prashna": "यदि $\triangle ABC$ तथा $\triangle DEF$ समरूप है, जहाँ $AB = 1.2$ सेमी. और $DE = 1.4$ सेमी, तो $\triangle ABC$ और $\triangle DEF$ के क्षेत्रफल का अनुपात ज्ञात करें।"
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "In the given figure. Find $\\angle P$.",
+      "prashna": "दिये गए चित्र में $\\angle P$ ज्ञात करें।"
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "If $\triangle ABC$ and $\triangle DEF$ are similar, such that $AB = 1.2 \text{ cm}$ and $DE = 1.4 \text{ cm}$, find the ratio of areas of $\triangle ABC$ and $\triangle DEF$.",
+      "prashna": "यदि $\triangle ABC$ तथा $\triangle DEF$ समरूप हैं, जहाँ $AB = 1.2$ सेमी. और $DE = 1.4$ सेमी, तो $\triangle ABC$ और $\triangle DEF$ के क्षेत्रफल का अनुपात ज्ञात करें।"
+    }
+  ],
   "2019": [
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "In a $\\Delta ABC$ whose $\\angle C$ is right angled, two points D and E are on sides CA and CB respectively. Prove that - $AE^2 + BD^2 = AB^2 + DE^2$",
+      "prashna": "एक त्रिभुज ABC जिसका कोण C समकोण है, की भुजाओं CA और CB पर क्रमशः बिन्दु D और E स्थित है। सिद्ध करें कि - $AE^2 + BD^2 = AB^2 + DE^2$"
+    },
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "In $\\Delta ABC$, D and E are points on the sides AB and AC respectively such that $DE \\parallel BC$. If AD = x, DB = x - 2, AE = x + 2 and EC = x - 1, then find the value of x.",
+      "prashna": "त्रिभुज ABC में भुजाओं AB तथा AC पर दो बिन्दु D और E क्रमशः इस प्रकार हैं कि $DE \\parallel BC$। यदि AD = x, DB = x - 2, AE = x + 2 तथा EC = x - 1, तो x का मान निकालें।"
+    },
     {
       "id": "short_7",
       "type": "short_answer",

@@ -1,5 +1,267 @@
 {
+  "2015": [
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Some Applications of Trigonometry",
+      "question": "The angles of elevation of the top of tower from two points at distances of 4 m and 9 m from the base of tower and in same straight line with it are complementary. Prove that the height of the tower is 6 metre.",
+      "prashna": "मीनार के आधार से एक सरल रेखा में 4 मी और 9 मी की दूरी पर स्थित दो बिन्दुओं से मीनार के शिखर के उन्नयन कोण पूरक कोण हैं, तो सिद्ध करें की मीनार की ऊँचाई 6 मी है।",
+      "marks": 5
+    },
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Some Applications of Trigonometry",
+      "question": "The angle of elevation of the top of a building from the foot of a tower is $30^\\circ$ and the angle of elevation of the top of the tower from the foot of the building is $60^\\circ$. If the tower is 50 metre high, find the height of the building.",
+      "prashna": "एक मीनार के पाद से एक भवन के शिखर का उन्नयन कोण $30^\\circ$ है और भवन के पाद से मीनार के शिखर का उन्नयन कोण $60^\\circ$ है। यदि मीनार की ऊँचाई 50 मीटर है तो भवन की ऊँचाई निकालें।",
+      "marks": 5
+    }
+  ],
+  "2016": [
+    {
+      "id": "long_45_1",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Some Applications of Trigonometry",
+      "question": "A vertical flag rod and a $50$ m high tower are situated at same horizontal ground. The angles of depression of the top of the tower from top and foot of the flag rod are $30^\\circ$ and $45^\\circ$ respectively. Find the height of the flag rod.",
+      "prashna": "एक ऊर्ध्वाधर झंडा स्तम्भ तथा एक $50$ मीटर ऊँची मीनार एक ही क्षैतिज तल पर स्थित है। मीनार के शीर्ष से स्तम्भ के ऊपर तथा निचले सिरे के अवनमन कोण क्रमशः $30^\\circ$ तथा $45^\\circ$ हैं, तो झंडा स्तम्भ की ऊँचाई ज्ञात करें।"
+    },
+    {
+      "id": "long_45_2",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Some Applications of Trigonometry",
+      "question": "The angle of elevation of the top of building from the foot of a tower is $30^\\circ$ and the angle of elevation of the top of tower from the foot of building is $60^\\circ$. If the height of tower is $50$ m, then find the height of the building.",
+      "prashna": "एक मीनार के पाद बिन्दु से एक भवन के शिखर का उन्नयन कोण $30^\\circ$ है और भवन के पाद-बिन्दु से मीनार के शिखर का उन्नयन कोण $60^\\circ$ है। यदि मीनार $50$ मी ऊँची हो, तो भवन की ऊँचाई ज्ञात करें।"
+    }
+  ],
+  "2017": [
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Some Applications of Trigonometry",
+      "question": "The angle of elevation of the top of building from the foot of a tower is $30^\\circ$ and the angle of elevation of the top of the tower from the foot of the building is $60^\\circ$. If the tower is $50$ metre high, find the height of the building.",
+      "prashna": "एक मीनार के पाद से एक भवन के शिखर का उन्नयन कोण $30^\\circ$ है और भवन के पाद से मीनार के शिखर का उन्नयन कोण $60^\\circ$ है । यदि मीनार की ऊँचाई $50$ मी. है तो भवन की ऊँचाई निकालें ।"
+    },
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Some Applications of Trigonometry",
+      "question": "The shadow of a tower standing on a level ground is found to be $40$m. longer when the sun's altitude is $30^\\circ$ than when it is $60^\\circ$. Find the height of the tower.",
+      "prashna": "अथवा: एक समतल जमीन पर खड़ी मीनार की छाया उस स्थिति में $40$ मी. अधिक लम्बी हो जाती है जबकि सूर्य का उन्नयन कोण $60^\\circ$ से घटकर $30^\\circ$ हो जाता है । मीनार की ऊँचाई ज्ञात कीजिए ।"
+    }
+  ],
+  "2018": [
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Some Applications of Trigonometry",
+      "question": "If the inclination of Sun's ray increase from $45^\\circ$ to $60^\\circ$, the length of shadow of a tower decrease by $50\text{m}$. Height of the tower (in m) is -",
+      "prashna": "यदि सूरज की किरण का झुकाव $45^\\circ$ से बढ़कर $60^\\circ$ होता है, तो एक मीनार की छाया $50$ मीटर घट जाती है। मीनार की ऊँचाई (मीटर में) है -",
+      "options": {
+        "A": "$75(3 - \\sqrt{3})$",
+        "B": "$25(3 + \\sqrt{3})$",
+        "C": "$100(\\sqrt{3} + 1)$",
+        "D": "$50(\\sqrt{3} - 1)$"
+      },
+      "vikalpa": {
+        "A": "$75(3 - \\sqrt{3})$",
+        "B": "$25(3 + \\sqrt{3})$",
+        "C": "$100(\\sqrt{3} + 1)$",
+        "D": "$50(\\sqrt{3} - 1)$"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Some Applications of Trigonometry",
+      "question": "The angle of elevation of the Sun, when length of shadow of a vertical pole is equal to its height is -",
+      "prashna": "सूर्य का उन्नयन कोण, जब किसी सीधे खड़े खम्भे की छाया और उसकी लम्बाई (ऊँचाई) बराबर हो -",
+      "options": {
+        "A": "$\\pi/2$",
+        "B": "$\\pi/3$",
+        "C": "$\\pi/4$",
+        "D": "$\\pi/6$"
+      },
+      "vikalpa": {
+        "A": "$\\pi/2$",
+        "B": "$\\pi/3$",
+        "C": "$\\pi/4$",
+        "D": "$\\pi/6$"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Some Applications of Trigonometry",
+      "question": "A $6\text{m}$ height pole's shadow on the earth is $2\\sqrt{3}\text{m}$ long, then the Sun's elevation is -",
+      "prashna": "एक $6$ मीटर ऊँचे खम्भे की पृथ्वी पर छाया $2\\sqrt{3}$ मीटर लम्बी है, तो सूर्य का उन्नयन कोण है -",
+      "options": {
+        "A": "$60^\\circ$",
+        "B": "$45^\\circ$",
+        "C": "$30^\\circ$",
+        "D": "$15^\\circ$"
+      },
+      "vikalpa": {
+        "A": "$60^\\circ$",
+        "B": "$45^\\circ$",
+        "C": "$30^\\circ$",
+        "D": "$15^\\circ$"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Some Applications of Trigonometry",
+      "question": "If two towers of height $h_1$ and $h_2$ subtend angle $60^\\circ$ and $30^\\circ$ at the midpoint of line joining their bases of towers, then $\frac{h_1}, {h_2}$ is -",
+      "prashna": "यदि दो मीनार ऊँचाई $h_1$ तथा $h_2$ के पादों को मिलाने वाली रेखा के मध्य-बिन्दु पर मीनारों द्वारा बनाये जाने वाले कोण का मान क्रमशः $60^\\circ$ तथा $30^\\circ$ है तो $\frac{h_1}, {h_2}$ बराबर होगा -",
+      "options": {
+        "A": "$3:1$",
+        "B": "$1:2$",
+        "C": "$\\sqrt{3}:1$",
+        "D": "$\\sqrt{2}:1$"
+      },
+      "vikalpa": {
+        "A": "$3:1$",
+        "B": "$1:2$",
+        "C": "$\\sqrt{3}:1$",
+        "D": "$\\sqrt{2}:1$"
+      }
+    },
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Some Applications of Trigonometry",
+      "question": "A person standing on the bank of a river, observes that the angle of elevation of the top of a tree, standing on opposite bank is $60^\\circ$. When he moves $40\text{m}$ away from the bank, he finds the angle of elevation to be $30^\\circ$. Find the Width of the river.",
+      "prashna": "नदी के एक किनारे पर खड़े आदमी को दूसरे सिरे पर खड़े पेड़ का उन्नयन कोण $60^\\circ$ दिखता है। जब आदमी किनारे से $40$ मीटर दूर चलता है, तो उन्नयन कोण $30^\\circ$ हो जाता है। नदी की चौड़ाई ज्ञात करें।"
+    },
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Some Applications of Trigonometry",
+      "question": "If the inclination of Sun's ray increase from $45^\\circ$ to $60^\\circ$, the length of shadow of a tower decrease by $50\text{ m}$. Height of the tower (in m) is -",
+      "prashna": "यदि सूरज की किरण का झुकाव $45^\\circ$ से बढ़कर $60^\\circ$ होता है, तो एक मीनार की छाया $50$ मीटर घट जाती है। मीनार की ऊँचाई (मीटर में) है -",
+      "options": {
+        "A": "$75(3 - \\sqrt{3})$",
+        "B": "$25(3 + \\sqrt{3})$",
+        "C": "$100(\\sqrt{3} + 1)$",
+        "D": "$50(\\sqrt{3} - 1)$"
+      },
+      "vikalpa": {
+        "A": "$75(3 - \\sqrt{3})$",
+        "B": "$25(3 + \\sqrt{3})$",
+        "C": "$100(\\sqrt{3} + 1)$",
+        "D": "$50(\\sqrt{3} - 1)$"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Some Applications of Trigonometry",
+      "question": "The angle of elevation of the Sun, when length of shadow of a vertical pole is equal to its height is -",
+      "prashna": "सूर्य का उन्नयन कोण, जब किसी सीधे खड़े खम्भे की छाया और उसकी लम्बाई (ऊँचाई) बराबर हो -",
+      "options": {
+        "A": "$\frac{\\pi}, {2}$",
+        "B": "$\frac{\\pi}, {3}$",
+        "C": "$\frac{\\pi}, {4}$",
+        "D": "$\frac{\\pi}, {6}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{\\pi}, {2}$",
+        "B": "$\frac{\\pi}, {3}$",
+        "C": "$\frac{\\pi}, {4}$",
+        "D": "$\frac{\\pi}, {6}$"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Some Applications of Trigonometry",
+      "question": "A $6\text{m}$ height pole's shadow on the earth is $2\\sqrt{3}\text{m}$ long, then the Sun's elevation is -",
+      "prashna": "एक $6$ मीटर ऊँचे खम्भे की पृथ्वी पर छाया $2\\sqrt{3}$ मीटर लम्बी है, तो सूर्य का उन्नयन कोण है-",
+      "options": {
+        "A": "$60^\\circ$",
+        "B": "$45^\\circ$",
+        "C": "$30^\\circ$",
+        "D": "$15^\\circ$"
+      },
+      "vikalpa": {
+        "A": "$60^\\circ$",
+        "B": "$45^\\circ$",
+        "C": "$30^\\circ$",
+        "D": "$15^\\circ$"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Some Applications of Trigonometry",
+      "question": "If two towers of height $h_1$ and $h_2$ subtend angle $60^\\circ$ and $30^\\circ$ at the midpoint of line joining their bases of towers, then $h_1/h_2$ is -",
+      "prashna": "यदि दो मीनार ऊँचाई $h_1$ तथा $h_2$ के पादों को मिलानेवाली रेखा के मध्य-बिन्दु पर मीनारों द्वारा बनाये जाने वाले कोण का मान क्रमशः $60^\\circ$ तथा $30^\\circ$ है तो $h_1/h_2$ बराबर होगा -",
+      "options": {
+        "A": "3:1",
+        "B": "1:2",
+        "C": "$\\sqrt{3}:1$",
+        "D": "$\\sqrt{2}:1$"
+      },
+      "vikalpa": {
+        "A": "3:1",
+        "B": "1:2",
+        "C": "$\\sqrt{3}:1$",
+        "D": "$\\sqrt{2}:1$"
+      }
+    },
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Some Applications of Trigonometry",
+      "question": "A person standing on the bank of a river, observes that the angle of elevation of the top of a tree, standing on opposite bank is $60^\\circ$. When he moves 40m away from the bank, he finds the angle of elevation to be $30^\\circ$. Find the Width of the river.",
+      "prashna": "नदी के एक किनारे पर खड़े आदमी को दूसरे सिरे पर खड़े पेड़ का उन्नयन कोण $60^\\circ$ दिखता है। जब आदमी किनारे से 40 मीटर दूर चलता है, तो उन्नयन कोण $30^\\circ$ हो जाता है। नदी की चौड़ाई ज्ञात करें।"
+    }
+  ],
   "2019": [
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Some Applications of Trigonometry",
+      "question": "If the length of the shadow of a vertical pole is $\\sqrt{3}$ times the height of the pole, then the angle of elevation of the sun is-",
+      "prashna": "यदि एक उदग्र खम्भे की छाया की लम्बाई खम्भे की लम्बाई के $\\sqrt{3}$ गुना है, तो सूर्य का उन्नयन कोण है-",
+      "options": {
+        "A": "$45^\\circ$",
+        "B": "$30^\\circ$",
+        "C": "$75^\\circ$",
+        "D": "$60^\\circ$"
+      },
+      "vikalpa": {
+        "A": "$45^\\circ$",
+        "B": "$30^\\circ$",
+        "C": "$75^\\circ$",
+        "D": "$60^\\circ$"
+      }
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Some Applications of Trigonometry",
+      "question": "Two poles of equal heights are standing opposite to each other on either side of the road, which is 80m wide. From a point between them on the road, the angles of elevation of the top of the poles are $60^\\circ$ and $30^\\circ$ respectively. Find the height of the poles and the distance of the point from the pole.",
+      "prashna": "एक 80 मीटर चौड़ी सड़क के दोनों ओर आमने सामने समान लम्बाई वाले दो खम्भे लगे हुए हैं। इन दोनों खम्भों के बीच सड़क के एक बिन्दु से खम्भों के शिखर के उन्नयन कोण क्रमशः $60^\\circ$ और $30^\\circ$ हैं। खम्भों की ऊँचाई और खम्भों से बिन्दु की दूरी ज्ञात कीजिए।"
+    },
     {
       "id": "obj_30",
       "type": "objective",
@@ -311,6 +573,46 @@
       "chapter_name": "Some Applications of Trigonometry",
       "question": "A ladder 7 m long makes an angle of $30^\\circ$ with the wall. Find the height of the point on the wall where the ladder touches the wall.",
       "prashna": "एक 7 मी लंबी सीढ़ी दीवार के साथ $30^\\circ$ का कोण बनाती है। दीवार पर उस बिन्दु की ऊँचाई ज्ञात करें जहाँ सीढ़ी दीवार को स्पर्श करती है।"
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Some Applications of Trigonometry",
+      "question": "The angle of elevation of the top of a tower at a distance of $15\text{ m}$ from its base is $60^\\circ$. Then the height of the tower is",
+      "prashna": "एक मीनार के शीर्ष का उन्नयन कोण उसके पाद से $15\text{ मी}$ की दूरी पर $60^\\circ$ हो, तो मीनार की ऊँचाई है",
+      "options": {
+        "A": "$20\text{ m}$",
+        "B": "$25\\sqrt{3}\text{ m}$",
+        "C": "$15\\sqrt{3}\text{ m}$",
+        "D": "$15\text{ m}$"
+      },
+      "vikalpa": {
+        "A": "$20\text{ मी}$",
+        "B": "$25\\sqrt{3}\text{ मी}$",
+        "C": "$15\\sqrt{3}\text{ मी}$",
+        "D": "$15\text{ मी}$"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Some Applications of Trigonometry",
+      "question": "The length of the shadow of a pillar is $\\sqrt{3}$ times the height of the pillar. The angle of elevation of the sun is",
+      "prashna": "एक स्तंभ की छाया की लंबाई स्तंभ की ऊँचाई से $\\sqrt{3}$ गुनी है। सूर्य का उन्नयन कोण है",
+      "options": {
+        "A": "$30^\\circ$",
+        "B": "$45^\\circ$",
+        "C": "$60^\\circ$",
+        "D": "$90^\\circ$"
+      },
+      "vikalpa": {
+        "A": "$30^\\circ$",
+        "B": "$45^\\circ$",
+        "C": "$60^\\circ$",
+        "D": "$90^\\circ$"
+      }
     }
   ]
 }

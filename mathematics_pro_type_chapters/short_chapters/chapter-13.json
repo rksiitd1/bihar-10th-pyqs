@@ -1,5 +1,143 @@
 {
+  "2015": [
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "If the mean of 3, 4, 5, 17, $x$ is 6, then $x = $ _______.",
+      "prashna": "यदि 3, 4, 5, 17, $x$ का माध्य 6 है, तो $x = $ _______।"
+    },
+    {
+      "id": "short_31",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "The mean of the given frequency distribution is 52. Find the missing frequency. [Table: Marks 10-20 (5), 20-30 (3), 30-40 (4), 40-50 (-), 50-60 (2), 60-70 (6), 70-80 (13)]",
+      "prashna": "दिए गये बंटन का माध्य 52 है, तो अज्ञात बारम्बारता निकालें। [सारणी: प्राप्तांक 10-20 (5), 20-30 (3), 30-40 (4), 40-50 (-), 50-60 (2), 60-70 (6), 70-80 (13)]",
+      "marks": 3
+    },
+    {
+      "id": "short_32",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "Calculate the mode of the given frequency distribution: [Table: C.I. 10-25 (2), 25-40 (3), 40-55 (7), 55-70 (6), 70-85 (6), 85-100 (6)]",
+      "prashna": "दिए गये बारम्बारता बंटन का बहुलक ज्ञात करें : [सारणी: वर्ग अंतराल 10-25 (2), 25-40 (3), 40-55 (7), 55-70 (6), 70-85 (6), 85-100 (6)]",
+      "marks": 3
+    }
+  ],
+  "2016": [
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "Class mark = $\frac{\text{upper limit} + \text{lower limit}}, {2}$",
+      "prashna": "वर्ग चिह्न = $\frac{\text{ऊपरी वर्ग सीमा} + \text{निम्न वर्ग सीमा}}, {2}$"
+    },
+    {
+      "id": "short_41",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "The mean of given data is $18$. Then find the missing frequency $f$: \nClass interval: 11-13, 13-15, 15-17, 17-19, 19-21, 21-23, 23-25 \nNo. of children: 7, 6, 9, 13, f, 5, 4",
+      "prashna": "दी गई आँकड़ों का माध्य $18$ है, तो अज्ञात बारंबारता ज्ञात करें: \nवर्ग अंतराल: 11-13, 13-15, 15-17, 17-19, 19-21, 21-23, 23-25 \nबच्चों की संख्या: 7, 6, 9, 13, f, 5, 4"
+    },
+    {
+      "id": "short_42",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "If median is $12$ and mode is $18$ of any data, then find mean of the given data.",
+      "prashna": "यदि किसी आँकड़े की माध्यिका $12$ एवं बहुलक $18$ है, तो आँकड़े का माध्य ज्ञात करें।"
+    }
+  ],
+  "2017": [
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "The class which has maximum frequencies is called ................",
+      "prashna": "अधिकतम बारम्बारता वाले वर्ग को ................ कहते हैं ।"
+    },
+    {
+      "id": "short_31",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "Find the mean of following frequency distribution: C.I (10-25, 25-40, 40-55, 55-70, 70-85, 85-100), frequency (2, 3, 7, 6, 6, 6)",
+      "prashna": "निम्नलिखित बारम्बारता बंटन सारणी से माध्य ज्ञात करें । वर्ग अन्तराल (10-25, 25-40, 40-55, 55-70, 70-85, 85-100), बारम्बारता (2, 3, 7, 6, 6, 6)"
+    },
+    {
+      "id": "short_32",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "Calculate the mode for following frequency distribution: C.I (25-30, 30-35, 35-40, 40-45, 45-50, 50-55), frequency (25, 34, 50, 42, 38, 14)",
+      "prashna": "निम्नलिखित बारम्बारता बंटन से बहुलक ज्ञात करें । वर्ग अन्तराल (25-30, 30-35, 35-40, 40-45, 45-50, 50-55), बारम्बारता (25, 34, 50, 42, 38, 14)"
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "Find the median of the distribution: $10, 17, 21, 16, 13, 12, 15, 19, 14, 13$.",
+      "prashna": "बंटन $10, 17, 21, 16, 13, 12, 15, 19, 14, 13$ का माध्यिका निकालें।"
+    }
+  ],
+  "2018": [
+    {
+      "id": "short_19",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "Define two types of Statistical Data.",
+      "prashna": "दो प्रकार के सांख्यिकीय आधार सामग्री (डाटा) को परिभाषित करें।"
+    },
+    {
+      "id": "short_20",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "Mention two characteristics (features) of Bar diagram.",
+      "prashna": "बार ग्राफ (दण्ड-आरेख) के दो अवयव (गुण) बताइये।"
+    },
+    {
+      "id": "short_19",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "Define two types of Statistical Data.",
+      "prashna": "दो प्रकार के सांख्यिकी आधार सामग्री (डाटा) को परिभाषित करें।"
+    },
+    {
+      "id": "short_20",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "Mention two characteristics (features) of Bar diagram.",
+      "prashna": "बार ग्राफ (दण्ड-आरेख) के दो अवयव (गुण) बतावें।"
+    }
+  ],
   "2019": [
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "Find the mode of the following distribution: Class interval [0-10, 10-20, 20-30, 30-40, 40-50], Frequency [8, 12, 6, 15, 7].",
+      "prashna": "निम्नलिखित बंटन का बहुलक ज्ञात करें: वर्ग अंतराल [0-10, 10-20, 20-30, 30-40, 40-50], बारंबारता [8, 12, 6, 15, 7]।"
+    },
+    {
+      "id": "short_23",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Statistics",
+      "question": "Find the mean of the following distribution: Class interval [0-8, 8-16, 16-24, 24-32, 32-40, 40-48], Frequency [10, 20, 14, 16, 18, 22].",
+      "prashna": "निम्नलिखित बंटन का माध्य ज्ञात करें: वर्ग अंतराल [0-8, 8-16, 16-24, 24-32, 32-40, 40-48], बारंबारता [10, 20, 14, 16, 18, 22]।"
+    },
     {
       "id": "short_22",
       "type": "short_answer",

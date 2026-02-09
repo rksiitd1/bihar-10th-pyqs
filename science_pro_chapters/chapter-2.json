@@ -1,5 +1,593 @@
 {
+  "2011": [
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "What is bleaching powder? Write its chemical name, formula and uses.",
+      "prashna": "विरंजक चूर्ण क्या है? इसका रासायनिक नाम, सूत्र एवं उपयोग लिखें।"
+    }
+  ],
+  "2012": [
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Why does an aqueous solution of an acid conduct electricity?",
+      "prashna": "अम्ल का जलीय विलयन क्यों विद्युत का चालन करता है?"
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "A solution turns red litmus blue, its pH is likely to be",
+      "prashna": "कोई विलयन लाल लिटमस को नीला कर देता है। उसका pH होगा।",
+      "options": {
+        "A": "11",
+        "B": "10",
+        "C": "5",
+        "D": "8"
+      },
+      "vikalpa": {
+        "A": "11",
+        "B": "10",
+        "C": "5",
+        "D": "8"
+      }
+    }
+  ],
+  "2013": [
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Write the molecular formula of Plaster of Paris. What is its use?",
+      "prashna": "प्लास्टर ऑफ पेरिस का आण्विक सूत्र लिखें। इसका उपयोग क्या है?"
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "What is bleaching powder? Write its chemical name, formula, and uses.",
+      "prashna": "विरंजक चूर्ण क्या है? इनका रासायनिक नाम, सूत्र एवं उपयोग लिखें।"
+    },
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "What is the chemical formula of marble?",
+      "prashna": "संगमरमर का रासायनिक सूत्र क्या है?",
+      "options": {
+        "A": "$CaCO_3$",
+        "B": "$MgCO_3$",
+        "C": "$Ca(HCO_3)_2$",
+        "D": "$Mg(HCO_3)_2$"
+      },
+      "vikalpa": {
+        "A": "$CaCO_3$",
+        "B": "$MgCO_3$",
+        "C": "$Ca(HCO_3)_2$",
+        "D": "$Mg(HCO_3)_2$"
+      }
+    },
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Litmus solution is a purple dye, which is extracted from which of the following?",
+      "prashna": "लिटमस विलयन बैंगनी रंजक होता है, जो निम्न में किससे निकाला जाता है?",
+      "options": {
+        "A": "Lichen",
+        "B": "Red cabbage",
+        "C": "Turmeric",
+        "D": "Petunia flower"
+      },
+      "vikalpa": {
+        "A": "लाइकेन",
+        "B": "लाल पत्तागोभी",
+        "C": "हल्दी",
+        "D": "पेटूनिया फूल"
+      }
+    },
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "When sodium hydroxide reacts with zinc, which product is formed?",
+      "prashna": "जब सोडियम हाइड्रोक्साइड जिंक से अभिक्रिया करता है, तो कौन-सा उत्पाद बनता है?",
+      "options": {
+        "A": "$Na_2ZnO + H_2$",
+        "B": "$NaZnO_2 + H_2$",
+        "C": "$NaOZn_2 + H_2$",
+        "D": "$Na_2ZnO_2 + H_2$"
+      },
+      "vikalpa": {
+        "A": "$Na_2ZnO + H_2$",
+        "B": "$NaZnO_2 + H_2$",
+        "C": "$NaOZn_2 + H_2$",
+        "D": "$Na_2ZnO_2 + H_2$"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "The pH of any neutral solution is",
+      "prashna": "किसी भी उदासीन विलयन का pH होता है",
+      "options": {
+        "A": "5",
+        "B": "7",
+        "C": "14",
+        "D": "0"
+      },
+      "vikalpa": {
+        "A": "5",
+        "B": "7",
+        "C": "14",
+        "D": "0"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "The chemical formula of baking soda is",
+      "prashna": "बेकिंग सोडा का रासायनिक सूत्र है",
+      "options": {
+        "A": "$NaHCO_3$",
+        "B": "$NaOH$",
+        "C": "$Na_2CO_3$",
+        "D": "$KOH$"
+      },
+      "vikalpa": {
+        "A": "$NaHCO_3$",
+        "B": "$NaOH$",
+        "C": "$Na_2CO_3$",
+        "D": "$KOH$"
+      }
+    }
+  ],
+  "2014": [
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "The pH value of acid rain water should be",
+      "prashna": "अम्लीय वर्षा के जल का pH मान होना चाहिए",
+      "options": {
+        "A": "5.6",
+        "B": "Less than 5.6",
+        "C": "More than 5.6",
+        "D": "7.0"
+      },
+      "vikalpa": {
+        "A": "5.6",
+        "B": "5.6 से कम",
+        "C": "5.6 से अधिक",
+        "D": "7.0"
+      }
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Which acid is found in the sting of an ant?",
+      "prashna": "चींटी के डंक में कौन-सा अम्ल पाया जाता है",
+      "options": {
+        "A": "Ethanoic acid",
+        "B": "Citric acid",
+        "C": "Methanoic acid",
+        "D": "Oxalic acid"
+      },
+      "vikalpa": {
+        "A": "इथेनॉइक अम्ल",
+        "B": "सिट्रिक अम्ल",
+        "C": "मिथेनॉइक अम्ल",
+        "D": "ऑक्जेलिक अम्ल है"
+      }
+    },
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "The chemical formula of Plaster of Paris is",
+      "prashna": "प्लास्टर ऑफ पेरिस का रासायनिक सूत्र है।",
+      "options": {
+        "A": "$\text{CaSO}_4 \\cdot 5\text{H}_2\text{O}$",
+        "B": "$\text{CaSO}_4 \\cdot \frac{1}, {2}\text{H}_2\text{O}$",
+        "C": "$\text{CaSO}_4 \\cdot 2\text{H}_2\text{O}$",
+        "D": "$\text{CaSO}_4 \\cdot \text{H}_2\text{O}$"
+      },
+      "vikalpa": {
+        "A": "$\text{CaSO}_4 \\cdot 5\text{H}_2\text{O}$",
+        "B": "$\text{CaSO}_4 \\cdot \frac{1}, {2}\text{H}_2\text{O}$",
+        "C": "$\text{CaSO}_4 \\cdot 2\text{H}_2\text{O}$",
+        "D": "$\text{CaSO}_4 \\cdot \text{H}_2\text{O}$"
+      }
+    },
+    {
+      "id": "obj_48",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Acid and base react with each other to form",
+      "prashna": "अम्ल और क्षार आपस में अभिक्रिया कर बनाते हैं",
+      "options": {
+        "A": "Strong base",
+        "B": "Strong acid",
+        "C": "Salt",
+        "D": "Base"
+      },
+      "vikalpa": {
+        "A": "प्रबल क्षार",
+        "B": "प्रबल अम्ल",
+        "C": "लवण",
+        "D": "क्षार"
+      }
+    },
+    {
+      "id": "obj_49",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Slaked lime is",
+      "prashna": "बुझा हुआ चूना है।",
+      "options": {
+        "A": "$\text{Ca(OH)}_2$",
+        "B": "$\text{CaO}$",
+        "C": "$\text{CaCO}_3$",
+        "D": "$\text{Ca}$"
+      },
+      "vikalpa": {
+        "A": "$\text{Ca(OH)}_2$",
+        "B": "$\text{CaO}$",
+        "C": "$\text{CaCO}_3$",
+        "D": "$\text{Ca}$"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Which of the following is not a base?",
+      "prashna": "निम्न में कौन भस्म नहीं है?",
+      "options": {
+        "A": "$\text{CaO}$",
+        "B": "$\text{NaCl}$",
+        "C": "$\text{NaOH}$",
+        "D": "$\text{Na}_2\text{CO}_3$"
+      },
+      "vikalpa": {
+        "A": "$\text{CaO}$",
+        "B": "$\text{NaCl}$",
+        "C": "$\text{NaOH}$",
+        "D": "$\text{Na}_2\text{CO}_3$"
+      }
+    },
+    {
+      "id": "obj_54",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Common name of methanoic acid is",
+      "prashna": "मेथनॉइक अम्ल का सामान्य नाम है",
+      "options": {
+        "A": "Formic acid",
+        "B": "Acetic acid",
+        "C": "Lactic acid",
+        "D": "Lactic acid"
+      },
+      "vikalpa": {
+        "A": "फॉर्मिक अम्ल",
+        "B": "एसीटीक अम्ल",
+        "C": "लैक्टिक अम्ल",
+        "D": "लैक्टिक अम्ल"
+      }
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "What happens when $\text{CO}_2$ (gas) is passed through lime water: (i) In limited quantity (ii) In excess quantity?",
+      "prashna": "क्या होता है जब $\text{CO}_2$ (गैस) चूना जल में प्रवाहित किया जाता है (i) कम मात्रा में (ii) ज्यादा मात्रा में?"
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "What is neutralization reaction? Give one example.",
+      "prashna": "उदासीनीकरण अभिक्रिया क्या है? एक उदाहरण दें।"
+    },
+    {
+      "id": "short_15",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "What is baking powder?",
+      "prashna": "बेकिंग पाउडर क्या है?"
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "How does the concentration of $H^+$ ions affect the nature of the solution?",
+      "prashna": "$H^+$ आयन की सांद्रता का विलयन की प्रकृति पर क्या प्रभाव पड़ता है?"
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Give an equation for the reaction of Plaster of Paris with water.",
+      "prashna": "प्लास्टर ऑफ पेरिस की जल के साथ अभिक्रिया के लिए एक समीकरण दें।"
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Why does an aqueous solution of an acid conduct electricity?",
+      "prashna": "अम्ल का जलीय विलयन क्यों विद्युत का चालन करता है?"
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "On passing electric current through an aqueous solution of sodium chloride, it decomposes to form sodium hydroxide. This process is called",
+      "prashna": "सोडियम क्लोराइड के जलीय विलयन से विद्युत धारा प्रवाहित करने पर यह वियोजित होकर सोडियम हाइड्रॉक्साइड बनाता है। इस प्रक्रिया को कहते हैं",
+      "options": {
+        "A": "Chlor-alkali process",
+        "B": "Chlor reaction",
+        "C": "Decomposition reaction",
+        "D": "Combination reaction"
+      },
+      "vikalpa": {
+        "A": "क्लोर-क्षार अभिक्रिया",
+        "B": "क्लोर अभिक्रिया",
+        "C": "वियोजन अभिक्रिया",
+        "D": "संयोजन अभिक्रिया"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Which of the following is correct?",
+      "prashna": "निम्नलिखित में से कौन सही है ?",
+      "options": {
+        "A": "$Na_2CO_3 \\cdot 5H_2O$",
+        "B": "$Na_2CO_3 \\cdot 10H_2O$",
+        "C": "$Na_2CO_3 \\cdot 7H_2O$",
+        "D": "$Na_2CO_3 \\cdot 2H_2O$"
+      },
+      "vikalpa": {
+        "A": "$Na_2CO_3 \\cdot 5H_2O$",
+        "B": "$Na_2CO_3 \\cdot 10H_2O$",
+        "C": "$Na_2CO_3 \\cdot 7H_2O$",
+        "D": "$Na_2CO_3 \\cdot 2H_2O$"
+      }
+    }
+  ],
+  "2015": [
+    {
+      "id": "short_14",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "What is the common name of $CaOCl_2$ compound?",
+      "prashna": "$CaOCl_2$ यौगिक का साधारण नाम क्या है ?"
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Write the method of preparation of bleaching powder and its uses.",
+      "prashna": "ब्लीचिंग पाउडर बनाने की विधि एवं उपयोगिता लिखें।"
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Molecular formula of sodium carbonate is",
+      "prashna": "सोडियम कार्बोनेट का अणु सूत्र है",
+      "options": {
+        "A": "$Na_2CO_3$",
+        "B": "$NaHCO_3$",
+        "C": "$Na_2CO_2$",
+        "D": "$NaCl$"
+      },
+      "vikalpa": {
+        "A": "$Na_2CO_3$",
+        "B": "$NaHCO_3$",
+        "C": "$Na_2CO_2$",
+        "D": "$NaCl$"
+      }
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Write the method of preparation and uses of bleaching powder.",
+      "prashna": "ब्लीचिंग पाउडर बनाने की विधि एवं उपयोगिता लिखें।"
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "The molecular formula of sodium carbonate is:",
+      "prashna": "सोडियम कार्बोनेट का अणुसूत्र है:",
+      "options": {
+        "A": "$Na_2CO_3$",
+        "B": "$NaHCO_3$",
+        "C": "$Na_2CO_2$",
+        "D": "$NaCl$"
+      },
+      "vikalpa": {
+        "A": "$Na_2CO_3$",
+        "B": "$NaHCO_3$",
+        "C": "$Na_2CO_2$",
+        "D": "$NaCl$"
+      }
+    }
+  ],
+  "2016": [
+    {
+      "id": "short_24",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Write the process of making the Plaster of Paris and its uses.",
+      "prashna": "प्लास्टर ऑफ पेरिस के निर्माण की विधि एवं उपयोग लिखें।"
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "'$NaOH$' is",
+      "prashna": "'$NaOH$' है",
+      "options": {
+        "A": "acid",
+        "B": "alkali",
+        "C": "salt",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "अम्ल",
+        "B": "क्षार",
+        "C": "लवण",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Write the method of preparation and uses of Plaster of Paris.",
+      "prashna": "प्लास्टर ऑफ पेरिस के निर्माण की विधि एवं उपयोग लिखें।"
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "$NaOH$ is a/an:",
+      "prashna": "$NaOH$ है",
+      "options": {
+        "A": "Acid",
+        "B": "Base",
+        "C": "Salt",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "अम्ल",
+        "B": "क्षार",
+        "C": "लवण",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ],
   "2017": [
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Write down the molecular formula of Plaster of Paris.",
+      "prashna": "प्लास्टर ऑफ पेरिस का आण्विक सूत्र लिखें।"
+    },
+    {
+      "id": "long_2_1",
+      "type": "long_answer",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Match the following column (i) to (ii): (i) Baking soda, (ii) Washing soda, (iii) Glauber's salt, (iv) Blue vitriol, (v) Gypsum. (A) $CaSO_4 \\cdot 2H_2O$, (B) $CuSO_4 \\cdot 5H_2O$, (C) $NaHCO_3$, (D) $Na_2CO_3 \\cdot 10H_2O$, (E) $Na_2SO_4 \\cdot 10H_2O$",
+      "prashna": "स्तम्भ (i) तथा स्तम्भ (ii) का मिलान करें: (i) बेकिंग सोडा, (ii) धोने का सोडा, (iii) ग्लीबर लवण, (iv) नीला थोथा, (v) जिप्सम। (A) $CaSO_4 \\cdot 2H_2O$, (B) $CuSO_4 \\cdot 5H_2O$, (C) $NaHCO_3$, (D) $Na_2CO_3 \\cdot 10H_2O$, (E) $Na_2SO_4 \\cdot 10H_2O$"
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "What is the chemical formula of chalk?",
+      "prashna": "खड़िया का रासायनिक सूत्र क्या है?",
+      "options": {
+        "A": "$MgCO_3$",
+        "B": "$CaO$",
+        "C": "$CaCO_3$",
+        "D": "$Ca(HCO_3)_2$"
+      },
+      "vikalpa": {
+        "A": "$MgCO_3$",
+        "B": "$CaO$",
+        "C": "$CaCO_3$",
+        "D": "$Ca(HCO_3)_2$"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "The pH of an acid solution is-",
+      "prashna": "किसी भी अम्लीय विलयन का pH होता है -",
+      "options": {
+        "A": "Equal to 7",
+        "B": "More than 7",
+        "C": "Less than 7",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "7 के बराबर",
+        "B": "7 से अधिक",
+        "C": "7 से कम",
+        "D": "कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Which of the following is strong acid?",
+      "prashna": "निम्नांकित में कौन प्रबल अम्ल है?",
+      "options": {
+        "A": "$H_2SO_4$",
+        "B": "$HCl$",
+        "C": "$HNO_3$",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "$H_2SO_4$",
+        "B": "$HCl$",
+        "C": "$HNO_3$",
+        "D": "सभी"
+      }
+    },
     {
       "id": "long_2_1",
       "type": "long_answer",
@@ -94,6 +682,74 @@
     }
   ],
   "2018": [
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "pH of aqueous solution of salt $Na_2CO_3$ is -",
+      "prashna": "लवण $Na_2CO_3$ का जलीय विलयन का pH है -",
+      "options": {
+        "A": "7",
+        "B": "More than 7",
+        "C": "Less than 7",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "7",
+        "B": "7 से अधिक",
+        "C": "7 से कम",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Which chemical compound on heating becomes 'Plaster of Paris'?",
+      "prashna": "किस रासायनिक यौगिक को गर्म करने पर 'प्लास्टर ऑफ पेरिस' (Plaster of Paris) प्राप्त किया जा सकता है?",
+      "options": {
+        "A": "Bleaching Powder",
+        "B": "Gypsum",
+        "C": "Lime stone",
+        "D": "Quicklime"
+      },
+      "vikalpa": {
+        "A": "विरंजक चूर्ण",
+        "B": "जिप्सम",
+        "C": "चूना पत्थर",
+        "D": "कच्चा चूना"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Which of the following ions can turn red litmus solution blue?",
+      "prashna": "निम्नलिखित में कौन सा आयन लाल लिटमस विलयन को नीला कर सकता है?",
+      "options": {
+        "A": "$H^+$",
+        "B": "$OH^-$",
+        "C": "$Cl^-$",
+        "D": "$O^{2-}$"
+      },
+      "vikalpa": {
+        "A": "$H^+$",
+        "B": "$OH^-$",
+        "C": "$Cl^-$",
+        "D": "$O^{2-}$"
+      }
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "What is a neutralisation reaction? Give two examples.",
+      "prashna": "उदासीनीकरण अभिक्रिया क्या है? दो उदाहरण दीजिए।"
+    },
     {
       "id": "obj_16",
       "type": "objective",
@@ -557,6 +1213,268 @@
       "chapter_name": "Acids, Bases and Salts",
       "question": "Match Column-I and Column-II: Column-I: (i) Baking soda, (ii) Washing soda, (iii) Globar salt, (iv) Blue vitriol, (v) Gypsum. Column-II: (a) $CaSO_4 \\cdot 2H_2O$, (b) $CuSO_4 \\cdot 5H_2O$, (c) $NaHCO_3$, (d) $Na_2CO_3 \\cdot 10H_2O$, (e) $Na_2SO_4 \\cdot 10H_2O$",
       "prashna": "स्तम्भ-I एवं स्तम्भ-II का मिलान करें : स्तम्भ-I: (i) बेकिंग सोडा, (ii) धोने का सोडा, (iii) ग्लोबर लवण, (iv) नीला थोथा, (v) जिप्सम। स्तम्भ-II: (a) $CaSO_4 \\cdot 2H_2O$, (b) $CuSO_4 \\cdot 5H_2O$, (c) $NaHCO_3$, (d) $Na_2CO_3 \\cdot 10H_2O$, (e) $Na_2SO_4 \\cdot 10H_2O$"
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "The $pH$ value of acid rain water should be",
+      "prashna": "अम्लीय वर्षा के जल का $pH$ मान होना चाहिए",
+      "options": {
+        "A": "5.6",
+        "B": "Less than 5.6",
+        "C": "More than 5.6",
+        "D": "7.0"
+      },
+      "vikalpa": {
+        "A": "5.6",
+        "B": "5.6 से कम",
+        "C": "5.6 से अधिक",
+        "D": "7.0"
+      }
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Which acid is found in ant's sting?",
+      "prashna": "चींटी के डंक में कौन-सा अम्ल पाया जाता है",
+      "options": {
+        "A": "Ethanoic acid",
+        "B": "Citric acid",
+        "C": "Methanoic acid",
+        "D": "Oxalic acid"
+      },
+      "vikalpa": {
+        "A": "इथेनॉइक अम्ल",
+        "B": "सिट्रिक अम्ल",
+        "C": "मिथेनॉइक अम्ल",
+        "D": "ऑक्जेलिक अम्ल"
+      }
+    },
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Chemical formula of Plaster of Paris is",
+      "prashna": "प्लास्टर ऑफ पेरिस का रासायनिक सूत्र है।",
+      "options": {
+        "A": "$CaSO_4 \\cdot 5H_2O$",
+        "B": "$CaSO_4 \\cdot \frac{1}, {2}H_2O$",
+        "C": "$CaSO_4 \\cdot 2H_2O$",
+        "D": "$CaSO_4 \\cdot H_2O$"
+      },
+      "vikalpa": {
+        "A": "$CaSO_4 \\cdot 5H_2O$",
+        "B": "$CaSO_4 \\cdot \frac{1}, {2}H_2O$",
+        "C": "$CaSO_4 \\cdot 2H_2O$",
+        "D": "$CaSO_4 \\cdot H_2O$"
+      }
+    },
+    {
+      "id": "obj_48",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Acid and base react with each other to form",
+      "prashna": "अम्ल और क्षार आपस में अभिक्रिया कर बनाते हैं",
+      "options": {
+        "A": "Strong base",
+        "B": "Strong acid",
+        "C": "Salt",
+        "D": "Base"
+      },
+      "vikalpa": {
+        "A": "प्रबल क्षार",
+        "B": "प्रबल अम्ल",
+        "C": "लवण",
+        "D": "क्षार"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Which of the following is not a base?",
+      "prashna": "निम्न में कौन भस्म नहीं है?",
+      "options": {
+        "A": "$CaO$",
+        "B": "$NaCl$",
+        "C": "$NaOH$",
+        "D": "$Na_2CO_3$"
+      },
+      "vikalpa": {
+        "A": "$CaO$",
+        "B": "$NaCl$",
+        "C": "$NaOH$",
+        "D": "$Na_2CO_3$"
+      }
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "What happens when $CO_2$ (gas) is passed through lime water: (i) in small amount (ii) in excess amount?",
+      "prashna": "क्या होता है जब $CO_2$ (गैस) चूना जल में प्रवाहित किया जाता है, (i) कम मात्रा में (ii) ज्यादा मात्रा में?"
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "What is neutralization reaction? Give an example.",
+      "prashna": "उदासीनीकरण अभिक्रिया क्या है? एक उदाहरण दें।"
+    },
+    {
+      "id": "short_15",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "What is baking powder?",
+      "prashna": "बेकिंग पाउडर क्या है?"
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "A solution turns blue litmus paper red. What can be the pH of the solution?",
+      "prashna": "एक घोल नीले लिटमस पत्र लाल कर देता है। पोल का pH क्या हो सकता है?",
+      "options": {
+        "A": "2",
+        "B": "9",
+        "C": "7",
+        "D": "10"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "9",
+        "C": "7",
+        "D": "10"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Which of the following compounds is an acid?",
+      "prashna": "निम्नांकित यौगिकों में कौन अम्ल है?",
+      "options": {
+        "A": "$\text{CuO}$",
+        "B": "$\text{H}_2\text{SO}_4$",
+        "C": "$\text{Na}_2\text{O}$",
+        "D": "$\text{Ca(OH)}_2$"
+      },
+      "vikalpa": {
+        "A": "$\text{CuO}$",
+        "B": "$\text{H}_2\text{SO}_4$",
+        "C": "$\text{Na}_2\text{O}$",
+        "D": "$\text{Ca(OH)}_2$"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Which of the following is a natural indicator?",
+      "prashna": "निम्नांकित में कौन प्राकृतिक सूचक है?",
+      "options": {
+        "A": "Turmeric",
+        "B": "Methyl orange",
+        "C": "Phenolphthalein",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "हल्दी",
+        "B": "मेथिल ऑरेंज",
+        "C": "केनॉल्फथलीन",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Baking powder is a mixture of",
+      "prashna": "बेकिंग पाउडर एक मिश्रण है।",
+      "options": {
+        "A": "$\text{Na}_2\text{CO}_3$ and $\text{CaO}$",
+        "B": "$\text{NaHCO}_3$ and Acetic acid",
+        "C": "$\text{Ca(OH)}_2$ and $\text{Na}_2\text{O}$",
+        "D": "$\text{NaHCO}_3$ and Tartaric acid"
+      },
+      "vikalpa": {
+        "A": "$\text{Na}_2\text{CO}_3$ एवं $\text{CaO}$ का",
+        "B": "$\text{NaHCO}_3$ एवं ऐसीटिक अम्ल का",
+        "C": "$\text{Ca(OH)}_2$ एवं $\text{Na}_2\text{O}$ का",
+        "D": "$\text{NaHCO}_3$ एवं टार्टरिक अम्ल का"
+      }
+    },
+    {
+      "id": "obj_62",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Which of the following is a salt?",
+      "prashna": "निम्नलिखित में लवण कौन है?",
+      "options": {
+        "A": "$\text{NaOH}$",
+        "B": "$\text{NaCl}$",
+        "C": "$\text{HCl}$",
+        "D": "$\text{KOH}$"
+      },
+      "vikalpa": {
+        "A": "$\text{NaOH}$",
+        "B": "$\text{NaCl}$",
+        "C": "$\text{HCl}$",
+        "D": "$\text{KOH}$"
+      }
+    },
+    {
+      "id": "obj_63",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "The molecular formula of Tutiya (blue vitriol) is",
+      "prashna": "तुतीया (नीला थोथा) का अणुसूत्र है।",
+      "options": {
+        "A": "$\text{CuSO}_4 \\cdot 5\text{H}_2\text{O}$",
+        "B": "$\text{Na}_2\text{B}_4\text{O}_7 \\cdot 10\text{H}_2\text{O}$",
+        "C": "$\text{CHCl}_3$",
+        "D": "$\text{KOH}$"
+      },
+      "vikalpa": {
+        "A": "$\text{CuSO}_4 \\cdot 5\text{H}_2\text{O}$",
+        "B": "$\text{Na}_2\text{B}_4\text{O}_7 \\cdot 10\text{H}_2\text{O}$",
+        "C": "$\text{CHCl}_3$",
+        "D": "$\text{KOH}$"
+      }
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Write the molecular formula of washing soda. State its two uses.",
+      "prashna": "धोबिया सोडा का अणुसूत्र लिखें। इसके दो उपयोग बताएँ।"
+    },
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Why is it necessary to keep Plaster of Paris away from moisture? Explain.",
+      "prashna": "प्लास्टर ऑफ पेरिस को आर्द्रता से दूर रखना क्यों आवश्यक है? इसकी व्याख्या करें।"
     }
   ],
   "2022": [

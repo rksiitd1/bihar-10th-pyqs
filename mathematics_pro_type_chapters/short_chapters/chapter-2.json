@@ -1,5 +1,110 @@
 {
+  "2015": [
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "Sum of zeros of the polynomial $ax^2 + bx + c$ is _______.",
+      "prashna": "बहुपद $ax^2 + bx + c$ के शून्यक का योग _______ होता है।"
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $\\alpha, \beta$ are the zeros of polynomial $p(x) = x^2 - 7x + k$ and $\\alpha - \beta = 1$, then find the value of $k$.",
+      "prashna": "यदि $\\alpha, \beta$ बहुपद $p(x) = x^2 - 7x + k$ के शून्यक हैं और $\\alpha - \beta = 1$ है, तो $k$ का मान निकालें।",
+      "marks": 2
+    }
+  ],
+  "2016": [
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "Find the zeros of polynomial $4x^2 - 3$.",
+      "prashna": "बहुपद $4x^2 - 3$ के शून्यक ज्ञात करें।"
+    },
+    {
+      "id": "short_34",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "Find the quadratic equation, whose sum and product of zeros are $4$ and $1$ respectively.",
+      "prashna": "एक द्विघातीय बहुपद समीकरण ज्ञात करें, जिसके शून्यकों के योग एवं गुणनफल क्रमशः $4$ एवं $1$ हैं।"
+    }
+  ],
+  "2017": [
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "$4x^2 + \frac{1}, {7}$ is ................ polynomial.",
+      "prashna": "$4x^2 + \frac{1}, {7}$ ................ बहुपद है ।"
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "Find the sum and product of zeroes of quadratic polynomial $2x^2 - 8x + 6$",
+      "prashna": "द्विघात बहुपद $2x^2 - 8x + 6$ के शून्यकों का योग एवं गुणनफल ज्ञात करें ।"
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $\\alpha$, $\beta$ and $\\gamma$ are zeros of the polynomial $3x^3 - 5x^2 - 11x - 2$, then find the values of $\\alpha\beta\\gamma$, $\\alpha + \beta + \\gamma$ and $\\alpha\beta + \beta\\gamma + \\gamma\\alpha$.",
+      "prashna": "यदि बहुपद $3x^3 - 5x^2 - 11x - 2$ के शून्यक $\\alpha, \beta$ तथा $\\gamma$ हों, तो $\\alpha\beta\\gamma$, $\\alpha + \beta + \\gamma$ तथा $\\alpha\beta + \beta\\gamma + \\gamma\\alpha$ का मान ज्ञात करें।"
+    }
+  ],
+  "2018": [
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $\\alpha$ and $\beta$ are zeros of polynomial $p(x) = x^2 + x + 1$, then find $\\alpha^2 + \beta^2$.",
+      "prashna": "यदि बहुपद $p(x) = x^2 + x + 1$ का शून्यक $\\alpha$ तथा $\beta$ है, तो $\\alpha^2 + \beta^2$ का मान ज्ञात करें।"
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "Find the condition which must be satisfied by co-efficient of polynomials, such that the sum of two zeros of the polynomial $f(x) = x^3 - px^2 + qx - r$, is zero.",
+      "prashna": "बहुपद $f(x) = x^3 - px^2 + qx - r$ के दो शून्यकों का जोड़ शून्य होने की शर्त की गणना करें (बहुपद के गुणांकों के बीच)।"
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $\\alpha$ and $\beta$ are zeros of polynomial $p(x) = x^2 + x + 1$, then find $\\alpha^2 + \beta^2$.",
+      "prashna": "यदि बहुपद $p(x) = x^2 + x + 1$ का शून्यक $\\alpha$ तथा $\beta$ है, तो $\\alpha^2 + \beta^2$ का मान ज्ञात करें।"
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "Find the condition which must be satisfied by co-efficient of polynomials, such that the sum of two zeros of the polynomial $f(x) = x^3 - px^2 + qx - r$, is zero.",
+      "prashna": "बहुपद $f(x) = x^3 - px^2 + qx - r$ के दो शून्यकों का जोड़ शून्य होने की शर्त की गणना करें (बहुपद के गुणाकों के बीच)।"
+    }
+  ],
   "2019": [
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "question": "If $\\alpha, \beta$ are the zeros of the quadratic polynomial $4x^2 - 4x + 1$, then find the value of $\frac{\\alpha}, {\beta} + \frac{\beta}, {\\alpha}$.",
+      "prashna": "यदि $\\alpha, \beta$ किसी द्विघात बहुपद $4x^2 - 4x + 1$ के मूल हों, तो $\frac{\\alpha}, {\beta} + \frac{\beta}, {\\alpha}$ का मान ज्ञात करें।"
+    },
     {
       "id": "short_12",
       "type": "short_answer",

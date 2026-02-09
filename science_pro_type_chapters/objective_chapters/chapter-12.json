@@ -1,5 +1,193 @@
 {
+  "2011": [
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "What type of current is obtained from a dynamo?",
+      "prashna": "डायनेमो से किस प्रकार की धारा प्राप्त होती है ?",
+      "options": {
+        "A": "Direct current (DC)",
+        "B": "Alternating current (AC)",
+        "C": "Both currents",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "दिष्ट धारा",
+        "B": "प्रत्यावर्ती धारा",
+        "C": "दोनों धाराएँ",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ],
+  "2012": [
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "The device used for producing electric current is called a",
+      "prashna": "विद्युत धारा उत्पन्न करने की युक्ति को कहते हैं",
+      "options": {
+        "A": "Generator",
+        "B": "Galvanometer",
+        "C": "Ammeter",
+        "D": "Motor"
+      },
+      "vikalpa": {
+        "A": "जनित्र",
+        "B": "गैल्वेनोमीटर",
+        "C": "ऐभीटय",
+        "D": "भोटय"
+      }
+    },
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "At the time of short circuit, the current in the circuit",
+      "prashna": "लघुपथन के समय परिपथ में विद्युत धारा का मान",
+      "options": {
+        "A": "decreases substantially",
+        "B": "remains constant",
+        "C": "increases heavily",
+        "D": "varies continuously"
+      },
+      "vikalpa": {
+        "A": "कम हो जाता है",
+        "B": "स्थिर रहता है",
+        "C": "बहुत अधिक बढ़ जाता है",
+        "D": "निरंतर परिवर्तित होता है"
+      }
+    }
+  ],
+  "2014": [
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "Which material rod is used to make electromagnets?",
+      "prashna": "विद्युत चुंबक बनाने के लिए किस पदार्थ के छड़ का उपयोग होता है",
+      "options": {
+        "A": "Steel",
+        "B": "Brass",
+        "C": "Soft iron",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "इस्पात",
+        "B": "पीतल",
+        "C": "नरम लोहा",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "The device used for producing electric current is called",
+      "prashna": "विद्युत धारा उत्पन्न करने की युक्ति को कहते हैं",
+      "options": {
+        "A": "Generator",
+        "B": "Galvanometer",
+        "C": "Ammeter",
+        "D": "Meter"
+      },
+      "vikalpa": {
+        "A": "जनित्र",
+        "B": "गैल्वेनोमीटर",
+        "C": "ऐमीटर",
+        "D": "मीटर"
+      }
+    }
+  ],
+  "2015": [
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "In short-circuit, the value of electric current in a circuit becomes",
+      "prashna": "लघुपथन के समय परिपथ में विद्युत धारा का मान होगा",
+      "options": {
+        "A": "very high",
+        "B": "very low",
+        "C": "$3\text{ A}$",
+        "D": "$4\text{ A}$"
+      },
+      "vikalpa": {
+        "A": "बहुत अधिक",
+        "B": "बहुत कम",
+        "C": "$3$ एम्पीयर",
+        "D": "$4$ एम्पीयर"
+      }
+    },
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "At the time of short circuit, the value of electric current in the circuit will be:",
+      "prashna": "लघुपथन के समय परिपथ में विद्युत धारा का मान होगा:",
+      "options": {
+        "A": "Very high",
+        "B": "Very low",
+        "C": "3 Ampere",
+        "D": "4 Ampere"
+      },
+      "vikalpa": {
+        "A": "बहुत अधिक",
+        "B": "बहुत कम",
+        "C": "3 एम्पीयर",
+        "D": "4 एम्पीयर"
+      }
+    }
+  ],
   "2017": [
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "Dynamo converts mechanical energy into:-",
+      "prashna": "डायनेमो यांत्रिक ऊर्जा को किस ऊर्जा में परिणत करता है?",
+      "options": {
+        "A": "Sound Energy",
+        "B": "Electrical Energy",
+        "C": "Solar Energy",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "ध्वनि ऊर्जा",
+        "B": "विद्युत ऊर्जा",
+        "C": "सौर ऊर्जा",
+        "D": "इनमें कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "The reason of accidents from electricity in houses is-",
+      "prashna": "घरों में विद्युत से दुर्घटना किसके कारण होती है?",
+      "options": {
+        "A": "Fuse wire",
+        "B": "Short Circuit",
+        "C": "High voltage",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "फ्यूज तार",
+        "B": "शॉर्ट सर्किट",
+        "C": "उच्च धारा प्रवाह",
+        "D": "इनमें कोई नहीं"
+      }
+    },
     {
       "id": "obj_5",
       "type": "objective",
@@ -42,6 +230,86 @@
     }
   ],
   "2018": [
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "At the time of short circuiting, the current in the circuit -",
+      "prashna": "लघुपथन (शॉर्ट सर्किट) के समय परिपथ में विद्युत धारा का मान -",
+      "options": {
+        "A": "Reduces substantially",
+        "B": "Does not change",
+        "C": "Increases heavily",
+        "D": "Varies continuously"
+      },
+      "vikalpa": {
+        "A": "बहुत कम हो जाता है।",
+        "B": "परिवर्तित नहीं होता है।",
+        "C": "बहुत अधिक बढ़ जाता है।",
+        "D": "निरंतर परिवर्तित होता है।"
+      }
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "A positively - charged particle (alpha - particle) projected towards west is deflected towards north by a magnetic field. The direction of the magnetic field is:",
+      "prashna": "पश्चिम की ओर प्रक्षेपित कोई धनावेशित कण (अल्फा कण) किसी चुंबकीय क्षेत्र द्वारा उत्तर की ओर विक्षेपित हो जाता है। चुंबकीय क्षेत्र की दिशा क्या है?",
+      "options": {
+        "A": "towards south",
+        "B": "towards east",
+        "C": "downward",
+        "D": "upward"
+      },
+      "vikalpa": {
+        "A": "दक्षिण की ओर",
+        "B": "पूर्व की ओर",
+        "C": "अधोमुखी",
+        "D": "उपरिमुखी"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "A rectangular coil of copper wire is being rotated in a magnetic field. The direction of the induced current in the coil changes once in each.",
+      "prashna": "ताँबे के तार की एक आयताकार कुंडली किसी चुंबकीय क्षेत्र में घूर्णी गति कर रही है। इस कुंडली में प्रेरित विद्युत धारा की दिशा में कितने परिभ्रमण के पश्चात् परिवर्तन होता है?",
+      "options": {
+        "A": "two revolutions",
+        "B": "one revaluation",
+        "C": "half revaluation",
+        "D": "one - fourth revolution"
+      },
+      "vikalpa": {
+        "A": "दो",
+        "B": "एक",
+        "C": "आधे",
+        "D": "चौथाई"
+      }
+    },
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "The magnetic field inside a long straight solenoid- carrying current -",
+      "prashna": "किसी विद्युत धारावाही सीधी लंबी परिनालिका के भीतर चुंबकीय क्षेत्र -",
+      "options": {
+        "A": "is zero",
+        "B": "decreases as we move towards its end.",
+        "C": "increases as we move towards its end.",
+        "D": "is the same at all points."
+      },
+      "vikalpa": {
+        "A": "शून्य होता है।",
+        "B": "इसके सिरे की ओर जाने पर घटता है।",
+        "C": "इसके सिरे की ओर जाने पर बढ़ता है।",
+        "D": "सभी बिन्दुओं पर समान होता है।"
+      }
+    },
     {
       "id": "obj_6",
       "type": "objective",
@@ -324,6 +592,48 @@
         "B": "गर्म तार में",
         "C": "भू-योजित तार में",
         "D": "इनमें से सभी"
+      }
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "Which material rod is used to make an electromagnet?",
+      "prashna": "विद्युत चुंबक बनाने के लिए किस पदार्थ के छड़ का उपयोग होता है",
+      "options": {
+        "A": "Steel",
+        "B": "Brass",
+        "C": "Soft iron",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "इस्पात",
+        "B": "पीतल",
+        "C": "नरम लोहा",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_56",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "A dynamo converts",
+      "prashna": "डायनेमो परिवर्तित करता है",
+      "options": {
+        "A": "Electrical energy into mechanical energy",
+        "B": "Mechanical energy into electrical energy",
+        "C": "Chemical energy into electrical energy",
+        "D": "Electrical energy into chemical energy"
+      },
+      "vikalpa": {
+        "A": "विद्युत ऊर्जा को यांत्रिक ऊर्जा में",
+        "B": "यांत्रिक ऊर्जा को विद्युत ऊर्जा मे",
+        "C": "रासायनिक ऊर्जा को विद्युत ऊर्जा में",
+        "D": "विद्युत ऊर्जा को रासायनिक ऊर्जा में"
       }
     }
   ],

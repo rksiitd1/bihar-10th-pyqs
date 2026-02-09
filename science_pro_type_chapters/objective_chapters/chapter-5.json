@@ -1,5 +1,657 @@
 {
+  "2011": [
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "How is the balance of oxygen maintained in nature?",
+      "prashna": "प्रकृति में ऑक्सीजन का संतुलन कैसे बना रहता है?",
+      "options": {
+        "A": "Combination reaction",
+        "B": "Photosynthesis",
+        "C": "Decomposition",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "संयोजन क्रिया",
+        "B": "प्रकाश संश्लेषण",
+        "C": "अपघटन",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "How much energy is released from the breakdown of ADP during respiration in plants?",
+      "prashna": "पौधों में श्वसन क्रिया के अन्तर्गत $ADP$ के टूटने से कितनी ऊर्जा मुक्त होती है",
+      "options": {
+        "A": "$30.5\text{ kJ/mol}$",
+        "B": "$305\text{ kJ/mol}$",
+        "C": "$3.5\text{ kJ/mol}$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$30.5\text{ kJ/mol}$",
+        "B": "$305\text{ kJ/mol}$",
+        "C": "$3.5\text{ kJ/mol}$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "How many chambers are there in the human heart?",
+      "prashna": "मानव हृदय में कितने कोष्ठ होते हैं?",
+      "options": {
+        "A": "Two",
+        "B": "Eight",
+        "C": "One",
+        "D": "Four"
+      },
+      "vikalpa": {
+        "A": "दो",
+        "B": "आठ",
+        "C": "एक",
+        "D": "चार"
+      }
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "The average systolic pressure of the human heart is approximately",
+      "prashna": "मानव हृदय का औसत प्रकुंचन दाब है लगभग",
+      "options": {
+        "A": "$120\text{ mm Hg}$",
+        "B": "$150\text{ mm Hg}$",
+        "C": "$90\text{ mm Hg}$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$120\text{ mm Hg}$",
+        "B": "$150\text{ mm Hg}$",
+        "C": "$90\text{ mm Hg}$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "In which part of plants does transpiration occur?",
+      "prashna": "पौधों में वाष्पोत्सर्जन किस भाग में होता है?",
+      "options": {
+        "A": "Root",
+        "B": "Stem",
+        "C": "Leaf",
+        "D": "Flower"
+      },
+      "vikalpa": {
+        "A": "जड़",
+        "B": "तना",
+        "C": "पत्ता",
+        "D": "फूल"
+      }
+    },
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "Which waste products does the artificial kidney separate from the blood by dialysis?",
+      "prashna": "कृत्रिम वृक्क किन अपशिष्ट उत्पादों को रुधिर से अपोहन द्वारा पृथक करता है?",
+      "options": {
+        "A": "Nitrogen",
+        "B": "Carbon",
+        "C": "Oxygen",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "नाइट्रोजन",
+        "B": "कार्बन",
+        "C": "ऑक्सीजन",
+        "D": "इनमें से सभी"
+      }
+    }
+  ],
+  "2012": [
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "Breakdown of pyruvate to give carbon dioxide, water and energy takes place in",
+      "prashna": "पायरुवेट के विखंडन से कार्बन-डाइऑक्साइड, जल तथा ऊर्जा देता है और यह क्रिया होती है।",
+      "options": {
+        "A": "Cytoplasm",
+        "B": "Mitochondria",
+        "C": "Chloroplast",
+        "D": "Nucleus"
+      },
+      "vikalpa": {
+        "A": "कोशिका द्रव्य में",
+        "B": "माइटोकॉन्ड्रिया में",
+        "C": "हरित लवक में",
+        "D": "केन्द्रक में"
+      }
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "In humans, the kidney is a part of a system which is related to",
+      "prashna": "मनुष्य में वृक्क एक तंत्र का भाग है, जो संबंधित है",
+      "options": {
+        "A": "nutrition",
+        "B": "respiration",
+        "C": "excretion",
+        "D": "transportation"
+      },
+      "vikalpa": {
+        "A": "पोषण से",
+        "B": "श्वसन से",
+        "C": "उत्सर्जन से",
+        "D": "परिवहन से"
+      }
+    }
+  ],
+  "2013": [
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "In the process of photosynthesis, oxygen is released from",
+      "prashna": "प्रकाश संश्लेषण क्रिया में ऑक्सीजन बाहर निकलता है",
+      "options": {
+        "A": "Water",
+        "B": "$CO_2$",
+        "C": "Glucose",
+        "D": "Dictyosomes"
+      },
+      "vikalpa": {
+        "A": "जल से",
+        "B": "$CO_2$ से",
+        "C": "ग्लूकोज से",
+        "D": "डिक्टियोजोम से"
+      }
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "Magnesium is found in",
+      "prashna": "मैग्नीशियम पाया जाता है",
+      "options": {
+        "A": "Chlorophyll",
+        "B": "Red Blood Corpuscles",
+        "C": "Chromoplast",
+        "D": "White Blood Corpuscles"
+      },
+      "vikalpa": {
+        "A": "क्लोरोफिल में",
+        "B": "लाल रक्त कण में",
+        "C": "वर्णी लवक में",
+        "D": "श्वेत रक्त कण में"
+      }
+    }
+  ],
+  "2014": [
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "Which of the following is vascular tissue?",
+      "prashna": "निम्नलिखित में कौन-सा संवहन ऊतक",
+      "options": {
+        "A": "Epidermis",
+        "B": "Phloem",
+        "C": "Xylem",
+        "D": "Both (B) and (C)"
+      },
+      "vikalpa": {
+        "A": "एपिडर्मिस",
+        "B": "फलोएम",
+        "C": "जाइलम",
+        "D": "(B) एवं (C) दोनों"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "How does protozoa excrete waste products?",
+      "prashna": "प्रोटोजोआ उत्सर्जी पदार्थों का निष्कासन कैसे करता है",
+      "options": {
+        "A": "By Osmosis",
+        "B": "By Diffusion",
+        "C": "By Absorption",
+        "D": "By Excretion"
+      },
+      "vikalpa": {
+        "A": "परासरण द्वारा",
+        "B": "विसरण द्वारा",
+        "C": "अवशोषण द्वारा",
+        "D": "निष्कासन द्वारा"
+      }
+    },
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "The largest gland of the human body is",
+      "prashna": "मनुष्य के शरीर की सबसे बड़ी ग्रन्थि है",
+      "options": {
+        "A": "Pancreas",
+        "B": "Ovary",
+        "C": "Adrenal",
+        "D": "Liver"
+      },
+      "vikalpa": {
+        "A": "अग्न्याशय",
+        "B": "अण्डाशय",
+        "C": "एड्रीनर",
+        "D": "यकृत"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "How many chambers are there in the human heart?",
+      "prashna": "मानव हृदय में कितने कोष्ठ होते हैं",
+      "options": {
+        "A": "Three",
+        "B": "Four",
+        "C": "Eight",
+        "D": "Two"
+      },
+      "vikalpa": {
+        "A": "तीन",
+        "B": "चार",
+        "C": "आठ",
+        "D": "दो"
+      }
+    },
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "What is blood?",
+      "prashna": "रक्त क्या है",
+      "options": {
+        "A": "Tissue",
+        "B": "Cell",
+        "C": "Substance",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "ऊतक",
+        "B": "कोशिका",
+        "C": "पदार्थ",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "End products of respiration are",
+      "prashna": "श्वसन के अंतिम उत्पाद हैं",
+      "options": {
+        "A": "$\text{CO}_2$ and $\text{H}_2\text{O}$",
+        "B": "$\text{CO}_2$ and Energy",
+        "C": "$\text{H}_2\text{O}$ and Energy",
+        "D": "$\text{CO}_2$, $\text{H}_2\text{O}$ and Energy"
+      },
+      "vikalpa": {
+        "A": "$\text{CO}_2$ और $\text{H}_2\text{O}$",
+        "B": "$\text{CO}_2$ और ऊर्जा",
+        "C": "$\text{H}_2\text{O}$ और ऊर्जा",
+        "D": "$\text{CO}_2$, $\text{H}_2\text{O}$ और ऊर्जा"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "The uppermost layer of a tooth is",
+      "prashna": "दाँत की सबसे ऊपरी परत है",
+      "options": {
+        "A": "Dentine",
+        "B": "Enamel",
+        "C": "Bone",
+        "D": "Crown"
+      },
+      "vikalpa": {
+        "A": "डेटाइन",
+        "B": "इनामेल",
+        "C": "अस्थि",
+        "D": "क्राउन"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "The longest part of the human alimentary canal is",
+      "prashna": "मानव आहार नाल का सबसे लम्बा भाग है",
+      "options": {
+        "A": "Stomach",
+        "B": "Small Intestine",
+        "C": "Oesophagus",
+        "D": "Large Intestine"
+      },
+      "vikalpa": {
+        "A": "आमाशय",
+        "B": "छोटा आँत",
+        "C": "ग्रासनली",
+        "D": "बड़ी आँत"
+      }
+    },
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "Sieve tubes are found in",
+      "prashna": "चालनी नलिकाएँ पायी जाती हैं",
+      "options": {
+        "A": "In animals",
+        "B": "In Xylem",
+        "C": "In Phloem",
+        "D": "In unicellular plants"
+      },
+      "vikalpa": {
+        "A": "जंतुओं में",
+        "B": "जाइलम में",
+        "C": "फलोएम में",
+        "D": "एककोशिकीय पौधों में"
+      }
+    },
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "Life-span of R.B.C. is",
+      "prashna": "R.B.C. की जीवन-अवधि होती है",
+      "options": {
+        "A": "120 days",
+        "B": "180 days",
+        "C": "80 days",
+        "D": "220 days"
+      },
+      "vikalpa": {
+        "A": "120 दिन",
+        "B": "180 दिन",
+        "C": "80 दिन",
+        "D": "220 दिन"
+      }
+    },
+    {
+      "id": "obj_55",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "Essential for autotrophic nutrition is",
+      "prashna": "स्वपोषी पोषण के लिए आवश्यक है",
+      "options": {
+        "A": "Chlorophyll",
+        "B": "Carbon dioxide and water",
+        "C": "Sunlight",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "क्लोरोफिल",
+        "B": "कार्बन डाइऑक्साइड तथा जल",
+        "C": "सूर्य का प्रकाश",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_56",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "Magnesium is found in",
+      "prashna": "मैग्नीशियम पाया जाता है",
+      "options": {
+        "A": "Chlorophyll",
+        "B": "Red blood cells",
+        "C": "Chromoplast",
+        "D": "White blood cells"
+      },
+      "vikalpa": {
+        "A": "क्लोरोफिल में",
+        "B": "लाल रक्त कण में",
+        "C": "वर्णी लवक में",
+        "D": "श्वेत रक्त कण में"
+      }
+    }
+  ],
+  "2015": [
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "Ethyl alcohol is formed in which type of respiration?",
+      "prashna": "इथाइल अल्कोहल किस प्रकार के श्वसन में बनता है ?",
+      "options": {
+        "A": "Aerobic",
+        "B": "Anaerobic",
+        "C": "Both (a) and (b)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "वायवीय",
+        "B": "अवायवीय",
+        "C": "(a) और (b) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "In which type of respiration is ethyl alcohol formed?",
+      "prashna": "इथाइल अल्कोहल किस प्रकार के श्वसन में बनता है?",
+      "options": {
+        "A": "Aerobic",
+        "B": "Anaerobic",
+        "C": "Both (A) and (B)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "वायवीय",
+        "B": "अवायवीय",
+        "C": "(A) और (B) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ],
+  "2016": [
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "Essential for autotrophic nutrition is",
+      "prashna": "स्वपोषी पोषण के लिए आवश्यक है",
+      "options": {
+        "A": "$CO_2$",
+        "B": "chlorophyll",
+        "C": "sunlight",
+        "D": "all of these"
+      },
+      "vikalpa": {
+        "A": "$CO_2$",
+        "B": "क्लोरोफिल",
+        "C": "सौर प्रकाश",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "The largest gland of human body is",
+      "prashna": "मनुष्य के शरीर की सबसे बड़ी ग्रन्थि है",
+      "options": {
+        "A": "liver",
+        "B": "pancreas",
+        "C": "ovary",
+        "D": "adrenal"
+      },
+      "vikalpa": {
+        "A": "लीवर",
+        "B": "अग्न्याशय",
+        "C": "अण्डाशय",
+        "D": "एड्रीनल"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "Necessary for autotrophic nutrition is:",
+      "prashna": "स्वपोषी पोषण के लिए आवश्यक है",
+      "options": {
+        "A": "$CO_2$",
+        "B": "Chlorophyll",
+        "C": "Sunlight",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "$CO_2$",
+        "B": "क्लोरोफिल",
+        "C": "सौर प्रकाश",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "The largest gland in the human body is:",
+      "prashna": "मनुष्य के शरीर की सबसे बड़ी ग्रंथि है",
+      "options": {
+        "A": "Liver",
+        "B": "Pancreas",
+        "C": "Ovary",
+        "D": "Adrenal"
+      },
+      "vikalpa": {
+        "A": "लीवर",
+        "B": "अग्न्याशय",
+        "C": "अण्डाशय",
+        "D": "एड्रीनल"
+      }
+    }
+  ],
   "2017": [
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "Responsible for clotting of blood-",
+      "prashna": "रक्त का थक्का बनाने में सहायक होता है-",
+      "options": {
+        "A": "R.B.C",
+        "B": "W.B.C",
+        "C": "Blood platelets",
+        "D": "None"
+      },
+      "vikalpa": {
+        "A": "लाल रक्त कोशिका",
+        "B": "श्वेत रक्त कोशिका",
+        "C": "रक्त विंबाणु",
+        "D": "कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "Structural & functional unit of kidney is called",
+      "prashna": "वृक्क की संरचनात्मक एवं क्रियात्मक इकाई को क्या कहते हैं?",
+      "options": {
+        "A": "Glomerulus",
+        "B": "Bowman's capsule",
+        "C": "Urinary tube",
+        "D": "Nephron"
+      },
+      "vikalpa": {
+        "A": "ग्लोमेरुलस",
+        "B": "बोमेन कैप्सूल",
+        "C": "मूत्रवाहिनी",
+        "D": "नेफ्रॉन"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "Conduction of water in algae is due to-",
+      "prashna": "एक कोशिकीय शैवाल में जल का परिवहन ________ द्वारा होता है।",
+      "options": {
+        "A": "Osmosis",
+        "B": "Diffusion",
+        "C": "Absorption",
+        "D": "Ascent of sap"
+      },
+      "vikalpa": {
+        "A": "परासरण",
+        "B": "विसरण",
+        "C": "अवशोषण",
+        "D": "रसारोहण"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "An adult human has .............. teeth in mouth.",
+      "prashna": "एक वयस्क मनुष्य के कितने दाँत होते हैं?",
+      "options": {
+        "A": "28",
+        "B": "30",
+        "C": "32",
+        "D": "34"
+      },
+      "vikalpa": {
+        "A": "28",
+        "B": "30",
+        "C": "32",
+        "D": "34"
+      }
+    },
     {
       "id": "obj_15",
       "type": "objective",
@@ -82,6 +734,86 @@
     }
   ],
   "2018": [
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "The Xylem in plants are responsible for -",
+      "prashna": "पादप में जाइलम उत्तरदायी है -",
+      "options": {
+        "A": "transport of water",
+        "B": "transport of food",
+        "C": "transport of amino acids",
+        "D": "transport of Oxygen"
+      },
+      "vikalpa": {
+        "A": "जल का वहन",
+        "B": "भोजन का पाचन",
+        "C": "अमीनो अम्ल का वहन",
+        "D": "ऑक्सीजन का वहन"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "Which of the following is known as 'energy currency' of cells?",
+      "prashna": "निम्नलिखित में किसे कोशिका का 'ऊर्जा मुद्रा' के रूप में जाना जाता है?",
+      "options": {
+        "A": "ADP",
+        "B": "ATP",
+        "C": "DTP",
+        "D": "PDP"
+      },
+      "vikalpa": {
+        "A": "ADP",
+        "B": "ATP",
+        "C": "DTP",
+        "D": "PDP"
+      }
+    },
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "Where does the exchange of gases take place in leaves?",
+      "prashna": "पत्तियों में गैसों का आदान-प्रदान कहाँ होता है?",
+      "options": {
+        "A": "vein",
+        "B": "stomata",
+        "C": "mid rib",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "शिरा",
+        "B": "रंध्र",
+        "C": "मध्यशिरा",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "The blood is pumped from heart to the entire body by the -",
+      "prashna": "हृदय से रक्त (रूधिर) को सम्पूर्ण शरीर में पंप किया जाता है -",
+      "options": {
+        "A": "lungs",
+        "B": "ventricles",
+        "C": "atria",
+        "D": "all of these"
+      },
+      "vikalpa": {
+        "A": "फेफड़ों द्वारा",
+        "B": "निलय द्वारा",
+        "C": "आलिंदों द्वारा",
+        "D": "इनमें सभी"
+      }
+    },
     {
       "id": "obj_27",
       "type": "objective",
@@ -664,6 +1396,568 @@
         "B": "यूरिक अम्ल",
         "C": "यूरिया",
         "D": "इनमें से सभी"
+      }
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "Which of the following is a vascular tissue?",
+      "prashna": "निम्नलिखित में कौन-सा संवहन ऊतक है?",
+      "options": {
+        "A": "Epidermis",
+        "B": "Phloem",
+        "C": "Xylem",
+        "D": "Both (B) and (C)"
+      },
+      "vikalpa": {
+        "A": "एपीडर्मिस",
+        "B": "फलोएम",
+        "C": "जाइलम",
+        "D": "(B) एवं (C) दोनों"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "How do protozoa excrete waste products?",
+      "prashna": "प्रोटोजोआ उत्सर्जी पदार्थों का निष्कासन कैसे करता है",
+      "options": {
+        "A": "By Osmosis",
+        "B": "By Diffusion",
+        "C": "By Absorption",
+        "D": "By Egestion"
+      },
+      "vikalpa": {
+        "A": "परासरण द्वारा",
+        "B": "विसरण द्वारा",
+        "C": "अवशोषण द्वारा",
+        "D": "निष्कासन द्वारा"
+      }
+    },
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "The largest gland of the human body is",
+      "prashna": "मनुष्य के शरीर की सबसे बड़ी ग्रन्थि है",
+      "options": {
+        "A": "Pancreas",
+        "B": "Ovary",
+        "C": "Adrenal",
+        "D": "Liver"
+      },
+      "vikalpa": {
+        "A": "अग्न्याशय",
+        "B": "अण्डाशय",
+        "C": "एड्रीननल",
+        "D": "यकृत"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "How many chambers are there in the human heart?",
+      "prashna": "मानव हृदय में कितने कोष्ठ होते हैं",
+      "options": {
+        "A": "Three",
+        "B": "Four",
+        "C": "Eight",
+        "D": "Two"
+      },
+      "vikalpa": {
+        "A": "तीन",
+        "B": "चार",
+        "C": "आठ",
+        "D": "दो"
+      }
+    },
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "What is blood?",
+      "prashna": "रक्त क्या है",
+      "options": {
+        "A": "Tissue",
+        "B": "Cell",
+        "C": "Substance",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "ऊतक",
+        "B": "कोशिका",
+        "C": "पदार्थ",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "The final products of respiration are",
+      "prashna": "श्वसन के अंतिम उत्पाद हैं",
+      "options": {
+        "A": "$CO_2$ and $H_2O$",
+        "B": "$CO_2$ and energy",
+        "C": "$H_2O$ and energy",
+        "D": "$CO_2$, $H_2O$ and energy"
+      },
+      "vikalpa": {
+        "A": "$CO_2$ और $H_2O$",
+        "B": "$CO_2$ और ऊर्जा",
+        "C": "$H_2O$ और ऊर्जा",
+        "D": "$CO_2$, $H_2O$ और ऊर्जा"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "The uppermost layer of the tooth is",
+      "prashna": "दाँत की सबसे ऊपरी परत है",
+      "options": {
+        "A": "Dentine",
+        "B": "Enamel",
+        "C": "Bone",
+        "D": "Crown"
+      },
+      "vikalpa": {
+        "A": "डेटाइन",
+        "B": "इनामेल",
+        "C": "अस्थि",
+        "D": "क्राउन"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "The longest part of the human alimentary canal is",
+      "prashna": "मानव आहार नाल का सबसे लम्बा भाग है",
+      "options": {
+        "A": "Stomach",
+        "B": "Small intestine",
+        "C": "Oesophagus",
+        "D": "Large intestine"
+      },
+      "vikalpa": {
+        "A": "आमाशय",
+        "B": "छोटा आंत",
+        "C": "ग्रासनली",
+        "D": "बड़ी आंत"
+      }
+    },
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "Sieve tubes are found in",
+      "prashna": "चालनी नलिकाएँ पायी जाती हैं",
+      "options": {
+        "A": "Animals",
+        "B": "Xylem",
+        "C": "Phloem",
+        "D": "Unicellular plants"
+      },
+      "vikalpa": {
+        "A": "जंतुओं में",
+        "B": "जाइलम में",
+        "C": "फलोएम में",
+        "D": "एककोशिकीय पौधों में"
+      }
+    },
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "The lifespan of R.B.C. is",
+      "prashna": "R.B.C. की जीवन-अवधि होती है",
+      "options": {
+        "A": "120 days",
+        "B": "180 days",
+        "C": "80 days",
+        "D": "220 days"
+      },
+      "vikalpa": {
+        "A": "120 दिन",
+        "B": "180 दिन",
+        "C": "80 दिन",
+        "D": "220 दिन"
+      }
+    },
+    {
+      "id": "obj_55",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "Necessary for autotrophic nutrition is",
+      "prashna": "स्वपोषी पोषण के लिए आवश्यक है",
+      "options": {
+        "A": "Chlorophyll",
+        "B": "Carbon dioxide and water",
+        "C": "Sunlight",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "क्लोरोफिल",
+        "B": "कार्बन डाइऑक्साइड तथा जल",
+        "C": "सूर्य का प्रकाश",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_56",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "Magnesium is found in",
+      "prashna": "मैग्नीशियम पाया जाता है",
+      "options": {
+        "A": "Chlorophyll",
+        "B": "Red blood cells",
+        "C": "Chromoplast",
+        "D": "White blood cells"
+      },
+      "vikalpa": {
+        "A": "क्लोरोफिल में",
+        "B": "लाल रक्त कण में",
+        "C": "वर्णी लवक में",
+        "D": "श्वेत रक्त कण में"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "The word 'nucleus' was given by whom?",
+      "prashna": "'न्यूक्लियस' शब्द किनके द्वारा दी गई है ?",
+      "options": {
+        "A": "Robert Brown",
+        "B": "Robert Hooke",
+        "C": "Palade",
+        "D": "Virchow"
+      },
+      "vikalpa": {
+        "A": "रॉबर्ट ब्राउन",
+        "B": "रॉबर्ट हुक",
+        "C": "पालाड",
+        "D": "विर्चाऊ"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "In what form is food stored in plants?",
+      "prashna": "पौधे में भोजन किस रूप में जमा होता है",
+      "options": {
+        "A": "Glucose",
+        "B": "Protein",
+        "C": "Starch",
+        "D": "Fatty acid"
+      },
+      "vikalpa": {
+        "A": "ग्लूकोज",
+        "B": "प्रोटीन",
+        "C": "स्टार्च",
+        "D": "फैटी एसीड"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "By whom was the famous book 'Micrographia' written?",
+      "prashna": "प्रसिद्ध पुस्तक 'द माइक्रोग्राफिया' किनके द्वारा लिखी गई थी ?",
+      "options": {
+        "A": "Robertson",
+        "B": "Brown",
+        "C": "Darwin",
+        "D": "Robert Hooke"
+      },
+      "vikalpa": {
+        "A": "रॉबर्टसन",
+        "B": "ब्राउन",
+        "C": "डार्विन",
+        "D": "रॉबर्ट हुक"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "What is the scientific study of plant and animal cells called?",
+      "prashna": "पौधों और पशुओं की कोशिकाओं का वैज्ञानिक अध्ययन क्या कहलाता है?",
+      "options": {
+        "A": "Genetics",
+        "B": "Cytology",
+        "C": "Cytogenetics",
+        "D": "Histology"
+      },
+      "vikalpa": {
+        "A": "आनुवंशिकी",
+        "B": "कोशिका विज्ञान",
+        "C": "साइटोजेनेटिक्स",
+        "D": "ऊतक विज्ञान"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "The human heart is surrounded by",
+      "prashna": "मानव हृदय घिरा हुआ है",
+      "options": {
+        "A": "Pericardium",
+        "B": "Xylem",
+        "C": "Phloem",
+        "D": "Plasma"
+      },
+      "vikalpa": {
+        "A": "पेरिकार्डियम से",
+        "B": "जाइलम से",
+        "C": "फ्लोएम के",
+        "D": "प्लाज्मा से"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "What is the lifespan of white blood cells in humans?",
+      "prashna": "मनुष्य में श्वेत रक्त कोशिकाओं की जीवन अवधि कितनी होती है",
+      "options": {
+        "A": "12 to 20 days",
+        "B": "2 to 3 months",
+        "C": "20 to 30 days",
+        "D": "More than 4 months"
+      },
+      "vikalpa": {
+        "A": "12 से 20 दिन",
+        "B": "2 से 3 महीना",
+        "C": "20 से 30 दिन",
+        "D": "4 महीना से अधिक"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "Where is bile juice secreted from?",
+      "prashna": "पित्त रस कहाँ से स्रावित होता है?",
+      "options": {
+        "A": "Liver",
+        "B": "Oral cavity",
+        "C": "Stomach",
+        "D": "Small intestine"
+      },
+      "vikalpa": {
+        "A": "यकृत",
+        "B": "मुख गुहा",
+        "C": "आमाशय",
+        "D": "छोटी आँत"
+      }
+    },
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "Which organism does not have hemoglobin?",
+      "prashna": "किस जीव में हीमोग्लोबिन नहीं होता है ?",
+      "options": {
+        "A": "Bird",
+        "B": "Housefly",
+        "C": "Human",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "पक्षी",
+        "B": "मक्खी",
+        "C": "मनुष्य",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "Which disease is caused by the deficiency of hemoglobin?",
+      "prashna": "हीमोग्लोबिन की कमी से कौन-सा रोग होता है?",
+      "options": {
+        "A": "Diabetes",
+        "B": "Jaundice",
+        "C": "Anemia",
+        "D": "Diarrhea"
+      },
+      "vikalpa": {
+        "A": "मधुमेह",
+        "B": "पीलिया",
+        "C": "एनीमिया",
+        "D": "डायरिया"
+      }
+    },
+    {
+      "id": "obj_43",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "Which is a vestigial organ in the human alimentary canal?",
+      "prashna": "मनुष्य के आहारनाल में अवशेषी अंग है",
+      "options": {
+        "A": "Colon",
+        "B": "Appendix",
+        "C": "Caecum",
+        "D": "Rectum"
+      },
+      "vikalpa": {
+        "A": "कोलन",
+        "B": "एपेंडिक्स",
+        "C": "सीकम",
+        "D": "रेक्टम"
+      }
+    },
+    {
+      "id": "obj_44",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "Which of the following is the function of the 'Trypsin' enzyme?",
+      "prashna": "निम्नांकित में कौन 'ट्रिप्सिन' एंजाइम का कार्य है ?",
+      "options": {
+        "A": "Digestion of fats",
+        "B": "Digestion of carbohydrates",
+        "C": "Digestion of proteins",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "वसा का पाचन",
+        "B": "कार्बोहाइड्रेट का पाचन",
+        "C": "प्रोटीन का पाचन",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_45",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "Which part of food is digested in the oral cavity?",
+      "prashna": "मुख गुहा में आहार का कौन-सा भाग का पाचन होता है।",
+      "options": {
+        "A": "Protein",
+        "B": "Carbohydrate",
+        "C": "Fat",
+        "D": "Nucleic acid"
+      },
+      "vikalpa": {
+        "A": "प्रोटीन",
+        "B": "काबोहाइड्रेट",
+        "C": "वसा",
+        "D": "न्यूक्लिक अम्ल"
+      }
+    },
+    {
+      "id": "obj_46",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "Who is the carrier of oxygen?",
+      "prashna": "ऑक्सीजन का वाहक कौन है?",
+      "options": {
+        "A": "WBC",
+        "B": "Lymph",
+        "C": "RBC",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "WBC",
+        "B": "लसीका",
+        "C": "RBC",
+        "D": "इनमें से कोई नही"
+      }
+    },
+    {
+      "id": "obj_71",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "Respiration in plants takes place in",
+      "prashna": "पौधों में श्वसन होता है।",
+      "options": {
+        "A": "Roots",
+        "B": "Leaves",
+        "C": "Stem",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "जड़ में",
+        "B": "पत्तियों में",
+        "C": "तना में",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_72",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "Who is an autotroph among the following?",
+      "prashna": "निम्न में स्वपोषी कौन है?",
+      "options": {
+        "A": "Green plants",
+        "B": "Fish",
+        "C": "Insects",
+        "D": "Amoeba"
+      },
+      "vikalpa": {
+        "A": "हरे पौधे",
+        "B": "मछली",
+        "C": "कीट",
+        "D": "अमीबा"
+      }
+    },
+    {
+      "id": "obj_73",
+      "type": "objective",
+      "chapter": "5",
+      "chapter_name": "Life Processes",
+      "question": "Which disease is related to the respiratory system?",
+      "prashna": "कौन-सी बीमारी श्वसन तंत्र संबंधित है?",
+      "options": {
+        "A": "Diarrhea",
+        "B": "Pneumonia",
+        "C": "Malaria",
+        "D": "Diabetes"
+      },
+      "vikalpa": {
+        "A": "डायरिया",
+        "B": "निमोनिया",
+        "C": "मलेरिया",
+        "D": "मधुमेह"
       }
     }
   ],

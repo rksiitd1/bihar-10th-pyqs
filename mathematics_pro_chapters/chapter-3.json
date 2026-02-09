@@ -1,5 +1,382 @@
 {
+  "2015": [
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Solve by graphical method: $2x + y = 6$ and $4x - 2y = 4$.",
+      "prashna": "ग्राफीय विधि से हल करें : $2x + y = 6$ तथा $4x - 2y = 4$।",
+      "marks": 5
+    }
+  ],
+  "2016": [
+    {
+      "id": "short_33",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Solve the following pair of linear equations by substitution method: $3x - 5y = 20$ and $x + 2y = 3$.",
+      "prashna": "प्रतिस्थापन विधि से निम्न रेखीय समीकरण युग्म का हल करें: $3x - 5y = 20$ और $x + 2y = 3$।"
+    },
+    {
+      "id": "short_35",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "The difference of two numbers is $26$ and one number is three times of other. Find the numbers.",
+      "prashna": "दो संख्याओं का अन्तर $26$ है और एक संख्या दूसरी संख्या की तीन गुनी है। उन्हें ज्ञात करें।"
+    },
+    {
+      "id": "long_44",
+      "type": "long_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Solve by graphical method: $x + 2y - 4 = 0$ and $2x + 4y - 12 = 0$.",
+      "prashna": "ग्राफिय विधि से हल करें: $x + 2y - 4 = 0$ तथा $2x + 4y - 12 = 0$।"
+    }
+  ],
+  "2017": [
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Solve by graphical method: $2x + y = 6$ and $4x - 2y = 4$",
+      "prashna": "ग्राफिय विधि से हल करें - $2x + y = 6$ तथा $4x - 2y = 4$"
+    },
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "The graphs of dependent simultaneous equations are ______ straight lines.",
+      "prashna": "आश्रित युगपत समीकरण के आलेख ______ सरल रेखाएँ होती है।"
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: $\frac{x}, {2} + \frac{2y}, {3} + 1 = 0$, $x - \frac{y}, {3} - 3 = 0$.",
+      "prashna": "हल करें: $\frac{x}, {2} + \frac{2y}, {3} + 1 = 0$, $x - \frac{y}, {3} - 3 = 0$."
+    },
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Five years ago, father's age was seven times the age of the son and five years hence, it will be three times. Find the present ages of father and son.",
+      "prashna": "पांच वर्ष पहले पिता की आयु, पुत्र की आयु की सात गुनी थी और पांच वर्ष बाद तीन गुनी हो जाएगी। पिता और पुत्र की वर्तमान आयु निकालें।"
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "A fraction becomes $\frac{1}, {3}$ when $1$ is subtracted from the numerator and it becomes $\frac{1}, {4}$ when $8$ is added to its denominator. Find the fraction.",
+      "prashna": "किसी भिन्न के अंश से $1$ घटाने पर $\frac{1}, {3}$ हो जाता है तथा इसके हर में $8$ जोड़ने पर $\frac{1}, {4}$ हो जाता है। भिन्न ज्ञात करें।"
+    }
+  ],
+  "2018": [
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "The pair of linear equations $x + 2y = 5$ and $3x + 12y = 10$ has-",
+      "prashna": "रैखिक समीकरण युग्म $x + 2y = 5$ तथा $3x + 12y = 10$ का -",
+      "options": {
+        "A": "unique solution",
+        "B": "no solution",
+        "C": "more than one solution",
+        "D": "infinitely many solution"
+      },
+      "vikalpa": {
+        "A": "एकल हल होगा",
+        "B": "कोई हल नहीं होगा",
+        "C": "एक से अधिक हल होगा",
+        "D": "अनन्त बहुआयामी हल होंगे"
+      }
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "If $0.3x - 0.37 = 0.37x - 0.3$, then x has the value -",
+      "prashna": "यदि $0.3x - 0.37 = 0.37x - 0.3$, तो $x$ का मान है -",
+      "options": {
+        "A": "-1",
+        "B": "-2",
+        "C": "+1",
+        "D": "+2"
+      },
+      "vikalpa": {
+        "A": "-1",
+        "B": "-2",
+        "C": "+1",
+        "D": "+2"
+      }
+    },
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "If $173x + 197y = 149$ and $197x + 173y = 221$, then $(x, y)$ will be",
+      "prashna": "यदि $173x + 197y = 149$ और $197x + 173y = 221$, तो $(x, y)$ होगा -",
+      "options": {
+        "A": "$(3, -2)$",
+        "B": "$(2, 1)$",
+        "C": "$(1, -2)$",
+        "D": "$(2, -1)$"
+      },
+      "vikalpa": {
+        "A": "$(3, -2)$",
+        "B": "$(2, 1)$",
+        "C": "$(1, -2)$",
+        "D": "$(2, -1)$"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "To determine a straight line, atleast $K$ points are required. Then $K$ is equal to-",
+      "prashna": "एक सरल रेखा को खींचने (निर्धारित करने) में $K$ बिन्दु आवश्यक है, तो $K$ का मान है -",
+      "options": {
+        "A": "4",
+        "B": "3",
+        "C": "2",
+        "D": "1"
+      },
+      "vikalpa": {
+        "A": "4",
+        "B": "3",
+        "C": "2",
+        "D": "1"
+      }
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Form a pair of linear equation for the problem - 5 pencil and 7 pens together cost ₹ 50, whereas 7 pencils and 5 pen together cost ₹ 46.",
+      "prashna": "रैखीय समीकरण युग्म दिए गये स्थिति में लिखें- $5$ पेन्सिल और $7$ पेन की कुल कीमत ₹ 50 है, परन्तु $7$ पेन्सिल और $5$ पेन की कुल कीमत ₹ 46 है।"
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "The cost of 4 chairs and 3 tables is ₹ 2100. Whereas that of 5 chairs and 2 table is ₹ 1750. Find cost of a chair and a table.",
+      "prashna": "$4$ कुर्सी तथा $3$ टेबल की कीमत ₹ 2100 है, जबकि $5$ कुर्सी तथा $2$ टेबल की कीमत ₹ 1750 है। एक कुर्सी तथा $1$ टेबल की कीमत बतावें।"
+    },
+    {
+      "id": "long_1_1",
+      "type": "long_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "A train covered a certain distance at a uniform speed. If the train would have been $10\text{km/hr}$ faster, it would have taken 2 hours less than the scheduled time, but if the train were slower by $10\text{km/hr}$, it would have taken 3 hours more than scheduled time. Find the distance covered by the train.",
+      "prashna": "एक ट्रेन एक नियत दूरी को एक समान गति से तय करती है। यदि ट्रेन की गति $10$ कि.मी./घण्टा अधिक होती तो यह दूरी नियत समय से $2$ घण्टा पहले पूरी हो जाती, परन्तु यदि ट्रेन की गति $10$ कि. मी./घण्टा कम होती तो यह दूरी नियत समय से $3$ घण्टा अधिक में पूरी होती। ट्रेन द्वारा तय की गयी दूरी की गणना करें।"
+    },
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Answer following sub-questions.",
+      "prashna": "निम्न अनुप्रश्नों के उत्तर दें।",
+      "sub_questions": {
+        "i": "Solve the pair of linear equations $px + qy = p - q$ and $qx - py = p + q$ for $x$ and $y$.",
+        "ii": "Find values of $a$ and $b$ for which the system of linear equations has infinite number of solution $(a + b)x - 2by = (5a + 2b + 1)$ and $3x - y = 14$"
+      },
+      "anuprashna": {
+        "i": "रैखीय समीकरण युग्म $px + qy = p - q$ तथा $qx - py = p + q$ को $x$ तथा $y$ के लिए हल करें।",
+        "ii": "रैखीय समीकरण युग्म $(a + b)x - 2by = (5a + 2b + 1)$ और $3x - y = 14$ के अनगिनत हल के लिए $a$ तथा $b$ का मान निर्धारित करें।"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "The pair of linear equations $x + 2y = 5$ and $3x + 12y = 10$ has-",
+      "prashna": "रैखिक समीकरण युग्म $x + 2y = 5$ तथा $3x + 12y = 10$ का -",
+      "options": {
+        "A": "unique solution",
+        "B": "no solution",
+        "C": "more than one solution",
+        "D": "infinitely many solution"
+      },
+      "vikalpa": {
+        "A": "एकल हल होगा",
+        "B": "कोई हल नहीं होगा",
+        "C": "एक से अधिक हल होगा",
+        "D": "अनन्त बहुआयामी हल होंगे"
+      }
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "If $0.3x - 0.37 = 0.37x - 0.3$, then $x$ has the value -",
+      "prashna": "यदि $0.3x - 0.37 = 0.37x - 0.3$, तो $x$ का मान है -",
+      "options": {
+        "A": "-1",
+        "B": "-2",
+        "C": "+1",
+        "D": "+2"
+      },
+      "vikalpa": {
+        "A": "-1",
+        "B": "-2",
+        "C": "+1",
+        "D": "+2"
+      }
+    },
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "If $173x + 197y = 149$ and $197x + 173y = 221$, then $(x, y)$ will be",
+      "prashna": "यदि $173x + 197y = 149$ और $197x + 173y = 221$, तो $(x, y)$ होगा-",
+      "options": {
+        "A": "$(3, -2)$",
+        "B": "$(2, 1)$",
+        "C": "$(1, -2)$",
+        "D": "$(2, -1)$"
+      },
+      "vikalpa": {
+        "A": "$(3, -2)$",
+        "B": "$(2, 1)$",
+        "C": "$(1, -2)$",
+        "D": "$(2, -1)$"
+      }
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Form a pair of linear equation for the problem - 5 pencil and 7 pens together cost ₹50, where as 7 pencils and 5 pen together cost ₹46.",
+      "prashna": "रैखीय समीकरण युग्म दिए गये स्थिति में लिखें- 5 पेन्सिल और 7 पेन की कुल कीमत ₹50 है, परन्तु 7 पेन्सिल और 5 पेन की कुल कीमत ₹46 है।"
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "The cost of 4 chairs and 3 tables is ₹2100. Where as that of 5 chairs and 2 table is ₹1750. Find cost of a chair and a table.",
+      "prashna": "4 कुर्सी तथा 3 टेबल की कीमत ₹2100 है, जबकि 5 कुर्सी तथा 2 टेबल की कीमत ₹1750 है। एक कुर्सी तथा 1 टेबल की कीमत बतावें।"
+    },
+    {
+      "id": "long_1_1",
+      "type": "long_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "A train covered a certain distance at a uniform speed. If the train would have been $10\text{km/hr}$ faster, it would have taken 2 hours less than the scheduled time, but if the train were slower by $10\text{km/hr}$, it would have taken 3 hours more than scheduled time. Find the distance covered by the train.",
+      "prashna": "एक ट्रेन एक नियत दूरी को एक समान गति से तय करती है। यदि ट्रेन की गति 10 कि.मी./घण्टा अधिक होती तो यह दूरी नियत समय से 2 घंटा पहले पूरी हो जाती, परन्तु यदि ट्रेन की गति 10 कि.मी./घण्टा कम होती तो यह दूरी नियत समय से 3 घंटा अधिक में पूरी होती। ट्रेन द्वारा तय की गयी दूरी की गणना करें।"
+    },
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "(i) Solve the pair of linear equations $px + qy = p - q$ and $qx - py = p + q$ for $x$ and $y$. (ii) Find values of $a$ and $b$ for which the system of linear equations has infinite number of solution $(a + b)x - 2by = (5a + 2b + 1)$ and $3x - y = 14$.",
+      "prashna": "(i) रैखीय समीकरण युग्म $px + qy = p - q$ तथा $qx - py = p + q$ को $x$ तथा $y$ के लिए हल करें। (ii) रैखीय समीकरण युग्म $(a + b)x - 2by = (5a + 2b + 1)$ और $3x - y = 14$ के अनगिनत हल के लिए $a$ तथा $b$ का मान निर्धारित करें।",
+      "sub_questions": {
+        "A": "Solve for $x$ and $y$: $px + qy = p - q$ and $qx - py = p + q$.",
+        "B": "Find $a, b$ for infinite solutions of $(a + b)x - 2by = (5a + 2b + 1)$ and $3x - y = 14$."
+      },
+      "anuprashna": {
+        "A": "$x$ तथा $y$ के लिए हल करें: $px + qy = p - q$ तथा $qx - py = p + q$ .",
+        "B": "$(a + b)x - 2by = (5a + 2b + 1)$ और $3x - y = 14$ के अनगिनत हल के लिए $a$ तथा $b$ ज्ञात करें।"
+      }
+    }
+  ],
   "2019": [
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Pair of equations x + 2y + 5 = 0 and -3x - 6y + 1 = 0 have-",
+      "prashna": "समीकरण युग्म x + 2y + 5 = 0 तथा -3x - 6y + 1 = 0 के हल हैं -",
+      "options": {
+        "A": "Unique solution",
+        "B": "Infinite solution",
+        "C": "No solution",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "अद्वितीय हल",
+        "B": "अनन्त हल",
+        "C": "कोई हल नहीं",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_43",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "If the equations $kx - 5y = 2$ and $6x + 2y = 7$ have no solutions, then-",
+      "prashna": "यदि समीकरण $kx - 5y = 2$ तथा $6x + 2y = 7$ के कोई हल न हों, तो -",
+      "options": {
+        "A": "k = -10",
+        "B": "k = -5",
+        "C": "k = -6",
+        "D": "k = -15"
+      },
+      "vikalpa": {
+        "A": "k = -10",
+        "B": "k = -5",
+        "C": "k = -6",
+        "D": "k = -15"
+      }
+    },
+    {
+      "id": "obj_45",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "If the graph of two linear equations in two variables is intersecting lines, then the number of solutions is -",
+      "prashna": "दो चर में दो एकघातीय समीकरणों के ग्राफ यदि प्रतिच्छेदी रेखाएँ हों, तो हलों की संख्या है-",
+      "options": {
+        "A": "Only one",
+        "B": "No solution",
+        "C": "Infinite solutions",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "सिर्फ एक",
+        "B": "कोई हल नहीं",
+        "C": "अनन्त हल",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Solve the system of equations $2x + y = 5$ and $3x + 2y = 8$ by cross-multiplication method.",
+      "prashna": "समीकरण निकाय $2x + y = 5$ और $3x + 2y = 8$ को वज्र गुणन विधि से हल करें।"
+    },
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Draw the graph of pair of equations 2x + 3y = 17 and 3x - 2y = 6 and solve them.",
+      "prashna": "समीकरण युग्म 2x + 3y = 17 तथा 3x - 2y = 6 का ग्राफ खींचें और हल करें।"
+    },
     {
       "id": "obj_2",
       "type": "objective",
@@ -1203,6 +1580,86 @@
       "chapter_name": "Pair of Linear Equations in Two Variables",
       "question": "A two digit number is four times of the sum of its digits and twice the product of its digits. Find the number.",
       "prashna": "दो अंकों की एक संख्या अपने अंकों के जोड़ की चार गुनी है एवं अपने अंकों के गुणनफल की दुगुनी है तो संख्या ज्ञात करें।"
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "How many solutions will $2x - 3y + 1 = 0$, $3x + y + 2 = 0$ have ?",
+      "prashna": "$2x - 3y + 1 = 0$, $3x + y + 2 = 0$ के कितने हल होंगे ?",
+      "options": {
+        "A": "One solution",
+        "B": "No solution",
+        "C": "Infinitely many solutions",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "एक हल",
+        "B": "कोई हल नहीं",
+        "C": "अनगिनत हल",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "If the graphs of two linear equations intersect, what will be the number of solutions ?",
+      "prashna": "दो रैखिक समीकरणों के लेखाचित्र यदि प्रतिच्छेदी हों तो हलों की संख्या कितनी होगी ?",
+      "options": {
+        "A": "2",
+        "B": "1",
+        "C": "infinitely many",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "1",
+        "C": "अनगिनत",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "The pair of linear equations $6x - 3y + 10 = 0$ and $2x - y + 9 = 0$ is",
+      "prashna": "रैखिक समीकरण युग्म $6x - 3y + 10 = 0$ एवं $2x - y + 9 = 0$ हैं",
+      "options": {
+        "A": "consistent",
+        "B": "inconsistent",
+        "C": "dependent",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "अविरोधी",
+        "B": "विरोधी",
+        "C": "आश्रित",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_57",
+      "type": "objective",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Which of the following points lies on the graph of $x = 5$ ?",
+      "prashna": "निम्नलिखित में कौन बिन्दु $x = 5$ के लेखाचित्र पर है ?",
+      "options": {
+        "A": "$(5, 0)$",
+        "B": "$(5, 2)$",
+        "C": "$(5, 3)$",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "$(5, 0)$",
+        "B": "$(5, 2)$",
+        "C": "$(5, 3)$",
+        "D": "इनमें से सभी"
+      }
     }
   ]
 }

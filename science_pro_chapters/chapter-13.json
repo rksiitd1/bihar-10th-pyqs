@@ -1,5 +1,529 @@
 {
+  "2011": [
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "Compare and contrast fossil fuels and the Sun as sources of energy.",
+      "prashna": "ऊर्जा स्रोत के रूप में जीवाश्म ईंधन तथा सूर्य की तुलना कीजिए और अन्तर लिखिए।"
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "What is biological magnification? Will the levels of this magnification be different at different levels of the ecosystem? Why?",
+      "prashna": "जैविक आवर्धन क्या है? क्या पारितंत्र के विभिन्न स्तरों पर जैविक आवर्धन का प्रभाव भी भिन्न होता है? क्यों ?"
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "In what kind of water does the dengue-causing mosquito breed?",
+      "prashna": "डेंगू उत्पन्न करनेवाला मच्छर किस तरह के जल में लगता है?",
+      "options": {
+        "A": "Clean water",
+        "B": "Dirty water",
+        "C": "Salty water",
+        "D": "Soft water"
+      },
+      "vikalpa": {
+        "A": "साफ जल",
+        "B": "गन्दा जल",
+        "C": "खरा जल",
+        "D": "मृदु जल"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "Which of the following is not a source of biogas fuel?",
+      "prashna": "निम्नलिखित में से कोन बायोगैस ईंधन का स्रोत नहीं है?",
+      "options": {
+        "A": "Wood",
+        "B": "Gobar gas",
+        "C": "Nuclear energy",
+        "D": "Coal"
+      },
+      "vikalpa": {
+        "A": "लकड़ी",
+        "B": "गोबर गैस",
+        "C": "नाभिकीय ऊर्जा",
+        "D": "कोयला"
+      }
+    }
+  ],
+  "2012": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "Write the names of two energy sources that you consider renewable.",
+      "prashna": "ऐसे दो ऊर्जा स्रोतों के नाम लिखिए जिन्हें आप नवीकरणीय मानते हैं।"
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "What is ozone and how does it affect any ecosystem?",
+      "prashna": "ओजोन क्या है तथा यह किसी पारितंत्र को किस प्रकार प्रभावित करती है?"
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "What changes can you bring in your habits to become environment-friendly?",
+      "prashna": "पर्यावरण-मित्र बनाने के लिए आप अपनी आदतों में कौन-से परिवर्तन ला सकते हैं?"
+    },
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "Which of the following is not an example of a bio-mass energy source?",
+      "prashna": "निम्नलिखित में से कौन जैव मात्रा ऊर्जा स्रोत का उदाहरण नहीं है?",
+      "options": {
+        "A": "Wood",
+        "B": "Gobar-gas",
+        "C": "Nuclear energy",
+        "D": "Coal"
+      },
+      "vikalpa": {
+        "A": "लकड़ी",
+        "B": "गोबर गैस",
+        "C": "नाभिकीय ऊर्जा",
+        "D": "कोयला"
+      }
+    },
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "The number of oxygen atoms in a molecule of ozone is",
+      "prashna": "ओजोन के अणु में ऑक्सीजन के परमाणु की संख्या होती है।",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      }
+    }
+  ],
+  "2013": [
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "What steps are necessary for forest conservation?",
+      "prashna": "वन संरक्षण हेतु क्या कदम आवश्यक हैं?"
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "Explain the food web in brief.",
+      "prashna": "खाद्य जाल की संक्षिप्त व्याख्या करें।"
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "Write the cause of depletion of the ozone layer.",
+      "prashna": "ओजोन परत के क्षय का कारण लिखें।"
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "Necessary for obtaining nuclear energy is",
+      "prashna": "नाभिकीय ऊर्जा प्राप्त करने हेतु आवश्यक है",
+      "options": {
+        "A": "Helium",
+        "B": "Chromium",
+        "C": "Uranium",
+        "D": "Aluminum"
+      },
+      "vikalpa": {
+        "A": "हीलियम",
+        "B": "क्रोमियम",
+        "C": "यूरेनियम",
+        "D": "एल्युमिनियम"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "The gas responsible for global warming is",
+      "prashna": "ग्लोबल वार्मिंग के लिए उत्तरदायी गैस है।",
+      "options": {
+        "A": "$O_2$",
+        "B": "$NH_3$",
+        "C": "$CO_2$",
+        "D": "$N_2$"
+      },
+      "vikalpa": {
+        "A": "$O_2$",
+        "B": "$NH_3$",
+        "C": "$CO_2$",
+        "D": "$N_2$"
+      }
+    }
+  ],
+  "2014": [
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "The source of energy in an ecosystem is",
+      "prashna": "पारिस्थितिकी तंत्र में ऊर्जा का स्रोत है",
+      "options": {
+        "A": "Air",
+        "B": "Sunlight",
+        "C": "Rain water",
+        "D": "Soil"
+      },
+      "vikalpa": {
+        "A": "वायु",
+        "B": "सूर्य प्रकाश",
+        "C": "वर्षा जल",
+        "D": "मिट्टी"
+      }
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "Green plants are called",
+      "prashna": "हरे पौधे कहलाते हैं",
+      "options": {
+        "A": "Producers",
+        "B": "Consumers",
+        "C": "Decomposers",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "उत्पादक",
+        "B": "उपभोक्ता",
+        "C": "अपघटक",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "Ozone layer is found in",
+      "prashna": "ओजोन परत पायी जाती है",
+      "options": {
+        "A": "In Stratosphere",
+        "B": "In Exosphere",
+        "C": "In Ionosphere",
+        "D": "In Troposphere"
+      },
+      "vikalpa": {
+        "A": "स्ट्रेटोस्फियर में",
+        "B": "एक्सोस्फियर में",
+        "C": "आयनोस्फियर में",
+        "D": "ट्रोपोस्फियर में"
+      }
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "Which of the following is not an example of a biomass energy source?",
+      "prashna": "जीव द्रव्यमान ऊर्जा स्रोत का उदाहरण निम्नलिखित में कौन नहीं है?",
+      "options": {
+        "A": "Petroleum",
+        "B": "Biogas",
+        "C": "Nuclear energy",
+        "D": "Coal"
+      },
+      "vikalpa": {
+        "A": "पेट्रोलियम",
+        "B": "बायोगैस",
+        "C": "नाभिकीय ऊर्जा",
+        "D": "कोयला"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "What should be the minimum speed of wind in a wind electric generator?",
+      "prashna": "पवन विद्युत जनित्र में पवन की चाल कम-से-कम कितनी होनी चाहिए?",
+      "options": {
+        "A": "15 km/h",
+        "B": "150 km/h",
+        "C": "1.5 km/h",
+        "D": "1500 km/h"
+      },
+      "vikalpa": {
+        "A": "15 किमी/घंटा",
+        "B": "150 किमी/घंटा",
+        "C": "1.5 किमी/घंटा",
+        "D": "1500 किमी/घंटा"
+      }
+    },
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "The main source of energy on Earth in nature is",
+      "prashna": "प्रकृति में पृथ्वी पर ऊर्जा का मुख्य स्रोत है",
+      "options": {
+        "A": "Coal",
+        "B": "Sun",
+        "C": "Water",
+        "D": "Wood"
+      },
+      "vikalpa": {
+        "A": "कोयला",
+        "B": "सूर्य",
+        "C": "पानी",
+        "D": "लकड़ी"
+      }
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "Green plants are called",
+      "prashna": "हरे पौधे कहलाते हैं",
+      "options": {
+        "A": "Producers",
+        "B": "Decomposers",
+        "C": "Consumers",
+        "D": "Food chain"
+      },
+      "vikalpa": {
+        "A": "उत्पादक",
+        "B": "अपघटक",
+        "C": "उपभोक्ता",
+        "D": "आहार शृंखला"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "Which of the following is an example of 'ground water'?",
+      "prashna": "निम्नलिखित में से कौन एक 'भूमिगत जल' का उदाहरण है?",
+      "options": {
+        "A": "River",
+        "B": "Well",
+        "C": "Pond",
+        "D": "Sea"
+      },
+      "vikalpa": {
+        "A": "नदी",
+        "B": "कुआँ",
+        "C": "तालाब",
+        "D": "समुद्र"
+      }
+    }
+  ],
+  "2015": [
+    {
+      "id": "short_21",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "Which chemical is responsible for depletion of ozone layer?",
+      "prashna": "कौन-सा रसायन ओजोन स्तर के अवक्षय के लिए उत्तरदायी है ?"
+    },
+    {
+      "id": "short_25",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "What are the functions of producers in an ecosystem?",
+      "prashna": "पारिस्थितिक तंत्र में उत्पादकों के क्या कार्य हैं ?"
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "Ozone layer is found in",
+      "prashna": "ओजोन परत पाई जाती है",
+      "options": {
+        "A": "Stratosphere",
+        "B": "Exosphere",
+        "C": "Ionosphere",
+        "D": "Troposphere"
+      },
+      "vikalpa": {
+        "A": "स्ट्रेटोस्फियर में",
+        "B": "एक्सोस्फियर में",
+        "C": "आयनास्फियर में",
+        "D": "ट्रोपोस्फियर में"
+      }
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "What are the functions of producers in an ecosystem?",
+      "prashna": "पारिस्थितिक तंत्र में उत्पादकों के क्या कार्य हैं?"
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "The ozone layer is found in:",
+      "prashna": "ओजोन परत पायी जाती है।",
+      "options": {
+        "A": "Stratosphere",
+        "B": "Exosphere",
+        "C": "Ionosphere",
+        "D": "Troposphere"
+      },
+      "vikalpa": {
+        "A": "स्रेटोस्फियर में",
+        "B": "एक्सोस्फियर में",
+        "C": "आयनोस्फियर में",
+        "D": "ट्रोपोस्फियर में"
+      }
+    }
+  ],
+  "2016": [
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "Give one feature of solar energy.",
+      "prashna": "सौर ऊर्जा की एक विशेषता लिखें।"
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "Give one suggestion for the conservation of forest.",
+      "prashna": "वन संरक्षण के एक सुझाव बताएँ।"
+    },
+    {
+      "id": "short_19",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "What are the resources of non-renewable energy ?",
+      "prashna": "ऊर्जा के अनवीकरणीय संसाधन कौन-कौन हैं ?"
+    },
+    {
+      "id": "long_2_1",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "What is energy crisis ? Describe its remedy.",
+      "prashna": "ऊर्जा संकट क्या है ? इसके समाधान का उल्लेख करें।"
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "The presence of $CO_2$ gas in atmosphere is",
+      "prashna": "वायुमंडल में $CO_2$ गैस की उपस्थिति है",
+      "options": {
+        "A": "0.01%",
+        "B": "0.05%",
+        "C": "0.03%",
+        "D": "0.02%"
+      },
+      "vikalpa": {
+        "A": "0.01%",
+        "B": "0.05%",
+        "C": "0.03%",
+        "D": "0.02%"
+      }
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "What are the non-renewable sources of energy?",
+      "prashna": "ऊर्जा के अनवीकरणीय संसाधन कौन-कौन हैं?"
+    },
+    {
+      "id": "long_2_1",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "What is an energy crisis? Mention its solutions.",
+      "prashna": "ऊर्जा संकट क्या है? इसके समाधान का उल्लेख करें।"
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "The presence of $CO_2$ gas in the atmosphere is:",
+      "prashna": "वायुमंडल में $CO_2$ गैस की उपस्थिति है",
+      "options": {
+        "A": "0.01%",
+        "B": "0.05%",
+        "C": "0.03%",
+        "D": "0.02%"
+      },
+      "vikalpa": {
+        "A": "0.01%",
+        "B": "0.05%",
+        "C": "0.03%",
+        "D": "0.02%"
+      }
+    }
+  ],
   "2017": [
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "Describe the role of decomposers in ecosystem.",
+      "prashna": "परितंत्र में अपघटकों की भूमिका बतायें।"
+    },
+    {
+      "id": "short_27",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "What do you understand by producer?",
+      "prashna": "उत्पादक से आप क्या समझते हैं?"
+    },
     {
       "id": "short_12",
       "type": "short_answer",
@@ -10,6 +534,70 @@
     }
   ],
   "2018": [
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "The main aim of 'Chipko Movement' was to conserve -",
+      "prashna": "'चिपको आन्दोलन' का मुख्य उद्देश्य संरक्षित करना था -",
+      "options": {
+        "A": "soil",
+        "B": "trees",
+        "C": "water",
+        "D": "electricity"
+      },
+      "vikalpa": {
+        "A": "मिट्टी को",
+        "B": "वृक्षों को",
+        "C": "जल को",
+        "D": "बिजली को"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "Which of the following groups contains only biodegradable items?",
+      "prashna": "निम्न में से कौन -से समूहों में केवल जैव निम्नीकरणीय पदार्थ हैं -",
+      "options": {
+        "A": "Grass, flowers and leather",
+        "B": "Grass, wood and plastic",
+        "C": "Fruits-peels, cake and rubber",
+        "D": "Cake, wood and grass"
+      },
+      "vikalpa": {
+        "A": "घास, पुष्प तथा चमड़ा",
+        "B": "घास, लकड़ी तथा प्लास्टिक",
+        "C": "फसलों के छिलके, केक एवं रबर",
+        "D": "केक, लकड़ी एवं घास"
+      }
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "What are the disadvantages of fossil fuels?",
+      "prashna": "जीवाश्मी ईंधन की क्या हानियाँ हैं?"
+    },
+    {
+      "id": "short_17",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "What are trophic levels? Give an example of a food chain.",
+      "prashna": "पोषी स्तर क्या है? एक आहार श्रृंखला का उदाहरण दीजिए।"
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "Why should we conserve forests and wildlife?",
+      "prashna": "हमें वन एवं वन्य जीवन का संरक्षण क्यों करना चाहिए?"
+    },
     {
       "id": "obj_12",
       "type": "objective",
@@ -597,6 +1185,104 @@
       "chapter_name": "Our Environment",
       "question": "How does formation and depletion of ozone take place ?",
       "prashna": "ओजोन का निर्माण एवं अपक्षय किस प्रकार होता है ?"
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "The source of energy in an ecosystem is",
+      "prashna": "पारिस्थितिकी तंत्र में ऊर्जा का स्रोत है",
+      "options": {
+        "A": "Air",
+        "B": "Sunlight",
+        "C": "Rain water",
+        "D": "Soil"
+      },
+      "vikalpa": {
+        "A": "वायु",
+        "B": "सूर्य प्रकाश",
+        "C": "वर्षा जल",
+        "D": "मिट्टी"
+      }
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "Green plants are called",
+      "prashna": "हरे पौधे कहलाते हैं",
+      "options": {
+        "A": "Producers",
+        "B": "Consumers",
+        "C": "Decomposers",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "उत्पादक",
+        "B": "उपभोक्ता",
+        "C": "अपघटक",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "The ozone layer is found in",
+      "prashna": "ओजोन परत पायी जाती है",
+      "options": {
+        "A": "Stratosphere",
+        "B": "Exosphere",
+        "C": "Ionosphere",
+        "D": "Troposphere"
+      },
+      "vikalpa": {
+        "A": "स्ट्रेटोस्फियर में",
+        "B": "एक्सोस्फियर में",
+        "C": "आयनोस्फियर में",
+        "D": "ट्रोपोस्फियर में"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "What is the number of atoms of oxygen in a molecule of ozone?",
+      "prashna": "ओजोन के एक अणु में आक्सीजन के परमाणुओं की संख्या कितनी होती है?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      }
+    },
+    {
+      "id": "short_23",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "What do you understand by pollution?",
+      "prashna": "प्रदूषण से आप क्या समझते हैं?"
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Our Environment",
+      "question": "What is the impact of deforestation on wild animals?",
+      "prashna": "वनों की कटाई का वन्य जीवों पर क्या प्रभाव पड़ता है?"
     }
   ],
   "2022": [
