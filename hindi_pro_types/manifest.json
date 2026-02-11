@@ -2,37 +2,37 @@
   {
     "type": "comprehension",
     "file": "type-comprehension.json",
-    "total_items": 48,
-    "years": 9
+    "total_items": 54,
+    "years": 10
   },
   {
     "type": "essay",
     "file": "type-essay.json",
-    "total_items": 47,
-    "years": 9
+    "total_items": 49,
+    "years": 10
   },
   {
     "type": "letter_writing",
     "file": "type-letter_writing.json",
-    "total_items": 26,
-    "years": 9
+    "total_items": 30,
+    "years": 10
   },
   {
     "type": "short",
     "file": "type-short.json",
-    "total_items": 130,
+    "total_items": 150,
+    "years": 10
+  },
+  {
+    "type": "long",
+    "file": "type-long.json",
+    "total_items": 27,
     "years": 9
   },
   {
     "type": "objective",
     "file": "type-objective.json",
     "total_items": 930,
-    "years": 8
-  },
-  {
-    "type": "long",
-    "file": "type-long.json",
-    "total_items": 23,
     "years": 8
   }
 ]
