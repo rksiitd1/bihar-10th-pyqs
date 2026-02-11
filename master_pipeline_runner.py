@@ -5,26 +5,42 @@ import os
 import time
 
 def run_script(script_name):
-    """Runs a python script and checking for errors."""
+    """Runs a python script with Pause/Resume/Exit capability."""
     print(f"\n{'='*60}")
     print(f"🚀 RUNNING: {script_name}")
     print(f"{'='*60}")
     
-    start_time = time.time()
-    try:
-        # Run the script and let it print to the console
-        result = subprocess.run([sys.executable, script_name], check=False)
-        
-        duration = time.time() - start_time
-        if result.returncode == 0:
-            print(f"\n✅ FINISHED: {script_name} (Time: {duration:.2f}s)")
-            return True
-        else:
-            print(f"\n❌ FAILED: {script_name} (Return Code: {result.returncode})")
+    while True:
+        start_time = time.time()
+        try:
+            # Run the script and let it print to the console
+            result = subprocess.run([sys.executable, script_name], check=False)
+            
+            duration = time.time() - start_time
+            if result.returncode == 0:
+                print(f"\n✅ FINISHED: {script_name} (Time: {duration:.2f}s)")
+                return True
+            else:
+                print(f"\n❌ FAILED: {script_name} (Return Code: {result.returncode})")
+                return False
+        except KeyboardInterrupt:
+            print(f"\n\n⚠️  PAUSED: Pipeline interrupted during {script_name}")
+            while True:
+                choice = input("\nOptions: (C)ontinue/Restart, (S)kip, (Q)uit/Total Exit: ").strip().lower()
+                if choice == 'c':
+                    print(f"🔄 Restarting {script_name}...")
+                    break # Break inner loop, retry outer loop
+                elif choice == 's':
+                    print(f"⏭️ Skipping {script_name}...")
+                    return False
+                elif choice == 'q':
+                    print("🛑 Quitting Master Pipeline...")
+                    sys.exit(1)
+                else:
+                    print("Invalid choice. Please enter C, S, or Q.")
+        except Exception as e:
+            print(f"\n❌ ERROR execution {script_name}: {e}")
             return False
-    except Exception as e:
-        print(f"\n❌ ERROR execution {script_name}: {e}")
-        return False
 
 def main():
     print("Starting Master Pipeline Runner...")
