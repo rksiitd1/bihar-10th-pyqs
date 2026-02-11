@@ -90,26 +90,64 @@ def process_question_paper(input_pdf_path: str, output_json_path: str):
     import google.generativeai as genai
     utils.configure_genai()
 
-    logger.info("Uploading file...")
-    print("Uploading file...")
-    try:
-        uploaded_file = genai.upload_file(path=input_path, display_name=input_path.name)
-        logger.info(f"File uploaded: {uploaded_file.uri}")
-    except Exception as e:
-        logger.error(f"Upload failed: {e}")
-        raise
-
     logger.info("Generating content...")
     print("Generating content...")
-    prompt_parts = generate_extraction_prompt(uploaded_file.uri)
+    
+    # 1. Prepare raw prompt text
+    # We use a helper here or just copy the logic - keeping it simple:
+    prompt_text = textwrap.dedent("""
+    Your task is to act as an expert data extraction engine. You will receive a PDF file of a Bihar Board Class 10 English question paper. You must meticulously extract all questions and convert them into a single, clean JSON array.
+
+    Follow these instructions precisely:
+
+    1.  **JSON Structure**: The output must be a JSON array where each element is an object representing a single question.
+    2.  **Required Fields for All Questions**:
+        - `id`: A unique string identifier. For each question type, numbering must start from 1. 
+          - Examples: "obj_1", "passage_1", "essay_1", "letter_1", "short_1", "long_1".
+          - The numbering for each type must always start at 1.
+        - `type`: The question type. You MUST categorize each question into one of the following granular types:
+          - `objective`: Section A (Grammar + Textbook MCQs).
+          - `passage`: Reading Comprehension (Unseen Passages).
+          - `poem`: Poetry Comprehension (Read the poem and answer).
+          - `essay`: Paragraph Writing options.
+          - `letter`: Letter Writing / Application Writing options.
+          - `short_answer`: Short answer type questions from the textbook (e.g., Answer any 5).
+          - `long_answer`: Long answer type questions from the textbook (e.g., Answer any 1).
+          - `translation`: Translation questions (Hindi to English) if present.
+        - `question`: The full English text of the question.
+        - `prashna`: The Hindi text of the question if it exists in the paper.
+          - **CRITICAL**: Since this is an English paper, most questions usually DO NOT have Hindi text.
+          - If NO Hindi text exists for a question, you MUST Translate the "question" into Hindi and put it in "prashna".
+          - Do NOT leave `prashna` empty.
+
+    3.  **Handling Alternatives**:
+        - If two or more questions are given as alternatives (using "OR" / "Athva"), represent them as distinct objects with IDs like `letter_1_1`, `letter_1_2`.
+
+    4.  **Fields for "objective" Type Questions**:
+        - `options`: An object containing the options, with keys "A", "B", "C", "D".
+        - `vikalpa`: Translate the options to Hindi for this field.
+
+    5.  **Fields for Questions with Sub-Questions (e.g., Passages)**:
+        - If a question (like a Passage) contains sub-questions:
+            - `sub_questions`: An object where keys are "1", "2", "3" etc., and values are the sub-question text.
+            - `anuprashna`: Translated Hindi version of sub-questions.
+            - `context`: The full text of the Passage or Poem itself.
+
+    6.  **Accuracy & Formatting**:
+        - Extract text exactly as it appears.
+        - Preserve formatting where possible.
+        - Do not add external text.
+
+    Begin processing now and generate only the JSON array as your output.
+    """)
+
     model = utils.get_generative_model(model_name="models/gemini-3-flash-preview")
     
-    response = utils.generate_content_with_retry(model, prompt_parts, logger=logger)
+    # Use the new file-aware utility
+    response = utils.generate_content_from_file_with_retry(model, input_pdf_path, prompt_text, logger=logger)
 
     if not response:
-        logger.error("API call failed")
-        try: genai.delete_file(uploaded_file.name)
-        except: pass
+        logger.error("Extraction failed after multiple key attempts.")
         return
 
     # Save raw response IMMEDIATELY

@@ -83,26 +83,56 @@ def process_question_paper(input_pdf_path: str, output_json_path: str):
     import google.generativeai as genai
     utils.configure_genai()
 
-    logger.info("Uploading file...")
-    print("Uploading file...")
-    try:
-        uploaded_file = genai.upload_file(path=input_path, display_name=input_path.name)
-        logger.info(f"File uploaded: {uploaded_file.uri}")
-    except Exception as e:
-        logger.error(f"Upload failed: {e}")
-        raise
-
     logger.info("Generating content...")
     print("Generating content...")
-    prompt_parts = generate_extraction_prompt(uploaded_file.uri)
+    
+    # 1. Prepare raw prompt text
+    prompt_text = textwrap.dedent("""
+    Your task is to act as an expert data extraction engine. You will receive a PDF file of a Bihar Board Class 10 Hindi question paper. You must meticulously extract all questions and convert them into a single, clean JSON array.
+
+    Follow these instructions precisely:
+
+    1.  **JSON Structure**: The output must be a JSON array where each element is an object representing a single question.
+    2.  **Required Fields for All Questions**:
+        - `id`: A unique string identifier. Numbering must start from 1 for EACH type. 
+          - Examples: "obj_1", "gadyansh_1", "nibandh_1", "patra_1", "short_1", "long_1".
+        - `type`: Categorize each question into one of these types:
+          - `objective`: Section A (Vastunisth Prashna).
+          - `comprehension`: Unseen Passages (Gadyansh).
+          - `essay`: Essay Writing (Nibandh).
+          - `letter_writing`: Letter/Application (Patra Lekhan).
+          - `short_answer`: Short Answer Questions (Laghu Uttariya).
+          - `long_answer`: Long Answer Questions (Dirgha Uttariya).
+        - `question`: The text of the question (in Hindi).
+        - `prashna`: Same as `question` (since it is already Hindi).
+        - `instructions`: Any specific instructions (e.g., "Answer any 5").
+
+    3.  **Handling Alternatives**:
+        - If questions have alternatives (OR/Athva), create separate objects with IDs like `long_1_1`, `long_1_2`.
+
+    4.  **Fields for "objective" Type**:
+        - `options`: An object with keys "A", "B", "C", "D".
+        - `vikalpa`: Same as `options` (since it is Hindi copy to both).
+
+    5.  **Fields for "comprehension" (Gadyansh)**:
+        - `context`: The full text of the passage (Gadyansh).
+        - `sub_questions`: Object containing the questions based on the passage.
+        - `anuprashna`: Same as `sub_questions`.
+
+    6.  **Accuracy**:
+        - Preserve all Hindi text exactly.
+        - Do not translate Hindi to English unless explicitly asked (not required here).
+
+    Begin processing now.
+    """)
+
     model = utils.get_generative_model(model_name="models/gemini-3-flash-preview")
     
-    response = utils.generate_content_with_retry(model, prompt_parts, logger=logger)
+    # Use the new file-aware utility
+    response = utils.generate_content_from_file_with_retry(model, input_pdf_path, prompt_text, logger=logger)
 
     if not response:
-        logger.error("API call failed after retries")
-        try: genai.delete_file(uploaded_file.name)
-        except: pass
+        logger.error("Extraction failed after multiple key attempts.")
         return
 
     # Save raw response IMMEDIATELY

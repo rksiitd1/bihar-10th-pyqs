@@ -1,0 +1,953 @@
+[
+    {
+        "id": "obj_1",
+        "type": "objective",
+        "question": "The 'Koel', is hidden in -",
+        "prashna": "'कोयल' कहाँ छिपी है -",
+        "options": {
+            "A": "Forests",
+            "B": "Mango - leaves",
+            "C": "Fields",
+            "D": "Mountains"
+        },
+        "vikalpa": {
+            "A": "जंगलों में",
+            "B": "आम के पत्तों में",
+            "C": "खेतों में",
+            "D": "पहाड़ों में"
+        }
+    },
+    {
+        "id": "obj_2",
+        "type": "objective",
+        "question": "'Martha', had clear and .........eyes.",
+        "prashna": "'मार्था' की आँखें साफ़ और ......... थीं।",
+        "options": {
+            "A": "blue",
+            "B": "grey",
+            "C": "white",
+            "D": "red"
+        },
+        "vikalpa": {
+            "A": "नीली",
+            "B": "धूसर (ग्रे)",
+            "C": "सफेद",
+            "D": "लाल"
+        }
+    },
+    {
+        "id": "obj_3",
+        "type": "objective",
+        "question": "'The Sleeping Porter', was wearing a ...........cap.",
+        "prashna": "'द स्लीपिंग पोर्टर' (सोता हुआ कुली) ने एक ........... टोपी पहनी हुई थी।",
+        "options": {
+            "A": "black",
+            "B": "blue",
+            "C": "brown",
+            "D": "white"
+        },
+        "vikalpa": {
+            "A": "काली",
+            "B": "नीली",
+            "C": "भूरी",
+            "D": "सफेद"
+        }
+    },
+    {
+        "id": "obj_4",
+        "type": "objective",
+        "question": "Pope, in the poem 'Ode on Solitude', says that village people get everything except -",
+        "prashna": "पोप, अपनी कविता 'ओड ऑन सॉलिट्यूड' में कहते हैं कि गाँव के लोगों को इसके अलावा सब कुछ मिलता है -",
+        "options": {
+            "A": "Milk from herds",
+            "B": "Bread from fields",
+            "C": "Attire from flocks",
+            "D": "Money from trees"
+        },
+        "vikalpa": {
+            "A": "झुंडों से दूध",
+            "B": "खेतों से रोटी",
+            "C": "रेवड़ों से पोशाक",
+            "D": "पेड़ों से पैसा"
+        }
+    },
+    {
+        "id": "obj_5",
+        "type": "objective",
+        "question": "In 'Me and the Ecology Bit', the post office was......... from Mr. Johnson's house.",
+        "prashna": "'मी एंड द इकोलॉजी बिट' में, पोस्ट ऑफिस मिस्टर जॉनसन के घर से ......... था।",
+        "options": {
+            "A": "one block away",
+            "B": "three blocks away",
+            "C": "two blocks away",
+            "D": "four blocks away"
+        },
+        "vikalpa": {
+            "A": "एक ब्लॉक दूर",
+            "B": "तीन ब्लॉक दूर",
+            "C": "दो ब्लॉक दूर",
+            "D": "चार ब्लॉक दूर"
+        }
+    },
+    {
+        "id": "obj_6",
+        "type": "objective",
+        "question": "In 'The pace for Living,' R. C. Hutchinson discusses -",
+        "prashna": "'द पेस फॉर लिविंग' में, आर. सी. हचिंसन चर्चा करते हैं -",
+        "options": {
+            "A": "the happiness of men",
+            "B": "the agony of modern man",
+            "C": "the dilemma of people",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "पुरुषों की खुशी की",
+            "B": "आधुनिक मानव की पीड़ा की",
+            "C": "लोगों की दुविधा की",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_7",
+        "type": "objective",
+        "question": "The only companion of the mother in the story 'Two Horizons', is -",
+        "prashna": "'टू होराइजन्स' कहानी में माँ की एकमात्र साथी है -",
+        "options": {
+            "A": "her husband",
+            "B": "her son",
+            "C": "her daughter",
+            "D": "her dog"
+        },
+        "vikalpa": {
+            "A": "उसके पति",
+            "B": "उसका बेटा",
+            "C": "उसकी बेटी",
+            "D": "उसका कुत्ता"
+        }
+    },
+    {
+        "id": "obj_8",
+        "type": "objective",
+        "question": "'What is Wrong with Indian Films', has been written by -",
+        "prashna": "'वॉट इज रॉन्ग विद इंडियन फिल्म्स' किसके द्वारा लिखा गया है -",
+        "options": {
+            "A": "Mahadevi Verma",
+            "B": "Premchand",
+            "C": "Humayun Kabir",
+            "D": "Satyajit Ray"
+        },
+        "vikalpa": {
+            "A": "महादेवी वर्मा",
+            "B": "प्रेमचंद",
+            "C": "हुमायूँ कबीर",
+            "D": "सत्यजीत रे"
+        }
+    },
+    {
+        "id": "obj_9",
+        "type": "objective",
+        "question": "'Polythene Bag', when left to itself, ..........environment.",
+        "prashna": "'पॉलीथीन बैग', जब अपने हाल पर छोड़ दिया जाता है, तो पर्यावरण को .......... करता है।",
+        "options": {
+            "A": "pollutes",
+            "B": "decorates",
+            "C": "beautifies",
+            "D": "enriches"
+        },
+        "vikalpa": {
+            "A": "प्रदूषित",
+            "B": "सजाता",
+            "C": "सुंदर बनाता",
+            "D": "समृद्ध करता"
+        }
+    },
+    {
+        "id": "obj_10",
+        "type": "objective",
+        "question": "'Quality', is a story about a -",
+        "prashna": "'क्वालिटी', किसके बारे में एक कहानी है -",
+        "options": {
+            "A": "Sweet maker",
+            "B": "Shoe maker",
+            "C": "Bread maker",
+            "D": "Cake maker"
+        },
+        "vikalpa": {
+            "A": "मिठाई बनाने वाला",
+            "B": "जूता बनाने वाला",
+            "C": "रोटी बनाने वाला",
+            "D": "केक बनाने वाला"
+        }
+    },
+    {
+        "id": "obj_11",
+        "type": "objective",
+        "question": "What is one of the most remarkable features of Indian culture, according to Humayun Kabir?",
+        "prashna": "हुमायूँ कबीर के अनुसार भारतीय संस्कृति की सबसे उल्लेखनीय विशेषताओं में से एक क्या है?",
+        "options": {
+            "A": "Underlying Unity",
+            "B": "Lots of festivals",
+            "C": "Diversity of people",
+            "D": "So many religions"
+        },
+        "vikalpa": {
+            "A": "अंतर्निहित एकता",
+            "B": "ढेर सारे त्यौहार",
+            "C": "लोगों की विविधता",
+            "D": "इतने सारे धर्म"
+        }
+    },
+    {
+        "id": "obj_12",
+        "type": "objective",
+        "question": "In the story 'Once Upon a Time', the woman was visited by -",
+        "prashna": "'वन्स अपॉन ए टाइम' कहानी में, महिला के पास कौन आए थे -",
+        "options": {
+            "A": "Some young people",
+            "B": "Some old people",
+            "C": "Some rich people",
+            "D": "Some sick people"
+        },
+        "vikalpa": {
+            "A": "कुछ युवा लोग",
+            "B": "कुछ बूढ़े लोग",
+            "C": "कुछ अमीर लोग",
+            "D": "कुछ बीमार लोग"
+        }
+    },
+    {
+        "id": "obj_13",
+        "type": "objective",
+        "question": "In 'The pace for Living,' the author saw a play in -",
+        "prashna": "'द पेस फॉर लिविंग' में, लेखक ने कहाँ एक नाटक देखा था -",
+        "options": {
+            "A": "Denmark",
+            "B": "Dublin",
+            "C": "Denver",
+            "D": "Delhi"
+        },
+        "vikalpa": {
+            "A": "डेनमार्क",
+            "B": "डबलिन",
+            "C": "डेनवर",
+            "D": "दिल्ली"
+        }
+    },
+    {
+        "id": "obj_14",
+        "type": "objective",
+        "question": "In the poem 'The Empty Heart,' the prayer was granted -",
+        "prashna": "'द एम्प्टी हार्ट' कविता में प्रार्थना स्वीकार की गई -",
+        "options": {
+            "A": "three fold",
+            "B": "seven fold",
+            "C": "five fold",
+            "D": "nine fold"
+        },
+        "vikalpa": {
+            "A": "तीन गुना",
+            "B": "सात गुना",
+            "C": "पाँच गुना",
+            "D": "नौ गुना"
+        }
+    },
+    {
+        "id": "obj_20",
+        "type": "objective",
+        "question": "In the story written by Mahadevi Verma, Gillu was injured by -",
+        "prashna": "महादेवी वर्मा द्वारा लिखित कहानी में, गिल्लू किसके द्वारा घायल हुआ था -",
+        "options": {
+            "A": "Crows",
+            "B": "Squirrels",
+            "C": "Parrots",
+            "D": "Mongooses"
+        },
+        "vikalpa": {
+            "A": "कौवे",
+            "B": "गिलहरियाँ",
+            "C": "तोते",
+            "D": "नेवले"
+        }
+    },
+    {
+        "id": "obj_21",
+        "type": "objective",
+        "question": "Toni Morrison was the first ...... to receive the Nobel Prize.",
+        "prashna": "टोनी मॉरिसन नोबेल पुरस्कार प्राप्त करने वाली पहली ...... थीं।",
+        "options": {
+            "A": "White woman",
+            "B": "European woman",
+            "C": "Asian woman",
+            "D": "Black woman"
+        },
+        "vikalpa": {
+            "A": "श्वेत महिला",
+            "B": "यूरोपीय महिला",
+            "C": "एशियाई महिला",
+            "D": "अश्वेत महिला"
+        }
+    },
+    {
+        "id": "obj_22",
+        "type": "objective",
+        "question": "According to poem 'God Made the Country', our life could be sweet if we possess -",
+        "prashna": "'गॉड मेड द कंट्री' कविता के अनुसार, हमारा जीवन मधुर हो सकता है यदि हमारे पास हो -",
+        "options": {
+            "A": "A lot of money and wealth",
+            "B": "Good health and virtue",
+            "C": "Good house and car",
+            "D": "None of these"
+        },
+        "vikalpa": {
+            "A": "ढेर सारा पैसा और दौलत",
+            "B": "अच्छा स्वास्थ्य और सद्गुण",
+            "C": "अच्छा घर और गाड़ी",
+            "D": "इनमें से कोई नहीं"
+        }
+    },
+    {
+        "id": "obj_23",
+        "type": "objective",
+        "question": "Aung San Suu Kyi's struggle was for -",
+        "prashna": "आंग सान सू की का संघर्ष किसके लिए था -",
+        "options": {
+            "A": "an autocratic - Burma",
+            "B": "a communist - Burma",
+            "C": "a democratic - Burma",
+            "D": "a socialist - Burma"
+        },
+        "vikalpa": {
+            "A": "एक निरंकुश - बर्मा",
+            "B": "एक कम्युनिस्ट - बर्मा",
+            "C": "एक लोकतांत्रिक - बर्मा",
+            "D": "एक समाजवादी - बर्मा"
+        }
+    },
+    {
+        "id": "obj_24",
+        "type": "objective",
+        "question": "'Me and the Ecology Bit' is all about -",
+        "prashna": "'मी एंड द इकोलॉजी बिट' किसके बारे में है -",
+        "options": {
+            "A": "Preserving water resources",
+            "B": "Preserving environment and ecology",
+            "C": "Preserving forest resources",
+            "D": "Preserving human resources"
+        },
+        "vikalpa": {
+            "A": "जल संसाधनों का संरक्षण",
+            "B": "पर्यावरण और पारिस्थितिकी का संरक्षण",
+            "C": "वन संसाधनों का संरक्षण",
+            "D": "मानव संसाधनों का संरक्षण"
+        }
+    },
+    {
+        "id": "obj_25",
+        "type": "objective",
+        "question": "Katherine Mansfield is basically a -",
+        "prashna": "कैथरीन मैन्सफील्ड मूल रूप से एक क्या हैं -",
+        "options": {
+            "A": "Novelist",
+            "B": "Story writer",
+            "C": "Dramatist",
+            "D": "Poet"
+        },
+        "vikalpa": {
+            "A": "उपन्यासकार",
+            "B": "कहानीकार",
+            "C": "नाटककार",
+            "D": "कवि"
+        }
+    },
+    {
+        "id": "obj_26",
+        "type": "objective",
+        "question": "The first feature film in India was produced in -",
+        "prashna": "भारत में पहली फीचर फिल्म का निर्माण कब हुआ था -",
+        "options": {
+            "A": "1907",
+            "B": "1909",
+            "C": "1913",
+            "D": "1915"
+        },
+        "vikalpa": {
+            "A": "1907",
+            "B": "1909",
+            "C": "1913",
+            "D": "1915"
+        }
+    },
+    {
+        "id": "obj_27",
+        "type": "objective",
+        "question": "Both the girls in the story 'Little Girls wiser than Men,' had -",
+        "prashna": "'लिटिल गर्ल्स वाइज़र दैन मेन' कहानी में दोनों लड़कियों के पास था -",
+        "options": {
+            "A": "red handkerchiefs",
+            "B": "blue handkerchiefs",
+            "C": "yellow handkerchiefs",
+            "D": "white handkerchiefs"
+        },
+        "vikalpa": {
+            "A": "लाल रुमाल",
+            "B": "नीले रुमाल",
+            "C": "पीले रुमाल",
+            "D": "सफेद रुमाल"
+        }
+    },
+    {
+        "id": "obj_28",
+        "type": "objective",
+        "question": "As per the 'Acceptance Speech,' the beauty of genuine brotherhood and peace is more precious than -",
+        "prashna": "'एक्सेप्टेंस स्पीच' के अनुसार, वास्तविक भाईचारे और शांति की सुंदरता किससे अधिक अनमोल है -",
+        "options": {
+            "A": "diamonds",
+            "B": "gold",
+            "C": "silver",
+            "D": "All of the above"
+        },
+        "vikalpa": {
+            "A": "हीरे",
+            "B": "सोना",
+            "C": "चाँदी",
+            "D": "उपरोक्त सभी"
+        }
+    },
+    {
+        "id": "obj_29",
+        "type": "objective",
+        "question": "'Thinner than a Crescent', has been composed by -",
+        "prashna": "'थिनर दैन ए क्रेसेंट' की रचना किसके द्वारा की गई है -",
+        "options": {
+            "A": "Vidhyadhar Pandit",
+            "B": "Kalidas",
+            "C": "Vidhyapati",
+            "D": "Tulsidas"
+        },
+        "vikalpa": {
+            "A": "विद्याधर पंडित",
+            "B": "कालिदास",
+            "C": "विद्यापति",
+            "D": "तुलसीदास"
+        }
+    },
+    {
+        "id": "obj_30",
+        "type": "objective",
+        "question": "Prem Shankar is mentioned in -",
+        "prashna": "प्रेम शंकर का उल्लेख किसमें है -",
+        "options": {
+            "A": "January Night",
+            "B": "The Bet",
+            "C": "Allergy",
+            "D": "Quality"
+        },
+        "vikalpa": {
+            "A": "जनवरी नाइट",
+            "B": "द बेट",
+            "C": "एलर्जी",
+            "D": "क्वालिटी"
+        }
+    },
+    {
+        "id": "obj_31",
+        "type": "objective",
+        "question": "Direction (31-33) - Choose the correct option of the following: Passive voice of 'She gave me a gift'",
+        "prashna": "निर्देश (31-33) - निम्नलिखित में से सही विकल्प चुनें: 'She gave me a gift' का पैसिव वॉइस",
+        "options": {
+            "A": "I was given a gift by her",
+            "B": "I am given a gift by her",
+            "C": "She was given a gift by me",
+            "D": "She is given a gift by me"
+        },
+        "vikalpa": {
+            "A": "आई वाज़ गिवन ए गिफ्ट बाय हर",
+            "B": "आई एम गिवन ए गिफ्ट बाय हर",
+            "C": "शी वाज़ गिवन ए गिफ्ट बाय मी",
+            "D": "शी इज़ गिवन ए गिफ्ट बाय मी"
+        }
+    },
+    {
+        "id": "obj_32",
+        "type": "objective",
+        "question": "Active Voice of 'The garden has been watered by the gardener'",
+        "prashna": "'The garden has been watered by the gardener' का एक्टिव वॉइस",
+        "options": {
+            "A": "The gardener is watering the garden",
+            "B": "The gardener was watering the garden",
+            "C": "The gardener has watered the garden",
+            "D": "The gardener had watered the garden"
+        },
+        "vikalpa": {
+            "A": "द गार्डनर इज़ वॉटरिंग द गार्डन",
+            "B": "द गार्डनर वाज़ वॉटरिंग द गार्डन",
+            "C": "द गार्डनर हैज़ वॉटर्ड द गार्डन",
+            "D": "द गार्डनर हैड वॉटर्ड द गार्डन"
+        }
+    },
+    {
+        "id": "obj_33",
+        "type": "objective",
+        "question": "Active Voice of 'He was scolded by the teacher'",
+        "prashna": "'He was scolded by the teacher' का एक्टिव वॉइस",
+        "options": {
+            "A": "The teacher scolds him",
+            "B": "The teacher was scolding him",
+            "C": "The teacher is scolding him",
+            "D": "The teacher scolded him"
+        },
+        "vikalpa": {
+            "A": "द टीचर स्कोल्ड्स हिम",
+            "B": "द टीचर वाज़ स्कोल्डिंग हिम",
+            "C": "द टीचर इज़ स्कोल्डिंग हिम",
+            "D": "द टीचर स्कोल्डिड हिम"
+        }
+    },
+    {
+        "id": "obj_34",
+        "type": "objective",
+        "question": "Direction (34-36) - Choose the indirect speech of the given sentences: Saunak said, \"The sun rises in the east.\"",
+        "prashna": "निर्देश (34-36) - दिए गए वाक्यों का इनडायरेक्ट स्पीच चुनें: रौनक ने कहा, \"सूर्य पूर्व में उदय होता है।\"",
+        "options": {
+            "A": "Saunak said that the sun rises in the East.",
+            "B": "Saunak said that the sun rose in the East",
+            "C": "Saunak said that the sun is rising in the East.",
+            "D": "Saunak said that the sun was rising in the East."
+        },
+        "vikalpa": {
+            "A": "सौनक सेड दैट द सन राइज़ेस इन द ईस्ट",
+            "B": "सौनक सेड दैट द सन रोज़ इन द ईस्ट",
+            "C": "सौनक सेड दैट द सन इज़ राइज़िंग इन द ईस्ट",
+            "D": "सौनक सेड दैट द सन वाज़ राइज़िंग इन द ईस्ट"
+        }
+    },
+    {
+        "id": "obj_35",
+        "type": "objective",
+        "question": "Naveen says to me, \"I am your friend.\"",
+        "prashna": "नवीन मुझसे कहता है, \"मैं तुम्हारा दोस्त हूँ।\"",
+        "options": {
+            "A": "Naveen says to me that I am his friend.",
+            "B": "Naveen tells me that he is my friend.",
+            "C": "Naveen says to me that he was my friend.",
+            "D": "Naveen says to me that I am your friend."
+        },
+        "vikalpa": {
+            "A": "नवीन सेज़ टू मी दैट आई एम हिज़ फ्रेंड",
+            "B": "नवीन टेल्स मी दैट ही इज़ माय फ्रेंड",
+            "C": "नवीन सेज़ टू मी दैट ही वाज़ माय फ्रेंड",
+            "D": "नवीन सेज़ टू मी दैट आई एम योर फ्रेंड"
+        }
+    },
+    {
+        "id": "obj_36",
+        "type": "objective",
+        "question": "I said to her, \"I am a good player.\"",
+        "prashna": "मैंने उससे कहा, \"मैं एक अच्छा खिलाड़ी हूँ।\"",
+        "options": {
+            "A": "I said to her that I am a good player.",
+            "B": "I told her that I am a good player.",
+            "C": "I said to her that I had been a good player.",
+            "D": "I told her that I was a good player."
+        },
+        "vikalpa": {
+            "A": "आई सेड टू हर दैट आई एम ए गुड प्लेयर",
+            "B": "आई टोल्ड हर दैट आई एम ए गुड प्लेयर",
+            "C": "आई सेड टू हर दैट आई हैड बीन ए गुड प्लेयर",
+            "D": "आई टोल्ड हर दैट आई वाज़ ए गुड प्लेयर"
+        }
+    },
+    {
+        "id": "obj_37",
+        "type": "objective",
+        "question": "Direction (37-39) - Choose the correct form of verb: Early to bed and early to rise ...... a man healthy, wealthy and wise",
+        "prashna": "निर्देश (37-39) - क्रिया का सही रूप चुनें: जल्दी सोना और जल्दी उठना इंसान को स्वस्थ, धनी और बुद्धिमान ......",
+        "options": {
+            "A": "make",
+            "B": "made",
+            "C": "makes",
+            "D": "making"
+        },
+        "vikalpa": {
+            "A": "मेक",
+            "B": "मेड",
+            "C": "मेक्स",
+            "D": "मेकिंग"
+        }
+    },
+    {
+        "id": "obj_38",
+        "type": "objective",
+        "question": "......... you hear him?",
+        "prashna": "......... क्या आपने उसे सुना?",
+        "options": {
+            "A": "Have",
+            "B": "Has",
+            "C": "Did",
+            "D": "Had"
+        },
+        "vikalpa": {
+            "A": "हैव",
+            "B": "हैज़",
+            "C": "डिड",
+            "D": "हैड"
+        }
+    },
+    {
+        "id": "obj_39",
+        "type": "objective",
+        "question": "Neither food nor water......... given.",
+        "prashna": "न तो भोजन और न ही पानी ......... दिया गया।",
+        "options": {
+            "A": "was",
+            "B": "are",
+            "C": "were",
+            "D": "has"
+        },
+        "vikalpa": {
+            "A": "वॉज़",
+            "B": "आर",
+            "C": "वर",
+            "D": "हैज़"
+        }
+    },
+    {
+        "id": "obj_40",
+        "type": "objective",
+        "question": "Direction (40-42) - Choose the most suitable preposition: He complemented her............new dress.",
+        "prashna": "निर्देश (40-42) - सबसे उपयुक्त प्रीपोज़िशन चुनें: उसने उसकी नई ड्रेस के लिए उसकी प्रशंसा की।",
+        "options": {
+            "A": "for",
+            "B": "to",
+            "C": "on",
+            "D": "about"
+        },
+        "vikalpa": {
+            "A": "फ़ॉर (के लिए)",
+            "B": "टू",
+            "C": "ऑन (पर)",
+            "D": "अबाउट"
+        }
+    },
+    {
+        "id": "obj_41",
+        "type": "objective",
+        "question": "A frog was found ..........the well.",
+        "prashna": "कुएं में एक मेंढक मिला।",
+        "options": {
+            "A": "in",
+            "B": "into",
+            "C": "from",
+            "D": "with"
+        },
+        "vikalpa": {
+            "A": "इन (में)",
+            "B": "इन्टू (में - गति के साथ)",
+            "C": "फ्रॉम (से)",
+            "D": "विद (के साथ)"
+        }
+    },
+    {
+        "id": "obj_42",
+        "type": "objective",
+        "question": "I am always............your service.",
+        "prashna": "मैं हमेशा आपकी सेवा में तत्पर हूँ।",
+        "options": {
+            "A": "for",
+            "B": "to",
+            "C": "at",
+            "D": "by"
+        },
+        "vikalpa": {
+            "A": "फ़ॉर",
+            "B": "टू",
+            "C": "एट (पर/में)",
+            "D": "बाय"
+        }
+    },
+    {
+        "id": "obj_43",
+        "type": "objective",
+        "question": "Direction (43-45) - Choose the correct spelling:",
+        "prashna": "निर्देश (43-45) - सही वर्तनी चुनें:",
+        "options": {
+            "A": "Polution",
+            "B": "Pollusion",
+            "C": "Polusion",
+            "D": "Pollution"
+        },
+        "vikalpa": {
+            "A": "पोलूशन",
+            "B": "पोल्यूशन",
+            "C": "पोल्यूजन",
+            "D": "पॉल्यूशन (प्रदूषण)"
+        }
+    },
+    {
+        "id": "obj_44",
+        "type": "objective",
+        "question": "Choose the correct spelling:",
+        "prashna": "सही वर्तनी चुनें:",
+        "options": {
+            "A": "Asistance",
+            "B": "Assisstance",
+            "C": "Assistance",
+            "D": "Assisteance"
+        },
+        "vikalpa": {
+            "A": "असिस्टेंस",
+            "B": "असिस्टेंस",
+            "C": "असिस्टेंस (सहायता)",
+            "D": "असिस्टेंस"
+        }
+    },
+    {
+        "id": "obj_45",
+        "type": "objective",
+        "question": "Choose the correct spelling:",
+        "prashna": "सही वर्तनी चुनें:",
+        "options": {
+            "A": "Ilustration",
+            "B": "Illustrason",
+            "C": "Illustration",
+            "D": "Ilustreison"
+        },
+        "vikalpa": {
+            "A": "इल्लस्ट्रेशन",
+            "B": "इल्लस्ट्रेशन",
+            "C": "इल्लस्ट्रेशन (दृष्टांत)",
+            "D": "इल्लस्ट्रेशन"
+        }
+    },
+    {
+        "id": "obj_46",
+        "type": "objective",
+        "question": "Direction (46-50) - Choose the most suitable translation: वह कहीं नहीं जा सकता।",
+        "prashna": "निर्देश (46-50) - सबसे उपयुक्त अनुवाद चुनें: वह कहीं नहीं जा सकता।",
+        "options": {
+            "A": "He cannot go somewhere.",
+            "B": "He can go anywhere.",
+            "C": "He cannot go anywhere.",
+            "D": "He can not go any where."
+        },
+        "vikalpa": {
+            "A": "ही कैनॉट गो समवेयर",
+            "B": "ही कैन गो एनीवेयर",
+            "C": "ही कैनॉट गो एनीवेयर",
+            "D": "ही कैन नॉट गो एनी वेयर"
+        }
+    },
+    {
+        "id": "obj_47",
+        "type": "objective",
+        "question": "एवरेस्ट संसार में सबसे ऊँची चोटी है।",
+        "prashna": "एवरेस्ट संसार में सबसे ऊँची चोटी है।",
+        "options": {
+            "A": "Everest is very high peak in the world.",
+            "B": "Everest is the highest peak in the world.",
+            "C": "Everest is most high peak in the world.",
+            "D": "Everest was the highest peak in the world."
+        },
+        "vikalpa": {
+            "A": "एवरेस्ट इज़ वेरी हाई पीक इन द वर्ल्ड",
+            "B": "एवरेस्ट इज़ द हाईएस्ट पीक इन द वर्ल्ड",
+            "C": "एवरेस्ट इज़ मोस्ट हाई पीक इन द वर्ल्ड",
+            "D": "एवरेस्ट वाज़ द हाईएस्ट पीक इन द वर्ल्ड"
+        }
+    },
+    {
+        "id": "obj_48",
+        "type": "objective",
+        "question": "जो लड़का तुमसे मिलने आया था वह बहुत ही गरीब है।",
+        "prashna": "जो लड़का तुमसे मिलने आया था वह बहुत ही गरीब है।",
+        "options": {
+            "A": "The boy who came to see you he was very poor.",
+            "B": "The boy who has come to see you is very poor.",
+            "C": "The boy who came to see you is very poor.",
+            "D": "The boy who had come to see you was very poor."
+        },
+        "vikalpa": {
+            "A": "द बॉय हू केम टू सी यू ही वाज़ वेरी पुअर",
+            "B": "द बॉय हू हैज़ कम टू सी यू इज़ वेरी पुअर",
+            "C": "द बॉय हू केम टू सी यू इज़ वेरी पुअर",
+            "D": "द बॉय हू हैड कम टू सी यू वाज़ वेरी पुअर"
+        }
+    },
+    {
+        "id": "obj_49",
+        "type": "objective",
+        "question": "मैं अपना काम आप ही करता हूँ।",
+        "prashna": "मैं अपना काम आप ही करता हूँ।",
+        "options": {
+            "A": "I have to do my work.",
+            "B": "I do my work myself.",
+            "C": "I can do my work myself.",
+            "D": "I am to do my own work."
+        },
+        "vikalpa": {
+            "A": "आई हैव टू डू माय वर्क",
+            "B": "आई डू माय वर्क मायसेल्फ",
+            "C": "आई कैन डू माय वर्क मायसेल्फ",
+            "D": "आई एम टू डू माय ओन वर्क"
+        }
+    },
+    {
+        "id": "obj_50",
+        "type": "objective",
+        "question": "आप वहाँ कितनी देर रहेंगे?",
+        "prashna": "आप वहाँ कितनी देर रहेंगे?",
+        "options": {
+            "A": "How much will you stay there?",
+            "B": "How long will you stay there?",
+            "C": "How long you will stay there?",
+            "D": "How more will you stay there?"
+        },
+        "vikalpa": {
+            "A": "हाउ मच विल यू स्टे देयर?",
+            "B": "हाउ लॉन्ग विल यू स्टे देयर?",
+            "C": "हाउ लॉन्ग यू विल स्टे देयर?",
+            "D": "हाउ मोर विल यू स्टे देयर?"
+        }
+    },
+    {
+        "id": "passage_1_1",
+        "type": "passage",
+        "context": "Spring is one of the most beautiful season, a transition between winter and summer, Spring signifies ideas of rebirth, regeneration, and growth. In this season the axis of the earth increases its tilt towards the sun. The length of the daylight rapidly increases for the relevant hemisphere. Many festivals are celebrated around spring time. The season of spring is a harbinger of joy.",
+        "question": "Read the following passage carefully and answer the questions that follow:",
+        "prashna": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और उसके बाद आने वाले प्रश्नों के उत्तर दें:",
+        "sub_questions": {
+            "1": "What type of season is spring?",
+            "2": "What does the spring signify?",
+            "3": "What happens to the earth in spring?",
+            "4": "What impact does spring bring to daylight?"
+        },
+        "anuprashna": {
+            "1": "बसंत किस प्रकार का मौसम है?",
+            "2": "बसंत किसका प्रतीक है?",
+            "3": "बसंत में पृथ्वी के साथ क्या होता है?",
+            "4": "बसंत का दिन के उजाले पर क्या प्रभाव पड़ता है?"
+        }
+    },
+    {
+        "id": "passage_1_2",
+        "type": "passage",
+        "context": "Nine thousand years ago, people did not have money. They traded animals for things they wanted. They traded crops for what they wanted. In China, in about 1200 B.C., people traded shells for the things they wanted. Chinese people also traded metal tools for the things they wanted. Later in China, people made metal money. In about 100 B.C., the Chinese made money of animal skin. The first paper money was made from white - coloured deer skin.",
+        "question": "OR: Read the following passage carefully and answer the questions that follow:",
+        "prashna": "अथवा: निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और उसके बाद आने वाले प्रश्नों के उत्तर दें:",
+        "sub_questions": {
+            "1": "How did people get the things of need nine thousand years ago?",
+            "2": "In 1200 B.C., how did people in China get the things they wanted?",
+            "3": "From what was the first paper money made?",
+            "4": "Make sentences with: Money, Trade"
+        },
+        "anuprashna": {
+            "1": "नौ हजार साल पहले लोगों को जरूरत की चीजें कैसे मिलती थीं?",
+            "2": "1200 ईसा पूर्व में, चीन में लोगों को अपनी मनचाही चीजें कैसे मिलती थीं?",
+            "3": "पहला कागजी पैसा किससे बना था?",
+            "4": "वाक्य बनाएँ: Money (पैसा), Trade (व्यापार)"
+        }
+    },
+    {
+        "id": "passage_2_1",
+        "type": "passage",
+        "context": "A great sage once had a group of disciples. They were all very bright and eager students and the sage had all the reasons to be proud of them. One day the sage realized that he had imparted enough knowledge to his disciples. Now they were all very learned. There was only one thing the sage had not taught them and that was the special verse that could bring the dead back to life. The sage knew that such knowledge was too wonderful and could prove to be a dangerous things in the hands of someone who was not very wise. The sage pondered over this for a long time. But he also knew that if he did not pass on this secret verse, it could die with him. So, at last he called his cleverest disciple aside and said, \"I am going to teach you a very special verse. If you chant this you can bring to life a dead person or animal. Use only when you need it and never misuse or test your powers vainly.\"",
+        "question": "Read the following passage carefully and answer the questions that follow:",
+        "prashna": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और उसके बाद आने वाले प्रश्नों के उत्तर दें:",
+        "sub_questions": {
+            "1": "What made the sage proud?",
+            "2": "Whom did the sage teach the special verse?",
+            "3": "Why was the sage hesitating to teach the special verse?",
+            "4": "What is the message of the passage?"
+        },
+        "anuprashna": {
+            "1": "ऋषि को किस बात पर गर्व था?",
+            "2": "ऋषि ने विशेष श्लोक किसे सिखाया?",
+            "3": "ऋषि विशेष श्लोक सिखाने में क्यों हिचकिचा रहे थे?",
+            "4": "इस गद्यांश का संदेश क्या है?"
+        }
+    },
+    {
+        "id": "passage_2_2",
+        "type": "passage",
+        "context": "India is a country of vast geographical expanse. India is marked by a diversity of physical features such as mountains, plateaus, plains, coasts and islands. In the north, it is bound by the lofty Himalayas. The Northern plains, Great Indian Desert, the Peninsular plateau and the Great Himalayas are the main physical divisions of India. There are seven countries that share land boundaries with India. These countries are - China, Pakistan, Nepal, Bhutan, Bangladesh, Myanmar and Afghanistan.",
+        "question": "OR: Read the following passage carefully and answer the questions that follow:",
+        "prashna": "अथवा: निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और उसके बाद आने वाले प्रश्नों के उत्तर दें:",
+        "sub_questions": {
+            "1": "What are the main physical divisions of India?",
+            "2": "How many countries does India share its land boundaries with?",
+            "3": "What are the different physical features that India is marked by?",
+            "4": "Make sentences with: Island, division"
+        },
+        "anuprashna": {
+            "1": "भारत के मुख्य भौतिक विभाजन क्या हैं?",
+            "2": "भारत अपनी थल सीमाओं को कितने देशों के साथ साझा करता है?",
+            "3": "भारत किन विभिन्न भौतिक विशेषताओं से युक्त है?",
+            "4": "वाक्य बनाएँ: Island (द्वीप), division (विभाजन)"
+        }
+    },
+    {
+        "id": "poem_1",
+        "type": "poem",
+        "context": "Words are the food and dress of thought\nThey give it its body and swing\nAnd everyone's longing today to hear\nSome fresh and beautiful thing;\nBut only words can free a thought\nFrom its prison behind your eyes\nMay be your mind is holding now\nA marvellous new surprise!",
+        "question": "Read the poem carefully and answer the questions that follow:",
+        "prashna": "कविता को ध्यानपूर्वक पढ़ें और उसके बाद आने वाले प्रश्नों के उत्तर दें:",
+        "sub_questions": {
+            "1": "Define words according to the poem given above.",
+            "2": "What is everyone longing for?",
+            "3": "What could your mind be holding?"
+        },
+        "anuprashna": {
+            "1": "ऊपर दी गई कविता के अनुसार शब्दों को परिभाषित करें।",
+            "2": "हर कोई किस चीज की लालसा कर रहा है?",
+            "3": "आपका मन क्या धारण कर सकता है?"
+        }
+    },
+    {
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "Answer any five of the following questions:\n(a) What does Indian Cinema need today?\n(b) Who delivered the 'Acceptance Speech' on behalf of Aung San Suu Kyi?\n(c) Where do the two little girls meet in the story of Leo Tolstoy?\n(d) What is the source of light in villages in the evening according to the poem \"God Made the Country\"?\n(e) What is Pope's idea of a happy man in the poem 'Ode on Solitude'?\n(f) What distance is covered by the 'Porter'?\n(g) What did Halku do to save himself from shivering cold in \"January Night\"?\n(h) Describe the relation between the mother and the daughter in 'Two Horizons'.",
+        "prashna": "निम्नलिखित में से किन्हीं पाँच प्रश्नों के उत्तर दें:\n(a) आज भारतीय सिनेमा को क्या आवश्यकता है?\n(b) आंग सान सू की की ओर से 'एक्सेप्टेंस स्पीच' किसने दिया?\n(c) लियो टॉलस्टॉय की कहानी में दो नन्हीं लड़कियाँ कहाँ मिलती हैं?\n(d) \"गॉड मेड द कंट्री\" कविता के अनुसार शाम को गाँवों में प्रकाश का स्रोत क्या है?\n(e) 'ओड ऑन सॉलिट्यूड' कविता में सुखी व्यक्ति के बारे में पोप का क्या विचार है?\n(f) 'कुली' द्वारा कितनी दूरी तय की जाती है?\n(g) \"जनवरी नाइट\" में खुद को कड़कड़ाती ठंड से बचाने के लिए हल्कू ने क्या किया?\n(h) 'टू होराइजन्स' में माँ और बेटी के बीच के संबंध का वर्णन करें।"
+    },
+    {
+        "id": "essay_1",
+        "type": "essay",
+        "question": "Write a paragraph on any one of the following topics in about 60-70 words: (i) Democracy (ii) Importance of Festivals (iii) Your Favorite Cricketer (iv) Role of youth (v) Friendship",
+        "prashna": "निम्नलिखित विषयों में से किसी एक पर लगभग 60-70 शब्दों में एक अनुच्छेद लिखें: (i) लोकतंत्र (ii) त्योहारों का महत्व (iii) आपका पसंदीदा क्रिकेटर (iv) युवाओं की भूमिका (v) मित्रता"
+    },
+    {
+        "id": "letter_1",
+        "type": "letter",
+        "question": "You are Rakesh, Secretary of the Literary Club of your school. Your teacher Co-ordinator has asked you to inform students about a debate going to be organized in your school. Write a notice in about 50-60 words informing students about the same.",
+        "prashna": "आप राकेश हैं, अपने स्कूल के लिटरेरी क्लब के सचिव। आपके शिक्षक समन्वयक ने आपको अपने स्कूल में आयोजित होने वाली एक वाद-विवाद प्रतियोगिता के बारे में छात्रों को सूचित करने के लिए कहा है। छात्रों को इसकी जानकारी देते हुए लगभग 50-60 शब्दों में एक नोटिस लिखें।"
+    },
+    {
+        "id": "letter_2",
+        "type": "letter",
+        "question": "You have recently visited Agra. Write a report in about 60 - 70 words about your visit.",
+        "prashna": "आपने हाल ही में आगरा का भ्रमण किया है। अपनी यात्रा के बारे में लगभग 60 - 70 शब्दों में एक रिपोर्ट लिखें।"
+    },
+    {
+        "id": "letter_3",
+        "type": "letter",
+        "question": "You are Ronny of Zila School, Munger. Write an application to the Principal requesting him to arrange a cricket match between your school and U.T. Academy, Munger.",
+        "prashna": "आप जिला स्कूल, मुंगेर के रोनी हैं। प्रधानाचार्य को एक आवेदन पत्र लिखें जिसमें उनसे आपके स्कूल और यू.टी. अकादमी, मुंगेर के बीच क्रिकेट मैच आयोजित करने का अनुरोध किया गया हो।"
+    },
+    {
+        "id": "letter_4",
+        "type": "letter",
+        "question": "You are Vicky studying at Patna. Write a letter in about 80 words to your father, seeking his permission to visit Nalanda and Rajgir with some of your friends.",
+        "prashna": "आप विक्की हैं, पटना में पढ़ाई कर रहे हैं। अपने पिता को लगभग 80 शब्दों में एक पत्र लिखकर अपने कुछ दोस्तों के साथ नालंदा और राजगीर जाने की अनुमति मांगें।"
+    },
+    {
+        "id": "letter_5",
+        "type": "letter",
+        "question": "You are Navyu, write a speech in about 60 - 70 words to be delivered on the occasion of 'Teacher's Day'.",
+        "prashna": "आप नवयु हैं, 'शिक्षक दिवस' के अवसर पर दिए जाने वाले भाषण को लगभग 60 - 70 शब्दों में लिखें।"
+    },
+    {
+        "id": "letter_6",
+        "type": "letter",
+        "question": "You are Sweety, write a message in about 30 - 40 words to your friend Preety asking her to get ready as you want to go to market with her.",
+        "prashna": "आप स्वीटी हैं, अपनी सहेली प्रीति को लगभग 30 - 40 शब्दों में एक संदेश लिखें और उसे तैयार होने के लिए कहें क्योंकि आप उसके साथ बाजार जाना चाहती हैं।"
+    }
+]
