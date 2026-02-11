@@ -268,13 +268,8 @@ class RotatableModel:
         
         with _rotation_lock:
             _global_call_count += 1
-            # Rotate after every 'rotation_threshold' calls globally
-            if _global_call_count > 0 and _global_call_count % self.rotation_threshold == 0:
-                 # Find next available key (skip exhausted ones)
-                 next_idx = _get_next_available_key((_current_key_index + 1) % len(API_KEYS))
-                 if next_idx != -1:
-                     _current_key_index = next_idx
-                     print(f"🔄 Global Rotation: Switching to Key Index {_current_key_index} (Total Calls: {_global_call_count}, Available: {get_available_key_count()})")
+            # Proactive rotation disabled per user request. 
+            # We now only rotate when an actual exhaustion error occurs in generate_content_with_retry.
         
         # Ensure we are using the up-to-date key before generation
         self._ensure_model_sync()
