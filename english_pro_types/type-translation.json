@@ -1,4 +1,38 @@
 {
+  "2011": [
+    {
+      "id": "translation_1",
+      "type": "translation",
+      "chapter": "N/A",
+      "chapter_name": "N/A",
+      "question": "Translate the following sentences into English:",
+      "prashna": "निम्नलिखित वाक्यों का अंग्रेजी में अनुवाद करें:",
+      "sub_questions": {
+        "1": "(i) डॉक्टर ने धूम्रपान मना किया।",
+        "2": "(ii) जॉन मिल्टन एक महान कवि थे।",
+        "3": "(iii) जो वह कहता है, सही है।",
+        "4": "(iv) टहलना अच्छा कसरत है।",
+        "5": "(v) सुभाषचन्द्र बोस को कौन नहीं जानता है?"
+      },
+      "anuprashna": {
+        "1": "(i) The doctor forbade smoking.",
+        "2": "(ii) John Milton was a great poet.",
+        "3": "(iii) What he says is right.",
+        "4": "(iv) Walking is a good exercise.",
+        "5": "(v) Who does not know Subhash Chandra Bose?"
+      }
+    }
+  ],
+  "2012": [
+    {
+      "id": "translation_1",
+      "type": "translation",
+      "chapter": "N/A",
+      "chapter_name": "N/A",
+      "question": "Translate into English: (i) स्वतंत्र भारत के प्रथम प्रधानमंत्री कौन थे? (ii) भारत की राजधानी दिल्ली है। (iii) मेरे स्टेशन पहुँचने से पहले गाड़ी खुल चुकी थी। (iv) मैं तैरना जानता हूँ। (v) हिन्दू गाय को माता मानते हैं।",
+      "prashna": "अंग्रेजी में अनुवाद करें: (i) स्वतंत्र भारत के प्रथम प्रधानमंत्री कौन थे? (ii) भारत की राजधानी दिल्ली है। (iii) मेरे स्टेशन पहुँचने से पहले गाड़ी खुल चुकी थी। (iv) मैं तैरना जानता हूँ। (v) हिन्दू गाय को माता मानते हैं।"
+    }
+  ],
   "2013": [
     {
       "id": "translation_1",
@@ -37,9 +71,65 @@
         "7": "Do you walk in the morning?",
         "8": "When does your father sleep?"
       }
+    },
+    {
+      "id": "translation_1",
+      "type": "translation",
+      "chapter": "N/A",
+      "chapter_name": "Not in the provided NCERT list",
+      "question": "Translate any five into English:",
+      "prashna": "किन्हीं पांच का अंग्रेजी में अनुवाद करें:",
+      "sub_questions": {
+        "1": "पहाड़ियों पर बादल थे।",
+        "2": "मैंने कल एक सपना देखा।",
+        "3": "नदियों को प्रदूषित नहीं करना चाहिए।",
+        "4": "पटना एक पुराना शहर है।",
+        "5": "क्या तुम चित्रकारी जानते हो?",
+        "6": "तुम्हें आराम करना चाहिए।",
+        "7": "कल किसने देखा है।",
+        "8": "नियमित अध्ययन करो।"
+      },
+      "anuprashna": {
+        "1": "There were clouds on the hills.",
+        "2": "I saw a dream yesterday.",
+        "3": "Rivers should not be polluted.",
+        "4": "Patna is an old city.",
+        "5": "Do you know painting?",
+        "6": "You should take rest.",
+        "7": "Who has seen tomorrow.",
+        "8": "Study regularly."
+      }
     }
   ],
   "2015": [
+    {
+      "id": "translation_1",
+      "type": "translation",
+      "chapter": "N/A",
+      "chapter_name": "Not Applicable",
+      "question": "Translate any five into English :",
+      "prashna": "किसी भी पाँच का अंग्रेजी में अनुवाद कीजिए :",
+      "sub_questions": {
+        "1": "मेरी दादी कहानियों सुनायेगी ।",
+        "2": "मैंने एक सपना देखा ।",
+        "3": "उसकी आँखें अगली बात कह देती हैं ।",
+        "4": "पटना एक पुराना शहर है ।",
+        "5": "तुम्हें आराम करना चाहिए ।",
+        "6": "मैं नासा बार चुका हूं ।",
+        "7": "वह सिनेमा गया है ।",
+        "8": "यह कविता किसने लिखी ?"
+      },
+      "anuprashna": {
+        "1": "मेरी दादी कहानियों सुनायेगी ।",
+        "2": "मैंने एक सपना देखा ।",
+        "3": "उसकी आँखें अगली बात कह देती हैं ।",
+        "4": "पटना एक पुराना शहर है ।",
+        "5": "तुम्हें आराम करना चाहिए ।",
+        "6": "मैं नासा बार चुका हूं ।",
+        "7": "वह सिनेमा गया है ।",
+        "8": "यह कविता किसने लिखी ?"
+      }
+    },
     {
       "id": "translation_1",
       "type": "translation",
@@ -70,6 +160,14 @@
     }
   ],
   "2016": [
+    {
+      "id": "translation_1",
+      "type": "translation",
+      "chapter": "N/A",
+      "chapter_name": "N/A (Translation)",
+      "question": "Translate any five into English: i) हमलोग रोज विद्यालय जाते हैं। ii) लड़कियाँ गीत गा रही है। iii) वह दौड़ने में बहुत कमजोर है। iv) हमें अपना कर्तव्य करना चाहिए। v) धुप में मत खेलो। vi) हमलोगों को बड़ों का आदर करना चाहिए। vii) सीता अपने पिता को पत्र लिखी। viii) सोना चाँदी से महंगा है।",
+      "prashna": "निम्नलिखित में से किसी पांच वाक्यों का अंग्रेजी में अनुवाद करें: i) हम लोग रोज स्कूल जाते हैं। ii) लड़कियाँ गीत गा रही हैं। iii) वह दौड़ने में बहुत कमजोर है। iv) हमें अपना कर्तव्य करना चाहिए। v) धूप में मत खेलो। vi) हमें बड़ों का आदर करना चाहिए। vii) सीता ने अपने पिता को पत्र लिखा। viii) सोना चांदी से महंगा है।"
+    },
     {
       "id": "translation_1",
       "type": "translation",
@@ -105,6 +203,14 @@
       "type": "translation",
       "chapter": "N/A",
       "chapter_name": "N/A",
+      "question": "Translate any five of the following into English: (i) हरि कहाँ गया है? (ii) रुखी नाचेगी। (iii) वह तुम्हारा भाई है। (iv) वह तैरना जानता है। (v) मीरा नहीं रो रही थी। (vi) सूरज पूर्व में उगता है। (vii) राम कब लौटेगा? (viii) पेड़ के ऊपर कौआ है।",
+      "prashna": "निम्नलिखित में से किसी पांच वाक्य का अंग्रेजी में अनुवाद कीजिए।"
+    },
+    {
+      "id": "translation_1",
+      "type": "translation",
+      "chapter": "N/A",
+      "chapter_name": "N/A",
       "question": "Translate any five into English:",
       "prashna": "किन्हीं पांच का अंग्रेजी में अनुवाद करें:",
       "sub_questions": {
@@ -126,6 +232,108 @@
         "6": "The sun rises in the east.",
         "7": "When will Ram return?",
         "8": "There is a crow on the tree."
+      }
+    }
+  ],
+  "2018": [
+    {
+      "id": "obj_46",
+      "type": "translation",
+      "chapter": "N/A",
+      "chapter_name": "Translation Section",
+      "question": "पटना गंगा नदी के किनारे बसा है?",
+      "prashna": "पटना गंगा नदी के किनारे बसा है?",
+      "options": {
+        "A": "Patna is situated on the bank of the Ganga.",
+        "B": "Patna is situated in the bank of the Ganga.",
+        "C": "Is Patna situated on the bank of the Ganga?",
+        "D": "None of these."
+      },
+      "vikalpa": {
+        "A": "पटना गंगा के तट पर बसा है।",
+        "B": "पटना गंगा के तट में बसा है। (गलत)",
+        "C": "क्या पटना गंगा के तट पर बसा है?",
+        "D": "इनमें से कोई नहीं।"
+      }
+    },
+    {
+      "id": "obj_47",
+      "type": "translation",
+      "chapter": "N/A",
+      "chapter_name": "Translation Section",
+      "question": "खेलना एक प्रकार का व्यायाम है।",
+      "prashna": "खेलना एक प्रकार का व्यायाम है।",
+      "options": {
+        "A": "Playing is kind of exercise.",
+        "B": "Playing are a kind of exercise.",
+        "C": "To play are a kind of exercise.",
+        "D": "None of these."
+      },
+      "vikalpa": {
+        "A": "खेलना व्यायाम का एक प्रकार है।",
+        "B": "खेलना व्यायाम का एक प्रकार हैं। (गलत)",
+        "C": "खेलना व्यायाम का एक प्रकार हैं। (गलत)",
+        "D": "इनमें से कोई नहीं।"
+      }
+    },
+    {
+      "id": "obj_48",
+      "type": "translation",
+      "chapter": "N/A",
+      "chapter_name": "Translation Section",
+      "question": "मैं नाश्ता कर चुका हूं।",
+      "prashna": "मैं नाश्ता कर चुका हूं।",
+      "options": {
+        "A": "I have taken my breakfast.",
+        "B": "I had taken my breakfast.",
+        "C": "I has taken my breakfast.",
+        "D": "None of these."
+      },
+      "vikalpa": {
+        "A": "मैंने अपना नाश्ता कर लिया है।",
+        "B": "मैंने अपना नाश्ता कर लिया था।",
+        "C": "मैंने अपना नाश्ता कर लिया है (गलत)",
+        "D": "इनमें से कोई नहीं।"
+      }
+    },
+    {
+      "id": "obj_49",
+      "type": "translation",
+      "chapter": "N/A",
+      "chapter_name": "Translation Section",
+      "question": "उसकी आवाज बहुत मीठी है।",
+      "prashna": "उसकी आवाज बहुत मीठी है।",
+      "options": {
+        "A": "His voice is very sweet.",
+        "B": "His voice was very sweet.",
+        "C": "Her voice has sweet.",
+        "D": "None of these."
+      },
+      "vikalpa": {
+        "A": "उसकी आवाज बहुत मीठी है।",
+        "B": "उसकी आवाज बहुत मीठी थी।",
+        "C": "उसकी आवाज मीठी है (गलत)",
+        "D": "इनमें से कोई नहीं।"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "translation",
+      "chapter": "N/A",
+      "chapter_name": "Translation Section",
+      "question": "मैंने एक सपना देखा।",
+      "prashna": "मैंने एक सपना देखा।",
+      "options": {
+        "A": "I see a dream.",
+        "B": "I saw a dream.",
+        "C": "I was seen an dream.",
+        "D": "None of these."
+      },
+      "vikalpa": {
+        "A": "मैं एक सपना देखता हूँ।",
+        "B": "मैंने एक सपना देखा।",
+        "C": "मुझे एक सपना देखा गया (गलत)",
+        "D": "इनमें से कोई नहीं।"
       }
     }
   ],

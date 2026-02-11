@@ -2,43 +2,49 @@
   {
     "type": "comprehension",
     "file": "type-comprehension.json",
-    "total_items": 54,
-    "years": 10
-  },
-  {
-    "type": "letter_writing",
-    "file": "type-letter_writing.json",
-    "total_items": 47,
-    "years": 10
-  },
-  {
-    "type": "essay",
-    "file": "type-essay.json",
-    "total_items": 23,
-    "years": 10
+    "total_items": 116,
+    "years": 14
   },
   {
     "type": "translation",
     "file": "type-translation.json",
-    "total_items": 18,
-    "years": 8
+    "total_items": 29,
+    "years": 11
   },
   {
-    "type": "long",
-    "file": "type-long.json",
-    "total_items": 21,
-    "years": 8
+    "type": "letter_writing",
+    "file": "type-letter_writing.json",
+    "total_items": 100,
+    "years": 14
+  },
+  {
+    "type": "essay",
+    "file": "type-essay.json",
+    "total_items": 42,
+    "years": 14
   },
   {
     "type": "short",
     "file": "type-short.json",
-    "total_items": 70,
+    "total_items": 158,
+    "years": 14
+  },
+  {
+    "type": "long",
+    "file": "type-long.json",
+    "total_items": 33,
     "years": 10
   },
   {
     "type": "objective",
     "file": "type-objective.json",
-    "total_items": 697,
-    "years": 6
+    "total_items": 1204,
+    "years": 9
+  },
+  {
+    "type": "unknown",
+    "file": "type-unknown.json",
+    "total_items": 5,
+    "years": 1
   }
 ]

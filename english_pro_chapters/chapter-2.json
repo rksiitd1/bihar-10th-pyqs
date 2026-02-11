@@ -23,6 +23,14 @@
   ],
   "2017": [
     {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "2",
+      "chapter_name": "Nelson Mandela: Long Walk to Freedom",
+      "question": "Answer any one of the following in about 80 words: (i) What did the narrator do with the wounded squirrel? (ii) Peace, freedom and democracy are essential for human being. Do you agree? Give your own opinion. (iii) Enumerate the traits of the old woman.",
+      "prashna": "निम्नलिखित में से किसी एक प्रश्न का लगभग 80 शब्दों में उत्तर दीजिए: (i) लेखक ने घायल गिलहरी के साथ क्या किया? (ii) शांति, स्वतंत्रता और लोकतंत्र मानव के लिए आवश्यक हैं। क्या आप सहमत हैं? अपना मत दीजिए। (iii) वृद्ध महिला के गुणों का वर्णन कीजिए।"
+    },
+    {
       "id": "long_answer_1",
       "type": "long_answer",
       "chapter": "2",
@@ -81,6 +89,48 @@
         "ii": "लड़ाई को रोकने के लिए क्या किया जाना चाहिए?",
         "iii": "सभी के लिए क्या सुनिश्चित किया जाना चाहिए?",
         "iv": "'Representative' और 'Economic' शब्दों से वाक्य बनाएं।"
+      }
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Nelson Mandela: Long Walk to Freedom",
+      "question": "The old woman is never ashamed of being the daughter of black ... slaves.",
+      "prashna": "बूढ़ी महिला कभी काले ___ गुलामों की बेटी होने पर शर्मिंदा नहीं होती।",
+      "options": {
+        "A": "American",
+        "B": "British",
+        "C": "African",
+        "D": "Brahmin"
+      },
+      "vikalpa": {
+        "A": "अमेरिकी",
+        "B": "ब्रिटिश",
+        "C": "अफ्रीकी",
+        "D": "ब्राह्मण"
+      }
+    },
+    {
+      "id": "passage_1_alt",
+      "type": "passage",
+      "chapter": "2",
+      "chapter_name": "Nelson Mandela: Long Walk to Freedom",
+      "context": "The Civil Rights Movement was a social and political movement that took place in the United States in the 1950s and 1960s. The movement sought to end racial segregation and discrimination against African Americans and to achieve equal rights and opportunities for all people. The Civil Rights Movement was led by prominent figures such as Martin Luther King, Jr., Rose Parks, and Malcolm X. It involved protests, boycotts and civil disobedience. The movement was successful in achieving many important victories, including the Civil Rights Act of 1964 and the Voting Rights Act of 1965, which ended segregation and ensured voting rights for African Americans.",
+      "prashna": "नागरिक अधिकार आंदोलन 1950 और 1960 के दशक में संयुक्त राज्य अमेरिका में हुआ एक सामाजिक और राजनीतिक आंदोलन था। इस आंदोलन का उद्देश्य अफ्रीकी अमेरिकियों के खिलाफ नस्ली भेदभाव और भेदभाव को समाप्त करना और सभी लोगों के लिए समान अधिकार और अवसर प्राप्त करना था। नागरिक अधिकार आंदोलन के प्रमुख नेता मार्टिन लूथर किंग जूनियर, रोजा पार्क्स और माल्कम एक्स थे। इसमें प्रदर्शन, बहिष्कार और सिविल अवज्ञा शामिल थी। इस आंदोलन ने कई महत्वपूर्ण जीत हासिल की, जिसमें 1964 का नागरिक अधिकार अधिनियम और 1965 का मताधिकार अधिनियम शामिल हैं, जिन्होंने भेदभाव को समाप्त किया और अफ्रीकी अमेरिकियों के लिए मताधिकार सुनिश्चित किया।",
+      "sub_questions": {
+        "1": "What was the Civil Rights Movement?",
+        "2": "When did the Civil Rights Movement take place?",
+        "3": "What were the goals of the Civil Rights Movement?",
+        "4": "What were some of the important victories of the Civil Rights Movement?"
+      },
+      "anuprashna": {
+        "1": "नागरिक अधिकार आंदोलन क्या था?",
+        "2": "नागरिक अधिकार आंदोलन कब हुआ?",
+        "3": "नागरिक अधिकार आंदोलन के उद्देश्य क्या थे?",
+        "4": "नागरिक अधिकार आंदोलन की कुछ महत्वपूर्ण जीत क्या थीं?"
       }
     }
   ]
