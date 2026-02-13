@@ -260,7 +260,7 @@ def main():
     os.makedirs("analysis_prompts", exist_ok=True)
     
     for subject in SUBJECTS:
-        manifest_path = f"{subject}_pro_types0/manifest.json"
+        manifest_path = f"{subject}_pro_types/manifest.json"
         
         if not os.path.exists(manifest_path):
             print(f"Skipping {subject}: Manifest not found.")

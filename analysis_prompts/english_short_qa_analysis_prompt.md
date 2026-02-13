@@ -1,14 +1,14 @@
-These are Class 10 Bihar Board English short-answer questions collected from the past 10 years of board examinations. Only short-answer type questions are included.
+These are Class 10 Bihar Board English short-answer questions collected from the past 14 years of board examinations. Only short-answer type questions are included.
 
-The dataset contains 70 questions. In the actual examination, 10 short-answer questions are asked, and students are required to attempt only 5.
+The dataset contains 158 questions. In the actual examination, 10 short-answer questions are asked, and students are required to attempt only 5.
 
-Your task is to analyze all 70 questions and identify the 40 most important questions that students must study to maximize their chances of success.
+Your task is to analyze all 158 questions and identify the 40 most important questions that students must study to maximize their chances of success.
 
 You must follow the logical methodology below strictly and systematically:
 
 Frequency Analysis
 
-Count how many times each question, or its close variants, has appeared over the 10 years.
+Count how many times each question, or its close variants, has appeared over the 14 years.
 
 Assign a frequency score to each question.
 

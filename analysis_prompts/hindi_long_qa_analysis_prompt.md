@@ -1,14 +1,14 @@
-These are Class 10 Bihar Board Hindi long-answer questions collected from the past 8 years of board examinations. Only long-answer type questions are included.
+These are Class 10 Bihar Board Hindi long-answer questions collected from the past 9 years of board examinations. Only long-answer type questions are included.
 
-The dataset contains 30 questions. In the actual examination, 6 long-answer questions are asked, and students are required to attempt only 3.
+The dataset contains 27 questions. In the actual examination, 6 long-answer questions are asked, and students are required to attempt only 3.
 
-Your task is to analyze all 30 questions and identify the 12 most important questions that students must study to maximize their chances of success.
+Your task is to analyze all 27 questions and identify the 12 most important questions that students must study to maximize their chances of success.
 
 You must follow the logical methodology below strictly and systematically:
 
 Frequency Analysis
 
-Count how many times each question, or its close variants, has appeared over the 8 years.
+Count how many times each question, or its close variants, has appeared over the 9 years.
 
 Assign a frequency score to each question.
 

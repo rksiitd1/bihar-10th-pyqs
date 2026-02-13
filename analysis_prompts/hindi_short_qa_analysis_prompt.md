@@ -1,8 +1,8 @@
 These are Class 10 Bihar Board Hindi short-answer questions collected from the past 10 years of board examinations. Only short-answer type questions are included.
 
-The dataset contains 157 questions. In the actual examination, 10 short-answer questions are asked, and students are required to attempt only 5.
+The dataset contains 150 questions. In the actual examination, 10 short-answer questions are asked, and students are required to attempt only 5.
 
-Your task is to analyze all 157 questions and identify the 40 most important questions that students must study to maximize their chances of success.
+Your task is to analyze all 150 questions and identify the 40 most important questions that students must study to maximize their chances of success.
 
 You must follow the logical methodology below strictly and systematically:
 

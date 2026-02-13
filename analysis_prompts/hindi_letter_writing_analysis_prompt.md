@@ -1,8 +1,8 @@
 These are Class 10 Bihar Board Hindi Letter/Application Writing questions collected from the past 10 years.
 
-The dataset contains 34 questions. In the exam, usually 2 questions are asked (one formal, one informal or internal choice), and students attempt one.
+The dataset contains 30 questions. In the exam, usually 2 questions are asked (one formal, one informal or internal choice), and students attempt one.
 
-Your task is to analyze all 34 questions and identify the 8 essential letter types/scenarios to practice.
+Your task is to analyze all 30 questions and identify the 8 essential letter types/scenarios to practice.
 
 Follow this methodology:
 1. **Recipient Analysis**: Categorize by recipient (Headmaster/Principal, Father/Mother/Relative, Editor, Municipal/Police authorities).

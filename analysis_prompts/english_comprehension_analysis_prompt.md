@@ -1,6 +1,6 @@
-These are Class 10 Bihar Board English Reading Comprehension (Unseen Passage/Gadyansh) passages collected from the past 10 years.
+These are Class 10 Bihar Board English Reading Comprehension (Unseen Passage/Gadyansh) passages collected from the past 14 years.
 
-The dataset contains 54 passages.
+The dataset contains 116 passages.
 
 Your task is to analyze these passages to understand the *nature* of texts selected by the board and identify 8 representative themes or types for practice.
 

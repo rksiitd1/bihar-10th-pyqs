@@ -1,8 +1,8 @@
-These are Class 10 Bihar Board English Letter/Application Writing questions collected from the past 10 years.
+These are Class 10 Bihar Board English Letter/Application Writing questions collected from the past 14 years.
 
-The dataset contains 47 questions. In the exam, usually 2 questions are asked (one formal, one informal or internal choice), and students attempt one.
+The dataset contains 100 questions. In the exam, usually 2 questions are asked (one formal, one informal or internal choice), and students attempt one.
 
-Your task is to analyze all 47 questions and identify the 10 essential letter types/scenarios to practice.
+Your task is to analyze all 100 questions and identify the 10 essential letter types/scenarios to practice.
 
 Follow this methodology:
 1. **Recipient Analysis**: Categorize by recipient (Headmaster/Principal, Father/Mother/Relative, Editor, Municipal/Police authorities).

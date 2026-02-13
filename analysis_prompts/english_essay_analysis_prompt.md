@@ -1,8 +1,8 @@
-These are Class 10 Bihar Board English Essay (Nibandh/Paragraph) topics collected from the past 10 years of board examinations.
+These are Class 10 Bihar Board English Essay (Nibandh/Paragraph) topics collected from the past 14 years of board examinations.
 
-The dataset contains 23 essay topics. In the examination, students are typically given 4-5 options and must choose one to write on.
+The dataset contains 42 essay topics. In the examination, students are typically given 4-5 options and must choose one to write on.
 
-Your task is to analyze all 23 topics and identify the 8 most probable and important essay topics that students must prepare.
+Your task is to analyze all 42 topics and identify the 8 most probable and important essay topics that students must prepare.
 
 Follow this methodology:
 1. **Thematic Clustering**: Group topics by core theme (e.g., Environmental, National Festivals, Social Problems, Personal Ambition, Health/Sports).

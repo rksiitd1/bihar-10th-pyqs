@@ -1,8 +1,8 @@
-These are Class 10 Bihar Board English Translation questions (Hindi to English or vice-versa) collected from the past 8 years.
+These are Class 10 Bihar Board English Translation questions (Hindi to English or vice-versa) collected from the past 11 years.
 
-The dataset contains 18 translation sentences/items.
+The dataset contains 29 translation sentences/items.
 
-Your task is to analyze all 18 items and identify the 10 most critical **Grammar Rules or Sentence Patterns** that are repeatedly tested.
+Your task is to analyze all 29 items and identify the 10 most critical **Grammar Rules or Sentence Patterns** that are repeatedly tested.
 
 Follow this methodology:
 1. **Grammar Decomposition**: Break down sentences to identify the underlying rule (e.g., Simple Present Tense, Case endings/Vibhakti usage, Passive Voice, Imperative Mood).

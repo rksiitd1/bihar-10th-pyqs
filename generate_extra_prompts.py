@@ -1,26 +1,25 @@
 import os
+import json
 
-# --- Hindi Data ---
-HINDI_DATA = {
-    'essay': {'total': 49, 'years': 10, 'target': 10},
-    'letter_writing': {'total': 34, 'years': 10, 'target': 8},
-    'comprehension': {'total': 50, 'years': 10, 'target': 8}
-}
-
-# --- English Data ---
-ENGLISH_DATA = {
-    'essay': {'total': 23, 'years': 10, 'target': 8},
-    'letter_writing': {'total': 47, 'years': 10, 'target': 10},
-    'comprehension': {'total': 54, 'years': 10, 'target': 8},
-    'translation': {'total': 18, 'years': 8, 'target': 10} # 18 seems low? Maybe groups of sentences.
-}
-
-# --- Sanskrit Data ---
-SANSKRIT_DATA = {
-    'essay': {'total': 88, 'years': 15, 'target': 12},
-    'letter_writing': {'total': 62, 'years': 10, 'target': 10},
-    'comprehension': {'total': 64, 'years': 13, 'target': 8},
-    'translation': {'total': 182, 'years': 15, 'target': 25}
+# Target selection counts for each subject and question type
+SUBJECT_TARGETS = {
+    'hindi': {
+        'essay': 10,
+        'letter_writing': 8,
+        'comprehension': 8
+    },
+    'english': {
+        'essay': 8,
+        'letter_writing': 10,
+        'comprehension': 8,
+        'translation': 10
+    },
+    'sanskrit': {
+        'essay': 12,
+        'letter_writing': 10,
+        'comprehension': 8,
+        'translation': 25
+    }
 }
 
 # --- Templates ---
@@ -109,52 +108,46 @@ A student proficient in these {target} patterns should be able to solve majority
 def generate():
     os.makedirs("analysis_prompts", exist_ok=True)
     
-    # --- Process Hindi ---
-    subject = "Hindi"
-    s_key = "hindi"
-    for type_key, data in HINDI_DATA.items():
-        if type_key == 'essay': templ = ESSAY_TEMPLATE
-        elif type_key == 'letter_writing': templ = LETTER_TEMPLATE
-        elif type_key == 'comprehension': templ = COMPREHENSION_TEMPLATE
-        else: continue
+    for s_key, targets in SUBJECT_TARGETS.items():
+        manifest_path = f"{s_key}_pro_types/manifest.json"
         
-        content = templ.format(subject=subject, years=data['years'], total_items=data['total'], target=data['target'])
-        filename = f"analysis_prompts/{s_key}_{type_key}_analysis_prompt.md"
-        with open(filename, 'w', encoding='utf-8') as f:
-            f.write(content)
-        print(f"Generated {filename}")
-
-    # --- Process English ---
-    subject = "English"
-    s_key = "english"
-    for type_key, data in ENGLISH_DATA.items():
-        if type_key == 'essay': templ = ESSAY_TEMPLATE
-        elif type_key == 'letter_writing': templ = LETTER_TEMPLATE
-        elif type_key == 'comprehension': templ = COMPREHENSION_TEMPLATE
-        elif type_key == 'translation': templ = TRANSLATION_TEMPLATE
-        else: continue
+        if not os.path.exists(manifest_path):
+            print(f"Skipping {s_key}: Manifest not found at {manifest_path}")
+            continue
+            
+        with open(manifest_path, 'r', encoding='utf-8') as f:
+            manifest = json.load(f)
+            
+        subject_name = s_key.capitalize()
         
-        content = templ.format(subject=subject, years=data['years'], total_items=data['total'], target=data['target'])
-        filename = f"analysis_prompts/{s_key}_{type_key}_analysis_prompt.md"
-        with open(filename, 'w', encoding='utf-8') as f:
-            f.write(content)
-        print(f"Generated {filename}")
-
-    # --- Process Sanskrit ---
-    subject = "Sanskrit"
-    s_key = "sanskrit"
-    for type_key, data in SANSKRIT_DATA.items():
-        if type_key == 'essay': templ = ESSAY_TEMPLATE
-        elif type_key == 'letter_writing': templ = LETTER_TEMPLATE
-        elif type_key == 'comprehension': templ = COMPREHENSION_TEMPLATE
-        elif type_key == 'translation': templ = TRANSLATION_TEMPLATE
-        else: continue
-        
-        content = templ.format(subject=subject, years=data['years'], total_items=data['total'], target=data['target'])
-        filename = f"analysis_prompts/{s_key}_{type_key}_analysis_prompt.md"
-        with open(filename, 'w', encoding='utf-8') as f:
-            f.write(content)
-        print(f"Generated {filename}")
+        for type_key, target_count in targets.items():
+            # Find data for this type in manifest
+            type_data = next((item for item in manifest if item["type"] == type_key), None)
+            
+            if not type_data:
+                print(f"  Note: Could not find type {type_key} in {s_key} manifest.")
+                continue
+                
+            total_items = type_data.get("total_items", 0)
+            years = type_data.get("years", 0)
+            
+            if type_key == 'essay': templ = ESSAY_TEMPLATE
+            elif type_key == 'letter_writing': templ = LETTER_TEMPLATE
+            elif type_key == 'comprehension': templ = COMPREHENSION_TEMPLATE
+            elif type_key == 'translation': templ = TRANSLATION_TEMPLATE
+            else: continue
+            
+            content = templ.format(
+                subject=subject_name, 
+                years=years, 
+                total_items=total_items, 
+                target=target_count
+            )
+            
+            filename = f"analysis_prompts/{s_key}_{type_key}_analysis_prompt.md"
+            with open(filename, 'w', encoding='utf-8') as f:
+                f.write(content)
+            print(f"Generated {filename} (Total items pulled: {total_items})")
 
 if __name__ == "__main__":
     generate()
