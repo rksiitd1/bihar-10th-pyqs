@@ -82,9 +82,13 @@ pip install google-generativeai pandas xlsxwriter requests groq python-dotenv
 
 ### Environment Configuration
 Create a `.env` file in the root directory:
-```text
-GOOGLE_API_KEY=your_google_api_key
-```
+> [!TIP]
+> **API Architecture (Monorepo vs. Standalone)**
+> This repository supports two modes of execution:
+> 1. **Monorepo Mode**: If found inside the `gurukulam` monorepo (with `repo-management-tools` in the parent), it uses the centralized `gemini_pool.py`. This provides global concurrency control and shared rate-limiting.
+> 2. **Standalone Mode**: If cloned independently, it falls back to standard `google-generativeai` logic using the local `.env` key.
+>
+> All logic is abstracted in `utils.py`.
 
 ---
 

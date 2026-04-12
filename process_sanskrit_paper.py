@@ -52,13 +52,7 @@ def generate_extraction_prompt(uploaded_file_uri: str) -> list:
     The PDF file is provided. Begin processing now.
     """)
 
-    return [
-        {'text': prompt},
-        {'file_data': {
-            'mime_type': 'application/pdf',
-            'file_uri': uploaded_file_uri
-        }}
-    ]
+    return prompt
 
 def process_question_paper(input_pdf_path: str, output_json_path: str):
     start_time = time.time()
@@ -78,30 +72,12 @@ def process_question_paper(input_pdf_path: str, output_json_path: str):
     raw_folder = output_parent.parent / raw_folder_name
     raw_folder.mkdir(exist_ok=True, parents=True)
 
-    # Initialize API
-    import google.generativeai as genai
-    utils.configure_genai()
-
-    logger.info("Uploading file...")
-    print("Uploading file...")
-    try:
-        uploaded_file = genai.upload_file(path=input_path, display_name=input_path.name)
-        logger.info(f"File uploaded: {uploaded_file.uri}")
-    except Exception as e:
-        logger.error(f"Upload failed: {e}")
-        raise
-
-    logger.info("Generating content...")
-    print("Generating content...")
-    prompt_parts = generate_extraction_prompt(uploaded_file.uri)
+    prompt_text = generate_extraction_prompt(None)
     model = utils.get_generative_model(model_name="models/gemini-3-flash-preview")
     
-    response = utils.generate_content_with_retry(model, prompt_parts, logger=logger)
+    response = utils.generate_content_from_file_with_retry(model, input_path, prompt_text, logger=logger)
 
     if not response:
-        logger.error("API call failed after retries")
-        try: genai.delete_file(uploaded_file.name)
-        except: pass
         return
 
     # Save raw response IMMEDIATELY
@@ -130,11 +106,7 @@ def process_question_paper(input_pdf_path: str, output_json_path: str):
         logger.info(f"Raw response is preserved at {raw_path}")
         print(f"❌ Error: {e}")
     
-    try:
-        genai.delete_file(uploaded_file.name)
-        logger.info("Deleted uploaded file from API")
-    except: 
-        pass
+
 
     elapsed = time.time() - start_time
     logger.info(f"Time: {elapsed:.2f}s")

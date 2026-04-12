@@ -14,52 +14,7 @@ logger = utils.setup_logger('process_hindi', 'logs/process_hindi.log')
 # --- Core Functions ---
 
 def generate_extraction_prompt(uploaded_file_uri: str) -> list:
-    prompt = textwrap.dedent("""
-    Your task is to act as an expert data extraction engine. You will receive a PDF file of a Bihar Board Class 10 Hindi question paper. You must meticulously extract all questions and convert them into a single, clean JSON array.
 
-    Follow these instructions precisely:
-
-    1.  **JSON Structure**: The output must be a JSON array where each element is an object representing a single question.
-    2.  **Required Fields for All Questions**:
-        - `id`: A unique string identifier. Numbering must start from 1 for EACH type. 
-          - Examples: "obj_1", "gadyansh_1", "nibandh_1", "patra_1", "short_1", "long_1".
-        - `type`: Categorize each question into one of these types:
-          - `objective`: Section A (Vastunisth Prashna).
-          - `comprehension`: Unseen Passages (Gadyansh).
-          - `essay`: Essay Writing (Nibandh).
-          - `letter_writing`: Letter/Application (Patra Lekhan).
-          - `short_answer`: Short Answer Questions (Laghu Uttariya).
-          - `long_answer`: Long Answer Questions (Dirgha Uttariya).
-        - `question`: The text of the question (in Hindi).
-        - `prashna`: Same as `question` (since it is already Hindi).
-        - `instructions`: Any specific instructions (e.g., "Answer any 5").
-
-    3.  **Handling Alternatives**:
-        - If questions have alternatives (OR/Athva), create separate objects with IDs like `long_1_1`, `long_1_2`.
-
-    4.  **Fields for "objective" Type**:
-        - `options`: An object with keys "A", "B", "C", "D".
-        - `vikalpa`: Same as `options` (since it is Hindi copy to both).
-
-    5.  **Fields for "comprehension" (Gadyansh)**:
-        - `context`: The full text of the passage (Gadyansh).
-        - `sub_questions`: Object containing the questions based on the passage.
-        - `anuprashna`: Same as `sub_questions`.
-
-    6.  **Accuracy**:
-        - Preserve all Hindi text exactly.
-        - Do not translate Hindi to English unless explicitly asked (not required here).
-
-    The PDF file is provided. Begin processing now.
-    """)
-
-    return [
-        {'text': prompt},
-        {'file_data': {
-            'mime_type': 'application/pdf',
-            'file_uri': uploaded_file_uri
-        }}
-    ]
 
 def process_question_paper(input_pdf_path: str, output_json_path: str):
     start_time = time.time()
@@ -79,9 +34,7 @@ def process_question_paper(input_pdf_path: str, output_json_path: str):
     raw_folder = output_parent.parent / raw_folder_name
     raw_folder.mkdir(exist_ok=True, parents=True)
 
-    # Initialize API
-    import google.generativeai as genai
-    utils.configure_genai()
+    # API configuration managed globally inside gemini_pool
 
     logger.info("Generating content...")
     print("Generating content...")
@@ -163,11 +116,7 @@ def process_question_paper(input_pdf_path: str, output_json_path: str):
         print(f"❌ Error: {e}")
         raise
     
-    try:
-        genai.delete_file(uploaded_file.name)
-        logger.info("Deleted uploaded file from API")
-    except: 
-        pass
+
 
     elapsed = time.time() - start_time
     logger.info(f"Time: {elapsed:.2f}s")

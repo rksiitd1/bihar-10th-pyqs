@@ -1,4 +1,4 @@
-﻿import os
+import os
 import json
 import argparse
 import pathlib
@@ -49,13 +49,7 @@ def generate_extraction_prompt(uploaded_file_uri: str) -> list:
     The PDF file is provided. Begin processing now and generate only the JSON array as your output.
     """)
 
-    return [
-        {'text': prompt},
-        {'file_data': {
-            'mime_type': 'application/pdf',
-            'file_uri': uploaded_file_uri
-        }}
-    ]
+    return prompt
 
 def process_question_paper(input_pdf_path: str, output_json_path: str):
     start_time = time.time()
@@ -75,31 +69,15 @@ def process_question_paper(input_pdf_path: str, output_json_path: str):
     raw_folder = output_parent.parent / raw_folder_name
     raw_folder.mkdir(exist_ok=True)
     
-    # Initialize API
-    import google.generativeai as genai # local import to avoid potential circular issues if moved to utils mostly
-    utils.configure_genai()
-
-    logger.info("Uploading file to the File API...")
-    try:
-        uploaded_file = genai.upload_file(path=input_path, display_name=input_path.name)
-        logger.info(f"File uploaded successfully: {uploaded_file.uri}")
-    except Exception as e:
-        logger.error(f"Failed to upload file: {e}")
-        raise
-
-    prompt_parts = generate_extraction_prompt(uploaded_file.uri)
+    prompt_text = generate_extraction_prompt(None)
 
     logger.info("Generating content with Gemini...")
     model = utils.get_generative_model(model_name="models/gemini-3-flash-preview")
     
-    response = utils.generate_content_with_retry(model, prompt_parts, logger=logger)
+    response = utils.generate_content_from_file_with_retry(model, input_path, prompt_text, logger=logger)
                 
     if not response:
         logger.error("Skipping this file due to API failure.")
-        try:
-            genai.delete_file(uploaded_file.name)
-        except:
-            pass
         raise Exception("API call failed after retries")
 
     # Save raw response IMMEDIATELY
@@ -115,17 +93,8 @@ def process_question_paper(input_pdf_path: str, output_json_path: str):
     except json.JSONDecodeError as e:
         logger.error(f"Failed to decode JSON: {e}")
         logger.error(f"Raw response is preserved in: {raw_path}")
-        try:
-            genai.delete_file(uploaded_file.name)
-        except:
-            pass
-        return
     except Exception as e:
         logger.error(f"An unexpected error occurred: {e}")
-        try:
-            genai.delete_file(uploaded_file.name)
-        except:
-            pass
         return
 
     logger.info(f"Writing structured data to: {output_path}")
@@ -135,12 +104,7 @@ def process_question_paper(input_pdf_path: str, output_json_path: str):
     logger.info("Processing complete!")
     print(f"✅ Processed {input_path.name}") 
     
-    try:
-        logger.info(f"Deleting file {uploaded_file.name} from the API...")
-        genai.delete_file(uploaded_file.name)
-        logger.info("File deleted.")
-    except Exception as e:
-        logger.warning(f"Could not delete file: {e}")
+
     
     end_time = time.time()
     execution_time = end_time - start_time
