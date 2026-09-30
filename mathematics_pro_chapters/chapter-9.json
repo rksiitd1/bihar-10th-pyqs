@@ -567,14 +567,6 @@
       }
     },
     {
-      "id": "short_7",
-      "type": "short_answer",
-      "chapter": "9",
-      "chapter_name": "Some Applications of Trigonometry",
-      "question": "A ladder 7 m long makes an angle of $30^\\circ$ with the wall. Find the height of the point on the wall where the ladder touches the wall.",
-      "prashna": "एक 7 मी लंबी सीढ़ी दीवार के साथ $30^\\circ$ का कोण बनाती है। दीवार पर उस बिन्दु की ऊँचाई ज्ञात करें जहाँ सीढ़ी दीवार को स्पर्श करती है।"
-    },
-    {
       "id": "obj_39",
       "type": "objective",
       "chapter": "9",
@@ -613,6 +605,92 @@
         "C": "$60^\\circ$",
         "D": "$90^\\circ$"
       }
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_84",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Some Applications of Trigonometry",
+      "question": "If the length of the shadow of a tree is equal to its height then angle of elevation of the sun is",
+      "prashna": "यदि किसी वृक्ष की छाया की लम्बाई उसकी ऊँचाई के बराबर हो तो सूर्य का उन्नयन कोण है",
+      "options": {
+        "A": "30^{\\circ}",
+        "B": "45^{\\circ}",
+        "C": "60^{\\circ}",
+        "D": "75^{\\circ}"
+      },
+      "vikalpa": {
+        "A": "30^{\\circ}",
+        "B": "45^{\\circ}",
+        "C": "60^{\\circ}",
+        "D": "75^{\\circ}"
+      }
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter": "9",
+      "chapter_name": "Some Applications of Trigonometry",
+      "question": "If the length of shadow of a pole is equal to \\sqrt{3} times of its height then find the angle of elevation of the sun.",
+      "prashna": "यदि किसी खम्भे की छाया की लम्बाई उसकी ऊँचाई के \\sqrt{3} गुनी के बराबर हो तो सूर्य का उन्नयन कोण ज्ञात करें।"
+    },
+    {
+      "id": "long_35",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Some Applications of Trigonometry",
+      "question": "The angle of elevation of the top of a building from the foot of a tower is 30^{\\circ} and the angle of elevation of the top of the tower from the foot of the building is 60^{\\circ}. If the tower is 60 m high then find the height of the building.",
+      "prashna": "किसी भवन के शिखर का उन्नयन कोण मीनार के पाद से 30^{\\circ} है तथा मीनार के शिखर का उन्नयन कोण भवन के पाद से 60^{\\circ} है। यदि मीनार की ऊँचाई 60 मी हो तो भवन की ऊँचाई ज्ञात करें।"
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Some Applications of Trigonometry",
+      "question": "The angle of elevation of the top of a tower at a distance of 25 m from its foot is 60^{\\circ}, then the height of the tower is",
+      "prashna": "एक मीनार के शीर्ष का उन्नयन कोण उसके पाद से 25 मी की दूरी पर 60^{\\circ} है तो मीनार की ऊँचाई है",
+      "options": {
+        "A": "5\\sqrt{3} m",
+        "B": "15\\sqrt{3} m",
+        "C": "25\\sqrt{3} m",
+        "D": "25 m"
+      },
+      "vikalpa": {
+        "A": "5\\sqrt{3} मी",
+        "B": "15\\sqrt{3} मी",
+        "C": "25\\sqrt{3} मी",
+        "D": "25 मी"
+      }
+    },
+    {
+      "id": "obj_91",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Some Applications of Trigonometry",
+      "question": "A kite is at a height of 20 m from the earth and its string makes an angle 45^{\\circ} with the earth, then the length of the string is",
+      "prashna": "एक पतंग पृथ्वी से 20 मी की ऊँचाई पर है और इसकी डोर पृथ्वी से 45^{\\circ} का कोण बनाती है तो डोर की लम्बाई है",
+      "options": {
+        "A": "20\\sqrt{2} m",
+        "B": "10\\sqrt{2} m",
+        "C": "5\\sqrt{2} m",
+        "D": "10 m"
+      },
+      "vikalpa": {
+        "A": "20\\sqrt{2} मी",
+        "B": "10\\sqrt{2} मी",
+        "C": "5\\sqrt{2} मी",
+        "D": "10 मी"
+      }
+    },
+    {
+      "id": "long_36",
+      "type": "long_answer",
+      "chapter": "9",
+      "chapter_name": "Some Applications of Trigonometry",
+      "question": "From a point P on the ground the angle of elevation of the top of a 10 m tall building is 30^{\\circ}. A flag is hoisted at the top of the building and angle of elevation of the top of the flagstaff from P is 45^{\\circ}. Find the length of the flagstaff and the distance of the building from the point P. ( where \\sqrt{3} = 1.732 )",
+      "prashna": "भूमि के एक बिन्दु P से एक 10 मी ऊँचे भवन के शिखर का उन्नयन कोण 30^{\\circ} है। भवन के शिखर पर एक ध्वज को लहराया गया है और P से ध्वजदण्ड के शिखर का उन्नयन कोण 45^{\\circ} है। ध्वजदंड की लम्बाई और बिन्दु P से भवन की दूरी ज्ञात करें। ( जहाँ \\sqrt{3} = 1.732 )"
     }
   ]
 }

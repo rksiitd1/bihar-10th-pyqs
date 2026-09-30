@@ -21,16 +21,6 @@
       }
     }
   ],
-  "2012": [
-    {
-      "id": "short_9",
-      "type": "short_answer",
-      "chapter": "1",
-      "chapter_name": "Chemical Reactions and Equations",
-      "question": "What happens when zinc is added to a solution of iron (II) sulphate? Write the chemical reaction that takes place.",
-      "prashna": "जिंक को आयरन (II) सल्फेट के विलयन में डालने से क्या होता है? होनेवाली रासायनिक अभिक्रिया लिखिए।"
-    }
-  ],
   "2014": [
     {
       "id": "obj_5",
@@ -50,26 +40,6 @@
         "B": "श्वसन",
         "C": "भोजन का पचना",
         "D": "अवक्षेपण"
-      }
-    },
-    {
-      "id": "obj_68",
-      "type": "objective",
-      "chapter": "1",
-      "chapter_name": "Chemical Reactions and Equations",
-      "question": "The ratio of nitrogen and hydrogen atoms in an ammonia molecule is",
-      "prashna": "अमोनिया के अणु में नाइट्रोजन एवं हाइड्रोजन के परमाणुओं की संख्या का अनुपात है।",
-      "options": {
-        "A": "3:1",
-        "B": "2:1",
-        "C": "1:2",
-        "D": "1:3"
-      },
-      "vikalpa": {
-        "A": "3:1",
-        "B": "2:1",
-        "C": "1:2",
-        "D": "1:3"
       }
     },
     {
@@ -107,37 +77,9 @@
         "C": "$NO_2$ और $N_2$",
         "D": "$NO_2$ और $O_2$"
       }
-    },
-    {
-      "id": "obj_18",
-      "type": "objective",
-      "chapter": "1",
-      "chapter_name": "Chemical Reactions and Equations",
-      "question": "What type of reaction is the digestion of food?",
-      "prashna": "भोजन का पचना किस प्रकार की अभिक्रिया है?",
-      "options": {
-        "A": "Oxidation (Upchayan)",
-        "B": "Combination",
-        "C": "Reduction (Apchayan)",
-        "D": "Displacement"
-      },
-      "vikalpa": {
-        "A": "उपचयन",
-        "B": "संयोजन",
-        "C": "अपचयन",
-        "D": "विस्थापन"
-      }
     }
   ],
   "2015": [
-    {
-      "id": "short_10",
-      "type": "short_answer",
-      "chapter": "1",
-      "chapter_name": "Chemical Reactions and Equations",
-      "question": "What type of reaction takes place in the digestion of food in our body?",
-      "prashna": "भोजन के पाचन द्वारा किस प्रकार की अभिक्रिया हमारे शरीर में होती है ?"
-    },
     {
       "id": "obj_14",
       "type": "objective",
@@ -263,55 +205,15 @@
       "prashna": "उत्प्रेरक से आप क्या समझते हैं?"
     },
     {
-      "id": "short_8",
+      "id": "short_6",
       "type": "short_answer",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
-      "question": "Write the anomalies of Mendeleev's periodic table.",
-      "prashna": "मेंडलीफ के आवर्तसारणी की विसंगतियों को लिखें।"
-    },
-    {
-      "id": "obj_14",
-      "type": "objective",
-      "chapter": "1",
-      "chapter_name": "Chemical Reactions and Equations",
-      "question": "The number of horizontal rows in the modern periodic table is-",
-      "prashna": "आधुनिक आवर्त सारणी में क्षैतिज कतारों की संख्या होती है-",
-      "options": {
-        "A": "18",
-        "B": "7",
-        "C": "16",
-        "D": "10"
-      },
-      "vikalpa": {
-        "A": "18",
-        "B": "7",
-        "C": "16",
-        "D": "10"
-      }
+      "question": "What do you understand by a catalyst?",
+      "prashna": "उत्प्रेरक से आप क्या समझते हैं?"
     }
   ],
   "2018": [
-    {
-      "id": "obj_14",
-      "type": "objective",
-      "chapter": "1",
-      "chapter_name": "Chemical Reactions and Equations",
-      "question": "Which of the following solutions is used for white washing walls?",
-      "prashna": "निम्नलिखित में किस विलयन का उपयोग दीवारों की सफेदी करने के लिए किया जाता है?",
-      "options": {
-        "A": "$Ca(HCO_3)_2$",
-        "B": "$Ca(OH)_2$",
-        "C": "$Na(OH)$",
-        "D": "$Na(HCO_3)$"
-      },
-      "vikalpa": {
-        "A": "$Ca(HCO_3)_2$",
-        "B": "$Ca(OH)_2$",
-        "C": "$Na(OH)$",
-        "D": "$Na(HCO_3)$"
-      }
-    },
     {
       "id": "obj_15",
       "type": "objective",
@@ -330,26 +232,6 @@
         "B": "वियोजन अभिक्रिया",
         "C": "द्वि विस्थापन अभिक्रिया",
         "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_16",
-      "type": "objective",
-      "chapter": "1",
-      "chapter_name": "Chemical Reactions and Equations",
-      "question": "Which one of the following is slaked lime?",
-      "prashna": "निम्नलिखित में से कौन सा बुझा हुआ चूना है?",
-      "options": {
-        "A": "$CaO$",
-        "B": "$Ca(OH)_2$",
-        "C": "$CaCO_3$",
-        "D": "$Ca$"
-      },
-      "vikalpa": {
-        "A": "$CaO$",
-        "B": "$Ca(OH)_2$",
-        "C": "$CaCO_3$",
-        "D": "$Ca$"
       }
     },
     {
@@ -378,26 +260,6 @@
         "ii": "वियोजन अभिक्रिया",
         "iii": "विस्थापन अभिक्रिया",
         "iv": "द्विविस्थापन अभिक्रिया"
-      }
-    },
-    {
-      "id": "obj_14",
-      "type": "objective",
-      "chapter": "1",
-      "chapter_name": "Chemical Reactions and Equations",
-      "question": "Which one of the following is slaked lime?",
-      "prashna": "निम्नलिखित में से कौन सा बुझा हुआ चूना है?",
-      "options": {
-        "A": "$CaO$",
-        "B": "$Ca(OH)_2$",
-        "C": "$CaCO_3$",
-        "D": "$Ca$"
-      },
-      "vikalpa": {
-        "A": "$CaO$",
-        "B": "$Ca(OH)_2$",
-        "C": "$CaCO_3$",
-        "D": "$Ca$"
       }
     },
     {
@@ -441,32 +303,28 @@
       }
     },
     {
-      "id": "obj_26",
-      "type": "objective",
-      "chapter": "1",
-      "chapter_name": "Chemical Reactions and Equations",
-      "question": "An iron nail was dipped in solution kept in a test tube. After half an hour, it was observed that colour of the solution has changed. The solution in test tube was -",
-      "prashna": "एक जाँच परखनली में लिए गये विलयन में एक लोहे की कील को डुबाया गया। आधे घंटे के बाद यह देखा गया कि विलयन का रंग परिवर्तित हो चुका है। उस जाँच परखनली में विलयन था -",
-      "options": {
-        "A": "$ZnSO_4$",
-        "B": "$CuSO_4$",
-        "C": "$FeSO_4$",
-        "D": "$Al_2(SO_4)_3$"
-      },
-      "vikalpa": {
-        "A": "$ZnSO_4$",
-        "B": "$CuSO_4$",
-        "C": "$FeSO_4$",
-        "D": "$Al_2(SO_4)_3$"
-      }
-    },
-    {
       "id": "short_7",
       "type": "short_answer",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
       "question": "What do you mean by a Precipitation Reaction? Explain it by giving an example.",
       "prashna": "अवक्षेपण अभिक्रिया से आप क्या समझते हैं? एक उदाहरण देकर समझाइए।"
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Chemical Reactions and Equations",
+      "question": "Write equations for the reactions of -",
+      "prashna": "इन अभिक्रियाओं के लिए समीकरण लिखिए -",
+      "sub_questions": {
+        "A": "Iron with Steam",
+        "B": "Calcium with Water"
+      },
+      "anuprashna": {
+        "A": "भाप के साथ लोहा",
+        "B": "जल के साथ कैल्सियम"
+      }
     }
   ],
   "2019": [
@@ -499,6 +357,24 @@
       "prashna": "वियोजन अभिक्रिया एवं संयोजन अभिक्रिया के लिए एक-एक समीकरण लिखिए।"
     },
     {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "1",
+      "chapter_name": "Chemical Reactions and Equations",
+      "question": "What are the following reactions?",
+      "prashna": "निम्नलिखित अभिक्रियाएँ क्या हैं?",
+      "sub_questions": {
+        "i": "Addition reaction",
+        "ii": "Substitution reaction",
+        "iii": "Esterification reaction"
+      },
+      "anuprashna": {
+        "i": "संकलन अभिक्रिया",
+        "ii": "प्रतिस्थापन अभिक्रिया",
+        "iii": "एस्टरीकरण अभिक्रिया"
+      }
+    },
+    {
       "id": "obj_3",
       "type": "objective",
       "chapter": "1",
@@ -517,14 +393,6 @@
         "C": "संक्षारण",
         "D": "इनमें से कोई नहीं"
       }
-    },
-    {
-      "id": "short_11",
-      "type": "short_answer",
-      "chapter": "1",
-      "chapter_name": "Chemical Reactions and Equations",
-      "question": "Why does the colour of copper sulfate solution change when an iron nail is dipped in it?",
-      "prashna": "जब लोहे की कील को कॉपर सल्फेट के विलयन में डुबोया जाता है तो विलयन का रंग क्यों बदल जाता है?"
     },
     {
       "id": "short_12",
@@ -675,46 +543,6 @@
       }
     },
     {
-      "id": "obj_49",
-      "type": "objective",
-      "chapter": "1",
-      "chapter_name": "Chemical Reactions and Equations",
-      "question": "Slaked lime is",
-      "prashna": "बुझा हुआ चूना है।",
-      "options": {
-        "A": "$Ca(OH)_2$",
-        "B": "$CaO$",
-        "C": "$CaCO_3$",
-        "D": "$Ca$"
-      },
-      "vikalpa": {
-        "A": "$Ca(OH)_2$",
-        "B": "$CaO$",
-        "C": "$CaCO_3$",
-        "D": "$Ca$"
-      }
-    },
-    {
-      "id": "obj_68",
-      "type": "objective",
-      "chapter": "1",
-      "chapter_name": "Chemical Reactions and Equations",
-      "question": "The ratio of numbers of Nitrogen and Hydrogen atoms in a molecule of Ammonia is",
-      "prashna": "अमोनिया के अणु में नाइट्रोजन एवं हाइड्रोजन के परमाणुओं की संख्या का अनुपात है।",
-      "options": {
-        "A": "3:1",
-        "B": "2:1",
-        "C": "1:2",
-        "D": "1:3"
-      },
-      "vikalpa": {
-        "A": "3:1",
-        "B": "2:1",
-        "C": "1:2",
-        "D": "1:3"
-      }
-    },
-    {
       "id": "short_16",
       "type": "short_answer",
       "chapter": "1",
@@ -833,26 +661,6 @@
       }
     },
     {
-      "id": "obj_56",
-      "type": "objective",
-      "chapter": "1",
-      "chapter_name": "Chemical Reactions and Equations",
-      "question": "Respiration is which type of chemical reaction ?",
-      "prashna": "श्वसन किस प्रकार की रासायनिक अभिक्रिया है ?",
-      "options": {
-        "A": "Oxidation",
-        "B": "Exothermic",
-        "C": "Combination",
-        "D": "Reduction"
-      },
-      "vikalpa": {
-        "A": "उपचयन",
-        "B": "ऊष्माक्षेपी",
-        "C": "संयोजन",
-        "D": "अपचयन"
-      }
-    },
-    {
       "id": "short_11",
       "type": "short_answer",
       "chapter": "1",
@@ -867,46 +675,6 @@
       "chapter_name": "Chemical Reactions and Equations",
       "question": "On prolonged heating of copper turnings in the air, a black coating is formed on it. On passing hydrogen gas over it, it regains its brown colour. Which reactions take place here? Write the names and equations of the reactions.",
       "prashna": "ताम्र छिलन को हवा में लम्बे समय तक गर्म करने पर, उस पर काली परत चढ़ जाती है। इस पर हाइड्रोजन गैस प्रवाहित करने पर उसका भूरा रंग पुनः वापस आ जाता है। यहाँ कौन-कौन-सी अभिक्रियाएँ होती हैं ? अभिक्रियाओं के नाम एवं समीकरण लिखें।"
-    },
-    {
-      "id": "obj_28",
-      "type": "objective",
-      "chapter": "1",
-      "chapter_name": "Chemical Reactions and Equations",
-      "question": "Digestion of food in the body is which type of reaction?",
-      "prashna": "शयीय भें बोजन का ऩचना ककस प्रकाय की अमबकक्रमा है?",
-      "options": {
-        "A": "Combination",
-        "B": "Reduction",
-        "C": "Oxidation",
-        "D": "Displacement"
-      },
-      "vikalpa": {
-        "A": "सॊमोजन",
-        "B": "अऩचमन",
-        "C": "उऩचमन",
-        "D": "विस्थाऩन"
-      }
-    },
-    {
-      "id": "obj_35",
-      "type": "objective",
-      "chapter": "1",
-      "chapter_name": "Chemical Reactions and Equations",
-      "question": "Chemical formula of quick lime is",
-      "prashna": "करी चनू ा का यासामननक सत्रू है।",
-      "options": {
-        "A": "$Ca(OH)_2$",
-        "B": "$CaCO_3$",
-        "C": "$CaO$",
-        "D": "$Ca(HCO_3)_2$"
-      },
-      "vikalpa": {
-        "A": "$Ca(OH)_2$",
-        "B": "$CaCO_3$",
-        "C": "$CaO$",
-        "D": "$Ca(HCO_3)_2$"
-      }
     },
     {
       "id": "obj_74",
@@ -999,26 +767,6 @@
       }
     },
     {
-      "id": "obj_69",
-      "type": "objective",
-      "chapter": "1",
-      "chapter_name": "Chemical Reactions and Equations",
-      "question": "What is the atomic weight of oxygen?",
-      "prashna": "ऑक्सीजन का परमाणु भार क्या है ?",
-      "options": {
-        "A": "8",
-        "B": "12",
-        "C": "16",
-        "D": "18"
-      },
-      "vikalpa": {
-        "A": "8",
-        "B": "12",
-        "C": "16",
-        "D": "18"
-      }
-    },
-    {
       "id": "obj_72",
       "type": "objective",
       "chapter": "1",
@@ -1040,26 +788,6 @@
     }
   ],
   "2024": [
-    {
-      "id": "obj_20",
-      "type": "objective",
-      "chapter": "1",
-      "chapter_name": "Chemical Reactions and Equations",
-      "question": "What is the chemical formula of quicklime ?",
-      "prashna": "कली चूना का रासायनिक सूत्र क्या है ?",
-      "options": {
-        "A": "$Ca(OH)_2$",
-        "B": "$CaO$",
-        "C": "$Ca(HCO_3)_2$",
-        "D": "$CaCO_3$"
-      },
-      "vikalpa": {
-        "A": "$Ca(OH)_2$",
-        "B": "$CaO$",
-        "C": "$Ca(HCO_3)_2$",
-        "D": "$CaCO_3$"
-      }
-    },
     {
       "id": "obj_65",
       "type": "objective",
@@ -1107,14 +835,6 @@
       "chapter_name": "Chemical Reactions and Equations",
       "question": "Why is it necessary to balance a chemical equation ?",
       "prashna": "रासायनिक समीकरण को संतुलित करना क्यों आवश्यक है ?"
-    },
-    {
-      "id": "short_16",
-      "type": "short_answer",
-      "chapter": "1",
-      "chapter_name": "Chemical Reactions and Equations",
-      "question": "What is corrosion ? Explain with example.",
-      "prashna": "संक्षारण क्या है ? सोदाहरण समझाएँ।"
     },
     {
       "id": "obj_59",
@@ -1203,26 +923,6 @@
   ],
   "2025": [
     {
-      "id": "obj_68",
-      "type": "objective",
-      "chapter": "1",
-      "chapter_name": "Chemical Reactions and Equations",
-      "question": "Which type of reaction is respiration?",
-      "prashna": "श्वसन किस प्रकार की अभिक्रिया है ?",
-      "options": {
-        "A": "Combination",
-        "B": "Reduction",
-        "C": "Endothermic",
-        "D": "Oxidation"
-      },
-      "vikalpa": {
-        "A": "संयोजन",
-        "B": "अपचयन",
-        "C": "ऊष्माशोषी",
-        "D": "उपचयन"
-      }
-    },
-    {
       "id": "obj_70",
       "type": "objective",
       "chapter": "1",
@@ -1240,26 +940,6 @@
         "B": "$NH_4CNO \rightarrow H_2NCONH_2$",
         "C": "$NaOH + HCl \rightarrow NaCl + H_2O$",
         "D": "$2KClO_3 \rightarrow KCl + 3O_2$"
-      }
-    },
-    {
-      "id": "obj_72",
-      "type": "objective",
-      "chapter": "1",
-      "chapter_name": "Chemical Reactions and Equations",
-      "question": "What is the chemical name of slaked lime?",
-      "prashna": "बुझे हुए चूने का रासायनिक नाम क्या है ?",
-      "options": {
-        "A": "Calcium oxychloride",
-        "B": "Calcium chloride",
-        "C": "Calcium oxide",
-        "D": "Calcium hydroxide"
-      },
-      "vikalpa": {
-        "A": "कैल्सियम ऑक्सीक्लोराइड",
-        "B": "कैल्सियम क्लोराइड",
-        "C": "कैल्सियम ऑक्साइड",
-        "D": "कैल्सियम हाइड्राइड"
       }
     },
     {
@@ -1329,14 +1009,228 @@
         "C": "ऑक्सीजन का संकलन",
         "D": "इनमें से सभी"
       }
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Chemical Reactions and Equations",
+      "question": "The reaction in which heat is evolved along with the formation of products is called",
+      "prashna": "वह अभिक्रिया जिसमें उत्पाद के बनने के साथ-साथ ऊष्मा भी उत्पन्न होती है, कहलाती है",
+      "options": {
+        "A": "exothermic",
+        "B": "endothermic",
+        "C": "photosynthesis",
+        "D": "oxidation"
+      },
+      "vikalpa": {
+        "A": "ऊष्माक्षेपी",
+        "B": "ऊष्माशोषी",
+        "C": "प्रकाश संश्लेषण",
+        "D": "उपचयन"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Chemical Reactions and Equations",
+      "question": "The reaction $2Cu + O_2 \\longrightarrow 2CuO$ is which type of chemical reaction ?",
+      "prashna": "अभिक्रिया $2Cu + O_2 \\longrightarrow 2CuO$ किस प्रकार की रासायनिक अभिक्रिया है ?",
+      "options": {
+        "A": "Oxidation",
+        "B": "Reduction",
+        "C": "Displacement",
+        "D": "Neutralization"
+      },
+      "vikalpa": {
+        "A": "उपचयन",
+        "B": "अपचयन",
+        "C": "विस्थापन",
+        "D": "उदासीनीकरण"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Chemical Reactions and Equations",
+      "question": "Which of the following is an oxidant ?",
+      "prashna": "निम्नांकित में कौन-सा उपचायक है ?",
+      "options": {
+        "A": "$H_2$",
+        "B": "CO",
+        "C": "$O_3$",
+        "D": "$H_2S$"
+      },
+      "vikalpa": {
+        "A": "$H_2$",
+        "B": "CO",
+        "C": "$O_3$",
+        "D": "$H_2S$"
+      }
+    },
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Chemical Reactions and Equations",
+      "question": "In electrolysis, electrons are liberated at",
+      "prashna": "वैद्युत अपघटन में इलेक्ट्रॉन मुक्त होता है",
+      "options": {
+        "A": "anode",
+        "B": "cathode",
+        "C": "both (A) and (B)",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "ऐनोड पर",
+        "B": "कैथोड पर",
+        "C": "(A) और (B) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
     },
     {
       "id": "short_11",
       "type": "short_answer",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
-      "question": "Why does the colour of the solution change when a piece of iron is added to copper sulphate solution ?",
-      "prashna": "कॉपर सल्फेट के विलयन में लोहे का एक टुकड़ा डाल देने पर विलयन का रंग क्यों बदल जाता है ?"
+      "question": "What is a balanced chemical equation ? Give an example.",
+      "prashna": "संतुलित रासायनिक समीकरण क्या है ? इसका एक उदाहरण दें।"
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Chemical Reactions and Equations",
+      "question": "What do you understand by electrolysis ?",
+      "prashna": "वैद्युत अपघटन से आप क्या समझते हैं ?"
+    },
+    {
+      "id": "obj_60",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Chemical Reactions and Equations",
+      "question": "The chemical reaction, $Na_2SO_4(aq) + BaCl_2(aq) \\longrightarrow BaSO_4(s) + 2NaCl(aq)$ is of which type ?",
+      "prashna": "रासायनिक अभिक्रिया, $Na_2SO_4(aq) + BaCl_2(aq) \\longrightarrow BaSO_4(s) + 2NaCl(aq)$ किस प्रकार की है ?",
+      "options": {
+        "A": "Combination reaction",
+        "B": "Double displacement reaction",
+        "C": "Decomposition reaction",
+        "D": "Displacement reaction"
+      },
+      "vikalpa": {
+        "A": "संयोजन अभिक्रिया",
+        "B": "द्विविस्थापन अभिक्रिया",
+        "C": "वियोजन अभिक्रिया",
+        "D": "विस्थापन अभिक्रिया"
+      }
+    },
+    {
+      "id": "obj_61",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Chemical Reactions and Equations",
+      "question": "The addition of oxygen to a substance during a chemical reaction is called",
+      "prashna": "रासायनिक अभिक्रिया के दौरान किसी पदार्थ में ऑक्सीजन का योग कहलाता है",
+      "options": {
+        "A": "reduction",
+        "B": "oxidation",
+        "C": "corrosion",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "अपचयन",
+        "B": "उपचयन",
+        "C": "संक्षारण",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_62",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Chemical Reactions and Equations",
+      "question": "The ratio of numbers of atoms of hydrogen and oxygen in water is",
+      "prashna": "जल में हाइड्रोजन तथा ऑक्सीजन की परमाणुओं की संख्याओं का अनुपात है",
+      "options": {
+        "A": "2 : 1",
+        "B": "2 : 2",
+        "C": "1 : 2",
+        "D": "1 : 1"
+      },
+      "vikalpa": {
+        "A": "2 : 1",
+        "B": "2 : 2",
+        "C": "1 : 2",
+        "D": "1 : 1"
+      }
+    },
+    {
+      "id": "obj_64",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Chemical Reactions and Equations",
+      "question": "Which of the following reactions takes place in the conversion of milk into curd ?",
+      "prashna": "दूध से दही बनने में निम्नांकित में कौन-सी अभिक्रिया होती है ?",
+      "options": {
+        "A": "Decomposition",
+        "B": "Photosynthesis",
+        "C": "Fermentation",
+        "D": "Excretion"
+      },
+      "vikalpa": {
+        "A": "अपघटन",
+        "B": "प्रकाश-संश्लेषण",
+        "C": "किण्वन",
+        "D": "उत्सर्जन"
+      }
+    },
+    {
+      "id": "obj_74",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Chemical Reactions and Equations",
+      "question": "Electrons are released in electrolysis at the",
+      "prashna": "विद्युत अपघटन में इलेक्ट्रॉन मुक्त होता है",
+      "options": {
+        "A": "Anode",
+        "B": "Cathode",
+        "C": "Both (A) and (B)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "एनोड पर",
+        "B": "कैथोड पर",
+        "C": "(A) और (B) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Chemical Reactions and Equations",
+      "question": "Describe a precipitation reaction with an example.",
+      "prashna": "उदाहरण सहित किसी अवक्षेपण अभिक्रिया का वर्णन करें।"
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Chemical Reactions and Equations",
+      "question": "What are oxidation-reduction reactions ?",
+      "prashna": "ऑक्सीकरण-अवकरण अभिक्रियाएँ क्या हैं ?"
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Chemical Reactions and Equations",
+      "question": "Explain the process of extinguishing fire using a fire extinguisher through a chemical reaction.",
+      "prashna": "अग्निशामक यंत्र द्वारा आग बुझाने की क्रिया को रासायनिक अभिक्रिया द्वारा समझाएँ।"
     }
   ]
 }

@@ -4440,5 +4440,648 @@
         "D": "इनमें से कोई नहीं"
       }
     }
+  ],
+  "2026": [
+    {
+      "id": "obj_81",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If \\sin \\theta = \\frac{45}{53} then \\cos \\theta =",
+      "prashna": "यदि \\sin \\theta = \\frac{45}{53} तो \\cos \\theta =",
+      "options": {
+        "A": "53/28",
+        "B": "28/53",
+        "C": "28/45",
+        "D": "45/28"
+      },
+      "vikalpa": {
+        "A": "53/28",
+        "B": "28/53",
+        "C": "28/45",
+        "D": "45/28"
+      }
+    },
+    {
+      "id": "obj_82",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "\\frac{\\sin 29^{\\circ}}{\\cos 61^{\\circ}} =",
+      "prashna": "\\frac{\\sin 29^{\\circ}}{\\cos 61^{\\circ}} =",
+      "options": {
+        "A": "90",
+        "B": "0",
+        "C": "1",
+        "D": "32"
+      },
+      "vikalpa": {
+        "A": "90",
+        "B": "0",
+        "C": "1",
+        "D": "32"
+      }
+    },
+    {
+      "id": "obj_83",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "Which of the following options is not equal to unity ?",
+      "prashna": "निम्नांकित विकल्पों में से कौन इकाई के बराबर नहीं है ?",
+      "options": {
+        "A": "\\text{cosec}^2\\theta - \\cot^2\\theta",
+        "B": "\\sec^2\\theta - \\tan^2\\theta",
+        "C": "\\cos^2\\theta - \\sin^2\\theta",
+        "D": "\\cos^2\\theta + \\sin^2\\theta"
+      },
+      "vikalpa": {
+        "A": "\\text{cosec}^2\\theta - \\cot^2\\theta",
+        "B": "\\sec^2\\theta - \\tan^2\\theta",
+        "C": "\\cos^2\\theta - \\sin^2\\theta",
+        "D": "\\cos^2\\theta + \\sin^2\\theta"
+      }
+    },
+    {
+      "id": "obj_85",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "The value of \\cos \\theta in the form of \\sin \\theta is",
+      "prashna": "\\cos \\theta का मान \\sin \\theta के रूप में है",
+      "options": {
+        "A": "\\sqrt{1 - \\sin^2\\theta}",
+        "B": "\\sqrt{1 + \\sin^2\\theta}",
+        "C": "\\sqrt{\\sin^2\\theta - 1}",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "\\sqrt{1 - \\sin^2\\theta}",
+        "B": "\\sqrt{1 + \\sin^2\\theta}",
+        "C": "\\sqrt{\\sin^2\\theta - 1}",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_86",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If \\sec \\theta = \\text{cosec } \\theta then \\theta =",
+      "prashna": "यदि \\sec \\theta = \\text{cosec } \\theta तो \\theta =",
+      "options": {
+        "A": "90^{\\circ}",
+        "B": "45^{\\circ}",
+        "C": "30^{\\circ}",
+        "D": "75^{\\circ}"
+      },
+      "vikalpa": {
+        "A": "90^{\\circ}",
+        "B": "45^{\\circ}",
+        "C": "30^{\\circ}",
+        "D": "75^{\\circ}"
+      }
+    },
+    {
+      "id": "obj_87",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "\\sin^2 30^{\\circ} + \\cos^2 60^{\\circ} - \\cot^2 45^{\\circ} =",
+      "prashna": "\\sin^2 30^{\\circ} + \\cos^2 60^{\\circ} - \\cot^2 45^{\\circ} =",
+      "options": {
+        "A": "1/2",
+        "B": "- 1/2",
+        "C": "1",
+        "D": "0"
+      },
+      "vikalpa": {
+        "A": "1/2",
+        "B": "- 1/2",
+        "C": "1",
+        "D": "0"
+      }
+    },
+    {
+      "id": "obj_88",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If \\sqrt{3}\\tan \\theta = 1 then \\theta =",
+      "prashna": "यदि \\sqrt{3}\\tan \\theta = 1 तो \\theta =",
+      "options": {
+        "A": "30^{\\circ}",
+        "B": "45^{\\circ}",
+        "C": "60^{\\circ}",
+        "D": "75^{\\circ}"
+      },
+      "vikalpa": {
+        "A": "30^{\\circ}",
+        "B": "45^{\\circ}",
+        "C": "60^{\\circ}",
+        "D": "75^{\\circ}"
+      }
+    },
+    {
+      "id": "obj_89",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If \\cot A + \\frac{1}{\\cot A} = 2 then \\tan^2 A + \\frac{1}{\\tan^2 A} =",
+      "prashna": "यदि \\cot A + \\frac{1}{\\cot A} = 2 तो \\tan^2 A + \\frac{1}{\\tan^2 A} =",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "4"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "4"
+      }
+    },
+    {
+      "id": "obj_90",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "\\sin^4 \\theta - \\cos^4 \\theta =",
+      "prashna": "\\sin^4 \\theta - \\cos^4 \\theta =",
+      "options": {
+        "A": "\\cos^2 \\theta - \\sin^2 \\theta",
+        "B": "2\\cos^2 \\theta - 1",
+        "C": "1 + 2\\cos^2 \\theta",
+        "D": "2\\sin^2 \\theta - 1"
+      },
+      "vikalpa": {
+        "A": "\\cos^2 \\theta - \\sin^2 \\theta",
+        "B": "2\\cos^2 \\theta - 1",
+        "C": "1 + 2\\cos^2 \\theta",
+        "D": "2\\sin^2 \\theta - 1"
+      }
+    },
+    {
+      "id": "obj_91",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If \\sin \\theta + \\sin^2 \\theta = 1 then \\cos^2 \\theta + \\cos^4 \\theta =",
+      "prashna": "यदि \\sin \\theta + \\sin^2 \\theta = 1 तो \\cos^2 \\theta + \\cos^4 \\theta =",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "4"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "4"
+      }
+    },
+    {
+      "id": "obj_92",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "\\frac{1 + \\tan^2 A}{1 + \\cot^2 A} =",
+      "prashna": "\\frac{1 + \\tan^2 A}{1 + \\cot^2 A} =",
+      "options": {
+        "A": "\\sec^2 A",
+        "B": "\\text{cosec}^2 A",
+        "C": "\\tan^2 A",
+        "D": "\\cot^2 A"
+      },
+      "vikalpa": {
+        "A": "\\sec^2 A",
+        "B": "\\text{cosec}^2 A",
+        "C": "\\tan^2 A",
+        "D": "\\cot^2 A"
+      }
+    },
+    {
+      "id": "obj_93",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If \\tan \\theta + \\cot \\theta = 5 then \\tan^2 \\theta + \\cot^2 \\theta =",
+      "prashna": "यदि \\tan \\theta + \\cot \\theta = 5 तो \\tan^2 \\theta + \\cot^2 \\theta =",
+      "options": {
+        "A": "23",
+        "B": "24",
+        "C": "25",
+        "D": "27"
+      },
+      "vikalpa": {
+        "A": "23",
+        "B": "24",
+        "C": "25",
+        "D": "27"
+      }
+    },
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If A = 60^{\\circ} and B = 30^{\\circ} then the value of \\cos A . \\cos B + \\sin A . \\sin B is",
+      "prashna": "यदि A = 60^{\\circ} तथा B = 30^{\\circ} तो \\cos A . \\cos B + \\sin A . \\sin B का मान है",
+      "instructions": "Question Nos. 1 to 100 have four options, out of which only one is correct. Answer any 50 questions. You have to mark your selected option on the OMR sheet.",
+      "options": {
+        "A": "1",
+        "B": "1/2",
+        "C": "1/\\sqrt{2}",
+        "D": "\\sqrt{3}/2"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "1/2",
+        "C": "1/\\sqrt{2}",
+        "D": "\\sqrt{3}/2"
+      }
+    },
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If 5\\cos \theta = 4 then the value of \\cos^2 \theta + \\sin^2 \theta is",
+      "prashna": "यदि 5\\cos \theta = 4 तो \\cos^2 \theta + \\sin^2 \theta का मान है",
+      "options": {
+        "A": "- 1",
+        "B": "\\sqrt{3}/2",
+        "C": "1",
+        "D": "1/2"
+      },
+      "vikalpa": {
+        "A": "- 1",
+        "B": "\\sqrt{3}/2",
+        "C": "1",
+        "D": "1/2"
+      }
+    },
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If \\sec^2 A (1 + \\sin A)(1 - \\sin A) = k then the value of k is",
+      "prashna": "यदि \\sec^2 A (1 + \\sin A)(1 - \\sin A) = k तो k का मान है",
+      "options": {
+        "A": "2",
+        "B": "- 1",
+        "C": "1",
+        "D": "- 2"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "- 1",
+        "C": "1",
+        "D": "- 2"
+      }
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If \tan \theta + \\cot \theta = 4 then the value of \tan^2 \theta + \\cot^2 \theta is",
+      "prashna": "यदि \tan \theta + \\cot \theta = 4 तो \tan^2 \theta + \\cot^2 \theta का मान है",
+      "options": {
+        "A": "4",
+        "B": "12",
+        "C": "14",
+        "D": "16"
+      },
+      "vikalpa": {
+        "A": "4",
+        "B": "12",
+        "C": "14",
+        "D": "16"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If \\sin 2x = \\sin 60^{\\circ} . \\cos 30^{\\circ} + \\cos^2 60^{\\circ} then the value of x is",
+      "prashna": "यदि \\sin 2x = \\sin 60^{\\circ} . \\cos 30^{\\circ} + \\cos^2 60^{\\circ} तो x का मान है",
+      "options": {
+        "A": "30^{\\circ}",
+        "B": "45^{\\circ}",
+        "C": "60^{\\circ}",
+        "D": "90^{\\circ}"
+      },
+      "vikalpa": {
+        "A": "30^{\\circ}",
+        "B": "45^{\\circ}",
+        "C": "60^{\\circ}",
+        "D": "90^{\\circ}"
+      }
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If A and B are two acute angles such that \\sin A = \\cos B then the value of (A + B) is",
+      "prashna": "यदि A और B दो न्यूनकोण इस प्रकार हैं कि \\sin A = \\cos B, तो (A + B) का मान है",
+      "options": {
+        "A": "90^{\\circ}",
+        "B": "120^{\\circ}",
+        "C": "135^{\\circ}",
+        "D": "145^{\\circ}"
+      },
+      "vikalpa": {
+        "A": "90^{\\circ}",
+        "B": "120^{\\circ}",
+        "C": "135^{\\circ}",
+        "D": "145^{\\circ}"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "\frac{3\\sin^2 15^{\\circ} + 1 + 3\\sin^2 75^{\\circ}}, {4\\cos^2 37^{\\circ} - 2 + 4\\cos^2 53^{\\circ}} =",
+      "prashna": "\frac{3\\sin^2 15^{\\circ} + 1 + 3\\sin^2 75^{\\circ}}, {4\\cos^2 37^{\\circ} - 2 + 4\\cos^2 53^{\\circ}} =",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "2",
+        "D": "1"
+      },
+      "vikalpa": {
+        "A": "3",
+        "B": "4",
+        "C": "2",
+        "D": "1"
+      }
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If \\sin 20^{\\circ} + \\cos 70^{\\circ} = 2\\cos A, then the value of A is",
+      "prashna": "यदि \\sin 20^{\\circ} + \\cos 70^{\\circ} = 2\\cos A तो A का मान है",
+      "options": {
+        "A": "40^{\\circ}",
+        "B": "60^{\\circ}",
+        "C": "70^{\\circ}",
+        "D": "90^{\\circ}"
+      },
+      "vikalpa": {
+        "A": "40^{\\circ}",
+        "B": "60^{\\circ}",
+        "C": "70^{\\circ}",
+        "D": "90^{\\circ}"
+      }
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "Which of the following has not value equal to 1 ?",
+      "prashna": "निम्नलिखित में किसका मान 1 के बराबर नहीं है ?",
+      "options": {
+        "A": "\\sin^2 \theta + \\cos^2 \theta",
+        "B": "\\sec^2 \theta - \tan^2 \theta",
+        "C": "\text{cosec}^2 \theta - \\cot^2 \theta",
+        "D": "\tan^2 \theta - \\sec^2 \theta"
+      },
+      "vikalpa": {
+        "A": "\\sin^2 \theta + \\cos^2 \theta",
+        "B": "\\sec^2 \theta - \tan^2 \theta",
+        "C": "\text{cosec}^2 \theta - \\cot^2 \theta",
+        "D": "\tan^2 \theta - \\sec^2 \theta"
+      }
+    },
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "\text{cosec}^2 54^{\\circ} - \tan^2 36^{\\circ} =",
+      "prashna": "\text{cosec}^2 54^{\\circ} - \tan^2 36^{\\circ} =",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "- 1",
+        "D": "2"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "1",
+        "C": "- 1",
+        "D": "2"
+      }
+    },
+    {
+      "id": "obj_86",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If \\cos \theta = 4/5 then \tan \theta =",
+      "prashna": "यदि \\cos \theta = 4/5 हो, तो \tan \theta =",
+      "options": {
+        "A": "3/4",
+        "B": "4/3",
+        "C": "3/5",
+        "D": "5/3"
+      },
+      "vikalpa": {
+        "A": "3/4",
+        "B": "4/3",
+        "C": "3/5",
+        "D": "5/3"
+      }
+    },
+    {
+      "id": "obj_87",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "\\cos 48^{\\circ} - \\sin 42^{\\circ} =",
+      "prashna": "\\cos 48^{\\circ} - \\sin 42^{\\circ} =",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "2",
+        "D": "- 1"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "0",
+        "C": "2",
+        "D": "- 1"
+      }
+    },
+    {
+      "id": "obj_88",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "\frac{\text{cosec}^2\theta - 1}, {1 - \\sin^2\theta} =",
+      "prashna": "\frac{\text{cosec}^2\theta - 1}, {1 - \\sin^2\theta} =",
+      "options": {
+        "A": "\\sin^2\theta",
+        "B": "\\cos^2\theta",
+        "C": "\text{cosec}^2\theta",
+        "D": "\\sec^2\theta"
+      },
+      "vikalpa": {
+        "A": "\\sin^2\theta",
+        "B": "\\cos^2\theta",
+        "C": "\text{cosec}^2\theta",
+        "D": "\\sec^2\theta"
+      }
+    },
+    {
+      "id": "obj_89",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "\tan 15^{\\circ} . \tan 35^{\\circ} . \tan 75^{\\circ} . \tan 55^{\\circ} . \tan 45^{\\circ} =",
+      "prashna": "\tan 15^{\\circ} . \tan 35^{\\circ} . \tan 75^{\\circ} . \tan 55^{\\circ} . \tan 45^{\\circ} =",
+      "options": {
+        "A": "\\sqrt{3}",
+        "B": "1/\\sqrt{3}",
+        "C": "1",
+        "D": "-\\sqrt{3}"
+      },
+      "vikalpa": {
+        "A": "\\sqrt{3}",
+        "B": "1/\\sqrt{3}",
+        "C": "1",
+        "D": "-\\sqrt{3}"
+      }
+    },
+    {
+      "id": "obj_90",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "\\sin 13^{\\circ} . \\cos 77^{\\circ} + \\cos 13^{\\circ} . \\sin 77^{\\circ} =",
+      "prashna": "\\sin 13^{\\circ} . \\cos 77^{\\circ} + \\cos 13^{\\circ} . \\sin 77^{\\circ} =",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "- 1",
+        "D": "\\sin 13^{\\circ}"
+      },
+      "vikalpa": {
+        "A": "0",
+        "B": "1",
+        "C": "- 1",
+        "D": "\\sin 13^{\\circ}"
+      }
+    },
+    {
+      "id": "obj_92",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If a \\cos \theta + b \\sin \theta = 8 and a \\sin \theta - b \\cos \theta = 4 then the value of a^2 + b^2 is",
+      "prashna": "यदि a \\cos \theta + b \\sin \theta = 8 तथा a \\sin \theta - b \\cos \theta = 4 तो a^2 + b^2 का मान है",
+      "options": {
+        "A": "80",
+        "B": "\\sqrt{80}",
+        "C": "144",
+        "D": "40"
+      },
+      "vikalpa": {
+        "A": "80",
+        "B": "\\sqrt{80}",
+        "C": "144",
+        "D": "40"
+      }
+    },
+    {
+      "id": "obj_93",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "\\sqrt{2} \\left( \\sin \frac{\\pi}, {4} + \\cos \frac{\\pi}, {4} \right) =",
+      "prashna": "\\sqrt{2} \\left( \\sin \frac{\\pi}, {4} + \\cos \frac{\\pi}, {4} \right) =",
+      "options": {
+        "A": "\\sqrt{2}",
+        "B": "2",
+        "C": "1/\\sqrt{2}",
+        "D": "1/2"
+      },
+      "vikalpa": {
+        "A": "\\sqrt{2}",
+        "B": "2",
+        "C": "1/\\sqrt{2}",
+        "D": "1/2"
+      }
+    },
+    {
+      "id": "obj_94",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "If \\cos \theta = 1/2, \theta < 90^{\\circ} then \\sin^2 \theta - 1 =",
+      "prashna": "यदि \\cos \theta = 1/2, \theta < 90^{\\circ} तो \\sin^2 \theta - 1 =",
+      "options": {
+        "A": "1/4",
+        "B": "1/2",
+        "C": "- 1/4",
+        "D": "\\sqrt{3}/4"
+      },
+      "vikalpa": {
+        "A": "1/4",
+        "B": "1/2",
+        "C": "- 1/4",
+        "D": "\\sqrt{3}/4"
+      }
+    },
+    {
+      "id": "obj_96",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "\frac{\tan \theta}, {\\sec \theta - 1} + \frac{\tan \theta}, {\\sec \theta + 1} =",
+      "prashna": "\frac{\tan \theta}, {\\sec \theta - 1} + \frac{\tan \theta}, {\\sec \theta + 1} =",
+      "options": {
+        "A": "2\tan \theta",
+        "B": "2\\sec \theta",
+        "C": "2\text{cosec }\theta",
+        "D": "2\tan \theta . \\sec \theta"
+      },
+      "vikalpa": {
+        "A": "2\tan \theta",
+        "B": "2\\sec \theta",
+        "C": "2\text{cosec }\theta",
+        "D": "2\tan \theta . \\sec \theta"
+      }
+    },
+    {
+      "id": "obj_97",
+      "type": "objective",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "2\\sin^2 30^{\\circ} - 3\\cos^2 45^{\\circ} + \tan^2 60^{\\circ} =",
+      "prashna": "2\\sin^2 30^{\\circ} - 3\\cos^2 45^{\\circ} + \tan^2 60^{\\circ} =",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "\\sqrt{3}/2",
+        "D": "1/2"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "2",
+        "C": "\\sqrt{3}/2",
+        "D": "1/2"
+      }
+    }
   ]
 }

@@ -1,12 +1,687 @@
 {
-  "2014": [
+  "2015": [
     {
-      "id": "letter_1_1",
-      "type": "letter",
+      "id": "poem_1",
+      "type": "poem",
+      "section": "Panorama",
       "chapter": "16",
-      "chapter_name": "The Trees (Poem)",
-      "question": "Write a letter to your friend, telling him the measures your school has taken to preserve ecology in the locality.",
-      "prashna": "अपने मित्र को एक पत्र लिखें, जिसमें उसे उन उपायों के बारे में बताएं जो आपके स्कूल ने इलाके में पारिस्थितिकी (ecology) को संरक्षित करने के लिए किए हैं।"
+      "chapter_name": "Martha",
+      "question": "Read carefully the stanza given below and answer the questions that follow :",
+      "prashna": "नीचे दिए गए छंद को ध्यान से पढ़िए और निम्नलिखित प्रश्नों के उत्तर दीजिए :",
+      "context": "\"Once ... once upon a time ... .\" Over and over again, Martha would tell us her stories, In the hazel glen.",
+      "sub_questions": {
+        "1": "From which poem have these lines been extracted ?",
+        "2": "How does Martha begin her stories ?",
+        "3": "Where does Martha tell her stories ?",
+        "4": "What for 'her' stands ?"
+      },
+      "anuprashna": {
+        "1": "ये पंक्तियाँ किस कविता से ली गई हैं?",
+        "2": "मार्था अपनी कहानियाँ कैसे शुरू करती है?",
+        "3": "मार्था अपनी कहानियाँ कहाँ सुनाती है?",
+        "4": "'her' का क्या अभिप्राय है?"
+      }
+    },
+    {
+      "id": "poem_1",
+      "type": "poem",
+      "section": "Panorama",
+      "chapter": "16",
+      "chapter_name": "Martha",
+      "question": "Read carefully the stanza given below and answer the questions that follow:",
+      "prashna": "नीचे दिए गए पद्यांश को ध्यानपूर्वक पढ़ें और उसके बाद आने वाले प्रश्नों के उत्तर दें:",
+      "context": "\"Once………..once upon a time........”.\nOver and over again,\nMartha would tell us her stories,\nIn the hazel glen.",
+      "sub_questions": {
+        "1": "From which poem have these lines been extracted?",
+        "2": "How does Martha begin her stories?",
+        "3": "Where does Martha tell her stories?",
+        "4": "What for 'her' stands?"
+      },
+      "anuprashna": {
+        "1": "ये पंक्तियाँ किस कविता से ली गई हैं?",
+        "2": "मार्था अपनी कहानियाँ कैसे शुरू करती है?",
+        "3": "मार्था अपनी कहानियाँ कहाँ सुनाती है?",
+        "4": "'her' किसके लिए प्रयुक्त हुआ है?"
+      }
+    }
+  ],
+  "2018": [
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "16",
+      "chapter_name": "Martha",
+      "question": "Martha used to tell her stories in the hazel………..",
+      "prashna": "मार्था अपनी कहानियाँ हेज़ल (एक प्रकार की लकड़ी/घाटी) ……….. में सुनाया करती थी।",
+      "options": {
+        "A": "forest",
+        "B": "mountain",
+        "C": "riverbank",
+        "D": "glen"
+      },
+      "vikalpa": {
+        "A": "जंगल",
+        "B": "पर्वत",
+        "C": "नदी के किनारे",
+        "D": "घाटी (ग्लेन)"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "16",
+      "chapter_name": "Martha",
+      "question": "The poet knew Martha when he was a ............",
+      "prashna": "कवि मार्था को तब जानते थे जब वह एक ............ थे।",
+      "options": {
+        "A": "servant",
+        "B": "child",
+        "C": "shopkeeper",
+        "D": "teacher"
+      },
+      "vikalpa": {
+        "A": "नौकर",
+        "B": "बच्चा",
+        "C": "दुकानदार",
+        "D": "शिक्षक"
+      }
+    }
+  ],
+  "2019": [
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "16",
+      "chapter_name": "Martha",
+      "question": "'Martha', had clear and .........eyes.",
+      "prashna": "'मार्था' की आँखें साफ़ और ......... थीं।",
+      "options": {
+        "A": "blue",
+        "B": "grey",
+        "C": "white",
+        "D": "red"
+      },
+      "vikalpa": {
+        "A": "नीली",
+        "B": "धूसर (ग्रे)",
+        "C": "सफेद",
+        "D": "लाल"
+      }
+    },
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "16",
+      "chapter_name": "Martha",
+      "question": "'Martha' had clear and ..........eyes.",
+      "prashna": "'मार्था' की आँखें साफ और .......... थीं।",
+      "options": {
+        "A": "blue",
+        "B": "grey",
+        "C": "white",
+        "D": "red"
+      },
+      "vikalpa": {
+        "A": "नीली",
+        "B": "धूसर",
+        "C": "सफेद",
+        "D": "लाल"
+      }
+    }
+  ],
+  "2020": [
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "16",
+      "chapter_name": "Martha",
+      "question": "Martha's stories were listened to by the children with",
+      "prashna": "मार्था की कहानियाँ बच्चों द्वारा किसके साथ सुनी जाती थीं?",
+      "options": {
+        "A": "tension",
+        "B": "joy",
+        "C": "case",
+        "D": "attention"
+      },
+      "vikalpa": {
+        "A": "तनाव",
+        "B": "खुशी",
+        "C": "केस (मामला)",
+        "D": "ध्यान"
+      }
+    },
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "16",
+      "chapter_name": "Martha",
+      "question": "\"Her voice and her narrow chin\" is from the poem",
+      "prashna": "\"Her voice and her narrow chin\" किस कविता से लिया गया है?",
+      "options": {
+        "A": "The Sleeping Porter",
+        "B": "The Empty Heart",
+        "C": "Martha",
+        "D": "Koel"
+      },
+      "vikalpa": {
+        "A": "द स्लीपिंग पॉटर",
+        "B": "द एम्प्टी हार्ट",
+        "C": "मार्था",
+        "D": "कोयल"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "16",
+      "chapter_name": "Martha",
+      "question": "Martha used to tell her stories in the hazel",
+      "prashna": "मार्था अपनी कहानियाँ सुनाया करती थी",
+      "options": {
+        "A": "glen",
+        "B": "mountain",
+        "C": "seaside",
+        "D": "forest"
+      },
+      "vikalpa": {
+        "A": "घाटी",
+        "B": "पहाड़",
+        "C": "समुद्र तट",
+        "D": "जंगल"
+      }
+    },
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "16",
+      "chapter_name": "Martha",
+      "question": "The children were transported to a ... on hearing Martha's stories.",
+      "prashna": "मार्था की कहानियाँ सुनकर बच्चे एक ... में चले गए।",
+      "options": {
+        "A": "forest",
+        "B": "cloud",
+        "C": "dreamland",
+        "D": "garden"
+      },
+      "vikalpa": {
+        "A": "जंगल",
+        "B": "बादल",
+        "C": "सपनों की दुनिया",
+        "D": "बाग"
+      }
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "16",
+      "chapter_name": "Martha",
+      "question": "Martha's stories were about......... and fairies.",
+      "prashna": "मार्था की कहानियाँ ......... और परियों के बारे में थीं।",
+      "options": {
+        "A": "gnomes",
+        "B": "children",
+        "C": "ghosts",
+        "D": "adult"
+      },
+      "vikalpa": {
+        "A": "बौने",
+        "B": "बच्चे",
+        "C": "भूत",
+        "D": "वयस्क"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "16",
+      "chapter_name": "Martha",
+      "question": "When Martha told her stories, the children stared at her with",
+      "prashna": "जब मार्था अपनी कहानियाँ सुनाती थी, तो बच्चे उसे ............ के साथ घूरते थे।",
+      "options": {
+        "A": "joy",
+        "B": "ease",
+        "C": "tension",
+        "D": "attention"
+      },
+      "vikalpa": {
+        "A": "खुशी",
+        "B": "सहजता",
+        "C": "तनाव",
+        "D": "ध्यान"
+      }
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "16",
+      "chapter_name": "Martha",
+      "question": "The children were transported to a....... on hearing Marthas stories.",
+      "prashna": "मार्था की कहानियाँ सुनकर बच्चे किस दुनिया में चले गए?",
+      "options": {
+        "A": "forest",
+        "B": "cloud",
+        "C": "sky",
+        "D": "dreamland"
+      },
+      "vikalpa": {
+        "A": "जंगल",
+        "B": "बादल",
+        "C": "आकाश",
+        "D": "सपनों की दुनिया"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "16",
+      "chapter_name": "Martha",
+      "question": "Martha would tell her ... in the hazel glen.",
+      "options": {
+        "A": "poems",
+        "B": "plight",
+        "C": "stories",
+        "D": "pain"
+      },
+      "prashna": "मार्था हेजेल घाटी में अपनी ... बताती थी।",
+      "vikalpa": {
+        "A": "कविताएँ",
+        "B": "दुर्दशा",
+        "C": "कहानियाँ",
+        "D": "दर्द"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "16",
+      "chapter_name": "Martha",
+      "question": "The stories told by Martha seemed",
+      "options": {
+        "A": "tranquil",
+        "B": "revealing",
+        "C": "pessimistic",
+        "D": "uninteresting"
+      },
+      "prashna": "मार्था द्वारा सुनाई गई कहानियां ... लगती थीं।",
+      "vikalpa": {
+        "A": "शांत",
+        "B": "खुलासा करने वाली",
+        "C": "निराशावादी",
+        "D": "बोरिंग"
+      }
+    },
+    {
+      "id": "obj_44",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "16",
+      "chapter_name": "Martha",
+      "question": "The children were transported to ... on hearing Martha's stories",
+      "options": {
+        "A": "forest",
+        "B": "sky",
+        "C": "cloud",
+        "D": "dreamland"
+      },
+      "prashna": "मार्था की कहानियाँ सुनकर बच्चे ... पर ले जaye गए।",
+      "vikalpa": {
+        "A": "जंगल",
+        "B": "आकाश",
+        "C": "बादल",
+        "D": "सपनो की दुनिया"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "16",
+      "chapter_name": "Martha",
+      "question": "Martha’s stories seemed like a dream one saw at",
+      "prashna": "मार्था की कहानियाँ एक सपने की तरह लगती थीं जो किसी ने ............... में देखा हो।",
+      "options": {
+        "A": "evening",
+        "B": "noon",
+        "C": "night",
+        "D": "morning"
+      },
+      "vikalpa": {
+        "A": "शाम",
+        "B": "दोपहर",
+        "C": "रात",
+        "D": "सुबह"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "16",
+      "chapter_name": "Martha",
+      "question": "Martha's eyes were as tranquil as…………",
+      "prashna": "मार्था की आँखें उतनी ही शांत थीं जितनी कि ............।",
+      "options": {
+        "A": "thoughts",
+        "B": "dreams",
+        "C": "silence",
+        "D": "forests"
+      },
+      "vikalpa": {
+        "A": "विचार",
+        "B": "सपने",
+        "C": "खामोशी",
+        "D": "जंगल"
+      }
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_53",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "16",
+      "chapter_name": "Martha",
+      "question": "Walter de la Mare creates an atmosphere of ... in his poems.",
+      "prashna": "वॉल्टर डे ला मेयर अपनी कविताओं में ___ का माहौल बनाते हैं।",
+      "options": {
+        "A": "joy",
+        "B": "suspense",
+        "C": "fear",
+        "D": "mystery"
+      },
+      "vikalpa": {
+        "A": "खुशी",
+        "B": "उत्सुकता",
+        "C": "डर",
+        "D": "रहस्य"
+      }
+    },
+    {
+      "id": "obj_55",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "16",
+      "chapter_name": "Martha",
+      "question": "While Martha told her stories, the children used to stare at her with",
+      "prashna": "जब मार्था अपनी कहानियाँ सुनाती थीं, तो बच्चे उसे ___ से देखते थे।",
+      "options": {
+        "A": "ease",
+        "B": "joy",
+        "C": "tension",
+        "D": "sadness"
+      },
+      "vikalpa": {
+        "A": "आराम",
+        "B": "खुशी",
+        "C": "तनाव",
+        "D": "उदासी"
+      }
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "section": "Panorama",
+      "chapter": "16",
+      "chapter_name": "Martha",
+      "question": "How do the children sit to listen to Martha’s story?",
+      "prashna": "मार्था की कहानी सुनने के लिए बच्चे कैसे बैठते हैं?"
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "16",
+      "chapter_name": "Martha",
+      "question": "On hearing Martha's ...................., the children were transported to a dreamland.",
+      "prashna": "मार्था की .................... सुनकर बच्चे स्वप्न लोक में चले गए।",
+      "options": {
+        "A": "songs",
+        "B": "voice",
+        "C": "stories",
+        "D": "cry"
+      },
+      "vikalpa": {
+        "A": "गाने",
+        "B": "आवाज",
+        "C": "कहानियां",
+        "D": "रोना"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "16",
+      "chapter_name": "Martha",
+      "question": "Martha’s stories seemed as tranquil as _______.",
+      "prashna": "मार्था की कहानियाँ उतनी ही शांत लगती थीं जितनी _______।",
+      "options": {
+        "A": "dreams",
+        "B": "moon",
+        "C": "night",
+        "D": "stars"
+      },
+      "vikalpa": {
+        "A": "सपने",
+        "B": "चाँद",
+        "C": "रात",
+        "D": "तारे"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "16",
+      "chapter_name": "Martha",
+      "question": "Martha told her stories in the _____.",
+      "prashna": "मार्था ने अपनी कहानियाँ _____ में सुनाईं।",
+      "options": {
+        "A": "forest",
+        "B": "hut",
+        "C": "hazel glen",
+        "D": "church"
+      },
+      "vikalpa": {
+        "A": "जंगल",
+        "B": "झोपड़ी",
+        "C": "हेज़ल ग्लेन (घाटी)",
+        "D": "चर्च"
+      }
+    },
+    {
+      "id": "obj_48",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "16",
+      "chapter_name": "Martha",
+      "question": "Martha's stories seemed like a ............... one saw at night.",
+      "prashna": "मार्था की कहानियाँ रात में देखी गई ............... जैसी लगती थीं।",
+      "options": {
+        "A": "film",
+        "B": "dream",
+        "C": "star",
+        "D": "moon"
+      },
+      "vikalpa": {
+        "A": "फिल्म",
+        "B": "सपना",
+        "C": "तारा",
+        "D": "चंद्रमा"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "16",
+      "chapter_name": "Martha",
+      "question": "In Martha's stories, fairies and gnomes ............... out in leaf-green light.",
+      "prashna": "मार्था की कहानियों में, परियां और बौने पत्ती जैसी हरी रोशनी में ............... निकलते थे।",
+      "options": {
+        "A": "stole",
+        "B": "ran",
+        "C": "came",
+        "D": "walked"
+      },
+      "vikalpa": {
+        "A": "दबे पाँव",
+        "B": "दौड़े",
+        "C": "आये",
+        "D": "चले"
+      }
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "section": "Panorama",
+      "chapter": "16",
+      "chapter_name": "Martha",
+      "question": "How does the poem 'Martha' end ?",
+      "prashna": "'मार्था' कविता कैसे समाप्त होती है?"
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "16",
+      "chapter_name": "Martha",
+      "question": "‘The Listener’ and ‘Arabia’ have been written by",
+      "prashna": "'द लिसनर' और 'अरेबिया' किसके द्वारा लिखी गई हैं?",
+      "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
+      "options": {
+        "A": "Walter de la Mare",
+        "B": "William Cowper",
+        "C": "Puran Singh",
+        "D": "Vidyapati"
+      },
+      "vikalpa": {
+        "A": "वाल्टर डे ला मारे",
+        "B": "विलियम काउपर",
+        "C": "पूरन सिंह",
+        "D": "विद्यापति"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "16",
+      "chapter_name": "Martha",
+      "question": "Martha had a ............... chin.",
+      "prashna": "मार्था की ठोड़ी (chin) ............... थी।",
+      "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
+      "options": {
+        "A": "narrow",
+        "B": "fat",
+        "C": "thick",
+        "D": "broad"
+      },
+      "vikalpa": {
+        "A": "संकीर्ण / पतली",
+        "B": "मोटी",
+        "C": "घनी",
+        "D": "चौड़ी"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "16",
+      "chapter_name": "Martha",
+      "question": "Martha's stories were as tranquil as",
+      "prashna": "मार्था की कहानियाँ उतनी ही शांत थीं जितनी कि",
+      "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
+      "options": {
+        "A": "dreams",
+        "B": "night",
+        "C": "silence",
+        "D": "sleep"
+      },
+      "vikalpa": {
+        "A": "सपने",
+        "B": "रात",
+        "C": "शांति / खामोशी",
+        "D": "नींद"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "16",
+      "chapter_name": "Martha",
+      "question": "Martha's ............... conveyed half of the stories.",
+      "prashna": "मार्था के ............... ने आधी कहानियाँ व्यक्त कर दीं।",
+      "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
+      "options": {
+        "A": "expressions",
+        "B": "behaviour",
+        "C": "dress",
+        "D": "character"
+      },
+      "vikalpa": {
+        "A": "हाव-भाव / अभिव्यक्ति",
+        "B": "व्यवहार",
+        "C": "पोशाक",
+        "D": "चरित्र"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "16",
+      "chapter_name": "Martha",
+      "question": "Martha's hands were",
+      "prashna": "मार्था के हाथ ............... थे।",
+      "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
+      "options": {
+        "A": "strong",
+        "B": "slim",
+        "C": "fat",
+        "D": "ugly"
+      },
+      "vikalpa": {
+        "A": "मजबूत",
+        "B": "पतले / सुकुमार (slim)",
+        "C": "मोटे",
+        "D": "कुरूप"
+      }
+    },
+    {
+      "id": "short_4_c",
+      "type": "short_answer",
+      "section": "Panorama",
+      "chapter": "16",
+      "chapter_name": "Martha",
+      "question": "What does the poet think of Martha's eyes ?",
+      "prashna": "कवि मार्था की आँखों के बारे में क्या सोचता है?",
+      "instructions": "Answer any five of the following questions :"
     }
   ]
 }

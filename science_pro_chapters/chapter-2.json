@@ -97,26 +97,6 @@
       }
     },
     {
-      "id": "obj_12",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Acids, Bases and Salts",
-      "question": "When sodium hydroxide reacts with zinc, which product is formed?",
-      "prashna": "जब सोडियम हाइड्रोक्साइड जिंक से अभिक्रिया करता है, तो कौन-सा उत्पाद बनता है?",
-      "options": {
-        "A": "$Na_2ZnO + H_2$",
-        "B": "$NaZnO_2 + H_2$",
-        "C": "$NaOZn_2 + H_2$",
-        "D": "$Na_2ZnO_2 + H_2$"
-      },
-      "vikalpa": {
-        "A": "$Na_2ZnO + H_2$",
-        "B": "$NaZnO_2 + H_2$",
-        "C": "$NaOZn_2 + H_2$",
-        "D": "$Na_2ZnO_2 + H_2$"
-      }
-    },
-    {
       "id": "obj_13",
       "type": "objective",
       "chapter": "2",
@@ -155,29 +135,29 @@
         "C": "$Na_2CO_3$",
         "D": "$KOH$"
       }
-    }
-  ],
-  "2014": [
+    },
     {
-      "id": "obj_7",
+      "id": "obj_15",
       "type": "objective",
       "chapter": "2",
       "chapter_name": "Acids, Bases and Salts",
-      "question": "The pH value of acid rain water should be",
-      "prashna": "अम्लीय वर्षा के जल का pH मान होना चाहिए",
+      "question": "The ratio of $HCl$ and $HNO_3$ in Aqua Regia mixture is",
+      "prashna": "एक्वा रेजिया मिश्रण में $HCl$ एवं $HNO_3$ का अनुपात होता है।",
       "options": {
-        "A": "5.6",
-        "B": "Less than 5.6",
-        "C": "More than 5.6",
-        "D": "7.0"
+        "A": "3:1",
+        "B": "1:3",
+        "C": "2:2",
+        "D": "1:2"
       },
       "vikalpa": {
-        "A": "5.6",
-        "B": "5.6 से कम",
-        "C": "5.6 से अधिक",
-        "D": "7.0"
+        "A": "3:1",
+        "B": "1:3",
+        "C": "2:2",
+        "D": "1:2"
       }
-    },
+    }
+  ],
+  "2014": [
     {
       "id": "obj_8",
       "type": "objective",
@@ -279,34 +259,6 @@
       }
     },
     {
-      "id": "obj_54",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Acids, Bases and Salts",
-      "question": "Common name of methanoic acid is",
-      "prashna": "मेथनॉइक अम्ल का सामान्य नाम है",
-      "options": {
-        "A": "Formic acid",
-        "B": "Acetic acid",
-        "C": "Lactic acid",
-        "D": "Lactic acid"
-      },
-      "vikalpa": {
-        "A": "फॉर्मिक अम्ल",
-        "B": "एसीटीक अम्ल",
-        "C": "लैक्टिक अम्ल",
-        "D": "लैक्टिक अम्ल"
-      }
-    },
-    {
-      "id": "short_9",
-      "type": "short_answer",
-      "chapter": "2",
-      "chapter_name": "Acids, Bases and Salts",
-      "question": "What happens when $\text{CO}_2$ (gas) is passed through lime water: (i) In limited quantity (ii) In excess quantity?",
-      "prashna": "क्या होता है जब $\text{CO}_2$ (गैस) चूना जल में प्रवाहित किया जाता है (i) कम मात्रा में (ii) ज्यादा मात्रा में?"
-    },
-    {
       "id": "short_10",
       "type": "short_answer",
       "chapter": "2",
@@ -345,26 +297,6 @@
       "chapter_name": "Acids, Bases and Salts",
       "question": "Why does an aqueous solution of an acid conduct electricity?",
       "prashna": "अम्ल का जलीय विलयन क्यों विद्युत का चालन करता है?"
-    },
-    {
-      "id": "obj_9",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Acids, Bases and Salts",
-      "question": "On passing electric current through an aqueous solution of sodium chloride, it decomposes to form sodium hydroxide. This process is called",
-      "prashna": "सोडियम क्लोराइड के जलीय विलयन से विद्युत धारा प्रवाहित करने पर यह वियोजित होकर सोडियम हाइड्रॉक्साइड बनाता है। इस प्रक्रिया को कहते हैं",
-      "options": {
-        "A": "Chlor-alkali process",
-        "B": "Chlor reaction",
-        "C": "Decomposition reaction",
-        "D": "Combination reaction"
-      },
-      "vikalpa": {
-        "A": "क्लोर-क्षार अभिक्रिया",
-        "B": "क्लोर अभिक्रिया",
-        "C": "वियोजन अभिक्रिया",
-        "D": "संयोजन अभिक्रिया"
-      }
     },
     {
       "id": "obj_10",
@@ -589,38 +521,6 @@
       }
     },
     {
-      "id": "long_2_1",
-      "type": "long_answer",
-      "chapter": "2",
-      "chapter_name": "Acids, Bases and Salts",
-      "question": "Match Column I and Column II-",
-      "prashna": "स्तंभ I तथा स्तंभ II का मिलान करें-",
-      "sub_questions": {
-        "i": "Baking Soda",
-        "ii": "Washing Soda",
-        "iii": "Glauber's salt",
-        "iv": "Blue Vitriol",
-        "v": "Gypsum",
-        "a": "$CaSO_4 \\cdot 2H_2O$",
-        "b": "$CuSO_4 \\cdot 5H_2O$",
-        "c": "$NaHCO_3$",
-        "d": "$Na_2CO_3 \\cdot 10H_2O$",
-        "e": "$Na_2SO_4 \\cdot 10H_2O$"
-      },
-      "anuprashna": {
-        "i": "बेकिंग सोडा",
-        "ii": "धोने का सोडा",
-        "iii": "ग्लौबर लवण",
-        "iv": "नीला थोथा",
-        "v": "जिप्सम",
-        "a": "$CaSO_4 \\cdot 2H_2O$",
-        "b": "$CuSO_4 \\cdot 5H_2O$",
-        "c": "$NaHCO_3$",
-        "d": "$Na_2CO_3 \\cdot 10H_2O$",
-        "e": "$Na_2SO_4 \\cdot 10H_2O$"
-      }
-    },
-    {
       "id": "obj_8",
       "type": "objective",
       "chapter": "2",
@@ -682,6 +582,46 @@
     }
   ],
   "2018": [
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Which of the following solutions is used for white washing walls?",
+      "prashna": "निम्नलिखित में किस विलयन का उपयोग दीवारों की सफेदी करने के लिए किया जाता है?",
+      "options": {
+        "A": "$Ca(HCO_3)_2$",
+        "B": "$Ca(OH)_2$",
+        "C": "$Na(OH)$",
+        "D": "$Na(HCO_3)$"
+      },
+      "vikalpa": {
+        "A": "$Ca(HCO_3)_2$",
+        "B": "$Ca(OH)_2$",
+        "C": "$Na(OH)$",
+        "D": "$Na(HCO_3)$"
+      }
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Which one of the following is slaked lime?",
+      "prashna": "निम्नलिखित में से कौन सा बुझा हुआ चूना है?",
+      "options": {
+        "A": "$CaO$",
+        "B": "$Ca(OH)_2$",
+        "C": "$CaCO_3$",
+        "D": "$Ca$"
+      },
+      "vikalpa": {
+        "A": "$CaO$",
+        "B": "$Ca(OH)_2$",
+        "C": "$CaCO_3$",
+        "D": "$Ca$"
+      }
+    },
     {
       "id": "obj_17",
       "type": "objective",
@@ -751,6 +691,26 @@
       "prashna": "उदासीनीकरण अभिक्रिया क्या है? दो उदाहरण दीजिए।"
     },
     {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Which one of the following is slaked lime?",
+      "prashna": "निम्नलिखित में से कौन सा बुझा हुआ चूना है?",
+      "options": {
+        "A": "$CaO$",
+        "B": "$Ca(OH)_2$",
+        "C": "$CaCO_3$",
+        "D": "$Ca$"
+      },
+      "vikalpa": {
+        "A": "$CaO$",
+        "B": "$Ca(OH)_2$",
+        "C": "$CaCO_3$",
+        "D": "$Ca$"
+      }
+    },
+    {
       "id": "obj_16",
       "type": "objective",
       "chapter": "2",
@@ -788,6 +748,26 @@
         "B": "टमाटर",
         "C": "सिरका",
         "D": "इमली"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "In what ratio, the concentrated Hydrochloric acid and the concentrated Nitric acid solutions are present in freshly prepared aqua regia (royal water) solution -",
+      "prashna": "ऐक्वा रेजिया (रॉयल जल) किस अनुपात में सान्द्र हाइड्रोक्लोरिक अम्ल एवं सान्द्र नाइट्रिक अम्ल का ताजा मिश्रण होता है?",
+      "options": {
+        "A": "$3 : 2$",
+        "B": "$2 : 3$",
+        "C": "$3 : 1$",
+        "D": "$1 : 3$"
+      },
+      "vikalpa": {
+        "A": "$3 : 2$",
+        "B": "$2 : 3$",
+        "C": "$3 : 1$",
+        "D": "$1 : 3$"
       }
     },
     {
@@ -889,14 +869,6 @@
       "prashna": "धोबिया सोडा एवं बेकिंग सोडा में अंतर स्पष्ट करें।"
     },
     {
-      "id": "short_11",
-      "type": "short_answer",
-      "chapter": "2",
-      "chapter_name": "Acids, Bases and Salts",
-      "question": "Why distilled water does not conduct electricity, whereas rain water does?",
-      "prashna": "आसवित जल विद्युत का चालक क्यों नहीं होता है, जबकि वर्षा जल होता है?"
-    },
-    {
       "id": "obj_24",
       "type": "objective",
       "chapter": "2",
@@ -986,26 +958,6 @@
     }
   ],
   "2020": [
-    {
-      "id": "obj_29",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Acids, Bases and Salts",
-      "question": "Which of the following gases turns lime water milky?",
-      "prashna": "निम्नलिखित में से कौन गैस चूने के पानी को दूधिया कर देता है ?",
-      "options": {
-        "A": "$Cl_2$",
-        "B": "$SO_2$",
-        "C": "$CO_2$",
-        "D": "$O_2$"
-      },
-      "vikalpa": {
-        "A": "$Cl_2$",
-        "B": "$SO_2$",
-        "C": "$CO_2$",
-        "D": "$O_2$"
-      }
-    },
     {
       "id": "obj_30",
       "type": "objective",
@@ -1297,6 +1249,26 @@
       }
     },
     {
+      "id": "obj_49",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Slaked lime is",
+      "prashna": "बुझा हुआ चूना है।",
+      "options": {
+        "A": "$Ca(OH)_2$",
+        "B": "$CaO$",
+        "C": "$CaCO_3$",
+        "D": "$Ca$"
+      },
+      "vikalpa": {
+        "A": "$Ca(OH)_2$",
+        "B": "$CaO$",
+        "C": "$CaCO_3$",
+        "D": "$Ca$"
+      }
+    },
+    {
       "id": "obj_50",
       "type": "objective",
       "chapter": "2",
@@ -1315,14 +1287,6 @@
         "C": "$NaOH$",
         "D": "$Na_2CO_3$"
       }
-    },
-    {
-      "id": "short_9",
-      "type": "short_answer",
-      "chapter": "2",
-      "chapter_name": "Acids, Bases and Salts",
-      "question": "What happens when $CO_2$ (gas) is passed through lime water: (i) in small amount (ii) in excess amount?",
-      "prashna": "क्या होता है जब $CO_2$ (गैस) चूना जल में प्रवाहित किया जाता है, (i) कम मात्रा में (ii) ज्यादा मात्रा में?"
     },
     {
       "id": "short_10",
@@ -1647,14 +1611,6 @@
       "prashna": "प्लास्टर ऑफ पेरिस का आणविक सूत्र लिखें। इसके उपयोग क्या हैं ?"
     },
     {
-      "id": "short_14",
-      "type": "short_answer",
-      "chapter": "2",
-      "chapter_name": "Acids, Bases and Salts",
-      "question": "Why curd and sour substances should not be kept in brass and copper utensils ?",
-      "prashna": "पीतल एवं ताँबे के बरतनों में दही एवं खट्टे पदार्थ क्यों नहीं रखने चाहिए ?"
-    },
-    {
       "id": "long_3",
       "type": "long_answer",
       "chapter": "2",
@@ -1885,26 +1841,6 @@
       }
     },
     {
-      "id": "obj_8",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Acids, Bases and Salts",
-      "question": "What is the chemical formula of dry ice?",
-      "prashna": "शुष्क बर्फ का रासायनिक सूत्र क्या है?",
-      "options": {
-        "A": "$CO$",
-        "B": "$CO_2$",
-        "C": "$H_2O$",
-        "D": "$H_2O_2$"
-      },
-      "vikalpa": {
-        "A": "$CO$",
-        "B": "$CO_2$",
-        "C": "$H_2O$",
-        "D": "$H_2O_2$"
-      }
-    },
-    {
       "id": "obj_19",
       "type": "objective",
       "chapter": "2",
@@ -2087,26 +2023,6 @@
       }
     },
     {
-      "id": "obj_8",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Acids, Bases and Salts",
-      "question": "Which of the following acids is found in vinegar ?",
-      "prashna": "सिरका में निम्न में कौन-सा अम्ल पाया जाता है ?",
-      "options": {
-        "A": "Acetic acid",
-        "B": "Sulphuric acid",
-        "C": "Formic acid",
-        "D": "Hydrochloric acid"
-      },
-      "vikalpa": {
-        "A": "ऐसीटिक अम्ल",
-        "B": "गंधकाम्ल",
-        "C": "फॉर्मिक अम्ल",
-        "D": "हाइड्रोक्लोरिक अम्ल"
-      }
-    },
-    {
       "id": "obj_14",
       "type": "objective",
       "chapter": "2",
@@ -2124,6 +2040,26 @@
         "B": "5.0 से 5.8",
         "C": "6.0 से 6.8",
         "D": "7.0 से 7.8"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "What is the chemical formula of quicklime ?",
+      "prashna": "कली चूना का रासायनिक सूत्र क्या है ?",
+      "options": {
+        "A": "$Ca(OH)_2$",
+        "B": "$CaO$",
+        "C": "$Ca(HCO_3)_2$",
+        "D": "$CaCO_3$"
+      },
+      "vikalpa": {
+        "A": "$Ca(OH)_2$",
+        "B": "$CaO$",
+        "C": "$Ca(HCO_3)_2$",
+        "D": "$CaCO_3$"
       }
     },
     {
@@ -2251,6 +2187,26 @@
       }
     },
     {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "The molecular formula of sodium phosphate is",
+      "prashna": "सोडियम फॉस्फेट का अणुसूत्र होता है",
+      "options": {
+        "A": "$NaPO_4$",
+        "B": "$Na_3PO_4$",
+        "C": "$Na_2(PO_4)_3$",
+        "D": "$Na_2PO_4$"
+      },
+      "vikalpa": {
+        "A": "$NaPO_4$",
+        "B": "$Na_3PO_4$",
+        "C": "$Na_2(PO_4)_3$",
+        "D": "$Na_2PO_4$"
+      }
+    },
+    {
       "id": "obj_57",
       "type": "objective",
       "chapter": "2",
@@ -2288,46 +2244,6 @@
         "B": "$CH_3COOH$",
         "C": "$H_2SO_4$",
         "D": "$HNO_3$"
-      }
-    },
-    {
-      "id": "obj_73",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Acids, Bases and Salts",
-      "question": "Which one of the following is the natural source of oxalic acid?",
-      "prashna": "ऑक्सेलिक अम्ल का प्राकृतिक स्रोत निम्नलिखित में कौन है ?",
-      "options": {
-        "A": "Tomato",
-        "B": "Tamarind",
-        "C": "Orange",
-        "D": "Vinegar"
-      },
-      "vikalpa": {
-        "A": "टमाटर",
-        "B": "इमली",
-        "C": "संतरा",
-        "D": "सिरका"
-      }
-    },
-    {
-      "id": "obj_80",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Acids, Bases and Salts",
-      "question": "Which of the following causes acid rain in industrial areas?",
-      "prashna": "निम्नलिखित में से किसके द्वारा औद्योगिक क्षेत्र में अम्ल वर्षा होती है ?",
-      "options": {
-        "A": "Chlorofluorocarbon",
-        "B": "Sulphur dioxide",
-        "C": "Ozone",
-        "D": "Carbon dioxide"
-      },
-      "vikalpa": {
-        "A": "क्लोरोफ्लोरोकार्बन",
-        "B": "सल्फर डाईऑक्साइड",
-        "C": "ओजोन",
-        "D": "कार्बन डाईऑक्साइड"
       }
     },
     {
@@ -2429,6 +2345,26 @@
       }
     },
     {
+      "id": "obj_72",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "What is the chemical name of slaked lime?",
+      "prashna": "बुझे हुए चूने का रासायनिक नाम क्या है ?",
+      "options": {
+        "A": "Calcium oxychloride",
+        "B": "Calcium chloride",
+        "C": "Calcium oxide",
+        "D": "Calcium hydroxide"
+      },
+      "vikalpa": {
+        "A": "कैल्सियम ऑक्सीक्लोराइड",
+        "B": "कैल्सियम क्लोराइड",
+        "C": "कैल्सियम ऑक्साइड",
+        "D": "कैल्सियम हाइड्राइड"
+      }
+    },
+    {
       "id": "short_10",
       "type": "short_answer",
       "chapter": "2",
@@ -2443,26 +2379,6 @@
       "chapter_name": "Acids, Bases and Salts",
       "question": "What is an indicator? Write the name of an indicator.",
       "prashna": "सूचक क्या है ? एक सूचक का नाम लिखें।"
-    },
-    {
-      "id": "obj_32",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Acids, Bases and Salts",
-      "question": "We can get iodine in adequate quantity from which of the following ?",
-      "prashna": "हमें किससे उचित मात्रा में आयोडीन प्राप्त हो सकता है ?",
-      "options": {
-        "A": "Rice",
-        "B": "Salt",
-        "C": "Sugar",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "चावल",
-        "B": "नमक",
-        "C": "चीनी",
-        "D": "इनमें से कोई नहीं"
-      }
     },
     {
       "id": "obj_39",
@@ -2525,6 +2441,26 @@
       }
     },
     {
+      "id": "obj_50",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "The ratio of $HCl$ and $HNO_3$ in aqua regia is",
+      "prashna": "अम्लराज में $HCl$ और $HNO_3$ का अनुपात होता है",
+      "options": {
+        "A": "2 : 2",
+        "B": "1 : 2",
+        "C": "1 : 3",
+        "D": "3 : 1"
+      },
+      "vikalpa": {
+        "A": "2 : 2",
+        "B": "1 : 2",
+        "C": "1 : 3",
+        "D": "3 : 1"
+      }
+    },
+    {
       "id": "obj_51",
       "type": "objective",
       "chapter": "2",
@@ -2542,26 +2478,6 @@
         "B": "मिश्रित लवण",
         "C": "अम्लीय लवण",
         "D": "क्षारीय लवण"
-      }
-    },
-    {
-      "id": "obj_53",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Acids, Bases and Salts",
-      "question": "Which of the following is the most acidic oxide ?",
-      "prashna": "निम्नांकित में कौन सबसे अधिक अम्लीय ऑक्साइड है ?",
-      "options": {
-        "A": "$CaO$",
-        "B": "$MgO$",
-        "C": "$Na_2O$",
-        "D": "$SO_2$"
-      },
-      "vikalpa": {
-        "A": "$CaO$",
-        "B": "$MgO$",
-        "C": "$Na_2O$",
-        "D": "$SO_2$"
       }
     },
     {
@@ -2587,6 +2503,240 @@
       "chapter_name": "Acids, Bases and Salts",
       "question": "Explain the importance of pH in daily life.",
       "prashna": "दैनिक जीवन में pH का महत्त्व बताएँ।"
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_65",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Chemical formula of marble is",
+      "prashna": "संगमरमर का रासायनिक सूत्र है",
+      "options": {
+        "A": "$MgCO_3$",
+        "B": "CaO",
+        "C": "$CaCO_3$",
+        "D": "$CuSO_4$"
+      },
+      "vikalpa": {
+        "A": "$MgCO_3$",
+        "B": "CaO",
+        "C": "$CaCO_3$",
+        "D": "$CuSO_4$"
+      }
+    },
+    {
+      "id": "obj_66",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Which of the following is a strong acid ?",
+      "prashna": "निम्नांकित में कौन प्रबल अम्ल है ?",
+      "options": {
+        "A": "$H_2SO_4$",
+        "B": "HCl",
+        "C": "$HNO_3$",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "$H_2SO_4$",
+        "B": "HCl",
+        "C": "$HNO_3$",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_67",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "A solution turns blue litmus paper, red. Its pH will be probably",
+      "prashna": "कोई विलयन नीले लिटमस पत्र को लाल कर देता है, इसका pH संभवतः होगा",
+      "options": {
+        "A": "5",
+        "B": "7",
+        "C": "8",
+        "D": "11"
+      },
+      "vikalpa": {
+        "A": "5",
+        "B": "7",
+        "C": "8",
+        "D": "11"
+      }
+    },
+    {
+      "id": "obj_68",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Which of the following is slaked lime ?",
+      "prashna": "निम्नलिखित में से कौन-सा बुझा हुआ चुना है ?",
+      "options": {
+        "A": "CaO",
+        "B": "$Ca(OH)_2$",
+        "C": "$CaCO_3$",
+        "D": "Ca"
+      },
+      "vikalpa": {
+        "A": "CaO",
+        "B": "$Ca(OH)_2$",
+        "C": "$CaCO_3$",
+        "D": "Ca"
+      }
+    },
+    {
+      "id": "obj_69",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Which of the following is a natural source of oxalic acid ?",
+      "prashna": "ऑक्सैलिक अम्ल का प्राकृतिक स्रोत निम्नलिखित में कौन है ?",
+      "options": {
+        "A": "Orange",
+        "B": "Tomato",
+        "C": "Vinegar",
+        "D": "Tamarind"
+      },
+      "vikalpa": {
+        "A": "संतरा",
+        "B": "टमाटर",
+        "C": "सिरका",
+        "D": "इमली"
+      }
+    },
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "What is a base ? What is the difference between a base and an alkali ?",
+      "prashna": "क्षारक क्या है ? क्षारक एवं क्षार में क्या अंतर है ?"
+    },
+    {
+      "id": "long_19",
+      "type": "long_answer",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "What is pH ? State the importance of pH in daily life.",
+      "prashna": "pH क्या है ? दैनिक जीवन में pH का महत्व बताएँ।"
+    },
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "The chemical formula of baking soda is",
+      "prashna": "बेकिंग सोडा का रासायनिक सूत्र है",
+      "options": {
+        "A": "$NaHCO_3$",
+        "B": "$NaOH$",
+        "C": "$Na_2CO_3$",
+        "D": "$KOH$"
+      },
+      "vikalpa": {
+        "A": "$NaHCO_3$",
+        "B": "$NaOH$",
+        "C": "$Na_2CO_3$",
+        "D": "$KOH$"
+      }
+    },
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Which of the following is a salt?",
+      "prashna": "निम्नांकित में से कौन लवण है?",
+      "options": {
+        "A": "$HCl$",
+        "B": "$NaOH$",
+        "C": "$K_2SO_4$",
+        "D": "$NH_4OH$"
+      },
+      "vikalpa": {
+        "A": "$HCl$",
+        "B": "$NaOH$",
+        "C": "$K_2SO_4$",
+        "D": "$NH_4OH$"
+      }
+    },
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Which of the following solutions is used for whitewashing of wall ?",
+      "prashna": "निम्नलिखित में किस विलयन का उपयोग दीवारों की सफेदी करने के लिए किया जाता है ?",
+      "options": {
+        "A": "$Ca(HCO_3)_2$",
+        "B": "$Ca(OH)_2$",
+        "C": "$CaCO_3$",
+        "D": "$Ca$"
+      },
+      "vikalpa": {
+        "A": "$Ca(HCO_3)_2$",
+        "B": "$Ca(OH)_2$",
+        "C": "$CaCO_3$",
+        "D": "$Ca$"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Which of the following compounds is a weak acid ?",
+      "prashna": "निम्नलिखित यौगिकों में कौन दुर्बल अम्ल है ?",
+      "options": {
+        "A": "$HCl$",
+        "B": "$HNO_3$",
+        "C": "$CH_3COOH$",
+        "D": "$H_2SO_4$"
+      },
+      "vikalpa": {
+        "A": "$HCl$",
+        "B": "$HNO_3$",
+        "C": "$CH_3COOH$",
+        "D": "$H_2SO_4$"
+      }
+    },
+    {
+      "id": "obj_63",
+      "type": "objective",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "What is the chemical formula of chalk ?",
+      "prashna": "खड़िया का रासायनिक सूत्र क्या है ?",
+      "options": {
+        "A": "$MgCO_3$",
+        "B": "$CaO$",
+        "C": "$CaCO_3$",
+        "D": "$Ca(HCO_3)_2$"
+      },
+      "vikalpa": {
+        "A": "$MgCO_3$",
+        "B": "$CaO$",
+        "C": "$CaCO_3$",
+        "D": "$Ca(HCO_3)_2$"
+      }
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "What effect does the concentration of $H^+$ ions have on the nature of the solution ?",
+      "prashna": "$H^+$ आयन की सांद्रता का विलयन की प्रकृति पर क्या प्रभाव पड़ता है ?"
+    },
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "2",
+      "chapter_name": "Acids, Bases and Salts",
+      "question": "Explain the Arrhenius theory of acid and base.",
+      "prashna": "अम्ल तथा क्षार के आरहेनियस सिद्धांत की व्याख्या करें।"
     }
   ]
 }

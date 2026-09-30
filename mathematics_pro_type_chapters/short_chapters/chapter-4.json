@@ -28,16 +28,6 @@
       "marks": 3
     }
   ],
-  "2016": [
-    {
-      "id": "short_17",
-      "type": "short_answer",
-      "chapter": "4",
-      "chapter_name": "Quadratic Equations",
-      "question": "If $\\alpha$ and $\beta$ are the roots of quadratic equation $cx^2 - bx + a = 0$, then $\\alpha^2 + \beta^2 = $ __________.",
-      "prashna": "यदि द्विघातीय समीकरण $cx^2 - bx + a = 0$ के मूल $\\alpha$ एवं $\beta$ हों, तब $\\alpha^2 + \beta^2 = $ __________।"
-    }
-  ],
   "2017": [
     {
       "id": "short_12",
@@ -54,14 +44,6 @@
       "chapter_name": "Quadratic Equations",
       "question": "Solve: $13 - x^2 = (x + 5)^2$",
       "prashna": "$13 - x^2 = (x + 5)^2$ को हल करें ।"
-    },
-    {
-      "id": "short_25",
-      "type": "short_answer",
-      "chapter": "4",
-      "chapter_name": "Quadratic Equations",
-      "question": "The height of a right angle triangle is $7$ cm less than its base. If hypotenuse is $13$ cm then find the value of remaining two sides.",
-      "prashna": "एक समकोण त्रिभुज की ऊँचाई आधार से $7$ सेमी. कम है । यदि कर्ण $13$ सेमी. का हो तो अन्य दो भुजाओं का मान ज्ञात करें ।"
     }
   ],
   "2019": [
@@ -324,6 +306,24 @@
       "chapter_name": "Quadratic Equations",
       "question": "The difference of squares of two numbers is 180. The square of the smaller number is 8 times the larger number. Write the equation for this statement.",
       "prashna": "दो संख्याओं के वर्गों का अंतर 180 है। छोटी संख्या का वर्ग बड़ी संख्या का आठ गुना है। इस कथन के लिए समीकरण लिखें।"
+    }
+  ],
+  "2026": [
+    {
+      "id": "short_19",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Find the discriminant of the quadratic equation 3y^2 - 2\\sqrt{6}y + 2 = 0 and find the nature of the roots also.",
+      "prashna": "द्विघात समीकरण 3y^2 - 2\\sqrt{6}y + 2 = 0 के विवेचक ज्ञात करें और मूलों की प्रकृति भी ज्ञात करें।"
+    },
+    {
+      "id": "short_20",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Using quadratic formula find the roots of the equation 6x^2 + 5x - 6 = 0.",
+      "prashna": "द्विघात सूत्र का प्रयोग कर समीकरण 6x^2 + 5x - 6 = 0 के मूल ज्ञात करें।"
     }
   ]
 }

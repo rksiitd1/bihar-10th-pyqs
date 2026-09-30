@@ -1,94 +1,289 @@
 {
+  "2011": [
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "section": "Economics",
+      "chapter": "1",
+      "chapter_name": "History of Economy and its Development",
+      "question": "What is economic planning? What are the main objectives of planning?",
+      "prashna": "आर्थिक नियोजन किसे कहते हैं? नियोजन के मुख्य उद्देश्य क्या हैं?"
+    }
+  ],
+  "2012": [
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "section": "Economics",
+      "chapter": "1",
+      "chapter_name": "History of Economy and its Development",
+      "question": "What is economic development? Tell the difference between economic development and economic growth.",
+      "prashna": "आर्थिक विकास क्या है? आर्थिक विकास तथा आर्थिक वृद्धि में अंतर बताइए।"
+    }
+  ],
   "2014": [
     {
       "id": "long_1_2",
       "type": "long_answer",
+      "section": "History",
       "chapter": "1",
-      "chapter_name": "The Rise of Nationalism in Europe",
+      "chapter_name": "Nationalism in Europe",
       "question": "Discuss the causes and results of the rise of nationalism.",
       "prashna": "राष्ट्रवाद के उदय के कारणों एवं परिणामों की चर्चा करें।"
     },
     {
       "id": "long_8_1",
       "type": "long_answer",
+      "section": "History",
       "chapter": "1",
-      "chapter_name": "The Rise of Nationalism in Europe",
+      "chapter_name": "Nationalism in Europe",
       "question": "Describe the role of Bismarck in the unification of Germany.",
       "prashna": "जर्मनी के एकीकरण में विस्मार्क की भूमिका का वर्णन करें।"
     },
     {
       "id": "long_8_2",
       "type": "long_answer",
+      "section": "History",
       "chapter": "1",
-      "chapter_name": "The Rise of Nationalism in Europe",
+      "chapter_name": "Nationalism in Europe",
       "question": "Give a brief description of the Greek independence movement.",
       "prashna": "यूनानी स्वतंत्रता आन्दोलन का संक्षिप्त विवरण दें।"
+    },
+    {
+      "id": "long_21",
+      "type": "long_answer",
+      "section": "Civics",
+      "chapter": "1",
+      "chapter_name": "Power Sharing in Democracy",
+      "question": "Who are the power-sharing partners in coalition governments?",
+      "prashna": "गठबंधन की सरकारों में सत्ता में साझेदार कौन-कौन होते हैं?"
+    },
+    {
+      "id": "long_27",
+      "type": "long_answer",
+      "section": "Economics",
+      "chapter": "1",
+      "chapter_name": "History of Economy and its Development",
+      "question": "What is economic development? State the difference between economic development and economic growth.",
+      "prashna": "आर्थिक विकास क्या है ? आर्थिक विकास एवं आर्थिक वृद्धि में अंतर बताइए।"
+    }
+  ],
+  "2017": [
+    {
+      "id": "long_4_1",
+      "type": "long_answer",
+      "section": "Economics",
+      "chapter": "1",
+      "chapter_name": "History of Economy and its Development",
+      "question": "What are the reasons for economic backwardness in Bihar? Explain.",
+      "prashna": "बिहार के आर्थिक पिछड़ेपन के क्या कारण हैं? वर्णन करें?"
+    },
+    {
+      "id": "long_4_1",
+      "type": "long_answer",
+      "section": "Economics",
+      "chapter": "1",
+      "chapter_name": "History of Economy and its Development",
+      "question": "What are the causes of the economic backwardness of Bihar? Describe.",
+      "prashna": "बिहार के आर्थिक पिछड़ेपन के क्या कारण है? वर्णन करें।",
+      "sub_questions": null,
+      "anuprashna": null
     }
   ],
   "2019": [
     {
-      "id": "long_1",
+      "id": "long_7",
       "type": "long_answer",
+      "section": "Geography",
       "chapter": "1",
-      "chapter_name": "The Rise of Nationalism in Europe",
-      "question": "Discuss the causes of Russian Revolution.",
-      "prashna": "रूसी क्रांति के कारणों की विवेचना करें।"
+      "chapter_name": "India: Resources and Utilization",
+      "question": "What is Bio-diversity? Why is it important for human beings?",
+      "prashna": "जैव विविधता क्या है? यह मानव के लिए क्यों महत्त्वपूर्ण है?"
     },
     {
-      "id": "long_1",
+      "id": "long_8",
       "type": "long_answer",
+      "section": "Geography",
       "chapter": "1",
-      "chapter_name": "The Rise of Nationalism in Europe",
-      "question": "Throw light on the life and achievements of Lenin.",
-      "prashna": "लेनिन के जीवन एवं उपलब्धियों पर प्रकाश डालें।"
+      "chapter_name": "India: Resources and Utilization",
+      "question": "What is the difference between metallic and nonmetallic minerals?",
+      "prashna": "धात्विक एवं अधात्विक खनिजों में क्या अन्तर है?"
+    },
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "section": "Economics",
+      "chapter": "1",
+      "chapter_name": "History of Economy and its Development",
+      "question": "What are the reasons for economic backwardness of Bihar?",
+      "prashna": "बिहार के आर्थिक पिछड़ेपन के क्या कारण हैं?"
     }
   ],
   "2020": [
     {
       "id": "long_1",
       "type": "long_answer",
+      "section": "History",
       "chapter": "1",
-      "chapter_name": "The Rise of Nationalism in Europe",
+      "chapter_name": "Nationalism in Europe",
       "question": "State the contributions of Mazzini, Cavour and Garibaldi in the unification of Italy.",
       "prashna": "इटली के एकीकरण में मेजिनी, कावूर और गैरीबाल्डी के योगदानों को बतायें।"
     }
   ],
   "2021": [
     {
-      "id": "long_2",
+      "id": "long_6",
       "type": "long_answer",
+      "section": "Economics",
       "chapter": "1",
-      "chapter_name": "The Rise of Nationalism in Europe",
-      "question": "Describe the ideas of European Socialists.",
-      "prashna": "यूरोपियन समाजवादियों के विचारों का वर्णन करें।"
+      "chapter_name": "History of Economy and its Development",
+      "question": "What are the reasons for the economic backwardness of Bihar?",
+      "prashna": "बिहार के आर्थिक पिछड़ेपन के क्या कारण हैं?"
+    },
+    {
+      "id": "long_19",
+      "type": "long_answer",
+      "section": "Economics",
+      "chapter": "1",
+      "chapter_name": "History of Economy and its Development",
+      "question": "What is called an economy? Mention different sectors of the economy.",
+      "prashna": "अर्थव्यवस्था किसे कहते हैं? अर्थव्यवस्था के विभिन्न क्षेत्रों के विषय में बताइए।"
+    },
+    {
+      "id": "long_27",
+      "type": "long_answer",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "question": "How are human activities responsible for the depletion of flora and fauna?",
+      "prashna": "किस प्रकार मानवीय क्रियाएँ वनस्पति एवं जीव-जंतुओं के ह्रास के लिए उत्तरदायी है?"
+    }
+  ],
+  "2022": [
+    {
+      "id": "long_8",
+      "type": "long_answer",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "question": "Classify power resources.",
+      "prashna": "शक्ति संसाधनों का वर्गीकरण कीजिए।"
+    },
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "section": "Economics",
+      "chapter": "1",
+      "chapter_name": "History of Economy and its Development",
+      "question": "Mention the main characteristics of a mixed economy.",
+      "prashna": "मिश्रित अर्थव्यवस्था की मुख्य विशेषताओं का उल्लेख करें।"
+    },
+    {
+      "id": "long_7",
+      "type": "long_answer",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "question": "Mention the efforts made towards the conservation of power resources.",
+      "prashna": "शक्ति संसाधनों के संरक्षण की दिशा में उठाये गये प्रयासों का उल्लेख कीजिए।"
     }
   ],
   "2024": [
     {
       "id": "long_1",
       "type": "long_answer",
+      "section": "History",
       "chapter": "1",
-      "chapter_name": "The Rise of Nationalism in Europe",
+      "chapter_name": "Nationalism in Europe",
       "question": "Discuss the causes and effects of the rise of nationalism in Europe.",
       "prashna": "यूरोप में राष्ट्रवाद के उदय के कारणों एवं प्रभाव की चर्चा कीजिए।"
+    },
+    {
+      "id": "long_7",
+      "type": "long_answer",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "question": "Mention the measures to increase the forest wealth in India.",
+      "prashna": "भारत में वन संपदा की वृद्धि के उपायों का उल्लेख कीजिए।"
+    },
+    {
+      "id": "long_8",
+      "type": "long_answer",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "question": "Give a brief account of the characteristics of alluvial soil.",
+      "prashna": "जलोढ़ मृदा की विशेषताओं का एक संक्षिप्त विवरण दीजिए।"
     }
   ],
   "2025": [
     {
       "id": "long_1",
       "type": "long_answer",
+      "section": "History",
       "chapter": "1",
-      "chapter_name": "The Rise of Nationalism in Europe",
+      "chapter_name": "Nationalism in Europe",
       "question": "How nationalism is the result of political awakening in the modern world? Discuss.",
       "prashna": "राष्ट्रवाद आधुनिक विश्व की राजनैतिक जागृति का प्रतिफल किस प्रकार है? विवेचना करें।"
     },
     {
+      "id": "long_8",
+      "type": "long_answer",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "question": "Write a note on the environmental importance of forests.",
+      "prashna": "वनों के पर्यावरणीय महत्व पर टिप्पणी लिखें।"
+    },
+    {
       "id": "long_1",
       "type": "long_answer",
+      "section": "History",
       "chapter": "1",
-      "chapter_name": "The Rise of Nationalism in Europe",
+      "chapter_name": "Nationalism in Europe",
       "question": "How nationalism is the result of political awakening in the modern world? Discuss.",
       "prashna": "राष्ट्रवाद आधुनिक विश्व की राजनैतिक जागृति का प्रतिफल किस प्रकार है? विवेचना करें।"
+    },
+    {
+      "id": "long_8",
+      "type": "long_answer",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "question": "Write a note on the environmental importance of forests.",
+      "prashna": "वनों के पर्यावरणीय महत्त्व पर टिप्पणी लिखें।"
+    }
+  ],
+  "2026": [
+    {
+      "id": "long_7",
+      "type": "long_answer",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "question": "Give an account of the power resources of India.",
+      "prashna": "भारत के शक्ति संसाधनों का विवरण दीजिए।",
+      "instructions": "Question Nos. 27 and 28 are Long Answer Type. Answer any 1 of them. Each question carries 4 marks."
+    },
+    {
+      "id": "long_8",
+      "type": "long_answer",
+      "section": "Economics",
+      "chapter": "1",
+      "chapter_name": "History of Economy and its Development",
+      "question": "Differentiate between the public and private sector industries.",
+      "prashna": "सार्वजनिक और निजी क्षेत्रों के उद्योगों में अंतर स्पष्ट कीजिए।",
+      "instructions": "Question Nos. 27 and 28 are Long Answer Type. Answer any 1 of them. Each question carries 4 marks."
+    },
+    {
+      "id": "long_8",
+      "type": "long_answer",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "question": "What steps can be taken to conserve power resources ?",
+      "prashna": "शक्ति संसाधनों के संरक्षण हेतु क्या कदम उठाये जा सकते हैं ?"
     }
   ]
 }

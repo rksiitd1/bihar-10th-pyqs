@@ -1,0 +1,511 @@
+{
+  "total_questions": 4788,
+  "total_classified": 3958,
+  "total_unclassified": 830,
+  "overall_classification_rate": 82.66,
+  "total_time_seconds": 1439.29,
+  "subjects": {
+    "english": {
+      "subject": "english",
+      "total_files": 26,
+      "total_questions": 1687,
+      "total_classified": 1376,
+      "total_unclassified": 311,
+      "classification_rate": 81.56,
+      "total_time_seconds": 420.84,
+      "file_reports": [
+        {
+          "file": "eng_2011i.json",
+          "total": 16,
+          "unclassified": 3,
+          "avg_confidence": 0.851,
+          "elapsed_seconds": 3.19
+        },
+        {
+          "file": "eng_2012i.json",
+          "total": 13,
+          "unclassified": 6,
+          "avg_confidence": 0.715,
+          "elapsed_seconds": 2.71
+        },
+        {
+          "file": "eng_2013i.json",
+          "total": 16,
+          "unclassified": 4,
+          "avg_confidence": 0.807,
+          "elapsed_seconds": 3.26
+        },
+        {
+          "file": "eng_2014i.json",
+          "total": 14,
+          "unclassified": 5,
+          "avg_confidence": 0.739,
+          "elapsed_seconds": 3.13
+        },
+        {
+          "file": "eng_2014ii.json",
+          "total": 17,
+          "unclassified": 6,
+          "avg_confidence": 0.788,
+          "elapsed_seconds": 8.03
+        },
+        {
+          "file": "eng_2015i.json",
+          "total": 20,
+          "unclassified": 7,
+          "avg_confidence": 0.785,
+          "elapsed_seconds": 4.72
+        },
+        {
+          "file": "eng_2015ii.json",
+          "total": 14,
+          "unclassified": 6,
+          "avg_confidence": 0.733,
+          "elapsed_seconds": 3.07
+        },
+        {
+          "file": "eng_2016i.json",
+          "total": 20,
+          "unclassified": 6,
+          "avg_confidence": 0.809,
+          "elapsed_seconds": 4.66
+        },
+        {
+          "file": "eng_2016ii.json",
+          "total": 14,
+          "unclassified": 5,
+          "avg_confidence": 0.774,
+          "elapsed_seconds": 2.81
+        },
+        {
+          "file": "eng_2017i.json",
+          "total": 23,
+          "unclassified": 4,
+          "avg_confidence": 0.858,
+          "elapsed_seconds": 6.39
+        },
+        {
+          "file": "eng_2017ii.json",
+          "total": 14,
+          "unclassified": 4,
+          "avg_confidence": 0.791,
+          "elapsed_seconds": 3.23
+        },
+        {
+          "file": "eng_2018i.json",
+          "total": 61,
+          "unclassified": 9,
+          "avg_confidence": 0.892,
+          "elapsed_seconds": 16.37
+        },
+        {
+          "file": "eng_2018ii.json",
+          "total": 68,
+          "unclassified": 13,
+          "avg_confidence": 0.877,
+          "elapsed_seconds": 34.99
+        },
+        {
+          "file": "eng_2019i.json",
+          "total": 58,
+          "unclassified": 11,
+          "avg_confidence": 0.875,
+          "elapsed_seconds": 20.9
+        },
+        {
+          "file": "eng_2019ii.json",
+          "total": 71,
+          "unclassified": 9,
+          "avg_confidence": 0.908,
+          "elapsed_seconds": 13.34
+        },
+        {
+          "file": "eng_2020i.json",
+          "total": 74,
+          "unclassified": 11,
+          "avg_confidence": 0.886,
+          "elapsed_seconds": 11.79
+        },
+        {
+          "file": "eng_2020ii.json",
+          "total": 83,
+          "unclassified": 14,
+          "avg_confidence": 0.881,
+          "elapsed_seconds": 14.03
+        },
+        {
+          "file": "eng_2021i.json",
+          "total": 127,
+          "unclassified": 14,
+          "avg_confidence": 0.902,
+          "elapsed_seconds": 22.38
+        },
+        {
+          "file": "eng_2021ii.json",
+          "total": 123,
+          "unclassified": 23,
+          "avg_confidence": 0.871,
+          "elapsed_seconds": 17.73
+        },
+        {
+          "file": "eng_2022i.json",
+          "total": 123,
+          "unclassified": 21,
+          "avg_confidence": 0.863,
+          "elapsed_seconds": 20.71
+        },
+        {
+          "file": "eng_2022ii.json",
+          "total": 127,
+          "unclassified": 20,
+          "avg_confidence": 0.869,
+          "elapsed_seconds": 20.84
+        },
+        {
+          "file": "eng_2023i.json",
+          "total": 100,
+          "unclassified": 17,
+          "avg_confidence": 0.867,
+          "elapsed_seconds": 16.1
+        },
+        {
+          "file": "eng_2024i.json",
+          "total": 123,
+          "unclassified": 17,
+          "avg_confidence": 0.881,
+          "elapsed_seconds": 57.85
+        },
+        {
+          "file": "eng_2024ii.json",
+          "total": 122,
+          "unclassified": 22,
+          "avg_confidence": 0.854,
+          "elapsed_seconds": 59.56
+        },
+        {
+          "file": "eng_2025i.json",
+          "total": 123,
+          "unclassified": 37,
+          "avg_confidence": 0.95,
+          "elapsed_seconds": 0.0
+        },
+        {
+          "file": "eng_2025ii.json",
+          "total": 123,
+          "unclassified": 17,
+          "avg_confidence": 0.88,
+          "elapsed_seconds": 48.25
+        }
+      ]
+    },
+    "hindi": {
+      "subject": "hindi",
+      "total_files": 15,
+      "total_questions": 1240,
+      "total_classified": 995,
+      "total_unclassified": 245,
+      "classification_rate": 80.24,
+      "total_time_seconds": 506.82,
+      "file_reports": [
+        {
+          "file": "hin_2016i.json",
+          "total": 25,
+          "unclassified": 6,
+          "avg_confidence": 0.839,
+          "elapsed_seconds": 5.97
+        },
+        {
+          "file": "hin_2016ii.json",
+          "total": 16,
+          "unclassified": 4,
+          "avg_confidence": 0.809,
+          "elapsed_seconds": 3.74
+        },
+        {
+          "file": "hin_2017i.json",
+          "total": 20,
+          "unclassified": 5,
+          "avg_confidence": 0.758,
+          "elapsed_seconds": 5.21
+        },
+        {
+          "file": "hin_2018i.json",
+          "total": 69,
+          "unclassified": 11,
+          "avg_confidence": 0.872,
+          "elapsed_seconds": 25.76
+        },
+        {
+          "file": "hin_2019i.json",
+          "total": 71,
+          "unclassified": 14,
+          "avg_confidence": 0.838,
+          "elapsed_seconds": 12.31
+        },
+        {
+          "file": "hin_2020i.json",
+          "total": 81,
+          "unclassified": 14,
+          "avg_confidence": 0.866,
+          "elapsed_seconds": 34.17
+        },
+        {
+          "file": "hin_2020ii.json",
+          "total": 83,
+          "unclassified": 25,
+          "avg_confidence": 0.785,
+          "elapsed_seconds": 33.97
+        },
+        {
+          "file": "hin_2021i.json",
+          "total": 123,
+          "unclassified": 26,
+          "avg_confidence": 0.843,
+          "elapsed_seconds": 62.81
+        },
+        {
+          "file": "hin_2021ii.json",
+          "total": 123,
+          "unclassified": 21,
+          "avg_confidence": 0.865,
+          "elapsed_seconds": 59.34
+        },
+        {
+          "file": "hin_2022i.json",
+          "total": 119,
+          "unclassified": 21,
+          "avg_confidence": 0.86,
+          "elapsed_seconds": 44.4
+        },
+        {
+          "file": "hin_2022ii.json",
+          "total": 122,
+          "unclassified": 22,
+          "avg_confidence": 0.841,
+          "elapsed_seconds": 61.35
+        },
+        {
+          "file": "hin_2023i.json",
+          "total": 117,
+          "unclassified": 25,
+          "avg_confidence": 0.841,
+          "elapsed_seconds": 50.32
+        },
+        {
+          "file": "hin_2024i.json",
+          "total": 29,
+          "unclassified": 10,
+          "avg_confidence": 0.736,
+          "elapsed_seconds": 6.14
+        },
+        {
+          "file": "hin_2025i.json",
+          "total": 123,
+          "unclassified": 22,
+          "avg_confidence": 0.876,
+          "elapsed_seconds": 45.16
+        },
+        {
+          "file": "hin_2025ii.json",
+          "total": 119,
+          "unclassified": 19,
+          "avg_confidence": 0.878,
+          "elapsed_seconds": 55.7
+        }
+      ]
+    },
+    "sanskrit": {
+      "subject": "sanskrit",
+      "total_files": 26,
+      "total_questions": 1861,
+      "total_classified": 1587,
+      "total_unclassified": 274,
+      "classification_rate": 85.28,
+      "total_time_seconds": 511.55,
+      "file_reports": [
+        {
+          "file": "san_2011i.json",
+          "total": 10,
+          "unclassified": 2,
+          "avg_confidence": 0.84,
+          "elapsed_seconds": 8.5
+        },
+        {
+          "file": "san_2012i.json",
+          "total": 9,
+          "unclassified": 3,
+          "avg_confidence": 0.798,
+          "elapsed_seconds": 5.99
+        },
+        {
+          "file": "san_2013i.json",
+          "total": 25,
+          "unclassified": 0,
+          "avg_confidence": 0.974,
+          "elapsed_seconds": 13.09
+        },
+        {
+          "file": "san_2014i.json",
+          "total": 12,
+          "unclassified": 1,
+          "avg_confidence": 0.931,
+          "elapsed_seconds": 6.8
+        },
+        {
+          "file": "san_2014ii.json",
+          "total": 9,
+          "unclassified": 1,
+          "avg_confidence": 0.917,
+          "elapsed_seconds": 5.8
+        },
+        {
+          "file": "san_2015i.json",
+          "total": 10,
+          "unclassified": 3,
+          "avg_confidence": 0.771,
+          "elapsed_seconds": 6.57
+        },
+        {
+          "file": "san_2015ii.json",
+          "total": 7,
+          "unclassified": 1,
+          "avg_confidence": 0.88,
+          "elapsed_seconds": 3.41
+        },
+        {
+          "file": "san_2016i.json",
+          "total": 64,
+          "unclassified": 9,
+          "avg_confidence": 0.889,
+          "elapsed_seconds": 31.67
+        },
+        {
+          "file": "san_2016ii.json",
+          "total": 7,
+          "unclassified": 0,
+          "avg_confidence": 0.927,
+          "elapsed_seconds": 10.93
+        },
+        {
+          "file": "san_2017i.json",
+          "total": 63,
+          "unclassified": 11,
+          "avg_confidence": 0.863,
+          "elapsed_seconds": 32.92
+        },
+        {
+          "file": "san_2017ii.json",
+          "total": 7,
+          "unclassified": 0,
+          "avg_confidence": 0.96,
+          "elapsed_seconds": 3.73
+        },
+        {
+          "file": "san_2018i.json",
+          "total": 79,
+          "unclassified": 11,
+          "avg_confidence": 0.913,
+          "elapsed_seconds": 43.09
+        },
+        {
+          "file": "san_2018ii.json",
+          "total": 70,
+          "unclassified": 8,
+          "avg_confidence": 0.896,
+          "elapsed_seconds": 34.29
+        },
+        {
+          "file": "san_2019i.json",
+          "total": 65,
+          "unclassified": 45,
+          "avg_confidence": 0.553,
+          "elapsed_seconds": 14.54
+        },
+        {
+          "file": "san_2019ii.json",
+          "total": 88,
+          "unclassified": 12,
+          "avg_confidence": 0.894,
+          "elapsed_seconds": 15.03
+        },
+        {
+          "file": "san_2020i.json",
+          "total": 98,
+          "unclassified": 7,
+          "avg_confidence": 0.921,
+          "elapsed_seconds": 17.85
+        },
+        {
+          "file": "san_2020ii.json",
+          "total": 99,
+          "unclassified": 7,
+          "avg_confidence": 0.924,
+          "elapsed_seconds": 41.98
+        },
+        {
+          "file": "san_2021i.json",
+          "total": 141,
+          "unclassified": 18,
+          "avg_confidence": 0.894,
+          "elapsed_seconds": 37.78
+        },
+        {
+          "file": "san_2021ii.json",
+          "total": 141,
+          "unclassified": 18,
+          "avg_confidence": 0.898,
+          "elapsed_seconds": 28.1
+        },
+        {
+          "file": "san_2022i.json",
+          "total": 133,
+          "unclassified": 17,
+          "avg_confidence": 0.905,
+          "elapsed_seconds": 21.48
+        },
+        {
+          "file": "san_2022ii.json",
+          "total": 141,
+          "unclassified": 12,
+          "avg_confidence": 0.914,
+          "elapsed_seconds": 25.19
+        },
+        {
+          "file": "san_2023i.json",
+          "total": 141,
+          "unclassified": 19,
+          "avg_confidence": 0.898,
+          "elapsed_seconds": 22.6
+        },
+        {
+          "file": "san_2024i.json",
+          "total": 141,
+          "unclassified": 22,
+          "avg_confidence": 0.876,
+          "elapsed_seconds": 24.86
+        },
+        {
+          "file": "san_2024ii.json",
+          "total": 19,
+          "unclassified": 0,
+          "avg_confidence": 0.965,
+          "elapsed_seconds": 5.07
+        },
+        {
+          "file": "san_2025i.json",
+          "total": 141,
+          "unclassified": 23,
+          "avg_confidence": 0.873,
+          "elapsed_seconds": 24.48
+        },
+        {
+          "file": "san_2025ii.json",
+          "total": 141,
+          "unclassified": 24,
+          "avg_confidence": 0.868,
+          "elapsed_seconds": 24.79
+        }
+      ]
+    }
+  }
+}

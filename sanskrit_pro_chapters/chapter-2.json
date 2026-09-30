@@ -1,1353 +1,3094 @@
 {
-  "2014": [
+  "2013": [
     {
       "id": "short_1",
       "type": "short_answer",
+      "section": "Piyusham",
       "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "'कर्मवीर कथा' का सारांश लिखें।",
-      "prashna": "'कर्मवीर कथा' का सारांश लिखें।",
-      "instructions": "लघु उत्तरीय प्रश्न"
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "सिख सम्प्रदाय के लोगों के लिए पटना क्यों महत्त्वपूर्ण है?",
+      "prashna": "सिख सम्प्रदाय के लोगों के लिए पटना क्यों महत्त्वपूर्ण है?",
+      "instructions": "तीन वाक्यों में उत्तर दें।"
     }
   ],
-  "2019": [
+  "2014": [
     {
-      "id": "obj_12",
-      "type": "objective",
+      "id": "short_4",
+      "type": "short_answer",
+      "section": "Piyusham",
       "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "In the story 'Once Upon a Time', the woman was visited by -",
-      "prashna": "In the story 'Once Upon a Time', the woman was visited by -",
-      "instructions": "Instruction:- Q. No. 1 to 30 are based on prescribed texts. Choose the correct answers from the option.",
-      "options": {
-        "A": "Some young people",
-        "B": "Some old people",
-        "C": "Some rich people",
-        "D": "Some sick people"
-      },
-      "vikalpa": {
-        "A": "Some young people",
-        "B": "Some old people",
-        "C": "Some rich people",
-        "D": "Some sick people"
-      }
+      "chapter_name": "Patliputra-vaibhavam",
+      "instructions": "पठित अवबोधनम् (Short Answer Questions)",
+      "question": "पाटलिपुत्र नगर के वैभव का वर्णन करें।",
+      "prashna": "पाटलिपुत्र नगर के वैभव का वर्णन करें।"
+    }
+  ],
+  "2016": [
+    {
+      "id": "short_answer_1",
+      "type": "short_answer",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "instructions": "निर्देशानुसार उत्तर दें :",
+      "question": "गिरि + ईशः ( सन्धि करें )",
+      "prashna": "गिरि + ईशः ( सन्धि करें )"
     },
     {
-      "id": "obj_18",
-      "type": "objective",
+      "id": "short_answer_2",
+      "type": "short_answer",
+      "section": "Vyakaran",
       "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "Aung San Suu Kyi's struggle was for -",
-      "prashna": "Aung San Suu Kyi's struggle was for -",
-      "instructions": "Instruction:- Q. No. 1 to 30 are based on prescribed texts. Choose the correct answers from the option.",
-      "options": {
-        "A": "an autocratic - Burma",
-        "B": "a communist - Burma",
-        "C": "a democratic - Burma",
-        "D": "a socialist - Burma"
-      },
-      "vikalpa": {
-        "A": "an autocratic - Burma",
-        "B": "a communist - Burma",
-        "C": "a democratic - Burma",
-        "D": "a socialist - Burma"
-      }
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "instructions": "निर्देशानुसार उत्तर दें :",
+      "question": "महोदयः ( सन्धि विच्छेद करें )",
+      "prashna": "महोदयः ( सन्धि विच्छेद करें )"
     },
     {
-      "id": "obj_22",
-      "type": "objective",
+      "id": "short_answer_3",
+      "type": "short_answer",
+      "section": "Vyakaran",
       "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "Both the girls in the story 'Little Girls wiser than Men,' had -",
-      "prashna": "Both the girls in the story 'Little Girls wiser than Men,' had -",
-      "instructions": "Instruction:- Q. No. 1 to 30 are based on prescribed texts. Choose the correct answers from the option.",
-      "options": {
-        "A": "red handkerchiefs",
-        "B": "blue handkerchiefs",
-        "C": "yellow handkerchiefs",
-        "D": "white handkerchiefs"
-      },
-      "vikalpa": {
-        "A": "red handkerchiefs",
-        "B": "blue handkerchiefs",
-        "C": "yellow handkerchiefs",
-        "D": "white handkerchiefs"
-      }
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "instructions": "निर्देशानुसार उत्तर दें :",
+      "question": "'इ + अ' के मेल से कौन-सा वर्ण बनेगा ?",
+      "prashna": "'इ + अ' के मेल से कौन-sa वर्ण बनेगा ?"
     },
     {
-      "id": "obj_26",
-      "type": "objective",
+      "id": "short_answer_4",
+      "type": "short_answer",
+      "section": "Vyakaran",
       "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "Passive voice of 'She gave me a gift'",
-      "prashna": "Passive voice of 'She gave me a gift'",
-      "instructions": "Direction (31 - 33) - Choose the correct option of the following :",
-      "options": {
-        "A": "I was given a gift by her",
-        "B": "I am given a gift by her",
-        "C": "She was given a gift by me",
-        "D": "She is given a gift by me"
-      },
-      "vikalpa": {
-        "A": "I was given a gift by her",
-        "B": "I am given a gift by her",
-        "C": "She was given a gift by me",
-        "D": "She is given a gift by me"
-      }
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "instructions": "निर्देशानुसार उत्तर दें :",
+      "question": "व्यञ्जन सन्धि का एक उदाहरण लिखें ।",
+      "prashna": "व्यञ्जन सन्धि का एक उदाहरण लिखें ।"
     },
     {
-      "id": "obj_27",
-      "type": "objective",
+      "id": "short_answer_17",
+      "type": "short_answer",
+      "section": "Piyusham",
       "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "Active Voice of 'The garden has been watered by the gardener'",
-      "prashna": "Active Voice of 'The garden has been watered by the gardener'",
-      "instructions": "Direction (31 - 33) - Choose the correct option of the following :",
-      "options": {
-        "A": "The gardener is watering the garden",
-        "B": "The gardener was watering the garden",
-        "C": "The gardener has watered the garden",
-        "D": "The gardener had watered the garden"
-      },
-      "vikalpa": {
-        "A": "The gardener is watering the garden",
-        "B": "The gardener was watering the garden",
-        "C": "The gardener has watered the garden",
-        "D": "The gardener had watered the garden"
-      }
+      "chapter_name": "Patliputra-vaibhavam",
+      "instructions": "निम्नलिखित प्रश्नों के उत्तर संस्कृत में दें :",
+      "question": "पाटलिपुत्रं कस्याः नद्याः तटे अवस्थितमस्ति ?",
+      "prashna": "पाटलिपुत्रं कस्याः नद्याः तटे अवस्थितमस्ति ?"
+    }
+  ],
+  "2017": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "instructions": "निर्देशानुसार उत्तर दें-",
+      "question": "(क) जगत् + नाथः (सन्धि करें)",
+      "prashna": "(क) जगत् + नाथः (सन्धि करें)"
     },
     {
-      "id": "obj_28",
-      "type": "objective",
+      "id": "short_2",
+      "type": "short_answer",
+      "section": "Vyakaran",
       "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "Active Voice of 'He was scolded by the teacher'",
-      "prashna": "Active Voice of 'He was scolded by the teacher'",
-      "instructions": "Direction (31 - 33) - Choose the correct option of the following :",
-      "options": {
-        "A": "The teacher scolds him",
-        "B": "The teacher was scolding him",
-        "C": "The teacher is scolding him",
-        "D": "The teacher scolded him"
-      },
-      "vikalpa": {
-        "A": "The teacher scolds him",
-        "B": "The teacher was scolding him",
-        "C": "The teacher is scolding him",
-        "D": "The teacher scolded him"
-      }
-    },
-    {
-      "id": "translation_5",
-      "type": "translation",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "आप वहाँ कितनी देर रहेंगे?",
-      "prashna": "आप वहाँ कितनी देर रहेंगे?",
-      "instructions": "Direction (46- 50) - Choose the most suitable translation :",
-      "options": {
-        "A": "How much will you stay there?",
-        "B": "How long will you stay there?",
-        "C": "How long you will stay there?",
-        "D": "How more will you stay there?"
-      },
-      "vikalpa": {
-        "A": "How much will you stay there?",
-        "B": "How long will you stay there?",
-        "C": "How long you will stay there?",
-        "D": "How more will you stay there?"
-      }
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "instructions": "निर्देशानुसार उत्तर दें-",
+      "question": "(ख) यद्यपि (सन्धि विच्छेद करें)",
+      "prashna": "(ख) यद्यपि (सन्धि विच्छेद करें)"
     },
     {
       "id": "short_3",
       "type": "short_answer",
+      "section": "Vyakaran",
       "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "Where do the two little girls meet in the story of Leo Tolstoy?",
-      "prashna": "Where do the two little girls meet in the story of Leo Tolstoy?",
-      "instructions": "Direction. Answer any five of the following questions [5x2=10]"
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "instructions": "निर्देशानुसार उत्तर दें-",
+      "question": "(ग) 'अ + उ' के योग से कौन-सा नया वर्ण बनेगा?",
+      "prashna": "(ग) 'अ + उ' के योग से कौन-सा नया वर्ण बनेगा?"
     },
     {
-      "id": "gadyansh_2",
-      "type": "comprehension",
+      "id": "short_4",
+      "type": "short_answer",
+      "section": "Vyakaran",
       "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "context": "विजयादशमी अस्माकं देशस्य प्रमुखं पर्व अस्ति । अस्मिन् दिने भगवान् श्रीराम: लंकापति रावणं युद्धे अजयत् । अयम् उत्सव: आश्विन् मासस्य दशम्यां तिथौ मन्यते, अत: अलं विजयादशमी इत्युच्यते । लंकापति: रावण: छलेन सीताम् अहरत् अशोकवाटिकायां च अरक्षत्। तस्य वधेन राम: सन्दिषति यत् कदापि मानवेन असुराचरणं नैव कर्त्तव्यम्। रावणस्य वध: आसुरीणां प्रवृत्तीनां वध एव अस्ति ।",
-      "question": "1. अधोलिखित गद्यांशों को पढ़कर उसपर आधारित प्रश्नों के उत्तर निर्देशानुसार दें- (अ) अथवा",
-      "prashna": "1. अधोलिखित गद्यांशों को पढ़कर उसपर आधारित प्रश्नों के उत्तर निर्देशानुसार दें- (अ) अथवा",
-      "instructions": "पठित गद्यांश (13 अङ्का:)",
-      "sub_questions": [
-        {
-          "id": "1a_alt_i_ka",
-          "question": "(क) अस्माकम् देशस्य प्रमुखं पर्व किम् ?",
-          "instruction": "एकपदेन उत्तरत-"
-        },
-        {
-          "id": "1a_alt_i_kha",
-          "question": "(ख) श्रीराम: युद्धे के अजयत् ?",
-          "instruction": "एकपदेन उत्तरत-"
-        },
-        {
-          "id": "1a_alt_ii_ka",
-          "question": "(क) 'विजयादशमी' इति नाम कथं प्राचलत् ?",
-          "instruction": "पूर्णवाक्येन उत्तरत-"
-        },
-        {
-          "id": "1a_alt_ii_kha",
-          "question": "(ख) रावणस्य वध: कासां वध: अस्ति ?",
-          "instruction": "पूर्णवाक्येन उत्तरत-"
-        },
-        {
-          "id": "1a_alt_iii",
-          "question": "अस्य गद्यांशस्य उपयुक्तं शीर्षकम् लिखत ।",
-          "instruction": "लिखत"
-        }
-      ]
-    },
-    {
-      "id": "gadyansh_3",
-      "type": "comprehension",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "context": "एकस्मिन् वने एक: भिक्षुक: वसति । स: प्रतिदिनं भिक्षायै नगरं गच्छति । एकदा एका महिला तस्मै विषाक्तां रोटिकां अयच्छत् । स: तां रोटिकां स्वकुटीरं नयति । मध्याह्ने एक: बाल: वने सूर्यस्य तापेन मूर्च्छित: भवति । स: भिक्षुक: चिन्तयति यत् स: क्षुधापीडित: अस्ति। स: तां रोटिकां तस्मै बालाय यच्छति । स: तस्मै जलम् अपि यच्छति । स: बाल: जलं पिबति रोटिकां च खादति । यदा स: रोटिकां खादति तदा विष प्रभावात् स्वप्राणान् त्यजति । तदा तस्य अम्बा तत्र आगच्छति । तस्य अम्बा तु सा एव महिला आसीत् या तस्मै भिक्षुकाय रोटिकाम् अयच्छत् । जना: तु सत्यं कथयन्ति - \"यथा कर्म तथा फलम् ।",
-      "question": "1. अधोलिखित गद्यांशों को पढ़कर उसपर आधारित प्रश्नों के उत्तर निर्देशानुसार दें- (ब)",
-      "prashna": "1. अधोलिखित गद्यांशों को पढ़कर उसपर आधारित प्रश्नों के उत्तर निर्देशानुसार दें- (ब)",
-      "instructions": "पठित गद्यांश (13 अङ्का:)",
-      "sub_questions": [
-        {
-          "id": "1b_i_ka",
-          "question": "(क) वने क: वसति ?",
-          "instruction": "एकपदेन उत्तरत-"
-        },
-        {
-          "id": "1b_i_kha",
-          "question": "(ख) प्राणान् क: त्यजति ?",
-          "instruction": "एकपदेन उत्तरत-"
-        },
-        {
-          "id": "1b_ii_ka",
-          "question": "(क) भिक्षुक: किं चिन्तयति ?",
-          "instruction": "पूर्णवाक्येन उत्तरत-"
-        },
-        {
-          "id": "1b_ii_kha",
-          "question": "(ख) बाल: प्राणान् कदा त्यजति ?",
-          "instruction": "पूर्णवाक्येन उत्तरत-"
-        },
-        {
-          "id": "1b_iii",
-          "question": "अस्य गद्यांशस्य उपयुक्तं शीर्षकम् लिखत ।",
-          "instruction": "लिखत"
-        }
-      ]
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "instructions": "निर्देशानुसार उत्तर दें-",
+      "question": "(घ) विसर्ग सन्धि का एक उदाहरण दें।",
+      "prashna": "(घ) विसर्ग सन्धि का एक उदाहरण दें।"
     }
   ],
-  "2020": [
+  "2018": [
     {
-      "id": "obj_17",
+      "id": "obj_4",
       "type": "objective",
+      "section": "Piyusham",
       "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "'व्याघ्रपथिक कथा' पाठ में किसके दुष्परिणाम का वर्णन किया गया है ?",
-      "prashna": "'व्याघ्रपथिक कथा' पाठ में किसके दुष्परिणाम का वर्णन किया गया है ?",
-      "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "मेगास्थनीज पटना किस समय में आया था ?",
+      "prashna": "मेगास्थनीज पटना किस समय में आया था ?",
+      "instructions": "प्रश्न- संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिये गये हैं, जिनमें से एक सही है। अपनी द्वारा चुने गये सही विकल्प को OMR शीट पर चिन्हित करें।",
       "options": {
-        "A": "क्रोध",
-        "B": "लोभ",
-        "C": "मोह",
-        "D": "काम"
+        "A": "अशोक के समय में",
+        "B": "मुगलवंश काल में",
+        "C": "चन्द्रगुप्त मौर्य के समय में",
+        "D": "अंग्रेजों के समय में"
       },
       "vikalpa": {
-        "A": "क्रोध",
-        "B": "लोभ",
-        "C": "मोह",
-        "D": "काम"
+        "A": "अशोक के समय में",
+        "B": "मुगलवंश काल में",
+        "C": "चन्द्रगुप्त मौर्य के समय में",
+        "D": "अंग्रेजों के समय में"
       }
     },
-    {
-      "id": "obj_18",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "'इदं सुवर्ण कङ्कणं गृह्यताम् !' किसने कहा ?",
-      "prashna": "'इदं सुवर्ण कङ्कणं गृह्यताम् !' किसने कहा ?",
-      "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
-      "options": {
-        "A": "पथिक",
-        "B": "कथाकार",
-        "C": "व्याघ्र",
-        "D": "दानी"
-      },
-      "vikalpa": {
-        "A": "पथिक",
-        "B": "कथाकार",
-        "C": "व्याघ्र",
-        "D": "दानी"
-      }
-    },
-    {
-      "id": "obj_19",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "ब्राह्मण के वेश में कौन प्रवेश करता है ?",
-      "prashna": "ब्राह्मण के वेश में कौन प्रवेश करता है ?",
-      "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
-      "options": {
-        "A": "कर्ण",
-        "B": "शल्य",
-        "C": "अर्जुन",
-        "D": "शक्र"
-      },
-      "vikalpa": {
-        "A": "कर्ण",
-        "B": "शल्य",
-        "C": "अर्जुन",
-        "D": "शक्र"
-      }
-    },
-    {
-      "id": "obj_31",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "दलित ग्रामवासी पुरुष की कथा कौन है ?",
-      "prashna": "दलित ग्रामवासी पुरुष की कथा कौन है ?",
-      "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
-      "options": {
-        "A": "कर्मवीर कथा",
-        "B": "अलस कथा",
-        "C": "व्याघ्रपथिक कथा",
-        "D": "विश्वशान्ति:"
-      },
-      "vikalpa": {
-        "A": "कर्मवीर कथा",
-        "B": "अलस कथा",
-        "C": "व्याघ्रपथिक कथा",
-        "D": "विश्वशान्ति:"
-      }
-    },
-    {
-      "id": "obj_32",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "स्वामी दयानन्द कौन थे ?",
-      "prashna": "स्वामी दयानन्द कौन थे ?",
-      "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
-      "options": {
-        "A": "शिक्षाविद्",
-        "B": "समाजोध्दारक",
-        "C": "धर्मोपदेशक",
-        "D": "राजनीतिज्ञ"
-      },
-      "vikalpa": {
-        "A": "शिक्षाविद्",
-        "B": "समाजोध्दारक",
-        "C": "धर्मोपदेशक",
-        "D": "राजनीतिज्ञ"
-      }
-    },
-    {
-      "id": "obj_33",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "आर्य समाज संस्था के संस्थापक कौन थे ?",
-      "prashna": "आर्य समाज संस्था के संस्थापक कौन थे ?",
-      "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
-      "options": {
-        "A": "विवेकानन्द",
-        "B": "दयानन्द",
-        "C": "रामकृष्ण परमहंस",
-        "D": "राजा राममोहन राय"
-      },
-      "vikalpa": {
-        "A": "विवेकानन्द",
-        "B": "दयानन्द",
-        "C": "रामकृष्ण परमहंस",
-        "D": "राजा राममोहन राय"
-      }
-    },
-    {
-      "id": "obj_34",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "स्वामी दयानन्द का जन्म किस गाँव में हुआ था ?",
-      "prashna": "स्वामी दयानन्द का जन्म किस गाँव में हुआ था ?",
-      "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
-      "options": {
-        "A": "कंटारा",
-        "B": "टंकापुर",
-        "C": "टंकारा",
-        "D": "भीखन टोला"
-      },
-      "vikalpa": {
-        "A": "कंटारा",
-        "B": "टंकापुर",
-        "C": "टंकारा",
-        "D": "भीखन टोला"
-      }
-    },
-    {
-      "id": "obj_46",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "'सरसि स्नात्वा सुवर्णकङ्कणं गृहाण ।' वाक्य का क्रियापद 'गृहाण' किस लकार का है ?",
-      "prashna": "'सरसि स्नात्वा सुवर्णकङ्कणं गृहाण ।' वाक्य का क्रियापद 'गृहाण' किस लकार का है ?",
-      "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
-      "options": {
-        "A": "लट्",
-        "B": "लोट्",
-        "C": "लृट्",
-        "D": "लङ्"
-      },
-      "vikalpa": {
-        "A": "लट्",
-        "B": "लोट्",
-        "C": "लृट्",
-        "D": "लङ्"
-      }
-    },
-    {
-      "id": "gadyansh_4",
-      "type": "comprehension",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "अथवा (Alternative to Gadyansh 3)",
-      "prashna": "अथवा",
-      "instructions": "Answer sub-questions based on the passage.",
-      "context": "परीक्षायाः को न बिभेति ? परीक्षणस्य कृते परीक्षा अत्यावश्यकी, छात्राः तु वारं-वारं परीक्षा यच्छन्ति । परीक्षया छात्राणां बुद्धेः प्रतिभायाः, स्मरणशक्तेः, परिश्रमस्य, विद्यानुरागस्य लेखनशक्तेः च सम्यक् परिज्ञानं भवति ।",
-      "sub_questions": [
-        {
-          "id": "I",
-          "instruction": "एकपदेन उत्तरत -",
-          "questions": [
-            {
-              "id": "क",
-              "text": "के वारं-वारं परीक्षां यच्छन्ति ?"
-            },
-            {
-              "id": "ख",
-              "text": "कस्मात् सर्वे बिभेति ?"
-            }
-          ]
-        },
-        {
-          "id": "II",
-          "instruction": "पूर्णवाक्येन उत्तरत -",
-          "questions": [
-            {
-              "id": "क",
-              "text": "कस्य कृते परीक्षा अत्यावश्यकी ?"
-            },
-            {
-              "id": "ख",
-              "text": "परीक्षया कस्य सम्यक् परिज्ञानं भवति ?"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "short_12",
-      "type": "short_answer",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "राम प्रवेश राम का घर कहाँ था और कैसा था ?",
-      "prashna": "राम प्रवेश राम का घर कहाँ था और कैसा था ?",
-      "instructions": "निम्नलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
-    },
-    {
-      "id": "short_13",
-      "type": "short_answer",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "स्वामी दयानन्द ने अपने सिद्धान्तों के संकलन के लिए क्या किया ?",
-      "prashna": "स्वामी दयानन्द ने अपने सिद्धान्तों के संकलन के लिए क्या किया ?",
-      "instructions": "निम्नलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
-    },
-    {
-      "id": "short_14",
-      "type": "short_answer",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "सोने के कंगन को देखकर पथिक ने क्या सोचा ?",
-      "prashna": "सोने के कंगन को देखकर पथिक ने क्या सोचा ?",
-      "instructions": "निम्नलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
-    }
-  ],
-  "2022": [
-    {
-      "id": "obj_96",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "'व्याघ्रपथिक कथा' किस ग्रन्थ से संकलित है ?",
-      "prashna": "'व्याघ्रपथिक कथा' किस ग्रन्थ से संकलित है ?",
-      "instructions": "सही विकल्प चुनें।",
-      "options": {
-        "A": "हितोपदेश",
-        "B": "पञ्चतन्त्र",
-        "C": "दशकुमारचरित",
-        "D": "कादम्बरी"
-      },
-      "vikalpa": {
-        "A": "हितोपदेश",
-        "B": "पञ्चतन्त्र",
-        "C": "दशकुमारचरित",
-        "D": "कादम्बरी"
-      }
-    },
-    {
-      "id": "obj_97",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "बाघ के हाथ में क्या था ?",
-      "prashna": "बाघ के हाथ में क्या था ?",
-      "instructions": "सही विकल्प चुनें।",
-      "options": {
-        "A": "पत्थर",
-        "B": "जल",
-        "C": "कुश",
-        "D": "बेलपत्र"
-      },
-      "vikalpa": {
-        "A": "पत्थर",
-        "B": "जल",
-        "C": "कुश",
-        "D": "बेलपत्र"
-      }
-    },
-    {
-      "id": "obj_98",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "'व्याघ्रपथिक कथा' में 'कुत्र तव कङ्कणम् ?' किसका कथन है ?",
-      "prashna": "'व्याघ्रपथिक कथा' में 'कुत्र तव कङ्कणम् ?' किसका कथन है ?",
-      "instructions": "सही विकल्प चुनें।",
-      "options": {
-        "A": "बाघ का",
-        "B": "पथिक का",
-        "C": "लेखक का",
-        "D": "अर्जुन का"
-      },
-      "vikalpa": {
-        "A": "बाघ का",
-        "B": "पथिक का",
-        "C": "लेखक का",
-        "D": "अर्जुन का"
-      }
-    },
-    {
-      "id": "obj_11",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "‘व्याघ्रपथिक कथा’ में ‘दानधर्मादिकं चरतु भवान् ।’ किसका कथन है ?",
-      "prashna": "‘व्याघ्रपथिक कथा’ में ‘दानधर्मादिकं चरतु भवान् ।’ किसका कथन है ?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है ।",
-      "options": {
-        "A": "धार्मिक",
-        "B": "पथिक",
-        "C": "बाघ",
-        "D": "लेखक"
-      },
-      "vikalpa": {
-        "A": "धार्मिक",
-        "B": "पथिक",
-        "C": "बाघ",
-        "D": "लेखक"
-      }
-    },
-    {
-      "id": "obj_16",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "लोभ के दुष्परिणाम का वर्णन किस पाठ में है ?",
-      "prashna": "लोभ के दुष्परिणाम का वर्णन किस पाठ में है ?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है ।",
-      "options": {
-        "A": "अलसकथा",
-        "B": "शास्त्रकाराः",
-        "C": "व्याघ्रपथिक कथा",
-        "D": "कर्मवीरकथा"
-      },
-      "vikalpa": {
-        "A": "अलसकथा",
-        "B": "शास्त्रकाराः",
-        "C": "व्याघ्रपथिक कथा",
-        "D": "कर्मवीरकथा"
-      }
-    },
-    {
-      "id": "obj_17",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "हितोपदेश कैसा ग्रन्थ है ?",
-      "prashna": "हितोपदेश कैसा ग्रन्थ है ?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है ।",
-      "options": {
-        "A": "धार्मिक कथा ग्रन्थ",
-        "B": "बाल कथा ग्रन्थ",
-        "C": "वैज्ञानिक कथा ग्रन्थ",
-        "D": "व्यंग्य कथा ग्रन्थ"
-      },
-      "vikalpa": {
-        "A": "धार्मिक कथा ग्रन्थ",
-        "B": "बाल कथा ग्रन्थ",
-        "C": "वैज्ञानिक कथा ग्रन्थ",
-        "D": "व्यंग्य कथा ग्रन्थ"
-      }
-    },
-    {
-      "id": "obj_20",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "‘हितोपदेश’ के रचनाकार कौन हैं ?",
-      "prashna": "‘हितोपदेश’ के रचनाकार कौन हैं ?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है ।",
-      "options": {
-        "A": "विष्णु शर्मा",
-        "B": "नारायण पण्डित",
-        "C": "दण्डी",
-        "D": "बाणभट्ट"
-      },
-      "vikalpa": {
-        "A": "विष्णु शर्मा",
-        "B": "नारायण पण्डित",
-        "C": "दण्डी",
-        "D": "बाणभट्ट"
-      }
-    },
-    {
-      "id": "obj_68",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "‘अलसकथा’ पाठ में मिथिला का मंत्री है",
-      "prashna": "‘अलसकथा’ पाठ में मिथिला का मंत्री है",
-      "options": {
-        "A": "राजशेखर",
-        "B": "विद्यापति",
-        "C": "वीरेश्वर",
-        "D": "विशेष्वर"
-      },
-      "vikalpa": {
-        "A": "राजशेखर",
-        "B": "विद्यापति",
-        "C": "वीरेश्वर",
-        "D": "विशेष्वर"
-      }
-    },
-    {
-      "id": "obj_69",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "‘अलसकथा’ के लेखक कौन हैं ?",
-      "prashna": "‘अलसकथा’ के लेखक कौन हैं ?",
-      "options": {
-        "A": "दामोदर गुप्त",
-        "B": "राजशेखर",
-        "C": "पाणिनि",
-        "D": "विद्यापति"
-      },
-      "vikalpa": {
-        "A": "दामोदर गुप्त",
-        "B": "राजशेखर",
-        "C": "पाणिनि",
-        "D": "विद्यापति"
-      }
-    },
-    {
-      "id": "obj_70",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "‘तर्क्यते यदस्मिन् गृहे अग्निर्लग्नोऽस्ति ।’ किस आलसी की उक्ति है ?",
-      "prashna": "‘तर्क्यते यदस्मिन् गृहे अग्निर्लग्नोऽस्ति ।’ किस आलसी की उक्ति है ?",
-      "options": {
-        "A": "प्रथम",
-        "B": "द्वितीय",
-        "C": "तृतीय",
-        "D": "चतुर्थ"
-      },
-      "vikalpa": {
-        "A": "प्रथम",
-        "B": "द्वितीय",
-        "C": "तृतीय",
-        "D": "चतुर्थ"
-      }
-    },
-    {
-      "id": "short_1",
-      "type": "short_answer",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "अलसकथा का संदेश क्या है ?",
-      "prashna": "अलसकथा का संदेश क्या है ?",
-      "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
-    }
-  ],
-  "2023": [
     {
       "id": "obj_5",
       "type": "objective",
+      "section": "Piyusham",
       "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "स्वामी दयानन्द ने हिंदी और संस्कृत दोनों भाषाओं में किसकी रचना की ?",
-      "prashna": "स्वामी दयानन्द ने हिंदी और संस्कृत दोनों भाषाओं में किसकी रचना की ?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "'पाटलपुष्पों की पुतलिका' रचना के आधार पर पटना का कौन सा नाम है?",
+      "prashna": "'पाटलपुष्पों की पुतलिका' रचना के आधार पर पटना का कौन सा नाम है?",
+      "instructions": "प्रश्न- संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिये गये हैं, जिनमें से एक सही है। अपनी द्वारा चुने गये सही विकल्प को OMR शीट पर चिन्हित करें।",
       "options": {
-        "A": "सत्यार्थप्रकाश",
-        "B": "वेदभाष्य",
-        "C": "उपनिषद्",
-        "D": "बालरामायण"
+        "A": "पुष्पपुर",
+        "B": "कुसुमपुर",
+        "C": "पाटलिपुत्र",
+        "D": "पटना"
       },
       "vikalpa": {
-        "A": "सत्यार्थप्रकाश",
-        "B": "वेदभाष्य",
-        "C": "उपनिषद्",
-        "D": "बालरामायण"
+        "A": "पुष्पपुर",
+        "B": "कुसुमपुर",
+        "C": "पाटलिपुत्र",
+        "D": "पटना"
+      }
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "पटना के कौमुदी महोत्सव कब मनाया जाता था ?",
+      "prashna": "पटना के कौमुदी महोत्सव कब मनाया जाता था ?",
+      "instructions": "प्रश्न- संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिये गये हैं, जिनमें से एक सही है। अपनी द्वारा चुने गये सही विकल्प को OMR शीट पर चिन्हित करें।",
+      "options": {
+        "A": "गुप्त वंशकाल में",
+        "B": "मुगलवंश काल में",
+        "C": "अशोक के समय में",
+        "D": "अंग्रेजों के समय में"
+      },
+      "vikalpa": {
+        "A": "गुप्त वंशकाल में",
+        "B": "मुगलवंश काल में",
+        "C": "अशोक के समय में",
+        "D": "अंग्रेजों के समय में"
       }
     },
     {
       "id": "obj_7",
       "type": "objective",
+      "section": "Piyusham",
       "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "प्राचीन समाजे अनेके दोषाः……………….। रिक्त स्थान को उचित विकल्प से भरें।",
-      "prashna": "प्राचीन समाजे अनेके दोषाः……………….। रिक्त स्थान को उचित विकल्प से भरें।",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "पाटलिपुत्र पटना के नाम से कब से प्रसिद्ध हुआ?",
+      "prashna": "पाटलिपुत्र पटना के नाम से कब से प्रसिद्ध हुआ?",
+      "instructions": "प्रश्न- संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिये गये हैं, जिनमें से एक सही है। अपनी द्वारा चुने गये सही विकल्प को OMR शीट पर चिन्हित करें।",
       "options": {
-        "A": "आसीत्",
-        "B": "आस्ताम्",
-        "C": "आसन्",
-        "D": "आसम्"
+        "A": "मुगलवंश काल में",
+        "B": "गुप्तवंश काल में",
+        "C": "मध्यकाल में",
+        "D": "अंग्रेजों के शासन काल में"
       },
       "vikalpa": {
-        "A": "आसीत्",
-        "B": "आस्ताम्",
-        "C": "आसन्",
-        "D": "आसम्"
+        "A": "मुगलवंश काल में",
+        "B": "गुप्तवंश काल में",
+        "C": "मध्यकाल में",
+        "D": "अंग्रेजों के शासन काल में"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'निर्मलम्' का संधि-विच्छेद क्या होगा ?",
+      "prashna": "'निर्मलम्' का संधि-विच्छेद क्या होगा ?",
+      "instructions": "प्रश्न- संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिये गये हैं, जिनमें से एक सही है। अपनी द्वारा चुने गये सही विकल्प को OMR शीट पर चिन्हित करें।",
+      "options": {
+        "A": "नि: + मलम्",
+        "B": "नि + मलम्",
+        "C": "निर् + मलम्",
+        "D": "निस + मलम्"
+      },
+      "vikalpa": {
+        "A": "नि: + मलम्",
+        "B": "नि + मलम्",
+        "C": "निर् + मलम्",
+        "D": "निस + मलम्"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'पूषन् + अपावृणु' की सन्धि होगी",
+      "prashna": "'पूषन् + अपावृणु' की सन्धि होगी",
+      "instructions": "प्रश्न- संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिये गये हैं, जिनमें से एक सही है। अपनी द्वारा चुने गये सही विकल्प को OMR शीट पर चिन्हित करें।",
+      "options": {
+        "A": "पुषनपावृणु",
+        "B": "पूषन्नपावृणु",
+        "C": "पूषापावृणु",
+        "D": "पूषनापावृणु"
+      },
+      "vikalpa": {
+        "A": "पुषनपावृणु",
+        "B": "पूषन्नपावृणु",
+        "C": "पूषापावृणु",
+        "D": "पूषनापावृणु"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'इ + अ' के मेल से कौन सा नया वर्ण बनेगा?",
+      "prashna": "'इ + अ' के मेल से कौन सा नया वर्ण बनेगा?",
+      "instructions": "प्रश्न- संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिये गये हैं, जिनमें से एक सही है। अपनी द्वारा चुने गये सही विकल्प को OMR शीट पर चिन्हित करें।",
+      "options": {
+        "A": "ई",
+        "B": "ए",
+        "C": "य",
+        "D": "अय"
+      },
+      "vikalpa": {
+        "A": "ई",
+        "B": "ए",
+        "C": "य",
+        "D": "अय"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'जन्तार्निहितो' में कौन सी संधि है?",
+      "prashna": "'जन्तार्निहितो' में कौन सी संधि है?",
+      "instructions": "प्रश्न- संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिये गये हैं, जिनमें से एक सही है। अपनी द्वारा चुने गये सही विकल्प को OMR शीट पर चिन्हित करें।",
+      "options": {
+        "A": "स्वर संधि",
+        "B": "व्यंजन संधि",
+        "C": "विसर्ग संधि",
+        "D": "पूर्वरूप संधि"
+      },
+      "vikalpa": {
+        "A": "स्वर संधि",
+        "B": "व्यंजन संधि",
+        "C": "विसर्ग संधि",
+        "D": "पूर्वरूप संधि"
+      }
+    },
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "राजशेखर ने पटना के सम्बन्ध में क्या लिखा है?",
+      "prashna": "राजशेखर ने पटना के सम्बन्ध में क्या लिखा है?",
+      "instructions": "लघुउत्तरीय प्रश्ना: (16 अङ्का:) निम्नलिखित में किन्हीं आठ प्रश्नों के उत्तर दें-"
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "पटना के मुख्य दर्शनीय स्थलों का नामोल्लेख करें।",
+      "prashna": "पटना के मुख्य दर्शनीय स्थलों का नामोल्लेख करें।",
+      "instructions": "लघुउत्तरीय प्रश्ना: (16 अङ्का:) निम्नलिखित में किन्हीं आठ प्रश्नों के उत्तर दें-"
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "कौन-कौन से विदेशी यात्री पटना आये थे?",
+      "prashna": "कौन-कौन से विदेशी यात्री पटना आये थे?",
+      "instructions": "लघुउत्तरीय प्रश्ना: (16 अङ्का:) निम्नलिखित में किन्हीं आठ प्रश्नों के उत्तर दें-"
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "instructions": "प्रश्न-संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिये गये हैं, जिनमें से एक सही है। अपनी द्वारा चुने गये सही विकल्प को OMR शीट पर चिन्हित करें।",
+      "question": "पटना का इतिहास कितना पुराना है?",
+      "prashna": "पटना का इतिहास कितना पुराना है?",
+      "options": {
+        "A": "2500 वर्ष",
+        "B": "2000 वर्ष",
+        "C": "1500 वर्ष",
+        "D": "1000 वर्ष"
+      },
+      "vikalpa": {
+        "A": "2500 वर्ष",
+        "B": "2000 वर्ष",
+        "C": "1500 वर्ष",
+        "D": "1000 वर्ष"
+      }
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "instructions": "प्रश्न-संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिये गये हैं, जिनमें से एक सही है। अपनी द्वारा चुने गये सही विकल्प को OMR शीट पर चिन्हित करें।",
+      "question": "यूनान का राजदूत कौन था?",
+      "prashna": "यूनान का राजदूत कौन था?",
+      "options": {
+        "A": "फाह्यान",
+        "B": "हुयेनसांग",
+        "C": "मेगास्थनीज",
+        "D": "इत्सिंग"
+      },
+      "vikalpa": {
+        "A": "फाह्यान",
+        "B": "हुयेनसांग",
+        "C": "मेगास्थनीज",
+        "D": "इत्सिंग"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "instructions": "प्रश्न-संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिये गये हैं, जिनमें से एक सही है। अपनी द्वारा चुने गये सही विकल्प को OMR शीट पर चिन्हित करें।",
+      "question": "कौमुदी महोत्सव किस ऋतु में मनाया जाता था ?",
+      "prashna": "कौमुदी महोत्सव किस ऋतु में मनाया जाता था ?",
+      "options": {
+        "A": "वसन्त ऋतु में",
+        "B": "वर्षा ऋतु में",
+        "C": "ग्रीष्म ऋतु में",
+        "D": "शरत् ऋतु में"
+      },
+      "vikalpa": {
+        "A": "वसन्त ऋतु में",
+        "B": "वर्षा ऋतु में",
+        "C": "ग्रीष्म ऋतु में",
+        "D": "शरत् ऋतु में"
       }
     },
     {
       "id": "obj_11",
       "type": "objective",
+      "section": "Piyusham",
       "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "'कर्ण' किसके पक्ष से युद्ध करता था ?",
-      "prashna": "'कर्ण' किसके पक्ष से युद्ध करता था ?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "chapter_name": "Patliputra-vaibhavam",
+      "instructions": "प्रश्न-संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिये गये हैं, जिनमें से एक सही है। अपनी द्वारा चुने गये सही विकल्प को OMR शीट पर चिन्हित करें।",
+      "question": "पटना नगर की पालिका देवी कौन है ?",
+      "prashna": "पटना नगर की पालिका देवी कौन है ?",
       "options": {
-        "A": "पाण्डव के पक्ष से",
-        "B": "कौरव के पक्ष से",
-        "C": "अपने पक्ष से",
-        "D": "किसी के पक्ष से नहीं"
+        "A": "शीतल देवी",
+        "B": "काली",
+        "C": "पटन देवी",
+        "D": "गौरी"
       },
       "vikalpa": {
-        "A": "पाण्डव के पक्ष से",
-        "B": "कौरव के पक्ष से",
-        "C": "अपने पक्ष से",
-        "D": "किसी के पक्ष से नहीं"
+        "A": "शीतल देवी",
+        "B": "काली",
+        "C": "पटन देवी",
+        "D": "गौरी"
       }
     },
     {
-      "id": "obj_12",
+      "id": "obj_25",
       "type": "objective",
+      "section": "Vyakaran",
       "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "'न दातव्यम् न दातव्यम्' कर्णस्य दानवीरता पाठ में यह किसकी उक्ति है?",
-      "prashna": "'न दातव्यम् न दातव्यम्' कर्णस्य दानवीरता पाठ में यह किसकी उक्ति है?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "instructions": "प्रश्न-संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिये गये हैं, जिनमें से एक सही है। अपनी द्वारा चुने गये सही विकल्प को OMR शीट पर चिन्हित करें।",
+      "question": "'विद्या + एका' की संधि होगी ?",
+      "prashna": "'विद्या + एका' की संधि होगी ?",
       "options": {
-        "A": "कर्ण",
-        "B": "शक्र",
-        "C": "शल्य",
-        "D": "कृष्ण"
+        "A": "विद्यैका",
+        "B": "विद्याएका",
+        "C": "विद्येका",
+        "D": "विद्योका"
       },
       "vikalpa": {
-        "A": "कर्ण",
-        "B": "शक्र",
-        "C": "शल्य",
-        "D": "कृष्ण"
+        "A": "विद्यैका",
+        "B": "विद्याएका",
+        "C": "विद्येका",
+        "D": "विद्योका"
       }
     },
     {
-      "id": "obj_19",
+      "id": "obj_26",
       "type": "objective",
+      "section": "Vyakaran",
       "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "'बालकः सिंहात् बिभेति।' वाक्य के 'सिंहात्' पद में पंचमी विभक्ति किस सूत्र से हुई है?",
-      "prashna": "'बालकः सिंहात् बिभेति।' वाक्य के 'सिंहात्' पद में पंचमी विभक्ति किस सूत्र से हुई है?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "instructions": "प्रश्न-संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिये गये हैं, जिनमें से एक सही है। अपनी द्वारा चुने गये सही विकल्प को OMR शीट पर चिन्हित करें।",
+      "question": "'नरकस्येदम्' का संधि विच्छेद होगा-",
+      "prashna": "'नरकस्येदम्' का संधि विच्छेद होगा-",
       "options": {
-        "A": "भीत्रार्थानां भयहेतुः",
-        "B": "आख्यातोपयोगे",
-        "C": "भुवः प्रभवः",
-        "D": "पराजेरसोढः"
+        "A": "नरकस्य + एदम्",
+        "B": "नरकस्य + इदम्",
+        "C": "नरक + स्येदम",
+        "D": "नरकसि + इदम्"
       },
       "vikalpa": {
-        "A": "भीत्रार्थानां भयहेतुः",
-        "B": "आख्यातोपयोगे",
-        "C": "भुवः प्रभवः",
-        "D": "पराजेरसोढः"
+        "A": "नरकस्य + एदम्",
+        "B": "नरकस्य + इदम्",
+        "C": "नरक + स्येदम",
+        "D": "नरकसि + इदम्"
       }
     },
     {
-      "id": "obj_65",
+      "id": "obj_27",
       "type": "objective",
+      "section": "Vyakaran",
       "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "'उद्योगिनं पुरुषसिंहमुपैति लक्ष्मीः' उक्ति किस पाठ से ली गई है ?",
-      "prashna": "' उद्योगिनं पुरुषसिंहमुपैति लक्ष्मीः' उक्ति किस पाठ से ली गई है ?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "instructions": "प्रश्न-संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिये गये हैं, जिनमें से एक सही है। अपनी द्वारा चुने गये सही विकल्प को OMR शीट पर चिन्हित करें।",
+      "question": "'निरतोऽभवत्' में कौन संधि है ?",
+      "prashna": "'निरतोऽभवत्' में कौन संधि है ?",
       "options": {
-        "A": "कर्मवीर कथा",
-        "B": "स्वामी दयानन्दः",
-        "C": "पाटलिपुत्र वैभवम्",
-        "D": "अलसकथा"
+        "A": "विसर्ग संधि",
+        "B": "व्यञ्जन संधि",
+        "C": "पररूप संधि",
+        "D": "पूर्वरूप संधि"
       },
       "vikalpa": {
-        "A": "कर्मवीर कथा",
-        "B": "स्वामी दयानन्दः",
-        "C": "पाटलिपुत्र वैभवम्",
-        "D": "अलसकथा"
+        "A": "विसर्ग संधि",
+        "B": "व्यञ्जन संधि",
+        "C": "पररूप संधि",
+        "D": "पूर्वरूप संधि"
       }
     },
     {
-      "id": "obj_66",
+      "id": "obj_28",
       "type": "objective",
+      "section": "Vyakaran",
       "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "रामप्रवेश राम किसको जीवन की परम गति मानकर अध्ययन में जुट गया ?",
-      "prashna": "रामप्रवेश राम किसको जीवन की परम गति मानकर अध्ययन में जुट गया ?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "instructions": "प्रश्न-संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिये गये हैं, जिनमें से एक सही है। अपनी द्वारा चुने गये सही विकल्प को OMR शीट पर चिन्हित करें।",
+      "question": "'संकल्पाच्च' शब्द में किन-किन वर्णों की संधि हुई है ?",
+      "prashna": "'संकल्पाच्च' शब्द में किन-किन वर्णों की संधि हुई है ?",
       "options": {
-        "A": "शिक्षा कर्म",
-        "B": "धर्म कर्म",
-        "C": "अहिंसा",
-        "D": "सत्कर्म"
+        "A": "आ + च",
+        "B": "च् + च",
+        "C": "अ + च",
+        "D": "त् + च"
       },
       "vikalpa": {
-        "A": "शिक्षा कर्म",
-        "B": "धर्म कर्म",
-        "C": "अहिंसा",
-        "D": "सत्कर्म"
+        "A": "आ + च",
+        "B": "च् + च",
+        "C": "अ + च",
+        "D": "त् + च"
       }
     },
     {
-      "id": "obj_67",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "'सत्यार्थ प्रकाश' नामक ग्रंथ के रचयिता कौन थे ?",
-      "prashna": "'सत्यार्थ प्रकाश' नामक ग्रंथ के रचयिता कौन थे ?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
-      "options": {
-        "A": "स्वामी विवेकानन्द",
-        "B": "स्वामी श्रद्धानन्द",
-        "C": "स्वामी दयानन्द",
-        "D": "रामकृष्ण परमहंस"
-      },
-      "vikalpa": {
-        "A": "स्वामी विवेकानन्द",
-        "B": "स्वामी श्रद्धानन्द",
-        "C": "स्वामी दयानन्द",
-        "D": "रामकृष्ण परमहंस"
-      }
-    },
-    {
-      "id": "obj_69",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "'कथं मारात्मके त्वयि विश्वासः ?' किसकी उक्ति है ?",
-      "prashna": "'कथं मारात्मके त्वयि विश्वासः ?' किसकी उक्ति है ?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
-      "options": {
-        "A": "पथिक",
-        "B": "बाघ",
-        "C": "लेखक",
-        "D": "नारायण पंडित"
-      },
-      "vikalpa": {
-        "A": "पथिक",
-        "B": "बाघ",
-        "C": "लेखक",
-        "D": "नारायण पंडित"
-      }
-    },
-    {
-      "id": "gadyansh_3",
-      "type": "comprehension",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "(ब) गद्यांश",
-      "prashna": "(ब) गद्यांश",
-      "instructions": "अधोलिखित गद्यांशों को ध्यानपूर्वक पढ़कर उस पर आधारित प्रश्नों के उत्तर निर्देशानुसार दें :",
-      "context": "(ब) एकदा समर्थरामदासः शिवाजीना सह भ्रमणाय गच्छति स्म। मार्गे कश्चन शिल्पी देवालयस्य निर्माणार्थं काञ्चित् महाशिलां त्रोटयितुम् उद्यतः आसीत्। रामदासः शिवाजीम् अकथयत् \"मुद्गरं गृहीत्वा प्रहारं करोतु\" शिवाजी तथैव कृतवान् अहो आश्चर्यम्। तस्याः शिलायाः अन्तः जले सजीवः कश्चन मण्डूकः उपविष्टः आसीत्। तद् दर्शयित्वा गुरुः रामदासः उक्तवान् - भगवतः कृपा एव सर्वान् जीवान् रक्षति पोषयति च।",
-      "sub_questions": [
-        {
-          "id": "gadyansh_3_i_a",
-          "question": "कः शिवाजीना सह गच्छति स्म ?",
-          "instructions": "I. एकपदेन उत्तरत"
-        },
-        {
-          "id": "gadyansh_3_i_b",
-          "question": "कस्याः अन्तः मण्डूकः उपविष्टः आसीत् ?",
-          "instructions": "I. एकपदेन उत्तरत"
-        },
-        {
-          "id": "gadyansh_3_ii_a",
-          "question": "कः सर्वान् रक्षति ?",
-          "instructions": "II. पूर्णवाक्येन उत्तरत"
-        },
-        {
-          "id": "gadyansh_3_ii_b",
-          "question": "शिवाजी किं गृहीत्वा प्रहारम् अकरोत् ?",
-          "instructions": "II. पूर्णवाक्येन उत्तरत"
-        }
-      ]
-    },
-    {
-      "id": "short_8",
+      "id": "short_1",
       "type": "short_answer",
+      "section": "Piyusham",
       "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "राम प्रवेश राम के महाविद्यालयीय शिक्षा के बारे में लिखें।",
-      "prashna": "राम प्रवेश राम के महाविद्यालयीय शिक्षा के बारे में लिखें।",
-      "instructions": "लघु उत्तरीय प्रश्न (16 अंक)। निम्नलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
+      "chapter_name": "Patliputra-vaibhavam",
+      "instructions": "लघुउत्तरीय प्रश्ना (16 अङ्काः) निम्नलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें-",
+      "question": "(क) भगवान बुद्ध ने पटना के सम्बन्ध में क्या कहा था?",
+      "prashna": "(क) भगवान बुद्ध ने पटना के सम्बन्ध में क्या कहा था?"
     },
     {
-      "id": "short_9",
+      "id": "short_2",
       "type": "short_answer",
+      "section": "Piyusham",
       "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "शिवरात्रि महापर्व स्वामी दयानन्द के लिए उद्बोधक हुआ, कैसे ?",
-      "prashna": "शिवरात्रि महापर्व स्वामी दयानन्द के लिए उद्बोधक हुआ, कैसे ?",
-      "instructions": "लघु उत्तरीय प्रश्न (16 अंक)। निम्नलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
-    },
-    {
-      "id": "short_11",
-      "type": "short_answer",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "अनिष्ट से इष्ट की प्राप्ति का परिणाम क्या होता है ?",
-      "prashna": "अनिष्ट से इष्ट की प्राप्ति का परिणाम क्या होता है ?",
-      "instructions": "लघु उत्तरीय प्रश्न (16 अंक)। निम्नलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
-    },
-    {
-      "id": "short_12",
-      "type": "short_answer",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "कर्ण के कवच-कुण्डल की क्या विशेषता थी ?",
-      "prashna": "कर्ण के कवच-कुण्डल की क्या विशेषता थी ?",
-      "instructions": "लघु उत्तरीय प्रश्न (16 अंक)। निम्नलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
+      "chapter_name": "Patliputra-vaibhavam",
+      "instructions": "लघुउत्तरीय प्रश्ना (16 अङ्काः) निम्नलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें-",
+      "question": "(ख) प्राचीन ग्रन्थों में पटना के कौन-कौन से नाम मिलते हैं?",
+      "prashna": "(ख) प्राचीन ग्रन्थों में पटना के कौन-कौन से नाम मिलते हैं?"
     }
   ],
-  "2024": [
-    {
-      "id": "obj_31",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "'छात्राणाम् ......... तपः ।' रिक्त स्थान की पूर्ति उचित विकल्प से करें।",
-      "prashna": "'छात्राणाम् ......... तपः ।' रिक्त स्थान की पूर्ति उचित विकल्प से करें।",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
-      "options": {
-        "A": "भ्रमणम्",
-        "B": "क्रीडनम्",
-        "C": "अध्ययनम्",
-        "D": "पालनम्"
-      },
-      "vikalpa": {
-        "A": "भ्रमणम्",
-        "B": "क्रीडनम्",
-        "C": "अध्ययनम्",
-        "D": "पालनम्"
-      }
-    },
-    {
-      "id": "obj_32",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "विचारों की व्यापकता और समाजोद्धार के संकल्प की दृष्टि से उन्नीसवीं सदी के समाजोद्धारकों में प्रमुख कौन थे ?",
-      "prashna": "विचारों की व्यापकता और समाजोद्धार के संकल्प की दृष्टि से उन्नीसवीं सदी के समाजोद्धारकों में प्रमुख कौन थे ?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
-      "options": {
-        "A": "स्वामी विवेकानन्द",
-        "B": "रामकृष्ण परमहंस",
-        "C": "स्वामी दयानन्द",
-        "D": "राजा राममोहन राय"
-      },
-      "vikalpa": {
-        "A": "स्वामी विवेकानन्द",
-        "B": "रामकृष्ण परमहंस",
-        "C": "स्वामी दयानन्द",
-        "D": "राजा राममोहन राय"
-      }
-    },
-    {
-      "id": "obj_33",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "स्वामी दयानन्दः ......... संस्थापकः आसीत् । - रिक्त स्थान की पूर्ति उचित पद से करें।",
-      "prashna": "स्वामी दयानन्दः ......... संस्थापकः आसीत् । - रिक्त स्थान की पूर्ति उचित पद से करें।",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
-      "options": {
-        "A": "आर्य समाजस्य",
-        "B": "ब्रह्म समाजस्य",
-        "C": "सिख समाजस्य",
-        "D": "मुस्लिम समाजस्य"
-      },
-      "vikalpa": {
-        "A": "आर्य समाजस्य",
-        "B": "ब्रह्म समाजस्य",
-        "C": "सिख समाजस्य",
-        "D": "मुस्लिम समाजस्य"
-      }
-    },
-    {
-      "id": "obj_34",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "'विग्रहोऽयम् अकिंचित्करः' किनके द्वारा सोचा गया ?",
-      "prashna": "'विग्रहोऽयम् अकिंचित्करः' किनके द्वारा सोचा गया ?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
-      "options": {
-        "A": "मूलशंकर",
-        "B": "विरजानन्द",
-        "C": "विवेकानन्द",
-        "D": "रामकृष्ण परमहंस"
-      },
-      "vikalpa": {
-        "A": "मूलशंकर",
-        "B": "विरजानन्द",
-        "C": "विवेकानन्द",
-        "D": "रामकृष्ण परमहंस"
-      }
-    },
-    {
-      "id": "obj_35",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "'आर्य समाज' नामक संस्था की स्थापना कब हुई ?",
-      "prashna": "'आर्य समाज' नामक संस्था की स्थापना कब हुई ?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
-      "options": {
-        "A": "1975 ई०",
-        "B": "1875 ई०",
-        "C": "1883 ई०",
-        "D": "1824 ई०"
-      },
-      "vikalpa": {
-        "A": "1975 ई०",
-        "B": "1875 ई०",
-        "C": "1883 ई०",
-        "D": "1824 ई०"
-      }
-    },
-    {
-      "id": "obj_37",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "'व्याघ्रपथिक कथा' का बाघ कैसा था ?",
-      "prashna": "'व्याघ्रपथिक कथा' का बाघ कैसा था ?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
-      "options": {
-        "A": "जवान",
-        "B": "बूढ़ा",
-        "C": "बच्चा",
-        "D": "धार्मिक"
-      },
-      "vikalpa": {
-        "A": "जवान",
-        "B": "बूढ़ा",
-        "C": "बच्चा",
-        "D": "धार्मिक"
-      }
-    },
-    {
-      "id": "obj_38",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "'व्याघ्रपथिक कथा' का पथिक किसमें निमग्न हो गया ?",
-      "prashna": "'व्याघ्रपथिक कथा' का पथिक किसमें निमग्न हो गया ?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
-      "options": {
-        "A": "पानी में",
-        "B": "धूल में",
-        "C": "कीचड़ में",
-        "D": "अध्ययन में"
-      },
-      "vikalpa": {
-        "A": "पानी में",
-        "B": "धूल में",
-        "C": "कीचड़ में",
-        "D": "अध्ययन में"
-      }
-    },
-    {
-      "id": "obj_39",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "'हितोपदेश' नीतिकथाग्रंथ किनकी रचना है ?",
-      "prashna": "'हितोपदेश' नीतिकथाग्रंथ किनकी रचना है ?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
-      "options": {
-        "A": "विष्णु शर्मा",
-        "B": "नारायण पंडित",
-        "C": "अजय शर्मा",
-        "D": "रजत शर्मा"
-      },
-      "vikalpa": {
-        "A": "विष्णु शर्मा",
-        "B": "नारायण पंडित",
-        "C": "अजय शर्मा",
-        "D": "रजत शर्मा"
-      }
-    },
-    {
-      "id": "obj_40",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "रोगियों के लिए पथ्य क्या है ?",
-      "prashna": "रोगियों के लिए पथ्य क्या है ?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
-      "options": {
-        "A": "दवा",
-        "B": "भोजन",
-        "C": "हवा",
-        "D": "पानी"
-      },
-      "vikalpa": {
-        "A": "दवा",
-        "B": "भोजन",
-        "C": "हवा",
-        "D": "पानी"
-      }
-    },
-    {
-      "id": "obj_68",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "'कर्मवीर कथा' में प्रशासन के क्षेत्र में कौन लोकप्रिय हुआ ?",
-      "prashna": "'कर्मवीर कथा' में प्रशासन के क्षेत्र में कौन लोकप्रिय हुआ ?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
-      "options": {
-        "A": "नवीन दृष्टि सम्पन्न शिक्षक",
-        "B": "राम प्रवेश राम",
-        "C": "राम प्रवेश राम के गुरु",
-        "D": "राम प्रवेश राम के पिता"
-      },
-      "vikalpa": {
-        "A": "नवीन दृष्टि सम्पन्न शिक्षक",
-        "B": "राम प्रवेश राम",
-        "C": "राम प्रवेश राम के गुरु",
-        "D": "राम प्रवेश राम के पिता"
-      }
-    },
-    {
-      "id": "obj_69",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "रामप्रवेश राम ने अनेक विषयों की पुस्तकों को कहाँ आत्मसात किया ?",
-      "prashna": "रामप्रवेश राम ने अनेक विषयों की पुस्तकों को कहाँ आत्मसात किया ?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
-      "options": {
-        "A": "प्राथमिक विद्यालय के पुस्तकालय में",
-        "B": "उच्च विद्यालय के पुस्तकालय में",
-        "C": "महाविद्यालय के पुस्तकालय में",
-        "D": "विश्वविद्यालय के पुस्तकालय में"
-      },
-      "vikalpa": {
-        "A": "प्राथमिक विद्यालय के पुस्तकालय में",
-        "B": "उच्च विद्यालय के पुस्तकालय में",
-        "C": "महाविद्यालय के पुस्तकालय में",
-        "D": "विश्वविद्यालय के पुस्तकालय में"
-      }
-    },
-    {
-      "id": "obj_70",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "भीखन टोला गाँव से प्रशासन द्वारा स्थापित प्राथमिक विद्यालय कितनी दूर था ?",
-      "prashna": "भीखन टोला गाँव से प्रशासन द्वारा स्थापित प्राथमिक विद्यालय कितनी दूर था ?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
-      "options": {
-        "A": "एक कोश",
-        "B": "आधा कोश",
-        "C": "डेढ़ कोश",
-        "D": "दो कोश"
-      },
-      "vikalpa": {
-        "A": "एक कोश",
-        "B": "आधा कोश",
-        "C": "डेढ़ कोश",
-        "D": "दो कोश"
-      }
-    },
-    {
-      "id": "short_7",
-      "type": "short_answer",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "'व्याघ्र पथिक कथा' के आधार पर बतायें कि दान किसको देना चाहिए।",
-      "prashna": "'व्याघ्र पथिक कथा' के आधार पर बतायें कि दान किसको देना चाहिए।",
-      "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
-    },
-    {
-      "id": "short_10",
-      "type": "short_answer",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "स्वामी दयानन्द को मूर्तिपूजा के प्रति अनास्था कैसे हुई ?",
-      "prashna": "स्वामी दयानन्द को मूर्तिपूजा के प्रति अनास्था कैसे हुई ?",
-      "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
-    },
-    {
-      "id": "short_15",
-      "type": "short_answer",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "रामप्रवेश राम किससे प्रभावित होकर अध्ययन में निरत हो गया ?",
-      "prashna": "रामप्रवेश राम किससे प्रभावित होकर अध्ययन में निरत हो गया ?",
-      "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
-    }
-  ],
-  "2025": [
-    {
-      "id": "obj_2",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "‘हितोपदेश’ की कहानियाँ किससे सम्बन्धित हैं ?",
-      "prashna": "‘हितोपदेश’ की कहानियाँ किससे सम्बन्धित हैं ?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है |",
-      "options": {
-        "A": "मानव",
-        "B": "दानव",
-        "C": "देवता",
-        "D": "पशु-पक्षी"
-      },
-      "vikalpa": {
-        "A": "मानव",
-        "B": "दानव",
-        "C": "देवता",
-        "D": "पशु-पक्षी"
-      }
-    },
+  "2019": [
     {
       "id": "obj_3",
       "type": "objective",
+      "section": "Piyusham",
       "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "कौन कीचड़ में फँस गया ?",
-      "prashna": "कौन कीचड़ में फँस गया ?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है |",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "3. 'परिभूतपुरन्दरस्थानम्' की संज्ञा किसे दी गई है?",
+      "prashna": "3. 'परिभूतपुरन्दरस्थानम्' की संज्ञा किसे दी गई है?",
+      "instructions": "प्रश्न-संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिये गये हैं, जिनमें से एक सही है। अपनी द्वारा चुने गये सही विकल्प को OMR शीट पर चिन्हित करें।",
       "options": {
-        "A": "बाघ",
-        "B": "पथिक",
-        "C": "सिंह",
-        "D": "साँप"
+        "A": "पाटलिपुत्र नगर",
+        "B": "गुप्त वंश",
+        "C": "बुद्ध",
+        "D": "मुद्राराक्षस"
       },
       "vikalpa": {
-        "A": "बाघ",
-        "B": "पथिक",
-        "C": "सिंह",
-        "D": "साँप"
+        "A": "पाटलिपुत्र नगर",
+        "B": "गुप्त वंश",
+        "C": "बुद्ध",
+        "D": "मुद्राराक्षस"
       }
     },
     {
-      "id": "obj_35",
+      "id": "obj_4",
       "type": "objective",
+      "section": "Piyusham",
       "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "पथिक किसके द्वारा पकड़कर खाया गया ?",
-      "prashna": "पथिक किसके द्वारा पकड़कर खाया गया ?",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "4. गुरु गोविन्द सिंह का जन्मस्थल कहाँ है?",
+      "prashna": "4. गुरु गोविन्द सिंह का जन्मस्थल कहाँ है?",
+      "instructions": "प्रश्न-संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिये गये हैं, जिनमें से एक सही है। अपनी द्वारा चुने गये सही विकल्प को OMR शीट पर चिन्हित करें।",
       "options": {
-        "A": "बाघ",
-        "B": "सिंह",
-        "C": "मगरमच्छ",
-        "D": "भेड़िया"
+        "A": "पाटलिपुत्रम्",
+        "B": "कलिङ्गम",
+        "C": "उत्कल-प्रान्त:",
+        "D": "इनमें से कोई नहीं"
       },
       "vikalpa": {
-        "A": "बाघ",
-        "B": "सिंह",
-        "C": "मगरमच्छ",
-        "D": "भेड़िया"
+        "A": "पाटलिपुत्रम्",
+        "B": "कलिङ्गम",
+        "C": "उत्कल-प्रान्त:",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "5. यूनान का राजदूत कौन था ?",
+      "prashna": "5. यूनान का राजदूत कौन था ?",
+      "instructions": "प्रश्न-संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिये गये हैं, जिनमें से एक सही है। अपनी द्वारा चुने गये सही विकल्प को OMR शीट पर चिन्हित करें।",
+      "options": {
+        "A": "मेगास्थनीज",
+        "B": "फाह्यान",
+        "C": "हुयेन सांग",
+        "D": "इत्सिंग"
+      },
+      "vikalpa": {
+        "A": "मेगास्थनीज",
+        "B": "फाह्यान",
+        "C": "हुयेन सांग",
+        "D": "इत्सिंग"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "25. अनुच्छेदं, का संधि-विच्छेद क्या होगा ?",
+      "prashna": "25. अनुच्छेदं, का संधि-विच्छेद क्या होगा ?",
+      "instructions": "प्रश्न-संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिये गये हैं, जिनमें से एक सही है। अपनी द्वारा चुने गये सही विकल्प को OMR शीट पर चिन्हित करें।",
+      "options": {
+        "A": "अनु + छेदं",
+        "B": "अनुत् + छेदं",
+        "C": "अनुद् + छेदं",
+        "D": "अनु + शेदं"
+      },
+      "vikalpa": {
+        "A": "अनु + छेदं",
+        "B": "अनुत् + छेदं",
+        "C": "अनुद् + छेदं",
+        "D": "अनु + शेदं"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "26. 'मन: + रञ्जनम्' की संधि होगी",
+      "prashna": "26. 'मन: + रञ्जनम्' की संधि होगी",
+      "instructions": "प्रश्न-संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिये गये हैं, जिनमें से एक सही है। अपनी द्वारा चुने गये सही विकल्प को OMR शीट पर चिन्हित करें।",
+      "options": {
+        "A": "मनोरंजनांभ",
+        "B": "मनुरञ्जनम",
+        "C": "मनोरजनम्",
+        "D": "मनोरञ्जनम्"
+      },
+      "vikalpa": {
+        "A": "मनोरंजनांभ",
+        "B": "मनुरञ्जनम",
+        "C": "मनोरजनम्",
+        "D": "मनोरञ्जनम्"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "28. 'विद्यार्थी' में कौन-सी संधि है ?",
+      "prashna": "28. 'विद्यार्थी' में कौन-सी संधि है ?",
+      "instructions": "प्रश्न-संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिये गये हैं, जिनमें से एक सही है। अपनी द्वारा चुने गये सही विकल्प को OMR शीट पर चिन्हित करें।",
+      "options": {
+        "A": "दीर्घ संधि",
+        "B": "अयादि संधि",
+        "C": "गुण संधि",
+        "D": "वृद्धि संधि"
+      },
+      "vikalpa": {
+        "A": "दीर्घ संधि",
+        "B": "अयादि संधि",
+        "C": "गुण संधि",
+        "D": "वृद्धि संधि"
+      }
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "(ख) 'पाटलिपुत्रवैभवम्' पाठ के आधार पर यहाँ स्थित दर्शनीय स्थलों पर प्रकाश डालें।",
+      "prashna": "(ख) 'पाटलिपुत्रवैभवम्' पाठ के आधार पर यहाँ स्थित दर्शनीय स्थलों पर प्रकाश डालें।",
+      "instructions": "लघुउत्तरीय प्रश्ना: (16 अङ्का:)। निम्नलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें-"
+    }
+  ],
+  "2020": [
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "किसके काल में पाटलिपुत्र की रक्षा-व्यवस्था उत्कृष्ट थी ?",
+      "prashna": "किसके काल में पाटलिपुत्र की रक्षा-व्यवस्था उत्कृष्ट थी ?",
+      "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "चन्द्रगुप्त मौर्य",
+        "B": "समुद्रगुप्त",
+        "C": "कुमारगुप्त",
+        "D": "इनमें से कोई नहीं"
+      },
+      "vikalpa": {
+        "A": "चन्द्रगुप्त मौर्य",
+        "B": "समुद्रगुप्त",
+        "C": "कुमारगुप्त",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "सिक्खों के दसवें गुरु कौन थे ?",
+      "prashna": "सिक्खों के दसवें गुरु कौन थे ?",
+      "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "गुरु नानक",
+        "B": "गुरु तेगबहादुर",
+        "C": "गुरु गोविन्द सिंह",
+        "D": "गुरु रामदास"
+      },
+      "vikalpa": {
+        "A": "गुरु नानक",
+        "B": "गुरु तेगबहादुर",
+        "C": "गुरु गोविन्द सिंह",
+        "D": "गुरु रामदास"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "पाटलिपुत्र किस प्रांत की राजधानी थी ?",
+      "prashna": "पाटलिपुत्र किस प्रांत की राजधानी थी ?",
+      "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "बिहार",
+        "B": "केरल",
+        "C": "झारखंड",
+        "D": "पश्चिम बंगाल"
+      },
+      "vikalpa": {
+        "A": "बिहार",
+        "B": "केरल",
+        "C": "झारखंड",
+        "D": "पश्चिम बंगाल"
       }
     },
     {
       "id": "obj_36",
       "type": "objective",
+      "section": "Vyakaran",
       "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "‘व्याघ्रपथिक कथा’ पाठ में अविश्वासी पात्र किसे कहा गया है ?",
-      "prashna": "‘व्याघ्रपथिक कथा’ पाठ में अविश्वासी पात्र किसे कहा गया है ?",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'मनोरथः' का संधि-विच्छेद क्या होगा ?",
+      "prashna": "'मनोरथः' का संधि-विच्छेद क्या होगा ?",
+      "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
       "options": {
-        "A": "पथिक को",
-        "B": "धर्मशास्त्री को",
-        "C": "बाघ को",
-        "D": "सिंह को"
+        "A": "मन + रोधः",
+        "B": "मनो + रथः",
+        "C": "मनः + रथः",
+        "D": "मन + रथः"
       },
       "vikalpa": {
-        "A": "पथिक को",
-        "B": "धर्मशास्त्री को",
-        "C": "बाघ को",
-        "D": "सिंह को"
+        "A": "मन + रोधः",
+        "B": "मनो + रथः",
+        "C": "मनः + रथः",
+        "D": "मन + रथः"
       }
     },
     {
       "id": "obj_37",
       "type": "objective",
+      "section": "Vyakaran",
       "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "बाघ कैसा था ?",
-      "prashna": "बाघ कैसा था ?",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'महा + ईशः' की संधि होगी",
+      "prashna": "'महा + ईशः' की संधि होगी",
+      "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
       "options": {
-        "A": "बूढ़ा",
-        "B": "दुराचारी",
-        "C": "वंशहीन",
-        "D": "इनमें से सभी"
+        "A": "माहेशः",
+        "B": "महेशः",
+        "C": "महाईशः",
+        "D": "मेशः"
       },
       "vikalpa": {
-        "A": "बूढ़ा",
-        "B": "दुराचारी",
-        "C": "वंशहीन",
-        "D": "इनमें से सभी"
+        "A": "माहेशः",
+        "B": "महेशः",
+        "C": "महाईशः",
+        "D": "मेशः"
       }
     },
     {
-      "id": "short_10",
-      "type": "short_answer",
+      "id": "obj_38",
+      "type": "objective",
+      "section": "Vyakaran",
       "chapter": "2",
-      "chapter_name": "Buddhirbalvati Sada (बुद्धिर्बलवती सदा)",
-      "question": "अनिष्ट से इष्टप्राप्ति का परिणाम कैसे बुरा होता है ?",
-      "prashna": "अनिष्ट से इष्टप्राप्ति का परिणाम कैसे बुरा होता है ?",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'अ + इ' के मेल से कौन-सा नया वर्ण बनेगा ?",
+      "prashna": "'अ + इ' के मेल से कौन-सा नया वर्ण बनेगा ?",
+      "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "अ",
+        "B": "ए",
+        "C": "ओ",
+        "D": "अइ"
+      },
+      "vikalpa": {
+        "A": "अ",
+        "B": "ए",
+        "C": "ओ",
+        "D": "अइ"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'भाग्योदय' में कौन-सी संधि है ?",
+      "prashna": "'भाग्योदय' में कौन-सी संधि है ?",
+      "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "गुण",
+        "B": "दीर्घ",
+        "C": "अयादि",
+        "D": "वृद्धि"
+      },
+      "vikalpa": {
+        "A": "गुण",
+        "B": "दीर्घ",
+        "C": "अयादि",
+        "D": "वृद्धि"
+      }
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "पाटलिपुत्र के वैभव पर प्रकाश डालें ।",
+      "prashna": "पाटलिपुत्र के वैभव पर प्रकाश डालें ।",
       "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
+    },
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'नानृतम्' किस सन्धि का उदाहरण है ?",
+      "prashna": "'नानृतम्' किस सन्धि का उदाहरण है ?",
+      "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 60 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
+      "options": {
+        "A": "स्वर",
+        "B": "विसर्ग",
+        "C": "व्यञ्जन",
+        "D": "यण्"
+      },
+      "vikalpa": {
+        "A": "स्वर",
+        "B": "विसर्ग",
+        "C": "व्यञ्जन",
+        "D": "यण्"
+      }
+    },
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'नगरे + अस्मिन्' से कौन शब्द बनेगा ?",
+      "prashna": "'नगरे + अस्मिन्' से कौन शब्द बनेगा ?",
+      "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "नगरेस्मिन्",
+        "B": "नगरस्मिन्",
+        "C": "नगरेऽस्मिन्",
+        "D": "अस्मिन्नगरे"
+      },
+      "vikalpa": {
+        "A": "नगरेस्मिन्",
+        "B": "नगरस्मिन्",
+        "C": "नगरेऽस्मिन्",
+        "D": "अस्मिन्नगरे"
+      }
+    },
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "गुण सन्धि का उदाहरण कौन है ?",
+      "prashna": "गुण सन्धि का उदाहरण कौन है ?",
+      "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "गङ्गायास्तीरे",
+        "B": "सादरम्",
+        "C": "किञ्च",
+        "D": "नीलोत्पलम्"
+      },
+      "vikalpa": {
+        "A": "गङ्गायास्तीरे",
+        "B": "सादरम्",
+        "C": "किञ्च",
+        "D": "नीलोत्पलम्"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "'पाटलिपुत्र वैभवम्' पाठ में किस शहर का वर्णन है ?",
+      "prashna": "'पाटलिपुत्र वैभवम्' पाठ में किस शहर का वर्णन है ?",
+      "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "भागलपुर",
+        "B": "वाराणसी",
+        "C": "पटना",
+        "D": "इलाहाबाद"
+      },
+      "vikalpa": {
+        "A": "भागलपुर",
+        "B": "वाराणसी",
+        "C": "पटना",
+        "D": "इलाहाबाद"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "पटना का इतिहास कितना पुराना है ?",
+      "prashna": "पटना का इतिहास कितना पुराना है ?",
+      "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "200 वर्ष",
+        "B": "2000 वर्ष",
+        "C": "2500 वर्ष",
+        "D": "1500 वर्ष"
+      },
+      "vikalpa": {
+        "A": "200 वर्ष",
+        "B": "2000 वर्ष",
+        "C": "2500 वर्ष",
+        "D": "1500 वर्ष"
+      }
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "पटना के प्रमुख दर्शनीय स्थलों का उल्लेख करें।",
+      "prashna": "पटना के प्रमुख दर्शनीय स्थलों का उल्लेख करें।",
+      "instructions": "निम्नलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "पाटलिग्राम के सम्बन्ध में भगवान् बुद्ध ने क्या कहा था ?",
+      "prashna": "पाटलिग्राम के सम्बन्ध में भगवान् बुद्ध ने क्या कहा था ?",
+      "instructions": "निम्नलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
+    },
+    {
+      "id": "short_16",
+      "type": "short_answer",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "चन्द्रगुप्त मौर्य के समय में पाटलिपुत्र की रक्षा व्यवस्था कैसी थी ?",
+      "prashna": "चन्द्रगुप्त मौर्य के समय में पाटलिपुत्र की रक्षा व्यवस्था कैसी थी ?",
+      "instructions": "निम्नलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'जगत् + गौरवम्' की सन्धि क्या होगी ?",
+      "prashna": "'जगत् + गौरवम्' की सन्धि क्या होगी ?",
+      "instructions": "प्रश्न-संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "जगगौरवम्",
+        "B": "जगद्गौरवम्",
+        "C": "जगतगौरवम्",
+        "D": "जगत्गौरवम्"
+      },
+      "vikalpa": {
+        "A": "जगगौरवम्",
+        "B": "जगद्गौरवम्",
+        "C": "जगतगौरवम्",
+        "D": "जगत्गौरवम्"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'इ + अ' के मेल से कौन-सा नया वर्ण बनेगा ?",
+      "prashna": "'इ + अ' के मेल से कौन-सा नया वर्ण बनेगा ?",
+      "instructions": "प्रश्न-संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "अय",
+        "B": "आय",
+        "C": "य",
+        "D": "ए"
+      },
+      "vikalpa": {
+        "A": "अय",
+        "B": "आय",
+        "C": "य",
+        "D": "ए"
+      }
+    },
+    {
+      "id": "obj_71",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "किस शब्द में विसर्ग सन्धि नहीं है ?",
+      "prashna": "किस शब्द में विसर्ग सन्धि नहीं है ?",
+      "instructions": "प्रश्न-संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "कारुणिकश्च",
+        "B": "विद्यापतिरासीत्",
+        "C": "नीरोग:",
+        "D": "नगरेऽस्मिन्"
+      },
+      "vikalpa": {
+        "A": "कारुणिकश्च",
+        "B": "विद्यापतिरासीत्",
+        "C": "नीरोग:",
+        "D": "नगरेऽस्मिन्"
+      }
+    },
+    {
+      "id": "obj_75",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'चयनम्' का सन्धि-विच्छेद क्या होगा ?",
+      "prashna": "'चयनम्' का सन्धि-विच्छेद क्या होगा ?",
+      "instructions": "प्रश्न-संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "च + यनम्",
+        "B": "चै + अनम्",
+        "C": "चे + अनम्",
+        "D": "चो + अनम्"
+      },
+      "vikalpa": {
+        "A": "च + यनम्",
+        "B": "चै + अनम्",
+        "C": "चे + अनम्",
+        "D": "चो + अनम्"
+      }
+    },
+    {
+      "id": "obj_76",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'राज + छत्रम्' की सन्धि क्या होगी ?",
+      "prashna": "'राज + छत्रम्' की सन्धि क्या होगी ?",
+      "instructions": "प्रश्न-संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "राजछत्रम्",
+        "B": "छत्रराजम्",
+        "C": "राजछात्रम्",
+        "D": "राजच्छत्रम्"
+      },
+      "vikalpa": {
+        "A": "राजछत्रम्",
+        "B": "छत्रराजम्",
+        "C": "राजछात्रम्",
+        "D": "राजच्छत्रम्"
+      }
+    },
+    {
+      "id": "obj_87",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'अस्योत्तरम्' में कौन सन्धि है?",
+      "prashna": "'अस्योत्तरम्' में कौन सन्धि है?",
+      "instructions": "प्रश्न-संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "स्वर",
+        "B": "व्यञ्जन",
+        "C": "विसर्ग",
+        "D": "इनमें से कोई नहीं"
+      },
+      "vikalpa": {
+        "A": "स्वर",
+        "B": "व्यञ्जन",
+        "C": "विसर्ग",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_91",
+      "type": "objective",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "पाटलिपुत्र किस नदी के किनारे अवस्थित है?",
+      "prashna": "पाटलिपुत्र किस नदी के किनारे अवस्थित है?",
+      "instructions": "प्रश्न-संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "गङ्गा",
+        "B": "सोन",
+        "C": "पुनपुन",
+        "D": "गंडक"
+      },
+      "vikalpa": {
+        "A": "गङ्गा",
+        "B": "सोन",
+        "C": "पुनपुन",
+        "D": "गंडक"
+      }
+    },
+    {
+      "id": "obj_95",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'इतस्तत:' का संधि विच्छेद क्या होगा ?",
+      "prashna": "'इतस्तत:' का संधि विच्छेद क्या होगा ?",
+      "instructions": "प्रश्न-संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "इत: + तत:",
+        "B": "इत + स्तत:",
+        "C": "इतस + तत:",
+        "D": "इत: + स्तत:"
+      },
+      "vikalpa": {
+        "A": "इत: + तत:",
+        "B": "इत + स्तत:",
+        "C": "इतस + तत:",
+        "D": "इत: + स्तत:"
+      }
+    },
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "प्राचीन संस्कृत ग्रन्थों में वर्णित पटना के विभिन्न नामों का उल्लेख करें।",
+      "prashna": "प्राचीन संस्कृत ग्रन्थों में वर्णित पटना के विभिन्न नामों का उल्लेख करें।",
+      "instructions": "निम्नलिखित में किन्हीं आठ प्रश्नों के उत्तर दें-"
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "राजशेखर ने पटना को किस रूप में स्मरण किया है ?",
+      "prashna": "राजशेखर ने पटना को किस रूप में स्मरण किया है ?",
+      "instructions": "निम्नलिखित में किन्हीं आठ प्रश्नों के उत्तर दें-"
+    },
+    {
+      "id": "short_16",
+      "type": "short_answer",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "चन्द्रगुप्त मौर्य के काल में पटना की रक्षा व्यवस्था कैसी थी ?",
+      "prashna": "चन्द्रगुप्त मौर्य के काल में पटना की रक्षा व्यवस्था कैसी थी ?",
+      "instructions": "निम्नलिखित में किन्हीं आठ प्रश्नों के उत्तर दें-"
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'जगत् + गौरवम्' की सन्धि क्या होगी ?",
+      "prashna": "'जगत् + गौरवम्' की सन्धि क्या होगी ?",
+      "instructions": "प्रश्न-संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "जगगौरवम्",
+        "B": "जगद्गौरवम्",
+        "C": "जगतगौरवम्",
+        "D": "जगत्गौरवम्"
+      },
+      "vikalpa": {
+        "A": "जगगौरवम्",
+        "B": "जगद्गौरवम्",
+        "C": "जगतगौरवम्",
+        "D": "जगत्गौरवम्"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'इ + अ' के मेल से कौन-सा नया वर्ण बनेगा ?",
+      "prashna": "'इ + अ' के मेल से कौन-सा नया वर्ण बनेगा ?",
+      "instructions": "प्रश्न-संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "अय",
+        "B": "आय",
+        "C": "य",
+        "D": "ए"
+      },
+      "vikalpa": {
+        "A": "अय",
+        "B": "आय",
+        "C": "य",
+        "D": "ए"
+      }
+    },
+    {
+      "id": "obj_71",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "किस शब्द में विसर्ग सन्धि नहीं है ?",
+      "prashna": "किस शब्द में विसर्ग सन्धि नहीं है ?",
+      "instructions": "प्रश्न-संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "कारुणिकश्च",
+        "B": "विद्यापतिरासीत्",
+        "C": "नीरोग:",
+        "D": "नगरेऽस्मिन्"
+      },
+      "vikalpa": {
+        "A": "कारुणिकश्च",
+        "B": "विद्यापतिरासीत्",
+        "C": "नीरोग:",
+        "D": "नगरेऽस्मिन्"
+      }
+    },
+    {
+      "id": "obj_75",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'चयनम्' का सन्धि-विच्छेद क्या होगा ?",
+      "prashna": "'चयनम्' का सन्धि-विच्छेद क्या होगा ?",
+      "instructions": "प्रश्न-संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "च + यनम्",
+        "B": "चै + अनम्",
+        "C": "चे + अनम्",
+        "D": "चो + अनम्"
+      },
+      "vikalpa": {
+        "A": "च + यनम्",
+        "B": "चै + अनम्",
+        "C": "चे + अनम्",
+        "D": "चो + अनम्"
+      }
+    },
+    {
+      "id": "obj_76",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'राज + छत्रम्' की सन्धि क्या होगी ?",
+      "prashna": "'राज + छत्रम्' की सन्धि क्या होगी ?",
+      "instructions": "प्रश्न-संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "राजछत्रम्",
+        "B": "छत्रराजम्",
+        "C": "राजछात्रम्",
+        "D": "राजच्छत्रम्"
+      },
+      "vikalpa": {
+        "A": "राजछत्रम्",
+        "B": "छत्रराजम्",
+        "C": "राजछात्रम्",
+        "D": "राजच्छत्रम्"
+      }
+    },
+    {
+      "id": "obj_87",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'अस्योत्तरम्' में कौन सन्धि है?",
+      "prashna": "'अस्योत्तरम्' में कौन सन्धि है?",
+      "instructions": "प्रश्न-संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "स्वर",
+        "B": "व्यञ्जन",
+        "C": "विसर्ग",
+        "D": "इनमें से कोई नहीं"
+      },
+      "vikalpa": {
+        "A": "स्वर",
+        "B": "व्यञ्जन",
+        "C": "विसर्ग",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_91",
+      "type": "objective",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "पाटलिपुत्र किस नदी के किनारे अवस्थित है ?",
+      "prashna": "पाटलिपुत्र किस नदी के किनारे अवस्थित है ?",
+      "instructions": "प्रश्न-संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "गङ्गा",
+        "B": "सोन",
+        "C": "पुनपुन",
+        "D": "गंडक"
+      },
+      "vikalpa": {
+        "A": "गङ्गा",
+        "B": "सोन",
+        "C": "पुनपुन",
+        "D": "गंडक"
+      }
+    },
+    {
+      "id": "obj_95",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'इतस्तत:' का संधि विच्छेद क्या होगा ?",
+      "prashna": "'इतस्तत:' का संधि विच्छेद क्या होगा ?",
+      "instructions": "प्रश्न-संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "इत: + तत:",
+        "B": "इत + स्तत:",
+        "C": "इतस + तत:",
+        "D": "इत: + स्तत:"
+      },
+      "vikalpa": {
+        "A": "इत: + तत:",
+        "B": "इत + स्तत:",
+        "C": "इतस + तत:",
+        "D": "इत: + स्तत:"
+      }
+    },
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "प्राचीन संस्कृत ग्रन्थों में वर्णित पटना के विभिन्न नामों का उल्लेख करें।",
+      "prashna": "प्राचीन संस्कृत ग्रन्थों में वर्णित पटना के विभिन्न नामों का उल्लेख करें।",
+      "instructions": "निम्नलिखित में किन्हीं आठ प्रश्नों के उत्तर दें-"
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "राजशेखर ने पटना को किस रूप में स्मरण किया है ?",
+      "prashna": "राजशेखर ने पटना को किस रूप में स्मरण किया है ?",
+      "instructions": "निम्नलिखित में किन्हीं आठ प्रश्नों के उत्तर दें-"
+    },
+    {
+      "id": "short_16",
+      "type": "short_answer",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "चन्द्रगुप्त मौर्य के काल में पटना की रक्षा व्यवस्था कैसी थी ?",
+      "prashna": "चन्द्रगुप्त मौर्य के काल में पटना की रक्षा व्यवस्था कैसी थी ?",
+      "instructions": "निम्नलिखित में किन्हीं आठ प्रश्नों के उत्तर दें-"
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "किस पद में स्वर सन्धि है ?",
+      "prashna": "किस पद में स्वर सन्धि है ?",
+      "instructions": "सही विकल्प चुनें।",
+      "options": {
+        "A": "शयनम्",
+        "B": "सुबन्तः",
+        "C": "सज्जनः",
+        "D": "निर्धनः"
+      },
+      "vikalpa": {
+        "A": "शयनम्",
+        "B": "सुबन्तः",
+        "C": "सज्जनः",
+        "D": "निर्धनः"
+      }
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'कङ्कणम्' का संधि-विच्छेद क्या होगा ?",
+      "prashna": "'कङ्कणम्' का संधि-विच्छेद क्या होगा ?",
+      "instructions": "सही विकल्प चुनें।",
+      "options": {
+        "A": "कन् + कणम्",
+        "B": "कम् + कणम्",
+        "C": "कम् + अकणम्",
+        "D": "कन् + अकणम्"
+      },
+      "vikalpa": {
+        "A": "कन् + कणम्",
+        "B": "कम् + कणम्",
+        "C": "कम् + अकणम्",
+        "D": "कन् + अकणम्"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'एतत् + श्रुत्वा' की सन्धि क्या होगी ?",
+      "prashna": "'एतत् + श्रुत्वा' की सन्धि क्या होगी ?",
+      "instructions": "सही विकल्प चुनें।",
+      "options": {
+        "A": "एतच्छ्रुत्वा",
+        "B": "एतच्छुत्वा",
+        "C": "एतश्रुत्वा",
+        "D": "श्रुत्वैतत्"
+      },
+      "vikalpa": {
+        "A": "एतच्छ्रुत्वा",
+        "B": "एतच्छुत्वा",
+        "C": "एतश्रुत्वा",
+        "D": "श्रुत्वैतत्"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'पित्रादेशः' का सही संधि विच्छेद क्या है ?",
+      "prashna": "'पित्रादेशः' का सही संधि विच्छेद क्या है ?",
+      "instructions": "सही विकल्प चुनें।",
+      "options": {
+        "A": "पितृ + आदेशः",
+        "B": "पित्र + आदेशः",
+        "C": "पिता + आदेशः",
+        "D": "पितुः + आदेशः"
+      },
+      "vikalpa": {
+        "A": "पितृ + आदेशः",
+        "B": "पित्र + आदेशः",
+        "C": "पिता + आदेशः",
+        "D": "पितुः + आदेशः"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'निः + रोगः' की सन्धि क्या होगी ?",
+      "prashna": "'निः + रोगः' की सन्धि क्या होगी ?",
+      "instructions": "सही विकल्प चुनें।",
+      "options": {
+        "A": "नीरोगः",
+        "B": "निरोगः",
+        "C": "निरोग",
+        "D": "निखोगः"
+      },
+      "vikalpa": {
+        "A": "नीरोगः",
+        "B": "निरोगः",
+        "C": "निरोग",
+        "D": "निखोगः"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'नरेशः' किस सन्धि का उदाहरण है ?",
+      "prashna": "'नरेशः' किस सन्धि का उदाहरण है ?",
+      "instructions": "सही विकल्प चुनें।",
+      "options": {
+        "A": "विसर्ग",
+        "B": "स्वर",
+        "C": "व्यञ्जन",
+        "D": "वा शरि"
+      },
+      "vikalpa": {
+        "A": "विसर्ग",
+        "B": "स्वर",
+        "C": "व्यञ्जन",
+        "D": "वा शरि"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "सिख सम्प्रदाय के दसवें गुरु कौन थे ?",
+      "prashna": "सिख सम्प्रदाय के दसवें गुरु कौन थे ?",
+      "instructions": "सही विकल्प चुनें।",
+      "options": {
+        "A": "गुरु गोविन्द सिंह",
+        "B": "गुरु नानक देव",
+        "C": "गुरु तेगबहादुर सिंह",
+        "D": "गुरु जगगा सिंह"
+      },
+      "vikalpa": {
+        "A": "गुरु गोविन्द सिंह",
+        "B": "गुरु नानक देव",
+        "C": "गुरु तेगबहादुर सिंह",
+        "D": "गुरु जगगा सिंह"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'चञ्चलः' पद में कौन-सी सन्धि है ?",
+      "prashna": "'चञ्चलः' पद में कौन-सी सन्धि है ?",
+      "instructions": "सही विकल्प चुनें।",
+      "options": {
+        "A": "व्यञ्जन",
+        "B": "स्वर",
+        "C": "विसर्ग",
+        "D": "गुण"
+      },
+      "vikalpa": {
+        "A": "व्यञ्जन",
+        "B": "स्वर",
+        "C": "विसर्ग",
+        "D": "गुण"
+      }
+    },
+    {
+      "id": "obj_76",
+      "type": "objective",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "'पटना में हमेशा युद्ध, आग और बाढ़ का भय रहेगा ।' किसने कहा था ?",
+      "prashna": "'पटना में हमेशा युद्ध, आग और बाढ़ का भय रहेगा ।' किसने कहा था ?",
+      "instructions": "सही विकल्प चुनें।",
+      "options": {
+        "A": "भगवान् बुद्ध",
+        "B": "भगवान् महावीर",
+        "C": "चन्द्रगुप्त मौर्य",
+        "D": "मेगास्थनीज"
+      },
+      "vikalpa": {
+        "A": "भगवान् बुद्ध",
+        "B": "भगवान् महावीर",
+        "C": "चन्द्रगुप्त मौर्य",
+        "D": "मेगास्थनीज"
+      }
+    },
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "पाटलिपुत्र की विशेषताओं का वर्णन करें ।",
+      "prashna": "पाटलिपुत्र की विशेषताओं का वर्णन करें ।",
+      "instructions": "निम्नलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "पटना के प्रमुख दर्शनीय स्थल कौन-कौन से हैं ?",
+      "prashna": "पटना के प्रमुख दर्शनीय स्थल कौन-कौन से हैं ?",
+      "instructions": "हिन्दी में उत्तर दें"
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "पाटलिपुत्र का पुष्पपुर या कुसुमपुर नाम का उल्लेख कहाँ है ?",
+      "prashna": "पाटलिपुत्र का पुष्पपुर या कुसुमपुर नाम का उल्लेख कहाँ है ?",
+      "instructions": "हिन्दी में उत्तर दें"
+    },
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "किस सन्धि में स्वर वर्ण में विकार (परिवर्तन) होता है ?",
+      "prashna": "किस सन्धि में स्वर वर्ण में विकार (परिवर्तन) होता है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है ।",
+      "options": {
+        "A": "विसर्ग",
+        "B": "व्यञ्जन",
+        "C": "स्वर",
+        "D": "संयोग"
+      },
+      "vikalpa": {
+        "A": "विसर्ग",
+        "B": "व्यञ्जन",
+        "C": "स्वर",
+        "D": "संयोग"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "‘यद्यपि’ में किन-किन वर्णों की सन्धि हुई है ?",
+      "prashna": "‘यद्यपि’ में किन-किन वर्णों की सन्धि हुई है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है ।",
+      "options": {
+        "A": "द् + य",
+        "B": "इ + उ",
+        "C": "अ + इ",
+        "D": "इ + अ"
+      },
+      "vikalpa": {
+        "A": "द् + य",
+        "B": "इ + उ",
+        "C": "अ + इ",
+        "D": "इ + अ"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "विसर्ग सन्धि का उदाहरण कौन-सा है ?",
+      "prashna": "विसर्ग सन्धि का उदाहरण कौन-सा है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है ।",
+      "options": {
+        "A": "नीरोगः",
+        "B": "धनेशः",
+        "C": "मृत्युञ्जयः",
+        "D": "तद्धितम्"
+      },
+      "vikalpa": {
+        "A": "नीरोगः",
+        "B": "धनेशः",
+        "C": "मृत्युञ्जयः",
+        "D": "तद्धितम्"
+      }
+    },
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "‘एक + एकम्’ की सन्धि क्या होगी ?",
+      "prashna": "‘एक + एकम्’ की सन्धि क्या होगी ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है ।",
+      "options": {
+        "A": "एकैकम्",
+        "B": "एकएकम्",
+        "C": "एकेकैम्",
+        "D": "एकाएकम्"
+      },
+      "vikalpa": {
+        "A": "एकैकम्",
+        "B": "एकएकम्",
+        "C": "एकेकैम्",
+        "D": "एकाएकम्"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "गुरुगोविन्द सिंह का जन्म स्थान किस नाम से प्रसिद्ध है ?",
+      "prashna": "गुरुगोविन्द सिंह का जन्म स्थान किस नाम से प्रसिद्ध है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है ।",
+      "options": {
+        "A": "गुरुग्राम",
+        "B": "गुरुद्वारा",
+        "C": "गुरुगाँव",
+        "D": "गुरुघर"
+      },
+      "vikalpa": {
+        "A": "गुरुग्राम",
+        "B": "गुरुद्वारा",
+        "C": "गुरुगाँव",
+        "D": "गुरुघर"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "पटना नगर की पालिका देवी कौन हैं ?",
+      "prashna": "पटना नगर की पालिका देवी कौन हैं ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है ।",
+      "options": {
+        "A": "शीतला देवी",
+        "B": "मंगला देवी",
+        "C": "पटन देवी",
+        "D": "कालिका देवी"
+      },
+      "vikalpa": {
+        "A": "शीतला देवी",
+        "B": "मंगला देवी",
+        "C": "पटन देवी",
+        "D": "कालिका देवी"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "पाटलिपुत्र पटना के नाम से कब प्रसिद्ध हुआ ?",
+      "prashna": "पाटलिपुत्र पटना के नाम से कब प्रसिद्ध हुआ ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है ।",
+      "options": {
+        "A": "भगवान बुद्ध के समय में",
+        "B": "मुगल काल में",
+        "C": "मध्यकाल में",
+        "D": "अंग्रेजों के शासन काल में"
+      },
+      "vikalpa": {
+        "A": "भगवान बुद्ध के समय में",
+        "B": "मुगल काल में",
+        "C": "मध्यकाल में",
+        "D": "अंग्रेजों के शासन काल में"
+      }
+    },
+    {
+      "id": "obj_63",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "‘रवीन्द्र:’ का सही संधि-विच्छेद क्या होगा ?",
+      "prashna": "‘रवीन्द्र:’ का सही संधि-विच्छेद क्या होगा ?",
+      "options": {
+        "A": "रवि + इन्द्रः",
+        "B": "रवि + ईन्द्रः",
+        "C": "रवी + इन्द्रः",
+        "D": "रवी + ईन्द्रः"
+      },
+      "vikalpa": {
+        "A": "रवि + इन्द्रः",
+        "B": "रवि + ईन्द्रः",
+        "C": "रवी + इन्द्रः",
+        "D": "रवी + ईन्द्रः"
+      }
+    },
+    {
+      "id": "obj_77",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "‘राजा + ऋषिः’ की सन्धि क्या होगी ?",
+      "prashna": "‘राजा + ऋषिः’ की सन्धि क्या होगी ?",
+      "options": {
+        "A": "राजर्षिः",
+        "B": "राजार्विः",
+        "C": "राज्यर्षिः",
+        "D": "ऋषिराजः"
+      },
+      "vikalpa": {
+        "A": "राजर्षिः",
+        "B": "राजार्विः",
+        "C": "राज्यर्षिः",
+        "D": "ऋषिराजः"
+      }
+    },
+    {
+      "id": "obj_78",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "‘संस्कृतम्’ में कौन-सी सन्धि है ?",
+      "prashna": "‘संस्कृतम्’ में कौन-सी सन्धि है ?",
+      "options": {
+        "A": "स्वर",
+        "B": "व्यञ्जन",
+        "C": "विसर्ग",
+        "D": "इनमें से कोई नहीं"
+      },
+      "vikalpa": {
+        "A": "स्वर",
+        "B": "व्यञ्जन",
+        "C": "विसर्ग",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_81",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "किस पद में स्वर सन्धि नहीं है ?",
+      "prashna": "किस पद में स्वर सन्धि नहीं है ?",
+      "options": {
+        "A": "राजेन्द्रः",
+        "B": "नायकः",
+        "C": "कपीशः",
+        "D": "कश्चित्"
+      },
+      "vikalpa": {
+        "A": "राजेन्द्रः",
+        "B": "नायकः",
+        "C": "कपीशः",
+        "D": "कश्चित्"
+      }
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "'पाटलिपुत्र वैभवम्' पाठ का वर्णन चार से पाँच वाक्यों में करें ।",
+      "prashna": "'पाटलिपुत्र वैभवम्' पाठ का वर्णन चार से पाँच वाक्यों में करें ।",
+      "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "प्राचीन काल से ही पाटलिपुत्र कैसे नगर के रूप में प्रसिद्ध है ?",
+      "prashna": "प्राचीन काल से ही पाटलिपुत्र कैसे नगर के रूप में प्रसिद्ध है ?",
+      "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'अ + उ' के मेल से कौन-सा नया वर्ण बनेगा ?",
+      "prashna": "'अ + उ' के मेल से कौन-सा नया वर्ण बनेगा ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "ओ",
+        "B": "व",
+        "C": "य",
+        "D": "औ"
+      },
+      "vikalpa": {
+        "A": "ओ",
+        "B": "व",
+        "C": "य",
+        "D": "औ"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'तन्मध्ये' पद में कौन-सी संधि है ?",
+      "prashna": "'तन्मध्ये' पद में कौन-सी संधि है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "संयोग",
+        "B": "विसर्ग",
+        "C": "स्वर",
+        "D": "व्यंजन"
+      },
+      "vikalpa": {
+        "A": "संयोग",
+        "B": "विसर्ग",
+        "C": "स्वर",
+        "D": "व्यंजन"
+      }
+    },
+    {
+      "id": "obj_53",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "‘नमस्ते' में कौन-सी संधि है ?",
+      "prashna": "‘नमस्ते' में कौन-सी संधि है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "स्वर संधि",
+        "B": "व्यंजन संधि",
+        "C": "विसर्ग संधि",
+        "D": "अयादि संधि"
+      },
+      "vikalpa": {
+        "A": "स्वर संधि",
+        "B": "व्यंजन संधि",
+        "C": "विसर्ग संधि",
+        "D": "अयादि संधि"
+      }
+    },
+    {
+      "id": "obj_54",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "‘इत्यादिः' में किन-किन वर्णों की सन्धि हुई है ?",
+      "prashna": "‘इत्यादिः' में किन-किन वर्णों की सन्धि हुई है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "य + आ",
+        "B": "इ + आ",
+        "C": "आ + इ",
+        "D": "अ + इ"
+      },
+      "vikalpa": {
+        "A": "य + आ",
+        "B": "इ + आ",
+        "C": "आ + इ",
+        "D": "अ + इ"
+      }
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "पटना नगर की पालिका देवी कौन हैं ?",
+      "prashna": "पटना नगर की पालिका देवी कौन हैं ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "शीतला देवा",
+        "B": "दुर्गा देवी",
+        "C": "पटन देवी",
+        "D": "माँ काली"
+      },
+      "vikalpa": {
+        "A": "शीतला देवा",
+        "B": "दुर्गा देवी",
+        "C": "पटन देवी",
+        "D": "माँ काली"
+      }
+    },
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "गोविन्दसिंहः सिखसम्प्रदायस्य……………गुरुः आसीत्। रिक्त स्थान को उचित पद से भरें :",
+      "prashna": "गोविन्दसिंहः सिखसम्प्रदायस्य……………गुरुः आसीत्। रिक्त स्थान को उचित पद से भरें :",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "दशमः",
+        "B": "प्रथमः",
+        "C": "अष्टमः",
+        "D": "पंचमः"
+      },
+      "vikalpa": {
+        "A": "दशमः",
+        "B": "प्रथमः",
+        "C": "अष्टमः",
+        "D": "पंचमः"
+      }
+    },
+    {
+      "id": "obj_60",
+      "type": "objective",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "मेगास्थनीज कहाँ का राजदूत था ?",
+      "prashna": "मेगास्थनीज कहाँ का राजदूत था ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "यूनान",
+        "B": "चीन",
+        "C": "श्रीलंका",
+        "D": "जापान"
+      },
+      "vikalpa": {
+        "A": "यूनान",
+        "B": "चीन",
+        "C": "श्रीलंका",
+        "D": "जापान"
+      }
+    },
+    {
+      "id": "obj_71",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'ऐ + अ' के मेल से कौन-सा नया वर्ण बनेगा ?",
+      "prashna": "'ऐ + अ' के मेल से कौन-सा नया वर्ण बनेगा ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "आव",
+        "B": "आय",
+        "C": "अव",
+        "D": "अय"
+      },
+      "vikalpa": {
+        "A": "आव",
+        "B": "आय",
+        "C": "अव",
+        "D": "अय"
+      }
+    },
+    {
+      "id": "obj_76",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'शिव + छाया' की सन्धि क्या होगी ?",
+      "prashna": "'शिव + छाया' की सन्धि क्या होगी ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "शिवश्छाया",
+        "B": "शिवोछाया",
+        "C": "शिवच्छाया",
+        "D": "शिविवच्छाया"
+      },
+      "vikalpa": {
+        "A": "शिवश्छाया",
+        "B": "शिवोछाया",
+        "C": "शिवच्छाया",
+        "D": "शिविवच्छाया"
+      }
+    },
+    {
+      "id": "obj_77",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'विद्यैका' पद का संधि-विच्छेद क्या होगा ?",
+      "prashna": "'विद्यैका' पद का संधि-विच्छेद क्या होगा ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "विद्या + ऐका",
+        "B": "विद्या + एका",
+        "C": "विद्य + एका",
+        "D": "विदे + का"
+      },
+      "vikalpa": {
+        "A": "विद्या + ऐका",
+        "B": "विद्या + एका",
+        "C": "विद्य + एका",
+        "D": "विदे + का"
+      }
+    },
+    {
+      "id": "obj_78",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'गतिरिति' में कौन-सी संधि है ?",
+      "prashna": "'गतिरिति' में कौन-सी संधि है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "स्वर",
+        "B": "व्यंजन",
+        "C": "विसर्ग",
+        "D": "यण्"
+      },
+      "vikalpa": {
+        "A": "स्वर",
+        "B": "व्यंजन",
+        "C": "विसर्ग",
+        "D": "यण्"
+      }
+    },
+    {
+      "id": "obj_83",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'अद्यावधिः' का संधि-विच्छेद क्या होगा ?",
+      "prashna": "'अद्यावधिः' का संधि-विच्छेद क्या होगा ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "अद्या + वधिः",
+        "B": "अद्य + अवधिः",
+        "C": "अद्य + आवधिः",
+        "D": "अदि + अवधिः"
+      },
+      "vikalpa": {
+        "A": "अद्या + वधिः",
+        "B": "अद्य + अवधिः",
+        "C": "अद्य + आवधिः",
+        "D": "अदि + अवधिः"
+      }
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "किन-किन विदेशी यात्रियों ने अपने संस्मरण ग्रंथों में पटना का वर्णन किया है ?",
+      "prashna": "किन-किन विदेशी यात्रियों ने अपने संस्मरण ग्रंथों में पटना का वर्णन किया है ?",
+      "instructions": "लघु उत्तरीय प्रश्न (16 अंक)। निम्नलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "'गोविन्दसिंहः सिखसम्प्रदायस्य ......... गुरुः आसीत् ।' रिक्त स्थान की पूर्ति उचित विकल्प से करें।",
+      "prashna": "'गोविन्दसिंहः सिखसम्प्रदायस्य ......... गुरुः आसीत् ।' रिक्त स्थान की पूर्ति उचित विकल्प से करें।",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
+      "options": {
+        "A": "प्रथमः",
+        "B": "सप्तमः",
+        "C": "दशमः",
+        "D": "नवमः"
+      },
+      "vikalpa": {
+        "A": "प्रथमः",
+        "B": "सप्तमः",
+        "C": "दशमः",
+        "D": "नवमः"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'रवीन्द्र:' का संधि-विच्छेद निम्न में कौन-सा है ?",
+      "prashna": "'रवीन्द्र:' का संधि-विच्छेद निम्न में कौन-सा है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
+      "options": {
+        "A": "रवी + इन्द्रः",
+        "B": "रव + इन्द्रः",
+        "C": "रवि + इन्द्रः",
+        "D": "रवि + ईन्द्रः"
+      },
+      "vikalpa": {
+        "A": "रवी + इन्द्रः",
+        "B": "रव + इन्द्रः",
+        "C": "रवि + इन्द्रः",
+        "D": "रवि + ईन्द्रः"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'पटनेति' में कौन-सी संधि है ?",
+      "prashna": "'पटनेति' में कौन-सी संधि है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
+      "options": {
+        "A": "जश्त्व",
+        "B": "व्यंजन",
+        "C": "विसर्ग",
+        "D": "स्वर"
+      },
+      "vikalpa": {
+        "A": "जश्त्व",
+        "B": "व्यंजन",
+        "C": "विसर्ग",
+        "D": "स्वर"
+      }
+    },
+    {
+      "id": "obj_80",
+      "type": "objective",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "किसके समय में पाटलिपुत्र की रक्षा-व्यवस्था और शोभा अत्युत्कृष्ट थी ?",
+      "prashna": "किसके समय में पाटलिपुत्र की रक्षा-व्यवस्था और शोभा अत्युत्कृष्ट थी ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
+      "options": {
+        "A": "चन्द्रगुप्त मौर्य",
+        "B": "मुगल",
+        "C": "मध्यकाल",
+        "D": "आंग्लकाल"
+      },
+      "vikalpa": {
+        "A": "चन्द्रगुप्त मौर्य",
+        "B": "मुगल",
+        "C": "मध्यकाल",
+        "D": "आंग्लकाल"
+      }
+    },
+    {
+      "id": "obj_81",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'तत् + मध्ये' में सन्धि होकर क्या रूप बनेगा ?",
+      "prashna": "'तत् + मध्ये' में सन्धि होकर क्या रूप बनेगा ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
+      "options": {
+        "A": "तत्मध्ये",
+        "B": "तैममध्ये",
+        "C": "तन्मध्ये",
+        "D": "तदामध्ये"
+      },
+      "vikalpa": {
+        "A": "तत्मध्ये",
+        "B": "तैममध्ये",
+        "C": "तन्मध्ये",
+        "D": "तदामध्ये"
+      }
+    },
+    {
+      "id": "obj_82",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'परोपकार:' में किन-किन वर्णों में संधि हुई है ?",
+      "prashna": "'परोपकार:' में किन-किन वर्णों में संधि हुई है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
+      "options": {
+        "A": "अ + उ",
+        "B": "अ + ओ",
+        "C": "आ + ओ",
+        "D": "अ + ऊ"
+      },
+      "vikalpa": {
+        "A": "अ + उ",
+        "B": "अ + ओ",
+        "C": "आ + ओ",
+        "D": "अ + ऊ"
+      }
+    },
+    {
+      "id": "obj_93",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'एतदेव' का संधि-विच्छेद क्या होगा ?",
+      "prashna": "'एतदेव' का संधि-विच्छेद क्या होगा ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
+      "options": {
+        "A": "एतत + ऐव",
+        "B": "एत + देव",
+        "C": "एतत् + एव",
+        "D": "एत् + अदेव"
+      },
+      "vikalpa": {
+        "A": "एतत + ऐव",
+        "B": "एत + देव",
+        "C": "एतत् + एव",
+        "D": "एत् + अदेव"
+      }
+    },
+    {
+      "id": "obj_94",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'विसर्ग संधि' का उदाहरण कौन-सा है ?",
+      "prashna": "'विसर्ग संधि' का उदाहरण कौन-सा है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
+      "options": {
+        "A": "इतस्ततः",
+        "B": "गायिका",
+        "C": "दिनेशः",
+        "D": "हिमालयः"
+      },
+      "vikalpa": {
+        "A": "इतस्ततः",
+        "B": "गायिका",
+        "C": "दिनेशः",
+        "D": "हिमालयः"
+      }
+    },
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "पटना के मुख्य दर्शनीय स्थलों का नामोल्लेख करें।",
+      "prashna": "पटना के मुख्य दर्शनीय स्थलों का नामोल्लेख करें।",
+      "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "राजशेखर ने पटना के संबंध में क्या लिखा है ?",
+      "prashna": "राजशेखर ने पटना के संबंध में क्या लिखा है ?",
+      "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "चन्द्रगुप्त मौर्य के काल में पाटलिपुत्र की रक्षा व्यवस्था कैसी थी ?",
+      "prashna": "चन्द्रगुप्त मौर्य के काल में पाटलिपुत्र की रक्षा व्यवस्था कैसी थी ?",
+      "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'पूर्वरूप संधि' का उदाहरण कौन-सा है ?",
+      "prashna": "'पूर्वरूप संधि' का उदाहरण कौन-सा है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं।",
+      "options": {
+        "A": "एकैक",
+        "B": "हरेऽव",
+        "C": "रावणः",
+        "D": "रमेन्द्रः"
+      },
+      "vikalpa": {
+        "A": "एकैक",
+        "B": "हरेऽव",
+        "C": "रावणः",
+        "D": "रमेन्द्रः"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'खगेशः' का सन्धि-विच्छेद क्या होगा ?",
+      "prashna": "'खगेशः' का सन्धि-विच्छेद क्या होगा ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं।",
+      "options": {
+        "A": "खग + एशः",
+        "B": "खग + ईशः",
+        "C": "खग + इशः",
+        "D": "खगे + शः"
+      },
+      "vikalpa": {
+        "A": "खग + एशः",
+        "B": "खग + ईशः",
+        "C": "खग + इशः",
+        "D": "खगे + शः"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "'कौमुदी महोत्सव' जैसा दृश्य किस अवसर पर दिखाई पड़ता है ?",
+      "prashna": "'कौमुदी महोत्सव' जैसा दृश्य किस अवसर पर दिखाई पड़ता है ?",
+      "options": {
+        "A": "छठपूजा",
+        "B": "दुर्गापूजा",
+        "C": "दीपावली",
+        "D": "वसंतपंचमी"
+      },
+      "vikalpa": {
+        "A": "छठपूजा",
+        "B": "दुर्गापूजा",
+        "C": "दीपावली",
+        "D": "वसंतपंचमी"
+      }
+    },
+    {
+      "id": "obj_55",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'पवित्रम्' किस संधि का उदाहरण है ?",
+      "prashna": "'पवित्रम्' किस संधि का उदाहरण है ?",
+      "options": {
+        "A": "यण् संधि",
+        "B": "अयादि संधि",
+        "C": "गुण संधि",
+        "D": "दीर्घ संधि"
+      },
+      "vikalpa": {
+        "A": "यण् संधि",
+        "B": "अयादि संधि",
+        "C": "गुण संधि",
+        "D": "दीर्घ संधि"
+      }
+    },
+    {
+      "id": "obj_64",
+      "type": "objective",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "'पटनदेवी' किस नगर में अवस्थित है ?",
+      "prashna": "'पटनदेवी' किस नगर में अवस्थित है ?",
+      "options": {
+        "A": "वैशाली",
+        "B": "पटना",
+        "C": "राजगृह",
+        "D": "नालन्दा"
+      },
+      "vikalpa": {
+        "A": "वैशाली",
+        "B": "पटना",
+        "C": "राजगृह",
+        "D": "नालन्दा"
+      }
+    },
+    {
+      "id": "obj_65",
+      "type": "objective",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "यूनान का राजदूत कौन था ?",
+      "prashna": "यूनान का राजदूत कौन था ?",
+      "options": {
+        "A": "मेगास्थनीज",
+        "B": "हुयेनसांग",
+        "C": "फाह्यान",
+        "D": "इत्सिंग"
+      },
+      "vikalpa": {
+        "A": "मेगास्थनीज",
+        "B": "हुयेनसांग",
+        "C": "फाह्यान",
+        "D": "इत्सिंग"
+      }
+    },
+    {
+      "id": "obj_66",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'रावणः' पद का संधि-विच्छेद क्या होगा ?",
+      "prashna": "'रावणः' पद का संधि-विच्छेद क्या होगा ?",
+      "options": {
+        "A": "रौ + अनः",
+        "B": "रो + अणः",
+        "C": "रौ + अणः",
+        "D": "रौ + वणः"
+      },
+      "vikalpa": {
+        "A": "रौ + अनः",
+        "B": "रो + अणः",
+        "C": "रौ + अणः",
+        "D": "रौ + वणः"
+      }
+    },
+    {
+      "id": "obj_68",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'तस्य + इति' पद की संधि क्या होगी ?",
+      "prashna": "'तस्य + इति' पद की संधि क्या होगी ?",
+      "options": {
+        "A": "तस्यैति",
+        "B": "तस्याति",
+        "C": "तस्येति",
+        "D": "तस्येतिः"
+      },
+      "vikalpa": {
+        "A": "तस्यैति",
+        "B": "तस्याति",
+        "C": "तस्येति",
+        "D": "तस्येतिः"
+      }
+    },
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "पटना के विभिन्न नामों का उल्लेख करें ।",
+      "prashna": "(ड) पटना के विभिन्न नामों का उल्लेख करें ।",
+      "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "‘पवित्रम्’ किस संधि का उदाहरण है ?",
+      "prashna": "‘पवित्रम्’ किस संधि का उदाहरण है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है |",
+      "options": {
+        "A": "यण् संधि",
+        "B": "अयादि संधि",
+        "C": "गुण संधि",
+        "D": "दीर्घ संधि"
+      },
+      "vikalpa": {
+        "A": "यण् संधि",
+        "B": "अयादि संधि",
+        "C": "गुण संधि",
+        "D": "दीर्घ संधि"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "‘अ + इ’ के मेल से कौन-सा नया वर्ण बनेगा ?",
+      "prashna": "‘अ + इ’ के मेल से कौन-सा नया वर्ण बनेगा ?",
+      "options": {
+        "A": "आ",
+        "B": "ऐ",
+        "C": "ए",
+        "D": "ऋ"
+      },
+      "vikalpa": {
+        "A": "आ",
+        "B": "ऐ",
+        "C": "ए",
+        "D": "ऋ"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "‘पूर्वरूप संधि’ का उदाहरण कौन-सा है ?",
+      "prashna": "‘पूर्वरूप संधि’ का उदाहरण कौन-सा है ?",
+      "options": {
+        "A": "एकैक",
+        "B": "हरेऽव",
+        "C": "रावणः",
+        "D": "रमेन्द्रः"
+      },
+      "vikalpa": {
+        "A": "एकैक",
+        "B": "हरेऽव",
+        "C": "रावणः",
+        "D": "रमेन्द्रः"
+      }
+    },
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "‘खगेशः’ का सन्धि-विच्छेद क्या होगा ?",
+      "prashna": "‘खगेशः’ का सन्धि-विच्छेद क्या होगा ?",
+      "options": {
+        "A": "खग + एशः",
+        "B": "खग + ईशः",
+        "C": "खग + इशः",
+        "D": "खगे + शः"
+      },
+      "vikalpa": {
+        "A": "खग + एशः",
+        "B": "खग + ईशः",
+        "C": "खग + इशः",
+        "D": "खगे + शः"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "‘पटनेदेवी’ किस नगर में अवस्थित है ?",
+      "prashna": "‘पटनेदेवी’ किस नगर में अवस्थित है ?",
+      "options": {
+        "A": "वैशाली",
+        "B": "पटना",
+        "C": "राजगृह",
+        "D": "नालन्दा"
+      },
+      "vikalpa": {
+        "A": "वैशाली",
+        "B": "पटना",
+        "C": "राजगृह",
+        "D": "नालन्दा"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "यूनान का राजदूत कौन था ?",
+      "prashna": "यूनान का राजदूत कौन था ?",
+      "options": {
+        "A": "मेगास्थनीज",
+        "B": "हुयेनसांग",
+        "C": "फाह्यान",
+        "D": "इत्सिंग"
+      },
+      "vikalpa": {
+        "A": "मेगास्थनीज",
+        "B": "हुयेनसांग",
+        "C": "फाह्यान",
+        "D": "इत्सिंग"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "‘रावणः’ पद का संधि-विच्छेद क्या होगा ?",
+      "prashna": "‘रावणः’ पद का संधि-विच्छेद क्या होगा ?",
+      "options": {
+        "A": "रौ + अनः",
+        "B": "रो + अणः",
+        "C": "रौ + अणः",
+        "D": "रौ + वणः"
+      },
+      "vikalpa": {
+        "A": "रौ + अनः",
+        "B": "रो + अणः",
+        "C": "रौ + अणः",
+        "D": "रौ + वणः"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "‘तस्य + इति’ पद की संधि क्या होगी ?",
+      "prashna": "‘तस्य + इति’ पद की संधि क्या होगी ?",
+      "options": {
+        "A": "तस्यैति",
+        "B": "तस्याति",
+        "C": "तस्येति",
+        "D": "तस्येतिः"
+      },
+      "vikalpa": {
+        "A": "तस्यैति",
+        "B": "तस्याति",
+        "C": "तस्येति",
+        "D": "तस्येतिः"
+      }
+    },
+    {
+      "id": "obj_100",
+      "type": "objective",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "‘कौमुदी महोत्सव’ जैसा दृश्य किस अवसर पर दिखाई पड़ता है ?",
+      "prashna": "‘कौमुदी महोत्सव’ जैसा दृश्य किस अवसर पर दिखाई पड़ता है ?",
+      "options": {
+        "A": "छठपूजा",
+        "B": "दुर्गापूजा",
+        "C": "दीपावली",
+        "D": "वसंतपंचमी"
+      },
+      "vikalpa": {
+        "A": "छठपूजा",
+        "B": "दुर्गापूजा",
+        "C": "दीपावली",
+        "D": "वसंतपंचमी"
+      }
+    },
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "पटना के विभिन्न नामों का उल्लेख करें |",
+      "prashna": "पटना के विभिन्न नामों का उल्लेख करें |",
+      "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'इत्यादि' में किन-किन वर्णों की संधि हुई है ?",
+      "prashna": "'इत्यादि' में किन-किन वर्णों की संधि हुई है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "य + आ",
+        "B": "इ + आ",
+        "C": "आ + इ",
+        "D": "अ + इ"
+      },
+      "vikalpa": {
+        "A": "य + आ",
+        "B": "इ + आ",
+        "C": "आ + इ",
+        "D": "अ + इ"
+      }
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'पटना' का संधि-विच्छेद निम्न में कौन-सा है ?",
+      "prashna": "'पटना' का संधि-विच्छेद निम्न में कौन-सा है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "पटना + अति",
+        "B": "पटना + इति",
+        "C": "पटना + एति",
+        "D": "पटना + ऐति"
+      },
+      "vikalpa": {
+        "A": "पटना + अति",
+        "B": "पटना + इति",
+        "C": "पटना + एति",
+        "D": "पटना + ऐति"
+      }
+    },
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "यूनान के किस राजदूत ने अपने संस्मरण में पाटलिपुत्र का वर्णन किया है ?",
+      "prashna": "यूनान के किस राजदूत ने अपने संस्मरण में पाटलिपुत्र का वर्णन किया है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "हुयेनसांग",
+        "B": "फाह्यान",
+        "C": "इत्सिंग",
+        "D": "मेगास्थनीज"
+      },
+      "vikalpa": {
+        "A": "हुयेनसांग",
+        "B": "फाह्यान",
+        "C": "इत्सिंग",
+        "D": "मेगास्थनीज"
+      }
+    },
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "दीर्घ सन्धि का सूत्र निम्न में कौन-सा है ?",
+      "prashna": "दीर्घ सन्धि का सूत्र निम्न में कौन-सा है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "इकोयणचि",
+        "B": "अदेङ्गुणः",
+        "C": "अकः सवर्णे दीर्घः",
+        "D": "वृद्धिरेचि"
+      },
+      "vikalpa": {
+        "A": "इकोयणचि",
+        "B": "अदेङ्गुणः",
+        "C": "अकः सवर्णे दीर्घः",
+        "D": "वृद्धिरेचि"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'निष्क्रमणम्' का सन्धि-विच्छेद निम्न में कौन-सा है ?",
+      "prashna": "'निष्क्रमणम्' का सन्धि-विच्छेद निम्न में कौन-सा है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "निस + क्रमणम्",
+        "B": "निस् + क्रमणम्",
+        "C": "निः + क्रमणम्",
+        "D": "निष + क्रमणम्"
+      },
+      "vikalpa": {
+        "A": "निस + क्रमणम्",
+        "B": "निस् + क्रमणम्",
+        "C": "निः + क्रमणम्",
+        "D": "निष + क्रमणम्"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "पाटलिपुत्र में कौमुदी महोत्सव किस ऋतु में मनाया जाता था ?",
+      "prashna": "पाटलिपुत्र में कौमुदी महोत्सव किस ऋतु में मनाया जाता था ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "वसन्त",
+        "B": "हेमन्त",
+        "C": "शरद्",
+        "D": "ग्रीष्म"
+      },
+      "vikalpa": {
+        "A": "वसन्त",
+        "B": "हेमन्त",
+        "C": "शरद्",
+        "D": "ग्रीष्म"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'शिवोपासकः' में किन-किन वर्णों की संधि हुई है ?",
+      "prashna": "'शिवोपासकः' में किन-किन वर्णों की संधि हुई है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "ओ + अ",
+        "B": "अ + उ",
+        "C": "अ + ओ",
+        "D": "ओ + ओ"
+      },
+      "vikalpa": {
+        "A": "ओ + अ",
+        "B": "अ + उ",
+        "C": "अ + ओ",
+        "D": "ओ + ओ"
+      }
+    },
+    {
+      "id": "obj_51",
+      "type": "objective",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "पाटलिपुत्र किस नदी के किनारे अवस्थित है ?",
+      "prashna": "पाटलिपुत्र किस नदी के किनारे अवस्थित है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "सोन",
+        "B": "गण्डक",
+        "C": "पुनपुन",
+        "D": "गंगा"
+      },
+      "vikalpa": {
+        "A": "सोन",
+        "B": "गण्डक",
+        "C": "पुनपुन",
+        "D": "गंगा"
+      }
+    },
+    {
+      "id": "obj_62",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'जगद्गौरवम्' का सन्धि-विच्छेद निम्न में कौन-सा है ?",
+      "prashna": "'जगद्गौरवम्' का सन्धि-विच्छेद निम्न में कौन-सा है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "जगत् + गौरवम्",
+        "B": "जगद् + गौरवम्",
+        "C": "जगत + गौरवम्",
+        "D": "जग + गौरवम्"
+      },
+      "vikalpa": {
+        "A": "जगत् + गौरवम्",
+        "B": "जगद् + गौरवम्",
+        "C": "जगत + गौरवम्",
+        "D": "जग + गौरवम्"
+      }
+    },
+    {
+      "id": "obj_63",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'नरकस्येदम्' में कौन-सी संधि है ?",
+      "prashna": "'नरकस्येदम्' में कौन-सी संधि है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "स्वर",
+        "B": "व्यंजन",
+        "C": "विसर्ग",
+        "D": "जश्त्व"
+      },
+      "vikalpa": {
+        "A": "स्वर",
+        "B": "व्यंजन",
+        "C": "विसर्ग",
+        "D": "जश्त्व"
+      }
+    },
+    {
+      "id": "obj_99",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "'जगन्नाथः' का सन्धि-विच्छेद निम्न में कौन-सा है ?",
+      "prashna": "'जगन्नाथः' का सन्धि-विच्छेद निम्न में कौन-सा है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "जगन् + नाथः",
+        "B": "जगत + नाथः",
+        "C": "जग + न्नाथः",
+        "D": "जगत् + नाथः"
+      },
+      "vikalpa": {
+        "A": "जगन् + नाथः",
+        "B": "जगत + नाथः",
+        "C": "जग + न्नाथः",
+        "D": "जगत् + नाथः"
+      }
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "'भगवान् बुद्ध' पटना (पाटलिग्राम) के बारे में क्या कहे थे ?",
+      "prashna": "'भगवान् बुद्ध' पटना (पाटलिग्राम) के बारे में क्या कहे थे ?",
+      "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "पटना के मुख्य दर्शनीय स्थलों का नामोल्लेख करें।",
+      "prashna": "पटना के मुख्य दर्शनीय स्थलों का नामोल्लेख करें।",
+      "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "‘कौमुदी महोत्सव’ का आयोजन किस ऋतु में प्रचलित था ?",
+      "prashna": "‘कौमुदी महोत्सव’ का आयोजन किस ऋतु में प्रचलित था ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "ग्रीष्म ऋतु में",
+        "B": "शिशिर ऋतु में",
+        "C": "शरद ऋतु में",
+        "D": "वर्षा ऋतु में"
+      },
+      "vikalpa": {
+        "A": "ग्रीष्म ऋतु में",
+        "B": "शिशिर ऋतु में",
+        "C": "शरद ऋतु में",
+        "D": "वर्षा ऋतु में"
+      }
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "‘पटना’ शब्द की उत्पत्ति किस शब्द से हुई है ?",
+      "prashna": "‘पटना’ शब्द की उत्पत्ति किस शब्द से हुई है ?",
+      "options": {
+        "A": "पाटल से",
+        "B": "पाटन से",
+        "C": "पत्तन से",
+        "D": "पटन से"
+      },
+      "vikalpa": {
+        "A": "पाटल से",
+        "B": "पाटन से",
+        "C": "पत्तन से",
+        "D": "पटन से"
+      },
+      "instructions": "वस्तुनिष्ठ प्रश्न"
+    },
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Sandhi (Joining of Sounds)",
+      "question": "स्वर सन्धि के कितने प्रमुख भेद हैं ?",
+      "prashna": "स्वर सन्धि के कितने प्रमुख भेद हैं ?",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "3",
+        "D": "2"
+      },
+      "vikalpa": {
+        "A": "4",
+        "B": "5",
+        "C": "3",
+        "D": "2"
+      },
+      "instructions": "वस्तुनिष्ठ प्रश्न"
+    },
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "section": "Piyusham",
+      "chapter": "2",
+      "chapter_name": "Patliputra-vaibhavam",
+      "question": "‘पाटलिपुत्र’ किस प्रांत की राजधानी है ?",
+      "prashna": "‘पाटलिपुत्र’ किस प्रांत की राजधानी है ?",
+      "options": {
+        "A": "झारखण्ड की",
+        "B": "बिहार की",
+        "C": "केरल की",
+        "D": "पश्चिम बंगाल की"
+      },
+      "vikalpa": {
+        "A": "झारखण्ड की",
+        "B": "बिहार की",
+        "C": "केरल की",
+        "D": "पश्चिम बंगाल की"
+      },
+      "instructions": "वस्तुनिष्ठ प्रश्न"
     }
   ]
 }

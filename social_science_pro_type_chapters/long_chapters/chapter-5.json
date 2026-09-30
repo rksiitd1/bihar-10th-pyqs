@@ -1,62 +1,109 @@
 {
-  "2013": [
+  "2012": [
     {
       "id": "long_1_2",
       "type": "long_answer",
+      "section": "History",
       "chapter": "5",
-      "chapter_name": "Print Culture and the Modern World",
-      "question": "How did the Indian press affect the national movement?",
-      "prashna": "राष्ट्रीय आंदोलन को भारतीय प्रेस ने कैसे प्रभावित किया ?"
+      "chapter_name": "Economy and Livelihood",
+      "question": "Throw light on the changes occurring as a result of industrialization.",
+      "prashna": "औद्योगीकरण के परिणामस्वरूप होने वाले परिवर्तनों पर प्रकाश डालें।"
+    }
+  ],
+  "2014": [
+    {
+      "id": "long_15",
+      "type": "long_answer",
+      "section": "Geography",
+      "chapter": "5",
+      "chapter_name": "Bihar: Agriculture and Forest Resources",
+      "question": "\"Agriculture is the backbone of Bihar's economy.\" Explain this statement.",
+      "prashna": "\"कृषि बिहार की अर्थव्यवस्था की रीढ़ है।\" इस कथन की व्याख्या कीजिए।"
+    }
+  ],
+  "2018": [
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "section": "Economics",
+      "chapter": "5",
+      "chapter_name": "Employment and Services",
+      "question": "Explain with example, how non-government organisation (NGO) contributes towards the development of service sector?",
+      "prashna": "गैर - सरकारी संस्थाएँ किस प्रकार सेवा क्षेत्र के विकास को सहयोग करती है, उदाहरण के साथ लिखें।"
     }
   ],
   "2019": [
     {
-      "id": "long_2",
+      "id": "long_4",
       "type": "long_answer",
+      "section": "Civics",
       "chapter": "5",
-      "chapter_name": "Print Culture and the Modern World",
-      "question": "Write the characteristics of the Indian press.",
-      "prashna": "भारतीय प्रेस की विशेषताओं को लिखें।"
+      "chapter_name": "Popular Struggles and Movements",
+      "question": "Give a brief account of 'Right to Information Act $2005$' in your own words.",
+      "prashna": "सूचना के अधिकार अधिनियम-$2005$ का संक्षिप्त विवरण अपने शब्दों में दें।"
     }
   ],
   "2020": [
     {
-      "id": "long_7",
+      "id": "long_6",
       "type": "long_answer",
+      "section": "Economics",
       "chapter": "5",
-      "chapter_name": "Print Culture and the Modern World",
-      "question": "How did the printing revolution affect the modern world? Explain",
-      "prashna": "मुद्रण क्रांति ने आधुनिक विश्व को कैसे प्रभावित किया? वर्णन करें।"
+      "chapter_name": "Employment and Services",
+      "question": "Explain with example how India is known as service provider to the world.",
+      "prashna": "विश्व के लिए भारत सेवा प्रदाता के रूप में किस तरह जाना जाता है ? उदाहरण सहित लिखें।"
+    },
+    {
+      "id": "long_27",
+      "type": "long_answer",
+      "section": "Geography",
+      "chapter": "5",
+      "chapter_name": "Bihar: Agriculture and Forest Resources",
+      "question": "Explain four agricultural problems of Bihar",
+      "prashna": "बिहार की चार कृषि समस्याओं की व्याख्या करें।"
     }
   ],
   "2021": [
     {
-      "id": "long_7",
+      "id": "long_28",
       "type": "long_answer",
+      "section": "Geography",
       "chapter": "5",
-      "chapter_name": "Print Culture and the Modern World",
-      "question": "Review the role and impact of the press in the Indian National Movement.",
-      "prashna": "भारतीय राष्ट्रीय आंदोलन में प्रेस की भूमिका एवं प्रभावों की समीक्षा करें।"
-    }
-  ],
-  "2022": [
-    {
-      "id": "long_1",
-      "type": "long_answer",
-      "chapter": "5",
-      "chapter_name": "Print Culture and the Modern World",
-      "question": "How did the printing revolution affect the modern world?",
-      "prashna": "मुद्रण क्रांति ने आधुनिक विश्व को कैसे प्रभावित किया?"
+      "chapter_name": "Bihar: Agriculture and Forest Resources",
+      "question": "Discuss the problems of agriculture in Bihar.",
+      "prashna": "बिहार में कृषि की समस्याओं की विवेचना कीजिए।"
     }
   ],
   "2024": [
     {
+      "id": "long_2",
+      "type": "long_answer",
+      "section": "History",
+      "chapter": "5",
+      "chapter_name": "Economy and Livelihood",
+      "question": "How the series of inventions of machines paved the way for industrial revolution ?",
+      "prashna": "मशीनों के आविष्कारों की श्रृंखला ने औद्योगिक क्रांति का मार्ग किस प्रकार प्रशस्त किया ?"
+    }
+  ],
+  "2026": [
+    {
       "id": "long_1",
       "type": "long_answer",
+      "section": "History",
       "chapter": "5",
-      "chapter_name": "Print Culture and the Modern World",
-      "question": "How did print revolution assist the growth of Nationalism in India ?",
-      "prashna": "मुद्रण क्रांति ने भारत में राष्ट्रवाद के विकास में किस प्रकार सहायता की ?"
+      "chapter_name": "Economy and Livelihood",
+      "question": "What was the impact of industrialization on India ? Describe in brief.",
+      "prashna": "भारत पर औद्योगीकरण का क्या प्रभाव पड़ा ? संक्षेप में वर्णन करें।",
+      "instructions": "Question Nos. 7 and 8 are Long Answer Type. Answer any 1 of them. Each question carries 4 marks."
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "section": "History",
+      "chapter": "5",
+      "chapter_name": "Economy and Livelihood",
+      "question": "Describe the development of labour movement in India.",
+      "prashna": "भारत में मजदूर आन्दोलन के विकास का वर्णन करें।"
     }
   ]
 }

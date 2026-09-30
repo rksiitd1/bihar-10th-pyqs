@@ -14,6 +14,7 @@ logger = utils.setup_logger('process_hindi', 'logs/process_hindi.log')
 # --- Core Functions ---
 
 def generate_extraction_prompt(uploaded_file_uri: str) -> list:
+    pass
 
 
 def process_question_paper(input_pdf_path: str, output_json_path: str):
@@ -79,7 +80,7 @@ def process_question_paper(input_pdf_path: str, output_json_path: str):
     Begin processing now.
     """)
 
-    model = utils.get_generative_model(model_name="models/gemini-3-flash-preview")
+    model = utils.get_generative_model(model_name="models/gemini-3.8-flash")
     
     # Use the new file-aware utility
     response = utils.generate_content_from_file_with_retry(model, input_pdf_path, prompt_text, logger=logger)

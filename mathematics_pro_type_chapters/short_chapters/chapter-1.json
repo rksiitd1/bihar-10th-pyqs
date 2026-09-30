@@ -398,5 +398,47 @@
       "question": "Prove that $5 - \\sqrt{3}$ is an irrational number.",
       "prashna": "सिद्ध करें कि $5 - \\sqrt{3}$ एक अपरिमेय संख्या है।"
     }
+  ],
+  "2026": [
+    {
+      "id": "short_25",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Find the largest number which divides 245 and 1037, leaving remainder 5 in each case.",
+      "prashna": "वह सबसे बड़ी संख्या ज्ञात करें जिससे 245 तथा 1037 में भाग देने पर प्रत्येक स्थिति में शेषफल 5 प्राप्त हो।"
+    },
+    {
+      "id": "short_26",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Without actual division, show that the rational number \\frac{77}{210} is a non-terminating repeating decimal.",
+      "prashna": "बिना भाग की क्रिया किये सिद्ध करें कि परिमेय संख्या \\frac{77}{210} असांत आवर्ती दशमलव है।"
+    },
+    {
+      "id": "short_27",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Simplify : \\frac{2\\sqrt{27} + 3\\sqrt{12}}{4\\sqrt{3}}",
+      "prashna": "सरल करें : \\frac{2\\sqrt{27} + 3\\sqrt{12}}{4\\sqrt{3}}"
+    },
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Prove that 6 + \\sqrt{2} is an irrational number.",
+      "prashna": "सिद्ध करें कि 6 + \\sqrt{2} एक अपरिमेय संख्या है।"
+    },
+    {
+      "id": "short_24",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Using Euclid's division algorithm find the H.C.F. of 135 and 225.",
+      "prashna": "यूक्लिड विभाजन एल्गोरिथ्म का प्रयोग कर 135 और 225 का म०स० ज्ञात करें।"
+    }
   ]
 }

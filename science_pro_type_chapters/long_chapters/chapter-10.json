@@ -1,96 +1,30 @@
 {
-  "2012": [
+  "2014": [
     {
-      "id": "long_2",
+      "id": "long_1",
       "type": "long_answer",
       "chapter": "10",
-      "chapter_name": "The Human Eye and the Colourful World",
-      "question": "Describe myopia (near-sightedness) with a clear diagram.",
-      "prashna": "साफ चित्र द्वारा निकट दृष्टि दोष का वर्णन करें।"
+      "chapter_name": "Light – Reflection and Refraction",
+      "question": "The radius of curvature of a convex mirror used for rear view in an automobile is $5\text{ metres}$. If a bus is located at $5\text{ m}$ from this mirror, find the position, nature, and size of the image.",
+      "prashna": "किसी ऑटोमोबाइल में पीछे का दृश्य देखने के लिए उपयोग होने वाले उत्तर दर्पण की वक्रता त्रिज्या $5$ मीटर है। यदि एक बस इस दर्पण से $5$ मी की दूरी पर स्थित है तो प्रतिबिंब की स्थिति, प्रकृति तथा आकार ज्ञात करें।"
     }
   ],
-  "2016": [
+  "2015": [
     {
-      "id": "long_1_1",
+      "id": "long_1_2",
       "type": "long_answer",
       "chapter": "10",
-      "chapter_name": "The Human Eye and the Colourful World",
-      "question": "What is vision defect? Name its types. How can they be removed ?",
-      "prashna": "दृष्टि दोष क्या है ? यह कितने प्रकार के होते हैं ? इनका निवारण कैसे किया जाता है ?"
-    },
-    {
-      "id": "long_1_1",
-      "type": "long_answer",
-      "chapter": "10",
-      "chapter_name": "The Human Eye and the Colourful World",
-      "question": "What is a defect of vision? How many types are there? How are they corrected?",
-      "prashna": "दृष्टि दोष क्या है? यह कितने प्रकार के होते हैं? इनका निवारण कैसे किया जाता है?"
-    }
-  ],
-  "2018": [
-    {
-      "id": "long_1_1",
-      "type": "long_answer",
-      "chapter": "10",
-      "chapter_name": "The Human Eye and the Colourful World",
-      "question": "State types of defects of vision. Write these eye defects and their correction in brief. The far point of a myopic person is $80cm$ in front of the eye. What is the nature and power of the lens required to correct the problem?",
-      "prashna": "दृष्टि दोष के प्रकार लिखें। इन दोषों तथा उनके संशोधन के बारे में संक्षेप में लिखें। किसी निकट दृष्टि से पीड़ित व्यक्ति का दूर बिन्दु नेत्र के सामने $80 cm$ दूरी पर है। इस दोष को संशोधित करने के लिए आवश्यक लेंस की प्रकृति तथा क्षमता क्या होगी?",
-      "sub_questions": {
-        "a": "State types of defects of vision.",
-        "b": "Write these eye defects and their correction in brief.",
-        "c": "The far point of a myopic person is $80cm$ in front of the eye. What is the nature and power of the lens required to correct the problem?"
-      },
-      "anuprashna": {
-        "a": "दृष्टि दोष के प्रकार लिखें।",
-        "b": "इन दोषों तथा उनके संशोधन के बारे में संक्षेप में लिखें।",
-        "c": "किसी निकट दृष्टि से पीड़ित व्यक्ति का दूर बिन्दु नेत्र के सामने $80 cm$ दूरी पर है। इस दोष को संशोधित करने के लिए आवश्यक लेंस की प्रकृति तथा क्षमता क्या होगी?"
-      }
+      "chapter_name": "Light – Reflection and Refraction",
+      "question": "Prove $R = 2f$ in a concave mirror.",
+      "prashna": "अवतल दर्पण में $R = 2f$ सिद्ध करें।"
     },
     {
       "id": "long_1_2",
       "type": "long_answer",
       "chapter": "10",
-      "chapter_name": "The Human Eye and the Colourful World",
-      "question": "Answer the following questions:",
-      "prashna": "निम्नलिखित प्रश्नों के उत्तर दें:",
-      "sub_questions": {
-        "A": "What do you mean by scattering of Light?",
-        "B": "What is Spectrum of Light?",
-        "C": "Explain the dispersion of White light passing through a Glass Prism."
-      },
-      "anuprashna": {
-        "A": "प्रकाश के प्रकीर्णन से आप क्या समझते है?",
-        "B": "प्रकाश वर्ण-पट क्या है?",
-        "C": "काँच के प्रिज्म से गुजरते हुए श्वेत प्रकाश के वर्ण-विक्षेपण की व्याख्या करें।"
-      }
-    }
-  ],
-  "2019": [
-    {
-      "id": "long_1",
-      "type": "long_answer",
-      "chapter": "10",
-      "chapter_name": "The Human Eye and the Colourful World",
-      "question": "Answer the following sub-questions about human vision:",
-      "prashna": "मानव दृष्टि के बारे में निम्नलिखित अनुप्रश्नों के उत्तर दें:",
-      "sub_questions": {
-        "A": "Draw a well labelled diagram of human eye.",
-        "B": "How do ciliary muscles accommodate focal length of eye lens to see nearby objects and far objects?"
-      },
-      "anuprashna": {
-        "A": "मानव नेत्र का स्वच्छ नामांकित आरेख खींचें।",
-        "B": "किस प्रकार निकट रखी वस्तुओं और दूर रखी वस्तुओं को देखने के लिए पक्ष्माभी पेशियाँ अभिनेत्र लेंस की फोकस दूरी को समायोजित करती हैं?"
-      }
-    }
-  ],
-  "2020": [
-    {
-      "id": "long_1",
-      "type": "long_answer",
-      "chapter": "10",
-      "chapter_name": "The Human Eye and the Colourful World",
-      "question": "What is short sightedness (myopia)? What are its causes? Explain the method of removing this defect with diagram.",
-      "prashna": "निकट-दृष्टि दोष किसे कहते हैं ? इसके क्या कारण हैं ? इसके संशोधन की विधि को सचित्र समझायें।"
+      "chapter_name": "Light – Reflection and Refraction",
+      "question": "Prove $R = 2f$ for a concave mirror.",
+      "prashna": "अवतल दर्पण में $R = 2f$ सिद्ध करें।"
     }
   ],
   "2021": [
@@ -98,19 +32,65 @@
       "id": "long_1",
       "type": "long_answer",
       "chapter": "10",
-      "chapter_name": "The Human Eye and the Colourful World",
-      "question": "What do you understand by dispersion of light? Explain the formation of a rainbow.",
-      "prashna": "प्रकाश के वर्ण-विक्षेपण से आप क्या समझते हैं? इन्द्रधनुष की व्याख्या करें।"
+      "chapter_name": "Light – Reflection and Refraction",
+      "question": "The radius of curvature of a convex mirror used for rear-view in an automobile is $5 m$. If a bus is located at a distance of $5 m$ from this mirror, find the position, nature, and size of the image.",
+      "prashna": "किसी ऑटोमोबाइल में पीछे का दृश्य देखने के लिए उपयोग होने वाले उत्तल दर्पण की वक्रता त्रिज्या $5$ मीटर है। यदि एक बस इस दर्पण से $5$ मी की दूरी पर स्थित है तो प्रतिबिंव की स्थिति, प्रकृति तथा आकार ज्ञात करें।"
     }
   ],
-  "2025": [
+  "2022": [
     {
       "id": "long_1",
       "type": "long_answer",
       "chapter": "10",
-      "chapter_name": "The Human Eye and the Colourful World",
-      "question": "What are defects of vision? What are their types? How are the defects resolved?",
-      "prashna": "दृष्टिदोष क्या हैं ? यह कितने प्रकार के होते हैं ? इनका निवारण कैसे किया जाता है ?"
+      "chapter_name": "Light – Reflection and Refraction",
+      "question": "In a concave mirror prove that $\frac{1}, {v} + \frac{1}, {u} = \frac{1}, {f}$.",
+      "prashna": "एक अवतल दर्पण में सिद्ध करें कि $\frac{1}, {v} + \frac{1}, {u} = \frac{1}, {f}$।"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Light – Reflection and Refraction",
+      "question": "Describe a method to find the focal length of a convex lens.",
+      "prashna": "उत्तर रेंस की पोकस दयू ी ननकारने की एक विचध का िर्नथ कयें।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Light – Reflection and Refraction",
+      "question": "Prove for a concave mirror $\frac{1}, {v} + \frac{1}, {u} = \frac{1}, {f}$.",
+      "prashna": "एक अवतल दर्पण के लिए सिद्ध करें कि $\frac{1}, {v} + \frac{1}, {u} = \frac{1}, {f}$।"
+    },
+    {
+      "id": "long_9",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Light – Reflection and Refraction",
+      "question": "Define focus of a concave spherical mirror. Prove that in a concave mirror $R = 2f$.",
+      "prashna": "अवतल गोलीय दर्पण की फोकस की परिभाषा दें। एक अवतल गोलीय दर्पण में सिद्ध करें कि $R = 2f$।"
+    }
+  ],
+  "2025": [
+    {
+      "id": "long_10",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Light – Reflection and Refraction",
+      "question": "Describe a method to find the focal length of a convex lens.",
+      "prashna": "उत्तल लेंस की फोकस दूरी निकालने के लिए एक विधि का वर्णन करें।"
+    }
+  ],
+  "2026": [
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "10",
+      "chapter_name": "Light – Reflection and Refraction",
+      "question": "How will you identify the given convex lens, concave lens and a circular glass plate without touching their surfaces ?",
+      "prashna": "दिए गए उत्तल लेंस, अवतल लेंस एवं काँच की एक वृत्ताकार पट्टिका की सतहों को छुए बिना उनकी पहचान आप कैसे करेंगे ?"
     }
   ]
 }

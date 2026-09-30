@@ -3,8 +3,9 @@
     {
       "id": "poem_1",
       "type": "poem",
+      "section": "Panorama",
       "chapter": "10",
-      "chapter_name": "Dust of Snow (Poem)",
+      "chapter_name": "Ode on Solitude",
       "question": "Read carefully the stanza given below and answer the questions that follow:",
       "prashna": "नीचे दिए गए पद्यांश को ध्यानपूर्वक पढ़ें और उसके बाद आने वाले प्रश्नों के उत्तर दें:",
       "context": "Whose herd with milk, whose field with bread.\nWhose flock supply him with attire,\nWhose trees in summer yield him shade, in winter fire.",
@@ -19,6 +20,50 @@
         "2": "ये पंक्तियाँ किस कविता से ली गई हैं?",
         "3": "उसे रोटी कौन देता है?",
         "4": "उसे अपने कपड़े कहाँ से मिलते हैं?"
+      }
+    }
+  ],
+  "2017": [
+    {
+      "id": "poem_1",
+      "type": "poem",
+      "section": "Panorama",
+      "chapter": "10",
+      "chapter_name": "Ode on Solitude",
+      "context": "\"Happy the man whose wish and care. A few paternal acres bound Content to breathe his native air in his own ground\".",
+      "sub_questions": {
+        "1": "Who has composed this poem?",
+        "2": "Who is a happy man?",
+        "3": "Who does the pronoun 'his' in the third line of the first stanza refer to?",
+        "4": "What is the theme of the first stanza of this poem?"
+      },
+      "anuprashna": {
+        "1": "इस कविता की रचना किसने की है?",
+        "2": "खुशकिस्मत आदमी कौन है?",
+        "3": "पहले छंद की तीसरी पंक्ति में 'his' सर्वनाम किसके लिए है?",
+        "4": "इस कविता के पहले छंद का विषय क्या है?"
+      }
+    },
+    {
+      "id": "poem_1",
+      "type": "poem",
+      "section": "Panorama",
+      "chapter": "10",
+      "chapter_name": "Ode on Solitude",
+      "question": "Read carefully the stanza given below and answer the questions that follow:",
+      "prashna": "नीचे दिए गए पद्यांश को ध्यान से पढ़ें और उसके बाद आने वाले प्रश्नों के उत्तर दें:",
+      "context": "Happy the men whose wish and care.\nA few paternal acres bound\nContent to breathe his native air\nin his own ground",
+      "sub_questions": {
+        "1": "Who has composed this poem?",
+        "2": "Who is a happy man?",
+        "3": "Who does the pronoun 'his' in the third line of the first stanza refer to?",
+        "4": "What is the theme of the first stanza of this poem."
+      },
+      "anuprashna": {
+        "1": "इस कविता की रचना किसने की है?",
+        "2": "सुखी व्यक्ति कौन है?",
+        "3": "पहले छंद की तीसरी पंक्ति में सर्वनाम 'his' किसे संदर्भित करता है?",
+        "4": "इस कविता के पहले छंद का विषय क्या है?"
       }
     }
   ]

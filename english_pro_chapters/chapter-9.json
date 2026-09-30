@@ -1,73 +1,567 @@
 {
-  "2014": [
+  "2018": [
     {
-      "id": "letter_2_1",
-      "type": "letter",
+      "id": "obj_17",
+      "type": "objective",
+      "section": "Panorama",
       "chapter": "9",
-      "chapter_name": "The Proposal",
-      "question": "You are Vinay/Sunita, the Secretary of the drama society of your school. Write a notice to invite the students to watch a play in Hindi. Mention the title of the play, its writer, the venue and the time.",
-      "prashna": "आप अपने स्कूल की ड्रामा सोसाइटी के सचिव विनय/सुनीता हैं। छात्रों को हिंदी में नाटक देखने के लिए आमंत्रित करने हेतु एक सूचना (notice) लिखें। नाटक का शीर्षक, उसके लेखक, स्थान और समय का उल्लेख करें।"
+      "chapter_name": "God Made the Country",
+      "question": "According to the poet, health and virtue can be found in ............",
+      "prashna": "कवि के अनुसार, स्वास्थ्य और सद्गुण ............ में पाए जा सकते हैं।",
+      "options": {
+        "A": "towns",
+        "B": "cities",
+        "C": "villages",
+        "D": "factories"
+      },
+      "vikalpa": {
+        "A": "कस्बों",
+        "B": "शहरों",
+        "C": "गाँवों",
+        "D": "कारखानों"
+      }
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "section": "Panorama",
+      "chapter": "9",
+      "chapter_name": "God Made the Country",
+      "question": "Where do you find health and virtue?",
+      "prashna": "स्वास्थ्य और सद्गुण कहाँ पाए जाते हैं?"
+    }
+  ],
+  "2019": [
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "9",
+      "chapter_name": "God Made the Country",
+      "question": "According to poem 'God Made the Country', our life could be sweet if we possess -",
+      "prashna": "'गॉड मेड द कंट्री' कविता के अनुसार, हमारा जीवन मधुर हो सकता है यदि हमारे पास हो -",
+      "options": {
+        "A": "A lot of money and wealth",
+        "B": "Good health and virtue",
+        "C": "Good house and car",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "ढेर सारा पैसा और दौलत",
+        "B": "अच्छा स्वास्थ्य और सद्गुण",
+        "C": "अच्छा घर और गाड़ी",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "9",
+      "chapter_name": "God Made the Country",
+      "question": "According to poem 'God Made the Country', our life could be sweet if we possess -",
+      "prashna": "'गॉड मेड द कंट्री' कविता के अनुसार, हमारा जीवन मधुर हो सकता है यदि हमारे पास -",
+      "options": {
+        "A": "A lot of money and wealth",
+        "B": "Good health and virtue",
+        "C": "Good house and car",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "बहुत सारा पैसा और धन",
+        "B": "अच्छा स्वास्थ्य और सद्गुण",
+        "C": "अच्छा घर और कार",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "section": "Panorama",
+      "chapter": "9",
+      "chapter_name": "God Made the Country",
+      "question": "What is the source of light in villages in the evening according to the poem 'God Made the Country'?",
+      "prashna": "'गॉड मेड द कंट्री' कविता के अनुसार शाम के समय गाँवों में प्रकाश का स्रोत क्या है?"
+    }
+  ],
+  "2020": [
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "9",
+      "chapter_name": "God Made the Country",
+      "question": "Health and virtue can be found in the people of",
+      "prashna": "स्वास्थ्य और सद्गुण कहाँ के लोगों में पाया जा सकता है?",
+      "options": {
+        "A": "villages",
+        "B": "metropolitan cities",
+        "C": "towns",
+        "D": "big colonies"
+      },
+      "vikalpa": {
+        "A": "गाँवों के",
+        "B": "महानगरों के",
+        "C": "कस्बों के",
+        "D": "बड़ी कॉलोनियों के"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "9",
+      "chapter_name": "God Made the Country",
+      "question": "In the town, the nightingale is",
+      "prashna": "शहर में बुलबुल कैसी है?",
+      "options": {
+        "A": "happy",
+        "B": "scared",
+        "C": "mute",
+        "D": "sad"
+      },
+      "vikalpa": {
+        "A": "खुश",
+        "B": "डरी हुई",
+        "C": "मौन",
+        "D": "उदास"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "9",
+      "chapter_name": "God Made the Country",
+      "question": "God made the country and man made the",
+      "prashna": "ईश्वर ने गाँव बनाया और मनुष्य ने बनाया",
+      "options": {
+        "A": "house",
+        "B": "church",
+        "C": "town",
+        "D": "city"
+      },
+      "vikalpa": {
+        "A": "घर",
+        "B": "चर्च",
+        "C": "कस्बा",
+        "D": "शहर"
+      }
+    },
+    {
+      "id": "obj_46",
+      "type": "objective",
+      "section": "Grammar",
+      "chapter": "9",
+      "chapter_name": "Clauses",
+      "question": "He spoke as if he ... everything.",
+      "prashna": "वह ऐसा बोला मानो उसे सब कुछ पता हो।",
+      "options": {
+        "A": "knows",
+        "B": "knowing",
+        "C": "will know",
+        "D": "knew"
+      },
+      "vikalpa": {
+        "A": "जानता है",
+        "B": "जानता हुआ",
+        "C": "जानेगा",
+        "D": "जानता था"
+      }
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "9",
+      "chapter_name": "God Made the Country",
+      "question": "What is the poet's desire in 'God Made The Country'?",
+      "prashna": "'गॉड मेड द कंट्री' में कवि की क्या इच्छा है?",
+      "options": {
+        "A": "To enjoy luxury",
+        "B": "To enjoy in the countryside",
+        "C": "To eat good food",
+        "D": "To wear good clothes"
+      },
+      "vikalpa": {
+        "A": "विलासिता का आनंद लेना",
+        "B": "ग्रामीण इलाकों में आनंद लेना",
+        "C": "अच्छा खाना खाना",
+        "D": "अच्छे कपड़े पहनना"
+      }
+    },
+    {
+      "id": "obj_87",
+      "type": "objective",
+      "section": "Grammar",
+      "chapter": "9",
+      "chapter_name": "Clauses",
+      "question": "Choose the correct form of verb: We shall get wet if it…………..",
+      "prashna": "क्रिया का सही रूप चुनें: यदि ............ तो हम भीग जायेंगे।",
+      "options": {
+        "A": "rains",
+        "B": "raining",
+        "C": "rained",
+        "D": "will rains"
+      },
+      "vikalpa": {
+        "A": "बारिश होती है",
+        "B": "बारिश हो रही",
+        "C": "बारिश हुई",
+        "D": "बारिश होगी"
+      }
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "section": "Panorama",
+      "chapter": "9",
+      "chapter_name": "God Made the Country",
+      "question": "Why is the nightingale mute and dumb in big cities?",
+      "prashna": "बड़े शहरों में बुलबुल मौन और गूंगी क्यों है?"
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "9",
+      "chapter_name": "God Made the Country",
+      "question": "Who wrote the poem 'God Made the Country\"?",
+      "prashna": "कविता 'गॉड मेड द कंट्री' किसने लिखी है?",
+      "options": {
+        "A": "William Cowper",
+        "B": "William Wordsworth",
+        "C": "Alexander Pope",
+        "D": "Durga Prasad Panda"
+      },
+      "vikalpa": {
+        "A": "विलियम कॉपर",
+        "B": "विलियम वर्ड्सवर्थ",
+        "C": "अलेक्जेंडर पोप",
+        "D": "दुर्गा प्रसाद पांडा"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "9",
+      "chapter_name": "God Made the Country",
+      "question": "According to William Cowper, villages possess the gift of health and…………..that towns and cities can never have.",
+      "prashna": "विलियम कॉपर के अनुसार, गाँवों में स्वास्थ्य और ………….. का वह उपहार है जो कस्बों और शहरों में कभी नहीं हो सकता।",
+      "options": {
+        "A": "virtue",
+        "B": "perfection",
+        "C": "serenity",
+        "D": "materialism"
+      },
+      "vikalpa": {
+        "A": "सदाचार",
+        "B": "पूर्णता",
+        "C": "शांति",
+        "D": "भौतिकवाद"
+      }
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "section": "Panorama",
+      "chapter": "9",
+      "chapter_name": "God Made the Country",
+      "question": "(e) What does the poet say about the lamps in a town?",
+      "prashna": "(e) कवि शहर के दीपों के बारे में क्या कहता है?"
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "9",
+      "chapter_name": "God Made the Country",
+      "question": "Who wrote the poem 'God Made the Country'?",
+      "options": {
+        "A": "William Cowper",
+        "B": "William Wordsworth",
+        "C": "Alexander Pope",
+        "D": "John Keats"
+      },
+      "prashna": "'गॉड मेड द कंट्री' कविता किसने लिखी?",
+      "vikalpa": {
+        "A": "विलियम काउपर",
+        "B": "विलियम वर्ड्सवर्थ",
+        "C": "अलेक्जेंडर पोप",
+        "D": "जॉन कीट्स"
+      }
+    },
+    {
+      "id": "obj_53",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "9",
+      "chapter_name": "God Made the Country",
+      "question": "In the town, the nightingale is",
+      "options": {
+        "A": "sad",
+        "B": "scared",
+        "C": "happy",
+        "D": "mute"
+      },
+      "prashna": "शहर में, बुलबुल ... है।",
+      "vikalpa": {
+        "A": "दुखी",
+        "B": "डरी हुई",
+        "C": "खुश",
+        "D": "गूंगा"
+      }
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "section": "Panorama",
+      "chapter": "9",
+      "chapter_name": "God Made the Country",
+      "question": "Why does the poet believe that man made the town?",
+      "prashna": "कवि को क्यों विश्वास है कि मनुष्य ने शहर बनाया?"
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "section": "Panorama",
+      "chapter": "9",
+      "chapter_name": "God Made the Country",
+      "question": "What does the poet say about the lamps in a town?",
+      "prashna": "कवि शहर के लैंप के बारे में क्या कहते हैं?"
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "9",
+      "chapter_name": "God Made the Country",
+      "question": "William Cowper showed the deep respect for the ............... life.",
+      "prashna": "विलियम कूपर ने ............... जीवन के प्रति गहरा सम्मान दिखाया।",
+      "options": {
+        "A": "urban",
+        "B": "artificial",
+        "C": "luxurious",
+        "D": "rural"
+      },
+      "vikalpa": {
+        "A": "शहरी",
+        "B": "कृत्रिम",
+        "C": "विलासितापूर्ण",
+        "D": "ग्रामीण"
+      }
+    },
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "9",
+      "chapter_name": "God Made the Country",
+      "question": "Fields and groves, as mentioned in a poem, can be found in the",
+      "prashna": "एक कविता में उल्लिखित खेत और कुंज, कहाँ पाए जा सकते हैं?",
+      "options": {
+        "A": "towns",
+        "B": "cities",
+        "C": "countryside",
+        "D": "schools"
+      },
+      "vikalpa": {
+        "A": "कस्बों",
+        "B": "शहरों",
+        "C": "देहात",
+        "D": "स्कूलों"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "9",
+      "chapter_name": "God Made the Country",
+      "question": "The poet calls things like health and virtue.............",
+      "prashna": "कवि स्वास्थ्य और सद्गुण जैसी चीजों को ............ कहता है।",
+      "options": {
+        "A": "gifts",
+        "B": "prizes",
+        "C": "curse",
+        "D": "defects"
+      },
+      "vikalpa": {
+        "A": "उपहार",
+        "B": "पुरस्कार",
+        "C": "अभिशाप",
+        "D": "दोष"
+      }
     }
   ],
   "2024": [
     {
-      "id": "obj_17",
-      "type": "objective",
+      "id": "short_6",
+      "type": "short_answer",
+      "section": "Panorama",
       "chapter": "9",
-      "chapter_name": "The Proposal",
-      "question": "The old banker had given the party ... years ago.",
-      "prashna": "बूढ़े बैंकर ने ___ साल पहले पार्टी दी थी।",
+      "chapter_name": "God Made the Country",
+      "question": "Why is the nightingale, according to William Cowper, mute in a town?",
+      "prashna": "विलियम काउपर के अनुसार, शहर में बुलबुल क्यों मूक होती है?"
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "9",
+      "chapter_name": "God Made the Country",
+      "question": "‘God made the ____, and man made the town’.",
+      "prashna": "'भगवान ने ____ बनाया, और मनुष्य ने शहर बनाया'।",
       "options": {
-        "A": "15",
-        "B": "16",
-        "C": "20",
-        "D": "25"
+        "A": "city",
+        "B": "country",
+        "C": "woman",
+        "D": "town"
       },
       "vikalpa": {
-        "A": "15",
-        "B": "16",
-        "C": "20",
-        "D": "25"
+        "A": "शहर",
+        "B": "देश (गाँव)",
+        "C": "महिला",
+        "D": "कस्बा"
       }
     },
     {
-      "id": "obj_28",
+      "id": "obj_60",
       "type": "objective",
+      "section": "Panorama",
       "chapter": "9",
-      "chapter_name": "The Proposal",
-      "question": "The lawyer considered both capital punishment and life imprisonment",
-      "prashna": "वकील ने फांसी और आजीवन कारावास दोनों को ___ माना।",
+      "chapter_name": "God Made the Country",
+      "question": "‘And least be threatened in the fields and groves?___is from",
+      "prashna": "'और खेतों और उपवनों में कम से कम खतरा महसूस हो?' यह पंक्तियाँ कहाँ से हैं?",
       "options": {
-        "A": "good",
-        "B": "moral",
-        "C": "correct",
-        "D": "immoral"
+        "A": "Gold Made the Country",
+        "B": "Koel",
+        "C": "The Sleeping Porter",
+        "D": "Martha"
       },
       "vikalpa": {
-        "A": "अच्छा",
-        "B": "नैतिक",
-        "C": "सही",
-        "D": "अनैतिक"
+        "A": "गोल्ड मेड द कंट्री",
+        "B": "कोयल",
+        "C": "द स्लीपिंग पोर्टर",
+        "D": "मार्था"
       }
     },
     {
-      "id": "obj_59",
+      "id": "obj_5",
       "type": "objective",
+      "section": "Panorama",
       "chapter": "9",
-      "chapter_name": "The Proposal",
-      "question": "Chekhov wrote ... plays.",
-      "prashna": "चेखव ने ___ नाटक लिखे।",
+      "chapter_name": "God Made the Country",
+      "question": "In the ............... , according to Cowper, the nightingale is mute.",
+      "prashna": "काउपर के अनुसार, ............... में बुलबुल मौन है।",
       "options": {
-        "A": "12",
-        "B": "17",
-        "C": "19",
-        "D": "20"
+        "A": "village",
+        "B": "town",
+        "C": "house",
+        "D": "school"
       },
       "vikalpa": {
-        "A": "12",
-        "B": "17",
-        "C": "19",
-        "D": "20"
+        "A": "गाँव",
+        "B": "शहर",
+        "C": "घर",
+        "D": "स्कूल"
+      }
+    },
+    {
+      "id": "obj_51",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "9",
+      "chapter_name": "God Made the Country",
+      "question": "William Cowper says that ............... and virtue are gifts.",
+      "prashna": "विलियम काउपर कहते हैं कि ............... और पुण्य उपहार हैं।",
+      "options": {
+        "A": "wealth",
+        "B": "character",
+        "C": "strength",
+        "D": "health"
+      },
+      "vikalpa": {
+        "A": "धन",
+        "B": "चरित्र",
+        "C": "शक्ति",
+        "D": "स्वास्थ्य"
+      }
+    },
+    {
+      "id": "obj_55",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "9",
+      "chapter_name": "God Made the Country",
+      "question": "Good health and virtue can make our life ...............",
+      "prashna": "अच्छा स्वास्थ्य और पुण्य हमारे जीवन को ............... बना सकते हैं।",
+      "options": {
+        "A": "sweet",
+        "B": "bitter",
+        "C": "comfortable",
+        "D": "happy"
+      },
+      "vikalpa": {
+        "A": "मधुर",
+        "B": "कड़वा",
+        "C": "आरामदायक",
+        "D": "खुश"
+      }
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "9",
+      "chapter_name": "God Made the Country",
+      "question": "William Cowper says that ............... and virtue are gifts.",
+      "prashna": "विलियम काउपर कहते हैं कि ............... और सद्गुण उपहार हैं।",
+      "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
+      "options": {
+        "A": "wealth",
+        "B": "strength",
+        "C": "character",
+        "D": "health"
+      },
+      "vikalpa": {
+        "A": "धन",
+        "B": "ताकत",
+        "C": "चरित्र",
+        "D": "स्वास्थ्य"
+      }
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "9",
+      "chapter_name": "God Made the Country",
+      "question": "In the town, the nightingale is",
+      "prashna": "शहर में, बुलबुल (nightingale) ............... है।",
+      "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
+      "options": {
+        "A": "sad",
+        "B": "happy",
+        "C": "greedy",
+        "D": "wise"
+      },
+      "vikalpa": {
+        "A": "उदास",
+        "B": "प्रसन्न",
+        "C": "लालची",
+        "D": "बुद्धिमान"
       }
     }
   ]

@@ -23,22 +23,6 @@
       "type": "long_answer",
       "chapter": "8",
       "chapter_name": "Introduction to Trigonometry",
-      "question": "Prove that -",
-      "prashna": "सिद्ध करें -",
-      "sub_questions": {
-        "i": "$\\sin A (1 + \tan A) + \\cos A (1 + \\cot A) = \\sec A + \\csc A$",
-        "ii": "$\frac{\\sin \theta - \\cos \theta + 1}, {\\sin \theta + \\cos \theta - 1} = \frac{1}, {\\sec \theta - \tan \theta}$"
-      },
-      "anuprashna": {
-        "i": "$\\sin A (1 + \tan A) + \\cos A (1 + \\cot A) = \\sec A + \\csc A$",
-        "ii": "$\frac{\\sin \theta - \\cos \theta + 1}, {\\sin \theta + \\cos \theta - 1} = \frac{1}, {\\sec \theta - \tan \theta}$"
-      }
-    },
-    {
-      "id": "long_3_1",
-      "type": "long_answer",
-      "chapter": "8",
-      "chapter_name": "Introduction to Trigonometry",
       "question": "Prove that - (i) $\\sin A (1 + \tan A) + \\cos A (1 + \\cot A) = \\sec A + \\csc A$, (ii) $\frac{\\sin\theta - \\cos\theta + 1}, {\\sin\theta + \\cos\theta - 1} = \frac{1}, {\\sec\theta - \tan\theta}$.",
       "prashna": "सिद्ध करें - (i) $\\sin A (1 + \tan A) + \\cos A (1 + \\cot A) = \\sec A + \\csc A$, (ii) $\frac{\\sin\theta - \\cos\theta + 1}, {\\sin\theta + \\cos\theta - 1} = \frac{1}, {\\sec\theta - \tan\theta}$.",
       "sub_questions": {
@@ -159,6 +143,16 @@
       "chapter_name": "Introduction to Trigonometry",
       "question": "Prove that $\frac{(\\sec \theta - \tan \theta)}, {(\\sec \theta + \tan \theta)} = 1 + 2 \tan^2 \theta - 2 \\sec \theta \\cdot \tan \theta$.",
       "prashna": "सिद्ध करें कि $\frac{(\\sec \theta - \tan \theta)}, {(\\sec \theta + \tan \theta)} = 1 + 2 \tan^2 \theta - 2 \\sec \theta \\cdot \tan \theta$।"
+    }
+  ],
+  "2026": [
+    {
+      "id": "long_38",
+      "type": "long_answer",
+      "chapter": "8",
+      "chapter_name": "Introduction to Trigonometry",
+      "question": "Prove that \\left( \frac{1 - \tan \theta}, {1 - \\cot \theta} \right)^2 = \frac{1 + \tan^2 \theta}, {1 + \\cot^2 \theta} = \tan^2 \theta.",
+      "prashna": "सिद्ध करें कि \\left( \frac{1 - \tan \theta}, {1 - \\cot \theta} \right)^2 = \frac{1 + \tan^2 \theta}, {1 + \\cot^2 \theta} = \tan^2 \theta."
     }
   ]
 }

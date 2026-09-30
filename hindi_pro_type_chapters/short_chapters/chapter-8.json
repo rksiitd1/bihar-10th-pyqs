@@ -1,10 +1,23 @@
 {
+  "2016": [
+    {
+      "id": "short_answer_1_2",
+      "type": "short_answer",
+      "section": "Vyakaran",
+      "chapter": "8",
+      "chapter_name": "Adjective",
+      "instructions": "अथवा",
+      "question": "विशेषण और उसके भेदों को लिखें ।",
+      "prashna": "विशेषण और उसके भेदों को लिखें ।"
+    }
+  ],
   "2018": [
     {
       "id": "short_1",
       "type": "short_answer",
+      "section": "Godhuli",
       "chapter": "8",
-      "chapter_name": "Jeet-Jeet Main Nirakhat Hun (जीत-जीत मैं निरखत हूँ)",
+      "chapter_name": "Jit-Jit Main Nirakhat Hoon",
       "question": "बिरजू महाराज अपना सबसे बड़ा जज अपनी माँ को क्यों मानते थे?",
       "prashna": "बिरजू महाराज अपना सबसे बड़ा जज अपनी माँ को क्यों मानते थे?",
       "instructions": "निम्नलिखित प्रश्नों में से किन्हीं पाँच प्रश्नों के उत्तर लगभग 20-30 शब्दों में दें।"
@@ -14,8 +27,9 @@
     {
       "id": "short_2",
       "type": "short_answer",
+      "section": "Godhuli",
       "chapter": "8",
-      "chapter_name": "Jeet-Jeet Main Nirakhat Hun (जीत-जीत मैं निरखत हूँ)",
+      "chapter_name": "Jit-Jit Main Nirakhat Hoon",
       "question": "नृत्य की शिक्षा के लिए पहले-पहल बिरजू महाराज किस संस्था से जुड़े और वहाँ किनके संपर्क में आए?",
       "prashna": "नृत्य की शिक्षा के लिए पहले-पहल बिरजू महाराज किस संस्था से जुड़े और वहाँ किनके संपर्क में आए?",
       "instructions": "किन्हीं पाँच प्रश्नों के उत्तर लगभग 20-30 शब्दों में दें।"
@@ -25,8 +39,9 @@
     {
       "id": "short_2",
       "type": "short_answer",
+      "section": "Godhuli",
       "chapter": "8",
-      "chapter_name": "Jeet-Jeet Main Nirakhat Hun (जीत-जीत मैं निरखत हूँ)",
+      "chapter_name": "Jit-Jit Main Nirakhat Hoon",
       "question": "नृत्य की शिक्षा के लिए पहले-पहल बिरजू महाराज किस संस्था से जुड़े और वहाँ किनके संपर्क में आए?",
       "prashna": "नृत्य की शिक्षा के लिए पहले-पहल बिरजू महाराज किस संस्था से जुड़े और वहाँ किनके संपर्क में आए?",
       "instructions": "किन्हीं पाँच प्रश्नों के उत्तर लगभग 20-30 शब्दों में दें।"
@@ -36,11 +51,24 @@
     {
       "id": "short_4",
       "type": "short_answer",
+      "section": "Godhuli",
       "chapter": "8",
-      "chapter_name": "Jeet-Jeet Main Nirakhat Hun (जीत-जीत मैं निरखत हूँ)",
+      "chapter_name": "Jit-Jit Main Nirakhat Hoon",
       "instructions": "किन्हीं पाँच प्रश्नों के उत्तर दें।",
       "question": "अपने विवाह के बारे में बिरजू महाराज क्या बताते हैं ?",
       "prashna": "अपने विवाह के बारे में बिरजू महाराज क्या बताते हैं ?"
+    }
+  ],
+  "2026": [
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "section": "Godhuli",
+      "chapter": "8",
+      "chapter_name": "Jit-Jit Main Nirakhat Hoon",
+      "question": "बिरजू महाराज ने नृत्य की शिक्षा किसे और कब देनी शुरू की ?",
+      "prashna": "बिरजू महाराज ने नृत्य की शिक्षा किसे और कब देनी शुरू की ?",
+      "instructions": "निम्नलिखित प्रश्नों में से किन्हीं पाँच के उत्तर दें : (5 × 2 = 10)"
     }
   ]
 }

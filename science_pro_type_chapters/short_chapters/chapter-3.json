@@ -9,16 +9,6 @@
       "prashna": "धातुकर्म क्या है? इसके विभिन्न चरणों को लिखें।"
     }
   ],
-  "2013": [
-    {
-      "id": "short_12",
-      "type": "short_answer",
-      "chapter": "3",
-      "chapter_name": "Metals and Non-metals",
-      "question": "Write the anomalies of Mendeleev's periodic table.",
-      "prashna": "मेंडलीव के आवर्त सारणी के विसंगतियों को लिखें।"
-    }
-  ],
   "2014": [
     {
       "id": "short_11",
@@ -46,14 +36,6 @@
     }
   ],
   "2015": [
-    {
-      "id": "short_11",
-      "type": "short_answer",
-      "chapter": "3",
-      "chapter_name": "Metals and Non-metals",
-      "question": "What is the colour of $Na$ in the flame test?",
-      "prashna": "लौ परीक्षण में सोडियम का रंग कैसा होता है ?"
-    },
     {
       "id": "short_12",
       "type": "short_answer",
@@ -103,22 +85,6 @@
       "chapter_name": "Metals and Non-metals",
       "question": "Which metal is cut with the help of knife ?",
       "prashna": "चाकू की सहायता से किस धातु को काटा जाता है ?"
-    },
-    {
-      "id": "short_25",
-      "type": "short_answer",
-      "chapter": "3",
-      "chapter_name": "Metals and Non-metals",
-      "question": "What is valence electron ? Write number of the valence electron in sodium.",
-      "prashna": "संयोजी इलेक्ट्रॉन क्या है ? सोडियम परमाणु में स्थित संयोजी इलेक्ट्रॉन की संख्या लिखें।"
-    },
-    {
-      "id": "short_10",
-      "type": "short_answer",
-      "chapter": "3",
-      "chapter_name": "Metals and Non-metals",
-      "question": "What is a valence electron? Write the number of valence electrons in a sodium atom.",
-      "prashna": "संयोजी इलेक्ट्रॉन क्या है? सोडियम परमाणु में स्थित संयोजी इलेक्ट्रॉन की संख्या लिखें।"
     }
   ],
   "2017": [
@@ -137,22 +103,6 @@
       "chapter_name": "Metals and Non-metals",
       "question": "Write down the name of a non-metal which is found in liquid state at normal temperature.",
       "prashna": "एक ऐसे अधातु का नाम बताएं जो सामान्य ताप पर द्रव की अवस्था में पाया जाता है।"
-    },
-    {
-      "id": "short_14",
-      "type": "short_answer",
-      "chapter": "3",
-      "chapter_name": "Metals and Non-metals",
-      "question": "Write down the atomic number of calcium.",
-      "prashna": "कैल्शियम की परमाणु संख्या कितनी है?"
-    },
-    {
-      "id": "short_18",
-      "type": "short_answer",
-      "chapter": "3",
-      "chapter_name": "Metals and Non-metals",
-      "question": "Write down the anomalies of Mendeleev's Periodic Table.",
-      "prashna": "मेंडलीफ के आवर्तसारणी की विसंगतियों को लिखें।"
     }
   ],
   "2018": [
@@ -170,62 +120,6 @@
       "anuprashna": {
         "a": "सोडियम, पोटेशियम एवं लीथियम तेल के अंदर संग्रहीत किया जाता है।",
         "b": "ऐल्युमिनियम अत्यंत अभिक्रियाशील धातु है, फिर भी इसका उपयोग खाना बनाने वाले बर्तन बनाने के लिए किया जाता है।"
-      }
-    },
-    {
-      "id": "short_12",
-      "type": "short_answer",
-      "chapter": "3",
-      "chapter_name": "Metals and Non-metals",
-      "question": "Write the electronic configuration of Nitrogen (atomic number 7) and Phosphorus (atomic number 15). Which of these will be more electronegative?",
-      "prashna": "नाइट्रोजन (परमाणु संख्या 7) तथा फॉस्फोरस (परमाणु संख्या 15) का इलेक्ट्रॉनिक विन्यास लिखें। इनमें से कौन सा तत्व अधिक विद्युत ऋणात्मक होगा?"
-    },
-    {
-      "id": "short_9",
-      "type": "short_answer",
-      "chapter": "3",
-      "chapter_name": "Metals and Non-metals",
-      "question": "Write equations for the reactions of -",
-      "prashna": "इन अभिक्रियाओं के लिए समीकरण लिखिए -",
-      "sub_questions": {
-        "A": "Iron with Steam",
-        "B": "Calcium with Water"
-      },
-      "anuprashna": {
-        "A": "भाप के साथ लोहा",
-        "B": "जल के साथ कैल्सियम"
-      }
-    },
-    {
-      "id": "short_11",
-      "type": "short_answer",
-      "chapter": "3",
-      "chapter_name": "Metals and Non-metals",
-      "question": "Write electronic configuration of the following elements.",
-      "prashna": "निम्न तत्वों का इलेक्ट्रॉनिक विन्यास लिखें।",
-      "sub_questions": {
-        "A": "$Ca$",
-        "B": "$Cr$"
-      },
-      "anuprashna": {
-        "A": "$Ca$",
-        "B": "$Cr$"
-      }
-    },
-    {
-      "id": "short_12",
-      "type": "short_answer",
-      "chapter": "3",
-      "chapter_name": "Metals and Non-metals",
-      "question": "Answer the following:",
-      "prashna": "निम्नलिखित का उत्तर दें:",
-      "sub_questions": {
-        "A": "What happens when metals are burnt in air?",
-        "B": "What happen when metals react with water?"
-      },
-      "anuprashna": {
-        "A": "क्या होता है, जब धातुओं का वायु में दहन होता है?",
-        "B": "क्या होता है, जब धातुएँ जल के साथ अभिक्रिया करती हैं?"
       }
     }
   ],
@@ -251,32 +145,8 @@
       "type": "short_answer",
       "chapter": "3",
       "chapter_name": "Metals and Non-metals",
-      "question": "How the electronic configuration of an atom is related to its position in the Modern Periodic table?",
-      "prashna": "तत्वों के इलेक्ट्रॉनिक विन्यास का आधुनिक आवर्त सारणी में तत्व की स्थिति से क्या संबंध है?"
-    },
-    {
-      "id": "short_15",
-      "type": "short_answer",
-      "chapter": "3",
-      "chapter_name": "Metals and Non-metals",
       "question": "What happens when metals react with water?",
       "prashna": "धातुएँ जब जल के साथ अभिक्रिया करती हैं तो क्या होता है?"
-    },
-    {
-      "id": "short_17",
-      "type": "short_answer",
-      "chapter": "3",
-      "chapter_name": "Metals and Non-metals",
-      "question": "Answer the following:",
-      "prashna": "उत्तर दें:",
-      "sub_questions": {
-        "A": "What do you mean by valency?",
-        "B": "Write the valency of Magnesium."
-      },
-      "anuprashna": {
-        "A": "संयोजकता से आप क्या समझते हैं?",
-        "B": "मैग्नीशियम की संयोजकता लिखें।"
-      }
     }
   ],
   "2020": [
@@ -289,28 +159,12 @@
       "prashna": "ऐनोडीकरण क्या है ?"
     },
     {
-      "id": "short_14",
-      "type": "short_answer",
-      "chapter": "3",
-      "chapter_name": "Metals and Non-metals",
-      "question": "What happens when zinc is placed in iron sulphate solution? Write the chemical equation of the reaction.",
-      "prashna": "जिंक को आयरन सल्फेट के विलयन में डालने से क्या होता है ? अभिक्रिया का रासायनिक समीकरण लिखें।"
-    },
-    {
       "id": "short_11",
       "type": "short_answer",
       "chapter": "3",
       "chapter_name": "Metals and Non-metals",
       "question": "Write two differences between minerals and ores.",
       "prashna": "खनिज पदार्थ एवं अयस्कों के बीच दो अन्तरों को लिखें।"
-    },
-    {
-      "id": "short_13",
-      "type": "short_answer",
-      "chapter": "3",
-      "chapter_name": "Metals and Non-metals",
-      "question": "What is the name and atomic number of the element having electronic configuration 2, 8, 7 ?",
-      "prashna": "एक परमाणु का इलेक्ट्रॉनिक विन्यास 2, 8, 7 है, तो इस तत्व का नाम एवं परमाणु संख्या क्या है ?"
     }
   ],
   "2021": [
@@ -371,22 +225,6 @@
       "chapter_name": "Metals and Non-metals",
       "question": "How is iron protected from rusting ?",
       "prashna": "लोहे को जंग लगने से किस प्रकार बचाया जाता है ?"
-    },
-    {
-      "id": "short_11",
-      "type": "short_answer",
-      "chapter": "3",
-      "chapter_name": "Metals and Non-metals",
-      "question": "On what basis are elements arranged in the modern periodic table? How does the metallic character of elements change on moving from left to right in a period of the periodic table?",
-      "prashna": "आधनुकनक आितथ सायर्ी भें तत्त्िों को ककस आधाय ऩय सजामा गमा ह? ै आितथ सायर्ी के ककसी आितथ भें फाएॉ से दाएॉ जाने ऩय तत्त्िों के धाजत्िक गुर् ककस प्रकाय ऩरयिनततथ होते हैं?"
-    },
-    {
-      "id": "short_12",
-      "type": "short_answer",
-      "chapter": "3",
-      "chapter_name": "Metals and Non-metals",
-      "question": "Give any two examples of amphoteric oxides. Write their chemical equations for the reaction with acid and base.",
-      "prashna": "उबमधभी ऑक्साइड के कोई दो उदाहयर् दें। इनकी अम्र एिॊ ऺायक से अमबकक्रमा यासामननक सभीकयर् मरखी"
     }
   ],
   "2024": [
@@ -417,14 +255,6 @@
   ],
   "2025": [
     {
-      "id": "short_12",
-      "type": "short_answer",
-      "chapter": "3",
-      "chapter_name": "Metals and Non-metals",
-      "question": "What is the difference between an atom and an ion?",
-      "prashna": "परमाणु एवं आयन में क्या अंतर है ?"
-    },
-    {
       "id": "short_13",
       "type": "short_answer",
       "chapter": "3",
@@ -433,28 +263,38 @@
       "prashna": "अयस्क को परिभाषित करें।"
     },
     {
-      "id": "short_16",
-      "type": "short_answer",
-      "chapter": "3",
-      "chapter_name": "Metals and Non-metals",
-      "question": "What do you understand by short and long periods of periodic table?",
-      "prashna": "आवर्त सारणी के लघु एवं दीर्घ आवर्त से आप क्या समझते हैं ?"
-    },
-    {
       "id": "short_14",
       "type": "short_answer",
       "chapter": "3",
       "chapter_name": "Metals and Non-metals",
       "question": "Why is sodium metal kept immersed in kerosene ?",
       "prashna": "सोडियम धातु को केरोसिन में डुबोकर क्यों रखा जाता है ?"
+    }
+  ],
+  "2026": [
+    {
+      "id": "short_14",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Metals and Non-metals",
+      "question": "What are called minerals ?",
+      "prashna": "खनिज किसे कहते हैं ?"
     },
     {
       "id": "short_15",
       "type": "short_answer",
       "chapter": "3",
       "chapter_name": "Metals and Non-metals",
-      "question": "Which metallic property does graphite exhibit despite being a non-metal ?",
-      "prashna": "ग्रेफाइट अधातु होते हुए भी कौन-सा धातुई गुण प्रदर्शित करता है ?"
+      "question": "What is called ductility ?",
+      "prashna": "तन्यता किसे कहते हैं ?"
+    },
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Metals and Non-metals",
+      "question": "What are minerals ?",
+      "prashna": "खनिज किसे कहते हैं ?"
     }
   ]
 }

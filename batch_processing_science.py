@@ -1,3 +1,9 @@
+import sys
+try:
+    sys.stdout.reconfigure(encoding='utf-8')
+    sys.stderr.reconfigure(encoding='utf-8')
+except Exception:
+    pass
 import time
 from process_paper import process_question_paper
 import pathlib
@@ -44,7 +50,7 @@ def main():
     MAX_WORKERS = 4  # Number of parallel requests (adjust based on API limits)
     
     # List of years to process (2011-2025)
-    years = list(range(2025, 2010, -1))  # 2025 to 2011
+    years = list(range(2026, 2010, -1))  # 2026 to 2011
     shifts = ["i", "ii"]  # Shift suffixes
     input_folder = pathlib.Path("science_papers")
     output_folder = pathlib.Path("science_data")

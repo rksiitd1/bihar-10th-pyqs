@@ -3,28 +3,81 @@
     {
       "id": "short_answer_6",
       "type": "short_answer",
+      "section": "Godhuli",
       "chapter": "2",
-      "chapter_name": "Vish ke Dant (विष के दाँत)",
+      "chapter_name": "Vish ke Daant",
       "instructions": "9. मदन और ड्राइवर के बीच के विवाद के द्वारा कहानीकार क्या बताना चाहता है ? ( उत्तर 30 शब्दों में दें )",
       "question": "मदन और ड्राइवर के बीच के विवाद के द्वारा कहानीकार क्या बताना चाहता है ? ( उत्तर 30 शब्दों में दें )",
       "prashna": "मदन और ड्राइवर के बीच के विवाद के द्वारा कहानीकार क्या बताना चाहता है ? ( उत्तर 30 शब्दों में दें )"
     },
     {
+      "id": "short_answer_13",
+      "type": "short_answer",
+      "section": "Varnika",
+      "chapter": "2",
+      "chapter_name": "Dhate Vishwas",
+      "instructions": "18. लक्ष्मी की पारिवारिक परिस्थिति का वर्णन करें । ( उत्तर 40 शब्दों में दें )",
+      "question": "लक्ष्मी की पारिवारिक परिस्थिति का वर्णन करें । ( उत्तर 40 शब्दों में दें )",
+      "prashna": "लक्ष्मी की पारिवारिक परिस्थिति का वर्णन करें । ( उत्तर 40 शब्दों में दें )"
+    },
+    {
+      "id": "short_answer_14",
+      "type": "short_answer",
+      "section": "Varnika",
+      "chapter": "2",
+      "chapter_name": "Dhate Vishwas",
+      "instructions": "19. कहानी में आयी बाढ़ का चित्रण अपने शब्दों में करें । ( उत्तर 30 शब्दों में दें )",
+      "question": "कहानी में आयी बाढ़ का चित्रण अपने शब्दों में करें । ( उत्तर 30 शब्दों में दें )",
+      "prashna": "कहानी में आयी बाढ़ का चित्रण अपने शब्दों में करें । ( उत्तर 30 शब्दों में दें )"
+    },
+    {
       "id": "short_2",
       "type": "short_answer",
+      "section": "Godhuli",
       "chapter": "2",
-      "chapter_name": "Vish ke Dant",
+      "chapter_name": "Vish ke Daant",
       "instructions": "(उत्तर 30 शब्दों में दें)",
       "question": "मदन और ड्राइवर के बीच के विवाद के द्वारा कहानीकार क्या बताना चाहता है?",
       "prashna": "मदन और ड्राइवर के बीच के विवाद के द्वारा कहानीकार क्या बताना चाहता है?"
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "section": "Varnika",
+      "chapter": "2",
+      "chapter_name": "Dhate Vishwas",
+      "instructions": "(उत्तर 40 शब्दों में दें)",
+      "question": "लक्ष्मी की पारिवारिक स्थिति का वर्णन करें।",
+      "prashna": "लक्ष्मी की पारिवारिक स्थिति का वर्णन करें।"
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "section": "Varnika",
+      "chapter": "2",
+      "chapter_name": "Dhate Vishwas",
+      "instructions": "(उत्तर 30 शब्दों में दें)",
+      "question": "कहानी में आयी बाढ़ का चित्रण अपने शब्दों में करें।",
+      "prashna": "कहानी में आयी बाढ़ का चित्रण अपने शब्दों में करें।"
     }
   ],
   "2017": [
     {
+      "id": "short_1_alt",
+      "type": "short_answer",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "question": "अध्ययन - बनावट के विचार से शब्द के कितने भेद हैं? सोदाहरण लिखें।",
+      "prashna": "अध्ययन - बनावट के विचार से शब्द के कितने भेद हैं? सोदाहरण लिखें।",
+      "instructions": "5 marks (OR)"
+    },
+    {
       "id": "short_6",
       "type": "short_answer",
+      "section": "Godhuli",
       "chapter": "2",
-      "chapter_name": "Vish ke Dant",
+      "chapter_name": "Vish ke Daant",
       "question": "कार्य और मदन के बीच झगड़ों का कारण क्या था? इस प्रसंग के द्वारा लेखक क्या दिखाना चाहता है?",
       "prashna": "कार्य और मदन के बीच झगड़ों का कारण क्या था? इस प्रसंग के द्वारा लेखक क्या दिखाना चाहता है?",
       "instructions": "3 marks"
@@ -34,8 +87,9 @@
     {
       "id": "obj_21",
       "type": "objective",
+      "section": "Godhuli",
       "chapter": "2",
-      "chapter_name": "Vish ke Dant (विष के दाँत)",
+      "chapter_name": "Vish ke Daant",
       "question": "किसके अनुसार सेनों ने सिद्धांतों को भी बदल दिया था?",
       "prashna": "किसके अनुसार सेनों ने सिद्धांतों को भी बदल दिया था?",
       "options": {
@@ -50,14 +104,101 @@
         "C": "मदन के अनुसार",
         "D": "गिरधर के अनुसार"
       }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "section": "Varnika",
+      "chapter": "2",
+      "chapter_name": "Dhate Vishwas",
+      "question": "'ढहते विश्वास' किस भाषा से अनुदित है?",
+      "prashna": "'ढहते विश्वास' किस भाषा से अनुदित है?",
+      "options": {
+        "A": "कन्नड़",
+        "B": "तमिल",
+        "C": "उड़िया",
+        "D": "गुजराती"
+      },
+      "vikalpa": {
+        "A": "कन्नड़",
+        "B": "तमिल",
+        "C": "उड़िया",
+        "D": "गुजराती"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "section": "Varnika",
+      "chapter": "2",
+      "chapter_name": "Dhate Vishwas",
+      "question": "लक्ष्मी के बड़े पुत्र का क्या नाम था?",
+      "prashna": "लक्ष्मी के बड़े पुत्र का क्या नाम था?",
+      "options": {
+        "A": "अच्युत",
+        "B": "गुणनिधि",
+        "C": "लक्ष्मण",
+        "D": "शंकर"
+      },
+      "vikalpa": {
+        "A": "अच्युत",
+        "B": "गुणनिधि",
+        "C": "लक्ष्मण",
+        "D": "शंकर"
+      }
     }
   ],
   "2019": [
     {
+      "id": "obj_2",
+      "type": "objective",
+      "section": "Varnika",
+      "chapter": "2",
+      "chapter_name": "Dhate Vishwas",
+      "question": "लक्ष्मी....................कहानी की केन्द्रीय पात्र है।",
+      "prashna": "लक्ष्मी....................कहानी की केन्द्रीय पात्र है।",
+      "instructions": "प्रश्न संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से एक सही है। अपने द्वारा चुने गए सही विकल्प को OMR-शीट पर चिन्हित करें। (50×1=50)",
+      "options": {
+        "A": "ढहते विश्वास",
+        "B": "धरती कब तक घूरेगी",
+        "C": "माँ",
+        "D": "नगर"
+      },
+      "vikalpa": {
+        "A": "ढहते विश्वास",
+        "B": "धरती कब तक घूरेगी",
+        "C": "माँ",
+        "D": "नगर"
+      }
+    },
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "question": "शुद्ध शब्द है –",
+      "prashna": "शुद्ध शब्द है –",
+      "instructions": "प्रश्न संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से एक सही है। अपने द्वारा चुने गए सही विकल्प को OMR-शीट पर चिन्हित करें। (50×1=50)",
+      "options": {
+        "A": "अभिलाषा",
+        "B": "अभीलाषा",
+        "C": "अभिलासा",
+        "D": "अभीलासा"
+      },
+      "vikalpa": {
+        "A": "अभिलाषा",
+        "B": "अभीलाषा",
+        "C": "अभिलासा",
+        "D": "अभीलासा"
+      }
+    },
+    {
       "id": "obj_41",
       "type": "objective",
+      "section": "Godhuli",
       "chapter": "2",
-      "chapter_name": "Vish ke Dant (विष के दाँत)",
+      "chapter_name": "Vish ke Daant",
       "question": "खोखा के दाँत किसने तोड़े?",
       "prashna": "खोखा के दाँत किसने तोड़े?",
       "instructions": "प्रश्न संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से एक सही है। अपने द्वारा चुने गए सही विकल्प को OMR-शीट पर चिन्हित करें। (50×1=50)",
@@ -77,8 +218,9 @@
     {
       "id": "obj_48",
       "type": "objective",
+      "section": "Godhuli",
       "chapter": "2",
-      "chapter_name": "Vish ke Dant (विष के दाँत)",
+      "chapter_name": "Vish ke Daant",
       "question": "नलिन विलोचन शर्मा का जन्म....................ई. में हुआ।",
       "prashna": "नलिन विलोचन शर्मा का जन्म....................ई. में हुआ।",
       "instructions": "प्रश्न संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से एक सही है। अपने द्वारा चुने गए सही विकल्प को OMR-शीट पर चिन्हित करें। (50×1=50)",
@@ -96,10 +238,21 @@
       }
     },
     {
+      "id": "short_1",
+      "type": "short_answer",
+      "section": "Varnika",
+      "chapter": "2",
+      "chapter_name": "Dhate Vishwas",
+      "question": "लक्ष्मी कौन थी?",
+      "prashna": "लक्ष्मी कौन थी?",
+      "instructions": "निम्नलिखित प्रश्नों में से किन्हीं पाँच प्रश्नों के उत्तर लगभग 20 – 30 शब्दों में दें –"
+    },
+    {
       "id": "short_3",
       "type": "short_answer",
+      "section": "Godhuli",
       "chapter": "2",
-      "chapter_name": "Vish ke Dant (विष के दाँत)",
+      "chapter_name": "Vish ke Daant",
       "question": "खोखा किन मामलों में अपवाद था?",
       "prashna": "खोखा किन मामलों में अपवाद था?",
       "instructions": "निम्नलिखित प्रश्नों में से किन्हीं पाँच प्रश्नों के उत्तर लगभग 20 – 30 शब्दों में दें –"
@@ -107,10 +260,77 @@
   ],
   "2020": [
     {
+      "id": "obj_23",
+      "type": "objective",
+      "section": "Varnika",
+      "chapter": "2",
+      "chapter_name": "Dhate Vishwas",
+      "question": "लक्ष्मी के पति का क्या नाम है ?",
+      "prashna": "लक्ष्मी के पति का क्या नाम है ?",
+      "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 60 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
+      "options": {
+        "A": "वीरेन्द्र",
+        "B": "लक्ष्मण",
+        "C": "राजनेश",
+        "D": "महेश"
+      },
+      "vikalpa": {
+        "A": "वीरेन्द्र",
+        "B": "लक्ष्मण",
+        "C": "राजनेश",
+        "D": "महेश"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "section": "Varnika",
+      "chapter": "2",
+      "chapter_name": "Dhate Vishwas",
+      "question": "किस नदी के बाँध के नीचे लक्ष्मी का घर था ?",
+      "prashna": "किस नदी के बाँध के नीचे लक्ष्मी का घर था ?",
+      "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 60 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
+      "options": {
+        "A": "गंगा",
+        "B": "यमुना",
+        "C": "सरस्वती",
+        "D": "देवी"
+      },
+      "vikalpa": {
+        "A": "गंगा",
+        "B": "यमुना",
+        "C": "सरस्वती",
+        "D": "देवी"
+      }
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "section": "Varnika",
+      "chapter": "2",
+      "chapter_name": "Dhate Vishwas",
+      "question": "'सातकोड़ी होता' कथाकार हैं",
+      "prashna": "'सातकोड़ी होता' कथाकार हैं",
+      "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 60 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
+      "options": {
+        "A": "पंजाबी के",
+        "B": "गुजराती के",
+        "C": "उड़िया के",
+        "D": "हिन्दी के"
+      },
+      "vikalpa": {
+        "A": "पंजाबी के",
+        "B": "गुजराती के",
+        "C": "उड़िया के",
+        "D": "हिन्दी के"
+      }
+    },
+    {
       "id": "obj_42",
       "type": "objective",
+      "section": "Godhuli",
       "chapter": "2",
-      "chapter_name": "Vish ke Dant (विष के दाँत)",
+      "chapter_name": "Vish ke Daant",
       "question": "'विष के दाँत' कहानी के रचयिता कौन हैं ?",
       "prashna": "'विष के दाँत' कहानी के रचयिता कौन हैं ?",
       "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 60 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -130,8 +350,9 @@
     {
       "id": "obj_28",
       "type": "objective",
+      "section": "Godhuli",
       "chapter": "2",
-      "chapter_name": "Vish ke Dant (विष के दाँत)",
+      "chapter_name": "Vish ke Daant",
       "question": "सीमा, रजनी, आलो, शेफाली, आरती – पाँचों किसकी बहनें थीं ?",
       "prashna": "सीमा, रजनी, आलो, शेफाली, आरती – पाँचों किसकी बहनें थीं ?",
       "options": {
@@ -148,12 +369,44 @@
       }
     },
     {
+      "id": "obj_58",
+      "type": "objective",
+      "section": "Varnika",
+      "chapter": "2",
+      "chapter_name": "Dhate Vishwas",
+      "question": "लक्ष्मी का पति कौन था ?",
+      "prashna": "लक्ष्मी का पति कौन था ?",
+      "options": {
+        "A": "लक्ष्मण",
+        "B": "रंगप्पा",
+        "C": "रामेश्वर",
+        "D": "राम रतन"
+      },
+      "vikalpa": {
+        "A": "लक्ष्मण",
+        "B": "रंगप्पा",
+        "C": "रामेश्वर",
+        "D": "राम रतन"
+      }
+    },
+    {
       "id": "short_1",
       "type": "short_answer",
+      "section": "Godhuli",
       "chapter": "2",
-      "chapter_name": "Vish ke Dant (विष के दाँत)",
+      "chapter_name": "Vish ke Daant",
       "question": "काशू और मदन के बीच झगड़े का कारण क्या था?",
       "prashna": "काशू और मदन के बीच झगड़े का कारण क्या था?",
+      "instructions": "किन्हीं पाँच प्रश्नों के उत्तर लगभग 20-30 शब्दों में दें।"
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "section": "Varnika",
+      "chapter": "2",
+      "chapter_name": "Dhate Vishwas",
+      "question": "लक्ष्मण कहाँ नौकरी करता था?",
+      "prashna": "लक्ष्मण कहाँ नौकरी करता था?",
       "instructions": "किन्हीं पाँच प्रश्नों के उत्तर लगभग 20-30 शब्दों में दें।"
     }
   ],
@@ -161,8 +414,9 @@
     {
       "id": "obj_2",
       "type": "objective",
+      "section": "Godhuli",
       "chapter": "2",
-      "chapter_name": "Vish ke Dant (विष के दाँत)",
+      "chapter_name": "Vish ke Daant",
       "question": "'विष के दाँत' शीर्षक पाठ की विधा है?",
       "prashna": "'विष के दाँत' शीर्षक पाठ की विधा है?",
       "options": {
@@ -181,8 +435,9 @@
     {
       "id": "obj_15",
       "type": "objective",
+      "section": "Godhuli",
       "chapter": "2",
-      "chapter_name": "Vish ke Dant (विष के दाँत)",
+      "chapter_name": "Vish ke Daant",
       "question": "'मैं तो खोखा को इंजीनियर बनाने जा रहा हूँ'- यह कथन किसका है?",
       "prashna": "'मैं तो खोखा को इंजीनियर बनाने जा रहा हूँ'- यह कथन किसका है?",
       "options": {
@@ -199,19 +454,241 @@
       }
     },
     {
+      "id": "obj_30",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "question": "'आग' शब्द है",
+      "prashna": "'आग' शब्द है",
+      "options": {
+        "A": "तत्सम",
+        "B": "तद्भव",
+        "C": "देशज",
+        "D": "विदेशज"
+      },
+      "vikalpa": {
+        "A": "तत्सम",
+        "B": "तद्भव",
+        "C": "देशज",
+        "D": "विदेशज"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "section": "Varnika",
+      "chapter": "2",
+      "chapter_name": "Dhate Vishwas",
+      "question": "'ढहते विश्वास' कहानी में किस राज्य को बाढ़ एवं सूखा से प्रभावित दिखाया गया है?",
+      "prashna": "'ढहते विश्वास' कहानी में किस राज्य को बाढ़ एवं सूखा से प्रभावित दिखाया गया है?",
+      "options": {
+        "A": "उड़ीसा",
+        "B": "बिहार",
+        "C": "नेपाल",
+        "D": "केरल"
+      },
+      "vikalpa": {
+        "A": "उड़ीसा",
+        "B": "बिहार",
+        "C": "नेपाल",
+        "D": "केरल"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "section": "Varnika",
+      "chapter": "2",
+      "chapter_name": "Dhate Vishwas",
+      "question": "'ढहते विश्वास' कहानी में स्कूल कहाँ है?",
+      "prashna": "'ढहते विश्वास' कहानी में स्कूल कहाँ है?",
+      "options": {
+        "A": "पठार के नीचे",
+        "B": "टीले के नीचे",
+        "C": "पहाड़ के नीचे",
+        "D": "पेड़ के नीचे"
+      },
+      "vikalpa": {
+        "A": "पठार के नीचे",
+        "B": "टीले के नीचे",
+        "C": "पहाड़ के नीचे",
+        "D": "पेड़ के नीचे"
+      }
+    },
+    {
+      "id": "obj_61",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "question": "निम्न में शुद्ध शब्द है",
+      "prashna": "निम्न में शुद्ध शब्द है",
+      "options": {
+        "A": "शिव",
+        "B": "हिंदु",
+        "C": "मधुर",
+        "D": "सौहार्द्र"
+      },
+      "vikalpa": {
+        "A": "शिव",
+        "B": "हिंदु",
+        "C": "मधुर",
+        "D": "सौहार्द्र"
+      }
+    },
+    {
+      "id": "obj_70",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "question": "शुद्ध शब्द है",
+      "prashna": "शुद्ध शब्द है",
+      "options": {
+        "A": "गुणिन",
+        "B": "पती",
+        "C": "तत्कालिक",
+        "D": "प्रामाणिक"
+      },
+      "vikalpa": {
+        "A": "गुणिन",
+        "B": "पती",
+        "C": "तत्कालिक",
+        "D": "प्रामाणिक"
+      }
+    },
+    {
+      "id": "obj_97",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "question": "'खेत' शब्द है",
+      "prashna": "'खेत' शब्द है",
+      "options": {
+        "A": "विदेशज",
+        "B": "तद्भव",
+        "C": "देशज",
+        "D": "तत्सम"
+      },
+      "vikalpa": {
+        "A": "विदेशज",
+        "B": "तद्भव",
+        "C": "देशज",
+        "D": "तत्सम"
+      }
+    },
+    {
       "id": "short_2",
       "type": "short_answer",
+      "section": "Godhuli",
       "chapter": "2",
-      "chapter_name": "Vish ke Dant (विष के दाँत)",
+      "chapter_name": "Vish ke Daant",
       "question": "मदन हक्का-बक्का क्यों रह गया?",
       "prashna": "मदन हक्का-बक्का क्यों रह गया?",
       "instructions": "किन्हीं पाँच प्रश्नों के उत्तर प्रत्येक लगभग 20-30 शब्दों में दें।"
     },
     {
+      "id": "short_8",
+      "type": "short_answer",
+      "section": "Varnika",
+      "chapter": "2",
+      "chapter_name": "Dhate Vishwas",
+      "question": "नदी की बाढ़ का विकराल रूप देखने के बावजूद मनुष्य वहाँ से क्यों नहीं खिसका?",
+      "prashna": "नदी की बाढ़ का विकराल रूप देखने के बावजूद मनुष्य वहाँ से क्यों नहीं खिसका?",
+      "instructions": "किन्हीं पाँच प्रश्नों के उत्तर प्रत्येक लगभग 20-30 शब्दों में दें।"
+    },
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "section": "Varnika",
+      "chapter": "2",
+      "chapter_name": "Dhate Vishwas",
+      "question": "'ढहते विश्वास' कहानी के सम्पादक कौन हैं?",
+      "prashna": "'ढहते विश्वास' कहानी के सम्पादक कौन हैं?",
+      "options": {
+        "A": "ईश्वर पेटलीकर",
+        "B": "सातकोड़ी होता",
+        "C": "श्रीनिवास",
+        "D": "सुजाता"
+      },
+      "vikalpa": {
+        "A": "ईश्वर पेटलीकर",
+        "B": "सातकोड़ी होता",
+        "C": "श्रीनिवास",
+        "D": "सुजाता"
+      }
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "section": "Varnika",
+      "chapter": "2",
+      "chapter_name": "Dhate Vishwas",
+      "question": "लक्ष्मी के बड़े लड़के का नाम क्या था?",
+      "prashna": "लक्ष्मी के बड़े लड़के का नाम क्या था?",
+      "options": {
+        "A": "आदित्य",
+        "B": "अमित",
+        "C": "अमर",
+        "D": "अच्युत"
+      },
+      "vikalpa": {
+        "A": "आदित्य",
+        "B": "अमित",
+        "C": "अमर",
+        "D": "अच्युत"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "section": "Varnika",
+      "chapter": "2",
+      "chapter_name": "Dhate Vishwas",
+      "question": "'स्वेच्छासेवक दल' का गठन किसने किया?",
+      "prashna": "'स्वेच्छासेवक दल' का गठन किसने किया?",
+      "options": {
+        "A": "गुणनिधि ने",
+        "B": "लक्ष्मी ने",
+        "C": "सरपंच ने",
+        "D": "केशव ने"
+      },
+      "vikalpa": {
+        "A": "गुणनिधि ने",
+        "B": "लक्ष्मी ने",
+        "C": "सरपंच ने",
+        "D": "केशव ने"
+      }
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "section": "Varnika",
+      "chapter": "2",
+      "chapter_name": "Dhate Vishwas",
+      "question": "लक्ष्मण कहाँ नौकरी करता था?",
+      "prashna": "लक्ष्मण कहाँ नौकरी करता था?",
+      "options": {
+        "A": "बम्बई में",
+        "B": "मद्रास में",
+        "C": "कलकत्ता में",
+        "D": "दिल्ली में"
+      },
+      "vikalpa": {
+        "A": "बम्बई में",
+        "B": "मद्रास में",
+        "C": "कलकत्ता में",
+        "D": "दिल्ली में"
+      }
+    },
+    {
       "id": "obj_12",
       "type": "objective",
+      "section": "Godhuli",
       "chapter": "2",
-      "chapter_name": "Vish ke Dant (विष के दाँत)",
+      "chapter_name": "Vish ke Daant",
       "question": "मदन के लिए क्या खाना मामूली बात थी?",
       "prashna": "मदन के लिए क्या खाना मामूली बात थी?",
       "options": {
@@ -228,30 +705,11 @@
       }
     },
     {
-      "id": "obj_36",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Vish ke Dant (विष के दाँत)",
-      "question": "'दूध के दाँत न टूटना' मुहावरे का क्या अर्थ है?",
-      "prashna": "'दूध के दाँत न टूटना' मुहावरे का क्या अर्थ है?",
-      "options": {
-        "A": "अनुभवहीन",
-        "B": "दाँत न टूटना",
-        "C": "दाँत जमना",
-        "D": "दाँत टूटना"
-      },
-      "vikalpa": {
-        "A": "अनुभवहीन",
-        "B": "दाँत न टूटना",
-        "C": "दाँत जमना",
-        "D": "दाँत टूटना"
-      }
-    },
-    {
       "id": "obj_44",
       "type": "objective",
+      "section": "Godhuli",
       "chapter": "2",
-      "chapter_name": "Vish ke Dant (विष के दाँत)",
+      "chapter_name": "Vish ke Daant",
       "question": "नलीन विलोचन शर्मा द्वारा लिखित कहानी निम्न में कौन हैं?",
       "prashna": "नलीन विलोचन शर्मा द्वारा लिखित कहानी निम्न में कौन हैं?",
       "options": {
@@ -268,21 +726,181 @@
       }
     },
     {
+      "id": "obj_56",
+      "type": "objective",
+      "section": "Varnika",
+      "chapter": "2",
+      "chapter_name": "Dhate Vishwas",
+      "question": "किस लेखक के कथा साहित्य में उड़ीसा का जीवन गहरी आंतरिकता के साथ प्रकट हुआ है?",
+      "prashna": "किस लेखक के कथा साहित्य में उड़ीसा का जीवन गहरी आंतरिकता के साथ प्रकट हुआ है?",
+      "options": {
+        "A": "सातकोड़ी होता",
+        "B": "श्रीनिवास",
+        "C": "सुजाता",
+        "D": "ईश्वर पेटलीकर"
+      },
+      "vikalpa": {
+        "A": "सातकोड़ी होता",
+        "B": "श्रीनिवास",
+        "C": "सुजाता",
+        "D": "ईश्वर पेटलीकर"
+      }
+    },
+    {
+      "id": "obj_57",
+      "type": "objective",
+      "section": "Varnika",
+      "chapter": "2",
+      "chapter_name": "Dhate Vishwas",
+      "question": "कौन हल्ला कर बाढ़ से सबको सचेत कर रहे थे?",
+      "prashna": "कौन हल्ला कर बाढ़ से सबको सचेत कर रहे थे?",
+      "options": {
+        "A": "चंदरा",
+        "B": "गुणनिधि, अच्युत",
+        "C": "शंकर, मकरा",
+        "D": "इनमें से सभी"
+      },
+      "vikalpa": {
+        "A": "चंदरा",
+        "B": "गुणनिधि, अच्युत",
+        "C": "शंकर, मकरा",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_83",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "question": "'मोर' शब्द है.",
+      "prashna": "'मोर' शब्द है.",
+      "options": {
+        "A": "तत्सम",
+        "B": "तद्भव",
+        "C": "देशज",
+        "D": "विदेशज"
+      },
+      "vikalpa": {
+        "A": "तत्सम",
+        "B": "तद्भव",
+        "C": "देशज",
+        "D": "विदेशज"
+      }
+    },
+    {
       "id": "short_1",
       "type": "short_answer",
+      "section": "Godhuli",
       "chapter": "2",
-      "chapter_name": "Vish ke Dant (विष के दाँत)",
+      "chapter_name": "Vish ke Daant",
       "question": "काशू और मदन के बीच झगड़े का कारण क्या था?",
       "prashna": "काशू और मदन के बीच झगड़े का कारण क्या था?",
+      "instructions": "किन्हीं पाँच प्रश्नों के उत्तर लगभग 20-30 शब्दों में दें।"
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "section": "Varnika",
+      "chapter": "2",
+      "chapter_name": "Dhate Vishwas",
+      "question": "लक्ष्मण कहाँ नौकरी करता था?",
+      "prashna": "लक्ष्मण कहाँ नौकरी करता था?",
       "instructions": "किन्हीं पाँच प्रश्नों के उत्तर लगभग 20-30 शब्दों में दें।"
     }
   ],
   "2022": [
     {
+      "id": "obj_8",
+      "type": "objective",
+      "section": "Varnika",
+      "chapter": "2",
+      "chapter_name": "Dhate Vishwas",
+      "instructions": "किन्हीं 50 प्रश्नों के उत्तर दें।",
+      "question": "लक्ष्मी अपनी दोनों लड़कियों और छोटे बेटे को सुलाकर कहाँ गयी ?",
+      "prashna": "लक्ष्मी अपनी दोनों लड़कियों और छोटे बेटे को सुलाकर कहाँ गयी ?",
+      "options": {
+        "A": "खलिहान में",
+        "B": "गुहाल में",
+        "C": "रसोई में",
+        "D": "कमरे में"
+      },
+      "vikalpa": {
+        "A": "खलिहान में",
+        "B": "गुहाल में",
+        "C": "रसोई में",
+        "D": "कमरे में"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "question": "'पंख' शब्द है",
+      "prashna": "'पंख' शब्द है",
+      "options": {
+        "A": "तत्सम",
+        "B": "तद्भव",
+        "C": "देशज",
+        "D": "विदेशज"
+      },
+      "vikalpa": {
+        "A": "तत्सम",
+        "B": "तद्भव",
+        "C": "देशज",
+        "D": "विदेशज"
+      }
+    },
+    {
+      "id": "obj_44",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "question": "निम्न में शुद्ध शब्द कौन है ?",
+      "prashna": "निम्न में शुद्ध शब्द कौन है ?",
+      "options": {
+        "A": "हासील",
+        "B": "हितैशी",
+        "C": "सौहार्द",
+        "D": "हिंग"
+      },
+      "vikalpa": {
+        "A": "हासील",
+        "B": "हितैशी",
+        "C": "सौहार्द",
+        "D": "हिंग"
+      }
+    },
+    {
+      "id": "obj_49",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "question": "'भिक्षा' शब्द है",
+      "prashna": "'भिक्षा' शब्द है",
+      "options": {
+        "A": "तत्सम",
+        "B": "तद्भव",
+        "C": "देशज",
+        "D": "विदेशज"
+      },
+      "vikalpa": {
+        "A": "तत्सम",
+        "B": "तद्भव",
+        "C": "देशज",
+        "D": " विदेशज"
+      }
+    },
+    {
       "id": "obj_52",
       "type": "objective",
+      "section": "Godhuli",
       "chapter": "2",
-      "chapter_name": "Vish ke Dant (विष के दाँत)",
+      "chapter_name": "Vish ke Daant",
       "question": "सेन साहब की पाँचों लड़कियाँ कैसी थीं ?",
       "prashna": "सेन साहब की पाँचों लड़कियाँ कैसी थीं ?",
       "options": {
@@ -299,21 +917,246 @@
       }
     },
     {
+      "id": "obj_75",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "question": "निम्न में शुद्ध शब्द कौन है ?",
+      "prashna": "निम्न में शुद्ध शब्द कौन है ?",
+      "options": {
+        "A": "देहिक",
+        "B": "गुप्त",
+        "C": "गुणि",
+        "D": "तत्व"
+      },
+      "vikalpa": {
+        "A": "देहिक",
+        "B": "गुप्त",
+        "C": "गुणि",
+        "D": "तत्व"
+      }
+    },
+    {
+      "id": "obj_99",
+      "type": "objective",
+      "section": "Varnika",
+      "chapter": "2",
+      "chapter_name": "Dhate Vishwas",
+      "question": "बारी-बारी से गाँव के लड़के किसकी निगरानी कर रहे हैं ?",
+      "prashna": "बारी-बारी से गाँव के लड़के किसकी निगरानी कर रहे हैं ?",
+      "options": {
+        "A": "दलेई बाँध की",
+        "B": "गाँव की",
+        "C": "नदी की",
+        "D": "मंदिर की"
+      },
+      "vikalpa": {
+        "A": "दलेई बाँध की",
+        "B": "गाँव की",
+        "C": "नदी की",
+        "D": "मंदिर की"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "question": "निम्न में शुद्ध शब्द कौन है ?",
+      "prashna": "निम्न में शुद्ध शब्द कौन है ?",
+      "options": {
+        "A": "शक्ति",
+        "B": "महत्त्व",
+        "C": "मरन",
+        "D": "महत्त्वाकांक्षा"
+      },
+      "vikalpa": {
+        "A": "शक्ति",
+        "B": "महत्त्व",
+        "C": "मरन",
+        "D": "महत्त्वाकांक्षा"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "question": "व्युत्पत्ति की दृष्टि से शब्द के कितने भेद हैं ?",
+      "prashna": "व्युत्पत्ति की दृष्टि से शब्द के कितने भेद हैं ?",
+      "options": {
+        "A": "दो",
+        "B": "तीन",
+        "C": "चार",
+        "D": "पाँच"
+      },
+      "vikalpa": {
+        "A": "दो",
+        "B": "तीन",
+        "C": "चार",
+        "D": "पाँच"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "question": "निम्न में शुद्ध शब्द कौन है ?",
+      "prashna": "निम्न में शुद्ध शब्द कौन है ?",
+      "options": {
+        "A": "यशलाभ",
+        "B": "सम्वरण",
+        "C": "सदोपदेश",
+        "D": "स्वयंवर"
+      },
+      "vikalpa": {
+        "A": "यशलाभ",
+        "B": "सम्वरण",
+        "C": "सदोपदेश",
+        "D": "स्वयंवर"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "question": "'पिंजड़ा' शब्द है",
+      "prashna": "'पिंजड़ा' शब्द है",
+      "options": {
+        "A": "तत्सम",
+        "B": "तद्भव",
+        "C": "देशज",
+        "D": "विदेशज"
+      },
+      "vikalpa": {
+        "A": "त्सम",
+        "B": "तद्भव",
+        "C": "देशज",
+        "D": "विदेशज"
+      }
+    },
+    {
+      "id": "obj_76",
+      "type": "objective",
+      "section": "Varnika",
+      "chapter": "2",
+      "chapter_name": "Dhate Vishwas",
+      "question": "सातकोड़ी होता का जन्म कब हुआ था ?",
+      "prashna": "सातकोड़ी होता का जन्म कब हुआ था ?",
+      "options": {
+        "A": "24 अक्टूबर, 1927 ई०",
+        "B": "11 अक्टूबर, 1928 ई०",
+        "C": "29 अक्टूबर, 1929 ई०",
+        "D": "30 अक्टूबर, 1930 ई०"
+      },
+      "vikalpa": {
+        "A": "24 अक्टूबर, 1927 ई०",
+        "B": "11 अक्टूबर, 1928 ई०",
+        "C": "29 अक्टूबर, 1929 ई०",
+        "D": "30 अक्टूबर, 1930 ई०"
+      }
+    },
+    {
       "id": "short_2",
       "type": "short_answer",
+      "section": "Godhuli",
       "chapter": "2",
-      "chapter_name": "Vish ke Dant (विष के दाँत)",
+      "chapter_name": "Vish ke Daant",
       "question": "आपकी दृष्टि में 'विष के दाँत' शीर्षक कहानी का नायक कौन है ? क्यों ?",
       "prashna": "आपकी दृष्टि में 'विष के दाँत' शीर्षक कहानी का नायक कौन है ? क्यों ?",
+      "instructions": "निम्नलिखित प्रश्नों में से किसी पाँच प्रश्नों के उत्तर प्रत्येक लगभग 20-30 शब्दों में दें :"
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "section": "Varnika",
+      "chapter": "2",
+      "chapter_name": "Dhate Vishwas",
+      "question": "लक्ष्मी कौन थी ? उसके पति का क्या नाम था ?",
+      "prashna": "लक्ष्मी कौन थी ? उसके पति का क्या नाम था ?",
       "instructions": "निम्नलिखित प्रश्नों में से किसी पाँच प्रश्नों के उत्तर प्रत्येक लगभग 20-30 शब्दों में दें :"
     }
   ],
   "2023": [
     {
+      "id": "obj_7",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "question": "निम्नलिखित में से शुद्ध शब्द कौन है?",
+      "prashna": "निम्नलिखित में से शुद्ध शब्द कौन है?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "भिष्म",
+        "B": "बिधी",
+        "C": "प्रान",
+        "D": "दधीचि"
+      },
+      "vikalpa": {
+        "A": "भिष्म",
+        "B": "बिधी",
+        "C": "प्रान",
+        "D": "दधीचि"
+      }
+    },
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "question": "'वाष्प' क्या है?",
+      "prashna": "'वाष्प' क्या है?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "तत्सम",
+        "B": "तद्भव",
+        "C": "देशज",
+        "D": "विदेशज"
+      },
+      "vikalpa": {
+        "A": "तत्सम",
+        "B": "तद्भव",
+        "C": "देशज",
+        "D": "विदेशज"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "question": "ऐसे शब्द, जो यौगिक तो होते हैं, पर अर्थ के विचार से अपने सामान्य अर्थ को छोड़कर किसी परंपरा से विशेष अर्थ के परिचायक हैं, क्या कहलाते हैं?",
+      "prashna": "ऐसे शब्द, जो यौगिक तो होते हैं, पर अर्थ के विचार से अपने सामान्य अर्थ को छोड़कर किसी परंपरा से विशेष अर्थ के परिचायक हैं, क्या कहलाते हैं?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "यौगिक शब्द",
+        "B": "रूढ़ शब्द",
+        "C": "योगरूढ़ शब्द",
+        "D": "इनमें से कोई नहीं"
+      },
+      "vikalpa": {
+        "A": "यौगिक शब्द",
+        "B": "रूढ़ शब्द",
+        "C": "योगरूढ़ शब्द",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
       "id": "obj_44",
       "type": "objective",
+      "section": "Godhuli",
       "chapter": "2",
-      "chapter_name": "Vish ke Dant (विष के दाँत)",
+      "chapter_name": "Vish ke Daant",
       "question": "'विष के दाँत' शीर्षक पाठ किस कहानी संग्रह से लिया गया है?",
       "prashna": "'विष के दाँत' शीर्षक पाठ किस कहानी संग्रह से लिया गया है?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
@@ -331,21 +1174,165 @@
       }
     },
     {
+      "id": "obj_92",
+      "type": "objective",
+      "section": "Varnika",
+      "chapter": "2",
+      "chapter_name": "Dhate Vishwas",
+      "question": "सातकोड़ी होता किस भाषा के प्रमुख कथाकार हैं?",
+      "prashna": "सातकोड़ी होता किस भाषा के प्रमुख कथाकार हैं?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "पंजाबी",
+        "B": "अंग्रेजी",
+        "C": "उड़िया",
+        "D": "हिन्दी"
+      },
+      "vikalpa": {
+        "A": "पंजाबी",
+        "B": "अंग्रेजी",
+        "C": "उड़िया",
+        "D": "हिन्दी"
+      }
+    },
+    {
+      "id": "obj_93",
+      "type": "objective",
+      "section": "Varnika",
+      "chapter": "2",
+      "chapter_name": "Dhate Vishwas",
+      "question": "‘ढहते विश्वास' शीर्षक कहानी में, तूफान में किसका घर टूट गया था?",
+      "prashna": "‘ढहते विश्वास' शीर्षक कहानी में, तूफान में किसका घर टूट गया था?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "गुणनिधि का",
+        "B": "सरपंच का",
+        "C": "तहसीलदार का",
+        "D": "लक्ष्मी का"
+      },
+      "vikalpa": {
+        "A": "गुणनिधि का",
+        "B": "सरपंच का",
+        "C": "तहसीलदार का",
+        "D": "लक्ष्मी का"
+      }
+    },
+    {
+      "id": "obj_100",
+      "type": "objective",
+      "section": "Varnika",
+      "chapter": "2",
+      "chapter_name": "Dhate Vishwas",
+      "question": "कटक शहर को बाढ़ की चपेट से बचाने के लिए किसने पत्थर का बाँध बँधवाया था?",
+      "prashna": "कटक शहर को बाढ़ की चपेट से बचाने के लिए किसने पत्थर का बाँध बँधवाया था?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "राजा खारवेल ने",
+        "B": "राजा ओड ने",
+        "C": "महाराज ययाति केशरी ने",
+        "D": "राजा स्कन्दवर्मन ने"
+      },
+      "vikalpa": {
+        "A": "राजा खारवेल ने",
+        "B": "राजा ओड ने",
+        "C": "महाराज ययाति केशरी ने",
+        "D": "राजा स्कन्दवर्मन ने"
+      }
+    },
+    {
       "id": "short_1",
       "type": "short_answer",
+      "section": "Godhuli",
       "chapter": "2",
-      "chapter_name": "Vish ke Dant (विष के दाँत)",
+      "chapter_name": "Vish ke Daant",
       "question": "काशू और मदन के बीच झगड़े का कारण क्या था? इस प्रसंग के द्वारा लेखक क्या दिखाना चाहते हैं? 'विष के दाँत' शीर्षक पाठ के आधार पर उत्तर दें।",
       "prashna": "काशू और मदन के बीच झगड़े का कारण क्या था? इस प्रसंग के द्वारा लेखक क्या दिखाना चाहते हैं? 'विष के दाँत' शीर्षक पाठ के आधार पर उत्तर दें।",
       "instructions": "निम्नलिखित प्रश्नों में से किन्हीं पाँच प्रश्नों के उत्तर प्रत्येक लगभग 20-30 शब्दों में दें:"
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "section": "Varnika",
+      "chapter": "2",
+      "chapter_name": "Dhate Vishwas",
+      "question": "लक्ष्मी कौन थी और उसका घर कहाँ था? 'ढहते विश्वास' शीर्षक कहानी के अनुसार लिखें।",
+      "prashna": "लक्ष्मी कौन थी और उसका घर कहाँ था? 'ढहते विश्वास' शीर्षक कहानी के अनुसार लिखें।",
+      "instructions": "किन्हीं पाँच का उत्तर दें।"
     }
   ],
   "2025": [
     {
+      "id": "obj_10",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "instructions": "किन्हीं 50 प्रश्नों के उत्तर दें।",
+      "question": "निम्नलिखित में कौन शुद्ध शब्द है ?",
+      "prashna": "निम्नलिखित में कौन शुद्ध शब्द है ?",
+      "options": {
+        "A": "क्रित्रिम",
+        "B": "धुआँ",
+        "C": "सुरज",
+        "D": "वाहिनी"
+      },
+      "vikalpa": {
+        "A": "क्रित्रिम",
+        "B": "धुआँ",
+        "C": "सुरज",
+        "D": "वाहिनी"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "instructions": "किन्हीं 50 प्रश्नों के उत्तर दें।",
+      "question": "'मानवता' किस शब्द का उदाहरण है ?",
+      "prashna": "'मानवता' किस शब्द का उदाहरण है ?",
+      "options": {
+        "A": "रूढ़",
+        "B": "यौगिक",
+        "C": "योगरूढ़",
+        "D": "इनमें से कोई नहीं"
+      },
+      "vikalpa": {
+        "A": "रूढ़",
+        "B": "यौगिक",
+        "C": "योगरूढ़",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "instructions": "किन्हीं 50 प्रश्नों के उत्तर दें।",
+      "question": "'खलिहान' किस शब्द का उदाहरण है ?",
+      "prashna": "'खलिहान' किस शब्द का उदाहरण है ?",
+      "options": {
+        "A": "तत्सम",
+        "B": "तद्भव",
+        "C": "देशज",
+        "D": "विदेशज"
+      },
+      "vikalpa": {
+        "A": "तत्सम",
+        "B": "तद्भव",
+        "C": "देशज",
+        "D": "विदेशज"
+      }
+    },
+    {
       "id": "obj_39",
       "type": "objective",
+      "section": "Godhuli",
       "chapter": "2",
-      "chapter_name": "Vish ke Dant (विष के दाँत)",
+      "chapter_name": "Vish ke Daant",
       "instructions": "किन्हीं 50 प्रश्नों के उत्तर दें।",
       "question": "नलिन विलोचन शर्मा के अनुसार महल और झोपड़ी वालों की लड़ाई में अक्सर कौन जीतते हैं ?",
       "prashna": "नलिन विलोचन शर्मा के अनुसार महल और झोपड़ी वालों की लड़ाई में अक्सर कौन जीतते हैं ?",
@@ -365,17 +1352,61 @@
     {
       "id": "short_1",
       "type": "short_answer",
+      "section": "Godhuli",
       "chapter": "2",
-      "chapter_name": "Vish ke Dant (विष के दाँत)",
+      "chapter_name": "Vish ke Daant",
       "instructions": "निम्नलिखित प्रश्नों में से किन्हीं पाँच प्रश्नों के उत्तर दें : (5 x 2 = 10)",
       "question": "सेन साहब की लड़कियों के नाम लिखें ।",
       "prashna": "सेन साहब की लड़कियों के नाम लिखें ।"
     },
     {
+      "id": "obj_23",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "question": "'सूर्य' किस शब्द का उदाहरण है ?",
+      "prashna": "'सूर्य' किस शब्द का उदाहरण है ?",
+      "options": {
+        "A": "तत्सम",
+        "B": "तद्भव",
+        "C": "देशज",
+        "D": "विदेशज"
+      },
+      "vikalpa": {
+        "A": "तत्सम",
+        "B": "तद्भव",
+        "C": "देशज",
+        "D": "विदेशज"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "question": "'जलज' किस शब्द का उदाहरण है ?",
+      "prashna": "'जलज' किस शब्द का उदाहरण है ?",
+      "options": {
+        "A": "रूढ़",
+        "B": "देशज",
+        "C": "योगरूढ़",
+        "D": "इनमें से कोई नहीं"
+      },
+      "vikalpa": {
+        "A": "रूढ़",
+        "B": "देशज",
+        "C": "योगरूढ़",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
       "id": "obj_39",
       "type": "objective",
+      "section": "Godhuli",
       "chapter": "2",
-      "chapter_name": "Vish ke Dant (विष के दाँत)",
+      "chapter_name": "Vish ke Daant",
       "question": "मदन पड़ोसियों के आवारागर्द छोकरों के साथ क्या कर रहा था ?",
       "prashna": "मदन पड़ोसियों के आवारागर्द छोकरों के साथ क्या कर रहा था ?",
       "options": {
@@ -390,6 +1421,321 @@
         "C": "लट्टू नचा रहा था",
         "D": "चोर-सिपाही खेल रहा था"
       }
+    },
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "question": "निम्नलिखित में कौन शुद्ध शब्द है ?",
+      "prashna": "निम्नलिखित में कौन शुद्ध शब्द है ?",
+      "options": {
+        "A": "सुचिपत्र",
+        "B": "छिपकिली",
+        "C": "कुमुदिनी",
+        "D": "कठीनायी"
+      },
+      "vikalpa": {
+        "A": "सुचिपत्र",
+        "B": "छिपकिली",
+        "C": "कुमुदिनी",
+        "D": "कठीनायी"
+      }
+    },
+    {
+      "id": "obj_90",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "question": "निम्नलिखित में कौन अशुद्ध शब्द है ?",
+      "prashna": "निम्नलिखित में कौन अशुद्ध शब्द है ?",
+      "options": {
+        "A": "त्योहार",
+        "B": "बीमारी",
+        "C": "शताब्दी",
+        "D": "स्थायी"
+      },
+      "vikalpa": {
+        "A": "त्योहार",
+        "B": "बीमारी",
+        "C": "शताब्दी",
+        "D": "स्थायी"
+      }
+    },
+    {
+      "id": "obj_93",
+      "type": "objective",
+      "section": "Varnika",
+      "chapter": "2",
+      "chapter_name": "Dhate Vishwas",
+      "question": "'ढहते विश्वास' में किस बाँध के टूटने का प्रसंग आया है ?",
+      "prashna": "'ढहते विश्वास' में किस बाँध के टूटने का प्रसंग आया है ?",
+      "options": {
+        "A": "दलेई बाँध",
+        "B": "फरक्का बाँध",
+        "C": "सिरकुरा बाँध",
+        "D": "भीमताल बाँध"
+      },
+      "vikalpa": {
+        "A": "दलेई बाँध",
+        "B": "फरक्का बाँध",
+        "C": "सिरकुरा बाँध",
+        "D": "भीमताल बाँध"
+      }
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "section": "Varnika",
+      "chapter": "2",
+      "chapter_name": "Dhate Vishwas",
+      "instructions": "निम्नलिखित प्रश्नों में से किन्हीं पाँच प्रश्नों के उत्तर दें : (5 x 2 = 10)",
+      "question": "बाढ़ आने के पहले लक्ष्मी ने क्या किया ?",
+      "prashna": "बाढ़ आने के पहले लक्ष्मी ने क्या किया ?"
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "question": "निम्न में कौन तत्सम शब्द है ?",
+      "prashna": "निम्न में कौन तत्सम शब्द है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
+      "options": {
+        "A": "बच्चा",
+        "B": "मोर",
+        "C": "सूर्य",
+        "D": "आग"
+      },
+      "vikalpa": {
+        "A": "बच्चा",
+        "B": "मोर",
+        "C": "सूर्य",
+        "D": "आग"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "section": "Godhuli",
+      "chapter": "2",
+      "chapter_name": "Vish ke Daant",
+      "question": "नलिन विलोचन शर्मा की माता का नाम क्या था ?",
+      "prashna": "नलिन विलोचन शर्मा की माता का नाम क्या था ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
+      "options": {
+        "A": "प्रभावती शर्मा",
+        "B": "लीलावती शर्मा",
+        "C": "रत्नावती शर्मा",
+        "D": "दुर्गावती शर्मा"
+      },
+      "vikalpa": {
+        "A": "प्रभावती शर्मा",
+        "B": "लीलावती शर्मा",
+        "C": "रत्नावती शर्मा",
+        "D": "दुर्गावती शर्मा"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "question": "निम्न में कौन देशज शब्द है ?",
+      "prashna": "निम्न में कौन देशज शब्द है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
+      "options": {
+        "A": "खिचड़ी",
+        "B": "कीमत",
+        "C": "ईमान",
+        "D": "सुमन"
+      },
+      "vikalpa": {
+        "A": "खिचड़ी",
+        "B": "कीमत",
+        "C": "ईमान",
+        "D": "सुमन"
+      }
+    },
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "section": "Varnika",
+      "chapter": "2",
+      "chapter_name": "Dhate Vishwas",
+      "question": "'ढहते विश्वास' शीर्षक पाठ में लक्ष्मी तहसीलदार साहब के यहाँ काम क्यों करती थी ?",
+      "prashna": "'ढहते विश्वास' शीर्षक पाठ में लक्ष्मी तहसीलदार साहब के यहाँ काम क्यों करती थी ?",
+      "instructions": "निम्नलिखित प्रश्नों में से किन्हीं पाँच प्रश्नों के उत्तर दें : (5 × 2 = 10)"
+    },
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "question": "निम्न में कौन रूढ़ शब्द है ?",
+      "prashna": "निम्न में कौन रूढ़ शब्द है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
+      "options": {
+        "A": "गगनचुम्बी",
+        "B": "वारिद",
+        "C": "धन",
+        "D": "जलज"
+      },
+      "vikalpa": {
+        "A": "गगनचुम्बी",
+        "B": "वारिद",
+        "C": "धन",
+        "D": "जलज"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "question": "निम्न में कौन तद्भव शब्द है ?",
+      "prashna": "निम्न में कौन तद्भव शब्द है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
+      "options": {
+        "A": "घृत",
+        "B": "ग्रामीण",
+        "C": "आलस",
+        "D": "कपाट"
+      },
+      "vikalpa": {
+        "A": "घृत",
+        "B": "ग्रामीण",
+        "C": "आलस",
+        "D": "कपाट"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "question": "निम्न में कौन देशज शब्द है ?",
+      "prashna": "निम्न में कौन देशज शब्द है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
+      "options": {
+        "A": "ओष्ठ",
+        "B": "आँख",
+        "C": "गुण",
+        "D": "खटिया"
+      },
+      "vikalpa": {
+        "A": "ओष्ठ",
+        "B": "आँख",
+        "C": "गुण",
+        "D": "खटिया"
+      }
+    },
+    {
+      "id": "obj_62",
+      "type": "objective",
+      "section": "Godhuli",
+      "chapter": "2",
+      "chapter_name": "Vish ke Daant",
+      "question": "नलिन विलोचन शर्मा के पिता का नाम क्या था ?",
+      "prashna": "नलिन विलोचन शर्मा के पिता का नाम क्या था ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
+      "options": {
+        "A": "पं० रमापति शर्मा",
+        "B": "पं० राजाभिराम शर्मा",
+        "C": "पं० राजनंदन शर्मा",
+        "D": "पं० रामावतार शर्मा"
+      },
+      "vikalpa": {
+        "A": "पं० रमापति शर्मा",
+        "B": "पं० राजाभिराम शर्मा",
+        "C": "पं० राजनंदन शर्मा",
+        "D": "पं० रामावतार शर्मा"
+      }
+    },
+    {
+      "id": "obj_63",
+      "type": "objective",
+      "section": "Godhuli",
+      "chapter": "2",
+      "chapter_name": "Vish ke Daant",
+      "question": "'विष के दाँत' शीर्षक पाठ में गिरधरलाल कहाँ रहता था ?",
+      "prashna": "'विष के दाँत' शीर्षक पाठ में गिरधरलाल कहाँ रहता था ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
+      "options": {
+        "A": "अहाते के बंगले में",
+        "B": "झुग्गी-झोपड़ी में",
+        "C": "अहाते के एक कोने 'आउटहाउस' में",
+        "D": "अपने मकान में"
+      },
+      "vikalpa": {
+        "A": "अहाते के बंगले में",
+        "B": "झुग्गी-झोपड़ी में",
+        "C": "अहाते के एक कोने 'आउटहाउस' में",
+        "D": "अपने मकान में"
+      }
+    },
+    {
+      "id": "obj_78",
+      "type": "objective",
+      "section": "Varnika",
+      "chapter": "2",
+      "chapter_name": "Dhate Vishwas",
+      "question": "'ढहते विश्वास' शीर्षक पाठ में लक्ष्मी का घर कहाँ था ?",
+      "prashna": "'ढहते विश्वास' शीर्षक पाठ में लक्ष्मी का घर कहाँ था ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
+      "options": {
+        "A": "टिहरी बाँध के नीचे",
+        "B": "देवी नदी के बाँध के नीचे",
+        "C": "कोसी नदी के किनारे",
+        "D": "गंगा नदी के किनारे"
+      },
+      "vikalpa": {
+        "A": "टिहरी बाँध के नीचे",
+        "B": "देवी नदी के बाँध के नीचे",
+        "C": "कोसी नदी के किनारे",
+        "D": "गंगा नदी के किनारे"
+      }
+    },
+    {
+      "id": "obj_86",
+      "type": "objective",
+      "section": "Godhuli",
+      "chapter": "2",
+      "chapter_name": "Vish ke Daant",
+      "question": "'विष के दाँत' शीर्षक पाठ की विधा है",
+      "prashna": "'विष के दाँत' शीर्षक पाठ की विधा है",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
+      "options": {
+        "A": "कविता",
+        "B": "कहानी",
+        "C": "निबंध",
+        "D": "जीवनी"
+      },
+      "vikalpa": {
+        "A": "कविता",
+        "B": "कहानी",
+        "C": "निबंध",
+        "D": "जीवनी"
+      }
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "section": "Varnika",
+      "chapter": "2",
+      "chapter_name": "Dhate Vishwas",
+      "question": "'ढहते विश्वास' नामक पाठ में लक्ष्मी गुहाल में क्या करने गयी थी ?",
+      "prashna": "'ढहते विश्वास' नामक पाठ में लक्ष्मी गुहाल में क्या करने गयी थी ?",
+      "instructions": "निम्नलिखित प्रश्नों में से किन्हीं पाँच के उत्तर दें : (5 × 2 = 10)"
     }
   ]
 }

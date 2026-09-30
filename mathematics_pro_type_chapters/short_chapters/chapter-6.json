@@ -55,6 +55,14 @@
       "prashna": "एक समबाहु त्रिभुज की परिमिति $30$ सेमी. है इसका क्षेत्रफल ज्ञात कीजिए ।"
     },
     {
+      "id": "short_25",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "The height of a right angle triangle is $7$ cm less than its base. If hypotenuse is $13$ cm then find the value of remaining two sides.",
+      "prashna": "एक समकोण त्रिभुज की ऊँचाई आधार से $7$ सेमी. कम है । यदि कर्ण $13$ सेमी. का हो तो अन्य दो भुजाओं का मान ज्ञात करें ।"
+    },
+    {
       "id": "short_26",
       "type": "short_answer",
       "chapter": "6",
@@ -81,28 +89,12 @@
   ],
   "2018": [
     {
-      "id": "short_9",
-      "type": "short_answer",
-      "chapter": "6",
-      "chapter_name": "Triangles",
-      "question": "In the given figure. Find $\\angle P$",
-      "prashna": "दिये गए चित्र में $\\angle P$ ज्ञात करें।"
-    },
-    {
       "id": "short_10",
       "type": "short_answer",
       "chapter": "6",
       "chapter_name": "Triangles",
       "question": "If $\triangle ABC$ and $\triangle DEF$ are similar, such that $AB = 1.2\text{cm}$ and $DE = 1.4\text{cm}$, find the ratio of areas of $\triangle ABC$ and $\triangle DEF$.",
       "prashna": "यदि $\triangle ABC$ तथा $\triangle DEF$ समरूप है, जहाँ $AB = 1.2$ सेमी. और $DE = 1.4$ सेमी, तो $\triangle ABC$ और $\triangle DEF$ के क्षेत्रफल का अनुपात ज्ञात करें।"
-    },
-    {
-      "id": "short_9",
-      "type": "short_answer",
-      "chapter": "6",
-      "chapter_name": "Triangles",
-      "question": "In the given figure. Find $\\angle P$.",
-      "prashna": "दिये गए चित्र में $\\angle P$ ज्ञात करें।"
     },
     {
       "id": "short_10",
@@ -325,6 +317,72 @@
       "chapter_name": "Triangles",
       "question": "In a triangle $PQR$, two points $S$ and $T$ are on the sides $PQ$ and $PR$ respectively such that $\frac{PS}, {SQ} = \frac{PT}, {TR}$ and $\\angle PST = \\angle PRQ$, then prove that $\triangle PQR$ is an isosceles triangle.",
       "prashna": "किसी त्रिभुज $PQR$ में दो बिन्दु $S$ और $T$ भुजाओं $PQ$ तथा $PR$ पर क्रमशः इस प्रकार हैं कि $\frac{PS}, {SQ} = \frac{PT}, {TR}$ तथा $\\angle PST = \\angle PRQ$, तो सिद्ध करें कि $\triangle PQR$ एक समद्विबाहु त्रिभुज है।"
+    }
+  ],
+  "2026": [
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "The perimeter of a right angled triangle is 40 cm. Its hypotenuse is 17 cm and the difference of the lengths of other two sides is 7 cm. Find the sides.",
+      "prashna": "किसी समकोण त्रिभुज की परिमिति 40 सेमी है। इसका कर्ण 17 सेमी एवं अन्य दो भुजाओं की लम्बाइयों का अंतर 7 सेमी है तो भुजाएँ ज्ञात करें।"
+    },
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "Write the side-angle-side criterion of the similarity of two triangles and also represent with figure.",
+      "prashna": "दो त्रिभुजों की समरूपता की भुजा-कोण-भुजा कसौटी को लिखें तथा चित्र के साथ भी व्यक्त करें।"
+    },
+    {
+      "id": "short_23",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "\\Delta ABC \\sim \\Delta PQR and their areas are 64 cm^2 and 121 cm^2 respectively. If QR = 15.4 cm then find the value of BC.",
+      "prashna": "\\Delta ABC \\sim \\Delta PQR तथा इनके क्षेत्रफल क्रमशः 64 सेमी^2 तथा 121 सेमी^2 हैं। यदि QR = 15.4 सेमी तो BC का मान निकालें।"
+    },
+    {
+      "id": "short_24",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "Find the height of an equilateral triangle of side 12 cm.",
+      "prashna": "12 सेमी भुजा वाले एक समबाहु त्रिभुज की ऊँचाई ज्ञात करें।"
+    },
+    {
+      "id": "short_30",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "Points D and E are on the sides AB and AC respectively of triangle ABC such that DE || BC. If AD = 3.6 cm, AB = 10 cm and AE = 4.5 cm then find the values of EC and AC.",
+      "prashna": "त्रिभुज ABC की भुजाओं AB तथा AC पर क्रमशः D तथा E बिन्दुएँ इस प्रकार हैं कि DE || BC. यदि AD = 3.6 सेमी, AB = 10 सेमी तथा AE = 4.5 सेमी तो EC तथा AC का मान निकालें।"
+    },
+    {
+      "id": "short_25",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "In \\Delta ABC, PQ || BC, AP = 2 cm, PB = 6 cm, AQ = 4 cm, then find the value of AC.",
+      "prashna": "\\Delta ABC में PQ || BC, AP = 2 सेमी, PB = 6 सेमी, AQ = 4 सेमी, तो AC का मान ज्ञात करें।"
+    },
+    {
+      "id": "short_26",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "\\Delta ABC and \\Delta DEF are similar and their areas are 25 cm^2 and 49 cm^2 respectively. If EF = 9.8 cm then find BC.",
+      "prashna": "\\Delta ABC तथा \\Delta DEF समरूप हैं तथा इनके क्षेत्रफल क्रमशः 25 सेमी^2 तथा 49 सेमी^2 हैं। यदि EF = 9.8 सेमी हो तो BC ज्ञात करें।"
+    },
+    {
+      "id": "short_27",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "ABC is an isosceles triangle in which AC = BC. If AB^2 = 2AC^2 then prove that ABC is a right angled triangle.",
+      "prashna": "ABC एक समद्विबाहु त्रिभुज है जिसमें AC = BC है। यदि AB^2 = 2AC^2 है तो सिद्ध करें कि ABC एक समकोण त्रिभुज है।"
     }
   ]
 }

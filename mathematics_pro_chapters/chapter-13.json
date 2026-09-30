@@ -1,1842 +1,2381 @@
 {
   "2015": [
     {
-      "id": "obj_4",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "If the mean and median of an asymmetrical distribution are 26.8 and 27.9 respectively, then mode will be",
-      "prashna": "किसी असममित बंटन का माध्य और माध्यक क्रमश: 26.8 और 27.9 हैं, तो बहुलक होगा",
-      "options": {
-        "A": "30.1",
-        "B": "30.5",
-        "C": "31.4",
-        "D": "30.8"
-      },
-      "vikalpa": {
-        "A": "30.1",
-        "B": "30.5",
-        "C": "31.4",
-        "D": "30.8"
-      }
-    },
-    {
-      "id": "short_10",
+      "id": "short_16",
       "type": "short_answer",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "If the mean of 3, 4, 5, 17, $x$ is 6, then $x = $ _______.",
-      "prashna": "यदि 3, 4, 5, 17, $x$ का माध्य 6 है, तो $x = $ _______।"
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The volume of right circular cone is $100\\pi$ $cm^3$ and its height is 12 cm. Find its lateral height.",
+      "prashna": "एक लम्बवृत्तीय शंकु का आयतन $100\\pi$ सेमी$^3$ है और ऊँचाई 12 सेमी है, तो तिर्यक ऊँचाई निकालें।",
+      "marks": 2
     },
     {
-      "id": "short_31",
+      "id": "short_17",
       "type": "short_answer",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "The mean of the given frequency distribution is 52. Find the missing frequency. [Table: Marks 10-20 (5), 20-30 (3), 30-40 (4), 40-50 (-), 50-60 (2), 60-70 (6), 70-80 (13)]",
-      "prashna": "दिए गये बंटन का माध्य 52 है, तो अज्ञात बारम्बारता निकालें। [सारणी: प्राप्तांक 10-20 (5), 20-30 (3), 30-40 (4), 40-50 (-), 50-60 (2), 60-70 (6), 70-80 (13)]",
-      "marks": 3
-    },
-    {
-      "id": "short_32",
-      "type": "short_answer",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Calculate the mode of the given frequency distribution: [Table: C.I. 10-25 (2), 25-40 (3), 40-55 (7), 55-70 (6), 70-85 (6), 85-100 (6)]",
-      "prashna": "दिए गये बारम्बारता बंटन का बहुलक ज्ञात करें : [सारणी: वर्ग अंतराल 10-25 (2), 25-40 (3), 40-55 (7), 55-70 (6), 70-85 (6), 85-100 (6)]",
-      "marks": 3
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "Find the surface area of a sphere whose diameter is 14 cm.",
+      "prashna": "उस गोले का पृष्ठ क्षेत्रफल निकालें जिसका व्यास 14 सेमी है।",
+      "marks": 2
     }
   ],
   "2016": [
     {
-      "id": "obj_7",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "The mode of $3, 4, 7, 2, 7, 6, 7, 9$ will be",
-      "prashna": "$3, 4, 7, 2, 7, 6, 7, 9$ का बहुलक होगा",
-      "options": {
-        "A": "2",
-        "B": "3",
-        "C": "7",
-        "D": "9"
-      },
-      "vikalpa": {
-        "A": "2",
-        "B": "3",
-        "C": "7",
-        "D": "9"
-      }
-    },
-    {
-      "id": "short_13",
+      "id": "short_29",
       "type": "short_answer",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Class mark = $\frac{\text{upper limit} + \text{lower limit}}, {2}$",
-      "prashna": "वर्ग चिह्न = $\frac{\text{ऊपरी वर्ग सीमा} + \text{निम्न वर्ग सीमा}}, {2}$"
-    },
-    {
-      "id": "short_41",
-      "type": "short_answer",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "The mean of given data is $18$. Then find the missing frequency $f$: \nClass interval: 11-13, 13-15, 15-17, 17-19, 19-21, 21-23, 23-25 \nNo. of children: 7, 6, 9, 13, f, 5, 4",
-      "prashna": "दी गई आँकड़ों का माध्य $18$ है, तो अज्ञात बारंबारता ज्ञात करें: \nवर्ग अंतराल: 11-13, 13-15, 15-17, 17-19, 19-21, 21-23, 23-25 \nबच्चों की संख्या: 7, 6, 9, 13, f, 5, 4"
-    },
-    {
-      "id": "short_42",
-      "type": "short_answer",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "If median is $12$ and mode is $18$ of any data, then find mean of the given data.",
-      "prashna": "यदि किसी आँकड़े की माध्यिका $12$ एवं बहुलक $18$ है, तो आँकड़े का माध्य ज्ञात करें।"
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The diameter of a sphere is $6$ cm. By melting it a wire of diameter $0.2$ cm is made. Find the length of wire.",
+      "prashna": "एक गोले का व्यास $6$ सेमी है। इसे पिघलाकर $0.2$ सेमी व्यास वाला एक तार बनाया गया है। तार की लम्बाई ज्ञात करें।"
     }
   ],
   "2017": [
     {
-      "id": "obj_3",
+      "id": "obj_7",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Putting the value of variables in ascending or descending order, the value of middle variable will be called-",
-      "prashna": "चरों को आरोही या अवरोही क्रम में रखने पर बीच वाले चर का मान कहलायेगा-",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The height of cone is $24$ cm, radius of base is $6$ cm. Then volume of cone will be-",
+      "prashna": "एक शंकु की ऊँचाई $24$ cm, आधार की त्रिज्या $6$ cm है। शंकु का आयतन होगा-",
       "options": {
-        "A": "Mean",
-        "B": "Median",
-        "C": "Mode",
-        "D": "None of these"
+        "A": "$288\\pi$",
+        "B": "$188\\pi$",
+        "C": "$100\\pi$",
+        "D": "$90\\pi$"
       },
       "vikalpa": {
-        "A": "माध्य",
-        "B": "माध्यिका",
-        "C": "बहुलक",
-        "D": "कुछ नहीं"
+        "A": "$288\\pi$",
+        "B": "$188\\pi$",
+        "C": "$100\\pi$",
+        "D": "$90\\pi$"
       }
     },
     {
-      "id": "short_10",
+      "id": "short_17",
       "type": "short_answer",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "The class which has maximum frequencies is called ................",
-      "prashna": "अधिकतम बारम्बारता वाले वर्ग को ................ कहते हैं ।"
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "Two cubes each of volume $64\text{ cm}^3$ are joint end to end. Find the surface area of the resulting cuboid.",
+      "prashna": "दो घनों जिनमें से प्रत्येक का आयतन $64\text{ cm}^3$ है के संलग्न फलकों को जोड़कर एक घनाभ बनाया जाता है । घनाभ का पृष्ठीय क्षेत्रफल ज्ञात करें ।"
     },
     {
-      "id": "short_31",
-      "type": "short_answer",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Find the mean of following frequency distribution: C.I (10-25, 25-40, 40-55, 55-70, 70-85, 85-100), frequency (2, 3, 7, 6, 6, 6)",
-      "prashna": "निम्नलिखित बारम्बारता बंटन सारणी से माध्य ज्ञात करें । वर्ग अन्तराल (10-25, 25-40, 40-55, 55-70, 70-85, 85-100), बारम्बारता (2, 3, 7, 6, 6, 6)"
-    },
-    {
-      "id": "short_32",
-      "type": "short_answer",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Calculate the mode for following frequency distribution: C.I (25-30, 30-35, 35-40, 40-45, 45-50, 50-55), frequency (25, 34, 50, 42, 38, 14)",
-      "prashna": "निम्नलिखित बारम्बारता बंटन से बहुलक ज्ञात करें । वर्ग अन्तराल (25-30, 30-35, 35-40, 40-45, 45-50, 50-55), बारम्बारता (25, 34, 50, 42, 38, 14)"
-    },
-    {
-      "id": "obj_10",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Which of the following is the mean of the first five natural numbers?",
-      "prashna": "प्रथम पाँच प्राकृत संख्याओं का माध्य निम्नलिखित में कौन-सा है?",
-      "options": {
-        "A": "4",
-        "B": "3",
-        "C": "2.5",
-        "D": "2"
-      },
-      "vikalpa": {
-        "A": "4",
-        "B": "3",
-        "C": "2.5",
-        "D": "2"
-      }
-    },
-    {
-      "id": "short_10",
-      "type": "short_answer",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Find the median of the distribution: $10, 17, 21, 16, 13, 12, 15, 19, 14, 13$.",
-      "prashna": "बंटन $10, 17, 21, 16, 13, 12, 15, 19, 14, 13$ का माध्यिका निकालें।"
-    },
-    {
-      "id": "long_8",
+      "id": "long_1",
       "type": "long_answer",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Find the mean for the following frequency distribution:\n| Class Interval | 0-8 | 8-16 | 16-24 | 24-32 | 32-40 | 40-48 |\n|---|---|---|---|---|---|---|\n| Frequency | 10 | 20 | 14 | 16 | 18 | 22 |",
-      "prashna": "निम्नलिखित बारम्बारता बंटन के लिए माध्य निकालें:\n| वर्ग-अन्तराल | 0-8 | 8-16 | 16-24 | 24-32 | 32-40 | 40-48 |\n|---|---|---|---|---|---|---|\n| बारम्बारता | 10 | 20 | 14 | 16 | 18 | 22 |"
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "A toy is in the form of a cone mounted on a hemisphere of radius $3.5$ cm. The total height of the toy is $15.5$ cm. Find the total surface area and volume of the toy. $\\pi = \frac{22}, {7}$",
+      "prashna": "एक खिलौना $3.5$ सेमी. त्रिज्या वाले शंकु के आकार का है जो उसी त्रिज्या वाले एक अर्धगोले पर अध्यारोपित है । इस खिलौने की सम्पूर्ण ऊँचाई $15.5$ सेमी. है । इस खिलौने का सम्पूर्ण पृष्ठीय क्षेत्रफल व आयतन ज्ञात कीजिए । $\\pi = \frac{22}, {7}$"
     }
   ],
   "2018": [
     {
-      "id": "obj_46",
+      "id": "obj_41",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Mean of first 10 even natural numbers is -",
-      "prashna": "प्रथम 10 सम प्राकृतिक संख्याओं का माध्य है -",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The ratio of the total surface area to the lateral surface area of a cylinder with base radius $80\text{cm}$ and height $20\text{cm}$ is -",
+      "prashna": "$80$ सेमी त्रिज्या के आधार वृत्त एवं $20$ सेमी ऊँचाई वाले बेलन के कुल पृष्ठ क्षेत्रफल तथा सतह पृष्ठ क्षेत्रफल का अनुपात है -",
       "options": {
-        "A": "110",
-        "B": "100",
-        "C": "11",
-        "D": "10"
+        "A": "$1:2$",
+        "B": "$2:1$",
+        "C": "$3:1$",
+        "D": "$5:1$"
       },
       "vikalpa": {
-        "A": "110",
-        "B": "100",
-        "C": "11",
-        "D": "10"
+        "A": "$1:2$",
+        "B": "$2:1$",
+        "C": "$3:1$",
+        "D": "$5:1$"
       }
     },
-    {
-      "id": "obj_47",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "The class-interval for drawing ogive should be -",
-      "prashna": "तोरण खींचने के लिए वर्ग-अंतरालों को होना चाहिए -",
-      "options": {
-        "A": "non-overlapping",
-        "B": "overlapping",
-        "C": "both (a) & (b)",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "समावेशिक",
-        "B": "अपवर्जी",
-        "C": "दोनों (a) तथा (b)",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_48",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Mean $(x)$, Median $(y)$ and Mode $(z)$ are related as -",
-      "prashna": "माध्य $(x)$, माध्यिका $(y)$ और बहुलक $(z)$ के बीच संबंध है -",
-      "options": {
-        "A": "$x - y = 3(z - y)$",
-        "B": "$x - z = 3(x - y)$",
-        "C": "$x - y = z - y$",
-        "D": "$3(x - z) = x - y$"
-      },
-      "vikalpa": {
-        "A": "$x - y = 3(z - y)$",
-        "B": "$x - z = 3(x - y)$",
-        "C": "$x - y = z - y$",
-        "D": "$3(x - z) = x - y$"
-      }
-    },
-    {
-      "id": "short_19",
-      "type": "short_answer",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Define two types of Statistical Data.",
-      "prashna": "दो प्रकार के सांख्यिकीय आधार सामग्री (डाटा) को परिभाषित करें।"
-    },
-    {
-      "id": "short_20",
-      "type": "short_answer",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Mention two characteristics (features) of Bar diagram.",
-      "prashna": "बार ग्राफ (दण्ड-आरेख) के दो अवयव (गुण) बताइये।"
-    },
-    {
-      "id": "obj_46",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Mean of first 10 even natural numbers is -",
-      "prashna": "प्रथम 10 सम प्राकृतिक संख्याओं का माध्य है -",
-      "options": {
-        "A": "110",
-        "B": "100",
-        "C": "11",
-        "D": "10"
-      },
-      "vikalpa": {
-        "A": "110",
-        "B": "100",
-        "C": "11",
-        "D": "10"
-      }
-    },
-    {
-      "id": "obj_47",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "The class-interval for drawing ogive should be -",
-      "prashna": "तोरण खींचने के लिए वर्ग-अंतरालों को होना चाहिए -",
-      "options": {
-        "A": "non-overlapping",
-        "B": "overlapping",
-        "C": "both (a) & (b)",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "समावेशिक",
-        "B": "अपवर्जी",
-        "C": "दोनों (a) तथा (b)",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_48",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Mean (x), Median (y) and Mode (z) are related as -",
-      "prashna": "माध्य (x), माध्यिका (y) और बहुलक (z) के बीच संबंध है -",
-      "options": {
-        "A": "$x - y = 3(z - y)$",
-        "B": "$x - z = 3(x - y)$",
-        "C": "$x - y = z - y$",
-        "D": "$3(x - z) = x - y$"
-      },
-      "vikalpa": {
-        "A": "$x - y = 3(z - y)$",
-        "B": "$x - z = 3(x - y)$",
-        "C": "$x - y = z - y$",
-        "D": "$3(x - z) = x - y$"
-      }
-    },
-    {
-      "id": "short_19",
-      "type": "short_answer",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Define two types of Statistical Data.",
-      "prashna": "दो प्रकार के सांख्यिकी आधार सामग्री (डाटा) को परिभाषित करें।"
-    },
-    {
-      "id": "short_20",
-      "type": "short_answer",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Mention two characteristics (features) of Bar diagram.",
-      "prashna": "बार ग्राफ (दण्ड-आरेख) के दो अवयव (गुण) बतावें।"
-    }
-  ],
-  "2019": [
-    {
-      "id": "obj_8",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "The arithmetic mean of x, x + 3, x + 6, x + 9 and x + 12 is -",
-      "prashna": "x, x + 3, x + 6, x + 9 तथा x + 12 का समान्तर माध्य है-",
-      "options": {
-        "A": "x + 6",
-        "B": "x + 5",
-        "C": "x + 7",
-        "D": "x + 8"
-      },
-      "vikalpa": {
-        "A": "x + 6",
-        "B": "x + 5",
-        "C": "x + 7",
-        "D": "x + 8"
-      }
-    },
-    {
-      "id": "obj_19",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "If the mean of 6, 8, 9, x and 13 is 10, then the value of x is -",
-      "prashna": "यदि 6, 8, 9, x तथा 13 का माध्य 10 हो, तो x का मान है-",
-      "options": {
-        "A": "12",
-        "B": "13",
-        "C": "14",
-        "D": "15"
-      },
-      "vikalpa": {
-        "A": "12",
-        "B": "13",
-        "C": "14",
-        "D": "15"
-      }
-    },
-    {
-      "id": "obj_47",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Range of 24, 15, 22, 13, 9, 10 and 30 will be-",
-      "prashna": "24, 15, 22, 13, 9, 10 तथा 30 का परिसर होगा-",
-      "options": {
-        "A": "22",
-        "B": "24",
-        "C": "9",
-        "D": "21"
-      },
-      "vikalpa": {
-        "A": "22",
-        "B": "24",
-        "C": "9",
-        "D": "21"
-      }
-    },
-    {
-      "id": "short_22",
-      "type": "short_answer",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Find the mode of the following distribution: Class interval [0-10, 10-20, 20-30, 30-40, 40-50], Frequency [8, 12, 6, 15, 7].",
-      "prashna": "निम्नलिखित बंटन का बहुलक ज्ञात करें: वर्ग अंतराल [0-10, 10-20, 20-30, 30-40, 40-50], बारंबारता [8, 12, 6, 15, 7]।"
-    },
-    {
-      "id": "short_23",
-      "type": "short_answer",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Find the mean of the following distribution: Class interval [0-8, 8-16, 16-24, 24-32, 32-40, 40-48], Frequency [10, 20, 14, 16, 18, 22].",
-      "prashna": "निम्नलिखित बंटन का माध्य ज्ञात करें: वर्ग अंतराल [0-8, 8-16, 16-24, 24-32, 32-40, 40-48], बारंबारता [10, 20, 14, 16, 18, 22]।"
-    },
-    {
-      "id": "obj_28",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "The arithmetic mean of $x, x + 3, x + 6, x + 9$ and $x + 12$ is -",
-      "prashna": "$x, x + 3, x + 6, x + 9$ तथा $x + 12$ का समान्तर माध्य है -",
-      "options": {
-        "A": "$x + 6$",
-        "B": "$x + 5$",
-        "C": "$x + 7$",
-        "D": "$x + 8$"
-      },
-      "vikalpa": {
-        "A": "$x + 6$",
-        "B": "$x + 5$",
-        "C": "$x + 7$",
-        "D": "$x + 8$"
-      }
-    },
-    {
-      "id": "obj_31",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "If the mean of 6, 8, 9, $x$ and 13 is 10, then the value of $x$ is -",
-      "prashna": "यदि 6, 8, 9, $x$ तथा 13 का माध्य 10 हो तो $x$ का मान है -",
-      "options": {
-        "A": "12",
-        "B": "13",
-        "C": "14",
-        "D": "15"
-      },
-      "vikalpa": {
-        "A": "12",
-        "B": "13",
-        "C": "14",
-        "D": "15"
-      }
-    },
-    {
-      "id": "obj_34",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Range of 24, 15, 22, 13, 9, 10 and 30 will be-",
-      "prashna": "24, 15, 22, 13, 9, 10 तथा 30 का परिसर होगा-",
-      "options": {
-        "A": "22",
-        "B": "24",
-        "C": "9",
-        "D": "21"
-      },
-      "vikalpa": {
-        "A": "22",
-        "B": "24",
-        "C": "9",
-        "D": "21"
-      }
-    },
-    {
-      "id": "short_22",
-      "type": "short_answer",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Find the mode of the following distribution - (Class interval: 0-10, 10-20, 20-30, 30-40, 40-50; Frequency: 8, 12, 6, 15, 7)",
-      "prashna": "निम्नलिखित बंटन का बहुलक ज्ञात करें - (वर्ग अंतराल: 0-10, 10-20, 20-30, 30-40, 40-50; बारंबारता: 8, 12, 6, 15, 7)",
-      "sub_questions": {
-        "A": "Class interval: 0-10, 10-20, 20-30, 30-40, 40-50",
-        "B": "Frequency: 8, 12, 6, 15, 7"
-      },
-      "anuprashna": {
-        "A": "वर्ग अंतराल: 0-10, 10-20, 20-30, 30-40, 40-50",
-        "B": "बारंबारता: 8, 12, 6, 15, 7"
-      }
-    },
-    {
-      "id": "short_23",
-      "type": "short_answer",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Find the mean of the following distribution - (Class interval: 0-8, 8-16, 16-24, 24-32, 32-40, 40-48; Frequency: 10, 20, 14, 16, 18, 22)",
-      "prashna": "निम्नलिखित बंटन का माध्य ज्ञात करें - (वर्ग अंतराल: 0-8, 8-16, 16-24, 24-32, 32-40, 40-48; बारंबारता: 10, 20, 14, 16, 18, 22)",
-      "sub_questions": {
-        "A": "Class interval: 0-8, 8-16, 16-24, 24-32, 32-40, 40-48",
-        "B": "Frequency: 10, 20, 14, 16, 18, 22"
-      },
-      "anuprashna": {
-        "A": "वर्ग अंतराल: 0-8, 8-16, 16-24, 24-32, 32-40, 40-48",
-        "B": "बारंबारता: 10, 20, 14, 16, 18, 22"
-      }
-    }
-  ],
-  "2020": [
-    {
-      "id": "obj_20",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "If the mean of 3, 4, 5, 17 and $x$ is 6, then the value of $x$ is",
-      "prashna": "यदि 3, 4, 5, 17 तथा $x$ का माध्य 6 हो, तो $x$ का मान है",
-      "options": {
-        "A": "1",
-        "B": "2",
-        "C": "3",
-        "D": "4"
-      },
-      "vikalpa": {
-        "A": "1",
-        "B": "2",
-        "C": "3",
-        "D": "4"
-      }
-    },
-    {
-      "id": "obj_21",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Mode of 3, 4, 7, 2, 7, 6, 7, 9 is",
-      "prashna": "3, 4, 7, 2, 7, 6, 7, 9 का बहुलक है",
-      "options": {
-        "A": "2",
-        "B": "3",
-        "C": "7",
-        "D": "9"
-      },
-      "vikalpa": {
-        "A": "2",
-        "B": "3",
-        "C": "7",
-        "D": "9"
-      }
-    },
-    {
-      "id": "obj_22",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Arithmetic Mean between 13 and 19 is",
-      "prashna": "13 और 19 के बीच समांतर माध्य है",
-      "options": {
-        "A": "13",
-        "B": "16",
-        "C": "19",
-        "D": "12"
-      },
-      "vikalpa": {
-        "A": "13",
-        "B": "16",
-        "C": "19",
-        "D": "12"
-      }
-    },
-    {
-      "id": "short_25",
-      "type": "short_answer",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Find the mode of the following distribution:",
-      "prashna": "निम्नलिखित बंटन का बहुलक ज्ञात करें :",
-      "sub_questions": {
-        "Class-interval": "0-20, 20-40, 40-60, 60-80, 80-100, 100-120",
-        "Frequency": "30, 36, 52, 61, 38, 33"
-      },
-      "anuprashna": {
-        "वर्ग-अंतराल": "0-20, 20-40, 40-60, 60-80, 80-100, 100-120",
-        "बारंबारता": "30, 36, 52, 61, 38, 33"
-      }
-    },
-    {
-      "id": "short_26",
-      "type": "short_answer",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Find the mean of the following distribution:",
-      "prashna": "निम्नलिखित बंटन का माध्य ज्ञात करें :",
-      "sub_questions": {
-        "Class-interval": "0-10, 10-20, 20-30, 30-40, 40-50",
-        "Frequency": "7, 8, 16, 9, 10"
-      },
-      "anuprashna": {
-        "वर्ग-अंतराल": "0-10, 10-20, 20-30, 30-40, 40-50",
-        "बारंबारता": "7, 8, 16, 9, 10"
-      }
-    },
-    {
-      "id": "obj_26",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Mode of $2, 6, 4, 5, 0, 2, 1, 3, 2$ is",
-      "prashna": "$2, 6, 4, 5, 0, 2, 1, 3, 2$ का बहुलक है",
-      "options": {
-        "A": "2",
-        "B": "3",
-        "C": "6",
-        "D": "1"
-      },
-      "vikalpa": {
-        "A": "2",
-        "B": "3",
-        "C": "6",
-        "D": "1"
-      }
-    },
-    {
-      "id": "obj_40",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "If $1, 4, x, 5$ and $12$ is $7$, then the value of $x$ is",
-      "prashna": "यदि $1, 4, x, 5$ तथा $12$ का माध्य $7$ है, तो $x$ का मान है",
-      "options": {
-        "A": "6",
-        "B": "8",
-        "C": "13",
-        "D": "9"
-      },
-      "vikalpa": {
-        "A": "6",
-        "B": "8",
-        "C": "13",
-        "D": "9"
-      }
-    },
-    {
-      "id": "short_10",
-      "type": "short_answer",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Find the mean of the following distribution:",
-      "prashna": "निम्नलिखित बंटन का माध्य ज्ञात करें :",
-      "sub_questions": {
-        "table": [
-          {
-            "Class-interval": "40-50",
-            "Frequency": 15
-          },
-          {
-            "Class-interval": "50-60",
-            "Frequency": 25
-          },
-          {
-            "Class-interval": "60-70",
-            "Frequency": 14
-          },
-          {
-            "Class-interval": "70-80",
-            "Frequency": 12
-          },
-          {
-            "Class-interval": "80-90",
-            "Frequency": 8
-          },
-          {
-            "Class-interval": "90-100",
-            "Frequency": 6
-          }
-        ]
-      },
-      "anuprashna": {
-        "table": [
-          {
-            "वर्ग-अंतराल": "40-50",
-            "बारंबारता": 15
-          },
-          {
-            "वर्ग-अंतराल": "50-60",
-            "बारंबारता": 25
-          },
-          {
-            "वर्ग-अंतराल": "60-70",
-            "बारंबारता": 14
-          },
-          {
-            "वर्ग-अंतराल": "70-80",
-            "बारंबारता": 12
-          },
-          {
-            "वर्ग-अंतराल": "80-90",
-            "बारंबारता": 8
-          },
-          {
-            "वर्ग-अंतराल": "90-100",
-            "बारंबारता": 6
-          }
-        ]
-      }
-    },
-    {
-      "id": "short_24",
-      "type": "short_answer",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Find the mode of the following distribution:",
-      "prashna": "निम्नलिखित बंटन का बहुलक ज्ञात करें :",
-      "sub_questions": {
-        "table": [
-          {
-            "Class-interval": "80-85",
-            "Frequency": 33
-          },
-          {
-            "Class-interval": "85-90",
-            "Frequency": 27
-          },
-          {
-            "Class-interval": "90-95",
-            "Frequency": 85
-          },
-          {
-            "Class-interval": "95-100",
-            "Frequency": 155
-          },
-          {
-            "Class-interval": "100-105",
-            "Frequency": 110
-          },
-          {
-            "Class-interval": "105-110",
-            "Frequency": 45
-          },
-          {
-            "Class-interval": "110-115",
-            "Frequency": 15
-          }
-        ]
-      },
-      "anuprashna": {
-        "table": [
-          {
-            "वर्ग-अंतराल": "80-85",
-            "बारंबारता": 33
-          },
-          {
-            "वर्ग-अंतराल": "85-90",
-            "बारंबारता": 27
-          },
-          {
-            "वर्ग-अंतराल": "90-95",
-            "बारंबारता": 85
-          },
-          {
-            "वर्ग-अंतराल": "95-100",
-            "बारंबारता": 155
-          },
-          {
-            "वर्ग-अंतराल": "100-105",
-            "बारंबारता": 110
-          },
-          {
-            "वर्ग-अंतराल": "105-110",
-            "बारंबारता": 45
-          },
-          {
-            "वर्ग-अंतराल": "110-115",
-            "बारंबारता": 15
-          }
-        ]
-      }
-    }
-  ],
-  "2021": [
     {
       "id": "obj_42",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "What is the mode of $2, 5, 7, 3, 3, 6, 3, 8, 6, 3$ ?",
-      "prashna": "$2, 5, 7, 3, 3, 6, 3, 8, 6, 3$ का बहुलक क्या है ?",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The radii of the base of a cylinder and a cone are in the ratio $3:4$ and their heights are in the ratio $2:3$, then their ratio of volumes is -",
+      "prashna": "बेलन तथा शंकु के आधार वृत्त के त्रिज्या का अनुपात $3:4$ है तथा उनकी ऊँचाई का अनुपात क्रमशः $2:3$ है, तो उनके आयतन का अनुपात -",
       "options": {
-        "A": "6",
-        "B": "3",
-        "C": "2",
-        "D": "8"
+        "A": "$9:8$",
+        "B": "$9:4$",
+        "C": "$3:1$",
+        "D": "$27:64$"
       },
       "vikalpa": {
-        "A": "6",
-        "B": "3",
-        "C": "2",
-        "D": "8"
+        "A": "$9:8$",
+        "B": "$9:4$",
+        "C": "$3:1$",
+        "D": "$27:64$"
       }
     },
     {
       "id": "obj_43",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "The arithmetic mean of $a$ and $b$ is",
-      "prashna": "$a$ और $b$ का समांतर माध्य है",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The volume of a cube is $2744\text{ cm}^3$. Its surface area (in $\text{cm}^2$) is -",
+      "prashna": "एक घन का आयतन $2744$ सेमी$^3$ है। इसका पृष्ठ क्षेत्रफल (सेमी$^2$) में होगा -",
       "options": {
-        "A": "$\frac{ab}, {2}$",
-        "B": "$\frac{a+b}, {2}$",
-        "C": "$\frac{a-b}, {2}$",
-        "D": "none of these"
+        "A": "196",
+        "B": "588",
+        "C": "784",
+        "D": "1176"
       },
       "vikalpa": {
-        "A": "$\frac{ab}, {2}$",
-        "B": "$\frac{a+b}, {2}$",
-        "C": "$\frac{a-b}, {2}$",
-        "D": "इनमें से कोई नहीं"
+        "A": "196",
+        "B": "588",
+        "C": "784",
+        "D": "1176"
       }
     },
     {
       "id": "obj_44",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "The mean and mode of a frequency distribution are $28$ and $16$ respectively, then the median is",
-      "prashna": "किसी बारंबारता सारणी का माध्य और बहुलक क्रमशः 28 और 16 है, तब माध्यिका होगी",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "How many balls, each of radius $1\text{cm}$ can be made from a solid sphere of lead of radius $8\text{cm}$?",
+      "prashna": "एक $8$ सेमी त्रिज्या के शीशे के ठोस गोले से $1$ सेमी त्रिज्या के कितने ठोस गोले बनाये जा सकते हैं -",
       "options": {
-        "A": "22",
-        "B": "23.5",
-        "C": "24",
-        "D": "24.5"
+        "A": "256",
+        "B": "512",
+        "C": "1024",
+        "D": "576"
       },
       "vikalpa": {
-        "A": "22",
-        "B": "23.5",
-        "C": "24",
-        "D": "24.5"
+        "A": "256",
+        "B": "512",
+        "C": "1024",
+        "D": "576"
       }
     },
     {
       "id": "obj_45",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Median of $2, 7, 4, 9, 5, 6, 1$ is",
-      "prashna": "$2, 7, 4, 9, 5, 6, 1$ का माध्यिका है",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "A hollow sphere of external and internal diameters $8\text{cm}$ and $4\text{cm}$ respectively is melted into a cone of base diameter $8\text{cm}$. The height of cone (in cm) is -",
+      "prashna": "एक खोखले गोले का आन्तरिक तथा बाह्य व्यास क्रमशः $4$ सेमी तथा $8$ सेमी है। इसे गलाकर एक $8$ सेमी व्यास वाले आधारवृत का शंकु बनाया जाता है। शंकु की ऊँचाई (सेमी में) है -",
       "options": {
-        "A": "6",
-        "B": "5",
-        "C": "4",
-        "D": "none of these"
+        "A": "12",
+        "B": "13",
+        "C": "14",
+        "D": "15"
       },
       "vikalpa": {
-        "A": "6",
-        "B": "5",
-        "C": "4",
-        "D": "इनमें से कोई नहीं"
+        "A": "12",
+        "B": "13",
+        "C": "14",
+        "D": "15"
       }
     },
     {
-      "id": "obj_98",
+      "id": "long_4_1",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The canvass of a circus has height $11\text{dm}$ (decimetre) in cylindrical section and above it, there is a conical shape. The maximum height of canvass is $16\text{dm}$ and the diameter of canvass is $24\text{dm}$. Evaluate the total area of the canvass.",
+      "prashna": "सरकस का एक तंबू $11$ डेसीमीटर की ऊँचाई तक तो बेलनाकार है और फिर इसके ऊपर शंकुवाकार है। यदि उसका व्यास $24$ डेसीमीटर है तथा शंकु के शीर्ष की ऊँचाई जमीन से $16$ डेसीमीटर है, तो उस कैनवास के कुल क्षेत्रफल की गणना करें।"
+    },
+    {
+      "id": "long_4_2",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The radius and height of a cone are in the ratio $4:3$. The area of base is $154\text{ cm}^2$. Find the area of curved surface.",
+      "prashna": "एक शंकु (कोन) की त्रिज्या व ऊँचाई का अनुपात $4:3$ है। वृत्ताकार आधार का क्षेत्रफल $154$ सेमी$^2$ है। वक्र क्षेत्र का क्षेत्रफल ज्ञात करें।"
+    },
+    {
+      "id": "obj_41",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Median of $2, 7, 4, 9, 5, 6, 1$ is",
-      "prashna": "$2, 7, 4, 9, 5, 6, 1$ का माध्यिका है",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The ratio of the total surface area to the lateral surface area of a cylinder with base radius $80\text{ cm}$ and height $20\text{ cm}$ is -",
+      "prashna": "80 से.मी. त्रिज्या के आधार वृत्त एवं 20 से.मी. ऊँचाई वाले बेलन के कुल पृष्ठ क्षेत्रफल तथा सतह पृष्ठ क्षेत्रफल का अनुपात है -",
       "options": {
-        "A": "6",
-        "B": "4",
-        "C": "5",
-        "D": "none of these"
+        "A": "1:2",
+        "B": "2:1",
+        "C": "3:1",
+        "D": "5:1"
       },
       "vikalpa": {
-        "A": "6",
-        "B": "4",
-        "C": "5",
-        "D": "इनमें से कोई नहीं"
+        "A": "1:2",
+        "B": "2:1",
+        "C": "3:1",
+        "D": "5:1"
       }
     },
     {
-      "id": "obj_99",
+      "id": "obj_42",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Mode of $5, 4, 9, 8, 7, 4, 2, 6, 4, 7, 3$ is",
-      "prashna": "$5, 4, 9, 8, 7, 4, 2, 6, 4, 7, 3$ का बहुलक है",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The radii of the base of a cylinder and a cone are in the ratio $3:4$ and their heights are in the ratio $2:3$, then their ratio of volumes is -",
+      "prashna": "बेलन तथा शंकु के आधार वृत्त के त्रिज्या का अनुपात $3 : 4$ है, तथा उनकी ऊँचाई का अनुपात क्रमशः $2 : 3$, तो उनके आयतन का अनुपात -",
       "options": {
-        "A": "7",
-        "B": "5",
-        "C": "4",
-        "D": "9"
+        "A": "9:8",
+        "B": "9:4",
+        "C": "3:1",
+        "D": "27:64"
       },
       "vikalpa": {
-        "A": "7",
-        "B": "5",
-        "C": "4",
-        "D": "9"
+        "A": "9:8",
+        "B": "9:4",
+        "C": "3:1",
+        "D": "27:64"
       }
     },
     {
-      "id": "short_27",
-      "type": "short_answer",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Find the mean of the following distribution :",
-      "prashna": "निम्नलिखित वितरण का माध्य ज्ञात करें :",
-      "sub_questions": {
-        "A": "Class-interval: 0-10, 10-20, 20-30, 30-40, 40-50",
-        "B": "Frequency: 7, 10, 15, 8, 10"
-      },
-      "anuprashna": {
-        "A": "वर्ग अंतराल: 0-10, 10-20, 20-30, 30-40, 40-50",
-        "B": "बारंबारता: 7, 10, 15, 8, 10"
-      }
-    },
-    {
-      "id": "obj_15",
+      "id": "obj_43",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "The median of the first six prime numbers is",
-      "prashna": "प्रथम छ: अभाज्य संख्याओं का माध्यक है",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The volume of a cube is $2744\text{ cm}^3$. Its surface area (in $\text{cm}^2$) is -",
+      "prashna": "एक घन का आयतन $2744$ सेमी$^3$ है। इसका पृष्ठ क्षेत्रफल (सेमी$^2$) में होगा-",
       "options": {
-        "A": "$4$",
-        "B": "$5$",
-        "C": "$6$",
-        "D": "$7$"
+        "A": "196",
+        "B": "588",
+        "C": "784",
+        "D": "1176"
       },
       "vikalpa": {
-        "A": "$4$",
-        "B": "$5$",
-        "C": "$6$",
-        "D": "$7$"
+        "A": "196",
+        "B": "588",
+        "C": "784",
+        "D": "1176"
       }
     },
     {
-      "id": "obj_66",
+      "id": "obj_44",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "The relationship between mean $(\bar{x})$, median $(y)$ and mode $(z)$ is",
-      "prashna": "माध्य $(\bar{x})$, माध्यिका $(y)$ और बहुलक $(z)$ के बीच संबंध है",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "How many balls, each of radius $1\text{cm}$ can be made from a solid sphere of lead of radius $8\text{ cm}$?",
+      "prashna": "एक 8 सेमी त्रिज्या के शीशे के ठोस गोले से 1 सेमी त्रिज्या के कितने ठोस गोले बनाये जा सकते हैं-",
       "options": {
-        "A": "$\bar{x} - z = 3(\bar{x} - y)$",
-        "B": "$\bar{x} - y = 3(z - y)$",
-        "C": "$3(\bar{x} - z) = \bar{x} - y$",
-        "D": "$\bar{x} - y = z - y$"
+        "A": "256",
+        "B": "512",
+        "C": "1024",
+        "D": "576"
       },
       "vikalpa": {
-        "A": "$\bar{x} - z = 3(\bar{x} - y)$",
-        "B": "$\bar{x} - y = 3(z - y)$",
-        "C": "$3(\bar{x} - z) = \bar{x} - y$",
-        "D": "$\bar{x} - y = z - y$"
+        "A": "256",
+        "B": "512",
+        "C": "1024",
+        "D": "576"
       }
     },
     {
-      "id": "obj_67",
+      "id": "obj_45",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "The tally mark for $16$ is",
-      "prashna": "$16$ का मिलान चिह्न है",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "A hollow sphere of external and internal diameters $8\text{ cm}$ and $4\text{ cm}$ respectively is melted into a cone of base diameter $8\text{ cm}$. The height of cone (in cm) is -",
+      "prashna": "एक खोखले गोले का आन्तरिक तथा बाह्य व्यास क्रमशः 4 सेमी तथा 8 सेमी है। इसे गलाकर एक 8 सेमी व्यास वाले आधारवृत्त का शंकु बनाया जाता है। शंकु की ऊँचाई (सेमी में) है -",
       "options": {
-        "A": "XVI",
-        "B": "Tally group 1",
-        "C": "Tally group 2",
-        "D": "Tally group 3"
+        "A": "12",
+        "B": "13",
+        "C": "14",
+        "D": "15"
       },
       "vikalpa": {
-        "A": "XVI",
-        "B": "||||| ||||| ||||| |",
-        "C": "||||| ||||| ||||| | (crossed)",
-        "D": "||||| ||||| ||||| | (alternative cross)"
+        "A": "12",
+        "B": "13",
+        "C": "14",
+        "D": "15"
       }
     },
     {
-      "id": "obj_73",
-      "type": "objective",
+      "id": "long_4_1",
+      "type": "long_answer",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "The range of the data $12, 17, 81, 26, 38, 42, 57, 62$ is",
-      "prashna": "आँकड़े $12, 17, 81, 26, 38, 42, 57, 62$ का परिसर है",
-      "options": {
-        "A": "$12$",
-        "B": "$62$",
-        "C": "$81$",
-        "D": "$69$"
-      },
-      "vikalpa": {
-        "A": "$12$",
-        "B": "$62$",
-        "C": "$81$",
-        "D": "$69$"
-      }
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The canvass of a circus has height $11 \text{ dm (decimetre)}$ in cylindrical section and above it, there is a conical shape. The maximum height of canvass is $16 \text{ decimetre}$ and the diameter of canvass is $24 \text{ decimetre}$. Evaluate the total area of the canvass.",
+      "prashna": "सरकस का एक तंबू 11 डेसीमीटर की ऊँचाई तक तो बेलनाकार है और फिर इसके ऊपर शंकुकार है। यदि उसका व्यास 24 डेसीमीटर है तथा शंकु के शीर्ष की ऊँचाई जमीन से 16 डेसीमीटर है, तो उस कैनवास के कुल क्षेत्रफल की गणना करें।"
     },
     {
-      "id": "obj_75",
-      "type": "objective",
+      "id": "long_4_2",
+      "type": "long_answer",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "The mode of the data $5, 4, 13, 9, 8, 9, 9, 11, 14$ is",
-      "prashna": "आँकड़े $5, 4, 13, 9, 8, 9, 9, 11, 14$ का बहुलक है",
-      "options": {
-        "A": "$4$",
-        "B": "$9$",
-        "C": "$8$",
-        "D": "$14$"
-      },
-      "vikalpa": {
-        "A": "$4$",
-        "B": "$9$",
-        "C": "$8$",
-        "D": "$14$"
-      }
-    },
-    {
-      "id": "obj_76",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Which of the following is not a measure of central tendency?",
-      "prashna": "निम्नलिखित में कौन केन्द्रीय प्रवृत्ति की माप नहीं है ?",
-      "options": {
-        "A": "Mean",
-        "B": "Median",
-        "C": "Mode",
-        "D": "Standard Deviation"
-      },
-      "vikalpa": {
-        "A": "माध्य",
-        "B": "माध्यिका",
-        "C": "बहुलक",
-        "D": "मानक विचलन"
-      }
-    },
-    {
-      "id": "short_11",
-      "type": "short_answer",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Find the mode of the following distribution: Class interval 0-10, 10-20, 20-30, 30-40, 40-50, 50-60. Frequency: 7, 17, 32, 10, 4, 2.",
-      "prashna": "निम्नलिखित बंटन का बहुलक ज्ञात करें : वर्ग अंतराल: 0-10, 10-20, 20-30, 30-40, 40-50, 50-60. बारंबारता: 7, 17, 32, 10, 4, 2."
-    },
-    {
-      "id": "short_18",
-      "type": "short_answer",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Find the mean of the following distribution: Class interval 0-10, 10-20, 20-30, 30-40, 40-50. Frequency: 6, 9, 8, 13, 20.",
-      "prashna": "निम्नलिखित बंटन का माध्य ज्ञात करें : वर्ग अंतराल: 0-10, 10-20, 20-30, 30-40, 40-50. बारंबारता: 6, 9, 8, 13, 20."
-    },
-    {
-      "id": "short_26",
-      "type": "short_answer",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Write the names of two measures of central tendency.",
-      "prashna": "केन्द्रीय प्रवृत्ति की मापों के दो नाम लिखें।"
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The radius and height of a cone are in the ratio 4:3. The area of base is $154 \text{ cm}^2$. Find the area of curved surface.",
+      "prashna": "एक शंकु (कोन) की त्रिज्या व ऊँचाई का अनुपात 4:3 है। वृत्ताकार आधार का क्षेत्रफल 154 सेमी$^2$ है। वक्र क्षेत्र का क्षेत्रफल ज्ञात करें।"
     }
   ],
-  "2022": [
+  "2019": [
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "Radii of two cylinders are in the ratio 2 : 3 and their heights are in the ratio 5 : 3, then their volumes are in the ratio -",
+      "prashna": "दो बेलनों की त्रिज्याओं का अनुपात 2 : 3 है तथा उनकी ऊँचाइयों का अनुपात 5 : 3 है, तो उनके आयतनों का अनुपात है -",
+      "options": {
+        "A": "27 : 20",
+        "B": "20 : 27",
+        "C": "4 : 9",
+        "D": "9 : 20"
+      },
+      "vikalpa": {
+        "A": "27 : 20",
+        "B": "20 : 27",
+        "C": "4 : 9",
+        "D": "9 : 20"
+      }
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "How many cubes can be formed of side 2 cm from a cube of side 6 cm?",
+      "prashna": "6 सेमी. भुजा वाले घन में से 2 सेमी. भुजा वाले कितने घन बनाए जा सकते हैं?",
+      "options": {
+        "A": "56",
+        "B": "54",
+        "C": "28",
+        "D": "27"
+      },
+      "vikalpa": {
+        "A": "56",
+        "B": "54",
+        "C": "28",
+        "D": "27"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "From a solid cube of edge 14 cm, a sphere of largest volume is cut. Approximate volume of sphere is -",
+      "prashna": "एक ठोस घन जिसका एक किनारा 14 सेमी. है, में से एक अधिकतम आयतन का गोला काटा जाता है, तो गोले का आयतन लगभग है-",
+      "options": {
+        "A": "$359\\ cm^3$",
+        "B": "$1437\\ cm^3$",
+        "C": "$2874\\ cm^3$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "359 सेमी$^3$",
+        "B": "1437 सेमी$^3$",
+        "C": "2874 सेमी$^3$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The radius and height of a cone are r and h respectively, then its volume is -",
+      "prashna": "एक शंकु की त्रिज्या तथा ऊँचाई क्रमशः r और h हैं, तो उसका आयतन है-",
+      "options": {
+        "A": "$\frac{1}, {2} \\pi r^2 h$",
+        "B": "$\frac{4}, {3} \\pi r^2 h$",
+        "C": "$\frac{1}, {3} \\pi r^2 h$",
+        "D": "$\\pi r^2 h$"
+      },
+      "vikalpa": {
+        "A": "$\frac{1}, {2} \\pi r^2 h$",
+        "B": "$\frac{4}, {3} \\pi r^2 h$",
+        "C": "$\frac{1}, {3} \\pi r^2 h$",
+        "D": "$\\pi r^2 h$"
+      }
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "Calculate the volume of a right circular cone whose height is 28cm and radius of the base is 21cm.",
+      "prashna": "एक लम्बवृत्तीय शंकु की ऊँचाई 28 सेमी. और आधार की त्रिज्या 21 सेमी. है, तो उसके आयतन की गणना करें।"
+    },
+    {
+      "id": "short_17",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "Find the surface area of a sphere whose diameter is 14 cm.",
+      "prashna": "उस गोले का वक्र पृष्ठ निकालें जिसका व्यास 14 सेमी. है।"
+    },
     {
       "id": "long_7",
       "type": "long_answer",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "The mean of the given data is 18. Then find the unknown frequency :\n\n| Class-Interval | 11-13 | 13-15 | 15-17 | 17-19 | 19-21 | 21-23 | 23-25 |\n| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n| No. of children | 7 | 6 | 9 | 13 | f | 5 | 4 |",
-      "prashna": "दिए गए आँकड़ों का माध्य 18 है तो अज्ञात बारंबारता ज्ञात करें :\n\n| वर्ग-अंतराल | 11-13 | 13-15 | 15-17 | 17-19 | 19-21 | 21-23 | 23-25 |\n| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n| बच्चों की संख्या | 7 | 6 | 9 | 13 | f | 5 | 4 |"
-    },
-    {
-      "id": "obj_84",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "If the mean of 6, 8, 9, x and 13 is 10, the value of $x$ will be",
-      "prashna": "यदि 6, 8, 9, $x$ एवं 13 का माध्य 10 है तो $x$ का मान होगा",
-      "options": {
-        "A": "12",
-        "B": "14",
-        "C": "10",
-        "D": "11"
-      },
-      "vikalpa": {
-        "A": "12",
-        "B": "14",
-        "C": "10",
-        "D": "11"
-      }
-    },
-    {
-      "id": "obj_85",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Median of 15, 6, 16, 8, 22, 21, 9, 18, 25 is",
-      "prashna": "15, 6, 16, 8, 22, 21, 9, 18, 25 की माध्यिका होगी",
-      "options": {
-        "A": "16",
-        "B": "15",
-        "C": "18",
-        "D": "none of these"
-      },
-      "vikalpa": {
-        "A": "16",
-        "B": "15",
-        "C": "18",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_86",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Mode of 23, 15, 25, 40, 27, 25, 22, 25, 20 is",
-      "prashna": "23, 15, 25, 40, 27, 25, 22, 25, 20 का बहुलक होगा",
-      "options": {
-        "A": "20",
-        "B": "25",
-        "C": "23",
-        "D": "none of these"
-      },
-      "vikalpa": {
-        "A": "20",
-        "B": "25",
-        "C": "23",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_87",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "The range of the data 12, 25, 15, 18, 17, 20, 6, 11, 16, 30, 20, 32 is",
-      "prashna": "आँकड़े 12, 25, 15, 18, 17, 20, 6, 11, 16, 30, 20, 32 का परिसर है",
-      "options": {
-        "A": "10",
-        "B": "15",
-        "C": "26",
-        "D": "18"
-      },
-      "vikalpa": {
-        "A": "10",
-        "B": "15",
-        "C": "26",
-        "D": "18"
-      }
-    },
-    {
-      "id": "obj_88",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "The class mark of the class interval 130 - 150 is",
-      "prashna": "वर्ग अन्तराल 130 - 150 का वर्ग चिह्न है",
-      "options": {
-        "A": "130",
-        "B": "135",
-        "C": "140",
-        "D": "145"
-      },
-      "vikalpa": {
-        "A": "130",
-        "B": "135",
-        "C": "140",
-        "D": "145"
-      }
-    },
-    {
-      "id": "obj_89",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "If mean of four consecutive odd numbers is 6 then what is the greatest number?",
-      "prashna": "यदि चार लगातार विषम संख्याओं का माध्य 6 है तो सबसे बड़ी संख्या क्या है?",
-      "options": {
-        "A": "5",
-        "B": "9",
-        "C": "21",
-        "D": "15"
-      },
-      "vikalpa": {
-        "A": "5",
-        "B": "9",
-        "C": "21",
-        "D": "15"
-      }
-    },
-    {
-      "id": "obj_90",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Which of the following is not a measure of central tendency?",
-      "prashna": "निम्नलिखित में कौन केन्द्रीय प्रवृत्ति की माप नहीं है?",
-      "options": {
-        "A": "Mean",
-        "B": "Median",
-        "C": "Mode",
-        "D": "Range"
-      },
-      "vikalpa": {
-        "A": "माध्य",
-        "B": "माध्यिका",
-        "C": "बहुलक",
-        "D": "परिसर"
-      }
-    },
-    {
-      "id": "obj_91",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "If the mean of a frequency distribution is 27 and median is 33 then the mode is",
-      "prashna": "यदि किसी बारंबारता सारणी का माध्य 27 एवं माध्यिका 33 हो तो बहुलक होगा",
-      "options": {
-        "A": "30",
-        "B": "43",
-        "C": "45",
-        "D": "47"
-      },
-      "vikalpa": {
-        "A": "30",
-        "B": "43",
-        "C": "45",
-        "D": "47"
-      }
-    },
-    {
-      "id": "short_30",
-      "type": "short_answer",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Find the mean of the following distribution: Class-interval 0-100 (6), 100-200 (9), 200-300 (15), 300-400 (12), 400-500 (8).",
-      "prashna": "निम्नलिखित बंटन का माध्य ज्ञात करें : वर्ग-अंतराल 0-100 (6), 100-200 (9), 200-300 (15), 300-400 (12), 400-500 (8)।"
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "Water is flowing with a speed of 10 km/hour in a canal 6 m wide and 1.5 m deep. How much area will it irrigate in 30 minutes, if 8 cm of standing water is needed for irrigation?",
+      "prashna": "6 मीटर चौड़ी और 1.5 मीटर गहरी एक नहर में पानी 10 किमी./घंटा की चाल से बह रहा है। 30 मिनट में यह नहर कितने क्षेत्रफल की सिंचाई कर पाएगी, जबकि सिंचाई के लिए 8 सेमी. गहरे पानी की आवश्यकता होती है।"
     },
     {
       "id": "long_8",
       "type": "long_answer",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Find the mode of the following distribution: Class-interval 0-10 (14), 10-20 (23), 20-30 (27), 30-40 (21), 40-50 (15).",
-      "prashna": "निम्नलिखित बंटन का बहुलक ज्ञात करें : वर्ग-अंतराल 0-10 (14), 10-20 (23), 20-30 (27), 30-40 (21), 40-50 (15)।"
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "A well of diameter 3 m is dug 14 m deep. The earth taken out of it has been spread evenly all around it in the shape of a circular ring of width 4 m to from an embankment. Find the height of the embankment.",
+      "prashna": "3 मीटर व्यास का एक कुआँ 14 मीटर की गहराई तक खोदा जाता है। इससे निकली हुई मिट्टी को कुएँ के चारों ओर 4 मीटर चौड़ी एक वृत्ताकार वलय बनाते हुए समान रूप से फैलाकर एक प्रकार का बाँध बनाया जाता है। इस बाँध की ऊँचाई ज्ञात करें।"
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "From a solid cube of edge 14 cm, a sphere of largest volume is cut. Approximate volume of sphere is -",
+      "prashna": "एक ठोस घन जिसका एक किनारा 14 सेमी है, में से एक अधिकतम आयतन का गोला काटा जाता है, तो गोले का आयतन लगभग है -",
+      "options": {
+        "A": "$359 \text{ cm}^3$",
+        "B": "$1437 \text{ cm}^3$",
+        "C": "$2874 \text{ cm}^3$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "359 सेमी$^3$",
+        "B": "1437 सेमी$^3$",
+        "C": "2874 सेमी$^3$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "Radii of two cylinders are in the ratio 2 : 3 and their heights are in the ratio 5 : 3, then their volumes are in the ratio -",
+      "prashna": "दो बेलनों की त्रिज्याओं का अनुपात 2 : 3 है तथा उनकी ऊँचाइयों का अनुपात 5 : 3 है, तो उनके आयतनों का अनुपात है -",
+      "options": {
+        "A": "27 : 20",
+        "B": "20 : 27",
+        "C": "4 : 9",
+        "D": "9 : 20"
+      },
+      "vikalpa": {
+        "A": "27 : 20",
+        "B": "20 : 27",
+        "C": "4 : 9",
+        "D": "9 : 20"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The radius and height of a cone are $r$ and $h$ respectively, then its volume is -",
+      "prashna": "एक शंकु की त्रिज्या तथा ऊँचाई क्रमशः $r$ और $h$ हैं, तो उसका आयतन है -",
+      "options": {
+        "A": "$\frac{1}, {2}\\pi r^2 h$",
+        "B": "$\frac{4}, {3}\\pi r^2 h$",
+        "C": "$\frac{1}, {3}\\pi r^2 h$",
+        "D": "$\\pi r^2 h$"
+      },
+      "vikalpa": {
+        "A": "$\frac{1}, {2}\\pi r^2 h$",
+        "B": "$\frac{4}, {3}\\pi r^2 h$",
+        "C": "$\frac{1}, {3}\\pi r^2 h$",
+        "D": "$\\pi r^2 h$"
+      }
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "How many cubes can be formed of side 2 cm from a cube of side 6 cm?",
+      "prashna": "6 सेमी भुजा वाले घन में से 2 सेमी भुजा वाले कितने घन बनाए जा सकते हैं?",
+      "options": {
+        "A": "56",
+        "B": "54",
+        "C": "28",
+        "D": "27"
+      },
+      "vikalpa": {
+        "A": "56",
+        "B": "54",
+        "C": "28",
+        "D": "27"
+      }
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "Calculate the volume of a right circular cone whose height is 28 cm and radius of the base is 21 cm.",
+      "prashna": "एक लम्बवृत्तीय शंकु की ऊँचाई 28 सेमी. और आधार की त्रिज्या 21 सेमी. है, तो उसके आयतन की गणना करें।"
+    },
+    {
+      "id": "short_17",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "Find the surface area of a sphere whose diameter is 14 cm.",
+      "prashna": "उस गोले का वक्र पृष्ठ निकालें जिसका व्यास 14 सेमी. है।"
+    },
+    {
+      "id": "long_7",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "Water is flowing with a speed of 10 km/hour in a canal 6 m wide and 1.5 m deep. How much area will it irrigate in 30 minutes, if 8 cm of standing water is needed for irrigation?",
+      "prashna": "6 मीटर चौड़ी और 1.5 मीटर गहरी एक नहर में पानी 10 किमी./ घंटा की चाल से बह रहा है। 30 मिनट में यह नहर कितने क्षेत्रफल की सिंचाई कर पाएगी, जबकि सिंचाई के लिए 8 सेमी. गहरे पानी की आवश्यकता होती है?",
+      "translation": "Water is flowing with a speed of 10 km/hour in a canal 6 m wide and 1.5 m deep. How much area will it irrigate in 30 minutes, if 8 cm of standing water is needed for irrigation?"
+    },
+    {
+      "id": "long_8",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "A well of diameter 3 m is dug 14 m deep. The earth taken out of it has been spread evenly all around it in the shape of a circular ring of width 4 m to from an embankment. Find the height of the embankment.",
+      "prashna": "3 मीटर व्यास का एक कुआँ 14 मीटर की गहराई तक खोदा जाता है। इससे निकली हुई मिट्टी को कुएँ के चारों ओर 4 मीटर चौड़ी एक वृत्ताकार वलय बनाते हुए समान रूप से फैलाकर एक प्रकार का बाँध बनाया जाता है। इस बाँध की ऊँचाई ज्ञात करें।"
     }
   ],
-  "2023": [
+  "2020": [
     {
-      "id": "obj_86",
+      "id": "obj_6",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "If the median of 24, 27, 28, 31, 34, $x$, 37, 40, 42, 45, 50 is 35, then the value of $x$ is",
-      "prashna": "यदि 24, 27, 28, 31, 34, $x$, 37, 40, 42, 45, 50 की माध्यिका 35 हो, तो $x$ का मान है",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "If the length of a cuboid is $l$, width $b$ and height $h$, then the volume of the cuboid is",
+      "prashna": "यदि किसी घनाभ की लंबाई $l$, चौड़ाई $b$ तथा ऊँचाई $h$ हो, तो घनाभ का आयतन है",
       "options": {
-        "A": "35",
-        "B": "36",
-        "C": "34.5",
-        "D": "35.5"
+        "A": "$lbh$",
+        "B": "$\\sqrt{l^2 + b^2 + h^2}$",
+        "C": "$2lbh$",
+        "D": "$2(lb + bh + lh)$"
       },
       "vikalpa": {
-        "A": "35",
-        "B": "36",
-        "C": "34.5",
-        "D": "35.5"
+        "A": "$lbh$",
+        "B": "$\\sqrt{l^2 + b^2 + h^2}$",
+        "C": "$2lbh$",
+        "D": "$2(lb + bh + lh)$"
       }
     },
     {
-      "id": "obj_87",
+      "id": "obj_9",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "The cumulative frequency table is useful in the determination of the following?",
-      "prashna": "संचयी बारंबारता सारणी निम्न में से किसके निर्धारण में उपयोगी होता है?",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The bases of a cylinder and a cone are same. If their heights are also same, then the ratio of their volumes will be",
+      "prashna": "एक बेलन और एक शंकु के आधार समान हैं। यदि उनकी ऊँचाइयाँ भी समान हों, तो उनके आयतनों का अनुपात होगा",
       "options": {
-        "A": "Mean",
-        "B": "Median",
-        "C": "Mode",
+        "A": "1 : 2",
+        "B": "2 : 3",
+        "C": "3 : 2",
+        "D": "3 : 1"
+      },
+      "vikalpa": {
+        "A": "1 : 2",
+        "B": "2 : 3",
+        "C": "3 : 2",
+        "D": "3 : 1"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The radii of the bases of a cylinder and a cone are in the ratio 3 : 4. If they have their heights in the ratio 2 : 3, the ratio of their volumes is",
+      "prashna": "एक बेलन तथा शंकु के आधार की त्रिज्याएँ 3 : 4 के अनुपात में हैं तथा उनकी ऊँचाइयाँ 2 : 3 के अनुपात में हैं। बेलन के आयतनों का अनुपात है",
+      "options": {
+        "A": "3 : 4",
+        "B": "9 : 8",
+        "C": "8 : 9",
+        "D": "4 : 3"
+      },
+      "vikalpa": {
+        "A": "3 : 4",
+        "B": "9 : 8",
+        "C": "8 : 9",
+        "D": "4 : 3"
+      }
+    },
+    {
+      "id": "obj_48",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "A wire of 4 mm diameter is made by pulling a metallic cube whose side is 1 cm. The length of the wire is",
+      "prashna": "एक धातु का घन, जिसकी भुजा 1 cm है, को खींचकर 4 mm व्यास का एक तार बनाया गया है। तार की लम्बाई है",
+      "options": {
+        "A": "$\frac{100}, {\\pi}$ cm",
+        "B": "$\frac{25}, {\\pi}$ cm",
+        "C": "$100\\pi$ cm",
+        "D": "10000 cm"
+      },
+      "vikalpa": {
+        "A": "$\frac{100}, {\\pi}$ cm",
+        "B": "$\frac{25}, {\\pi}$ cm",
+        "C": "$100\\pi$ cm",
+        "D": "10000 cm"
+      }
+    },
+    {
+      "id": "short_17",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "Find the surface area of a hemisphere whose diameter is 14 cm.",
+      "prashna": "उस अर्द्धगोले का वक्र पृष्ठ निकालें जिसका व्यास 14 cm है।"
+    },
+    {
+      "id": "short_21",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "Calculate the volume of a right circular cone whose height is 24 cm and radius of the base is 7 cm.",
+      "prashna": "एक लम्बवृत्तीय शंकु की ऊँचाई 24 cm और आधार की त्रिज्या 7 cm है, तो उसके आयतन की गणना करें।"
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "Radii of two cylinders are in the ratio $(1 : 2)$ and their heights are in the ratio $(5 : 3)$, then their volumes are in the ratio",
+      "prashna": "दो बेलनों की त्रिज्याओं का अनुपात $(1 : 2)$ है तथा उनकी ऊँचाइयों का अनुपात $(5 : 3)$ है, तो उनके आयतनों का अनुपात है",
+      "options": {
+        "A": "$4 : 9$",
+        "B": "$11 : 12$",
+        "C": "$5 : 12$",
+        "D": "$20 : 9$"
+      },
+      "vikalpa": {
+        "A": "$4 : 9$",
+        "B": "$11 : 12$",
+        "C": "$5 : 12$",
+        "D": "$20 : 9$"
+      }
+    },
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "If the total surface area of a cube is $216 \text{ cm}^2$, its volume is",
+      "prashna": "एक घन का संपूर्ण पृष्ठीय क्षेत्रफल $216 \text{ cm}^2$ है तो इसका आयतन है",
+      "options": {
+        "A": "$144 \text{ cm}^3$",
+        "B": "$196 \text{ cm}^3$",
+        "C": "$212 \text{ cm}^3$",
+        "D": "$216 \text{ cm}^3$"
+      },
+      "vikalpa": {
+        "A": "$144 \text{ cm}^3$",
+        "B": "$196 \text{ cm}^3$",
+        "C": "$212 \text{ cm}^3$",
+        "D": "$216 \text{ cm}^3$"
+      }
+    },
+    {
+      "id": "obj_49",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The ratio of the volumes of two cylinders of the same height is $9 : 16$, then what is the ratio of their surface areas ?",
+      "prashna": "समान ऊँचाई वाले दो बेलनों के आयतनों का अनुपात $9 : 16$ है, तो उनके वक्र पृष्ठों के क्षेत्रफलों का अनुपात क्या होगा ?",
+      "options": {
+        "A": "$3 : 4$",
+        "B": "$2 : 3$",
+        "C": "$3 : 1$",
+        "D": "$4 : 3$"
+      },
+      "vikalpa": {
+        "A": "$3 : 4$",
+        "B": "$2 : 3$",
+        "C": "$3 : 1$",
+        "D": "$4 : 3$"
+      }
+    },
+    {
+      "id": "obj_53",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The volume of the sphere of radius $r$ is",
+      "prashna": "$r$ त्रिज्या के गोले का आयतन होता है",
+      "options": {
+        "A": "$\frac{4}, {3} \\pi r^3$",
+        "B": "$\frac{2}, {3} \\pi r^3$",
+        "C": "$\frac{3}, {2} \\pi r^3$",
+        "D": "$\frac{1}, {3} \\pi r^3$"
+      },
+      "vikalpa": {
+        "A": "$\frac{4}, {3} \\pi r^3$",
+        "B": "$\frac{2}, {3} \\pi r^3$",
+        "C": "$\frac{3}, {2} \\pi r^3$",
+        "D": "$\frac{1}, {3} \\pi r^3$"
+      }
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "If the circumference of the base of a cylinder is $132 \text{ cm}$ and its height is $25 \text{ cm}$, find the volume of the cylinder.",
+      "prashna": "एक बेलन के आधार की परिधि $132 \text{ cm}$ और उसकी ऊँचाई $25 \text{ cm}$ है, तो बेलन का आयतन ज्ञात करें।"
+    },
+    {
+      "id": "short_25",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "Find the curved surface area of a cone whose radius of base is $5 \text{ cm}$ and height is $12 \text{ cm}$.",
+      "prashna": "एक शंकु के आधार की त्रिज्या $5 \text{ cm}$ तथा ऊँचाई $12 \text{ cm}$ है। इसका वक्र पृष्ठ क्षेत्रफल निकालें।"
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The total surface area of a hemisphere of radius $r$ is",
+      "prashna": "$r$ त्रिज्या वाले अर्धगोले का संपूर्ण पृष्ठ का क्षेत्रफल होगा",
+      "options": {
+        "A": "$3\\pi r^2$",
+        "B": "$4\\pi r^2$",
+        "C": "$2\\pi r^2$",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "$3\\pi r^2$",
+        "B": "$4\\pi r^2$",
+        "C": "$2\\pi r^2$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "If the radius of the base of a cylinder is $2$ cm and its height is $14$ cm, then volume of the cylinder will be",
+      "prashna": "किसी बेलन की आधार की त्रिज्या $2$ cm है, एवं ऊँचाई $14$ cm है, तो उस बेलन का आयतन होगा",
+      "options": {
+        "A": "$176$ cm$^3$",
+        "B": "$196$ cm$^3$",
+        "C": "$276$ cm$^3$",
+        "D": "$352$ cm$^3$"
+      },
+      "vikalpa": {
+        "A": "$176$ cm$^3$",
+        "B": "$196$ cm$^3$",
+        "C": "$276$ cm$^3$",
+        "D": "$352$ cm$^3$"
+      }
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The diameter of a sphere is $14$ cm, then its volume is",
+      "prashna": "यदि किसी गोले का व्यास $14$ cm है, तो इसका आयतन होगा",
+      "options": {
+        "A": "$1428$ cm$^3$",
+        "B": "$4312$ cm$^3$",
+        "C": "$\frac{4312}, {3}$ cm$^3$",
         "D": "None of these"
       },
       "vikalpa": {
-        "A": "भाध्म",
-        "B": "भास्ध्मका",
-        "C": "फहु रक",
-        "D": "इनभें से कोई नहीॊ"
+        "A": "$1428$ cm$^3$",
+        "B": "$4312$ cm$^3$",
+        "C": "$\frac{4312}, {3}$ cm$^3$",
+        "D": "इनमें से कोई नहीं"
       }
     },
     {
-      "id": "obj_88",
+      "id": "obj_39",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Which relationship is true for Mean, Median and Mode ?",
-      "prashna": "माध्य, माध्यिका और बहुलक में कौन-सा संबंध सत्य है ?",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "If the radius of the base of a cone is $5$ cm and its height is $12$ cm, then its curved surface area is",
+      "prashna": "किसी शंकु के आधार की त्रिज्या $5$ cm है एवं उसकी ऊँचाई $12$ cm है, तो इसका वक्र पृष्ठ का क्षेत्रफल होगा",
       "options": {
-        "A": "Mean - Mode = 3 (Mean - Median)",
-        "B": "Mean - Mode = 3 (Mean + Median)",
-        "C": "Mean - Mode = 3 (Mode - Median)",
-        "D": "None of these"
+        "A": "$60\\pi$ cm$^2$",
+        "B": "$65\\pi$ cm$^2$",
+        "C": "$30\\pi$ cm$^2$",
+        "D": "none of these"
       },
       "vikalpa": {
-        "A": "भाध्म - फहु रक = 3 (भाध्म - भास्ध्मका)",
-        "B": "भाध्म - फहु रक = 3 (भाध्म + भास्ध्मका)",
-        "C": "भाध्म - फहु रक = 3 (फहु रक - भास्ध्मका)",
-        "D": "इनभें से कोई नहीॊ"
+        "A": "$60\\pi$ cm$^2$",
+        "B": "$65\\pi$ cm$^2$",
+        "C": "$30\\pi$ cm$^2$",
+        "D": "इनमें से कोई नहीं"
       }
     },
     {
-      "id": "obj_89",
+      "id": "obj_40",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "In the following distribution what is the modal class? (Class: 0-10, 10-20, 20-30, 30-40, 40-50; Frequency: 15, 20, 45, 15, 25)",
-      "prashna": "निम्नलिखित वितरण में बहुलक वर्ग क्या है ? (वगथ: 0-10, 10-20, 20-30, 30-40, 40-50; फायॊफायता: 15, 20, 45, 15, 25)",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "If one side of a cube is $5$ cm, then its total surface area is",
+      "prashna": "यदि किसी घन की एक भुजा $5$ cm है, तो इसका संपूर्ण पृष्ठ का क्षेत्रफल होगा",
       "options": {
-        "A": "10-20",
-        "B": "20-30",
-        "C": "40-50",
-        "D": "None of these"
+        "A": "$150$ cm$^2$",
+        "B": "$125$ cm$^2$",
+        "C": "$100$ cm$^2$",
+        "D": "none of these"
       },
       "vikalpa": {
-        "A": "10-20",
-        "B": "20-30",
-        "C": "40-50",
-        "D": "इनभें से कोई नहीॊ"
+        "A": "$150$ cm$^2$",
+        "B": "$125$ cm$^2$",
+        "C": "$100$ cm$^2$",
+        "D": "इनमें से कोई नहीं"
       }
     },
     {
-      "id": "obj_90",
+      "id": "obj_48",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "If the mean of $x + 2, 2x + 3, 4x + 5$ and $5x + 2$ is 18 then the value of x is",
-      "prashna": "यदि $x + 2, 2x + 3, 4x + 5$ तथा $5x + 2$ का माध्य 18 है, तो x का मान होगा।",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "A metallic solid sphere of radius $9$ cm is melted to form a solid cylinder of radius $9$ cm, then the height of the cylinder is",
+      "prashna": "एक ठोस गोले को जिसकी त्रिज्या 9 cm है पिघलाकर एक ठोस बेलन बनाया गया जिसकी त्रिज्या 9 cm है, तो बेलन की ऊँचाई होगी",
       "options": {
-        "A": "5",
-        "B": "6",
-        "C": "3",
-        "D": "15"
+        "A": "12 cm",
+        "B": "18 cm",
+        "C": "36 cm",
+        "D": "96 cm"
       },
       "vikalpa": {
-        "A": "5",
-        "B": "6",
-        "C": "3",
-        "D": "15"
+        "A": "12 cm",
+        "B": "18 cm",
+        "C": "36 cm",
+        "D": "96 cm"
+      }
+    },
+    {
+      "id": "obj_95",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "If radius of a sphere is reduced to half then the ratio of volumes of original sphere and new sphere is",
+      "prashna": "यदि किसी गोले की त्रिज्या आधी कर दी जाती है तो मूल गोला एवं नये गोला के आयतन का अनुपात होगा",
+      "options": {
+        "A": "$1 : 8$",
+        "B": "$8 : 1$",
+        "C": "$1 : 4$",
+        "D": "$4 : 1$"
+      },
+      "vikalpa": {
+        "A": "$1 : 8$",
+        "B": "$8 : 1$",
+        "C": "$1 : 4$",
+        "D": "$4 : 1$"
+      }
+    },
+    {
+      "id": "obj_96",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The total surface area of a cone is $18$ m$^2$ and its slant height is double the radius of its base, then area of base of cone is",
+      "prashna": "एक शंकु की पूर्ण सतह का क्षेत्रफल $18$ मी$^2$ है और उसकी तिर्यक ऊँचाई, शंकु के आधार की त्रिज्या की दुगुनी है, तो शंकु के आधार का क्षेत्रफल है",
+      "options": {
+        "A": "$6$ मी$^2$",
+        "B": "$12$ मी$^2$",
+        "C": "$18$ मी$^2$",
+        "D": "$24$ मी$^2$"
+      },
+      "vikalpa": {
+        "A": "$6$ मी$^2$",
+        "B": "$12$ मी$^2$",
+        "C": "$18$ मी$^2$",
+        "D": "$24$ मी$^2$"
+      }
+    },
+    {
+      "id": "obj_97",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The areas of three adjacent faces of a cuboid are $x^2, y^2$ and $z^2$ respectively. Then the volume of the cuboid is",
+      "prashna": "एक घनाभ के तीन संलग्न फलकों का क्षेत्रफल क्रमशः $x^2, y^2$ एवं $z^2$ है तो घनाभ का आयतन होगा",
+      "options": {
+        "A": "$x^2 y^2 z^2$",
+        "B": "$x^2 + y^2 + z^2$",
+        "C": "$2xyz$",
+        "D": "$xyz$"
+      },
+      "vikalpa": {
+        "A": "$x^2 y^2 z^2$",
+        "B": "$x^2 + y^2 + z^2$",
+        "C": "$2xyz$",
+        "D": "$xyz$"
+      }
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The height of a cylinder is $14$ cm and its curved surface area is $264$ cm$^2$. Then find the volume of cylinder.",
+      "prashna": "यदि किसी बेलन की ऊँचाई $14$ cm है तथा उसके वक्रपृष्ठ का क्षेत्रफल $264$ cm$^2$ है तब उसका आयतन ज्ञात करें।"
+    },
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "Two cubes of edge $8$ cm are joined end to end to form a cuboid. Find the total surface area of the resulting cuboid.",
+      "prashna": "8 cm भुजा वाले दो घन को बराबर से जोड़ कर घनाभ बनाया गया। परिणामी घनाभ का संपूर्ण पृष्ठ क्षेत्रफल ज्ञात करें।"
+    },
+    {
+      "id": "obj_64",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The volume of a sphere with radius '$r$' will be",
+      "prashna": "'$r$' त्रिज्या वाले गोला का आयतन होगा",
+      "options": {
+        "A": "$\frac{4}, {3} \\pi r^3$ cubic units",
+        "B": "$\frac{1}, {3} \\pi r^3$ cubic units",
+        "C": "$\frac{2}, {3} \\pi r^3$ cubic units",
+        "D": "$\frac{3}, {4} \\pi r^3$ cubic units"
+      },
+      "vikalpa": {
+        "A": "$\frac{4}, {3} \\pi r^3$ घन इकाई",
+        "B": "$\frac{1}, {3} \\pi r^3$ घन इकाई",
+        "C": "$\frac{2}, {3} \\pi r^3$ घन इकाई",
+        "D": "$\frac{3}, {4} \\pi r^3$ घन इकाई"
       }
     },
     {
       "id": "obj_71",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "The median of 2, 7, 5, 3, 8 is",
-      "prashna": "2, 7, 5, 3, 8 का माध्यक है",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "If the length, breadth and height of a cuboid are $10$ cm, $8$ cm and $6$ cm respectively, then its diagonal is",
+      "prashna": "यदि एक घनाभ की लंबाई, चौड़ाई और ऊँचाई क्रमश: $10$ cm, $8$ cm और $6$ cm हैं, तो इसका विकर्ण होगा",
       "options": {
-        "A": "2",
-        "B": "3",
-        "C": "5",
-        "D": "7"
+        "A": "$10\\sqrt{2}$ cm",
+        "B": "$15\\sqrt{2}$ cm",
+        "C": "$5\\sqrt{2}$ cm",
+        "D": "$8\\sqrt{2}$ cm"
       },
       "vikalpa": {
-        "A": "2",
-        "B": "3",
-        "C": "5",
-        "D": "7"
-      }
-    },
-    {
-      "id": "obj_72",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "The mode of 7, 2, 5, 7, 7, 3, 7 is",
-      "prashna": "7, 2, 5, 7, 7, 3, 7 का बहुलक है",
-      "options": {
-        "A": "2",
-        "B": "3",
-        "C": "5",
-        "D": "7"
-      },
-      "vikalpa": {
-        "A": "2",
-        "B": "3",
-        "C": "5",
-        "D": "7"
-      }
-    },
-    {
-      "id": "obj_73",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "The class mark of the class interval 15 - 25 is",
-      "prashna": "वर्ग अंतराल 15 - 25 का वर्ग चिह्न है",
-      "options": {
-        "A": "10",
-        "B": "20",
-        "C": "30",
-        "D": "40"
-      },
-      "vikalpa": {
-        "A": "10",
-        "B": "20",
-        "C": "30",
-        "D": "40"
+        "A": "$10\\sqrt{2}$ cm",
+        "B": "$15\\sqrt{2}$ cm",
+        "C": "$5\\sqrt{2}$ cm",
+        "D": "$8\\sqrt{2}$ cm"
       }
     },
     {
       "id": "obj_74",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "The length of the class intervals of the classes 2 - 5, 5 - 8, 8 - 11, 11 - 14, ... is",
-      "prashna": "वर्ग अंतरालों 2 - 5, 5 - 8, 8 - 11, 11 - 14, ... के वर्गों की लम्बाई है",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "If each edge/side of a cube is $l$, then its total surface area will be",
+      "prashna": "यदि किसी घन का प्रत्येक किनारा / इकाई हो, तो उसका संपूर्ण पृष्ठ का क्षेत्रफल होगा",
       "options": {
-        "A": "2",
-        "B": "3",
-        "C": "4",
-        "D": "3.5"
+        "A": "$l^2$ sq. units",
+        "B": "$6l^2$ sq. units",
+        "C": "$4l^2$ sq. units",
+        "D": "$9l^2$ sq. units"
       },
       "vikalpa": {
-        "A": "2",
-        "B": "3",
-        "C": "4",
-        "D": "3.5"
-      }
-    },
-    {
-      "id": "obj_76",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "If the mean of four consecutive odd numbers is 6, then the largest number is",
-      "prashna": "यदि चार लगातार विषम संख्याओं का माध्य 6 है, तो सबसे बड़ी संख्या है",
-      "options": {
-        "A": "5",
-        "B": "9",
-        "C": "21",
-        "D": "15"
-      },
-      "vikalpa": {
-        "A": "5",
-        "B": "9",
-        "C": "21",
-        "D": "15"
-      }
-    },
-    {
-      "id": "obj_77",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "What should be the length of the classes to calculate the mode from the formula ?",
-      "prashna": "सूत्र से बहुलक परिकलित करने के लिए वर्गों की लम्बाई कैसी होनी चाहिए ?",
-      "options": {
-        "A": "Equal",
-        "B": "Unequal",
-        "C": "Very large",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "समान",
-        "B": "असमान",
-        "C": "काफी अधिक",
-        "D": "इनमें से कोई नहीं"
+        "A": "$l^2$ वर्ग इकाई",
+        "B": "$6l^2$ वर्ग इकाई",
+        "C": "$4l^2$ वर्ग इकाई",
+        "D": "$9l^2$ वर्ग इकाई"
       }
     },
     {
       "id": "obj_78",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "The mean and mode of a frequency distribution are 28 and 16 respectively. What will be its median ?",
-      "prashna": "एक बारम्बारता बंटन के माध्य तथा बहुलक क्रमशः 28 तथा 16 हैं। इसका माध्यक क्या होगा ?",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "If the radius of a cone is $14$ cm and its slant height is $15$ cm, then the total surface area of the cone will be",
+      "prashna": "यदि एक शंकु की त्रिज्या $14$ cm और इसकी तिर्यक ऊँचाई $15$ cm हो, तो शंकु का सम्पूर्ण पृष्ठ होगा",
       "options": {
-        "A": "22",
-        "B": "23.5",
-        "C": "24",
-        "D": "24.5"
+        "A": "$1276$ cm$^2$",
+        "B": "$660$ cm$^2$",
+        "C": "$1376$ cm$^2$",
+        "D": "$1320$ cm$^2$"
       },
       "vikalpa": {
-        "A": "22",
-        "B": "23.5",
-        "C": "24",
-        "D": "24.5"
+        "A": "$1276$ सेमी$^2$",
+        "B": "$660$ सेमी$^2$",
+        "C": "$1376$ सेमी$^2$",
+        "D": "$1320$ सेमी$^2$"
       }
     },
     {
-      "id": "short_11",
+      "id": "short_10",
       "type": "short_answer",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Find the mean of the following data : \n Marks obtained: 10, 15, 20, 25, 30 \n Number of students: 4, 6, 3, 2, 5",
-      "prashna": "निम्नांकित आँकड़ों का माध्य ज्ञात करें : \n प्राप्त अंक: 10, 15, 20, 25, 30 \n विद्यार्थियों की संख्या: 4, 6, 3, 2, 5"
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The volume of a hemisphere is $18 \\pi$ cm$^3$, find its radius.",
+      "prashna": "एक अर्द्धगोला का आयतन $18 \\pi$ cm$^3$ है, तो इसकी त्रिज्या ज्ञात करें।"
     },
     {
-      "id": "long_3",
-      "type": "long_answer",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Find the mean of the following distribution : \n Class-interval: 5-15, 15-25, 25-35, 35-45, 45-55, 55-65 \n Frequency: 6, 11, 21, 23, 14, 5",
-      "prashna": "निम्नलिखित बंटन का माध्य ज्ञात करें : \n वर्ग-अंतराल: 5-15, 15-25, 25-35, 35-45, 45-55, 55-65 \n बारंबारता: 6, 11, 21, 23, 14, 5"
-    }
-  ],
-  "2024": [
-    {
-      "id": "short_8",
+      "id": "short_17",
       "type": "short_answer",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Find the mean of the following data :\nVariable: 4, 6, 8, 10, 12\nFrequency: 4, 8, 14, 11, 3",
-      "prashna": "निम्नलिखित आँकड़ों का माध्य ज्ञात करें :\nचर: 4, 6, 8, 10, 12\nबारंबारता: 4, 8, 14, 11, 3"
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The circumference of the base of a cylinder is $44$ cm and its height is $24$ cm, find the curved surface area of the cylinder.",
+      "prashna": "एक बेलन के आधार की परिधि $44$ cm और उसकी ऊँचाई $24$ cm है, तो बेलन का वक्रपृष्ठ का क्षेत्रफल ज्ञात करें।"
+    },
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "A toy is in the form of a cone of radius $3.5$ cm mounted on a hemisphere of the same radius. The total height of the toy is $15.5$ cm. Find the volume of the toy.",
+      "prashna": "एक खिलौना $3.5$ cm त्रिज्या वाले शंकु के आकार का है, जो इसी त्रिज्या वाले गोलार्द्ध के ऊपर है। खिलौने की कुल ऊँचाई $15.5$ cm है। खिलौने का आयतन ज्ञात करें।"
+    }
+  ],
+  "2022": [
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "Find the curved surface area of a hemisphere of radius $3.5$ cm.",
+      "prashna": "3.5 सेमी त्रिज्या वाले अर्द्धगोले का वक्रपृष्ठ का क्षेत्रफल ज्ञात करें।"
     },
     {
       "id": "long_8",
       "type": "long_answer",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Find the mode of the following distribution :\nClass-interval: 80-85, 85-90, 90-95, 95-100, 100-105, 105-110, 110-115\nFrequency: 33, 27, 85, 155, 110, 45, 15",
-      "prashna": "निम्नलिखित बंटन का बहुलक ज्ञात करें :\nवर्ग-अंतराल: 80-85, 85-90, 90-95, 95-100, 100-105, 105-110, 110-115\nबारंबारता: 33, 27, 85, 155, 110, 45, 15"
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "An article is made by scooping out a hemisphere from each end of a solid wooden cylinder. If the height of the cylinder is 10 cm and its base radius is 3.5 cm then find the surface area and volume of the remaining solid.",
+      "prashna": "लकड़ी के एक ठोस बेलन के प्रत्येक सिरे पर एक अर्द्धगोला खोदकर एक वस्तु बनाया जाता है। यदि बेलन की ऊँचाई 10 सेमी और बेलन के आधार की त्रिज्या 3.5 सेमी हो तो बचे हुए ठोस का पृष्ठीय क्षेत्रफल और आयतन ज्ञात करें।"
     },
     {
-      "id": "obj_1",
+      "id": "obj_76",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "The mean of first seven multiples of 5 is",
-      "prashna": "5 के प्रथम सात गुणजों का माध्य है",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "If curved surface area of a cone is $880 \text{ cm}^2$ and its radius is $14 \text{ cm}$ then its slant height is",
+      "prashna": "यदि किसी शंकु के वक्रपृष्ठ का क्षेत्रफल $880 \text{ सेमी}^2$ और त्रिज्या $14 \text{ सेमी}$ हो तो उसकी तिर्यक ऊँचाई होगी",
       "options": {
-        "A": "25",
-        "B": "20",
-        "C": "30",
-        "D": "35"
+        "A": "$40 \text{ cm}$",
+        "B": "$20 \text{ cm}$",
+        "C": "$80 \text{ cm}$",
+        "D": "$10 \text{ cm}$"
       },
       "vikalpa": {
-        "A": "25",
-        "B": "20",
-        "C": "30",
-        "D": "35"
+        "A": "$40 \text{ सेमी}$",
+        "B": "$20 \text{ सेमी}$",
+        "C": "$80 \text{ सेमी}$",
+        "D": "$10 \text{ सेमी}$"
       }
     },
     {
-      "id": "obj_2",
+      "id": "obj_77",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "The median of 20, 13, 18, 25, 6, 15, 21, 9, 16, 8, 22 is",
-      "prashna": "20, 13, 18, 25, 6, 15, 21, 9, 16, 8, 22 की माध्यिका है",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The ratio of the volumes of two cylinders of equal height is $9 : 16$. Then the ratio of their curved surface areas is",
+      "prashna": "समान ऊँचाई वाले दो बेलनों के आयतनों का अनुपात $9 : 16$ है तो उनके वक्र पृष्ठों के क्षेत्रफलों का अनुपात होगा",
       "options": {
-        "A": "18",
-        "B": "16",
-        "C": "6",
-        "D": "15"
+        "A": "$9 : 16$",
+        "B": "$16 : 9$",
+        "C": "$3 : 4$",
+        "D": "$4 : 3$"
       },
       "vikalpa": {
-        "A": "18",
-        "B": "16",
-        "C": "6",
-        "D": "15"
+        "A": "$9 : 16$",
+        "B": "$16 : 9$",
+        "C": "$3 : 4$",
+        "D": "$4 : 3$"
       }
     },
     {
-      "id": "obj_3",
+      "id": "obj_78",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "The mode of 23, 15, 25, 40, 27, 25, 22, 25, 20 is",
-      "prashna": "23, 15, 25, 40, 27, 25, 22, 25, 20 का बहुलक है",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The total surface area of a cone is $18 \text{ m}^2$ and its slant height is twice the radius of base of the cone. Then the area of the base of cone is",
+      "prashna": "एक शंकु की पूर्ण सतह का क्षेत्रफल $18 \text{ मी}^2$ है और उसकी तिर्यक ऊँचाई, शंकु के आधार की त्रिज्या की दुगुनी है, तो शंकु के आधार का क्षेत्रफल है",
       "options": {
-        "A": "23",
-        "B": "25",
-        "C": "22",
-        "D": "15"
+        "A": "$6 \text{ m}^2$",
+        "B": "$12 \text{ m}^2$",
+        "C": "$18 \text{ m}^2$",
+        "D": "$24 \text{ m}^2$"
       },
       "vikalpa": {
-        "A": "23",
-        "B": "25",
-        "C": "22",
-        "D": "15"
+        "A": "$6 \text{ मी}^2$",
+        "B": "$12 \text{ मी}^2$",
+        "C": "$18 \text{ मी}^2$",
+        "D": "$24 \text{ मी}^2$"
       }
     },
     {
-      "id": "obj_4",
+      "id": "obj_79",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "The median of a frequency distribution is 40 and mean is $38.2$. Then its mode is",
-      "prashna": "एक बारम्बारता बंटन की माध्यिका 40 एवं माध्य $38.2$ है तो इसका बहुलक होगा",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The ratio of volumes of two spheres is $8 : 27$. Then the ratio of their total surface areas is",
+      "prashna": "दो गोलों के आयतनों का अनुपात $8 : 27$ है तो उनके सम्पूर्ण पृष्ठ के क्षेत्रफलों का अनुपात होगा",
       "options": {
-        "A": "43",
-        "B": "43.6",
-        "C": "42",
-        "D": "none of these"
+        "A": "$2 : 3$",
+        "B": "$4 : 5$",
+        "C": "$5 : 6$",
+        "D": "$4 : 9$"
       },
       "vikalpa": {
-        "A": "43",
-        "B": "43.6",
-        "C": "42",
-        "D": "इनमें से कोई नहीं"
+        "A": "$2 : 3$",
+        "B": "$4 : 5$",
+        "C": "$5 : 6$",
+        "D": "$4 : 9$"
       }
     },
     {
-      "id": "obj_5",
+      "id": "obj_80",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "If the mean of $x, x+3, x+5, x+7$ and $x+10$ is 9 then the value of $x$ is",
-      "prashna": "यदि $x, x+3, x+5, x+7$ एवं $x+10$ का माध्य 9 है तो $x$ का मान होगा",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "If the total surface area of a sphere is $616 \text{ cm}^2$, then the diameter of the sphere is",
+      "prashna": "किसी गोले का सम्पूर्ण पृष्ठ का क्षेत्रफल $616 \text{ सेमी}^2$ है तो गोले का व्यास होगा",
       "options": {
-        "A": "4",
-        "B": "6",
-        "C": "5",
-        "D": "7"
+        "A": "$7 \text{ cm}$",
+        "B": "$14 \text{ cm}$",
+        "C": "$28 \text{ cm}$",
+        "D": "$56 \text{ cm}$"
       },
       "vikalpa": {
-        "A": "4",
-        "B": "6",
-        "C": "5",
-        "D": "7"
+        "A": "$7 \text{ सेमी}$",
+        "B": "$14 \text{ सेमी}$",
+        "C": "$28 \text{ सेमी}$",
+        "D": "$56 \text{ सेमी}$"
       }
     },
     {
-      "id": "short_2",
+      "id": "obj_82",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "Two cubes have their volumes in the ratio $1 : 27$. The ratio of their total surface areas is",
+      "prashna": "दो घनों के आयतनों का अनुपात $1 : 27$ है, उनके कुल पृष्ठ क्षेत्रफलों का अनुपात होगा",
+      "options": {
+        "A": "$1 : 3$",
+        "B": "$1 : 8$",
+        "C": "$1 : 9$",
+        "D": "$1 : 18$"
+      },
+      "vikalpa": {
+        "A": "$1 : 3$",
+        "B": "$1 : 8$",
+        "C": "$1 : 9$",
+        "D": "$1 : 18$"
+      }
+    },
+    {
+      "id": "obj_83",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The volume of a sphere, whose radius is $2r$, is",
+      "prashna": "एक गोला जिसकी त्रिज्या $2r$ है, उसका आयतन होगा",
+      "options": {
+        "A": "$\frac{32\\pi r^3}, {3}$",
+        "B": "$\frac{16\\pi r^3}, {3}$",
+        "C": "$\frac{8\\pi r^3}, {3}$",
+        "D": "$\frac{64\\pi r^3}, {3}$"
+      },
+      "vikalpa": {
+        "A": "$\frac{32\\pi r^3}, {3}$",
+        "B": "$\frac{16\\pi r^3}, {3}$",
+        "C": "$\frac{8\\pi r^3}, {3}$",
+        "D": "$\frac{64\\pi r^3}, {3}$"
+      }
+    },
+    {
+      "id": "obj_100",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "If $r$ is the radius of a hemisphere then its total surface area will be",
+      "prashna": "यदि किसी अर्द्धगोले की त्रिज्या $r$ हो तो उसके सम्पूर्ण पृष्ठ का क्षेत्रफल होगा",
+      "options": {
+        "A": "$2\\pi r^2$",
+        "B": "$\\pi r^2$",
+        "C": "$3\\pi r^2$",
+        "D": "$4\\pi r^2$"
+      },
+      "vikalpa": {
+        "A": "$2\\pi r^2$",
+        "B": "$\\pi r^2$",
+        "C": "$3\\pi r^2$",
+        "D": "$4\\pi r^2$"
+      }
+    },
+    {
+      "id": "short_26",
       "type": "short_answer",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Find the mean of the following data : \nVariable: 2, 4, 6, 10, 12\nFrequency: 3, 2, 3, 1, 2",
-      "prashna": "निम्नलिखित आँकड़ों का माध्य ज्ञात करें :\nचर: 2, 4, 6, 10, 12\nबारंवारता: 3, 2, 3, 1, 2"
-    },
-    {
-      "id": "long_5",
-      "type": "long_answer",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Find the median of the following data :\nClass-interval: 40-45, 45-50, 50-55, 55-60, 60-65, 65-70, 70-75\nFrequency: 2, 3, 8, 6, 6, 3, 2",
-      "prashna": "निम्नलिखित बंटन का माध्यिका निकालें :\nवर्ग-अंतराल: 40-45, 45-50, 50-55, 55-60, 60-65, 65-70, 70-75\nबारंबारता: 2, 3, 8, 6, 6, 3, 2"
-    }
-  ],
-  "2025": [
-    {
-      "id": "obj_71",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "The length of the class intervals of the classes $2 - 5, 5 - 8, 8 - 11, \\dots$ is",
-      "prashna": "वर्ग अंतरालों $2 - 5, 5 - 8, 8 - 11, \\dots$ के वर्गों की लंबाई है",
-      "options": {
-        "A": "2",
-        "B": "3",
-        "C": "4",
-        "D": "3.5"
-      },
-      "vikalpa": {
-        "A": "2",
-        "B": "3",
-        "C": "4",
-        "D": "3.5"
-      }
-    },
-    {
-      "id": "obj_72",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "If the mean of four consecutive odd numbers is 6 then the largest number is",
-      "prashna": "यदि चार लगातार विषम संख्याओं का माध्य 6 है, तो सबसे बड़ी संख्या है",
-      "options": {
-        "A": "4.5",
-        "B": "9",
-        "C": "21",
-        "D": "15"
-      },
-      "vikalpa": {
-        "A": "4.5",
-        "B": "9",
-        "C": "21",
-        "D": "15"
-      }
-    },
-    {
-      "id": "obj_73",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "The mean of first 6 even natural numbers is",
-      "prashna": "प्रथम 6 सम प्राकृत संख्याओं का माध्य है",
-      "options": {
-        "A": "4",
-        "B": "6",
-        "C": "7",
-        "D": "none of these"
-      },
-      "vikalpa": {
-        "A": "4",
-        "B": "6",
-        "C": "7",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_75",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "The mode of $8, 7, 9, 3, 9, 5, 4, 5, 7, 5$ is",
-      "prashna": "$8, 7, 9, 3, 9, 5, 4, 5, 7, 5$ का बहुलक है",
-      "options": {
-        "A": "5",
-        "B": "7",
-        "C": "8",
-        "D": "9"
-      },
-      "vikalpa": {
-        "A": "5",
-        "B": "7",
-        "C": "8",
-        "D": "9"
-      }
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "Two cubes of $8 \text{ cm}$ side are joined equally. Find the total surface area of resulting cuboid.",
+      "prashna": "$8$ सेमी भुजा वाले दो घन बराबर से जोड़ दिए गए हैं। परिणामी घनाभ का कुल पृष्ठ क्षेत्रफल ज्ञात करें।"
     },
     {
       "id": "long_7",
       "type": "long_answer",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "Find the mean of the following distribution:",
-      "prashna": "निम्नलिखित बंटन का माध्य ज्ञात करें :",
-      "sub_questions": {
-        "Class-interval": [
-          "11-13",
-          "13-15",
-          "15-17",
-          "17-19",
-          "19-21",
-          "21-23",
-          "23-25"
-        ],
-        "Frequency": [
-          7,
-          6,
-          9,
-          13,
-          20,
-          5,
-          4
-        ]
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "A solid cube of edge $22 \text{ cm}$ is melted to form a circular cylinder of length $7 \text{ cm}$. Find the radius of cylinder.",
+      "prashna": "$22$ सेमी किनारे वाले एक ठोस घन को पिघलाकर एक $7$ सेमी लम्बा वृत्ताकार बेलन बनाया जाता है। बेलन की त्रिज्या ज्ञात करें।"
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "How many solid spheres of radius 1 cm can be made from a solid sphere of radius 8 cm ?",
+      "prashna": "एक 8 cm त्रिज्या के ठोस गोले से 1 cm त्रिज्या के कितने ठोस गोले बनाए जा सकते हैं?",
+      "options": {
+        "A": "256",
+        "B": "512",
+        "C": "1024",
+        "D": "576"
       },
-      "anuprashna": {
-        "वर्ग अंतराल": [
-          "11-13",
-          "13-15",
-          "15-17",
-          "17-19",
-          "19-21",
-          "21-23",
-          "23-25"
-        ],
-        "बारंबारता": [
-          7,
-          6,
-          9,
-          13,
-          20,
-          5,
-          4
-        ]
+      "vikalpa": {
+        "A": "256",
+        "B": "512",
+        "C": "1024",
+        "D": "576"
       }
     },
     {
-      "id": "obj_61",
+      "id": "obj_34",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "The length of the classes of the class intervals $3 - 7, 7 - 11, 11 - 15, \\dots$ is",
-      "prashna": "वर्ग अंतरालों $3 - 7, 7 - 11, 11 - 15, \\dots$ के वर्गों की लंबाई है",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The base diameter of a cone is 10 cm and its height is 12 cm. Then the volume of cone is",
+      "prashna": "एक शंकु के आधार का व्यास 10 cm और इसकी ऊँचाई 12 cm है, तो शंकु का आयतन है",
       "options": {
-        "A": "2",
-        "B": "3",
-        "C": "4",
-        "D": "5"
+        "A": "$400 \\pi \text{ cm}^3$",
+        "B": "$300 \\pi \text{ cm}^3$",
+        "C": "$100 \\pi \text{ cm}^3$",
+        "D": "$200 \\pi \text{ cm}^3$"
       },
       "vikalpa": {
-        "A": "2",
-        "B": "3",
-        "C": "4",
-        "D": "5"
+        "A": "$400 \\pi \text{ cm}^3$",
+        "B": "$300 \\pi \text{ cm}^3$",
+        "C": "$100 \\pi \text{ cm}^3$",
+        "D": "$200 \\pi \text{ cm}^3$"
       }
     },
     {
-      "id": "obj_62",
+      "id": "obj_35",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "The mean of first 10 even natural numbers is",
-      "prashna": "प्रथम 10 सम प्राकृत संख्याओं का माध्य है",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The external radius of a metallic pipe is 4 cm and its internal radius is 3 cm. If its length is 10 cm, then the volume of metal is",
+      "prashna": "एक धातु के पाइप की बाह्य त्रिज्या 4 cm और आंतरिक त्रिज्या 3 cm है। यदि इसकी लंबाई 10 cm हो, तो धातु का आयतन होगा",
       "options": {
-        "A": "110",
-        "B": "11",
-        "C": "10",
-        "D": "100"
+        "A": "120 \text{ cm}^3",
+        "B": "220 \text{ cm}^3",
+        "C": "440 \text{ cm}^3",
+        "D": "1540 \text{ cm}^3"
       },
       "vikalpa": {
-        "A": "110",
-        "B": "11",
-        "C": "10",
-        "D": "100"
+        "A": "120 \text{ cm}^3",
+        "B": "220 \text{ cm}^3",
+        "C": "440 \text{ cm}^3",
+        "D": "1540 \text{ cm}^3"
       }
     },
     {
-      "id": "obj_63",
+      "id": "obj_36",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "What is the median of $7, 3, 5, 8, 6, 10, 9, 12$ ?",
-      "prashna": "$7, 3, 5, 8, 6, 10, 9, 12$ की माध्यिका क्या है ?",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The areas of bases of a cone and a cylinder are equal and their curved surface areas are also equal. If the height of the cylinder is 2 metre then the slant height of the cone is.",
+      "prashna": "एक शंकु और एक बेलन के आधारों के क्षेत्रफल समान हैं और उनके वक्रपृष्ठ के क्षेत्रफल भी समान हैं। यदि बेलन की ऊँचाई 2 मी हो, तो शंकु की तिर्यक ऊँचाई है",
       "options": {
-        "A": "8",
-        "B": "6",
-        "C": "7.5",
-        "D": "7"
+        "A": "2 metre",
+        "B": "3 metre",
+        "C": "4 metre",
+        "D": "5 metre"
       },
       "vikalpa": {
-        "A": "8",
-        "B": "6",
-        "C": "7.5",
-        "D": "7"
+        "A": "2 भीटय",
+        "B": "3 भीटय",
+        "C": "4 भीटय",
+        "D": "5 भीटय"
       }
     },
     {
-      "id": "obj_64",
+      "id": "obj_37",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Statistics",
-      "question": "The mode of $8, 9, 7, 8, 3, 9, 5, 8$ is",
-      "prashna": "$8, 9, 7, 8, 3, 9, 5, 8$ का बहुलक है",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "If the volume of a cube is 125 cm$^3$ then the ratio of the side of cube and diagonal of the cube is",
+      "prashna": "यदि किसी घन का आयतन 125 cm$^3$ है, तो घन के किनारा एवं घन के विकर्ण का अनुपात होगा",
       "options": {
-        "A": "3",
-        "B": "7",
-        "C": "8",
-        "D": "5"
+        "A": "1 : $\\sqrt{3}$",
+        "B": "5 : $\\sqrt{3}$",
+        "C": "25 : $\\sqrt{3}$",
+        "D": "15 : $\\sqrt{3}$"
       },
       "vikalpa": {
-        "A": "3",
-        "B": "7",
-        "C": "8",
-        "D": "5"
+        "A": "1 : $\\sqrt{3}$",
+        "B": "5 : $\\sqrt{3}$",
+        "C": "25 : $\\sqrt{3}$",
+        "D": "15 : $\\sqrt{3}$"
       }
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "If the total surface area of a hemisphere is 462 cm$^2$ then its diameter is",
+      "prashna": "यदि किसी अर्द्धगोले के संपूर्ण पृष्ठ का क्षेत्रफल 462 cm$^2$ है, तो उसका व्यास होगा",
+      "options": {
+        "A": "7 cm",
+        "B": "14 cm",
+        "C": "21 cm",
+        "D": "22 cm"
+      },
+      "vikalpa": {
+        "A": "7 cm",
+        "B": "14 cm",
+        "C": "21 cm",
+        "D": "22 cm"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The radii of two cylinders are in the ratio 2 : 3 and their heights are in the ratio 5 : 3. Then the ratio of their volumes is",
+      "prashna": "दो बेलनों की त्रिज्याओं का अनुपात 2 : 3 है एवं उनकी ऊँचाइयों का अनुपात 5 : 3 हो तो उनके आयतनों का अनुपात होगा",
+      "options": {
+        "A": "27 : 20",
+        "B": "20 : 27",
+        "C": "4 : 9",
+        "D": "9 : 4"
+      },
+      "vikalpa": {
+        "A": "27 : 20",
+        "B": "20 : 27",
+        "C": "4 : 9",
+        "D": "9 : 4"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "If the radius of a sphere becomes 3 times then its volume will become",
+      "prashna": "यदि किसी गोले की त्रिज्या 3 गुनी हो जाती है तो इसका आयतन हो जाएगा",
+      "options": {
+        "A": "3 times",
+        "B": "6 times",
+        "C": "9 times",
+        "D": "27 times"
+      },
+      "vikalpa": {
+        "A": "3 गुना",
+        "B": "6 गुना",
+        "C": "9 गुना",
+        "D": "27 गुना"
+      }
+    },
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The ratio of the volumes of two cones is $4 : 5$ and the ratio of their base radii is $2 : 3$. The ratio of their vertical heights is",
+      "prashna": "दो शंकुओं के आयतनों का अनुपात $4 : 5$ है एवं उनकी आधार त्रिज्याओं का अनुपात $2 : 3$ है। उनकी उदग्र ऊँचाइयों का अनुपात है",
+      "options": {
+        "A": "$4 : 7$",
+        "B": "$3 : 5$",
+        "C": "$9 : 5$",
+        "D": "$5 : 9$"
+      },
+      "vikalpa": {
+        "A": "$4 : 7$",
+        "B": "$3 : 5$",
+        "C": "$9 : 5$",
+        "D": "$5 : 9$"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The curved surface area of a cylinder is $264\text{ m}^2$ and its volume is $924\text{ m}^3$. The ratio of its diameter to its height is",
+      "prashna": "एक बेलन का वक्र पृष्ठ का क्षेत्रफल $264\text{ मी}^2$ तथा इसका आयतन $924\text{ मी}^3$ है। इसके व्यास और ऊँचाई का अनुपात है",
+      "options": {
+        "A": "$6 : 7$",
+        "B": "$7 : 6$",
+        "C": "$4 : 5$",
+        "D": "$7 : 3$"
+      },
+      "vikalpa": {
+        "A": "$6 : 7$",
+        "B": "$7 : 6$",
+        "C": "$4 : 5$",
+        "D": "$7 : 3$"
+      }
+    },
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The ratio of the volumes of two cylinders of equal height is $4 : 9$. The ratio of the areas of their curved surfaces will be",
+      "prashna": "समान ऊँचाई के दो बेलनों के आयतनों का अनुपात $4 : 9$ है। इनके वक्र पृष्ठों के क्षेत्रफलों का अनुपात होगा",
+      "options": {
+        "A": "$2 : 3$",
+        "B": "$4 : 9$",
+        "C": "$16 : 81$",
+        "D": "$1 : 3$"
+      },
+      "vikalpa": {
+        "A": "$2 : 3$",
+        "B": "$4 : 9$",
+        "C": "$16 : 81$",
+        "D": "$1 : 3$"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "If the diameter and the height of a cone and a cylinder be equal, then what will be the ratio of their volumes ?",
+      "prashna": "यदि एक शंकु और एक बेलन के व्यास और ऊँचाई समान हों, तो उनके आयतनों का अनुपात क्या होगा ?",
+      "options": {
+        "A": "$2 : 3$",
+        "B": "$1 : 3$",
+        "C": "$3 : 4$",
+        "D": "$1 : 2$"
+      },
+      "vikalpa": {
+        "A": "$2 : 3$",
+        "B": "$1 : 3$",
+        "C": "$3 : 4$",
+        "D": "$1 : 2$"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "A sphere of radius $8\text{ cm}$ is melted and recast into a cone of height $32\text{ cm}$. The radius of the base of the cone is",
+      "prashna": "$8\text{ सेमी}$ त्रिज्या के गोले को पिघलाकर एक $32\text{ सेमी}$ ऊँचाई के शंकु के रूप में लाया जाता है। शंकु के आधार की त्रिज्या है",
+      "options": {
+        "A": "$8\text{ cm}$",
+        "B": "$9\text{ cm}$",
+        "C": "$10\text{ cm}$",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "$8\text{ सेमी}$",
+        "B": "$9\text{ सेमी}$",
+        "C": "$10\text{ सेमी}$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_80",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The total surface area of a cone is",
+      "prashna": "शंकु का पूर्ण पृष्ठ क्षेत्रफल होगा",
+      "options": {
+        "A": "$\\pi r l$",
+        "B": "$\\pi r^2 h$",
+        "C": "$\\pi r(r + l)$",
+        "D": "$2\\pi r h$"
+      },
+      "vikalpa": {
+        "A": "$\\pi r l$",
+        "B": "$\\pi r^2 h$",
+        "C": "$\\pi r(r + l)$",
+        "D": "$2\\pi r h$"
+      }
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "Find the volume of a sphere whose radius is $7\text{ cm}$.",
+      "prashna": "एक गोला जिसकी त्रिज्या $7\text{ सेमी}$ है, का आयतन ज्ञात करें।"
+    },
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "A well of diameter $3\text{ m}$ is dug $14\text{ m}$ deep. The soil taken out of it has been spread evenly all around it in the shape of a circular ring of width $4\text{ m}$ to form an embankment. Find the height of the embankment.",
+      "prashna": "व्यास $3\text{ मी}$ का एक कुआँ $14\text{ मी}$ की गहराई तक खोदा जाता है। इससे निकली हुई मिट्टी को कुएँ के चारों ओर $4\text{ मी}$ चौड़ी एक वृत्ताकार वलय बनाते हुए समान रूप से फैलाकर एक प्रकार का बाँध बनाया जाता है। इस बाँध की ऊँचाई ज्ञात करें।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_91",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "If the areas of three adjacent faces of a cuboid are $a, b, c$ respectively, then the volume of the cuboid is",
+      "prashna": "किसी घनाभ के तीन संलग्न फलकों का क्षेत्रफल क्रमशः $a, b, c$ हैं तो घनाभ का आयतन होगा",
+      "options": {
+        "A": "abc",
+        "B": "2 abc",
+        "C": "\\sqrt{abc}",
+        "D": "3\\sqrt{abc}"
+      },
+      "vikalpa": {
+        "A": "abc",
+        "B": "2 abc",
+        "C": "\\sqrt{abc}",
+        "D": "3\\sqrt{abc}"
+      }
+    },
+    {
+      "id": "obj_92",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The total surface area of a cube is 216 cm$^2$ then its volume is",
+      "prashna": "एक घन का संपूर्ण पृष्ठीय क्षेत्रफल 216 सेमी$^2$ तो इसका आयतन है",
+      "options": {
+        "A": "144 cm^3",
+        "B": "196 cm^3",
+        "C": "212 cm^3",
+        "D": "216 cm^3"
+      },
+      "vikalpa": {
+        "A": "144 सेमी^3",
+        "B": "196 सेमी^3",
+        "C": "212 सेमी^3",
+        "D": "216 सेमी^3"
+      }
+    },
+    {
+      "id": "obj_93",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The ratio of volumes of two cubes is 1 : 64. The ratio of their total surface area is",
+      "prashna": "दो घनों के आयतनों का अनुपात 1 : 64 है तो उनके सम्पूर्ण पृष्ठ क्षेत्रफल का अनुपात होगा",
+      "options": {
+        "A": "1 : 4",
+        "B": "1 : 16",
+        "C": "1 : 18",
+        "D": "1 : 8"
+      },
+      "vikalpa": {
+        "A": "1 : 4",
+        "B": "1 : 16",
+        "C": "1 : 18",
+        "D": "1 : 8"
+      }
+    },
+    {
+      "id": "obj_94",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "Two circular cylinders of equal volume have their heights in the ratio 1 : 2. The ratio of their radii is",
+      "prashna": "दो वृत्तीय बेलन जिनका आयतन समान हैं एवं उनकी ऊँचाइयों का अनुपात 1 : 2 है तो उनकी त्रिज्याओं का अनुपात होगा",
+      "options": {
+        "A": "1 : \\sqrt{2}",
+        "B": "\\sqrt{2} : 1",
+        "C": "1 : 2",
+        "D": "1 : 4"
+      },
+      "vikalpa": {
+        "A": "1 : \\sqrt{2}",
+        "B": "\\sqrt{2} : 1",
+        "C": "1 : 2",
+        "D": "1 : 4"
+      }
+    },
+    {
+      "id": "obj_95",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "If the curved surface area of a cylinder is 1760 cm$^2$ and its base diameter is 28 cm then its height is",
+      "prashna": "एक बेलन का वक्रपृष्ठीय क्षेत्रफल 1760 सेमी$^2$ एवं इसके आधार का व्यास 28 सेमी है तो इसकी ऊँचाई होगी",
+      "options": {
+        "A": "10 cm",
+        "B": "15 cm",
+        "C": "20 cm",
+        "D": "40 cm"
+      },
+      "vikalpa": {
+        "A": "10 सेमी",
+        "B": "15 सेमी",
+        "C": "20 सेमी",
+        "D": "40 सेमी"
+      }
+    },
+    {
+      "id": "obj_97",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "If $l$ is slant height of a cone and $r$ is the radius of its base then total surface area of cone is",
+      "prashna": "यदि किसी शंकु की तिर्यक ऊँचाई $l$ तथा आधार की त्रिज्या $r$ हो तो शंकु का संपूर्ण पृष्ठ क्षेत्रफल होगा",
+      "options": {
+        "A": "\\pi r l + r",
+        "B": "\\pi r l + \\pi r^2",
+        "C": "\\pi r l + r^2",
+        "D": "\\pi r l + 2\\pi r^2"
+      },
+      "vikalpa": {
+        "A": "\\pi r l + r",
+        "B": "\\pi r l + \\pi r^2",
+        "C": "\\pi r l + r^2",
+        "D": "\\pi r l + 2\\pi r^2"
+      }
+    },
+    {
+      "id": "obj_98",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The ratio of volumes of two spheres is 125 : 27 then the ratio of its surface areas is",
+      "prashna": "दो गोलों के आयतनों का अनुपात 125 : 27 है तो इनके पृष्ठीय क्षेत्रफलों का अनुपात होगा",
+      "options": {
+        "A": "9 : 25",
+        "B": "25 : 9",
+        "C": "5 : 3",
+        "D": "3 : 5"
+      },
+      "vikalpa": {
+        "A": "9 : 25",
+        "B": "25 : 9",
+        "C": "5 : 3",
+        "D": "3 : 5"
+      }
+    },
+    {
+      "id": "obj_99",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "A sphere of radius 8 cm is melted to form a cone of height 32 cm. The radius of base of the cone is",
+      "prashna": "8 सेमी त्रिज्या के गोले को पिघलाकर एक 32 सेमी ऊँचाई के शंकु के रूप में लाया जाता है। शंकु के आधार की त्रिज्या है",
+      "options": {
+        "A": "8 cm",
+        "B": "9 cm",
+        "C": "10 cm",
+        "D": "12 cm"
+      },
+      "vikalpa": {
+        "A": "8 सेमी",
+        "B": "9 सेमी",
+        "C": "10 सेमी",
+        "D": "12 सेमी"
+      }
+    },
+    {
+      "id": "obj_100",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "If the surface area of a sphere is 616 cm$^2$ then the diameter of sphere is",
+      "prashna": "यदि गोले का पृष्ठीय क्षेत्रफल 616 सेमी$^2$ हो तो गोले का व्यास होगा",
+      "options": {
+        "A": "7 cm",
+        "B": "14 cm",
+        "C": "28 cm",
+        "D": "56 cm"
+      },
+      "vikalpa": {
+        "A": "7 सेमी",
+        "B": "14 सेमी",
+        "C": "28 सेमी",
+        "D": "56 सेमी"
+      }
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "Metallic spheres of radii 6 cm, 8 cm and 10 cm respectively, are melted to form a single solid sphere. Find the radius of the resulting sphere.",
+      "prashna": "क्रमशः 6 सेमी, 8 सेमी और 10 सेमी त्रिज्याओं वाले धातु के तीन ठोस गोलों को पिघलाकर एक एकल ठोस गोला बनाया जाता है। इस गोले की त्रिज्या ज्ञात करें।"
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The ratio of the volumes of two spheres is $64 : 125$. Then the ratio of their surface areas is",
+      "prashna": "दो गोलों के आयतनों का अनुपात $64 : 125$ है तो उनके पृष्ठीय क्षेत्रफलों का अनुपात है",
+      "options": {
+        "A": "$25 : 8$",
+        "B": "$25 : 16$",
+        "C": "$16 : 25$",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "$25 : 8$",
+        "B": "$25 : 16$",
+        "C": "$16 : 25$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The radii of two cylinders are in the ratio $4 : 5$ and their heights are in the ratio $6 : 7$. Then the ratio of their volumes is",
+      "prashna": "दो बेलनों की त्रिज्याओं का अनुपात $4 : 5$ एवं उनकी ऊँचाइयों का अनुपात $6 : 7$ हो, तो उनके आयतनों का अनुपात है",
+      "options": {
+        "A": "$96 : 125$",
+        "B": "$96 : 175$",
+        "C": "$175 : 96$",
+        "D": "$20 : 63$"
+      },
+      "vikalpa": {
+        "A": "$96 : 125$",
+        "B": "$96 : 175$",
+        "C": "$175 : 96$",
+        "D": "$20 : 63$"
+      }
+    },
+    {
+      "id": "obj_43",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "What is the total surface area of a hemisphere of radius $R$?",
+      "prashna": "$R$ त्रिज्या वाले अर्द्धगोले का संपूर्ण पृष्ठ क्या है?",
+      "options": {
+        "A": "$\\pi R^2$",
+        "B": "$2\\pi R^2$",
+        "C": "$3\\pi R^2$",
+        "D": "$4\\pi R^2$"
+      },
+      "vikalpa": {
+        "A": "$\\pi R^2$",
+        "B": "$2\\pi R^2$",
+        "C": "$3\\pi R^2$",
+        "D": "$4\\pi R^2$"
+      }
+    },
+    {
+      "id": "obj_44",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "If the curved surface area of a cone is $880$ $cm^2$ and its radius is $14$ cm, then its slant height is",
+      "prashna": "यदि किसी शंकु के वक्रपृष्ठ का क्षेत्रफल $880$ $सेमी^2$ है और त्रिज्या $14$ सेमी है तो इसकी तिर्यक ऊँचाई है",
+      "options": {
+        "A": "10 cm",
+        "B": "20 cm",
+        "C": "40 cm",
+        "D": "30 cm"
+      },
+      "vikalpa": {
+        "A": "10 सेमी",
+        "B": "20 सेमी",
+        "C": "40 सेमी",
+        "D": "30 सेमी"
+      }
+    },
+    {
+      "id": "obj_45",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "If the length of the diagonal of a cube is $2\\sqrt{3}$ cm, then the length of its edge is",
+      "prashna": "यदि किसी घन के विकर्ण की लंबाई $2\\sqrt{3}$ सेमी है तो इसके कोर की लम्बाई है",
+      "options": {
+        "A": "2 cm",
+        "B": "$2\\sqrt{3}$ cm",
+        "C": "3 cm",
+        "D": "4 cm"
+      },
+      "vikalpa": {
+        "A": "2 सेमी",
+        "B": "$2\\sqrt{3}$ सेमी",
+        "C": "3 सेमी",
+        "D": "4 सेमी"
+      }
+    },
+    {
+      "id": "obj_46",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "If the edge of a cube is doubled then the total surface area will become how many times of the previous total surface area?",
+      "prashna": "किसी घन का किनारा दुगुना हो जाने पर कुल पृष्ठ क्षेत्रफल पहले के कुल पृष्ठ क्षेत्रफल का कितना गुना हो जाएगा?",
+      "options": {
+        "A": "Two times",
+        "B": "Four times",
+        "C": "Six times",
+        "D": "Twelve times"
+      },
+      "vikalpa": {
+        "A": "दो गुना",
+        "B": "चार गुना",
+        "C": "छः गुना",
+        "D": "बारह गुना"
+      }
+    },
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The ratio of the total surface area of a sphere and that of a hemisphere having the same radius is",
+      "prashna": "किसी गोले के कुल पृष्ठ क्षेत्रफल और उसी त्रिज्या के एक अर्द्धगोले के कुल पृष्ठ क्षेत्रफल का अनुपात है",
+      "options": {
+        "A": "$2 : 1$",
+        "B": "$4 : 9$",
+        "C": "$3 : 2$",
+        "D": "$4 : 3$"
+      },
+      "vikalpa": {
+        "A": "$2 : 1$",
+        "B": "$4 : 9$",
+        "C": "$3 : 2$",
+        "D": "$4 : 3$"
+      }
+    },
+    {
+      "id": "obj_48",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "If the curved surface area of a hemisphere is $1232$ $cm^2$ then its radius is",
+      "prashna": "यदि किसी अर्द्धगोले के वक्र पृष्ठीय क्षेत्रफल $1232$ $सेमी^2$ है, तो उसकी त्रिज्या है",
+      "options": {
+        "A": "7 cm",
+        "B": "14 cm",
+        "C": "21 cm",
+        "D": "28 cm"
+      },
+      "vikalpa": {
+        "A": "7 सेमी",
+        "B": "14 सेमी",
+        "C": "21 सेमी",
+        "D": "28 सेमी"
+      }
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The diagonal of a cube is $9\\sqrt{3}$ cm. Find the total surface area of cube.",
+      "prashna": "किसी घन का विकर्ण $9\\sqrt{3}$ सेमी है। घन का कुल पृष्ठ क्षेत्रफल ज्ञात करें।"
+    },
+    {
+      "id": "short_16",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "If the radius of base of a cone is 7 cm and its height is 24 cm then find its curved surface area.",
+      "prashna": "यदि किसी शंकु के आधार की त्रिज्या 7 सेमी एवं इसकी ऊँचाई 24 सेमी है तो इसके वक्रपृष्ठ का क्षेत्रफल ज्ञात करें।"
+    },
+    {
+      "id": "long_8",
+      "type": "long_answer",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The slant height of a frustum of a cone is 4 cm and the perimeters (circumferences) of its circular ends are 18 cm and 6 cm. Find the curved surface area of the frustum.",
+      "prashna": "एक शंकु के छिन्नक की तिर्यक ऊँचाई 4 सेमी है तथा इसके वृत्तीय सिरों के परिमाप (परिधियाँ) 18 सेमी और 6 सेमी हैं। इस छिन्नक का वक्रपृष्ठीय क्षेत्रफल ज्ञात करें।"
+    },
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The ratio of the volumes of two spheres is 27 : 216 ; then the ratio of their surface areas is",
+      "prashna": "दो गोलों के आयतनों का अनुपात 27 : 216 है तो उनके पृष्ठ क्षेत्रफलों का अनुपात है",
+      "options": {
+        "A": "3 : 5",
+        "B": "9 : 36",
+        "C": "216 : 27",
+        "D": "36 : 9"
+      },
+      "vikalpa": {
+        "A": "3 : 5",
+        "B": "9 : 36",
+        "C": "216 : 27",
+        "D": "36 : 9"
+      }
+    },
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The radii of two cylinders are in the ratio 2 : 3 and their heights are in the ratio 5 : 3. Then the ratio of their volumes is",
+      "prashna": "दो बेलनों की त्रिज्याओं का अनुपात 2 : 3 है एवं उनकी ऊँचाइयों का अनुपात 5 : 3 हो तो उनके आयतनों का अनुपात होगा",
+      "options": {
+        "A": "20 : 27",
+        "B": "4 : 9",
+        "C": "27 : 20",
+        "D": "9 : 4"
+      },
+      "vikalpa": {
+        "A": "20 : 27",
+        "B": "4 : 9",
+        "C": "27 : 20",
+        "D": "9 : 4"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "If the radius of the base of a cylinder is $r$ and its height is $h$ then the volume of the cylinder is",
+      "prashna": "यदि किसी बेलन के आधार की त्रिज्या $r$ है एवं उसकी ऊँचाई $h$ है तो बेलन का आयतन है",
+      "options": {
+        "A": "$\\pi rh$",
+        "B": "$\\pi r^2 h$",
+        "C": "$\\pi rh^2$",
+        "D": "$2\\pi r^2 h$"
+      },
+      "vikalpa": {
+        "A": "$\\pi rh$",
+        "B": "$\\pi r^2 h$",
+        "C": "$\\pi rh^2$",
+        "D": "$2\\pi r^2 h$"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "If the curved surface area of a cone is $176\text{ cm}^2$ and its radius is $7\text{ cm}$, then its slant height is",
+      "prashna": "यदि किसी शंकु के वक्रपृष्ठ का क्षेत्रफल $176\text{ सेमी}^2$ है और त्रिज्या $7\text{ सेमी}$ है तो इसकी तिर्यक ऊँचाई है",
+      "options": {
+        "A": "$4\text{ cm}$",
+        "B": "$6\text{ cm}$",
+        "C": "$8\text{ cm}$",
+        "D": "$10\text{ cm}$"
+      },
+      "vikalpa": {
+        "A": "$4\text{ सेमी}$",
+        "B": "$6\text{ सेमी}$",
+        "C": "$8\text{ सेमी}$",
+        "D": "$10\text{ सेमी}$"
+      }
+    },
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "If the length of the diagonal of a cube is $6\\sqrt{3}\text{ cm}$ then its length of the edge is",
+      "prashna": "यदि किसी घन के विकर्ण की लंबाई $6\\sqrt{3}\text{ सेमी}$ है तो कोर की लंबाई है",
+      "options": {
+        "A": "$4\text{ cm}$",
+        "B": "$6\text{ cm}$",
+        "C": "$6\\sqrt{3}\text{ cm}$",
+        "D": "$2\\sqrt{3}\text{ cm}$"
+      },
+      "vikalpa": {
+        "A": "$4\text{ सेमी}$",
+        "B": "$6\text{ सेमी}$",
+        "C": "$6\\sqrt{3}\text{ सेमी}$",
+        "D": "$2\\sqrt{3}\text{ सेमी}$"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "If the curved surface area of a hemisphere is $308\text{ cm}^2$ then its radius is",
+      "prashna": "यदि किसी अर्द्धगोले के वक्रपृष्ठ का क्षेत्रफल $308\text{ सेमी}^2$ है तो उसकी त्रिज्या है",
+      "options": {
+        "A": "$3.5\text{ cm}$",
+        "B": "$7\text{ cm}$",
+        "C": "$14\text{ cm}$",
+        "D": "$21\text{ cm}$"
+      },
+      "vikalpa": {
+        "A": "$3.5\text{ सेमी}$",
+        "B": "$7\text{ सेमी}$",
+        "C": "$14\text{ सेमी}$",
+        "D": "$21\text{ सेमी}$"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "If the radius of a sphere becomes 2 times then its volume will become",
+      "prashna": "यदि किसी गोले की त्रिज्या 2 गुनी हो जाती है तो इसका आयतन हो जाएगा",
+      "options": {
+        "A": "2 times",
+        "B": "4 times",
+        "C": "16 times",
+        "D": "8 times"
+      },
+      "vikalpa": {
+        "A": "2 गुना",
+        "B": "4 गुना",
+        "C": "16 गुना",
+        "D": "8 गुना"
+      }
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "Three cubes having edge 6 cm are joined end to end to form a cuboid. Then its resultant volume is",
+      "prashna": "6 सेमी किनारे वाले तीन घनों को घनाभ बनाने हेतु प्रारंभ से अंत तक जोड़ा जाता है। परिणामी घनाभ का आयतन है",
+      "options": {
+        "A": "648 cm^3",
+        "B": "216 cm^3",
+        "C": "432 cm^3",
+        "D": "864 cm^3"
+      },
+      "vikalpa": {
+        "A": "648 सेमी^3",
+        "B": "216 सेमी^3",
+        "C": "432 सेमी^3",
+        "D": "864 सेमी^3"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "If the surface areas of two spheres are in the ratio of 16 : 9 then the ratio of their volumes is",
+      "prashna": "यदि दो गोलों का पृष्ठ क्षेत्रफल 16 : 9 के अनुपात में हो तो उनके आयतन का अनुपात है",
+      "options": {
+        "A": "27 : 64",
+        "B": "64 : 27",
+        "C": "4 : 3",
+        "D": "3 : 4"
+      },
+      "vikalpa": {
+        "A": "27 : 64",
+        "B": "64 : 27",
+        "C": "4 : 3",
+        "D": "3 : 4"
+      }
+    },
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "If the total surface area of a cube is 864 sq.cm then its volume is",
+      "prashna": "यदि घन का सम्पूर्ण पृष्ठ क्षेत्रफल 864 वर्ग सेमी हो तो इसका आयतन है",
+      "options": {
+        "A": "1728 cubic cm",
+        "B": "3456 cubic cm",
+        "C": "864 cubic cm",
+        "D": "432 cubic cm"
+      },
+      "vikalpa": {
+        "A": "1728 घन सेमी",
+        "B": "3456 घन सेमी",
+        "C": "864 घन सेमी",
+        "D": "432 घन सेमी"
+      }
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "If the areas of three adjacent faces of a cuboid are x, y and z respectively then the volume of the cuboid is",
+      "prashna": "यदि घनाभ के तीन आसन्न फलकों के क्षेत्रफल क्रमशः x, y एवं z हों तो घनाभ का आयतन है",
+      "options": {
+        "A": "xyz",
+        "B": "\\sqrt{xyz}",
+        "C": "x^2 y^2 z^2",
+        "D": "x^3 y^3 z^3"
+      },
+      "vikalpa": {
+        "A": "xyz",
+        "B": "\\sqrt{xyz}",
+        "C": "x^2 y^2 z^2",
+        "D": "x^3 y^3 z^3"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The height of a cylinder is 14 cm and its curved surface area is 264 sq.cm ; then its volume is",
+      "prashna": "एक बेलन की ऊँचाई 14 सेमी है तथा इसका वक्रपृष्ठ क्षेत्रफल 264 वर्ग सेमी है तो इसका आयतन है",
+      "options": {
+        "A": "1848 cm^3",
+        "B": "1232 cm^3",
+        "C": "396 cm^3",
+        "D": "308 cm^3"
+      },
+      "vikalpa": {
+        "A": "1848 सेमी^3",
+        "B": "1232 सेमी^3",
+        "C": "396 सेमी^3",
+        "D": "308 सेमी^3"
+      }
+    },
+    {
+      "id": "obj_97",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "Area of four walls of a room whose length, breadth and height are l, b and h units respectively, is",
+      "prashna": "किसी कमरे की चारों दीवारों का क्षेत्रफल जिसकी लम्बाई, चौड़ाई तथा ऊँचाई क्रमशः l, b तथा h इकाई हैं, है",
+      "options": {
+        "A": "( l + b ) h sq.unit",
+        "B": "l b h sq.unit",
+        "C": "2 ( l + b ) h sq.unit",
+        "D": "4 ( l + b ) h sq.unit"
+      },
+      "vikalpa": {
+        "A": "( l + b ) h वर्ग इकाई",
+        "B": "l b h वर्ग इकाई",
+        "C": "2 ( l + b ) h वर्ग इकाई",
+        "D": "4 ( l + b ) h वर्ग इकाई"
+      }
+    },
+    {
+      "id": "short_19",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "A metallic cuboid whose length, breadth and height are 100 cm, 80 cm and 64 cm respectively, is melted and recast into a cube. Then find the length of the edge of the cube.",
+      "prashna": "एक धात्विक घनाभ जिसकी लम्बाई, चौड़ाई तथा ऊँचाई क्रमशः 100 सेमी, 80 सेमी तथा 64 सेमी हैं, को पिघलाकर एक घन बनाया जाता है तो घन के कोर की लम्बाई ज्ञात करें।"
+    },
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "A sphere of radius x cm is melted and recast into a cone of radius x cm, then the height of the cone is",
+      "prashna": "x सेमी त्रिज्या के गोले को पिघलाकर x सेमी त्रिज्या वाले शंकु के रूप में ढाला जाता है तो शंकु की ऊँचाई है",
+      "options": {
+        "A": "4x cm",
+        "B": "3x cm",
+        "C": "2x cm",
+        "D": "x cm"
+      },
+      "vikalpa": {
+        "A": "4x सेमी",
+        "B": "3x सेमी",
+        "C": "2x सेमी",
+        "D": "x सेमी"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The surface area of a cube is 150 cm^2, then its each edge is",
+      "prashna": "एक घन का पृष्ठ क्षेत्रफल 150 सेमी^2 है तो इसका प्रत्येक किनारा है",
+      "options": {
+        "A": "10 cm",
+        "B": "6 cm",
+        "C": "5 cm",
+        "D": "4 cm"
+      },
+      "vikalpa": {
+        "A": "10 सेमी",
+        "B": "6 सेमी",
+        "C": "5 सेमी",
+        "D": "4 सेमी"
+      }
+    },
+    {
+      "id": "obj_43",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "Two circular cylinders of equal volume have their heights in the ratio 1 : 2, then the ratio of their radii is",
+      "prashna": "दो वृत्तीय बेलन जिनका आयतन समान है एवं उनकी ऊँचाइयों का अनुपात 1 : 2 है, तो उनकी त्रिज्याओं का अनुपात है",
+      "options": {
+        "A": "1 : 4",
+        "B": "\\sqrt{2} : 1",
+        "C": "1 : 2",
+        "D": "1 : \\sqrt{2}"
+      },
+      "vikalpa": {
+        "A": "1 : 4",
+        "B": "\\sqrt{2} : 1",
+        "C": "1 : 2",
+        "D": "1 : \\sqrt{2}"
+      }
+    },
+    {
+      "id": "obj_44",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "If the total surface area of a hemisphere is 462 cm^2 then its radius is",
+      "prashna": "यदि किसी अर्द्धगोले के संपूर्ण पृष्ठ का क्षेत्रफल 462 सेमी^2 है, तो उसकी त्रिज्या है",
+      "options": {
+        "A": "3.5 cm",
+        "B": "7 cm",
+        "C": "14 cm",
+        "D": "21 cm"
+      },
+      "vikalpa": {
+        "A": "3.5 सेमी",
+        "B": "7 सेमी",
+        "C": "14 सेमी",
+        "D": "21 सेमी"
+      }
+    },
+    {
+      "id": "obj_45",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The length, breadth and height of a cuboid are 15 cm, 6 cm and 5 cm respectively, then the lateral surface area of the cuboid is",
+      "prashna": "एक घनाभ की लम्बाई, चौड़ाई एवं ऊँचाई क्रमशः 15 सेमी, 6 सेमी एवं 5 सेमी हों, तो घनाभ का पार्श्व पृष्ठीय क्षेत्रफल है",
+      "options": {
+        "A": "250 cm^2",
+        "B": "220 cm^2",
+        "C": "210 cm^2",
+        "D": "200 cm^2"
+      },
+      "vikalpa": {
+        "A": "250 सेमी^2",
+        "B": "220 सेमी^2",
+        "C": "210 सेमी^2",
+        "D": "200 सेमी^2"
+      }
+    },
+    {
+      "id": "obj_46",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The areas of three adjacent faces of a cuboid are x^2, y^2 and z^2 respectively then the volume of the cuboid is",
+      "prashna": "एक घनाभ के तीन संलग्न फलकों का क्षेत्रफल क्रमशः x^2, y^2 एवं z^2 हैं, तो घनाभ का आयतन है",
+      "options": {
+        "A": "xyz",
+        "B": "2xyz",
+        "C": "x^2 + y^2 + z^2",
+        "D": "x^2 y^2 z^2"
+      },
+      "vikalpa": {
+        "A": "xyz",
+        "B": "2xyz",
+        "C": "x^2 + y^2 + z^2",
+        "D": "x^2 y^2 z^2"
+      }
+    },
+    {
+      "id": "obj_95",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The volume of a sphere of radius R is",
+      "prashna": "R त्रिज्या वाले गोले का आयतन है",
+      "options": {
+        "A": "\frac{1}, {3}\\pi R^3",
+        "B": "4\\pi R^3",
+        "C": "\frac{4}, {3}\\pi R^3",
+        "D": "\\pi R^3"
+      },
+      "vikalpa": {
+        "A": "\frac{1}, {3}\\pi R^3",
+        "B": "4\\pi R^3",
+        "C": "\frac{4}, {3}\\pi R^3",
+        "D": "\\pi R^3"
+      }
+    },
+    {
+      "id": "obj_98",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "If the length of the diagonal of a cube is 5\\sqrt{3} cm then its surface area is",
+      "prashna": "यदि किसी घन का एक विकर्ण की लम्बाई 5\\sqrt{3} सेमी है, तो इसका पृष्ठ क्षेत्रफल है",
+      "options": {
+        "A": "120 cm^2",
+        "B": "140 cm^2",
+        "C": "150 cm^2",
+        "D": "250 cm^2"
+      },
+      "vikalpa": {
+        "A": "120 सेमी^2",
+        "B": "140 सेमी^2",
+        "C": "150 सेमी^2",
+        "D": "250 सेमी^2"
+      }
+    },
+    {
+      "id": "obj_99",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "What is the ratio of the total surface area of a sphere and that of a hemisphere having the same radius ?",
+      "prashna": "किसी गोले के कुल पृष्ठ क्षेत्रफल और उसी त्रिज्या के एक अर्द्धगोले के कुल पृष्ठ क्षेत्रफल का अनुपात क्या है ?",
+      "options": {
+        "A": "4 : 9",
+        "B": "4 : 3",
+        "C": "3 : 4",
+        "D": "3 : 2"
+      },
+      "vikalpa": {
+        "A": "4 : 9",
+        "B": "4 : 3",
+        "C": "3 : 4",
+        "D": "3 : 2"
+      }
+    },
+    {
+      "id": "obj_100",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The radii of two cylinders are in the ratio 3 : 7 and their heights are in the ratio 7 : 12, then the ratio of their curved surface areas is",
+      "prashna": "दो बेलनों की त्रिज्याओं का अनुपात 3 : 7 है एवं उनकी ऊँचाइयों का अनुपात 7 : 12 हों तो उनके वक्र पृष्ठ क्षेत्रफलों का अनुपात है",
+      "options": {
+        "A": "1 : 16",
+        "B": "7 : 12",
+        "C": "1 : 4",
+        "D": "4 : 1"
+      },
+      "vikalpa": {
+        "A": "1 : 16",
+        "B": "7 : 12",
+        "C": "1 : 4",
+        "D": "4 : 1"
+      }
+    },
+    {
+      "id": "short_14",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The slant height of a frustum of a cone is 4 cm and the perimeters of its circular ends are 15 cm and 6 cm respectively. Find the curved surface area of the frustum.",
+      "prashna": "एक शंकु के छिन्नक की तिर्यक ऊँचाई 4 सेमी है तथा उसके वृत्तीय सिरों के परिमाप क्रमशः 15 सेमी और 6 सेमी हैं। छिन्नक के वक्र पृष्ठ का क्षेत्रफल ज्ञात करें।"
+    },
+    {
+      "id": "short_15",
+      "type": "short_answer",
+      "chapter": "13",
+      "chapter_name": "Surface Areas and Volumes",
+      "question": "The volume of a right circular cone is 100\\pi cm^3 and height is 12 cm, then find the radius of right circular cone.",
+      "prashna": "एक लम्बवृत्तीय शंकु का आयतन 100\\pi सेमी^3 और ऊँचाई 12 सेमी है तो लम्बवृत्तीय शंकु की त्रिज्या ज्ञात करें।"
     }
   ]
 }

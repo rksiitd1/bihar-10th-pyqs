@@ -41,28 +41,6 @@
       }
     }
   ],
-  "2017": [
-    {
-      "id": "obj_1",
-      "type": "objective",
-      "chapter": "4",
-      "chapter_name": "Quadratic Equations",
-      "question": "The sum of roots of the quadratic equation $x^2 + 2x - 3 = 0$ will be-",
-      "prashna": "द्विघात समीकरण $x^2 + 2x - 3 = 0$ के मूलों के योग का मान होगा-",
-      "options": {
-        "A": "-2",
-        "B": "2",
-        "C": "1/2",
-        "D": "-1/2"
-      },
-      "vikalpa": {
-        "A": "-2",
-        "B": "2",
-        "C": "1/2",
-        "D": "-1/2"
-      }
-    }
-  ],
   "2018": [
     {
       "id": "obj_12",
@@ -291,46 +269,6 @@
       }
     },
     {
-      "id": "obj_11",
-      "type": "objective",
-      "chapter": "4",
-      "chapter_name": "Quadratic Equations",
-      "question": "If the roots of the equation $ax^2 + bx + c = 0$ are reciprocal of each other, then",
-      "prashna": "यदि समीकरण $ax^2 + bx + c = 0$ के मूल एक दूसरे के व्युत्क्रम हों, तो",
-      "options": {
-        "A": "$a = b$",
-        "B": "$b = c$",
-        "C": "$c = a$",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "$a = b$",
-        "B": "$b = c$",
-        "C": "$c = a$",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_12",
-      "type": "objective",
-      "chapter": "4",
-      "chapter_name": "Quadratic Equations",
-      "question": "The sum of the roots of quadratic equation $x^2 - 6x + 2 = 0$ is",
-      "prashna": "द्विघात समीकरण $x^2 - 6x + 2 = 0$ के मूलों का योग है",
-      "options": {
-        "A": "2",
-        "B": "-2",
-        "C": "6",
-        "D": "-6"
-      },
-      "vikalpa": {
-        "A": "2",
-        "B": "-2",
-        "C": "6",
-        "D": "-6"
-      }
-    },
-    {
       "id": "obj_52",
       "type": "objective",
       "chapter": "4",
@@ -553,26 +491,6 @@
       }
     },
     {
-      "id": "obj_32",
-      "type": "objective",
-      "chapter": "4",
-      "chapter_name": "Quadratic Equations",
-      "question": "If $x - y = 6$ and $x^2 + y^2 = 30$ then the value of $xy$ will be",
-      "prashna": "यदि $x - y = 6$ और $x^2 + y^2 = 30$ तो $xy$ का मान होगा",
-      "options": {
-        "A": "2",
-        "B": "$-2$",
-        "C": "3",
-        "D": "$-3$"
-      },
-      "vikalpa": {
-        "A": "2",
-        "B": "$-2$",
-        "C": "3",
-        "D": "$-3$"
-      }
-    },
-    {
       "id": "obj_33",
       "type": "objective",
       "chapter": "4",
@@ -675,26 +593,6 @@
       }
     },
     {
-      "id": "obj_17",
-      "type": "objective",
-      "chapter": "4",
-      "chapter_name": "Quadratic Equations",
-      "question": "If $\\alpha, \beta$ are the roots of the equation $x^2 + 3px + 2p^2 = 0$ and $\\alpha^2 + \beta^2 = 5$ then the value of $p$ is",
-      "prashna": "यदि $x^2 + 3px + 2p^2 = 0$ के मूल $\\alpha, \beta$ हों तथा $\\alpha^2 + \beta^2 = 5$ हो, तो $p$ का मान है",
-      "options": {
-        "A": "$\\pm 3$",
-        "B": "$\\pm 2$",
-        "C": "$\\pm 1$",
-        "D": "$\\pm 5$"
-      },
-      "vikalpa": {
-        "A": "$\\pm 3$",
-        "B": "$\\pm 2$",
-        "C": "$\\pm 1$",
-        "D": "$\\pm 5$"
-      }
-    },
-    {
       "id": "obj_18",
       "type": "objective",
       "chapter": "4",
@@ -712,26 +610,6 @@
         "B": "$\frac{ap}, {q}$",
         "C": "$\frac{q^2}, {ap}$",
         "D": "$\\pm \frac{q}, {ap}$"
-      }
-    },
-    {
-      "id": "obj_19",
-      "type": "objective",
-      "chapter": "4",
-      "chapter_name": "Quadratic Equations",
-      "question": "The ratio of the sum of the roots and product of the roots of a quadratic equation $x^2 - 15x + 50 = 0$ is",
-      "prashna": "यदि द्विघात समीकरण $x^2 - 15x + 50 = 0$ के मूलों के योग एवं मूलों के गुणनफल का अनुपात होगा",
-      "options": {
-        "A": "3 : 10",
-        "B": "3 : 25",
-        "C": "3 : 50",
-        "D": "5 : 3"
-      },
-      "vikalpa": {
-        "A": "3 : 10",
-        "B": "3 : 25",
-        "C": "3 : 50",
-        "D": "5 : 3"
       }
     },
     {
@@ -957,26 +835,6 @@
       }
     },
     {
-      "id": "obj_38",
-      "type": "objective",
-      "chapter": "4",
-      "chapter_name": "Quadratic Equations",
-      "question": "If $\\alpha$ and $\beta$ are the roots of the quadratic equation $x^2 + 6x + 5 = 0$ then the value of $\\alpha^2 + \beta^2$ is",
-      "prashna": "यदि द्विघात समीकरण $x^2 + 6x + 5 = 0$ के मूल $\\alpha$ एवं $\beta$ हों तो $\\alpha^2 + \beta^2$ का मान होगा",
-      "options": {
-        "A": "30",
-        "B": "16",
-        "C": "26",
-        "D": "20"
-      },
-      "vikalpa": {
-        "A": "30",
-        "B": "16",
-        "C": "26",
-        "D": "20"
-      }
-    },
-    {
       "id": "obj_39",
       "type": "objective",
       "chapter": "4",
@@ -1037,26 +895,6 @@
       }
     },
     {
-      "id": "obj_43",
-      "type": "objective",
-      "chapter": "4",
-      "chapter_name": "Quadratic Equations",
-      "question": "If product of the roots of the quadratic equation $x^2 - 5x + p = 10$ is -4, then the value of $p$ is",
-      "prashna": "यदि द्विघात समीकरण $x^2 - 5x + p = 10$ के मूलों का गुणनफल -4 हो तो $p$ का मान होगा",
-      "options": {
-        "A": "4",
-        "B": "5",
-        "C": "6",
-        "D": "8"
-      },
-      "vikalpa": {
-        "A": "4",
-        "B": "5",
-        "C": "6",
-        "D": "8"
-      }
-    },
-    {
       "id": "obj_45",
       "type": "objective",
       "chapter": "4",
@@ -1114,26 +952,6 @@
         "B": "-3",
         "C": "6",
         "D": "5"
-      }
-    },
-    {
-      "id": "obj_48",
-      "type": "objective",
-      "chapter": "4",
-      "chapter_name": "Quadratic Equations",
-      "question": "If $\\alpha$ and $\beta$ are the roots of the quadratic equation $x^2 - 8x + 5 = 0$ then the value of $\\alpha^2 + \beta^2$ is",
-      "prashna": "यदि द्विघात समीकरण $x^2 - 8x + 5 = 0$ के मूल $\\alpha$ एवं $\beta$ हों तो $\\alpha^2 + \beta^2$ का मान होगा",
-      "options": {
-        "A": "44",
-        "B": "54",
-        "C": "74",
-        "D": "64"
-      },
-      "vikalpa": {
-        "A": "44",
-        "B": "54",
-        "C": "74",
-        "D": "64"
       }
     },
     {
@@ -1259,26 +1077,6 @@
       }
     },
     {
-      "id": "obj_67",
-      "type": "objective",
-      "chapter": "4",
-      "chapter_name": "Quadratic Equations",
-      "question": "If $\\alpha$ and $\beta$ are roots of the quadratic equation $3x^2 - 5x + 2 = 0$ then the value of $\\alpha^2 + \beta^2$ is",
-      "prashna": "यदि द्विघात समीकरण $3x^2 - 5x + 2 = 0$ के मूल $\\alpha$ एवं $\beta$ हों तो $\\alpha^2 + \beta^2$ का मान है",
-      "options": {
-        "A": "$\frac{13}, {9}$",
-        "B": "$\frac{9}, {13}$",
-        "C": "$\frac{5}, {3}$",
-        "D": "$\frac{3}, {5}$"
-      },
-      "vikalpa": {
-        "A": "$\frac{13}, {9}$",
-        "B": "$\frac{9}, {13}$",
-        "C": "$\frac{5}, {3}$",
-        "D": "$\frac{3}, {5}$"
-      }
-    },
-    {
       "id": "obj_68",
       "type": "objective",
       "chapter": "4",
@@ -1336,26 +1134,6 @@
         "B": "वास्तविक एवं समान",
         "C": "वास्तविक नहीं",
         "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_7",
-      "type": "objective",
-      "chapter": "4",
-      "chapter_name": "Quadratic Equations",
-      "question": "If $\\alpha$ and $\beta$ are the roots of the quadratic equation $2z^2 + z - 6 = 0$ then the value of $\\alpha^2 + \beta^2$ is",
-      "prashna": "यदि द्विघात समीकरण $2z^2 + z - 6 = 0$ के मूल $\\alpha$ एवं $\beta$ हों तो $\\alpha^2 + \beta^2$ का मान है",
-      "options": {
-        "A": "$-\frac{25}, {4}$",
-        "B": "$\frac{4}, {25}$",
-        "C": "$\frac{25}, {4}$",
-        "D": "$\frac{23}, {4}$"
-      },
-      "vikalpa": {
-        "A": "$-\frac{25}, {4}$",
-        "B": "$\frac{4}, {25}$",
-        "C": "$\frac{25}, {4}$",
-        "D": "$\frac{23}, {4}$"
       }
     },
     {
@@ -1496,6 +1274,149 @@
         "B": "0",
         "C": "- 8",
         "D": "8"
+      }
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Nature of the roots of the quadratic equation x^2 - 3x - 10 = 0 is",
+      "prashna": "द्विघात समीकरण x^2 - 3x - 10 = 0 के मूलों की प्रकृति है",
+      "instructions": "Question Nos. 1 to 100 have four options, out of which only one is correct. Answer any 50 questions. You have to mark your selected option on the OMR sheet.",
+      "options": {
+        "A": "real and unequal",
+        "B": "real and equal",
+        "C": "non-real",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "वास्तविक और असमान",
+        "B": "वास्तविक और समान",
+        "C": "अवास्तविक",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "The value of the discriminant of the quadratic equation bx^2 + ax + c = 0, where b \\neq 0 is",
+      "prashna": "द्विघात समीकरण bx^2 + ax + c = 0 जहाँ b \\neq 0 के विवेचक का मान होता है",
+      "options": {
+        "A": "a^2 - 4bc",
+        "B": "b^2 - 4ac",
+        "C": "c^2 - 4ab",
+        "D": "b^2 + 4ac"
+      },
+      "vikalpa": {
+        "A": "a^2 - 4bc",
+        "B": "b^2 - 4ac",
+        "C": "c^2 - 4ab",
+        "D": "b^2 + 4ac"
+      }
+    },
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "ax^2 + bx + c = 0 is said to be a quadratic equation in variable x where a, b & c are real numbers then",
+      "prashna": "चर x में ax^2 + bx + c = 0 एक द्विघात समीकरण कहलाता है जहाँ a, b एवं c वास्तविक संख्याएँ हैं तो",
+      "options": {
+        "A": "a \\neq 0",
+        "B": "b \\neq 0",
+        "C": "c \\neq 0",
+        "D": "a = 0"
+      },
+      "vikalpa": {
+        "A": "a \\neq 0",
+        "B": "b \\neq 0",
+        "C": "c \\neq 0",
+        "D": "a = 0"
+      }
+    },
+    {
+      "id": "obj_60",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Discriminant of the quadratic equation 5x^2 - 6x - 2 = 0 is",
+      "prashna": "द्विघात समीकरण 5x^2 - 6x - 2 = 0 का विवेचक है",
+      "options": {
+        "A": "66",
+        "B": "76",
+        "C": "73",
+        "D": "72"
+      },
+      "vikalpa": {
+        "A": "66",
+        "B": "76",
+        "C": "73",
+        "D": "72"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "The discriminant of the quadratic equation x^2 - 3x + 2 = 0 is",
+      "prashna": "द्विघात समीकरण x^2 - 3x + 2 = 0 का विविक्तकर है",
+      "options": {
+        "A": "17",
+        "B": "27",
+        "C": "1",
+        "D": "5"
+      },
+      "vikalpa": {
+        "A": "17",
+        "B": "27",
+        "C": "1",
+        "D": "5"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "The roots of the equation cx^2 + ax + b = 0 will not be real, if",
+      "prashna": "समीकरण cx^2 + ax + b = 0 के मूल वास्तविक नहीं होंगे, यदि",
+      "options": {
+        "A": "c^2 - 4ab < 0",
+        "B": "b^2 - 4ac < 0",
+        "C": "a^2 - 4bc < 0",
+        "D": "a^2 - 4bc > 0"
+      },
+      "vikalpa": {
+        "A": "c^2 - 4ab < 0",
+        "B": "b^2 - 4ac < 0",
+        "C": "a^2 - 4bc < 0",
+        "D": "a^2 - 4bc > 0"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Quadratic Equations",
+      "question": "Which of the following is a quadratic equation ?",
+      "prashna": "निम्नलिखित में कौन द्विघात समीकरण है ?",
+      "options": {
+        "A": "(x + 3)^2 = x^2 + 7x",
+        "B": "(x + 2)^2 = 2x + 2",
+        "C": "(\\sqrt{x} + 2)^2 = x + 2",
+        "D": "(2x + 7)^2 = 4x^2 + 5"
+      },
+      "vikalpa": {
+        "A": "(x + 3)^2 = x^2 + 7x",
+        "B": "(x + 2)^2 = 2x + 2",
+        "C": "(\\sqrt{x} + 2)^2 = x + 2",
+        "D": "(2x + 7)^2 = 4x^2 + 5"
       }
     }
   ]

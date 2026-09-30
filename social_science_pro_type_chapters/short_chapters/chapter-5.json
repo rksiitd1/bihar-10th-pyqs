@@ -1,78 +1,327 @@
 {
   "2011": [
     {
-      "id": "short_6",
+      "id": "short_20",
       "type": "short_answer",
+      "section": "Economics",
       "chapter": "5",
-      "chapter_name": "Print Culture and the Modern World",
-      "question": "Highlight the role of the press in independent India.",
-      "prashna": "स्वतंत्र भारत में प्रेस की भूमिका पर प्रकाश डालें।"
+      "chapter_name": "Employment and Services",
+      "question": "What is outsourcing (Bahyasroti)?",
+      "prashna": "बाह्यस्रोती किसे कहते हैं?"
     }
   ],
   "2012": [
     {
-      "id": "short_2",
+      "id": "short_15",
       "type": "short_answer",
+      "section": "Civics",
       "chapter": "5",
-      "chapter_name": "Print Culture and the Modern World",
-      "question": "Describe any three characteristics of the Indian Press.",
-      "prashna": "भारतीय प्रेस की किन्हीं तीन विशेषताओं का वर्णन करें।"
+      "chapter_name": "Popular Struggles and Movements",
+      "question": "What were the main objectives of the 'Right to Information Movement'?",
+      "prashna": "'सूचना के अधिकार आंदोलन' के मुख्य उद्देश्य क्या थे?"
+    }
+  ],
+  "2013": [
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "section": "Geography",
+      "chapter": "5",
+      "chapter_name": "Bihar: Agriculture and Forest Resources",
+      "question": "Highlight the importance of the Son or Kosi river valley project.",
+      "prashna": "सोन अथवा कोसी नदी-घाटी परियोजना के महत्त्व पर प्रकाश डालिए।"
     }
   ],
   "2014": [
     {
-      "id": "short_6",
+      "id": "short_5",
       "type": "short_answer",
+      "section": "Geography",
       "chapter": "5",
-      "chapter_name": "Print Culture and the Modern World",
-      "question": "How did the printing press reach Europe?",
-      "prashna": "छापाखाना यूरोप कैसे पहुँचा ?"
+      "chapter_name": "Bihar: Agriculture and Forest Resources",
+      "question": "Write the problems related to the development of canals in Bihar.",
+      "prashna": "बिहार के नहरों के विकास से संबंधित समस्याओं को लिखिए।"
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "section": "Civics",
+      "chapter": "5",
+      "chapter_name": "Popular Struggles and Movements",
+      "question": "How is the Right to Information Act the protector of democracy?",
+      "prashna": "सूचना का अधिकार कानून लोकतंत्र का रखवाला है। कैसे?"
+    }
+  ],
+  "2015": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "section": "History",
+      "chapter": "5",
+      "chapter_name": "Economy and Livelihood",
+      "question": "How did industrialization influence the livelihood of the labourers?",
+      "prashna": "औद्योगीकरण ने मजदूरों को आजीविका को किस तरह प्रभावित किया था?",
+      "options": null,
+      "vikalpa": null
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "section": "Civics",
+      "chapter": "5",
+      "chapter_name": "Popular Struggles and Movements",
+      "question": "What is Chipko Movement?",
+      "prashna": "चिपको आन्दोलन क्या है?",
+      "options": null,
+      "vikalpa": null
+    },
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "section": "History",
+      "chapter": "5",
+      "chapter_name": "Economy and Livelihood",
+      "question": "How did industrialization affect the livelihood of laborers?",
+      "prashna": "औद्योगिकीकरण ने मजदूरों की आजीविका को किस तरह प्रभावित किया था?"
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "section": "Civics",
+      "chapter": "5",
+      "chapter_name": "Popular Struggles and Movements",
+      "question": "What is the Chipko movement?",
+      "prashna": "चिपको आंदोलन क्या है?"
     }
   ],
   "2016": [
     {
-      "id": "short_5",
+      "id": "short_7",
       "type": "short_answer",
+      "section": "Geography",
       "chapter": "5",
-      "chapter_name": "Print Culture and the Modern World",
-      "question": "How did Gutenberg develop the printing machine ?",
-      "prashna": "गुटेनबर्ग ने मुद्रण यंत्र का विकास कैसे किया ?"
+      "chapter_name": "Bihar: Agriculture and Forest Resources",
+      "question": "Write two main factors of deforestation in Bihar.",
+      "prashna": "बिहार में वन विनाश के दो मुख्य कारकों को लिखें।"
     },
     {
-      "id": "short_3",
+      "id": "short_4",
       "type": "short_answer",
+      "section": "Geography",
       "chapter": "5",
-      "chapter_name": "Print Culture and the Modern World",
-      "question": "How did Gutenberg develop the printing press?",
-      "prashna": "गुटेनबर्ग ने मुद्रण यंत्र का विकास कैसे किया?"
+      "chapter_name": "Bihar: Agriculture and Forest Resources",
+      "question": "Write two main factors for deforestation in Bihar.",
+      "prashna": "बिहार में वन-विनाश के दो मुख्य कारकों को लिखें।"
+    }
+  ],
+  "2017": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "section": "History",
+      "chapter": "5",
+      "chapter_name": "Economy and Livelihood",
+      "question": "Coal and Iron Industry gave a boost to industrialization. Explain.",
+      "prashna": "कोयला एवं लौह उद्योग ने औद्योगिकीकरण को गति प्रदान की। कैसे?"
+    },
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "section": "History",
+      "chapter": "5",
+      "chapter_name": "Economy and Livelihood",
+      "question": "How did the coal and iron industry accelerate industrialization?",
+      "prashna": "कोयला एवं लौह उद्योग ने औद्योगिकीकरण को गति प्रदान की। कैसे?",
+      "sub_questions": null,
+      "anuprashna": null
     }
   ],
   "2018": [
     {
-      "id": "short_5",
+      "id": "short_3",
       "type": "short_answer",
+      "section": "History",
       "chapter": "5",
-      "chapter_name": "Print Culture and the Modern World",
-      "question": "How Gutenberg developed the printing machine?",
-      "prashna": "गुटेनबर्ग ने मुद्रणयंत्र का विकास कैसे किया?"
+      "chapter_name": "Economy and Livelihood",
+      "question": "How did industrialization affect the livelihood of workers?",
+      "prashna": "औद्योगिकीकरण ने मजदूरों की आजीविका को किस तरह प्रभावित किया?"
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "section": "History",
+      "chapter": "5",
+      "chapter_name": "Economy and Livelihood",
+      "question": "How coal and Iron industries triggered industrialisation?",
+      "prashna": "कोयला एवं लौह-उद्योग ने औद्योगिकीकरण को गति प्रदान की, कैसे?"
+    },
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "section": "Civics",
+      "chapter": "5",
+      "chapter_name": "Popular Struggles and Movements",
+      "question": "What is \"Chipko Movement\"? Explain.",
+      "prashna": "चिपको आंदोलन का वर्णन करें।"
     }
   ],
   "2019": [
     {
-      "id": "short_5",
+      "id": "short_11",
       "type": "short_answer",
+      "section": "Civics",
       "chapter": "5",
-      "chapter_name": "Print Culture and the Modern World",
-      "question": "How did printing press start in Europe?",
-      "prashna": "छापाखाना यूरोप में कैसे प्रारम्भ हुआ?"
+      "chapter_name": "Popular Struggles and Movements",
+      "question": "Define pressure group.",
+      "prashna": "दबाव-समूह की परिभाषा दें।"
     },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "section": "Civics",
+      "chapter": "5",
+      "chapter_name": "Popular Struggles and Movements",
+      "question": "What are the main objectives of Chipko Movement?",
+      "prashna": "चिपको आन्दोलन के मुख्य उद्देश्य क्या हैं?"
+    }
+  ],
+  "2020": [
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "section": "History",
+      "chapter": "5",
+      "chapter_name": "Economy and Livelihood",
+      "question": "How did industrialisation influence the livelihood of labourers ?",
+      "prashna": "औद्योगीकरण ने मजदूरों की आजीविका को किस तरह प्रभावित किया ?"
+    },
+    {
+      "id": "short_17",
+      "type": "short_answer",
+      "section": "Economics",
+      "chapter": "5",
+      "chapter_name": "Employment and Services",
+      "question": "What is government service?",
+      "prashna": "सरकारी सेवा किसे कहते हैं?"
+    },
+    {
+      "id": "short_25",
+      "type": "short_answer",
+      "section": "Geography",
+      "chapter": "5",
+      "chapter_name": "Bihar: Agriculture and Forest Resources",
+      "question": "Write two reasons for the lack of forests in Bihar.",
+      "prashna": "बिहार में वनों के अभाव के दो कारणों को लिखें।"
+    }
+  ],
+  "2021": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "section": "History",
+      "chapter": "5",
+      "chapter_name": "Economy and Livelihood",
+      "question": "State any two causes of the Industrial Revolution in England.",
+      "prashna": "इंगलैण्ड की औद्योगिक क्रांति के कोई दो कारण बताइए ।"
+    },
+    {
+      "id": "short_20",
+      "type": "short_answer",
+      "section": "Geography",
+      "chapter": "5",
+      "chapter_name": "Bihar: Agriculture and Forest Resources",
+      "question": "Name the major minerals found in Bihar.",
+      "prashna": "बिहार में पाए जाने वाले प्रमुख खनिजों के नाम बताइए।"
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "section": "History",
+      "chapter": "5",
+      "chapter_name": "Economy and Livelihood",
+      "question": "State any two negative impacts of the Industrial Revolution.",
+      "prashna": "औद्योगिक क्रांति के किन्हीं दो नकारात्मक प्रभावों को बताएँ।"
+    }
+  ],
+  "2022": [
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "section": "Civics",
+      "chapter": "5",
+      "chapter_name": "Popular Struggles and Movements",
+      "question": "What were the main causes of the student movement in Bihar in 1974?",
+      "prashna": "बिहार में 1974 में हुए छात्र आंदोलन के प्रमुख कारण क्या थे?"
+    },
+    {
+      "id": "short_19",
+      "type": "short_answer",
+      "section": "Geography",
+      "chapter": "5",
+      "chapter_name": "Bihar: Agriculture and Forest Resources",
+      "question": "State two reasons for low agricultural productivity in Bihar.",
+      "prashna": "बिहार में कृषि की निम्न उत्पादकता के दो कारण बताइए।"
+    }
+  ],
+  "2023": [
     {
       "id": "short_5",
       "type": "short_answer",
+      "section": "History",
       "chapter": "5",
-      "chapter_name": "Print Culture and the Modern World",
-      "question": "What is manuscript? What is its utility?",
-      "prashna": "पाण्डुलिपि क्या है? इसकी क्या उपयोगिता है?"
+      "chapter_name": "Economy and Livelihood",
+      "question": "State any two reasons for the development of Factory system.",
+      "prashna": "फैक्ट्री प्रणाली के विकास के किन्हीं दो कारणों को बताइए।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "section": "History",
+      "chapter": "5",
+      "chapter_name": "Economy and Livelihood",
+      "question": "How did industrialization affect the livelihood of the labourers ?",
+      "prashna": "औद्योगिकीकरण ने मजदूरों की आजीविका को किस प्रकार प्रभावित किया ?"
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "section": "Civics",
+      "chapter": "5",
+      "chapter_name": "Popular Struggles and Movements",
+      "question": "How is right to information the saviour of democracy ?",
+      "prashna": "सूचना का अधिकार किस प्रकार लोकतंत्र का रखवाला है ?"
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "section": "Civics",
+      "chapter": "5",
+      "chapter_name": "Popular Struggles and Movements",
+      "question": "What were the main demands of the Indian Farmer's Union ?",
+      "prashna": "भारतीय किसान यूनियन की मुख्य माँगें क्या थीं ?"
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "section": "Geography",
+      "chapter": "5",
+      "chapter_name": "Bihar: Agriculture and Forest Resources",
+      "question": "Mention the problems related to the development of canals in Bihar.",
+      "prashna": "बिहार में नहरों के विकास से संबंधित समस्याओं का उल्लेख कीजिए।"
+    }
+  ],
+  "2026": [
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "section": "Civics",
+      "chapter": "5",
+      "chapter_name": "Popular Struggles and Movements",
+      "question": "What was the main objective of Narmada Bachao Andolan ?",
+      "prashna": "नर्मदा बचाओ आंदोलन का मुख्य उद्देश्य क्या था ?",
+      "instructions": "Question Nos. 9 to 12 are Short Answer Type. Answer any 2 questions. Each question carries 2 marks."
     }
   ]
 }

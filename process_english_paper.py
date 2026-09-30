@@ -86,7 +86,7 @@ def process_question_paper(input_pdf_path: str, output_json_path: str):
     Begin processing now and generate only the JSON array as your output.
     """)
 
-    model = utils.get_generative_model(model_name="models/gemini-3-flash-preview")
+    model = utils.get_generative_model(model_name="models/gemini-3.8-flash")
     
     # Use the new file-aware utility
     response = utils.generate_content_from_file_with_retry(model, input_pdf_path, prompt_text, logger=logger)

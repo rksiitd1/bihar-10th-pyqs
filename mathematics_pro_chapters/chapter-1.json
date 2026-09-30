@@ -2586,5 +2586,267 @@
         "D": "3510"
       }
     }
+  ],
+  "2026": [
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "According to Euclid's division lemma for any two given positive integers a and b, there exist unique integers q and r satisfying the equation a = bq + r where",
+      "prashna": "किन्हीं दो धनात्मक पूर्णांक a और b के लिए, युक्लिड विभाजन प्रमेयिका के अनुसार अद्वितीय पूर्णांक q तथा r होते हैं जो समीकरण a = bq + r को संतुष्ट करते हैं जहाँ",
+      "options": {
+        "A": "0 \\le b < r",
+        "B": "0 \\le r < b",
+        "C": "0 \\ge b > r",
+        "D": "0 \\ge r \\ge b"
+      },
+      "vikalpa": {
+        "A": "0 \\le b < r",
+        "B": "0 \\le r < b",
+        "C": "0 \\ge b > r",
+        "D": "0 \\ge r \\ge b"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "According to Euclid's division algorithm the HCF of 867 and 255 is",
+      "prashna": "यूक्लिड विभाजन एल्गोरिथ्म के अनुसार 867 तथा 255 का म०स० है",
+      "options": {
+        "A": "13",
+        "B": "15",
+        "C": "17",
+        "D": "51"
+      },
+      "vikalpa": {
+        "A": "13",
+        "B": "15",
+        "C": "17",
+        "D": "51"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Product of prime factors of 7429 is",
+      "prashna": "7429 के अभाज्य गुणनखंडों का गुणनफल है",
+      "options": {
+        "A": "17 \\times 19 \\times 23",
+        "B": "13 \\times 17 \\times 19",
+        "C": "13 \\times 19 \\times 23",
+        "D": "17 \\times 19 \\times 29"
+      },
+      "vikalpa": {
+        "A": "17 \\times 19 \\times 23",
+        "B": "13 \\times 17 \\times 19",
+        "C": "13 \\times 19 \\times 23",
+        "D": "17 \\times 19 \\times 29"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "If c and d are the LCM and HCF of two numbers a and b respectively then",
+      "prashna": "यदि दो संख्याओं a तथा b का ल०स० तथा म०स० क्रमशः c तथा d हों तो",
+      "options": {
+        "A": "a + b = c + d",
+        "B": "a - b = c - d",
+        "C": "ab = cd",
+        "D": "ad = bc"
+      },
+      "vikalpa": {
+        "A": "a + b = c + d",
+        "B": "a - b = c - d",
+        "C": "ab = cd",
+        "D": "ad = bc"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Which of the following numbers is a rational number ?",
+      "prashna": "निम्नांकित में कौन-सी संख्या परिमेय संख्या है ?",
+      "options": {
+        "A": "\\sqrt{2}",
+        "B": "\\sqrt{3}",
+        "C": "\\sqrt{4}",
+        "D": "\\sqrt{5}"
+      },
+      "vikalpa": {
+        "A": "\\sqrt{2}",
+        "B": "\\sqrt{3}",
+        "C": "\\sqrt{4}",
+        "D": "\\sqrt{5}"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "The number whose generalised form is p/q where p and q are integers and q \\neq 0 is said to be",
+      "prashna": "वैसी संख्या जिसका व्यापक रूप p/q होता है जहाँ p और q पूर्णांक हैं एवं q \\neq 0, कहलाती है",
+      "options": {
+        "A": "even number",
+        "B": "odd number",
+        "C": "rational number",
+        "D": "irrational number"
+      },
+      "vikalpa": {
+        "A": "सम संख्या",
+        "B": "विषम संख्या",
+        "C": "परिमेय संख्या",
+        "D": "अपरिमेय संख्या"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "The number whose decimal expansion is neither terminating nor repeating is said to be",
+      "prashna": "वैसी संख्या जिसका दशमलव प्रसार न तो सांत होता है और न आवर्ती, कहलाती है",
+      "options": {
+        "A": "irrational number",
+        "B": "rational number",
+        "C": "prime number",
+        "D": "integer"
+      },
+      "vikalpa": {
+        "A": "अपरिमेय संख्या",
+        "B": "परिमेय संख्या",
+        "C": "अभाज्य संख्या",
+        "D": "पूर्णांक"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "( 3 - 2\\sqrt{5} )^2 =",
+      "prashna": "( 3 - 2\\sqrt{5} )^2 =",
+      "options": {
+        "A": "29 - 12\\sqrt{5}",
+        "B": "29 + 12\\sqrt{5}",
+        "C": "29",
+        "D": "- 11"
+      },
+      "vikalpa": {
+        "A": "29 - 12\\sqrt{5}",
+        "B": "29 + 12\\sqrt{5}",
+        "C": "29",
+        "D": "- 11"
+      }
+    },
+    {
+      "id": "short_25",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Find the largest number which divides 245 and 1037, leaving remainder 5 in each case.",
+      "prashna": "वह सबसे बड़ी संख्या ज्ञात करें जिससे 245 तथा 1037 में भाग देने पर प्रत्येक स्थिति में शेषफल 5 प्राप्त हो।"
+    },
+    {
+      "id": "short_26",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Without actual division, show that the rational number \\frac{77}{210} is a non-terminating repeating decimal.",
+      "prashna": "बिना भाग की क्रिया किये सिद्ध करें कि परिमेय संख्या \\frac{77}{210} असांत आवर्ती दशमलव है।"
+    },
+    {
+      "id": "short_27",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Simplify : \\frac{2\\sqrt{27} + 3\\sqrt{12}}{4\\sqrt{3}}",
+      "prashna": "सरल करें : \\frac{2\\sqrt{27} + 3\\sqrt{12}}{4\\sqrt{3}}"
+    },
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Which of the following fractions is expressible as a terminating decimal ?",
+      "prashna": "निम्नलिखित में कौन-सा भिन्न का दशमलव प्रसार शांत है ?",
+      "options": {
+        "A": "19/105",
+        "B": "67/210",
+        "C": "13/88",
+        "D": "3/160"
+      },
+      "vikalpa": {
+        "A": "19/105",
+        "B": "67/210",
+        "C": "13/88",
+        "D": "3/160"
+      }
+    },
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "If in division algorithm a = bq + r, a = 72, b = 9 then r =",
+      "prashna": "यदि भाग एल्गोरिद्म a = bq + r में a = 72, b = 9 तो r =",
+      "options": {
+        "A": "8",
+        "B": "- 8",
+        "C": "0",
+        "D": "1"
+      },
+      "vikalpa": {
+        "A": "8",
+        "B": "- 8",
+        "C": "0",
+        "D": "1"
+      }
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "What is the exponent of 5 in the prime factorization of 625 ?",
+      "prashna": "625 के अभाज्य गुणनखण्ड में 5 का घातांक क्या है ?",
+      "options": {
+        "A": "5",
+        "B": "6",
+        "C": "4",
+        "D": "3"
+      },
+      "vikalpa": {
+        "A": "5",
+        "B": "6",
+        "C": "4",
+        "D": "3"
+      }
+    },
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Prove that 6 + \\sqrt{2} is an irrational number.",
+      "prashna": "सिद्ध करें कि 6 + \\sqrt{2} एक अपरिमेय संख्या है।"
+    },
+    {
+      "id": "short_24",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "question": "Using Euclid's division algorithm find the H.C.F. of 135 and 225.",
+      "prashna": "यूक्लिड विभाजन एल्गोरिथ्म का प्रयोग कर 135 और 225 का म०स० ज्ञात करें।"
+    }
   ]
 }

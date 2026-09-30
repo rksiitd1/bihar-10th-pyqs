@@ -1,32 +1,11 @@
 {
-  "2018": [
-    {
-      "id": "obj_17",
-      "type": "objective",
-      "chapter": "10",
-      "chapter_name": "Machhali (मछली)",
-      "question": "'पेड़ का कमरा' किसकी रचना है?",
-      "prashna": "'पेड़ का कमरा' किसकी रचना है?",
-      "options": {
-        "A": "विनोद कुमार शुक्ल",
-        "B": "अशोक वाजपेयी",
-        "C": "अमरकांत",
-        "D": "यतीन्द्र मिश्र"
-      },
-      "vikalpa": {
-        "A": "विनोद कुमार शुक्ल",
-        "B": "अशोक वाजपेयी",
-        "C": "अमरकांत",
-        "D": "यतीन्द्र मिश्र"
-      }
-    }
-  ],
   "2019": [
     {
       "id": "obj_13",
       "type": "objective",
+      "section": "Godhuli",
       "chapter": "10",
-      "chapter_name": "Machhali (मछली)",
+      "chapter_name": "Machhli",
       "question": "लेखक को मछली खाने से किसने मना किया?",
       "prashna": "लेखक को मछली खाने से किसने मना किया?",
       "instructions": "प्रश्न संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से एक सही है। अपने द्वारा चुने गए सही विकल्प को OMR-शीट पर चिन्हित करें। (50×1=50)",
@@ -46,8 +25,9 @@
     {
       "id": "obj_23",
       "type": "objective",
+      "section": "Godhuli",
       "chapter": "10",
-      "chapter_name": "Machhali (मछली)",
+      "chapter_name": "Machhli",
       "question": "लेखक के घर में मछली कौन खाता था?",
       "prashna": "लेखक के घर में मछली कौन खाता था?",
       "instructions": "प्रश्न संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से एक सही है। अपने द्वारा चुने गए सही विकल्प को OMR-शीट पर चिन्हित करें। (50×1=50)",
@@ -69,8 +49,9 @@
     {
       "id": "obj_1",
       "type": "objective",
+      "section": "Godhuli",
       "chapter": "10",
-      "chapter_name": "Machhali (मछली)",
+      "chapter_name": "Machhli",
       "question": "मछली लेकर कौन भाग गया था ?",
       "prashna": "मछली लेकर कौन भाग गया था ?",
       "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 60 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -90,8 +71,9 @@
     {
       "id": "obj_7",
       "type": "objective",
+      "section": "Godhuli",
       "chapter": "10",
-      "chapter_name": "Machhali (मछली)",
+      "chapter_name": "Machhli",
       "question": "'मछली' कहानी में किस वर्ग का जीवन वर्णित है ?",
       "prashna": "'मछली' कहानी में किस वर्ग का जीवन वर्णित है ?",
       "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 60 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -109,10 +91,32 @@
       }
     },
     {
+      "id": "obj_10",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "10",
+      "chapter_name": "Indeclinable (Avyay)",
+      "question": "जिस शब्द का रूप कभी नहीं बदलता है, उसे कहते हैं",
+      "prashna": "जिस शब्द का रूप कभी नहीं बदलता है, उसे कहते हैं",
+      "options": {
+        "A": "संज्ञा",
+        "B": "सर्वनाम",
+        "C": "क्रिया",
+        "D": "अव्यय"
+      },
+      "vikalpa": {
+        "A": "संज्ञा",
+        "B": "सर्वनाम",
+        "C": "क्रिया",
+        "D": "अव्यय"
+      }
+    },
+    {
       "id": "obj_21",
       "type": "objective",
+      "section": "Godhuli",
       "chapter": "10",
-      "chapter_name": "Machhali (मछली)",
+      "chapter_name": "Machhli",
       "question": "मछली के लिए मसाला कौन पीस रही थी ?",
       "prashna": "मछली के लिए मसाला कौन पीस रही थी ?",
       "options": {
@@ -131,8 +135,9 @@
     {
       "id": "obj_45",
       "type": "objective",
+      "section": "Godhuli",
       "chapter": "10",
-      "chapter_name": "Machhali (मछली)",
+      "chapter_name": "Machhli",
       "question": "विनोद कुमार शुक्ल किस कृषि विश्वविद्यालय में एसोसिएट प्रोफेसर थे ?",
       "prashna": "विनोद कुमार शुक्ल किस कृषि विश्वविद्यालय में एसोसिएट प्रोफेसर थे ?",
       "options": {
@@ -151,8 +156,9 @@
     {
       "id": "obj_53",
       "type": "objective",
+      "section": "Godhuli",
       "chapter": "10",
-      "chapter_name": "Machhali (मछली)",
+      "chapter_name": "Machhli",
       "question": "'मछली' शीर्षक कहानी में दीदी के प्रेमी का क्या नाम था ?",
       "prashna": "'मछली' शीर्षक कहानी में दीदी के प्रेमी का क्या नाम था ?",
       "options": {
@@ -173,8 +179,9 @@
     {
       "id": "obj_5",
       "type": "objective",
+      "section": "Godhuli",
       "chapter": "10",
-      "chapter_name": "Machhali (मछली)",
+      "chapter_name": "Machhli",
       "question": "'मछली' किस प्रकार की कहानी है?",
       "prashna": "'मछली' किस प्रकार की कहानी है?",
       "options": {
@@ -193,8 +200,9 @@
     {
       "id": "obj_37",
       "type": "objective",
+      "section": "Godhuli",
       "chapter": "10",
-      "chapter_name": "Machhali (मछली)",
+      "chapter_name": "Machhli",
       "question": "संतू मछली लेकर क्यों भागा?",
       "prashna": "संतू मछली लेकर क्यों भागा?",
       "options": {
@@ -213,8 +221,9 @@
     {
       "id": "obj_17",
       "type": "objective",
+      "section": "Godhuli",
       "chapter": "10",
-      "chapter_name": "Machhali (मछली)",
+      "chapter_name": "Machhli",
       "question": "'मछली' शीर्षक पाठ में खरीदी गई मछली में कितनी मछली जिंदा थी?",
       "prashna": "'मछली' शीर्षक पाठ में खरीदी गई मछली में कितनी मछली जिंदा थी?",
       "options": {
@@ -233,8 +242,9 @@
     {
       "id": "obj_91",
       "type": "objective",
+      "section": "Godhuli",
       "chapter": "10",
-      "chapter_name": "Machhali (मछली)",
+      "chapter_name": "Machhli",
       "question": "'मछली' शीर्षक कहानी के रचयिता हैं",
       "prashna": "'मछली' शीर्षक कहानी के रचयिता हैं",
       "options": {
@@ -255,8 +265,9 @@
     {
       "id": "obj_82",
       "type": "objective",
+      "section": "Godhuli",
       "chapter": "10",
-      "chapter_name": "Machhali (मछली)",
+      "chapter_name": "Machhli",
       "question": "विनोद कुमार शुक्ल का जन्म कब हुआ था ?",
       "prashna": "विनोद कुमार शुक्ल का जन्म कब हुआ था ?",
       "options": {
@@ -275,8 +286,9 @@
     {
       "id": "obj_83",
       "type": "objective",
+      "section": "Godhuli",
       "chapter": "10",
-      "chapter_name": "Machhali (मछली)",
+      "chapter_name": "Machhli",
       "question": "मछली छीनने की कोशिश कौन कर रहा था ?",
       "prashna": "मछली छीनने की कोशिश कौन कर रहा था ?",
       "options": {
@@ -295,8 +307,9 @@
     {
       "id": "obj_90",
       "type": "objective",
+      "section": "Godhuli",
       "chapter": "10",
-      "chapter_name": "Machhali (मछली)",
+      "chapter_name": "Machhli",
       "question": "'मछली' शीर्षक कहानी में मछली और गोश्त कौन खाता था ?",
       "prashna": "'मछली' शीर्षक कहानी में मछली और गोश्त कौन खाता था ?",
       "options": {
@@ -315,8 +328,9 @@
     {
       "id": "obj_68",
       "type": "objective",
+      "section": "Godhuli",
       "chapter": "10",
-      "chapter_name": "Machhali (मछली)",
+      "chapter_name": "Machhli",
       "question": "'मछली' शीर्षक कहानी किस कहानी संकलन से ली गयी है ?",
       "prashna": "'मछली' शीर्षक कहानी किस कहानी संकलन से ली गयी है ?",
       "options": {
@@ -335,8 +349,9 @@
     {
       "id": "obj_69",
       "type": "objective",
+      "section": "Godhuli",
       "chapter": "10",
-      "chapter_name": "Machhali (मछली)",
+      "chapter_name": "Machhli",
       "question": "संतू भोंगने से बचने के लिए कहाँ खड़ा हो गया ?",
       "prashna": "संतू भोंगने से बचने के लिए कहाँ खड़ा हो गया ?",
       "options": {
@@ -357,29 +372,9 @@
     {
       "id": "obj_31",
       "type": "objective",
+      "section": "Godhuli",
       "chapter": "10",
-      "chapter_name": "Machhali (मछली)",
-      "instructions": "किन्हीं 50 प्रश्नों के उत्तर दें।",
-      "question": "'नौकर की कमीज' किसकी रचना है ?",
-      "prashna": "'नौकर की कमीज' किसकी रचना है ?",
-      "options": {
-        "A": "यतीन्द्र मिश्र की",
-        "B": "अशोक वाजपेयी की",
-        "C": "अमरकांत की",
-        "D": "विनोद कुमार शुक्ल की"
-      },
-      "vikalpa": {
-        "A": "यतीन्द्र मिश्र की",
-        "B": "अशोक वाजपेयी की",
-        "C": "अमरकांत की",
-        "D": "विनोद कुमार शुक्ल की"
-      }
-    },
-    {
-      "id": "obj_31",
-      "type": "objective",
-      "chapter": "10",
-      "chapter_name": "Machhali (मछली)",
+      "chapter_name": "Machhli",
       "question": "'मछली' शीर्षक पाठ में कौन मछली को काटा करता था ?",
       "prashna": "'मछली' शीर्षक पाठ में कौन मछली को काटा करता था ?",
       "options": {
@@ -398,8 +393,9 @@
     {
       "id": "obj_95",
       "type": "objective",
+      "section": "Godhuli",
       "chapter": "10",
-      "chapter_name": "Machhali (मछली)",
+      "chapter_name": "Machhli",
       "question": "संतू मछली लेकर क्यों भागा ?",
       "prashna": "संतू मछली लेकर क्यों भागा ?",
       "options": {
@@ -418,8 +414,9 @@
     {
       "id": "obj_97",
       "type": "objective",
+      "section": "Godhuli",
       "chapter": "10",
-      "chapter_name": "Machhali (मछली)",
+      "chapter_name": "Machhli",
       "question": "विनोद कुमार शुक्ल के उपन्यास का नाम है",
       "prashna": "विनोद कुमार शुक्ल के उपन्यास का नाम है",
       "options": {
@@ -433,6 +430,30 @@
         "B": "अतिरिक्त नहीं",
         "C": "नौकर की कमीज",
         "D": "महाविद्यालय"
+      }
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_92",
+      "type": "objective",
+      "section": "Godhuli",
+      "chapter": "10",
+      "chapter_name": "Machhli",
+      "question": "'मछली' शीर्षक पाठ में मछलियों को कौन खरीदता है ?",
+      "prashna": "'मछली' शीर्षक पाठ में मछलियों को कौन खरीदता है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
+      "options": {
+        "A": "लेखक",
+        "B": "पिताजी",
+        "C": "माँ",
+        "D": "भग्गू"
+      },
+      "vikalpa": {
+        "A": "लेखक",
+        "B": "पिताजी",
+        "C": "माँ",
+        "D": "भग्गू"
       }
     }
   ]

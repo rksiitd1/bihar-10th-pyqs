@@ -1,14 +1,6 @@
 {
   "2015": [
     {
-      "id": "short_3",
-      "type": "short_answer",
-      "chapter": "10",
-      "chapter_name": "Circles",
-      "question": "Two circles are congruent if their _______ are equal.",
-      "prashna": "दो वृत्त सर्वांगसम होंगे यदि उनकी _______ बराबर हो।"
-    },
-    {
       "id": "short_4",
       "type": "short_answer",
       "chapter": "10",
@@ -194,6 +186,33 @@
       "chapter_name": "Circles",
       "question": "If the angle between two tangents drawn from an external point P to a circle of radius 3 cm and centre O is $60^\\circ$, find the length of OP.",
       "prashna": "यदि एक बाह्य बिन्दु P से त्रिज्या 3 सेमी तथा केन्द्र O वाले वृत्त पर खींची गई दो स्पर्शरेखाओं के बीच का कोण $60^\\circ$ हो तो OP की लम्बाई ज्ञात करें।"
+    }
+  ],
+  "2026": [
+    {
+      "id": "short_13",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "A circle is inscribed in a triangle ABC touching the sides BC, CA and AB of the triangle at P, Q and R respectively. If AB = 10 cm, AQ = 7cm and CQ = 5 cm then find the length of BC.",
+      "prashna": "\\Delta ABC के अन्दर एक वृत्त खींचा गया है जो त्रिभुज की भुजाओं BC, CA तथा AB को क्रमशः P, Q तथा R बिन्दु पर स्पर्श करता है। यदि AB = 10 सेमी, AQ = 7 सेमी तथा CQ = 5 सेमी तो BC की लम्बाई ज्ञात करें।"
+    },
+    {
+      "id": "short_14",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "If the lengths of a chord and radius of a circle are 24 cm and 13 cm respectively then find the perpendicular distance of the chord from the centre of the circle.",
+      "prashna": "यदि किसी वृत्त की जीवा तथा त्रिज्या की लम्बाइयाँ क्रमशः 24 सेमी तथा 13 सेमी हों तो वृत्त के केन्द्र से जीवा की लाम्बिक दूरी निकालें।"
+    },
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "The chord QR of a circle makes an angle 130^{\\circ} at the centre O of the circle. The tangents at Q and R meet at the point P. Find the value of \\angle QPR.",
+      "prashna": "किसी वृत्त के केन्द्र O पर उसकी एक जीवा QR, 130^{\\circ} का कोण बनाती है। Q और R पर की स्पर्श रेखाएँ P बिन्दु पर मिलती हैं। \\angle QPR का मान ज्ञात करें।",
+      "instructions": "Question Nos. 1 to 30 are Short Answer Type Questions. Answer any 15 questions. Each question carries 2 marks."
     }
   ]
 }

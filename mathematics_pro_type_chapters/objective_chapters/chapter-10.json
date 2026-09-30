@@ -1058,5 +1058,227 @@
         "D": "अनगिनत"
       }
     }
+  ],
+  "2026": [
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "How many tangents can be drawn to a circle from an external point ?",
+      "prashna": "किसी बाह्य बिन्दु से किसी वृत्त पर कितनी स्पर्श रेखाएँ खींची जा सकती हैं ?",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Infinite",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "एक",
+        "B": "दो",
+        "C": "अनन्त",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "If the lengths of radius of a circle and the tangent drawn from an external point to the circle are 7 cm and 24 cm respectively then the distance of the external point from the centre of the circle is",
+      "prashna": "यदि किसी वृत्त की त्रिज्या तथा बाह्य बिन्दु से वृत्त पर खींची गई स्पर्श रेखा की लम्बाई क्रमशः 7 सेमी तथा 24 सेमी हों तो वृत्त के केन्द्र से बाह्य बिन्दु की दूरी है",
+      "options": {
+        "A": "18 cm",
+        "B": "32 cm",
+        "C": "25 cm",
+        "D": "12 cm"
+      },
+      "vikalpa": {
+        "A": "18 सेमी",
+        "B": "32 सेमी",
+        "C": "25 सेमी",
+        "D": "12 सेमी"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "If the lengths of chord and radius of a circle are 16 cm and 17 cm respectively then perpendicular distance of the chord from the centre is",
+      "prashna": "यदि वृत्त की जीवा तथा त्रिज्या की लम्बाई क्रमशः 16 सेमी तथा 17 सेमी हों तो वृत्त के केन्द्र से जीवा की लाम्बिक दूरी है",
+      "options": {
+        "A": "8 cm",
+        "B": "15 cm",
+        "C": "14 cm",
+        "D": "13 cm"
+      },
+      "vikalpa": {
+        "A": "8 सेमी",
+        "B": "15 सेमी",
+        "C": "14 सेमी",
+        "D": "13 सेमी"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "The sum ( in right angle ) of pair of opposite angles of a cyclic quadrilateral is",
+      "prashna": "चक्रीय चतुर्भुज के सम्मुख कोणों के किसी भी युग्म का योगफल (समकोण में) होता है",
+      "options": {
+        "A": "1/2",
+        "B": "2/3",
+        "C": "3/4",
+        "D": "2"
+      },
+      "vikalpa": {
+        "A": "1/2",
+        "B": "2/3",
+        "C": "3/4",
+        "D": "2"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "Which of the following pairs of lines in a circle cannot be parallel ?",
+      "prashna": "निम्नांकित रेखा युग्मों में से कौन किसी वृत्त में समान्तर नहीं हो सकता है ?",
+      "options": {
+        "A": "Two chords",
+        "B": "A chord and a tangent",
+        "C": "Two tangents",
+        "D": "Two diameters"
+      },
+      "vikalpa": {
+        "A": "दो जीवाएँ",
+        "B": "एक जीवा और एक स्पर्श रेखा",
+        "C": "दो स्पर्श रेखाएँ",
+        "D": "दो व्यास"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "If the angle between any two radii of a circle is 130^{\\circ} then the angle between the tangents at the ends of the radii is",
+      "prashna": "यदि वृत्त की किन्हीं दो त्रिज्याओं के बीच का कोण 130^{\\circ} है, तो त्रिज्याओं के अंतिम सिरों पर स्पर्श रेखाओं के बीच का कोण है",
+      "options": {
+        "A": "65^{\\circ}",
+        "B": "40^{\\circ}",
+        "C": "50^{\\circ}",
+        "D": "90^{\\circ}"
+      },
+      "vikalpa": {
+        "A": "65^{\\circ}",
+        "B": "40^{\\circ}",
+        "C": "50^{\\circ}",
+        "D": "90^{\\circ}"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "The angle subtended at the centre of a circle is \\angle AOB and \\angle ACB where C lies on major arc at the circumference. Then \\angle ACB =",
+      "prashna": "किसी वृत्त के केन्द्र पर \\angle AOB है तथा परिधि पर \\angle ACB जहाँ C वृत्त के वृहद चाप पर स्थित है, तो \\angle ACB =",
+      "options": {
+        "A": "\\angle AOB",
+        "B": "2\\angle AOB",
+        "C": "\\frac{\\angle AOB}{2}",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "\\angle AOB",
+        "B": "2\\angle AOB",
+        "C": "\\frac{\\angle AOB}{2}",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_54",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "If the length of any chord of a circle is equal to the radius of the circle then the angle subtended by the chord at the centre is",
+      "prashna": "यदि किसी वृत्त की जीवा की लम्बाई वृत्त की त्रिज्या के बराबर हो, तो जीवा द्वारा केन्द्र पर बनाया गया कोण है",
+      "options": {
+        "A": "120^{\\circ}",
+        "B": "90^{\\circ}",
+        "C": "60^{\\circ}",
+        "D": "30^{\\circ}"
+      },
+      "vikalpa": {
+        "A": "120^{\\circ}",
+        "B": "90^{\\circ}",
+        "C": "60^{\\circ}",
+        "D": "30^{\\circ}"
+      }
+    },
+    {
+      "id": "obj_55",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "If two circles touch each other externally then what is the number of common tangents ?",
+      "prashna": "दो वृत्त यदि बाह्य रूप से परस्पर स्पर्श करते हों तो उभयनिष्ठ स्पर्श रेखाओं की संख्या क्या होगी ?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      }
+    },
+    {
+      "id": "obj_56",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "If two tangents drawn on a circle of radius 3 cm are inclined to each other at an angle of 60^{\\circ}, then the length of each tangent is",
+      "prashna": "यदि 3 सेमी त्रिज्या वाले एक वृत्त पर खींची गई दो स्पर्श रेखाएँ परस्पर 60^{\\circ} के कोण पर झुकी हों तो प्रत्येक स्पर्श रेखा की लंबाई है",
+      "options": {
+        "A": "4 cm",
+        "B": "\frac{3\\sqrt{3}}, {2} cm",
+        "C": "3\\sqrt{3} cm",
+        "D": "2\\sqrt{3} cm"
+      },
+      "vikalpa": {
+        "A": "4 सेमी",
+        "B": "\frac{3\\sqrt{3}}, {2} सेमी",
+        "C": "3\\sqrt{3} सेमी",
+        "D": "2\\sqrt{3} सेमी"
+      }
+    },
+    {
+      "id": "obj_81",
+      "type": "objective",
+      "chapter": "10",
+      "chapter_name": "Circles",
+      "question": "The length of the tangent PT, drawn from an external point P to a circle of radius 7 cm is 24 cm. If O is the centre of the circle, then the length of OP is",
+      "prashna": "7 सेमी त्रिज्या वाले वृत्त पर किसी बाह्य बिन्दु P से स्पर्श रेखा PT की लम्बाई 24 सेमी है। यदि O वृत्त का केन्द्र है, तो OP की लंबाई है",
+      "options": {
+        "A": "28 cm",
+        "B": "18 cm",
+        "C": "25 cm",
+        "D": "30 cm"
+      },
+      "vikalpa": {
+        "A": "28 सेमी",
+        "B": "18 सेमी",
+        "C": "25 सेमी",
+        "D": "30 सेमी"
+      }
+    }
   ]
 }

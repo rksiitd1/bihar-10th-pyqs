@@ -26,24 +26,6 @@
       "question": "In a right triangle, the square of the hypotenuse is equal to the sum of the squares of other two sides. Prove it.",
       "prashna": "सिद्ध करें कि समकोण त्रिभुज के कर्ण पर वर्ग अन्य दो भुजाओं के वर्ग के बराबर होते हैं।",
       "marks": 5
-    },
-    {
-      "id": "long_5_1",
-      "type": "long_answer",
-      "chapter": "6",
-      "chapter_name": "Triangles",
-      "question": "Draw a line $AB = 12$ cm and divide it in a ratio of $3:5$.",
-      "prashna": "रेखा $AB = 12$ सेमी खींचें और $3:5$ के अनुपात में बाँटें।",
-      "marks": 5
-    },
-    {
-      "id": "long_5_2",
-      "type": "long_answer",
-      "chapter": "6",
-      "chapter_name": "Triangles",
-      "question": "Construct a triangle $ABC$ in which side $BC = 6$ cm, $AB = 5$ cm and $\\angle ABC = 60^\\circ$. Construct a triangle similar to this triangle whose sides are $3/4$th of the corresponding sides of triangle $ABC$.",
-      "prashna": "$\triangle ABC$ की रचना करें जिसमें $BC = 6$ सेमी, $AB = 5$ सेमी तथा $\\angle ABC = 60^\\circ$ है। इसके समरूप एक अन्य त्रिभुज बनायें जिसकी भुजाएँ $\triangle ABC$ की संगत भुजाओं का $3/4$ हों।",
-      "marks": 5
     }
   ],
   "2016": [
@@ -110,6 +92,14 @@
       "prashna": "एक समबाहु त्रिभुज की परिमिति $30$ सेमी. है इसका क्षेत्रफल ज्ञात कीजिए ।"
     },
     {
+      "id": "short_25",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "The height of a right angle triangle is $7$ cm less than its base. If hypotenuse is $13$ cm then find the value of remaining two sides.",
+      "prashna": "एक समकोण त्रिभुज की ऊँचाई आधार से $7$ सेमी. कम है । यदि कर्ण $13$ सेमी. का हो तो अन्य दो भुजाओं का मान ज्ञात करें ।"
+    },
+    {
       "id": "short_26",
       "type": "short_answer",
       "chapter": "6",
@@ -132,14 +122,6 @@
       "chapter_name": "Triangles",
       "question": "In a triangle, if square of one side is equal to the sum of the square of the other two sides, than the angle opposite the first side is right angle.",
       "prashna": "अथवा: यदि किसी त्रिभुज की एक भुजा का वर्ग अन्य दो भुजाओं के योग के बराबर हो तो पहली भुजा के सम्मुख कोण समकोण होता है ।"
-    },
-    {
-      "id": "long_5_2",
-      "type": "long_answer",
-      "chapter": "6",
-      "chapter_name": "Triangles",
-      "question": "Construct a triangle whose sides are $5$ cm., $6$ cm and $7$ cm. construct a similar triangle such that each of its side is $5/7$ of the corresponding sides of the triangle.",
-      "prashna": "अथवा: $5$ सेमी., $6$ सेमी. और $7$ सेमी. भुजाओं वाले एक त्रिभुज की रचना कीजिए और एक अन्य समरूप त्रिभुज की रचना कीजिए जिसकी भुजाएं दिए हुए त्रिभुज की संगत भुजाओं की $5/7$ गुनी हो ।"
     },
     {
       "id": "obj_5",
@@ -204,37 +186,9 @@
       "chapter_name": "Triangles",
       "question": "If the corresponding angles of two triangles are equal, then prove that their corresponding sides are proportional.",
       "prashna": "यदि दो त्रिभुजों के संगत कोण बराबर हों, तो साबित करें कि उनकी संगत भुजाएँ समानुपाती होती हैं।"
-    },
-    {
-      "id": "long_10",
-      "type": "long_answer",
-      "chapter": "6",
-      "chapter_name": "Triangles",
-      "question": "Construct a triangle with sides $4$ cm, $5$ cm and $6$ cm and then construct another triangle similar to it whose sides are $\frac{2}, {3}$ of the corresponding sides of the first triangle.",
-      "prashna": "$4$ सेमी०, $5$ सेमी० और $6$ सेमी० भुजाओं वाला एक त्रिभुज बनाएं तथा इसके समरूप एक दूसरे त्रिभुज की रचना करें जिसकी भुजाएं पहले त्रिभुज की संगत भुजाओं का $\frac{2}, {3}$ हो।"
     }
   ],
   "2018": [
-    {
-      "id": "obj_24",
-      "type": "objective",
-      "chapter": "6",
-      "chapter_name": "Triangles",
-      "question": "A tree of $6\text{m}$ height casts a $4\text{m}$ long shadow. At the same time a flag post casts a shadow $50\text{m}$ long. The height of the post (in m.) is -",
-      "prashna": "एक $6$ मीटर ऊँचे वृक्ष की छाया $4$ मीटर लम्बी है। उसी समय एक खम्भे की छाया $50$ मीटर है, तो खम्भे की ऊँचाई (मीटर में) है -",
-      "options": {
-        "A": "40",
-        "B": "25",
-        "C": "15",
-        "D": "10"
-      },
-      "vikalpa": {
-        "A": "40",
-        "B": "25",
-        "C": "15",
-        "D": "10"
-      }
-    },
     {
       "id": "obj_31",
       "type": "objective",
@@ -336,14 +290,6 @@
       }
     },
     {
-      "id": "short_9",
-      "type": "short_answer",
-      "chapter": "6",
-      "chapter_name": "Triangles",
-      "question": "In the given figure. Find $\\angle P$",
-      "prashna": "दिये गए चित्र में $\\angle P$ ज्ञात करें।"
-    },
-    {
       "id": "short_10",
       "type": "short_answer",
       "chapter": "6",
@@ -358,26 +304,6 @@
       "chapter_name": "Triangles",
       "question": "In the given figure: $DE \\parallel BC$ and $\frac{BD}, {DA} = \frac{5}, {3}$ then, find $\frac{ar(\triangle ADE)}, {ar(\\Delta ABFC)}$",
       "prashna": "दिये गये चित्र में $DE \\parallel BC$ तथा $\frac{BD}, {DA} = \frac{5}, {3}$ तो $\frac{ar(\triangle ADE)}, {ar(\\Delta ABFC)}$ ज्ञात करें।"
-    },
-    {
-      "id": "obj_24",
-      "type": "objective",
-      "chapter": "6",
-      "chapter_name": "Triangles",
-      "question": "A tree of $6\text{m}$ height casts a $4\text{m}$ long shadow. At the same time a flag post casts a shadow $50\text{m}$ long. The height of the post (in m.) is -",
-      "prashna": "एक $6$ मीटर ऊँचे वृक्ष की छाया $4$ मीटर लम्बी है। उसी समय एक खम्भे की छाया $50$ मीटर है, तो खम्भे की ऊँचाई (मीटर में) है -",
-      "options": {
-        "A": "40",
-        "B": "25",
-        "C": "15",
-        "D": "75"
-      },
-      "vikalpa": {
-        "A": "40",
-        "B": "25",
-        "C": "15",
-        "D": "75"
-      }
     },
     {
       "id": "obj_31",
@@ -480,14 +406,6 @@
       }
     },
     {
-      "id": "short_9",
-      "type": "short_answer",
-      "chapter": "6",
-      "chapter_name": "Triangles",
-      "question": "In the given figure. Find $\\angle P$.",
-      "prashna": "दिये गए चित्र में $\\angle P$ ज्ञात करें।"
-    },
-    {
       "id": "short_10",
       "type": "short_answer",
       "chapter": "6",
@@ -566,26 +484,6 @@
       }
     },
     {
-      "id": "obj_41",
-      "type": "objective",
-      "chapter": "6",
-      "chapter_name": "Triangles",
-      "question": "A man goes 24 m West, again he goes 10 m North. Now at what distance is the man from his initial point?",
-      "prashna": "एक आदमी 24 मीटर पश्चिम जाता है, पुनः वह 10 मीटर उत्तर जाता है। अब वह अपने प्रारंभिक बिन्दु से कितनी दूरी पर है?",
-      "options": {
-        "A": "34 m",
-        "B": "17 m",
-        "C": "26 m",
-        "D": "28 m"
-      },
-      "vikalpa": {
-        "A": "34 m",
-        "B": "17 m",
-        "C": "26 m",
-        "D": "28 m"
-      }
-    },
-    {
       "id": "short_7",
       "type": "short_answer",
       "chapter": "6",
@@ -659,26 +557,6 @@
         "B": "$\\sqrt{3}a$",
         "C": "$\\sqrt{3}a^2$",
         "D": "a"
-      }
-    },
-    {
-      "id": "obj_33",
-      "type": "objective",
-      "chapter": "6",
-      "chapter_name": "Triangles",
-      "question": "A man goes 24 m West, again he goes 10 m North. Now at what distance is the man from his initial point?",
-      "prashna": "एक आदमी 24 मीटर पश्चिम जाता है, पुनः वह 10 मीटर उत्तर जाता है। अब वह अपने प्रारम्भिक बिन्दु से कितनी दूरी पर है?",
-      "options": {
-        "A": "34 m",
-        "B": "17 m",
-        "C": "26 m",
-        "D": "28 m"
-      },
-      "vikalpa": {
-        "A": "34 मी",
-        "B": "17 मी",
-        "C": "26 मी",
-        "D": "28 मी"
       }
     },
     {
@@ -776,26 +654,6 @@
       "prashna": "$\triangle ABC$ में भुजाओं $AB$ तथा $AC$ पर दो बिन्दु $D$ और $E$ क्रमशः इस प्रकार हैं कि $DE \\parallel BC$, यदि $AD = (4x - 3)$ cm, $AE = (8x - 7)$ cm, $BD = (3x - 1)$ cm तथा $CE = (5x - 3)$ cm, तो $x$ का मान निकालें।"
     },
     {
-      "id": "obj_5",
-      "type": "objective",
-      "chapter": "6",
-      "chapter_name": "Triangles",
-      "question": "Two circles of different radii are always",
-      "prashna": "दो भिन्न त्रिज्याओं वाले वृत्त हमेशा होते हैं",
-      "options": {
-        "A": "congruent",
-        "B": "similar",
-        "C": "congruent and similar",
-        "D": "none of these"
-      },
-      "vikalpa": {
-        "A": "सर्वांगसम",
-        "B": "समरूप",
-        "C": "सर्वांगसम और समरूप",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
       "id": "obj_16",
       "type": "objective",
       "chapter": "6",
@@ -870,14 +728,6 @@
       "chapter_name": "Triangles",
       "question": "In $\triangle ABC, D$ and $E$ are points on the sides $AB$ and $AC$ respectively such that $DE \\parallel BC$. If $AD = (7x - 4), DB = (3x + 4), AE = (5x - 2)$ and $EC = 3x$, then find the value of $x$.",
       "prashna": "त्रिभुज $ABC$ में भुजाओं $AB$ तथा $AC$ पर दो बिन्दु $D$ और $E$ क्रमशः इस प्रकार हैं कि $DE \\parallel BC$। यदि $AD = (7x - 4), DB = (3x + 4), AE = (5x - 2)$ तथा $EC = 3x$, तो $x$ का मान निकालें।"
-    },
-    {
-      "id": "long_6",
-      "type": "long_answer",
-      "chapter": "6",
-      "chapter_name": "Triangles",
-      "question": "Draw a triangle $ABC$ in which $AB = 5\text{cm}, BC = 6\text{cm}$ and $\\angle ABC = 60^{\\circ}$. Then construct a triangle whose sides are $\frac{3}, {4}$ times the corresponding sides of $\triangle ABC$.",
-      "prashna": "एक त्रिभुज $ABC$ की रचना करें जिसमें $AB = 5\text{cm}, BC = 6\text{cm}$ तथा $\\angle ABC = 60^{\\circ}$ है। फिर, एक त्रिभुज की रचना करें जिसकी भुजाएँ $\triangle ABC$ की संगत भुजाओं की $\frac{3}, {4}$ गुनी हों।"
     }
   ],
   "2021": [
@@ -962,26 +812,6 @@
       }
     },
     {
-      "id": "obj_84",
-      "type": "objective",
-      "chapter": "6",
-      "chapter_name": "Triangles",
-      "question": "In triangle ABC, $a = 4$ cm, $b = 5$ cm, and $c = 3$ cm, then $\\angle B = ?$",
-      "prashna": "यदि त्रिभुज ABC में $a = 4$ cm, $b = 5$ cm, और $c = 3$ cm, तो $\\angle B = ?$",
-      "options": {
-        "A": "$60^\\circ$",
-        "B": "$90^\\circ$",
-        "C": "$45^\\circ$",
-        "D": "none of these"
-      },
-      "vikalpa": {
-        "A": "$60^\\circ$",
-        "B": "$90^\\circ$",
-        "C": "$45^\\circ$",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
       "id": "short_10",
       "type": "short_answer",
       "chapter": "6",
@@ -1004,6 +834,26 @@
       "chapter_name": "Triangles",
       "question": "Prove that if a line is drawn parallel to one side of a triangle, the other two sides are divided in the same ratio.",
       "prashna": "सिद्ध करें कि यदि किसी त्रिभुज की एक भुजा के समांतर एक रेखा खींची जाए तो अन्य दो भुजाएँ एक ही अनुपात में विभाजित हो जाती हैं।"
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "The sum of two angles of a triangle is equal to the third angle. If the difference between the two angles is $50^\\circ$, then the angles of the triangle are",
+      "prashna": "किसी त्रिभुज के दो कोणों का योग, तीसरे कोण के बराबर है। यदि दो कोणों का अन्तर $50^\\circ$ है, तब त्रिभुज के कोण हैं",
+      "options": {
+        "A": "$45^\\circ, 45^\\circ, 90^\\circ$",
+        "B": "$20^\\circ, 70^\\circ, 90^\\circ$",
+        "C": "$40^\\circ, 70^\\circ, 70^\\circ$",
+        "D": "$20^\\circ, 60^\\circ, 100^\\circ$"
+      },
+      "vikalpa": {
+        "A": "$45^\\circ, 45^\\circ, 90^\\circ$",
+        "B": "$20^\\circ, 70^\\circ, 90^\\circ$",
+        "C": "$40^\\circ, 70^\\circ, 70^\\circ$",
+        "D": "$20^\\circ, 60^\\circ, 100^\\circ$"
+      }
     },
     {
       "id": "obj_23",
@@ -1316,12 +1166,12 @@
       "prashna": "यदि किसी त्रिभुज $ABC$ की भुजा $BC$ पर $D$ एक ऐसा बिन्दु है कि $\\angle ADC = \\angle BAC$ तो सिद्ध करें कि $\frac{CA}, {CD} = \frac{CB}, {CA}$।"
     },
     {
-      "id": "long_4",
+      "id": "long_2",
       "type": "long_answer",
       "chapter": "6",
       "chapter_name": "Triangles",
-      "question": "Construct a triangle $ABC$ in which $BC = 6 \text{ cm}, AB = 5 \text{ cm}$ and $\\angle ABC = 60^\\circ$; then construct a similar triangle whose sides are $\frac{3}, {4}$ times the corresponding sides of $\\Delta ABC$.",
-      "prashna": "एक त्रिभुज $ABC$ की रचना करें जिसकी भुजा $BC = 6$ सेमी, $AB = 5$ सेमी एवं $\\angle ABC = 60^\\circ$, फिर एक समरूप त्रिभुज की रचना करें जिसकी भुजाएँ $\\Delta ABC$ की संगत भुजाओं की $\frac{3}, {4}$ है।"
+      "question": "The perpendicular of a right angled triangle is $7 \text{ cm}$ less than its base and its hypotenuse is $13 \text{ cm}$. Find the base of the triangle.",
+      "prashna": "एक समकोण त्रिभुज का लम्ब उसके आधार से $7$ सेमी कम है तथा कर्ण $13$ सेमी है। त्रिभुज का आधार ज्ञात करें।"
     }
   ],
   "2023": [
@@ -1986,14 +1836,6 @@
       "prashna": "सिद्ध करें कि यदि किसी त्रिभुज का एक कोण दूसरे त्रिभुज के एक कोण के बराबर हो और इन कोणों को अंतरित करने वाली भुजाएँ आनुपातिक हों तो त्रिभुज समरूप होते हैं।"
     },
     {
-      "id": "long_4",
-      "type": "long_answer",
-      "chapter": "6",
-      "chapter_name": "Triangles",
-      "question": "Draw a line segment of length 7.6 cm and divide it in the ratio $5 : 8$. Measure both parts.",
-      "prashna": "7.6 सेमी लंबा एक रेखाखंड खींचें और इसे $5 : 8$ के अनुपात में विभाजित करें। दोनों मापों को मापिए।"
-    },
-    {
       "id": "obj_43",
       "type": "objective",
       "chapter": "6",
@@ -2132,6 +1974,616 @@
         "C": "$40^\\circ$",
         "D": "$60^\\circ$"
       }
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "If the lengths of diagonals of a rhombus are 10 cm and 24 cm respectively then each side of the rhombus is",
+      "prashna": "यदि समचतुर्भुज के विकर्णों की लम्बाई क्रमशः 10 सेमी तथा 24 सेमी हों तो उसकी प्रत्येक भुजा की लम्बाई है",
+      "options": {
+        "A": "5 cm",
+        "B": "12 cm",
+        "C": "13 cm",
+        "D": "17 cm"
+      },
+      "vikalpa": {
+        "A": "5 सेमी",
+        "B": "12 सेमी",
+        "C": "13 सेमी",
+        "D": "17 सेमी"
+      }
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "If the diagonals of the parallelogram are equal and bisect each other at right angle then the quadrilateral is",
+      "prashna": "यदि समान्तर चतुर्भुज के विकर्ण बराबर हों तथा एक दूसरे को समकोण पर समद्विभाजित करते हैं तो वह चतुर्भुज है",
+      "options": {
+        "A": "rectangle",
+        "B": "square",
+        "C": "trapezium",
+        "D": "rhombus"
+      },
+      "vikalpa": {
+        "A": "आयत",
+        "B": "वर्ग",
+        "C": "समलम्ब चतुर्भुज",
+        "D": "समचतुर्भुज"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "What relation holds between the diagonals of rhombus ?",
+      "prashna": "समचतुर्भुज के विकर्णों में क्या सम्बन्ध होता है ?",
+      "options": {
+        "A": "equal",
+        "B": "intersect at right angle",
+        "C": "bisect at right angle",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "बराबर",
+        "B": "समकोण पर प्रतिच्छेद करते हैं",
+        "C": "समकोण पर समद्विभाजित करते हैं",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_71",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "All the triangles of which of the following types are similar ?",
+      "prashna": "निम्नलिखित में किस प्रकार के सभी त्रिभुज समरूप होते हैं ?",
+      "options": {
+        "A": "Scalene triangle",
+        "B": "Isosceles triangle",
+        "C": "Equilateral triangle",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "विषमबाहु त्रिभुज",
+        "B": "समद्विबाहु त्रिभुज",
+        "C": "समबाहु त्रिभुज",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_72",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "Two polygons having the same number of sides are similar. Then the relation among their corresponding sides is",
+      "prashna": "समान भुजाओं वाले दो बहुभुज समरूप हैं तो उनकी संगत भुजाओं में सम्बन्ध है",
+      "options": {
+        "A": "equal",
+        "B": "directly proportional",
+        "C": "inversely proportional",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "बराबर",
+        "B": "समानुपाती",
+        "C": "व्युत्क्रमानुपाती",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_73",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "Ratio of the areas of two similar triangles is 4 : 9 ; then the ratio of their corresponding sides is",
+      "prashna": "दो समरूप त्रिभुजों के क्षेत्रफलों का अनुपात 4 : 9 है तो उनकी संगत भुजाओं का अनुपात है",
+      "options": {
+        "A": "3 : 2",
+        "B": "9 : 4",
+        "C": "4 : 9",
+        "D": "2 : 3"
+      },
+      "vikalpa": {
+        "A": "3 : 2",
+        "B": "9 : 4",
+        "C": "4 : 9",
+        "D": "2 : 3"
+      }
+    },
+    {
+      "id": "obj_74",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "If \\Delta ABC \\sim \\Delta DEF and \\frac{AB}{DE} = \\frac{3}{5} then \\frac{FD}{CA} =",
+      "prashna": "यदि \\Delta ABC \\sim \\Delta DEF तथा \\frac{AB}{DE} = \\frac{3}{5} तो \\frac{FD}{CA} =",
+      "options": {
+        "A": "9 : 25",
+        "B": "25 : 9",
+        "C": "3 : 5",
+        "D": "5 : 3"
+      },
+      "vikalpa": {
+        "A": "9 : 25",
+        "B": "25 : 9",
+        "C": "3 : 5",
+        "D": "5 : 3"
+      }
+    },
+    {
+      "id": "obj_75",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "\\Delta ABC \\sim \\Delta PQR and their perimeters are 32 cm and 24 cm respectively. If AB = 10 cm then PQ =",
+      "prashna": "\\Delta ABC \\sim \\Delta PQR तथा उनकी परिमिति क्रमशः 32 सेमी तथा 24 सेमी हैं। यदि AB = 10 सेमी तो PQ =",
+      "options": {
+        "A": "7 cm",
+        "B": "40/3 cm",
+        "C": "15/2 cm",
+        "D": "15 cm"
+      },
+      "vikalpa": {
+        "A": "7 सेमी",
+        "B": "40/3 सेमी",
+        "C": "15/2 सेमी",
+        "D": "15 सेमी"
+      }
+    },
+    {
+      "id": "obj_76",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "Length of the altitude of an equilateral triangle having side 2a cm is",
+      "prashna": "2a सेमी भुजा वाले समबाहु त्रिभुज की ऊँचाई की लम्बाई है",
+      "options": {
+        "A": "\\frac{a\\sqrt{3}}{2} cm",
+        "B": "\\frac{a\\sqrt{2}}{3} cm",
+        "C": "a\\sqrt{2} cm",
+        "D": "a\\sqrt{3} cm"
+      },
+      "vikalpa": {
+        "A": "\\frac{a\\sqrt{3}}{2} सेमी",
+        "B": "\\frac{a\\sqrt{2}}{3} सेमी",
+        "C": "a\\sqrt{2} सेमी",
+        "D": "a\\sqrt{3} सेमी"
+      }
+    },
+    {
+      "id": "obj_77",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "Which of the following options is not a Pythagorean triplet ?",
+      "prashna": "निम्नांकित में कौन-सा विकल्प पाइथागोरियन त्रिक नहीं है ?",
+      "options": {
+        "A": "12, 35, 37",
+        "B": "28, 45, 53",
+        "C": "16, 63, 65",
+        "D": "17, 61, 69"
+      },
+      "vikalpa": {
+        "A": "12, 35, 37",
+        "B": "28, 45, 53",
+        "C": "16, 63, 65",
+        "D": "17, 61, 69"
+      }
+    },
+    {
+      "id": "obj_78",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "Area of the equilateral triangle having height 6\\sqrt{3} cm is",
+      "prashna": "6\\sqrt{3} सेमी ऊँचाई वाले समबाहु त्रिभुज का क्षेत्रफल है",
+      "options": {
+        "A": "27\\sqrt{3} cm^2",
+        "B": "36\\sqrt{3} cm^2",
+        "C": "54\\sqrt{3} cm^2",
+        "D": "72\\sqrt{3} cm^2"
+      },
+      "vikalpa": {
+        "A": "27\\sqrt{3} सेमी^2",
+        "B": "36\\sqrt{3} सेमी^2",
+        "C": "54\\sqrt{3} सेमी^2",
+        "D": "72\\sqrt{3} सेमी^2"
+      }
+    },
+    {
+      "id": "obj_79",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "If the bisector of an angle of a triangle bisects the opposite side then the triangle is",
+      "prashna": "यदि त्रिभुज के किसी कोण का समद्विभाजक अपने सामने की भुजा को समद्विभाजित करती है तो त्रिभुज है",
+      "options": {
+        "A": "scalene triangle",
+        "B": "equilateral triangle",
+        "C": "isosceles triangle",
+        "D": "right angled triangle"
+      },
+      "vikalpa": {
+        "A": "विषमबाहु त्रिभुज",
+        "B": "समबाहु त्रिभुज",
+        "C": "समद्विबाहु त्रिभुज",
+        "D": "समकोण त्रिभुज"
+      }
+    },
+    {
+      "id": "obj_80",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "The structure formed with the line segments joining the mid-points of the adjacent sides of a quadrilateral is",
+      "prashna": "किसी चतुर्भुज की सम्मुख भुजाओं के मध्य बिन्दुओं को मिलाने से बनी आकृति कहलाती है",
+      "options": {
+        "A": "parallelogram",
+        "B": "rectangle",
+        "C": "square",
+        "D": "rhombus"
+      },
+      "vikalpa": {
+        "A": "समान्तर चतुर्भुज",
+        "B": "आयत",
+        "C": "वर्ग",
+        "D": "समचतुर्भुज"
+      }
+    },
+    {
+      "id": "obj_96",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "Lengths of the sides of a triangle are 13 cm, 14 cm and 15 cm respectively, then its area is",
+      "prashna": "किसी त्रिभुज की भुजाओं की लम्बाइयाँ क्रमशः 13 सेमी, 14 सेमी तथा 15 सेमी हैं तो उसका क्षेत्रफल है",
+      "options": {
+        "A": "42 cm^2",
+        "B": "48 cm^2",
+        "C": "84 cm^2",
+        "D": "96 cm^2"
+      },
+      "vikalpa": {
+        "A": "42 सेमी^2",
+        "B": "48 सेमी^2",
+        "C": "84 सेमी^2",
+        "D": "96 सेमी^2"
+      }
+    },
+    {
+      "id": "obj_98",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "Area of an isosceles triangle each of which equal sides is 13 cm and having base 24 cm is",
+      "prashna": "समद्विबाहु त्रिभुज की बराबर भुजाओं में प्रत्येक की लम्बाई 13 सेमी है तथा आधार 24 सेमी हो तो इसका क्षेत्रफल है",
+      "options": {
+        "A": "30 cm^2",
+        "B": "60 cm^2",
+        "C": "90 cm^2",
+        "D": "120 cm^2"
+      },
+      "vikalpa": {
+        "A": "30 सेमी^2",
+        "B": "60 सेमी^2",
+        "C": "90 सेमी^2",
+        "D": "120 सेमी^2"
+      }
+    },
+    {
+      "id": "obj_99",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "If the area of an equilateral triangle is 36\\sqrt{3} cm^2 then its perimeter is",
+      "prashna": "यदि समबाहु त्रिभुज का क्षेत्रफल 36\\sqrt{3} सेमी^2 है तो इसकी परिमिति है",
+      "options": {
+        "A": "24 cm",
+        "B": "27 cm",
+        "C": "36 cm",
+        "D": "48 cm"
+      },
+      "vikalpa": {
+        "A": "24 सेमी",
+        "B": "27 सेमी",
+        "C": "36 सेमी",
+        "D": "48 सेमी"
+      }
+    },
+    {
+      "id": "obj_100",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "The length of the diagonal of a square is 10\\sqrt{2} cm; then its area is",
+      "prashna": "किसी वर्ग के विकर्ण की लम्बाई 10\\sqrt{2} सेमी है तो इसका क्षेत्रफल है",
+      "options": {
+        "A": "200 cm^2",
+        "B": "100 cm^2",
+        "C": "150 cm^2",
+        "D": "100\\sqrt{2} cm^2"
+      },
+      "vikalpa": {
+        "A": "200 सेमी^2",
+        "B": "100 सेमी^2",
+        "C": "150 सेमी^2",
+        "D": "100\\sqrt{2} सेमी^2"
+      }
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "The perimeter of a right angled triangle is 40 cm. Its hypotenuse is 17 cm and the difference of the lengths of other two sides is 7 cm. Find the sides.",
+      "prashna": "किसी समकोण त्रिभुज की परिमिति 40 सेमी है। इसका कर्ण 17 सेमी एवं अन्य दो भुजाओं की लम्बाइयों का अंतर 7 सेमी है तो भुजाएँ ज्ञात करें।"
+    },
+    {
+      "id": "short_22",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "Write the side-angle-side criterion of the similarity of two triangles and also represent with figure.",
+      "prashna": "दो त्रिभुजों की समरूपता की भुजा-कोण-भुजा कसौटी को लिखें तथा चित्र के साथ भी व्यक्त करें।"
+    },
+    {
+      "id": "short_23",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "\\Delta ABC \\sim \\Delta PQR and their areas are 64 cm^2 and 121 cm^2 respectively. If QR = 15.4 cm then find the value of BC.",
+      "prashna": "\\Delta ABC \\sim \\Delta PQR तथा इनके क्षेत्रफल क्रमशः 64 सेमी^2 तथा 121 सेमी^2 हैं। यदि QR = 15.4 सेमी तो BC का मान निकालें।"
+    },
+    {
+      "id": "short_24",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "Find the height of an equilateral triangle of side 12 cm.",
+      "prashna": "12 सेमी भुजा वाले एक समबाहु त्रिभुज की ऊँचाई ज्ञात करें।"
+    },
+    {
+      "id": "short_30",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "Points D and E are on the sides AB and AC respectively of triangle ABC such that DE || BC. If AD = 3.6 cm, AB = 10 cm and AE = 4.5 cm then find the values of EC and AC.",
+      "prashna": "त्रिभुज ABC की भुजाओं AB तथा AC पर क्रमशः D तथा E बिन्दुएँ इस प्रकार हैं कि DE || BC. यदि AD = 3.6 सेमी, AB = 10 सेमी तथा AE = 4.5 सेमी तो EC तथा AC का मान निकालें।"
+    },
+    {
+      "id": "long_33",
+      "type": "long_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "State and prove Pythagoras' theorem.",
+      "prashna": "पाइथागोरस प्रमेय को लिखें तथा सिद्ध करें।"
+    },
+    {
+      "id": "long_34",
+      "type": "long_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "Prove that the ratio of the areas of two similar triangles is equal to the ratio of the squares of their corresponding sides.",
+      "prashna": "सिद्ध करें कि दो समरूप त्रिभुजों के क्षेत्रफलों का अनुपात उनकी संगत भुजाओं के वर्गों के अनुपात के बराबर होता है।"
+    },
+    {
+      "id": "obj_51",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "If the areas of two similar triangles are in the ratio 121 : 225 then the ratio of their corresponding sides is",
+      "prashna": "यदि दो समरूप त्रिभुजों के क्षेत्रफलों का अनुपात 121 : 225 हो, तो उनकी संगत भुजाओं का अनुपात है",
+      "options": {
+        "A": "13 : 25",
+        "B": "15 : 13",
+        "C": "11 : 15",
+        "D": "15 : 11"
+      },
+      "vikalpa": {
+        "A": "13 : 25",
+        "B": "15 : 13",
+        "C": "11 : 15",
+        "D": "15 : 11"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "The corresponding sides of two similar triangles are in the ratio 7 : 5. The ratio of the areas of the triangles is",
+      "prashna": "दो समरूप त्रिभुजों की संगत भुजाएँ 7 : 5 के अनुपात में हैं। त्रिभुजों के क्षेत्रफलों का अनुपात है",
+      "options": {
+        "A": "49 : 125",
+        "B": "14 : 25",
+        "C": "49 : 25",
+        "D": "25 : 49"
+      },
+      "vikalpa": {
+        "A": "49 : 125",
+        "B": "14 : 25",
+        "C": "49 : 25",
+        "D": "25 : 49"
+      }
+    },
+    {
+      "id": "obj_53",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "\\Delta ABC \\sim \\Delta XYZ and BC = 9 cm, YZ = 7 cm. If the area of \\Delta ABC is 243 cm^2 then the area of \\Delta XYZ is",
+      "prashna": "\\Delta ABC \\sim \\Delta XYZ तथा BC = 9 सेमी, YZ = 7 सेमी। यदि \\Delta ABC का क्षेत्रफल 243 सेमी^2 हो, तो \\Delta XYZ का क्षेत्रफल है",
+      "options": {
+        "A": "289 cm^2",
+        "B": "247 cm^2",
+        "C": "189 cm^2",
+        "D": "147 cm^2"
+      },
+      "vikalpa": {
+        "A": "289 सेमी^2",
+        "B": "247 सेमी^2",
+        "C": "189 सेमी^2",
+        "D": "147 सेमी^2"
+      }
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "If the ratio of the areas of two similar triangles is 100 : 81 then the ratio of their corresponding medians is",
+      "prashna": "दो समरूप त्रिभुजों के क्षेत्रफलों का अनुपात 100 : 81 है, तो उनकी संगत माध्यिकाओं का अनुपात है",
+      "options": {
+        "A": "9 : 10",
+        "B": "10 : 9",
+        "C": "81 : 100",
+        "D": "15 : 81"
+      },
+      "vikalpa": {
+        "A": "9 : 10",
+        "B": "10 : 9",
+        "C": "81 : 100",
+        "D": "15 : 81"
+      }
+    },
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "The perimeters of two similar triangles are 60 cm and 40 cm respectively. If the length of one side of first triangle is 12 cm then the length of corresponding side of second triangle is",
+      "prashna": "दो समरूप त्रिभुजों के परिमाप क्रमशः 60 सेमी और 40 सेमी हैं। यदि पहले त्रिभुज की एक भुजा की लंबाई 12 सेमी हो, तो दूसरे त्रिभुज की संगत भुजा की लम्बाई है",
+      "options": {
+        "A": "12 cm",
+        "B": "8 cm",
+        "C": "4 cm",
+        "D": "10 cm"
+      },
+      "vikalpa": {
+        "A": "12 सेमी",
+        "B": "8 सेमी",
+        "C": "4 सेमी",
+        "D": "10 सेमी"
+      }
+    },
+    {
+      "id": "obj_60",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "In \\Delta MNO, P, Q are two points on sides MN and MO respectively and PQ || NO. If MP : PN = 3 : 5, then the value of MQ : QO is",
+      "prashna": "\\Delta MNO में P, Q क्रमशः भुजाएँ MN और MO पर दो बिन्दु हैं तथा PQ || NO. यदि MP : PN = 3 : 5 तो MQ : QO का मान है",
+      "options": {
+        "A": "5 : 3",
+        "B": "1 : 3",
+        "C": "5 : 1",
+        "D": "3 : 5"
+      },
+      "vikalpa": {
+        "A": "5 : 3",
+        "B": "1 : 3",
+        "C": "5 : 1",
+        "D": "3 : 5"
+      }
+    },
+    {
+      "id": "obj_82",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "In \\Delta XYZ, side YZ is extended up to a point T such that \\angle XZT = 110^{\\circ} and \\angle XYZ = 40^{\\circ}, then the value of \\angle YXZ is",
+      "prashna": "\\Delta XYZ में भुजा YZ को बिन्दु T तक बढ़ाया गया है जिससे \\angle XZT = 110^{\\circ} तथा \\angle XYZ = 40^{\\circ} हों, तो \\angle YXZ का मान है",
+      "options": {
+        "A": "50^{\\circ}",
+        "B": "60^{\\circ}",
+        "C": "70^{\\circ}",
+        "D": "110^{\\circ}"
+      },
+      "vikalpa": {
+        "A": "50^{\\circ}",
+        "B": "60^{\\circ}",
+        "C": "70^{\\circ}",
+        "D": "110^{\\circ}"
+      }
+    },
+    {
+      "id": "obj_83",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "In \\Delta ABC \\sim \\Delta LMN if \\angle A = 87^{\\circ}, \\angle M = 35^{\\circ} then \\angle C =",
+      "prashna": "यदि \\Delta ABC \\sim \\Delta LMN में \\angle A = 87^{\\circ}, \\angle M = 35^{\\circ} तो \\angle C =",
+      "options": {
+        "A": "38^{\\circ}",
+        "B": "48^{\\circ}",
+        "C": "58^{\\circ}",
+        "D": "68^{\\circ}"
+      },
+      "vikalpa": {
+        "A": "38^{\\circ}",
+        "B": "48^{\\circ}",
+        "C": "58^{\\circ}",
+        "D": "68^{\\circ}"
+      }
+    },
+    {
+      "id": "obj_84",
+      "type": "objective",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "In \\Delta ABC, AD \\perp BC, AD = BD = 5 cm and BC = 17 cm then the value of AC is",
+      "prashna": "\\Delta ABC में AD \\perp BC, AD = BD = 5 सेमी तथा BC = 17 सेमी तो AC का मान है",
+      "options": {
+        "A": "12 cm",
+        "B": "13 cm",
+        "C": "13.5 cm",
+        "D": "14.5 cm"
+      },
+      "vikalpa": {
+        "A": "12 सेमी",
+        "B": "13 सेमी",
+        "C": "13.5 सेमी",
+        "D": "14.5 सेमी"
+      }
+    },
+    {
+      "id": "short_25",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "In \\Delta ABC, PQ || BC, AP = 2 cm, PB = 6 cm, AQ = 4 cm, then find the value of AC.",
+      "prashna": "\\Delta ABC में PQ || BC, AP = 2 सेमी, PB = 6 सेमी, AQ = 4 सेमी, तो AC का मान ज्ञात करें।"
+    },
+    {
+      "id": "short_26",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "\\Delta ABC and \\Delta DEF are similar and their areas are 25 cm^2 and 49 cm^2 respectively. If EF = 9.8 cm then find BC.",
+      "prashna": "\\Delta ABC तथा \\Delta DEF समरूप हैं तथा इनके क्षेत्रफल क्रमशः 25 सेमी^2 तथा 49 सेमी^2 हैं। यदि EF = 9.8 सेमी हो तो BC ज्ञात करें।"
+    },
+    {
+      "id": "short_27",
+      "type": "short_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "ABC is an isosceles triangle in which AC = BC. If AB^2 = 2AC^2 then prove that ABC is a right angled triangle.",
+      "prashna": "ABC एक समद्विबाहु त्रिभुज है जिसमें AC = BC है। यदि AB^2 = 2AC^2 है तो सिद्ध करें कि ABC एक समकोण त्रिभुज है।"
+    },
+    {
+      "id": "long_32",
+      "type": "long_answer",
+      "chapter": "6",
+      "chapter_name": "Triangles",
+      "question": "Prove that if a perpendicular is drawn from the vertex containing the right angle of a right triangle to the hypotenuse then the triangles on both sides of the perpendicular are similar to each other and to the original triangle.",
+      "prashna": "सिद्ध करें कि यदि समकोण त्रिभुज के समकोण वाले शीर्ष से कर्ण पर लंब डाला गया हो तो लंब रेखा के दोनों ओर के त्रिभुज परस्पर और मूल त्रिभुज के समरूप होते हैं।"
     }
   ]
 }

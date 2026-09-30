@@ -1,40 +1,411 @@
 {
-  "2018": [
+  "2013": [
     {
-      "id": "long_4_2",
+      "id": "long_6_2",
       "type": "long_answer",
+      "section": "Economics",
       "chapter": "6",
-      "chapter_name": "Resources and Development",
-      "question": "Mention the major methods of relief representation.",
-      "prashna": "उच्चावच-प्रदर्शन की प्रमुख विधियों का उल्लेख कीजिए ?"
+      "chapter_name": "Globalization",
+      "question": "Explain the effects of globalization on Bihar.",
+      "prashna": "वैश्वीकरण का बिहार पर पड़े प्रभावों को बताइए।"
+    }
+  ],
+  "2014": [
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "section": "Civics",
+      "chapter": "6",
+      "chapter_name": "Political Parties",
+      "question": "Why is a political party called the 'soul of democracy'?",
+      "prashna": "राजनीतिक दल को 'लोकतंत्र का प्राण' क्यों कहा जाता है?"
+    },
+    {
+      "id": "long_25_1",
+      "type": "long_answer",
+      "section": "Economics",
+      "chapter": "6",
+      "chapter_name": "Globalization",
+      "question": "What do you understand by globalization in India?",
+      "prashna": "भारत में वैश्वीकरण से आप क्या समझते हैं?"
+    }
+  ],
+  "2015": [
+    {
+      "id": "long_2_2",
+      "type": "long_answer",
+      "section": "Geography",
+      "chapter": "6",
+      "chapter_name": "Map Study",
+      "question": "Draw the outline map of India on full page and mark the following by shading and naming them:",
+      "prashna": "पूरे पृष्ठ पर भारत का एक रेखा मानचित्र बनाइए तथा निम्नलिखित को छायांकित कर नाम अंकित कीजिए :",
+      "sub_questions": {
+        "A": "Coffee production area",
+        "B": "Coal production area",
+        "C": "Kolkata port",
+        "D": "Area of alluvial soil",
+        "E": "Chennai"
+      },
+      "anuprashna": {
+        "A": "कॉफी उत्पादक क्षेत्र",
+        "B": "कोयला उत्पादक क्षेत्र",
+        "C": "कोलकाता बन्दरगाह",
+        "D": "जलोढ़ मिट्टी का क्षेत्र",
+        "E": "चेन्नई"
+      }
+    },
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "section": "Civics",
+      "chapter": "6",
+      "chapter_name": "Political Parties",
+      "question": "How does political party contribute to the national development?",
+      "prashna": "राजनीतिक दल किस प्रकार राष्ट्रीय विकास में योगदान करते हैं?",
+      "options": null,
+      "vikalpa": null
+    },
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "section": "Civics",
+      "chapter": "6",
+      "chapter_name": "Political Parties",
+      "question": "How do political parties contribute to national development?",
+      "prashna": "राजनीतिक दल किस प्रकार राष्ट्रीय विकास में योगदान करते हैं?"
+    }
+  ],
+  "2016": [
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "section": "History",
+      "chapter": "6",
+      "chapter_name": "Urbanization and Urban Life",
+      "question": "Clarify the differences between rural life and urban life.",
+      "prashna": "ग्रामीण तथा नगरीय जीवन में बीच की भिन्नताओं को स्पष्ट करें।"
+    },
+    {
+      "id": "long_2_2",
+      "type": "long_answer",
+      "section": "Geography",
+      "chapter": "6",
+      "chapter_name": "Map Study",
+      "question": "Draw the outline map of India on full page and mark the following :",
+      "prashna": "पूरे पृष्ठ पर भारत का एक रेखा मानचित्र बनाइए तथा निम्नलिखित को अंकित कीजिए :",
+      "sub_questions": {
+        "A": "Raniganj",
+        "B": "Ankleshwar",
+        "C": "Barauni",
+        "D": "Kalpakkam",
+        "E": "Sundarban region"
+      },
+      "anuprashna": {
+        "A": "रानीगंज",
+        "B": "अंकलेश्वर",
+        "C": "बरौनी",
+        "D": "कलपक्कम",
+        "E": "सुन्दरवन क्षेत्र"
+      }
+    },
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "section": "Civics",
+      "chapter": "6",
+      "chapter_name": "Political Parties",
+      "question": "Why are the political parties essential for democracy ?",
+      "prashna": "लोकतंत्र के लिए राजनीतिक दल क्यों आवश्यक है ?"
     },
     {
       "id": "long_4_2",
       "type": "long_answer",
+      "section": "Economics",
       "chapter": "6",
-      "chapter_name": "Resources and Development",
+      "chapter_name": "Globalization",
+      "question": "What are the effects of globalisation on common people in India ?",
+      "prashna": "भारत में सामान्य व्यक्ति पर वैश्वीकरण का क्या प्रभाव पड़ा ?"
+    },
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "section": "History",
+      "chapter": "6",
+      "chapter_name": "Urbanization and Urban Life",
+      "question": "Clarify the differences between rural and urban life.",
+      "prashna": "ग्रामीण तथा नगरीय जीवन के बीच की भिन्नताओं को स्पष्ट करें।"
+    },
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "section": "Civics",
+      "chapter": "6",
+      "chapter_name": "Political Parties",
+      "question": "How do dynasticism and casteism affect democracy in Bihar?",
+      "prashna": "परिवारवाद और जातिवाद बिहार में किस तरह लोकतंत्र को प्रभावित करते हैं?"
+    },
+    {
+      "id": "long_3_2",
+      "type": "long_answer",
+      "section": "Civics",
+      "chapter": "6",
+      "chapter_name": "Political Parties",
+      "question": "Why are political parties necessary for democracy?",
+      "prashna": "लोकतंत्र के लिए राजनीतिक दल क्यों आवश्यक है ?"
+    },
+    {
+      "id": "long_4_2",
+      "type": "long_answer",
+      "section": "Economics",
+      "chapter": "6",
+      "chapter_name": "Globalization",
+      "question": "What was the impact of globalization on the common man in India?",
+      "prashna": "भारत में सामान्य व्यक्ति पर वैश्वीकरण का क्या प्रभाव पड़ा ?"
+    }
+  ],
+  "2017": [
+    {
+      "id": "long_1_1",
+      "type": "long_answer",
+      "section": "History",
+      "chapter": "6",
+      "chapter_name": "Urbanization and Urban Life",
+      "question": "Discuss the role of business class, middle class and labour class in the process of urbanization.",
+      "prashna": "शहरीकरण की प्रक्रिया में व्यवसायी वर्ग, मध्यम वर्ग, एवं मजदूर वर्ग की भूमिका की चर्चा करें।"
+    },
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "section": "Economics",
+      "chapter": "6",
+      "chapter_name": "Globalization",
+      "question": "Describe the changes due to globalization in common man's life.",
+      "prashna": "भूमंडलीकरण के कारण आम लोगों के जीवन में आने वाले परिवर्तनों को स्पष्ट करें।"
+    },
+    {
+      "id": "long_2_2",
+      "type": "long_answer",
+      "section": "Geography",
+      "chapter": "6",
+      "chapter_name": "Map Study",
+      "question": "Draw a geographical map of India on full page and mark the following:",
+      "prashna": "पूरे पृष्ठ पर भारत का एक रेखा मानचित्र बनाकर निम्नलिखित को अंकित कीजिए :",
+      "sub_questions": {
+        "A": "Rice producing area.",
+        "B": "Kolkata",
+        "C": "Chennai",
+        "D": "Black soil area",
+        "E": "Visakhapatnam"
+      },
+      "anuprashna": {
+        "A": "चावल उत्पादक क्षेत्र",
+        "B": "कोलकाता",
+        "C": "चेन्नई",
+        "D": "काली मिट्टी का क्षेत्र",
+        "E": "विशाखापट्टनम"
+      }
+    },
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "section": "Civics",
+      "chapter": "6",
+      "chapter_name": "Political Parties",
+      "question": "Write about the main functions of political parties.",
+      "prashna": "राजनीतिक दलों के प्रमुख कार्य बताएँ।"
+    },
+    {
+      "id": "long_1_1",
+      "type": "long_answer",
+      "section": "History",
+      "chapter": "6",
+      "chapter_name": "Urbanization and Urban Life",
+      "question": "Discuss the role of the business class, middle class, and labor class in the process of urbanization.",
+      "prashna": "शहरीकरण की प्रक्रिया में व्यवसायी वर्ग, मध्यम वर्ग एवं मजदूर वर्ग की भूमिका की चर्चा करें।",
+      "sub_questions": null,
+      "anuprashna": null
+    },
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "section": "Economics",
+      "chapter": "6",
+      "chapter_name": "Globalization",
+      "question": "Clarify the changes in the lives of common people due to globalization.",
+      "prashna": "भूमंडलीकरण के कारण आम लोगों के जीवन में आने वाले परिवर्तनों को स्पष्ट करें।",
+      "sub_questions": null,
+      "anuprashna": null
+    },
+    {
+      "id": "long_3_1",
+      "type": "long_answer",
+      "section": "Civics",
+      "chapter": "6",
+      "chapter_name": "Political Parties",
+      "question": "State the main functions of political parties.",
+      "prashna": "राजनीतिक दलों के प्रमुख कार्य बताएँ।",
+      "sub_questions": null,
+      "anuprashna": null
+    }
+  ],
+  "2018": [
+    {
+      "id": "long_2_1",
+      "type": "long_answer",
+      "section": "Civics",
+      "chapter": "6",
+      "chapter_name": "Political Parties",
+      "question": "Why are political parties called the \"life force of democracy\"?",
+      "prashna": "राजनीतिक दलों को \"लोकतंत्र का प्राण\" क्यों कहा जाता है?"
+    },
+    {
+      "id": "long_4_2",
+      "type": "long_answer",
+      "section": "Geography",
+      "chapter": "6",
+      "chapter_name": "Map Study",
+      "question": "Mention the major methods of relief representation.",
+      "prashna": "उच्चावच-प्रदर्शन की प्रमुख विधियों का उल्लेख कीजिए ?"
+    },
+    {
+      "id": "long_2_1",
+      "type": "long_answer",
+      "section": "Civics",
+      "chapter": "6",
+      "chapter_name": "Political Parties",
+      "question": "Who provides recognition to national and state level political parties and what are the criterions for it?",
+      "prashna": "राष्ट्रीय एवं राज्य स्तरीय राजनीतिक दलों की मान्यता कौन प्रदान करते हैं और इसके मापदंड क्या हैं?"
+    },
+    {
+      "id": "long_4_2",
+      "type": "long_answer",
+      "section": "Geography",
+      "chapter": "6",
+      "chapter_name": "Map Study",
       "question": "What are contour lines? How the slopes are demonstrated with the help of contour lines. Draw any five types.",
       "prashna": "समोच्च रेखा क्या है? इसके द्वारा विभिन्न प्रकार के ढालों का प्रदर्शन किस प्रकार किया जाता है, किन्हीं पाँच का सोदाहरण वर्णन करें।"
     }
   ],
-  "2023": [
+  "2019": [
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "section": "Economics",
+      "chapter": "6",
+      "chapter_name": "Globalization",
+      "question": "Explain the changes that came in the life of common mass due to globalization.",
+      "prashna": "भूमण्डलीकरण के कारण आमजनता के जीवन में आने वाले परिवर्तनों को स्पष्ट करें।"
+    },
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "section": "Economics",
+      "chapter": "6",
+      "chapter_name": "Globalization",
+      "question": "Discuss the impacts of globalization on Bihar.",
+      "prashna": "वैश्वीकरण के बिहार पर पड़े प्रभावों को बताइए।"
+    },
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "section": "Civics",
+      "chapter": "6",
+      "chapter_name": "Political Parties",
+      "question": "Write main functions of Political Parties.",
+      "prashna": "राजनीतिक दलों के प्रमुख कार्य बताऐं।"
+    },
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "section": "Economics",
+      "chapter": "6",
+      "chapter_name": "Globalization",
+      "question": "Explain the effects of globalization on Bihar.",
+      "prashna": "वैश्वीकरण से बिहार पर पड़े प्रभावों को समझायें।"
+    }
+  ],
+  "2020": [
     {
       "id": "long_7",
       "type": "long_answer",
+      "section": "Economics",
       "chapter": "6",
-      "chapter_name": "Resources and Development",
-      "question": "Explain the concept of sustainable development.",
-      "prashna": "सतत विकास की अवधारणा की व्याख्या कीजिए।"
+      "chapter_name": "Globalization",
+      "question": "What do you mean by liberalisation, privatisation and globalisation ?",
+      "prashna": "उदारीकरण, निजीकरण और वैश्वीकरण से आप क्या समझते हैं ?"
+    }
+  ],
+  "2021": [
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "section": "Economics",
+      "chapter": "6",
+      "chapter_name": "Globalization",
+      "question": "How has globalization affected the economy of Bihar?",
+      "prashna": "वैश्वीकरण ने बिहार की अर्थव्यवस्था को कैसे प्रभावित किया।"
+    }
+  ],
+  "2022": [
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "section": "Economics",
+      "chapter": "6",
+      "chapter_name": "Globalization",
+      "question": "Describe the economic reforms of 1991.",
+      "prashna": "1991 के आर्थिक सुधारों का वर्णन करें।"
+    },
+    {
+      "id": "long_7",
+      "type": "long_answer",
+      "section": "Economics",
+      "chapter": "6",
+      "chapter_name": "Globalization",
+      "question": "Give an account of the impact of globalization on Indian economy.",
+      "prashna": "भारतीय अर्थव्यवस्था पर वैश्वीकरण के प्रभाव का विवरण दीजिए।"
+    }
+  ],
+  "2023": [
+    {
+      "id": "long_4",
+      "type": "long_answer",
+      "section": "Civics",
+      "chapter": "6",
+      "chapter_name": "Political Parties",
+      "question": "How does coalition politics affect democracy?",
+      "prashna": "गठबंधन की राजनीति किस प्रकार लोकतंत्र को प्रभावित करती है ?"
+    },
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "section": "Economics",
+      "chapter": "6",
+      "chapter_name": "Globalization",
+      "question": "Write in detail the components of globalization.",
+      "prashna": "वैश्वीकरण के घटकों को विस्तार से लिखिए।"
     }
   ],
   "2024": [
     {
       "id": "long_8",
       "type": "long_answer",
+      "section": "Economics",
       "chapter": "6",
-      "chapter_name": "Resources and Development",
-      "question": "Give a brief account of the characteristics of alluvial soil.",
-      "prashna": "जलोढ़ मृदा की विशेषताओं का एक संक्षिप्त विवरण दीजिए।"
+      "chapter_name": "Globalization",
+      "question": "Write a short note on the impact of globalization on Indian agriculture.",
+      "prashna": "भारतीय कृषि पर भूमंडलीकरण के प्रभाव पर एक संक्षिप्त टिप्पणी लिखिए।"
+    }
+  ],
+  "2026": [
+    {
+      "id": "long_5",
+      "type": "long_answer",
+      "section": "Economics",
+      "chapter": "6",
+      "chapter_name": "Globalization",
+      "question": "Describe the impact of globalization on Bihar.",
+      "prashna": "बिहार में वैश्वीकरण का क्या प्रभाव पड़ा है ? वर्णन करें।"
     }
   ]
 }

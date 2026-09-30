@@ -1,2804 +1,1800 @@
 {
   "2011": [
     {
-      "id": "short_5",
+      "id": "short_11",
       "type": "short_answer",
       "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Draw a labeled diagram of an electric bulb.",
-      "prashna": "विद्युत बल्ब का नामांकित चित्र बनाइए।"
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "What do you understand by dispersion of light? Explain a rainbow.",
+      "prashna": "प्रकाश का वर्ण विक्षेपण से आप क्या समझते हैं? इन्द्रधनुष की व्याख्या करें।"
     },
     {
-      "id": "long_2",
-      "type": "long_answer",
+      "id": "short_12",
+      "type": "short_answer",
       "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Define electric current, potential difference and resistance along with their S.I. units and establish the relationship between them with an explanation of the law.",
-      "prashna": "S.I. मात्रक के साथ विद्युत धारा, विभवान्तर और प्रतिरोध को परिभाषित करें और इनमें संबंध नियम की व्याख्या के साथ स्थापित करें।"
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "What is a defect of vision? How many types are there and how are they corrected?",
+      "prashna": "दृष्टि दोष क्या है? यह कितने प्रकार के होते हैं तथा इसका निवारण कैसे किया जाता है?"
     },
     {
-      "id": "obj_16",
+      "id": "obj_15",
       "type": "objective",
       "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "On which effect of electric current does the electric fuse work?",
-      "prashna": "विद्युत फ्यूज विद्युत धारा के किस प्रभाव पर कार्य करता है?",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Which color ray has the maximum deviation in the spectrum?",
+      "prashna": "स्पेक्ट्रम में किस रंग की किरण का झुकाव अधिक है ?",
       "options": {
-        "A": "Heating",
-        "B": "Magnetic",
-        "C": "Chemical",
-        "D": "None of these"
+        "A": "Red",
+        "B": "Green",
+        "C": "Yellow",
+        "D": "Violet"
       },
       "vikalpa": {
-        "A": "ऊष्मीय",
-        "B": "चुम्बकीय",
-        "C": "रासायनिक",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_17",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "The formula for finding the resistance of a coil is",
-      "prashna": "किस कुण्डली का प्रतिरोध ज्ञात करने के लिए सूत्र है",
-      "options": {
-        "A": "$R = V \times I$",
-        "B": "$R = I / V$",
-        "C": "$R = V / I$",
-        "D": "$R = V - I$"
-      },
-      "vikalpa": {
-        "A": "$R = V \times I$",
-        "B": "$R = I / V$",
-        "C": "$R = V / I$",
-        "D": "$R = V - I$"
+        "A": "लाल",
+        "B": "हरा",
+        "C": "पीला",
+        "D": "बैंगनी"
       }
     }
   ],
   "2012": [
     {
-      "id": "long_3",
+      "id": "long_2",
       "type": "long_answer",
       "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Find the equivalent resistance of two resistors connected in parallel.",
-      "prashna": "समांनातर श्रेणी में संयोजित दो प्रतिरोधों का तुल्य प्रतिरोध ज्ञात करें।"
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Describe myopia (near-sightedness) with a clear diagram.",
+      "prashna": "साफ चित्र द्वारा निकट दृष्टि दोष का वर्णन करें।"
     },
     {
-      "id": "obj_9",
+      "id": "obj_4",
       "type": "objective",
       "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Which of the following terms does not represent electrical power in a circuit?",
-      "prashna": "निम्नलिखित में से कौन-सा पद विद्युत परिपथ में विद्युत शक्ति को निरूपित नहीं करता है?",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "The least distance of distinct vision for a young adult with normal vision is about",
+      "prashna": "सामान्य दृष्टि के वयस्क के लिए सुस्पष्ट दर्शन की अल्पतम दूरी लगभग होती है",
       "options": {
-        "A": "$I^2R$",
-        "B": "$IR^2$",
-        "C": "$VI$",
-        "D": "$V^2/R$"
+        "A": "25 m",
+        "B": "2.5 cm",
+        "C": "25 cm",
+        "D": "2.5 m"
       },
       "vikalpa": {
-        "A": "$I^2R$",
-        "B": "$IR^2$",
-        "C": "$VI$",
-        "D": "$V^2/R$"
+        "A": "25 मी",
+        "B": "2.5 सेमी",
+        "C": "25 सेमी",
+        "D": "2.5 भी"
       }
     }
   ],
   "2013": [
     {
-      "id": "long_1",
-      "type": "long_answer",
+      "id": "short_2",
+      "type": "short_answer",
       "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "State Ohm's law. Verify this law using an ammeter and voltmeter.",
-      "prashna": "ओम के नियम को लिखें। एमीटर एवं वोल्टमीटर द्वारा इस नियम की जाँच करें।"
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Draw a ray diagram of refraction of light through a prism.",
+      "prashna": "प्रिज्म से होकर प्रकाश के अपवर्तन का किरण आरेख खींचें।"
     },
     {
-      "id": "obj_7",
+      "id": "obj_6",
       "type": "objective",
       "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "The S.I. unit of electric power is",
-      "prashna": "विद्युत शक्ति का S.I. मात्रक होता है",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Which color has the maximum wavelength in visible light?",
+      "prashna": "दृश्य प्रकाश में किस वर्ण का तरंगदैर्ध्य अधिकतम होता है?",
       "options": {
-        "A": "Volt",
-        "B": "Watt",
-        "C": "Joule",
-        "D": "Coulomb"
+        "A": "Violet",
+        "B": "Red",
+        "C": "Blue",
+        "D": "Yellow"
       },
       "vikalpa": {
-        "A": "वोल्ट",
-        "B": "वाट",
-        "C": "जूल",
-        "D": "कूलॉम्ब"
-      }
-    },
-    {
-      "id": "obj_8",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "The filament of an electric bulb is made of",
-      "prashna": "विद्युत बल्ब का तंतु बना होता है।",
-      "options": {
-        "A": "Iron",
-        "B": "Copper",
-        "C": "Tungsten",
-        "D": "Aluminum"
-      },
-      "vikalpa": {
-        "A": "लोहे का",
-        "B": "ताँबा का",
-        "C": "टंगस्टन का",
-        "D": "ऐल्युमिनियम का"
+        "A": "बैंगनी",
+        "B": "लाल",
+        "C": "नीला",
+        "D": "पीला"
       }
     }
   ],
   "2014": [
     {
-      "id": "obj_1",
+      "id": "obj_74",
       "type": "objective",
       "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "$1\text{ mA}$ is equal to",
-      "prashna": "$1\text{ mA}$ बराबर होता है",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "In white light spectrum, which color ray has maximum deviation?",
+      "prashna": "श्वेत प्रकाश वर्णक्रम में किस रंग की किरण का विचलन अधिक होता है?",
       "options": {
-        "A": "$10^{-3}\text{ A}$",
-        "B": "$10^{-2}\text{ A}$",
-        "C": "$10^{-1}\text{ A}$",
-        "D": "$10^{-6}\text{ A}$"
+        "A": "Red",
+        "B": "Green",
+        "C": "Yellow",
+        "D": "Violet"
       },
       "vikalpa": {
-        "A": "$10^{-3}\text{ A}$",
-        "B": "$10^{-2}\text{ A}$",
-        "C": "$10^{-1}\text{ A}$",
-        "D": "$10^{-6}\text{ A}$"
-      }
-    },
-    {
-      "id": "obj_3",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Solar cells convert solar energy into",
-      "prashna": "सौर सेल सौर ऊर्जा को रूपान्तरित करते है",
-      "options": {
-        "A": "Light energy",
-        "B": "Kinetic energy",
-        "C": "Heat energy",
-        "D": "Electrical energy"
-      },
-      "vikalpa": {
-        "A": "प्रकाश ऊर्जा में",
-        "B": "गतिज ऊर्जा में",
-        "C": "ताप ऊर्जा में",
-        "D": "विद्युत ऊर्जा में"
-      }
-    },
-    {
-      "id": "obj_18",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "When an electric current flows through a conducting wire, what is the moving particle?",
-      "prashna": "जब किसी चालक तार विद्युत धारा प्रवाहित होती है तो गतिशील कण क्या है?",
-      "options": {
-        "A": "Atom",
-        "B": "Ion",
-        "C": "Proton",
-        "D": "Electron"
-      },
-      "vikalpa": {
-        "A": "परमाणु",
-        "B": "आयन",
-        "C": "प्रोटॉन",
-        "D": "इलेक्ट्रॉन"
-      }
-    },
-    {
-      "id": "obj_19",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Ohm's law is",
-      "prashna": "ओम का नियम है",
-      "options": {
-        "A": "$V = IR$",
-        "B": "$V = R^2 I$",
-        "C": "$V = I^2 R$",
-        "D": "$V = I + R$"
-      },
-      "vikalpa": {
-        "A": "$V = IR$",
-        "B": "$V = R^2 I$",
-        "C": "$V = I^2 R$",
-        "D": "$V = I + R$"
-      }
-    },
-    {
-      "id": "obj_20",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "What is the S.I. unit of potential difference?",
-      "prashna": "विभवान्तर का S.I. मात्रक क्या है",
-      "options": {
-        "A": "Joule",
-        "B": "Watt",
-        "C": "Ampere",
-        "D": "Volt"
-      },
-      "vikalpa": {
-        "A": "जूल",
-        "B": "वाट",
-        "C": "एम्पीयर",
-        "D": "वोल्ट"
-      }
-    },
-    {
-      "id": "obj_21",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "The resistance of an ammeter is",
-      "prashna": "आम्मीटर का प्रतिरोध होता है।",
-      "options": {
-        "A": "Small",
-        "B": "Large",
-        "C": "Very small",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "छोटा",
-        "B": "बड़ा",
-        "C": "बहुत छोटा",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_22",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Filament of an electric bulb is made of which of the following metals?",
-      "prashna": "विद्युत बल्ब का फिलामेंट निम्न में से किस धातु का बना होता है ?",
-      "options": {
-        "A": "Copper",
-        "B": "Nichrome",
-        "C": "Lead",
-        "D": "Tungsten"
-      },
-      "vikalpa": {
-        "A": "ताँबा",
-        "B": "नाइक्रोम",
-        "C": "सीसा",
-        "D": "टंगस्टन"
-      }
-    },
-    {
-      "id": "obj_23",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "What is the purpose of a rheostat?",
-      "prashna": "रिओस्टेट का उद्देश्य क्या है ?",
-      "options": {
-        "A": "Increase in the magnitude of current",
-        "B": "Decrease in the magnitude of current",
-        "C": "Increase or decrease in the magnitude of current",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "धारा का परिमाण में वृद्धि",
-        "B": "धारा का परिमाण में कमी",
-        "C": "धारा का परिमाण में वृद्धि या कमी",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_24",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "The S.I. unit of electric charge is",
-      "prashna": "विद्युत आवेश का S.I. मात्रक होता है",
-      "options": {
-        "A": "Volt",
-        "B": "Ohm",
-        "C": "Joule",
-        "D": "Coulomb"
-      },
-      "vikalpa": {
-        "A": "वोल्ट",
-        "B": "ओम",
-        "C": "जूल",
-        "D": "कूलॉम"
-      }
-    },
-    {
-      "id": "obj_62",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "A good conductor of electricity is",
-      "prashna": "विद्युत का अच्छा चालक है",
-      "options": {
-        "A": "Wood",
-        "B": "Plastic",
-        "C": "Carbon",
-        "D": "Silver"
-      },
-      "vikalpa": {
-        "A": "लकड़ी",
-        "B": "प्लास्टिक",
-        "C": "कार्बन",
-        "D": "चाँदी"
-      }
-    },
-    {
-      "id": "obj_63",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Negative electrode in a dry cell is made of",
-      "prashna": "शुष्क सेल में ऋण इलेक्ट्रोड बना होता है",
-      "options": {
-        "A": "Copper",
-        "B": "Carbon",
-        "C": "Zinc",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "ताँबा का",
-        "B": "कार्बन का",
-        "C": "जस्ता का",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_64",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "The value of 1 Joule is",
-      "prashna": "1 जूल का मान होता है",
-      "options": {
-        "A": "0.24 calorie",
-        "B": "4.18 calorie",
-        "C": "0.42 calorie",
-        "D": "2.4 calorie"
-      },
-      "vikalpa": {
-        "A": "0.24 कैलोरी",
-        "B": "4.18 कैलोरी",
-        "C": "0.42 कैलोरी",
-        "D": "2.4 कैलोरी"
-      }
-    },
-    {
-      "id": "short_4",
-      "type": "short_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "If the resistance of the filament of an electric bulb is $1200\\Omega$, how much current will the bulb draw from a $220\text{ V}$ source?",
-      "prashna": "यदि किसी विद्युत बल्ब के तंतु का प्रतिरोध $1200\\Omega$ है तो बल्ब $220\text{ V}$ स्रोत से कितनी विद्युत धारा लेगा?"
-    },
-    {
-      "id": "short_7",
-      "type": "short_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Give the definition of the strength of electric current.",
-      "prashna": "विद्युत धारा की प्रबलता की परिभाषा दें।"
-    },
-    {
-      "id": "short_8",
-      "type": "short_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Write three main characteristics of a fuse wire.",
-      "prashna": "फ्यूज के तार की तीन प्रमुख विशेषताएँ लिखें।"
-    },
-    {
-      "id": "long_2",
-      "type": "long_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "What is called parallel combination of resistors? Obtain the expression for equivalent resistance when resistors $R_1, R_2$ and $R_3$ are connected in parallel.",
-      "prashna": "प्रतिरोधों का पार्श्वक्रम संयोजन किसे कहते हैं? प्रतिरोध $R_1, R_2$ तथा $R_3$ को पार्श्वक्रम में संयोजित करने पर समतुल्य प्रतिरोध का व्यंजक प्राप्त करें।"
-    },
-    {
-      "id": "obj_1",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Choose the correct option from the following: The relation between potential difference V, resistance R, and current I across the ends of a conductor is",
-      "prashna": "निम्नांकित विकल्पों में से सही विकल्प चुनें। किसी चालक के छोरों के बीच विभवांतर V, प्रतिरोध R एवं प्रवाहित धारा I के बीच संबंध है",
-      "options": {
-        "A": "$I = \frac{R}, {V}$",
-        "B": "$R = \frac{I}, {V}$",
-        "C": "$R = \frac{V}, {I}$",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "$I = \frac{R}, {V}$",
-        "B": "$R = \frac{I}, {V}$",
-        "C": "$R = \frac{V}, {I}$",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_2",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "A 100 W electric bulb is connected to a 250 V electric main. The value of current flowing through the bulb will be",
-      "prashna": "100 W का विद्युत बल्ब 250 V के विद्युत मेन से जोड़ा जाता है। बल्ब से प्रवाहित धारा का मान होगा",
-      "options": {
-        "A": "0.1 Ampere",
-        "B": "0.4 Ampere",
-        "C": "2.5 Ampere",
-        "D": "10 Ampere"
-      },
-      "vikalpa": {
-        "A": "0.1 ऐम्पियर",
-        "B": "0.4 एम्पियर",
-        "C": "2.5 ऐम्पियर",
-        "D": "10 एम्पियर"
-      }
-    },
-    {
-      "id": "obj_3",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "An electric fuse is based on",
-      "prashna": "विद्युत फ्यूज आधारित है",
-      "options": {
-        "A": "Heating effect of current",
-        "B": "Magnetic effect of current",
-        "C": "Chemical effect of current",
-        "D": "Electromagnetic effect of current"
-      },
-      "vikalpa": {
-        "A": "धारा के ऊष्मीय प्रभाव पर",
-        "B": "धारा के चुंबकीय प्रभाव पर",
-        "C": "धारा के रासायनिक प्रभाव पर",
-        "D": "धारा के विद्युत-चुंबकीय प्रभाव पर"
-      }
-    },
-    {
-      "id": "obj_5",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "When electric current flows through a conducting wire, the moving particles are",
-      "prashna": "जब किसी चालक तार से विद्युत धारा प्रवाहित होती है तो गतिशील कण होते हैं।",
-      "options": {
-        "A": "Atoms",
-        "B": "Ions",
-        "C": "Protons",
-        "D": "Electrons"
-      },
-      "vikalpa": {
-        "A": "परमाणु",
-        "B": "आयन",
-        "C": "प्रोटॉन",
-        "D": "इलेक्ट्रॉन"
-      }
-    }
-  ],
-  "2015": [
-    {
-      "id": "short_2",
-      "type": "short_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "In Ohm's law which value remains constant?",
-      "prashna": "ओम के नियम में किसका मान नियतांक होता है ?"
-    },
-    {
-      "id": "short_3",
-      "type": "short_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Which works as positive terminal in simple cell?",
-      "prashna": "सरल सेल में धन ध्रुव का कार्य कौन करता है ?"
-    },
-    {
-      "id": "short_7",
-      "type": "short_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "What is electric current? Write its equation and unit.",
-      "prashna": "विद्युत धारा क्या है ? इसका समीकरण एवं मात्रक लिखें।"
-    },
-    {
-      "id": "long_1_1",
-      "type": "long_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Find the electric current ($I$) in the following circuit :",
-      "prashna": "विद्युत धारा ($I$) का मान ज्ञात करें :"
-    },
-    {
-      "id": "obj_3",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "The current of $2\text{ A}$ at $220\text{ V}$ is flowing through an electric bulb. The resistance of filament will be",
-      "prashna": "किसी बल्ब से $220\text{ V}$ पर $2\text{ A}$ की धारा प्रवाहित होती है, तो फिलामेंट का प्रतिरोध होगा",
-      "options": {
-        "A": "$55\\ \\Omega$",
-        "B": "$110\\ \\Omega$",
-        "C": "$220\\ \\Omega$",
-        "D": "$440\\ \\Omega$"
-      },
-      "vikalpa": {
-        "A": "$55\\ \\Omega$",
-        "B": "$110\\ \\Omega$",
-        "C": "$220\\ \\Omega$",
-        "D": "$440\\ \\Omega$"
-      }
-    },
-    {
-      "id": "obj_5",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "$1\text{ kWh}$ is equal to",
-      "prashna": "$1\text{ kWh}$ तुल्य है",
-      "options": {
-        "A": "$3600\text{ J}$",
-        "B": "$3.6 \times 10^6\text{ J}$",
-        "C": "$36 \times 10^6\text{ J}$",
-        "D": "$36.00\text{ J}$"
-      },
-      "vikalpa": {
-        "A": "$3600\text{ J}$ का",
-        "B": "$3.6 \times 10^6\text{ J}$ का",
-        "C": "$36 \times 10^6\text{ J}$ का",
-        "D": "$36.00\text{ J}$ का"
-      }
-    },
-    {
-      "id": "obj_7",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "The SI unit of potential difference is",
-      "prashna": "विभवान्तर का SI मात्रक होता है",
-      "options": {
-        "A": "watt",
-        "B": "ampere",
-        "C": "volt",
-        "D": "Ohm"
-      },
-      "vikalpa": {
-        "A": "वाट",
-        "B": "एम्पीयर",
-        "C": "वोल्ट",
-        "D": "ओम"
-      }
-    },
-    {
-      "id": "short_2",
-      "type": "short_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "What is electric current? Write its equation and unit.",
-      "prashna": "विद्युत धारा क्या है? इसका समीकरण एवं मात्रक लिखें।"
-    },
-    {
-      "id": "long_1_1",
-      "type": "long_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Find the value of electric current ($I$).",
-      "prashna": "विद्युत धारा ($I$) का मान ज्ञात करें।"
-    },
-    {
-      "id": "obj_3",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "If a current of $2A$ flows through a bulb at $220 V$, then the resistance of the filament will be:",
-      "prashna": "किसी बल्ब से $220 V$ पर $2A$ की धारा प्रवाहित होती है, तो फिलामेंट का प्रतिरोध होगा:",
-      "options": {
-        "A": "55 $\\Omega$",
-        "B": "110 $\\Omega$",
-        "C": "220 $\\Omega$",
-        "D": "440 $\\Omega$"
-      },
-      "vikalpa": {
-        "A": "55 $\\Omega$",
-        "B": "110 $\\Omega$",
-        "C": "220 $\\Omega$",
-        "D": "440 $\\Omega$"
-      }
-    },
-    {
-      "id": "obj_5",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "$1 \text{ kWh}$ is equal to:",
-      "prashna": "$1 \text{ kWh}$ तुल्य है:",
-      "options": {
-        "A": "$3600 \text{ J}$",
-        "B": "$3.6 \times 10^6 \text{ J}$",
-        "C": "$36 \times 10^6 \text{ J}$",
-        "D": "$36.00 \text{ J}$"
-      },
-      "vikalpa": {
-        "A": "$3600 \text{ J}$ का",
-        "B": "$3.6 \times 10^6 \text{ J}$ का",
-        "C": "$36 \times 10^6 \text{ J}$ का",
-        "D": "$36.00 \text{ J}$ का"
-      }
-    },
-    {
-      "id": "obj_7",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "The SI unit of potential difference is:",
-      "prashna": "विभवांतर का SI मात्रक होता है:",
-      "options": {
-        "A": "Watt",
-        "B": "Ampere",
-        "C": "Volt",
-        "D": "Ohm"
-      },
-      "vikalpa": {
-        "A": "वाट",
-        "B": "एम्पीयर",
-        "C": "वोल्ट",
-        "D": "ओम"
-      }
-    }
-  ],
-  "2016": [
-    {
-      "id": "short_2",
-      "type": "short_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "$100 W - 220 V$ is printed on an electric bulb. How much current will pass through the bulb ?",
-      "prashna": "विद्युत बल्ब पर $100 W - 220 V$ अंकित है। बल्ब से प्रवाहित विद्युत धारा का मान बताएँ।"
-    },
-    {
-      "id": "short_4",
-      "type": "short_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "What is the S.I. unit of resistance?",
-      "prashna": "प्रतिरोध का S.I. मात्रक क्या है ?"
-    },
-    {
-      "id": "short_23",
-      "type": "short_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "What is grouping of resistances ? What are its types ?",
-      "prashna": "प्रतिरोधों का संयोजन क्या है ? यह कितने प्रकार से होता है ?"
-    },
-    {
-      "id": "long_1_2",
-      "type": "long_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "What is resistance ? How is the resistance of a coil calculated practically with the help of ammeter and voltmeter ?",
-      "prashna": "प्रतिरोध क्या है ? किसी कुण्डली का प्रतिरोध आमीटर और वोल्टमीटर की सहायता से ज्ञात करने के लिए प्रयोग का वर्णन करें।"
-    },
-    {
-      "id": "obj_4",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "The instrument used to measure the potential difference is called",
-      "prashna": "विभवान्तर मापने वाले यंत्र को कहा जाता है",
-      "options": {
-        "A": "ammeter",
-        "B": "voltmeter",
-        "C": "galvanometer",
-        "D": "none of these"
-      },
-      "vikalpa": {
-        "A": "आमीटर",
-        "B": "वोल्टमीटर",
-        "C": "गैल्वनोमीटर",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_5",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Ammeter is connected in an electric circuit",
-      "prashna": "आमीटर को विद्युत परिपथ में कैसे जोड़ा जाता है ?",
-      "options": {
-        "A": "in series",
-        "B": "in parallel",
-        "C": "both (A) and (B)",
-        "D": "none of these"
-      },
-      "vikalpa": {
-        "A": "श्रेणीक्रम",
-        "B": "पार्श्वबद्ध",
-        "C": "(a) और (b) दोनों",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_6",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "The S.I. unit of electric current is",
-      "prashna": "विद्युत धारा का S.I. मात्रक है",
-      "options": {
-        "A": "volt",
-        "B": "coulomb",
-        "C": "watt",
-        "D": "ampere"
-      },
-      "vikalpa": {
-        "A": "वोल्ट",
-        "B": "कुलॉम",
-        "C": "वाट",
-        "D": "एम्पियर"
-      }
-    },
-    {
-      "id": "short_8",
-      "type": "short_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "What is the combination of resistors? How many types are there?",
-      "prashna": "प्रतिरोधों का संयोजन क्या है? यह कितने प्रकार से होता है ?"
-    },
-    {
-      "id": "long_1_2",
-      "type": "long_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "What is resistance? Describe an experiment to find the resistance of a coil with the help of an ammeter and a voltmeter.",
-      "prashna": "प्रतिरोध क्या है? किसी कुण्डली का प्रतिरोध आमीटर और वोल्टमीटर की सहायता से ज्ञात करने के लिए प्रयोग का वर्णन करें।"
-    },
-    {
-      "id": "obj_4",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "The instrument used to measure potential difference is called:",
-      "prashna": "विभ्वान्तर मापने वाले यंत्र को कहा जाता है",
-      "options": {
-        "A": "Ammeter",
-        "B": "Voltmeter",
-        "C": "Galvanometer",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "आमीटर",
-        "B": "वोल्टमीटर",
-        "C": "गैल्वेनोमीटर",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_5",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "How is an ammeter connected in an electric circuit?",
-      "prashna": "आमीटर को विद्युत परिपथ में कैसे जोड़ा जाता है ?",
-      "options": {
-        "A": "Series",
-        "B": "Parallel",
-        "C": "Both (A) and (B)",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "श्रेणीक्रम",
-        "B": "पार्श्वबद्ध",
-        "C": "(a) और (b) दोनों",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_6",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "The S.I. unit of electric current is:",
-      "prashna": "विद्युत धारा का S.I. मात्रक है",
-      "options": {
-        "A": "Volt",
-        "B": "Coulomb",
-        "C": "Watt",
-        "D": "Ampere"
-      },
-      "vikalpa": {
-        "A": "वोल्ट",
-        "B": "कुलॉम",
-        "C": "वाट",
-        "D": "एम्पियर"
-      }
-    }
-  ],
-  "2017": [
-    {
-      "id": "short_3",
-      "type": "short_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "What is commercial unit of electrical energy?",
-      "prashna": "विद्युत ऊर्जा का व्यवसायिक मात्रक क्या है?"
-    },
-    {
-      "id": "short_8",
-      "type": "short_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "What do you mean by Electric charge? Write types of Electric charge.",
-      "prashna": "विद्युत आवेश क्या है? विद्युत आवेश कितने प्रकार के होते हैं?"
-    },
-    {
-      "id": "long_1_2",
-      "type": "long_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Explain Conductor, Non-conductor, Semi-conductor and Super-conductor with example.",
-      "prashna": "चालक, अचालक, अर्द्धचालक एवं अति चालक से आप क्या समझते हैं? सोदाहरण व्याख्या करें।"
-    },
-    {
-      "id": "short_3",
-      "type": "short_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "What is electric charge? How many types of electric charges are there?",
-      "prashna": "विद्युत आवेश क्या है? विद्युत आवेश कितने प्रकार के होते हैं?"
-    },
-    {
-      "id": "long_1_2",
-      "type": "long_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "What do you understand by conductor, insulator, semiconductor and superconductor? Explain with examples.",
-      "prashna": "चालक, अचालक, अर्द्धचालक एवं अतिचालक से आप क्या समझते हैं? सोदाहरण व्याख्या करें।"
-    }
-  ],
-  "2018": [
-    {
-      "id": "obj_7",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Which of the following is SI unit of electric potential difference?",
-      "prashna": "निम्नलिखित में से कौन विद्युत विभवान्तर का SI मात्रक है?",
-      "options": {
-        "A": "Volt",
-        "B": "Ohm",
-        "C": "Volt per Coulomb",
-        "D": "Ampere"
-      },
-      "vikalpa": {
-        "A": "वोल्ट",
-        "B": "ओम",
-        "C": "वोल्ट प्रति कूलॉम",
-        "D": "ऐम्पियर"
-      }
-    },
-    {
-      "id": "short_3",
-      "type": "short_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Why an ammeter and a voltmeter are connected in an electric circuit in series and in parallel respectively?",
-      "prashna": "ऐमीटर और वोल्टमीटर को विद्युत परिपथ के साथ क्रमश: श्रेणी एवं समांतर क्रम में क्यों जोड़ा जाता है?"
-    },
-    {
-      "id": "short_5",
-      "type": "short_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Two lamps, one rated $100W$ at $220V$ and the other $60W$ at $220V$, are connected in parallel to electric mains supply. What current is drawn from the main line if the supply voltage is $220V$?",
-      "prashna": "दो विद्युत लैंप जिनमें से एक का अनुमतांक $100W, 220V$ तथा दूसरे का $60W, 220V$ है, विद्युत मेंस के साथ पार्श्वक्रम में संयोजित है। यदि विद्युत आपूर्ति की वोल्टता $220V$ है तो विद्युत मेंस से कितनी धारा ली जाती है?"
-    },
-    {
-      "id": "long_1_2",
-      "type": "long_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Draw a circuit diagram for studying Ohm's law. State Ohm's law. Draw V-I graph that verifies Ohm's law. State the nature of the V-I graph.",
-      "prashna": "ओम के नियम के अध्ययन के लिए एक विद्युत परिपथ खींचे। ओम का नियम लिखें। ओम के नियम को सत्यापित करने वाले V-I ग्राफ को खींचे और उस ग्राफ की प्रकृति को लिखें।",
-      "sub_questions": {
-        "a": "Draw a circuit diagram for studying Ohm's law.",
-        "b": "State Ohm's law.",
-        "c": "Draw V-I graph that verifies Ohm's law. State the nature of the V-I graph."
-      },
-      "anuprashna": {
-        "a": "ओम के नियम के अध्ययन के लिए एक विद्युत परिपथ खींचे।",
-        "b": "ओम का नियम लिखें।",
-        "c": "ओम के नियम को सत्यापित करने वाले V-I ग्राफ को खींचे और उस ग्राफ की प्रकृति को लिखें।"
-      }
-    },
-    {
-      "id": "obj_7",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "There are 20 divisions between $0\text{V}$ and $1\text{V}$ on the scale of a voltmeter. The least count of the voltmeter is -",
-      "prashna": "किसी वोल्टमीटर के स्केल पर $0\text{V}$ और $1\text{V}$ के बीच $20$ विभाजन चिन्ह हैं, तो उस वोल्टमीटर का अल्प मापांक (Least count) है -",
-      "options": {
-        "A": "$0.5\text{V}$",
-        "B": "$0.05\text{V}$",
-        "C": "$0.005\text{V}$",
-        "D": "$0.0005\text{V}$"
-      },
-      "vikalpa": {
-        "A": "$0.5\text{V}$",
-        "B": "$0.05\text{V}$",
-        "C": "$0.005\text{V}$",
-        "D": "$0.0005\text{V}$"
-      }
-    },
-    {
-      "id": "obj_8",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Which one of the following is one micro ampere of electric current?",
-      "prashna": "एक माइक्रो एम्पीयर विद्युत धारा निम्नलिखित में कौन सी है?",
-      "options": {
-        "A": "$10^{-4}\text{A}$",
-        "B": "$10^{-5}\text{A}$",
-        "C": "$10^{-6}\text{A}$",
-        "D": "$10^{-7}\text{A}$"
-      },
-      "vikalpa": {
-        "A": "$10^{-4}\text{A}$",
-        "B": "$10^{-5}\text{A}$",
-        "C": "$10^{-6}\text{A}$",
-        "D": "$10^{-7}\text{A}$"
-      }
-    },
-    {
-      "id": "short_3",
-      "type": "short_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Draw a schematic diagram of a circuit consisting of a battery of three cells of $2\text{V}$ each, a $5\\Omega$ resistor, an $8\\Omega$ resistor, a $12\\Omega$ resistor and a plug key, all connected in series.",
-      "prashna": "किसी विद्युत परिपथ का व्यवस्था आरेख खींचें जिसमें $2\text{V}$ के तीन सेलों की बैटरी, एक $5\\Omega$ प्रतिरोधक, एक $8\\Omega$ प्रतिरोधक तथा एक $12\\Omega$ प्रतिरोधक तथा एक प्लग कुंजी सभी श्रेणीक्रम में संयोजित हों।"
-    },
-    {
-      "id": "short_4",
-      "type": "short_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Why are coils of Electric Toasters and Electric Iron made of an alloy rather than a pure metal?",
-      "prashna": "विद्युत टोस्टरों तथा विद्युत इस्तरियों के तापन अवयव शुद्ध धातु के न बनाकर किसी मिश्रधातु के क्यों बनाये जाते हैं?"
-    },
-    {
-      "id": "long_1_1",
-      "type": "long_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Answer the following questions:",
-      "prashna": "निम्नलिखित प्रश्नों के उत्तर दें:",
-      "sub_questions": {
-        "A": "What is electric power?",
-        "B": "Derive $H = I^2Rt$, where $H$ is the amount of Heat produced by steady current ($I$) through a resistor ($R$) in time $t$.",
-        "C": "How much energy is given to each Coulomb of charge passing through a $6\text{V}$ battery?"
-      },
-      "anuprashna": {
-        "A": "विद्युत शक्ति क्या है?",
-        "B": "निगमन करें $H = I^2Rt$ जहाँ $H$, किसी प्रतिरोधक ($R$) में विद्युत धारा ($I$) द्वारा $t$ समय में उत्पन्न ऊष्मा की मात्रा है।",
-        "C": "$6\text{V}$ बैटरी से गुजरने वाले हर एक कूलॉम आवेश को कितनी ऊर्जा दी जाती है?"
-      }
-    }
-  ],
-  "2019": [
-    {
-      "id": "obj_6",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Which one of the following term represents electric power in electric circuit?",
-      "prashna": "निम्न में से कौन सा पद विद्युत परिपथ में विद्युत शक्ति को निरूपित करता है?",
-      "options": {
-        "A": "$I^2R$",
-        "B": "$IR^2$",
-        "C": "$VI$",
-        "D": "$VI^2$"
-      },
-      "vikalpa": {
-        "A": "$I^2R$",
-        "B": "$IR^2$",
-        "C": "$VI$",
-        "D": "$VI^2$"
-      }
-    },
-    {
-      "id": "obj_14",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "What is the commercial unit of electric energy?",
-      "prashna": "विद्युत ऊर्जा का व्यापारिक मात्रक क्या है?",
-      "options": {
-        "A": "Watt",
-        "B": "Watt/hour",
-        "C": "Unit",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "वॉट",
-        "B": "वॉट / घंटा",
-        "C": "यूनिट",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_38",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "On decreasing the number of resistors from a parallel combination of resistors, the total resistance of the new combination of resistors in parallel -",
-      "prashna": "समान्तर क्रम में संयोजित प्रतिरोधों की संख्या घटने के उपरांत संयोजित प्रतिरोधों का कुल प्रतिरोध -",
-      "options": {
-        "A": "Increases",
-        "B": "Decreases",
-        "C": "Remains the same",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "बढ़ता है।",
-        "B": "घटता है।",
-        "C": "अपरिवर्तित रहता है।",
-        "D": "इनमें से कोई नहीं।"
-      }
-    },
-    {
-      "id": "short_5",
-      "type": "short_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "What is electric current? Write SI unit of electric current.",
-      "prashna": "विद्युत धारा क्या है? विद्युत धारा का SI मात्रक लिखें।"
-    },
-    {
-      "id": "short_6",
-      "type": "short_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "An electric lamp with voltage rating 60W; 220V is connected to main supply of 100V. What current is drawn by the lamp from the main supply?",
-      "prashna": "एक विद्युत लैम्प का अनुमतांक 60W; 220V है, जो विद्युत आपूर्ति की वोल्टता 100V से जुड़ा है। लैम्प द्वारा विद्युत आपूर्ति से कितनी धारा ली जाती है?"
-    },
-    {
-      "id": "long_2",
-      "type": "long_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Derive the formulas for total resistance in the following cases:",
-      "prashna": "निम्नलिखित मामलों में कुल प्रतिरोध के सूत्रों को व्युत्पन्न करें:",
-      "sub_questions": {
-        "A": "Prove that $R = R_1 + R_2$ where $R$ is the equivalent resistance of resistors $R_1$ and $R_2$ connected in series.",
-        "B": "Prove that $\frac{1}, {R} = \frac{1}, {R_1} + \frac{1}, {R_2}$ where $R$ is the equivalent resistance of resistors $R_1$ and $R_2$ connected in parallel."
-      },
-      "anuprashna": {
-        "A": "सिद्ध करें, $R = R_1 + R_2$ जहाँ R, श्रेणीक्रम में संयोजित प्रतिरोधों $R_1$ और $R_2$ का समतुल्य प्रतिरोध है।",
-        "B": "सिद्ध करें, $\frac{1}, {R} = \frac{1}, {R_1} + \frac{1}, {R_2}$ जहाँ R, पार्श्वक्रम में संयोजित प्रतिरोधों $R_1$ और $R_2$ का समतुल्य प्रतिरोध है।"
-      }
-    },
-    {
-      "id": "obj_5",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "The resistance of a conductor does not depend on -",
-      "prashna": "चालक का प्रतिरोध निर्भर नहीं करता है -",
-      "options": {
-        "A": "length of a conductor",
-        "B": "cross sectional area of a conductor",
-        "C": "Temperature of a conductor",
-        "D": "Electric current flowing through conductor"
-      },
-      "vikalpa": {
-        "A": "चालक की लम्बाई पर",
-        "B": "चालक के अनुप्रस्थ काट क्षेत्रफल पर",
-        "C": "चालक के तापमान पर",
-        "D": "चालक में प्रवाहित विद्युत धारा पर"
-      }
-    },
-    {
-      "id": "obj_18",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Which relation of the following is true?",
-      "prashna": "निम्न में से कौन सा संबंध सत्य है?",
-      "options": {
-        "A": "$V = I/R$",
-        "B": "$V = R/I$",
-        "C": "$V = IR$",
-        "D": "$V = IR^2$"
-      },
-      "vikalpa": {
-        "A": "$V = I/R$",
-        "B": "$V = R/I$",
-        "C": "$V = IR$",
-        "D": "$V = IR^2$"
-      }
-    },
-    {
-      "id": "obj_28",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "What is SI unit of electric charge?",
-      "prashna": "विद्युत आवेश का SI मात्रक क्या है?",
-      "options": {
-        "A": "Volt",
-        "B": "Ohm",
-        "C": "Ampere",
-        "D": "Coulomb"
-      },
-      "vikalpa": {
-        "A": "वोल्ट",
-        "B": "ओम",
-        "C": "ऐम्पियर",
-        "D": "कूलॉम"
-      }
-    },
-    {
-      "id": "short_3",
-      "type": "short_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Why is the series arrangement not used for domestic circuit?",
-      "prashna": "घरेलू विद्युत परिपथों में श्रेणीक्रम संयोजन का उपयोग क्यों नहीं किया जाता है?"
-    },
-    {
-      "id": "long_1_2",
-      "type": "long_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "What is electric power? Derive $H = I^2Rt$, where $H$ is the amount of heat produced by steady current $I$ through a resistor $R$ in time $t$.",
-      "prashna": "विद्युत शक्ति क्या है? निगमन करें $H = I^2Rt$ जहाँ $H$, किसी प्रतिरोधक $R$ में विद्युत धारा $I$ द्वारा $t$ समय में उत्पन्न ऊष्मा की मात्रा है।"
-    }
-  ],
-  "2020": [
-    {
-      "id": "obj_5",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "The S.I. unit of the electrical resistivity is",
-      "prashna": "वैद्युत प्रतिरोधकता का S.I. मात्रक है",
-      "options": {
-        "A": "ohm",
-        "B": "ohm/metre",
-        "C": "volt/metre",
-        "D": "ohm-metre"
-      },
-      "vikalpa": {
-        "A": "ओम",
-        "B": "ओम / मीटर",
-        "C": "वोल्ट / मीटर",
-        "D": "ओम-मीटर"
-      }
-    },
-    {
-      "id": "obj_6",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Which of the following is the best conductor of electricity?",
-      "prashna": "निम्नलिखित में से कौन विद्युत का सबसे अच्छा चालक है ?",
-      "options": {
-        "A": "Silver",
-        "B": "Iron",
-        "C": "Nichrome",
-        "D": "Rubber"
-      },
-      "vikalpa": {
-        "A": "चाँदी",
-        "B": "लोहा",
-        "C": "नाइक्रोम",
-        "D": "रबर"
-      }
-    },
-    {
-      "id": "short_5",
-      "type": "short_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Name the device that helps to maintain a potential difference across the ends of a conductor.",
-      "prashna": "उस युक्ति का नाम लिखिए जो किसी चालक के सिरों पर विभवान्तर बनाए रखने में सहायता करती है।"
-    },
-    {
-      "id": "short_6",
-      "type": "short_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Why is tungsten used almost exclusively for filament of electric lamp?",
-      "prashna": "विद्युत् लैम्पों के तंतुओं के निर्माण में प्रायः एकमात्र टंगस्टन का ही उपयोग क्यों किया जाता है ?"
-    },
-    {
-      "id": "long_2",
-      "type": "long_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Write Ohm's law. Explain an experiment for its verification.",
-      "prashna": "ओम का नियम लिखें। इसके सत्यापन के लिये एक प्रयोग का वर्णन करें।"
-    },
-    {
-      "id": "obj_1",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Which of the following is measured by ammeter ?",
-      "prashna": "आमीटर से निम्नलिखित में किसे मापा जाता है ?",
-      "options": {
-        "A": "Current",
-        "B": "Charge",
-        "C": "Potential",
-        "D": "Electric power"
-      },
-      "vikalpa": {
-        "A": "धारा",
-        "B": "आवेश",
-        "C": "विभव",
-        "D": "विद्युत शक्ति"
-      }
-    },
-    {
-      "id": "obj_16",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Which type of current is obtained from a battery ?",
-      "prashna": "बैटरी से किस प्रकार की धारा प्राप्त होती है ?",
-      "options": {
-        "A": "Alternating current",
-        "B": "Direct current",
-        "C": "Both (A) and (B)",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "प्रत्यावर्ती धारा",
-        "B": "दिष्ट धारा",
-        "C": "(A) और (B) दोनों",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_40",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "S.I. unit of potential difference is",
-      "prashna": "विभवान्तर का S.I. मात्रक होता है",
-      "options": {
-        "A": "coulomb",
-        "B": "volt",
-        "C": "ampere",
-        "D": "ohm"
-      },
-      "vikalpa": {
-        "A": "कूलम्ब",
-        "B": "वोल्ट",
-        "C": "एम्मीटर",
-        "D": "ओम"
-      }
-    },
-    {
-      "id": "short_5",
-      "type": "short_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "On what factors does the resistance of a conductor depend ?",
-      "prashna": "किसी चालक का प्रतिरोध किन कारकों पर निर्भर करता है ?"
-    },
-    {
-      "id": "short_8",
-      "type": "short_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Write Ohm's law.",
-      "prashna": "ओम के नियम को लिखें।"
-    },
-    {
-      "id": "long_1_1",
-      "type": "long_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Write the S.I. units of resistance and potential difference. Explain the verification of Ohm's law.",
-      "prashna": "प्रतिरोध और विभवान्तर के S.I. मात्रक को लिखें। ओम के नियम के सत्यापन कर समझावें।"
-    }
-  ],
-  "2021": [
-    {
-      "id": "obj_1",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "$1mA$ is equal to",
-      "prashna": "$1mA$ बराबर होता है",
-      "options": {
-        "A": "$10^{-3} A$",
-        "B": "$10^{-2} A$",
-        "C": "$10^{-1} A$",
-        "D": "$10^{-6} A$"
-      },
-      "vikalpa": {
-        "A": "$10^{-3} A$",
-        "B": "$10^{-2} A$",
-        "C": "$10^{-1} A$",
-        "D": "$10^{-6} A$"
-      }
-    },
-    {
-      "id": "obj_3",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Solar cells convert solar energy into",
-      "prashna": "सौर सेल सौर ऊर्जा को रूपान्तरित करते है",
-      "options": {
-        "A": "Light energy",
-        "B": "Kinetic energy",
-        "C": "Heat energy",
-        "D": "Electrical energy"
-      },
-      "vikalpa": {
-        "A": "प्रकाश ऊर्जा में",
-        "B": "गतिज ऊर्जा में",
-        "C": "ताप ऊर्जा में",
-        "D": "विद्युत ऊर्जा में"
-      }
-    },
-    {
-      "id": "obj_18",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "What are the moving particles when an electric current flows through a conductor wire?",
-      "prashna": "जब किसी चालक तार विद्युत धारा प्रवाहित होती है तो गतिशील कण क्या है?",
-      "options": {
-        "A": "Atom",
-        "B": "Ion",
-        "C": "Proton",
-        "D": "Electron"
-      },
-      "vikalpa": {
-        "A": "परमाणु",
-        "B": "आयन",
-        "C": "प्रोटॉन",
-        "D": "इलेक्ट्रॉन"
-      }
-    },
-    {
-      "id": "obj_19",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Ohm's law is",
-      "prashna": "ओम का नियम है",
-      "options": {
-        "A": "$V = IR$",
-        "B": "$V = R^2 I$",
-        "C": "$V = I^2 R$",
-        "D": "$V = I + R$"
-      },
-      "vikalpa": {
-        "A": "$V = IR$",
-        "B": "$V = R^2 I$",
-        "C": "$V = I^2 R$",
-        "D": "$V = I + R$"
-      }
-    },
-    {
-      "id": "obj_20",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "What is the S.I. unit of potential difference?",
-      "prashna": "विभवान्तर का S.I. मात्रक क्या है",
-      "options": {
-        "A": "Joule",
-        "B": "Watt",
-        "C": "Ampere",
-        "D": "Volt"
-      },
-      "vikalpa": {
-        "A": "जूल",
-        "B": "वाट",
-        "C": "एम्पीयर",
-        "D": "वोल्ट"
-      }
-    },
-    {
-      "id": "obj_21",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "The resistance of an ammeter is",
-      "prashna": "आम्मीटर का प्रतिरोध होता है।",
-      "options": {
-        "A": "Small",
-        "B": "Big",
-        "C": "Very small",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "छोटा",
-        "B": "बड़ा",
-        "C": "बहुत छोटा",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_22",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "The filament of an electric bulb is made of which of the following metals?",
-      "prashna": "विद्युत बल्ब का फिलामेंट निम्न में से किस धातु का बना होता है?",
-      "options": {
-        "A": "Copper",
-        "B": "Nichrome",
-        "C": "Lead",
-        "D": "Tungsten"
-      },
-      "vikalpa": {
-        "A": "ताँबा",
-        "B": "नाइट्रोम",
-        "C": "सीसा",
-        "D": "टंगस्टन"
-      }
-    },
-    {
-      "id": "obj_23",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "What is the purpose of a rheostat?",
-      "prashna": "रिओस्टेट का उद्देश्य क्या है ?",
-      "options": {
-        "A": "Increase in the magnitude of current",
-        "B": "Decrease in the magnitude of current",
-        "C": "Increase or decrease in the magnitude of current",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "धारा का परिमाण में वृद्धि",
-        "B": "धारा का परिमाण में कमी",
-        "C": "धारा का परिमाण में वृद्धि या कमी",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_24",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "The S.I. unit of electric charge is",
-      "prashna": "विद्युत आवेश का S.I. मात्रक होता है",
-      "options": {
-        "A": "Volt",
-        "B": "Ohm",
-        "C": "Joule",
-        "D": "Coulomb"
-      },
-      "vikalpa": {
-        "A": "वोल्ट",
-        "B": "ओम",
-        "C": "जूल",
-        "D": "कूलॉम"
-      }
-    },
-    {
-      "id": "obj_62",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "A good conductor of electricity is",
-      "prashna": "विद्युत का अच्छा चालक है",
-      "options": {
-        "A": "Wood",
-        "B": "Plastic",
-        "C": "Carbon",
-        "D": "Silver"
-      },
-      "vikalpa": {
-        "A": "लकड़ी",
-        "B": "प्लास्टिक",
-        "C": "कार्बन",
-        "D": "चाँदी"
-      }
-    },
-    {
-      "id": "obj_63",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Negative electrode in a dry cell is made of",
-      "prashna": "शुष्क सेल में ऋण इलेक्ट्रोड बना होता है",
-      "options": {
-        "A": "Copper",
-        "B": "Carbon",
-        "C": "Zinc",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "ताँबा का",
-        "B": "कार्बन का",
-        "C": "जस्ता का",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_64",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Value of 1 Joule is",
-      "prashna": "1 जूल का मान होता है",
-      "options": {
-        "A": "0.24 calorie",
-        "B": "4.18 calorie",
-        "C": "0.42 calorie",
-        "D": "2.4 calorie"
-      },
-      "vikalpa": {
-        "A": "0.24 कैलोरी",
-        "B": "4.18 कैलोरी",
-        "C": "0.42 कैलोरी",
-        "D": "2.4 कैलोरी"
-      }
-    },
-    {
-      "id": "short_4",
-      "type": "short_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "If the resistance of the filament of an electric bulb is $1200\\Omega$, how much current will the bulb draw from a $220 V$ source?",
-      "prashna": "यदि किसी विद्युत बल्ब के तंतु का प्रतिरोध $1200\\Omega$ है तो बल्ब $220 V$ स्रोत से कितनी विद्युत धारा लेगा?"
-    },
-    {
-      "id": "short_7",
-      "type": "short_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Define the strength of electric current.",
-      "prashna": "विद्युत धारा की प्रबलता की परिभाषा दें।"
-    },
-    {
-      "id": "short_8",
-      "type": "short_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Write three main characteristics of fuse wire.",
-      "prashna": "फ्यूज के तार की तीन प्रमुख विशेषताएँ लिखें।"
-    },
-    {
-      "id": "long_2",
-      "type": "long_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "What is called parallel combination of resistances? Obtain the expression for equivalent resistance when resistances $R_1$, $R_2$, and $R_3$ are connected in parallel.",
-      "prashna": "प्रतिरोधों का पार्श्वक्रम संयोजन किसे कहते हैं? प्रतिरोध $R_1, R_2$ तथा $R_3$ को पार्श्वक्रम में संयोजित करने पर समतुल्य प्रतिरोध का व्यंजक प्राप्त करें।"
-    },
-    {
-      "id": "obj_9",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Which material is used to make the coil of an electric heater?",
-      "prashna": "इलेक्ट्रिक हीटर की कुंडली बनाने में किस पदार्थ का प्रयोग किया जाता है?",
-      "options": {
-        "A": "Copper",
-        "B": "Iron",
-        "C": "Silver",
-        "D": "Nichrome"
-      },
-      "vikalpa": {
-        "A": "ताँबा",
-        "B": "लोहा",
-        "C": "चाँदी",
-        "D": "नाइक्रोम"
-      }
-    },
-    {
-      "id": "obj_10",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "The value of one unit of electrical energy is",
-      "prashna": "एक यूनिट विद्युत ऊर्जा का मान है,",
-      "options": {
-        "A": "$3.6 \times 10^3\text{ J}$",
-        "B": "$3.6 \times 10^5\text{ J}$",
-        "C": "$3.6 \times 10^4\text{ J}$",
-        "D": "$3.6 \times 10^6\text{ J}$"
-      },
-      "vikalpa": {
-        "A": "$3.6 \times 10^3\text{ J}$",
-        "B": "$3.6 \times 10^5\text{ J}$",
-        "C": "$3.6 \times 10^4\text{ J}$",
-        "D": "$3.6 \times 10^6\text{ J}$"
-      }
-    },
-    {
-      "id": "obj_11",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Kilowatt / hour is a unit of",
-      "prashna": "किलोवाट / घंटा एक इकाई है।",
-      "options": {
-        "A": "Energy",
-        "B": "Power",
-        "C": "Electric charge",
-        "D": "Electric current"
-      },
-      "vikalpa": {
-        "A": "ऊर्जा की",
-        "B": "शक्ति की",
-        "C": "विद्युत आवेश की",
-        "D": "विद्युत धारा की"
-      }
-    },
-    {
-      "id": "obj_12",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "On which principle of electric current does an electric fuse work?",
-      "prashna": "विद्युत फ्यूज धारा के किस सिद्धांत पर कार्य करता है?",
-      "options": {
-        "A": "Thermal",
-        "B": "Magnetic",
-        "C": "Chemical",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "ऊष्मीय",
-        "B": "चुम्बकीय",
-        "C": "रासायनिक",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_13",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "In which order is a voltmeter connected in an electric circuit?",
-      "prashna": "वोल्टमीटर को विद्युत परिपथ में किस क्रम में जोड़ा जाता है",
-      "options": {
-        "A": "Series order",
-        "B": "Parallel order",
-        "C": "Both (A) and (B)",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "श्रेणीक्रम",
-        "B": "समानान्तर क्रम",
-        "C": "(A) और (B) दोनों",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_14",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "What is used to measure the potential difference between two points in an electric circuit?",
-      "prashna": "विद्युत परिपथ में दो बिन्दुओं के बीच विभवान्तर मापने के लिए प्रयुक्त होता है",
-      "options": {
-        "A": "Ammeter",
-        "B": "Voltmeter",
-        "C": "Galvanometer",
-        "D": "Plug-key"
-      },
-      "vikalpa": {
-        "A": "आमीटर",
-        "B": "वोल्टमीटर",
-        "C": "गैल्वेनोमीटर",
-        "D": "प्लग-कुंजी"
-      }
-    },
-    {
-      "id": "obj_15",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Which energy is converted into electricity by a hydro-electric power plant?",
-      "prashna": "जल विद्युत संयंत्र किस ऊर्जा को विद्युत में रूपांतरित करता है?",
-      "options": {
-        "A": "Thermal energy",
-        "B": "Nuclear energy",
-        "C": "Solar energy",
-        "D": "Potential energy"
-      },
-      "vikalpa": {
-        "A": "तापीय ऊर्जा",
-        "B": "नाभिकीय ऊर्जा",
-        "C": "सौर ऊर्जा",
-        "D": "स्थितिज ऊर्जा"
-      }
-    },
-    {
-      "id": "obj_16",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Which gas is filled in an electric bulb?",
-      "prashna": "विद्युत बल्ब में कौन-सी गैस भरी रहती है?",
-      "options": {
-        "A": "Nitrogen",
-        "B": "Air",
-        "C": "Inert gas",
-        "D": "Hydrogen gas"
-      },
-      "vikalpa": {
-        "A": "नाइट्रोजन",
-        "B": "वायु",
-        "C": "निष्क्रिय गैस",
-        "D": "हाइड्रोजन गैस"
-      }
-    },
-    {
-      "id": "obj_57",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "The charge on an electron is",
-      "prashna": "इलेक्ट्रॉन पर आवेश होता है",
-      "options": {
-        "A": "$-1.6 \times 10^{20}\text{ Coulomb}$",
-        "B": "$-1.6 \times 10^{-27}\text{ Coulomb}$",
-        "C": "$-1.6 \times 10^{-19}\text{ Coulomb}$",
-        "D": "$-1.6 \times 10^{-19}\text{ Coulomb}$"
-      },
-      "vikalpa": {
-        "A": "$-1.6 \times 10^{20}$ कूलम्ब",
-        "B": "$-1.6 \times 10^{-27}$ कूलम्ब",
-        "C": "$-1.6 \times 10^{-19}$ कूलम्ब",
-        "D": "$-1.6 \times 10^{-19}$ कूलम्ब"
-      }
-    },
-    {
-      "id": "obj_58",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Which cell is used in toys?",
-      "prashna": "खिलौनों में किस सेल का उपयोग होता है?",
-      "options": {
-        "A": "Dry cell",
-        "B": "Daniel cell",
-        "C": "Solar cell",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "सुखा मेल",
-        "B": "डेनियल सेल",
-        "C": "सौर सेल",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_59",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "The ability to do work is called",
-      "prashna": "कार्य करने की क्षमता को कहते हैं",
-      "options": {
-        "A": "Force",
-        "B": "Power",
-        "C": "Energy",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "बल",
-        "B": "शक्ति",
-        "C": "ऊर्जा",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "short_5",
-      "type": "short_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Draw a labeled diagram of an electric bulb.",
-      "prashna": "विद्युत बल्ब का नामांकित चित्र बनाइए।"
-    },
-    {
-      "id": "short_6",
-      "type": "short_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "What is nuclear fusion?",
-      "prashna": "नाभिकीय संलयन क्या है?"
-    },
-    {
-      "id": "short_8",
-      "type": "short_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Define Ampere.",
-      "prashna": "ऐम्पियर की परिभाषा दें।"
-    },
-    {
-      "id": "long_2",
-      "type": "long_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Obtain an expression for the equivalent resistance of three resistors of different values connected in series.",
-      "prashna": "श्रेणीक्रम में संयोजित तीन विभिन्न मान के प्रतिरोधों के समतुल्य प्रतिरोध के लिए व्यंजक प्राप्त करें।"
-    }
-  ],
-  "2022": [
-    {
-      "id": "obj_9",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Which one of the following units is equal to watt?",
-      "prashna": "निम्नलिखित में कौन-सा मात्रक वाट (W) के बराबर होता है ?",
-      "options": {
-        "A": "J/s",
-        "B": "$J/sec^2$",
-        "C": "$J^{-1}s^{-1}$",
-        "D": "$J^{-2}s^{-2}$"
-      },
-      "vikalpa": {
-        "A": "J/s",
-        "B": "$J/sec^2$",
-        "C": "$J^{-1}s^{-1}$",
-        "D": "$J^{-2}s^{-2}$"
-      }
-    },
-    {
-      "id": "obj_10",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "The coil of the electric heater wire is made up of",
-      "prashna": "विद्युत हीटर के तार की कुंडली बनी होती है",
-      "options": {
-        "A": "Copper",
-        "B": "Zinc",
-        "C": "Tungsten",
-        "D": "Nichrome"
-      },
-      "vikalpa": {
-        "A": "ताँबा की",
-        "B": "जस्ता की",
-        "C": "टंगस्टन की",
-        "D": "नाइक्रोम की"
-      }
-    },
-    {
-      "id": "obj_11",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "The property of a circuit that converts electrical energy into heat is",
-      "prashna": "किसी परिपथ का वह गुण जो विद्युत ऊर्जा को ऊष्मा में बदल देता है, है",
-      "options": {
-        "A": "resistance",
-        "B": "current",
-        "C": "potential difference",
-        "D": "power"
-      },
-      "vikalpa": {
-        "A": "प्रतिरोध",
-        "B": "धारा",
-        "C": "विभवांतर",
-        "D": "शक्ति"
-      }
-    },
-    {
-      "id": "obj_12",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "The potential difference across an electric cell upon drawing current becomes",
-      "prashna": "एक विद्युत सेल से धारा प्राप्त करने पर इसके सिरों के बीच विभवांतर का मान होता है",
-      "options": {
-        "A": "more than emf",
-        "B": "less than emf",
-        "C": "double the emf",
-        "D": "none of these"
-      },
-      "vikalpa": {
-        "A": "विद्युत वाहक बल से अधिक",
-        "B": "विद्युत वाहक बल से कम",
-        "C": "विद्युत वाहक बल से दोगुना",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_15",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "When an electric current flows through a conductor the moving particles are",
-      "prashna": "किसी चालक तार से प्रवाहित विद्युत धारा में गतिशील कण होता है",
-      "options": {
-        "A": "Neutrons",
-        "B": "Protons",
-        "C": "Electrons",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "न्यूट्रॉन",
-        "B": "प्रोटॉन",
-        "C": "इलेक्ट्रॉन",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_16",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "How much work is done in moving 2 coulombs of charge between two points of 12 V potential difference ?",
-      "prashna": "12 V विभवांतर के दो बिन्दुओं के बीच 2 कूलॉम आवेश को ले जाने में कितना कार्य किया जाता है ?",
-      "options": {
-        "A": "2 joule",
-        "B": "6 joule",
-        "C": "12 joule",
-        "D": "24 joule"
-      },
-      "vikalpa": {
-        "A": "2 जूल",
-        "B": "6 जूल",
-        "C": "12 जूल",
-        "D": "24 जूल"
-      }
-    },
-    {
-      "id": "obj_26",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "What is used to measure the current in an electric circuit ?",
-      "prashna": "विद्युत परिपथ में विद्युत धारा को मापने के लिए क्या उपयोग होता है ?",
-      "options": {
-        "A": "Galvanometer",
-        "B": "Voltmeter",
-        "C": "Voltameter",
-        "D": "Ammeter"
-      },
-      "vikalpa": {
-        "A": "गैल्वेनोमीटर",
-        "B": "वोल्टमीटर",
-        "C": "वोल्टामीटर",
-        "D": "आमीटर"
-      }
-    },
-    {
-      "id": "obj_27",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Which of the following does not represent electric power ?",
-      "prashna": "निम्नांकित में कौन विद्युत शक्ति को निरूपित नहीं करता है ?",
-      "options": {
-        "A": "VI",
-        "B": "$V^2 IR$",
-        "C": "$I^2 R$",
-        "D": "$IR^2$"
-      },
-      "vikalpa": {
-        "A": "VI",
-        "B": "$V^2 IR$",
-        "C": "$I^2 R$",
-        "D": "$IR^2$"
-      }
-    },
-    {
-      "id": "obj_41",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Volt (V) is equal to",
-      "prashna": "वोल्ट (V) बराबर होता है",
-      "options": {
-        "A": "C/J",
-        "B": "J/C",
-        "C": "J/A",
-        "D": "A/J"
-      },
-      "vikalpa": {
-        "A": "C/J",
-        "B": "J/C",
-        "C": "J/A",
-        "D": "A/J"
-      }
-    },
-    {
-      "id": "obj_42",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "The rate of flow of electric charge is called",
-      "prashna": "विद्युत आवेश के प्रवाह दर को कहते हैं",
-      "options": {
-        "A": "Electric current",
-        "B": "Electromotive force",
-        "C": "Potential difference",
-        "D": "none of these"
-      },
-      "vikalpa": {
-        "A": "विद्युत धारा",
-        "B": "विद्युत वाहक बल",
-        "C": "विभवांतर",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_43",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Which of the following statements is true ?",
-      "prashna": "निम्नांकित में कौन-सा कथन सत्य है ?",
-      "options": {
-        "A": "joule = volt $\times$ ampere",
-        "B": "joule = coulomb $\times$ volt",
-        "C": "joule = $\frac{ampere}, {volt}$",
-        "D": "joule = $\frac{coulomb}, {volt}$"
-      },
-      "vikalpa": {
-        "A": "जूल = वोल्ट $\times$ ऐम्पियर",
-        "B": "जूल = कूलॉम $\times$ वोल्ट",
-        "C": "जूल = $\frac{ऐम्पियर}, {वोल्ट}$",
-        "D": "जूल = $\frac{कूलॉम}, {वोल्ट}$"
+        "A": "लाल",
+        "B": "हरा",
+        "C": "पीला",
+        "D": "बैंगनी"
       }
     },
     {
       "id": "obj_77",
       "type": "objective",
       "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "One microampere electric current is",
-      "prashna": "एक माइक्रोऐम्पियर विद्युत धारा है",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Twinkling of stars is due to",
+      "prashna": "तारे के टिमटिमाने का कारण है।",
       "options": {
-        "A": "$10^{-7}$ A",
-        "B": "$10^{-6}$ A",
-        "C": "$10^{-5}$ A",
-        "D": "$10^{-4}$ A"
+        "A": "Atmospheric reflection",
+        "B": "Total reflection",
+        "C": "Atmospheric refraction",
+        "D": "Total refraction"
       },
       "vikalpa": {
-        "A": "$10^{-7}$ A",
-        "B": "$10^{-6}$ A",
-        "C": "$10^{-5}$ A",
-        "D": "$10^{-4}$ A"
-      }
-    },
-    {
-      "id": "short_3",
-      "type": "short_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Define electric potential and write its SI unit.",
-      "prashna": "विद्युत विभव की परिभाषा दें एवं इसका SI मात्रक लिखें।"
-    },
-    {
-      "id": "short_5",
-      "type": "short_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Write Ohm's law.",
-      "prashna": "ओम के नियम को लिखें।"
-    },
-    {
-      "id": "obj_54",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "One kilowatt-hour is equal to",
-      "prashna": "एक ककरोिाट- घॊटा फयाफय होता है",
-      "options": {
-        "A": "$3.6 \times 10^6$ Joule",
-        "B": "$3.6 \times 10^3$ Joule",
-        "C": "$3.6 \times 10^9$ Joule",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "$3.6 \times 10^6$ जूल",
-        "B": "$3.6 \times 10^3$ जूल",
-        "C": "$3.6 \times 10^9$ जूल",
-        "D": "इनभें से कोई नहीॊ"
-      }
-    },
-    {
-      "id": "obj_65",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "The rating of an electric bulb is $220 V$ and $100 W$. When it is operated on $110 V$, the power consumed by it will be",
-      "prashna": "ककसी विद्मतु फल्फ का अनभु ताॊक $220 V$ तथा $100 W$ है। जफ इसे $110 V$ ऩय प्रचामरत कयते हैं तफ इसके द्िाया उऩमक्ुत शजक्त होगी",
-      "options": {
-        "A": "$100 W$",
-        "B": "$75 W$",
-        "C": "$50 W$",
-        "D": "$25 W$"
-      },
-      "vikalpa": {
-        "A": "$100 W$",
-        "B": "$75 W$",
-        "C": "$50 W$",
-        "D": "$25 W$"
-      }
-    },
-    {
-      "id": "obj_67",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "The SI unit of resistivity is",
-      "prashna": "प्रनतयोधकता का SI भात्रक है",
-      "options": {
-        "A": "Ohm-meter",
-        "B": "Ohm per meter",
-        "C": "Ohm",
-        "D": "Meter per ohm"
-      },
-      "vikalpa": {
-        "A": "ओभ-भीटय",
-        "B": "ओभ प्रनत भीटय",
-        "C": "ओभ",
-        "D": "भीटय प्रनत ओभ"
-      }
-    },
-    {
-      "id": "obj_68",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "When more than one resistor are connected in series, which physical quantity remains the same in them?",
-      "prashna": "जफ एक से अचधक प्रनतयोधक श्ेर्ीक्रभ भें जड़ु े यहते हैं तफ कौन-सी बौनतक यामश उनभें से यहती है?",
-      "options": {
-        "A": "Resistance",
-        "B": "Electric current",
-        "C": "Potential difference",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "प्रनतयोध",
-        "B": "विद्मतु धाया",
-        "C": "विबिाॊतय",
-        "D": "इनभें से कोई नहीॊ"
-      }
-    },
-    {
-      "id": "short_5",
-      "type": "short_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Why are inert gases filled in electric bulbs?",
-      "prashna": "विद्मतु फल्ि भें ननजष्क्रम गैस क्मों बयी जाती ह?ै"
-    },
-    {
-      "id": "short_6",
-      "type": "short_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "What is resistance? Write its formula and unit.",
-      "prashna": "प्रनतयोध क्मा है? इसका सत्रू एिॊ भात्रक मरखें।"
-    },
-    {
-      "id": "long_1",
-      "type": "long_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Explain conductor, insulator, semiconductor and superconductor with examples.",
-      "prashna": "चारक, अचारक, अद्थधचारक एिॊ अनतचारक की सोदाहयर् व्माख्मा कयें।"
-    }
-  ],
-  "2023": [
-    {
-      "id": "obj_35",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "To increase the value of the resistance, resistors should be connected in",
-      "prashna": "प्रतिरोध का मान बढ़ाने के लिए प्रतिरोधकों को जोड़ा जाना चाहिए",
-      "options": {
-        "A": "series",
-        "B": "parallel",
-        "C": "both (A) and (B)",
-        "D": "none of these"
-      },
-      "vikalpa": {
-        "A": "पार्श्वक्रम में",
-        "B": "समानांतर क्रम में",
-        "C": "(A) और (B) दोनों",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_36",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Which instrument does not have a positive (+) and a negative (–) sign?",
-      "prashna": "किस उपकरण में धन (+) और ऋण (-) का चिह्न नहीं होता है ?",
-      "options": {
-        "A": "In voltmeter",
-        "B": "In ammeter",
-        "C": "In electric cell",
-        "D": "In coil"
-      },
-      "vikalpa": {
-        "A": "वोल्टमीटर में",
-        "B": "एमीटर में",
-        "C": "विद्युत सेल में",
-        "D": "कुंडली में"
-      }
-    },
-    {
-      "id": "obj_39",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "There are 20 divisions between the zero (0) and 2A number of an ammeter. What is the least count of the ammeter?",
-      "prashna": "एक एमीटर के शून्य (0) तथा 2A अंकों के बीच 20 विभाग हैं। एमीटर का अल्पतमांक (least count) क्या है ?",
-      "options": {
-        "A": "0.01 A",
-        "B": "0.1 A",
-        "C": "0.001 A",
-        "D": "2 A"
-      },
-      "vikalpa": {
-        "A": "0.01 A",
-        "B": "0.1 A",
-        "C": "0.001 A",
-        "D": "2 A"
-      }
-    },
-    {
-      "id": "obj_40",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "If several resistances are parallel, their equivalent resistance will be",
-      "prashna": "यदि कई प्रतिरोध समानांतर हों, तो उनका समतुल्य प्रतिरोध होगा",
-      "options": {
-        "A": "more than each resistance",
-        "B": "less than each resistance",
-        "C": "equal to each resistance",
-        "D": "none of these"
-      },
-      "vikalpa": {
-        "A": "प्रत्येक प्रतिरोध से अधिक",
-        "B": "प्रत्येक प्रतिरोध से कम",
-        "C": "प्रत्येक प्रतिरोध के बराबर",
-        "D": "इनमें से कोई नहीं"
-      }
-    }
-  ],
-  "2024": [
-    {
-      "id": "obj_23",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "What is present in cathode rays ?",
-      "prashna": "कैथोड किरणों में क्या उपस्थित रहते हैं ?",
-      "options": {
-        "A": "Electron",
-        "B": "Proton",
-        "C": "Neutron",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "इलेक्ट्रॉन",
-        "B": "प्रोटॉन",
-        "C": "न्यूट्रॉन",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_49",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Out of a combination of resistors, one resistor is removed and it is found that the net resistance has increased. The resistor was connected in",
-      "prashna": "प्रतिरोधों के एक संयोजन में से एक प्रतिरोधक हटा लेने पर कुल प्रतिरोध बढ़ जाता है। यह संयोजित था",
-      "options": {
-        "A": "parallel",
-        "B": "series",
-        "C": "cannot be said",
-        "D": "none of these"
-      },
-      "vikalpa": {
-        "A": "समानान्तर में",
-        "B": "श्रेणीबद्ध में",
-        "C": "कहा नहीं जा सकता",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_50",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Two appliances rated as (60 W, 200 V) and (40 W, 200 V) are connected across 100 V supply in a room. The total power consumed is",
-      "prashna": "एक कमरे में (60 W, 200 V) एवं (40 W, 200 V) के दो उपकरण 100 V आपूर्ति से जुड़े हैं। कुल उपभुक्त शक्ति है",
-      "options": {
-        "A": "25 W",
-        "B": "10 W",
-        "C": "15 W",
-        "D": "none of these"
-      },
-      "vikalpa": {
-        "A": "25 W",
-        "B": "10 W",
-        "C": "15 W",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_51",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Which of the following expressions represent(s) electric power in the circuit ?",
-      "prashna": "निम्नांकित में कौन-सा पद विद्युत-परिपथ में विद्युत-शक्ति को निरूपित करता है ?",
-      "options": {
-        "A": "$I^2R$",
-        "B": "$V^2/R$",
-        "C": "$VI$",
-        "D": "All of these"
-      },
-      "vikalpa": {
-        "A": "$I^2R$",
-        "B": "$V^2/R$",
-        "C": "$VI$",
-        "D": "इनमें से सभी"
-      }
-    },
-    {
-      "id": "obj_53",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Potential difference is measured by",
-      "prashna": "विभवान्तर मापा जाता है",
-      "options": {
-        "A": "ammeter",
-        "B": "voltmeter",
-        "C": "voltameter",
-        "D": "all of these"
-      },
-      "vikalpa": {
-        "A": "ऐमीटर द्वारा",
-        "B": "वोल्टमीटर द्वारा",
-        "C": "वोल्टामीटर द्वारा",
-        "D": "इनमें से सभी"
-      }
-    },
-    {
-      "id": "obj_54",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Which of the following statements is true ?",
-      "prashna": "निम्नांकित में कौन-सा कथन सत्य है ?",
-      "options": {
-        "A": "volt = ampere $\\div$ ohm",
-        "B": "volt = ohm $\\div$ ampere",
-        "C": "ampere = volt $\\div$ ohm",
-        "D": "ampere = ohm $+$ volt"
-      },
-      "vikalpa": {
-        "A": "वोल्ट = एम्पियर $\\div$ ओम",
-        "B": "वोल्ट = ओम $\\div$ एम्पियर",
-        "C": "एम्पियर = वोल्ट $\\div$ ओम",
-        "D": "एम्पियर = ओम $+$ वोल्ट"
-      }
-    },
-    {
-      "id": "obj_55",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Which of the following substances is a conductor ?",
-      "prashna": "निम्नलिखित पदार्थों में चालक है",
-      "options": {
-        "A": "Mica",
-        "B": "Glass",
-        "C": "Aluminium",
-        "D": "Porcelain"
-      },
-      "vikalpa": {
-        "A": "अभ्रक",
-        "B": "काँच",
-        "C": "ऐल्युमिनियम",
-        "D": "चीनी मिट्टी"
+        "A": "वायुमंडलीय परावर्तन",
+        "B": "कुल परावर्तन",
+        "C": "वायुमंडलीय अपवर्तन",
+        "D": "कुल अपवर्तन"
       }
     },
     {
       "id": "obj_78",
       "type": "objective",
       "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "The resistance of the filament of an electric bulb is 1200 ohms. How much electric current will the bulb draw from an electric source of 220 volts ?",
-      "prashna": "एक विद्युत बल्ब के तंतु का प्रतिरोध 1200 ओम है। यह बल्ब 220 वोल्ट के विद्युत स्रोत से कितनी विद्युत धारा लेगा ?",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "The persistence of vision for human eye is",
+      "prashna": "मानव नेत्र के लिए दृष्टि का स्थायित्व होता है।",
       "options": {
-        "A": "12 ampere",
-        "B": "2.8 ampere",
-        "C": "2 ampere",
-        "D": "0.18 ampere"
+        "A": "1/10 sec",
+        "B": "1/16 sec",
+        "C": "1/6 sec",
+        "D": "1/18 sec"
       },
       "vikalpa": {
-        "A": "12 एम्पियर",
-        "B": "2.8 एम्पियर",
-        "C": "2 एम्पियर",
-        "D": "0.18 एम्पियर"
+        "A": "1/10 sec",
+        "B": "1/16 sec",
+        "C": "1/6 sec",
+        "D": "1/18 sec"
       }
     },
     {
-      "id": "obj_79",
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "What is defect of vision in the human eye? How many types are there?",
+      "prashna": "मानव आँख में दृष्टि दोष क्या है? यह कितने प्रकार के होते हैं?"
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Why is the color of railway signal light always red?",
+      "prashna": "रेलवे के सिग्नल का प्रकाश लाल रंग का ही क्यों होता है?"
+    }
+  ],
+  "2015": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Which colour of light is deviated most?",
+      "prashna": "वर्ण विक्षेपण में किस वर्ण का प्रकाश का विचलन अधिक होता है ?"
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Which event is responsible for the blue colour of sky?",
+      "prashna": "आकाश का रंग नीला किस घटना का परिणाम है ?"
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "What is dispersion of light? Describe it with diagram.",
+      "prashna": "प्रकाश का वर्ण विक्षेपण क्या है ? सचित्र स्पष्ट करें।"
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "What is dispersion of light? Explain with a diagram.",
+      "prashna": "प्रकाश का वर्ण विक्षेपण क्या है? सचित्र स्पष्ट करें।"
+    }
+  ],
+  "2016": [
+    {
+      "id": "long_1_1",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "What is vision defect? Name its types. How can they be removed ?",
+      "prashna": "दृष्टि दोष क्या है ? यह कितने प्रकार के होते हैं ? इनका निवारण कैसे किया जाता है ?"
+    },
+    {
+      "id": "obj_2",
       "type": "objective",
       "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "The electromotive force of a cell is 1.5 V. The work done on passing a charge of 1 C will be",
-      "prashna": "एक सेल का विद्युत-वाहक बल 1.5 V है। 1 C आवेश गुजारने पर कार्य होगा",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Which lens is used to remove the near sightedness defect ?",
+      "prashna": "निकट दृष्टि दोष दूर करने के लिए किस लेंस का व्यवहार होता है ?",
       "options": {
-        "A": "1.5 V",
-        "B": "3 J",
-        "C": "1.5 J",
-        "D": "0"
+        "A": "Convex",
+        "B": "Concave",
+        "C": "Cylindrical",
+        "D": "None of these"
       },
       "vikalpa": {
-        "A": "1.5 V",
-        "B": "3 J",
-        "C": "1.5 J",
-        "D": "0"
+        "A": "उत्तर",
+        "B": "अवतल",
+        "C": "बेलनाकार",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "What type of lens is found in human eye ?",
+      "prashna": "मानव नेत्र में किस प्रकार का लेंस पाया जाता है ?",
+      "options": {
+        "A": "Convex",
+        "B": "Concave",
+        "C": "Ring",
+        "D": "Bifocal"
+      },
+      "vikalpa": {
+        "A": "उत्तल",
+        "B": "अवतल",
+        "C": "वलयाकार",
+        "D": "बाईफोकल"
+      }
+    },
+    {
+      "id": "long_1_1",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "What is a defect of vision? How many types are there? How are they corrected?",
+      "prashna": "दृष्टि दोष क्या है? यह कितने प्रकार के होते हैं? इनका निवारण कैसे किया जाता है?"
+    },
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Which lens is used to correct near-sightedness (Myopia)?",
+      "prashna": "निकट दृष्टि दोष दूर करने के लिए किस लेंस का व्यवहार होता है?",
+      "options": {
+        "A": "Convex",
+        "B": "Concave",
+        "C": "Cylindrical",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "उत्तल",
+        "B": "अवतल",
+        "C": "बेलनाकार",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Which type of lens is found in the human eye?",
+      "prashna": "मानव नेत्र में किस प्रकार का लेंस पाया जाता है?",
+      "options": {
+        "A": "Convex",
+        "B": "Concave",
+        "C": "Annular",
+        "D": "Bifocal"
+      },
+      "vikalpa": {
+        "A": "उत्तल",
+        "B": "अवतल",
+        "C": "वलयाकार",
+        "D": "फाईपोकल"
+      }
+    }
+  ],
+  "2017": [
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "The eye is used as:-",
+      "prashna": "आँख व्यवहार होता है :-",
+      "options": {
+        "A": "Concave mirror",
+        "B": "Convex lens",
+        "C": "Plane Mirror",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "अवतल दर्पण की तरह",
+        "B": "उत्तल लेंस की तरह",
+        "C": "समतल दर्पण की तरह",
+        "D": "इनमें कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "The eye behaves like-",
+      "prashna": "आँख व्यवहार होता है-",
+      "options": {
+        "A": "Like a concave mirror",
+        "B": "Like a convex lens",
+        "C": "Like a plane mirror",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "अवतल दर्पण की तरह",
+        "B": "उत्तल लेंस की तरह",
+        "C": "समतल दर्पण की तरह",
+        "D": "इनमें कोई नहीं"
+      }
+    }
+  ],
+  "2018": [
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Who controls pupil's size?",
+      "prashna": "पुतली के साइज को कौन नियंत्रित करता है?",
+      "options": {
+        "A": "Ciliary muscles",
+        "B": "Iris",
+        "C": "Eye lens",
+        "D": "Retina"
+      },
+      "vikalpa": {
+        "A": "पक्ष्माभी",
+        "B": "परितारिका",
+        "C": "नेत्र लेंस",
+        "D": "रेटिना (दृष्टि पटल)"
+      }
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Which eye defect can be corrected by using 'bi-focal lens' consisting of both concave and convex lens?",
+      "prashna": "किस दृष्टि दोष को अवतल और उत्तल दोनों लेंसों से बने द्विफोकसी लेंस द्वारा संशोधित किया जा सकता है?",
+      "options": {
+        "A": "Myopia",
+        "B": "Hypermetropia",
+        "C": "Presbyopia",
+        "D": "Cataract"
+      },
+      "vikalpa": {
+        "A": "निकट दृष्टि दोष",
+        "B": "दीर्घ-दृष्टि दोष",
+        "C": "जरा - दूर दृष्टिता",
+        "D": "मोतियाबिंद"
+      }
+    },
+    {
+      "id": "long_1_1",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "State types of defects of vision. Write these eye defects and their correction in brief. The far point of a myopic person is $80cm$ in front of the eye. What is the nature and power of the lens required to correct the problem?",
+      "prashna": "दृष्टि दोष के प्रकार लिखें। इन दोषों तथा उनके संशोधन के बारे में संक्षेप में लिखें। किसी निकट दृष्टि से पीड़ित व्यक्ति का दूर बिन्दु नेत्र के सामने $80 cm$ दूरी पर है। इस दोष को संशोधित करने के लिए आवश्यक लेंस की प्रकृति तथा क्षमता क्या होगी?",
+      "sub_questions": {
+        "a": "State types of defects of vision.",
+        "b": "Write these eye defects and their correction in brief.",
+        "c": "The far point of a myopic person is $80cm$ in front of the eye. What is the nature and power of the lens required to correct the problem?"
+      },
+      "anuprashna": {
+        "a": "दृष्टि दोष के प्रकार लिखें।",
+        "b": "इन दोषों तथा उनके संशोधन के बारे में संक्षेप में लिखें।",
+        "c": "किसी निकट दृष्टि से पीड़ित व्यक्ति का दूर बिन्दु नेत्र के सामने $80 cm$ दूरी पर है। इस दोष को संशोधित करने के लिए आवश्यक लेंस की प्रकृति तथा क्षमता क्या होगी?"
+      }
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Most of the refraction for the light rays entering the eye occurs at -",
+      "prashna": "नेत्र में प्रवेश करने वाली प्रकाश किरणों का अधिकांश अपवर्तन होता है -",
+      "options": {
+        "A": "Interface of aqueous humour",
+        "B": "Interface of eye lens",
+        "C": "Outer surface of cornea",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "नेत्रोद अंतर पृष्ठ पर",
+        "B": "अभिनेत्र के अंतर पृष्ठ पर",
+        "C": "कॉर्निया के बाहरी पृष्ठ पर",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "When sunlight passes through the atmosphere, which colour of light gets scattered strongly by the fine particles in air?",
+      "prashna": "जब सूर्य का प्रकाश वायुमंडल से गुजरता है, तो वायु के सूक्ष्म कण किस रंग के प्रकाश को अधिक प्रबलता से प्रकीर्ण करते हैं?",
+      "options": {
+        "A": "Red",
+        "B": "Orange",
+        "C": "Green",
+        "D": "Blue"
+      },
+      "vikalpa": {
+        "A": "लाल",
+        "B": "नारंगी",
+        "C": "हरा",
+        "D": "नीला"
       }
     },
     {
       "id": "short_2",
       "type": "short_answer",
       "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Define ampere.",
-      "prashna": "एम्पियर की परिभाषा दें।"
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Why does the Sun appear Reddish early in the morning and in the evening?",
+      "prashna": "सूर्योदय एवं सूर्यास्त के समय सूर्य रक्ताभ क्यों प्रतीत होता है?"
+    }
+  ],
+  "2019": [
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Which phenomenon of light does the Tyndall effect show?",
+      "prashna": "टिंडल प्रभाव प्रकाश की कौन सी परिघटना को प्रदर्शित करता है?",
+      "options": {
+        "A": "Reflection of light",
+        "B": "Refraction of light",
+        "C": "Dispersion of light",
+        "D": "Scattering of light"
+      },
+      "vikalpa": {
+        "A": "प्रकाश का परावर्तन",
+        "B": "प्रकाश का अपवर्तन",
+        "C": "प्रकाश का विक्षेपण",
+        "D": "प्रकाश का प्रकीर्णन"
+      }
+    },
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Which lens can be used for correction of hypermetropia?",
+      "prashna": "किस लेंस का उपयोग कर दीर्घदृष्टि दोष को संशोधित किया जा सकता है?",
+      "options": {
+        "A": "Concave lens",
+        "B": "Convex lens",
+        "C": "Sometimes concave lens and sometime convex lens",
+        "D": "Cylindrical lens"
+      },
+      "vikalpa": {
+        "A": "अवतल लेंस",
+        "B": "उत्तल लेंस",
+        "C": "कभी अवतल लेंस और कभी उत्तल लेंस",
+        "D": "बेलनाकार लेंस"
+      }
+    },
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Which colour has the largest wave-length?",
+      "prashna": "किस वर्ण (रंग) का तरंगदैर्ध्य सबसे बड़ा है?",
+      "options": {
+        "A": "Red",
+        "B": "Blue",
+        "C": "Yellow",
+        "D": "Violet"
+      },
+      "vikalpa": {
+        "A": "लाल",
+        "B": "नीला",
+        "C": "पीला",
+        "D": "बैंगनी"
+      }
+    },
+    {
+      "id": "obj_12",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "The far-point for the normal vision is -",
+      "prashna": "सामान्य नेत्र के लिए दूर-बिंदु है -",
+      "options": {
+        "A": "25 m",
+        "B": "25 cm",
+        "C": "25 mm",
+        "D": "Infinity"
+      },
+      "vikalpa": {
+        "A": "25 मी.",
+        "B": "25 से.मी.",
+        "C": "25 मि.मी.",
+        "D": "अनंत"
+      }
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Why is a normal eye not able to see clearly the objects placed closer than 25 cm?",
+      "prashna": "सामान्य नेत्र, 25 से.मी. से निकट रखी वस्तुओं को सुस्पष्ट क्यों नहीं देख पाते?"
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Why does the sun appear reddish early in the morning?",
+      "prashna": "सूर्योदय के समय सूर्य रक्ताभ क्यों प्रतीत होता है?"
+    },
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Answer the following sub-questions about human vision:",
+      "prashna": "मानव दृष्टि के बारे में निम्नलिखित अनुप्रश्नों के उत्तर दें:",
+      "sub_questions": {
+        "A": "Draw a well labelled diagram of human eye.",
+        "B": "How do ciliary muscles accommodate focal length of eye lens to see nearby objects and far objects?"
+      },
+      "anuprashna": {
+        "A": "मानव नेत्र का स्वच्छ नामांकित आरेख खींचें।",
+        "B": "किस प्रकार निकट रखी वस्तुओं और दूर रखी वस्तुओं को देखने के लिए पक्ष्माभी पेशियाँ अभिनेत्र लेंस की फोकस दूरी को समायोजित करती हैं?"
+      }
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Where does, the most of refraction for light rays entering the eye, occurs?",
+      "prashna": "नेत्र में प्रवेश करने वाली प्रकाश किरणों का अधिकांश अपवर्तन कहाँ होता है?",
+      "options": {
+        "A": "on the outer surface of cornea",
+        "B": "on the eye-lens",
+        "C": "in aqueous humour",
+        "D": "on the retina"
+      },
+      "vikalpa": {
+        "A": "कॉर्निया के बाहरी पृष्ठ पर",
+        "B": "अभिनेत्र लेंस पर",
+        "C": "नेत्रोद में",
+        "D": "दृष्टि पटल पर"
+      }
+    },
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Which colour of light scatters more in atmosphere?",
+      "prashna": "वायुमंडल में प्रकाश का कौन सा रंग (वर्ण) अधिक प्रकीर्णन करता है?",
+      "options": {
+        "A": "Red",
+        "B": "Blue",
+        "C": "Yellow",
+        "D": "Orange"
+      },
+      "vikalpa": {
+        "A": "लाल",
+        "B": "नीला",
+        "C": "पीला",
+        "D": "नारंगी"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "How does the sky appear to an astronaut?",
+      "prashna": "किसी अंतरिक्ष यात्री को आकाश कैसा प्रतीत होता है?",
+      "options": {
+        "A": "Dark",
+        "B": "Blue",
+        "C": "Red",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "काला",
+        "B": "नीला",
+        "C": "लाल",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "What is meant by power of accommodation of the eye?",
+      "prashna": "नेत्र की समंजन क्षमता से क्या अभिप्राय है?"
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Why does the sun appear reddish during sunrise?",
+      "prashna": "सूर्योदय के समय सूर्य रक्ताभ क्यों प्रतीत होता है?"
+    }
+  ],
+  "2020": [
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Which of the following is the coloured portion of an eye?",
+      "prashna": "निम्नलिखित में से कौन नेत्र का रंगीन भाग होता है ?",
+      "options": {
+        "A": "Cornea",
+        "B": "Retina",
+        "C": "Iris",
+        "D": "Pupil"
+      },
+      "vikalpa": {
+        "A": "कॉर्निया",
+        "B": "रेटिना",
+        "C": "परितारिका",
+        "D": "पुतली"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Light of which colour scatters more in atmosphere?",
+      "prashna": "वायुमंडल में प्रकाश के किस वर्ण का प्रकीर्णन अधिक होता है ?",
+      "options": {
+        "A": "Red",
+        "B": "Blue",
+        "C": "Yellow",
+        "D": "Orange"
+      },
+      "vikalpa": {
+        "A": "लाल",
+        "B": "नीला",
+        "C": "पीला",
+        "D": "नारंगी"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "The sun is visible to us about 2 minutes before the actual sunrise due to which phenomenon of light?",
+      "prashna": "प्रकाश की किस घटना के कारण सूर्य हमें वास्तविक सूर्योदय से लगभग 2 मिनट पूर्व दिखाई देने लगता है ?",
+      "options": {
+        "A": "Reflection",
+        "B": "Atmospheric refraction",
+        "C": "Scattering",
+        "D": "Both atmospheric refraction and scattering"
+      },
+      "vikalpa": {
+        "A": "परावर्तन",
+        "B": "वायुमंडलीय अपवर्तन",
+        "C": "प्रकीर्णन",
+        "D": "वायुमंडलीय अपवर्तन एवं प्रकीर्णन दोनों"
+      }
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Why does the sky appear dark instead of blue to an astronaut?",
+      "prashna": "किसी अंतरिक्ष यात्री को आकाश नीले की अपेक्षा काला क्यों प्रतीत होता है ?"
+    },
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "What is short sightedness (myopia)? What are its causes? Explain the method of removing this defect with diagram.",
+      "prashna": "निकट-दृष्टि दोष किसे कहते हैं ? इसके क्या कारण हैं ? इसके संशोधन की विधि को सचित्र समझायें।"
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Which of the following lens is used to remove short sightedness ?",
+      "prashna": "निकट दृष्टि दोष को निम्नलिखित में किस लेंस के द्वारा हटाया जाता है ?",
+      "options": {
+        "A": "Convex",
+        "B": "Concave",
+        "C": "Bifocal",
+        "D": "Cylindrical"
+      },
+      "vikalpa": {
+        "A": "उत्तल",
+        "B": "अवतल",
+        "C": "बाइफोकल",
+        "D": "बेलनाकार"
+      }
+    },
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "The deviation of which colour is minimum ?",
+      "prashna": "किस रंग का विचलन न्यूनतम होता है ?",
+      "options": {
+        "A": "Red",
+        "B": "Yellow",
+        "C": "Blue",
+        "D": "Violet"
+      },
+      "vikalpa": {
+        "A": "लाल",
+        "B": "पीला",
+        "C": "नीला",
+        "D": "बैंगनी"
+      }
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "What are the defects of vision ? What are its types ?",
+      "prashna": "दृष्टि दोष क्या है ? यह कितने प्रकार का होता है ?"
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Why is the colour of clear sky blue ?",
+      "prashna": "स्वच्छ आकाश का रंग नीला क्यों होता है ?"
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_74",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Which color of light deviates most in a white light spectrum?",
+      "prashna": "श्वेत प्रकाश वर्णक्रम में किस रंग की किरण का विचलन अधिक होता है?",
+      "options": {
+        "A": "Red",
+        "B": "Green",
+        "C": "Yellow",
+        "D": "Violet"
+      },
+      "vikalpa": {
+        "A": "लाल",
+        "B": "हरा",
+        "C": "पीला",
+        "D": "बैंगनी"
+      }
+    },
+    {
+      "id": "obj_77",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "The reason for the twinkling of stars is",
+      "prashna": "तारे के टिमटिमाने का कारण है।",
+      "options": {
+        "A": "Atmospheric reflection",
+        "B": "Total reflection",
+        "C": "Atmospheric refraction",
+        "D": "Total refraction"
+      },
+      "vikalpa": {
+        "A": "वायुमंडलीय परावर्तन",
+        "B": "कुल परावर्तन",
+        "C": "वायुमंडलीय अपवर्तन",
+        "D": "कुल अपवर्तन"
+      }
+    },
+    {
+      "id": "obj_78",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "The persistence of vision for the human eye is",
+      "prashna": "मानव नेत्र के लिए दृष्टि का स्थायित्व होता है।",
+      "options": {
+        "A": "1/10 sec",
+        "B": "1/16 sec",
+        "C": "1/6 sec",
+        "D": "1/18 sec"
+      },
+      "vikalpa": {
+        "A": "1/10 sec",
+        "B": "1/16 sec",
+        "C": "1/6 sec",
+        "D": "1/18 sec"
+      }
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "What is defect of vision in human eye? How many types are there?",
+      "prashna": "मानव आँख में दृष्टि दोष क्या है? यह कितने प्रकार के होते हैं?"
+    },
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "The part of the eye on which the image of an object is formed is",
+      "prashna": "किसी वस्तु का प्रतिबिम्ब आँख के जिस भाग पर बनता है वह है",
+      "options": {
+        "A": "Cornea",
+        "B": "Retina",
+        "C": "Pupil",
+        "D": "Iris"
+      },
+      "vikalpa": {
+        "A": "कॉर्निया",
+        "B": "रेटिना",
+        "C": "पुतली",
+        "D": "आइरिस"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "The Tyndall effect demonstrates",
+      "prashna": "टिंडल प्रभाव प्रदर्शित करता है।",
+      "options": {
+        "A": "Reflection of light",
+        "B": "Dispersion of light",
+        "C": "Refraction of light",
+        "D": "Scattering of light"
+      },
+      "vikalpa": {
+        "A": "प्रकाश का परावर्तन",
+        "B": "प्रकाश का विक्षेपण",
+        "C": "प्रकाश का अपवर्तन",
+        "D": "प्रकाश का प्रकीर्णन"
+      }
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Why do stars twinkle?",
+      "prashna": "तारे क्यों टिमटिमाते हैं?"
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "What is far-sightedness (hypermetropia)?",
+      "prashna": "दूर दृष्टिदोष क्या है?"
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Write the names of two components of sunlight that we cannot see.",
+      "prashna": "सूर्य के प्रकाश के उन दो घटकों के नाम लिखिए जो हमें दिखाई नहीं देते हैं।"
+    },
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "What do you understand by dispersion of light? Explain the formation of a rainbow.",
+      "prashna": "प्रकाश के वर्ण-विक्षेपण से आप क्या समझते हैं? इन्द्रधनुष की व्याख्या करें।"
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "What is the image of an object formed by the eye ?",
+      "prashna": "नेत्र द्वारा किसी वस्तु का कैसा प्रतिबिंब बनता है ?",
+      "options": {
+        "A": "Real, inverted and enlarged",
+        "B": "Virtual, erect and diminished",
+        "C": "Virtual, inverted and enlarged",
+        "D": "Real, inverted and diminished"
+      },
+      "vikalpa": {
+        "A": "वास्तविक, उल्टा तथा बड़ा",
+        "B": "काल्पनिक, सीधा तथा छोटा",
+        "C": "काल्पनिक, उल्टा तथा बड़ा",
+        "D": "वास्तविक, उल्टा तथा छोटा"
+      }
+    },
+    {
+      "id": "obj_79",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Which is used to get spectrum ?",
+      "prashna": "स्पेक्ट्रम प्राप्त करने के लिए किसका उपयोग होता है ?",
+      "options": {
+        "A": "Concave mirror",
+        "B": "Convex mirror",
+        "C": "Prism",
+        "D": "Glass slab"
+      },
+      "vikalpa": {
+        "A": "अवतल दर्पण का",
+        "B": "उत्तल दर्पण का",
+        "C": "प्रिज्म का",
+        "D": "काँच की सिल्ली का"
+      }
     },
     {
       "id": "short_6",
       "type": "short_answer",
       "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Which quantity remains constant in Ohm's law, when temperature is constant ? Explain.",
-      "prashna": "ओम के नियम में कौन-सी राशि अचर रहती है जब तापक्रम नियत रहे ? व्याख्या करें।"
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "What are defects of vision ? What are its types ?",
+      "prashna": "दृष्टि दोष क्या है ? यह कितने प्रकार का होता है ?"
     },
     {
-      "id": "obj_8",
-      "type": "objective",
+      "id": "short_8",
+      "type": "short_answer",
       "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "The SI unit of resistance is",
-      "prashna": "प्रतिरोध का SI मात्रक होता है",
-      "options": {
-        "A": "ampere",
-        "B": "watt",
-        "C": "ohm",
-        "D": "volt"
-      },
-      "vikalpa": {
-        "A": "ऐम्पियर",
-        "B": "वाट",
-        "C": "ओम",
-        "D": "वोल्ट"
-      }
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Why does the sun appear red at the time of sunrise ?",
+      "prashna": "सूर्योदय के समय सूर्य लाल क्यों प्रतीत होता है ?"
     },
     {
-      "id": "obj_17",
+      "id": "obj_42",
       "type": "objective",
       "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Kilowatt-hour ($kWh$) is the unit of",
-      "prashna": "किलोवाट-घंटा ($kWh$) मात्रक है",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "How does the sky appear to an astronaut?",
+      "prashna": "ककसी अॊतरयऺ मात्री को आकाश कै सा प्रतीत होता है ?",
       "options": {
-        "A": "energy",
-        "B": "time",
-        "C": "mass",
-        "D": "power"
-      },
-      "vikalpa": {
-        "A": "ऊर्जा का",
-        "B": "समय का",
-        "C": "द्रव्यमान का",
-        "D": "शक्ति का"
-      }
-    },
-    {
-      "id": "obj_43",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Metallic conduction is based on motion of which particle in material?",
-      "prashna": "धात्विक चालकता पदार्थ के अन्दर किस कण की गति पर आश्रित है ?",
-      "options": {
-        "A": "Electron",
-        "B": "Proton",
-        "C": "Neutron",
+        "A": "Blue",
+        "B": "Black",
+        "C": "Red",
         "D": "None of these"
       },
       "vikalpa": {
-        "A": "इलेक्ट्रॉन",
-        "B": "प्रोटॉन",
-        "C": "न्यूट्रॉन",
-        "D": "इनमें से कोई नहीं"
+        "A": "नीरा",
+        "B": "कारा",
+        "C": "रार",
+        "D": "इनभें से कोई नहीॊ"
       }
     },
     {
-      "id": "obj_45",
+      "id": "obj_47",
       "type": "objective",
       "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "A resistor of power $P_1$ at voltage $V_1$ is connected in series with another resistor of power $P_2$ at voltage $V_2$. The equivalent resistance will be",
-      "prashna": "वोल्टता $V_1$ पर शक्ति $P_1$ का एक प्रतिरोधक, वोल्टता $V_2$ पर शक्ति $P_2$ के प्रतिरोधक के साथ श्रेणी में जुड़ा है। समतुल्य प्रतिरोध होगा",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "The primary color of light is",
+      "prashna": "प्रकाश का प्राथमभक िर्थ है।",
       "options": {
-        "A": "$\frac{V_1^2}, {P_1} + \frac{V_2^2}, {P_2}$",
-        "B": "$\frac{P_1^2}, {V_1} + \frac{P_2^2}, {V_2}$",
-        "C": "$\frac{P_1 + P_2}, {(V_1 + V_2)^2}$",
-        "D": "$\frac{P_1}, {V_1^2} + \frac{P_2}, {V_2^2}$"
+        "A": "Blue",
+        "B": "Green",
+        "C": "Red",
+        "D": "All of these"
       },
       "vikalpa": {
-        "A": "$\frac{V_1^2}, {P_1} + \frac{V_2^2}, {P_2}$",
-        "B": "$\frac{P_1^2}, {V_1} + \frac{P_2^2}, {V_2}$",
-        "C": "$\frac{P_1 + P_2}, {(V_1 + V_2)^2}$",
-        "D": "$\frac{P_1}, {V_1^2} + \frac{P_2}, {V_2^2}$"
+        "A": "नीरा",
+        "B": "हया",
+        "C": "रार",
+        "D": "इनभें से सबी"
+      }
+    },
+    {
+      "id": "obj_48",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Twinkling of stars shows which phenomenon of light?",
+      "prashna": "तायों का दैटभदटभाना, प्रकाश की ककस घटना को दशाथता है ?",
+      "options": {
+        "A": "Refraction of light",
+        "B": "Dispersion of light",
+        "C": "Reflection of light",
+        "D": "Scattering of light"
+      },
+      "vikalpa": {
+        "A": "प्रकाश के अऩितथन",
+        "B": "प्रकाश के िर्थ विऺेऩर्",
+        "C": "प्रकाश के ऩयाितथन",
+        "D": "प्रकाश के प्रकीर्थन"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Which lens is used for near-sightedness (Myopia)?",
+      "prashna": "ननकट दृजष्ट दोष भें ककस रेंस का प्रमोग ककमा जाता है?",
+      "options": {
+        "A": "Concave",
+        "B": "Bifocal",
+        "C": "Cylindrical",
+        "D": "Convex"
+      },
+      "vikalpa": {
+        "A": "अितर",
+        "B": "द्विपोकसी",
+        "C": "फेरनाकाय",
+        "D": "उत्तर"
       }
     },
     {
       "id": "short_1",
       "type": "short_answer",
       "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Draw a labelled diagram of electric bulb.",
-      "prashna": "विद्युत बल्ब का नामांकित चित्र बनाइए।"
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Differentiate between stars and planets.",
+      "prashna": "ताये औय ग्रहों भें अॊतय स्ऩष्ट कयें।"
     },
     {
-      "id": "short_8",
+      "id": "short_4",
       "type": "short_answer",
       "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "How is the resistance of a wire affected by its area of cross-section?",
-      "prashna": "किसी तार का प्रतिरोध उसके अनुप्रस्थ काट के क्षेत्रफल से कैसे प्रभावित होता है ?"
-    },
-    {
-      "id": "long_10",
-      "type": "long_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Explain conductor, insulator and semiconductor with examples.",
-      "prashna": "चालक, अचालक एवं अर्द्धचालक की सोदाहरण व्याख्या करें।"
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "What is persistence of vision?",
+      "prashna": "दृजष्ट ननफांध क्मा है?"
     }
   ],
-  "2025": [
+  "2023": [
     {
-      "id": "obj_38",
+      "id": "obj_5",
       "type": "objective",
       "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "The unit of resistivity in a conductor is",
-      "prashna": "किसी चालक की प्रतिरोधकता का मात्रक है",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Dispersion of white light is produced by",
+      "prashna": "श्वेत प्रकाश में वर्ण-विक्षेपण उत्पन्न करता है",
       "options": {
-        "A": "$\\Omega \text{ m}$",
-        "B": "$\\Omega / \text{m}$",
-        "C": "$\\Omega^{-1}$",
-        "D": "None of these"
+        "A": "glass slab",
+        "B": "plane mirror",
+        "C": "spherical mirror",
+        "D": "prism"
       },
       "vikalpa": {
-        "A": "$\\Omega \text{ m}$",
-        "B": "$\\Omega / \text{m}$",
-        "C": "$\\Omega^{-1}$",
-        "D": "इनमें से कोई नहीं"
+        "A": "काँच की सिल्ली",
+        "B": "समतल दर्पण",
+        "C": "गोलीय दर्पण",
+        "D": "प्रिज्म"
       }
     },
     {
-      "id": "obj_39",
+      "id": "obj_34",
       "type": "objective",
       "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "How many calories are there in 1 joule?",
-      "prashna": "1 जूल में कितनी कैलोरी होती है ?",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Which colour has maximum wavelength in visible light?",
+      "prashna": "दृश्य प्रकाश में किस वर्ण का तरंगदैर्घ्य अधिकतम होता है ?",
       "options": {
-        "A": "$0.23$",
-        "B": "$0.19$",
-        "C": "$0.21$",
-        "D": "$0.25$"
+        "A": "Yellow",
+        "B": "Violet",
+        "C": "Red",
+        "D": "Green"
       },
       "vikalpa": {
-        "A": "$0.23$",
-        "B": "$0.19$",
-        "C": "$0.21$",
-        "D": "$0.25$"
-      }
-    },
-    {
-      "id": "obj_40",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "The filament in an electric bulb is made of which of the following metals?",
-      "prashna": "विद्युत बल्ब में फिलामेंट निम्नलिखित में किस धातु का बना होता है ?",
-      "options": {
-        "A": "Iron",
-        "B": "Aluminium",
-        "C": "Tungsten",
-        "D": "Copper"
-      },
-      "vikalpa": {
-        "A": "लोहा",
-        "B": "एल्युमीनियम",
-        "C": "टंगस्टन",
-        "D": "ताँबा"
-      }
-    },
-    {
-      "id": "short_5",
-      "type": "short_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Why is inert gas filled in electric bulb?",
-      "prashna": "विद्युत बल्ब में निष्क्रिय गैस क्यों भरी जाती है ?"
-    },
-    {
-      "id": "short_6",
-      "type": "short_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "What do you understand by potential difference?",
-      "prashna": "विभवांतर से आप क्या समझते हैं ?"
-    },
-    {
-      "id": "obj_9",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Which quantity is electric potential ?",
-      "prashna": "विद्युत विभव कौन-सी राशि है ?",
-      "options": {
-        "A": "Scalar quantity",
-        "B": "Vector quantity",
-        "C": "Both (A) and (B)",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "अदिश राशि",
-        "B": "सदिश राशि",
-        "C": "(A) और (B) दोनों",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_13",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "What will be the resistance of the wire when its length increases ?",
-      "prashna": "लंबाई बढ़ने से तार का प्रतिरोध क्या होता है ?",
-      "options": {
-        "A": "Decreases",
-        "B": "Increases",
-        "C": "Remains constant",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "घटता है",
-        "B": "बढ़ता है",
-        "C": "कोई परिवर्तन नहीं होता",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_14",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Electrical resistivity of silver at $20^{\\circ}C$ is",
-      "prashna": "$20^{\\circ}C$ पर सिल्वर की विद्युत प्रतिरोधकता है",
-      "options": {
-        "A": "$49 \times 10^{-6} \\Omega m$",
-        "B": "$1.60 \times 10^{-8} \\Omega m$",
-        "C": "$10^{12} \\Omega m$",
-        "D": "$6.84 \times 10^{-8} \\Omega m$"
-      },
-      "vikalpa": {
-        "A": "$49 \times 10^{-6} \\Omega m$",
-        "B": "$1.60 \times 10^{-8} \\Omega m$",
-        "C": "$10^{12} \\Omega m$",
-        "D": "$6.84 \times 10^{-8} \\Omega m$"
-      }
-    },
-    {
-      "id": "obj_62",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Which of the following is the formula to find the resistance of a coil ?",
-      "prashna": "निम्न में से कौन किसी कुंडली का प्रतिरोध ज्ञात करने का सूत्र है ?",
-      "options": {
-        "A": "$R = V - I$",
-        "B": "$R = \frac{V}, {I}$",
-        "C": "$R = V \times I$",
-        "D": "$R = \frac{I}, {V}$"
-      },
-      "vikalpa": {
-        "A": "$R = V - I$",
-        "B": "$R = \frac{V}, {I}$",
-        "C": "$R = V \times I$",
-        "D": "$R = \frac{I}, {V}$"
-      }
-    },
-    {
-      "id": "obj_63",
-      "type": "objective",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "The SI unit of resistance is",
-      "prashna": "प्रतिरोध का SI मात्रक है",
-      "options": {
-        "A": "coulomb",
-        "B": "joule",
-        "C": "ampere",
-        "D": "ohm"
-      },
-      "vikalpa": {
-        "A": "कूलॉम",
-        "B": "जूल",
-        "C": "एम्पियर",
-        "D": "ओम"
+        "A": "पीला",
+        "B": "बैंगनी",
+        "C": "लाल",
+        "D": "हरा"
       }
     },
     {
       "id": "obj_64",
       "type": "objective",
       "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Which of the following is the commercial unit of electrical energy ?",
-      "prashna": "निम्न में से कौन विद्युत-ऊर्जा का व्यापारिक मात्रक है ?",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "A prism is bounded by how many surfaces?",
+      "prashna": "एक प्रिज्म कितने सतहों से घिरा होता है ?",
       "options": {
-        "A": "watt/hour",
-        "B": "unit",
-        "C": "watt",
-        "D": "none of these"
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
       },
       "vikalpa": {
-        "A": "वाट/घंटा",
-        "B": "यूनिट",
-        "C": "वाट",
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      }
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Which of the following lenses is used to remove short sightedness ?",
+      "prashna": "निकट दृष्टि दोष को निम्नलिखित में किस लेंस के द्वारा हटाया जाता है ?",
+      "options": {
+        "A": "Cylindrical",
+        "B": "Convex",
+        "C": "Concave",
+        "D": "Bifocal"
+      },
+      "vikalpa": {
+        "A": "बेलनाकार",
+        "B": "उत्तल",
+        "C": "अवतल",
+        "D": "बाइफोकल"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Most of the refraction of the light rays entering the eye occurs at",
+      "prashna": "नेत्र में प्रवेश करने वाली प्रकाश किरणों का अधिकांश अपवर्तन होता है",
+      "options": {
+        "A": "Interface of eye lens",
+        "B": "Interface of aqueous humour",
+        "C": "Outer surface of cornea",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "अभिनेत्र के अंतपृष्ठ पर",
+        "B": "नेत्रोद अंतपृष्ठ पर",
+        "C": "दृष्टिपटल के बाहरी पृष्ठ पर",
         "D": "इनमें से कोई नहीं"
       }
     },
     {
-      "id": "short_6",
+      "id": "obj_28",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "What type of lens is found in human eye ?",
+      "prashna": "मानव नेत्र में किस प्रकार का लेंस पाया जाता है ?",
+      "options": {
+        "A": "Convex",
+        "B": "Bifocal",
+        "C": "Concave",
+        "D": "Cylindrical"
+      },
+      "vikalpa": {
+        "A": "उत्तल",
+        "B": "बाइफोकल",
+        "C": "अवतल",
+        "D": "बेलनाकार"
+      }
+    },
+    {
+      "id": "obj_80",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Why is a rainbow colourful ?",
+      "prashna": "इंद्रधनुष रंगीन क्यों होता है ?",
+      "options": {
+        "A": "Dispersion of white light by water droplets",
+        "B": "Absorption of water droplets",
+        "C": "Dispersion of white light by air",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "जल कण द्वारा श्वेत प्रकाश के वर्ण-विक्षेपण के कारण",
+        "B": "जल कण द्वारा अवशोषण के कारण",
+        "C": "वायु द्वारा श्वेत प्रकाश के वर्ण विक्षेपण के कारण",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "short_5",
       "type": "short_answer",
       "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "What is electric current ? Write its equation and unit.",
-      "prashna": "विद्युत धारा क्या है ? इसका समीकरण एवं मात्रक लिखें।"
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Explain scattering of light.",
+      "prashna": "प्रकाश का प्रकीर्णन समझाएँ।"
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "How does the eye control the amount of light entering into it ?",
+      "prashna": "नेत्र अपने अंदर आने वाले प्रकाश की मात्रा को कैसे नियंत्रित करता है ?"
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "The radius of curvature of the lens of an eye is controlled by",
+      "prashna": "आँख के लेंस की वक्रता त्रिज्या को नियंत्रित करती है",
+      "options": {
+        "A": "retina",
+        "B": "iris",
+        "C": "pupil",
+        "D": "ciliary muscles"
+      },
+      "vikalpa": {
+        "A": "दृष्टि पटल",
+        "B": "परितारिका",
+        "C": "पुतली",
+        "D": "पक्ष्माभी मांसपेशियाँ"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Why is the colour of some clouds white?",
+      "prashna": "कुछ बादलों का रंग उजला क्यों होता है ?",
+      "options": {
+        "A": "Due to reflection",
+        "B": "Due to scattering",
+        "C": "Due to absorption",
+        "D": "Due to refraction"
+      },
+      "vikalpa": {
+        "A": "परावर्तन के कारण",
+        "B": "प्रकीर्णन के कारण",
+        "C": "अवशोषण के कारण",
+        "D": "अपवर्तन के कारण"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "The amount of light entering in human eye is controlled by",
+      "prashna": "मानव की आँख में प्रवेश करने वाले प्रकाश की मात्रा को नियंत्रित किया जाता है",
+      "options": {
+        "A": "ciliary muscles",
+        "B": "pupil",
+        "C": "cornea",
+        "D": "iris"
+      },
+      "vikalpa": {
+        "A": "पक्ष्माभ पेशी द्वारा",
+        "B": "पुतली द्वारा",
+        "C": "कॉर्निया द्वारा",
+        "D": "परितारिका द्वारा"
+      }
+    },
+    {
+      "id": "obj_48",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "A simple prism is bounded by how many surfaces?",
+      "prashna": "एक साधारण प्रिज्म कितने सतहों से घिरा रहता है ?",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "vikalpa": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      }
+    },
+    {
+      "id": "obj_65",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "The far point for the normal vision is",
+      "prashna": "सामान्य नेत्र के लिए दूर बिन्दु है",
+      "options": {
+        "A": "$25\text{ mm}$",
+        "B": "$25\text{ cm}$",
+        "C": "$25\text{ m}$",
+        "D": "infinity"
+      },
+      "vikalpa": {
+        "A": "$25\text{ मिमी}$",
+        "B": "$25\text{ सेमी}$",
+        "C": "$25\text{ मी}$",
+        "D": "अनंत"
+      }
+    },
+    {
+      "id": "obj_69",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Which colour of light scatters more in atmosphere?",
+      "prashna": "वायुमंडल में प्रकाश का कौन-सा रंग (वर्ण) अधिक प्रकीर्णन करता है ?",
+      "options": {
+        "A": "Yellow",
+        "B": "Orange",
+        "C": "Red",
+        "D": "Blue"
+      },
+      "vikalpa": {
+        "A": "पीला",
+        "B": "नारंगी",
+        "C": "लाल",
+        "D": "नीला"
+      }
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "What is persistence of vision?",
+      "prashna": "दृष्टि निर्बंध क्या है ?"
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Which part of camera acts like the retina of the eye?",
+      "prashna": "कैमरे का कौन-सा भाग आँखों के रेटिना की तरह कार्य करता है ?",
+      "options": {
+        "A": "Aperture",
+        "B": "Lens",
+        "C": "Film",
+        "D": "Shutter"
+      },
+      "vikalpa": {
+        "A": "द्वारक",
+        "B": "लेंस",
+        "C": "फिल्म",
+        "D": "शटर"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "For a healthy human eye, the near point and far point are respectively",
+      "prashna": "एक स्वस्थ मानव नेत्र के लिए निकट-बिन्दु तथा दूर-बिन्दु क्रमशः होते हैं",
+      "options": {
+        "A": "$0$ and infinity",
+        "B": "$25 \text{ cm}$ and $250 \text{ cm}$",
+        "C": "$25 \text{ cm}$ and infinity",
+        "D": "$0$ and $25 \text{ cm}$"
+      },
+      "vikalpa": {
+        "A": "$0$ एवं अनंत",
+        "B": "$25 \text{ cm}$ एवं $250 \text{ cm}$",
+        "C": "$25 \text{ cm}$ एवं अनंत",
+        "D": "$0$ एवं $25 \text{ cm}$"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "To an astronaut standing on the moon, the sky appears to be",
+      "prashna": "चंद्रमा पर खड़े अंतरिक्ष यात्री को आकाश प्रतीत होता है",
+      "options": {
+        "A": "Red",
+        "B": "Blue",
+        "C": "Black",
+        "D": "White"
+      },
+      "vikalpa": {
+        "A": "लाल",
+        "B": "नीला",
+        "C": "काला",
+        "D": "उजला"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "The decreased accommodative ability of the eye causes",
+      "prashna": "नेत्र की समंजन-क्षमता कम हो जाने से उत्पन्न होता है",
+      "options": {
+        "A": "Farsightedness",
+        "B": "Presbyopia",
+        "C": "Nearsightedness",
+        "D": "Colourblindness"
+      },
+      "vikalpa": {
+        "A": "दूर-दृष्टि दोष",
+        "B": "जरा-दृष्टि दोष",
+        "C": "निकट-दृष्टि दोष",
+        "D": "वर्णांधता"
+      }
+    },
+    {
+      "id": "obj_64",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Which phenomenon exhibited by light is demonstrated in the twinkling of stars?",
+      "prashna": "प्रकाश द्वारा प्रदर्शित कौन-सी घटना तारों की टिमटिमाहट में प्रदर्शित होती है ?",
+      "options": {
+        "A": "Reflection",
+        "B": "Dispersion",
+        "C": "Scattering",
+        "D": "Refraction"
+      },
+      "vikalpa": {
+        "A": "परावर्तन",
+        "B": "वर्ण-विक्षेपण",
+        "C": "प्रकीर्णन",
+        "D": "अपवर्तन"
+      }
+    },
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Why do planets not twinkle? Explain.",
+      "prashna": "ग्रह क्यों नहीं टिमटिमाते ? इसकी व्याख्या करें।"
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "What is farsightedness?",
+      "prashna": "दूर दृष्टिदोष क्या है ?"
+    },
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "What are defects of vision? What are their types? How are the defects resolved?",
+      "prashna": "दृष्टिदोष क्या हैं ? यह कितने प्रकार के होते हैं ? इनका निवारण कैसे किया जाता है ?"
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "How many colours are there in white light ?",
+      "prashna": "श्वेत प्रकाश में कितने रंग होते हैं ?",
+      "options": {
+        "A": "1",
+        "B": "3",
+        "C": "5",
+        "D": "7"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "3",
+        "C": "5",
+        "D": "7"
+      }
+    },
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Which colour of white light bends the least after passing through a prism ?",
+      "prashna": "श्वेत प्रकाश का कौन-सा रंग (वर्ण) किसी प्रिज्म से गुजरने के पश्चात् सबसे कम झुकता है ?",
+      "options": {
+        "A": "Blue",
+        "B": "Red",
+        "C": "Violet",
+        "D": "Yellow"
+      },
+      "vikalpa": {
+        "A": "नीला",
+        "B": "लाल",
+        "C": "बैंगनी",
+        "D": "पीला"
+      }
+    },
+    {
+      "id": "obj_60",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Which of the following controls the size of the pupil ?",
+      "prashna": "निम्न में से कौन पुतली की साइज को नियंत्रित करता है ?",
+      "options": {
+        "A": "Eye lens",
+        "B": "Retina",
+        "C": "Iris",
+        "D": "Ciliary muscles"
+      },
+      "vikalpa": {
+        "A": "नेत्र लेंस",
+        "B": "रेटिना",
+        "C": "परितारिका",
+        "D": "पक्ष्माभी पेशियां"
+      }
+    },
+    {
+      "id": "obj_61",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Which lens is used in nearsightedness ?",
+      "prashna": "निकट-दृष्टिदोष में किस लेंस का प्रयोग होता है ?",
+      "options": {
+        "A": "Convex lens",
+        "B": "Cylindrical lens",
+        "C": "Concave lens",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "उत्तल लेंस",
+        "B": "बेलनाकार लेंस",
+        "C": "अवतल लेंस",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Write the main differences between stars and planets.",
+      "prashna": "तारे एवं ग्रहों में प्रमुख अंतर लिखें।"
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_75",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "The distance between the eye lens and the retina is approximately",
+      "prashna": "नेत्र लेंस से रेटिना की दूरी लगभग है",
+      "options": {
+        "A": "25 cm",
+        "B": "1 cm",
+        "C": "2.5 cm",
+        "D": "5 cm"
+      },
+      "vikalpa": {
+        "A": "25 cm",
+        "B": "1 cm",
+        "C": "2.5 cm",
+        "D": "5 cm"
+      }
+    },
+    {
+      "id": "obj_76",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Which type of lens is found in the human eye ?",
+      "prashna": "मानव नेत्र में किस प्रकार का लेंस पाया जाता है ?",
+      "options": {
+        "A": "Convex",
+        "B": "Concave",
+        "C": "Cylindrical",
+        "D": "Bifocal"
+      },
+      "vikalpa": {
+        "A": "उत्तल",
+        "B": "अवतल",
+        "C": "वलयाकार",
+        "D": "बाइफोकल"
+      }
+    },
+    {
+      "id": "obj_77",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Which of the following lenses is used to correct near sightedness ?",
+      "prashna": "निम्नलिखित में से कौन-सा लेंस निकट-दृष्टि दोष को ठीक करने के लिए उपयोग किया जाता है ?",
+      "options": {
+        "A": "Concave lens",
+        "B": "Convex lens",
+        "C": "Planoconvex lens",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "अवतल लेंस",
+        "B": "उत्तल लेंस",
+        "C": "समोत्तल लेंस",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_78",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Which colour of light is scattered least in the atmosphere ?",
+      "prashna": "वायुमंडल में प्रकाश के किस वर्ण का प्रकीर्णन सबसे कम होता है ?",
+      "options": {
+        "A": "Red",
+        "B": "Blue",
+        "C": "Yellow",
+        "D": "Green"
+      },
+      "vikalpa": {
+        "A": "लाल",
+        "B": "नीला",
+        "C": "पीला",
+        "D": "हरा"
+      }
+    },
+    {
+      "id": "obj_79",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Which colour deviates minimum in a glass prism ?",
+      "prashna": "काँच के प्रिज्म में किस रंग का विचलन न्यूनतम होता है ?",
+      "options": {
+        "A": "Red",
+        "B": "Yellow",
+        "C": "Blue",
+        "D": "Violet"
+      },
+      "vikalpa": {
+        "A": "लाल",
+        "B": "पीला",
+        "C": "नीला",
+        "D": "बैंगनी"
+      }
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Why is the railway signal light always red in colour ?",
+      "prashna": "रेलवे के सिग्नल का प्रकाश लाल रंग का ही क्यों होता है ?"
+    },
+    {
+      "id": "obj_51",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Which colour of ray in the spectrum has more inclination ?",
+      "prashna": "स्पेक्ट्रम में किस रंग की किरण का झुकाव अधिक होता है ?",
+      "options": {
+        "A": "Green",
+        "B": "Red",
+        "C": "Violet",
+        "D": "Yellow"
+      },
+      "vikalpa": {
+        "A": "हरा",
+        "B": "लाल",
+        "C": "बैँगनी",
+        "D": "पीला"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "The coloured part of the eye is",
+      "prashna": "आँख का रंगीन भाग होता है",
+      "options": {
+        "A": "Lens",
+        "B": "Iris",
+        "C": "Retina",
+        "D": "Cornea"
+      },
+      "vikalpa": {
+        "A": "लेंस",
+        "B": "आइरिस",
+        "C": "रेटिना",
+        "D": "कॉर्निया"
+      }
+    },
+    {
+      "id": "obj_53",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "The near point of a normal eye is",
+      "prashna": "सामान्य नेत्र की निकट बिन्दु है",
+      "options": {
+        "A": "infinity",
+        "B": "50 cm",
+        "C": "100 cm",
+        "D": "25 cm"
+      },
+      "vikalpa": {
+        "A": "अनंत",
+        "B": "50 सेमी",
+        "C": "100 सेमी",
+        "D": "25 सेमी"
+      }
+    },
+    {
+      "id": "obj_54",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "The defect in which a person cannot see distant objects clearly is",
+      "prashna": "जिस दोष में व्यक्ति को दूर की वस्तुएँ स्पष्ट नहीं दिखतीं वह है",
+      "options": {
+        "A": "Hypermetropia",
+        "B": "Myopia",
+        "C": "Presbyopia",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "दूर दृष्टि दोष",
+        "B": "निकट दृष्टि दोष",
+        "C": "जरा-दूरदर्शिता",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_55",
+      "type": "objective",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Myopia can be corrected by",
+      "prashna": "निकट दृष्टि दोष सुधारा जाता है",
+      "options": {
+        "A": "Convex lens",
+        "B": "Concave lens",
+        "C": "Cylindrical lens",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "उत्तल लेंस द्वारा",
+        "B": "अवतल लेंस द्वारा",
+        "C": "बेलनाकार लेंस द्वारा",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "What is defect of vision ? How many types of it are there ?",
+      "prashna": "दृष्टि दोष क्या है ? यह कितने प्रकार का होता है ?"
     }
   ]
 }

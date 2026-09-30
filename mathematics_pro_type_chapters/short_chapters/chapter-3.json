@@ -226,5 +226,55 @@
       "question": "The sum of two numbers is 50 and one number is $\frac{7}, {3}$ times of the other; then find the numbers.",
       "prashna": "दो संख्याओं का योगफल 50 है एवं उसमें से एक संख्या दूसरी की $\frac{7}, {3}$ गुनी है; तो संख्याएँ ज्ञात करें।"
     }
+  ],
+  "2026": [
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Find the values of x and y of the pair of linear equations 3x + 2y = 12, 5x - 2y = 4 by cross-multiplication method.",
+      "prashna": "रैखिक समीकरण युग्म 3x + 2y = 12, 5x - 2y = 4 का वज्रगुणन विधि से x तथा y का मान ज्ञात करें।"
+    },
+    {
+      "id": "short_16",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Find the value of k for which the pair of linear equations 3x + 5y = 0 and kx + 10y = 0 has a unique solution.",
+      "prashna": "k का मान ज्ञात करें जिसके लिए रैखिक समीकरण युग्म 3x + 5y = 0 तथा kx + 10y = 0 का एक अद्वितीय हल है।"
+    },
+    {
+      "id": "short_17",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "If the sum and difference of two numbers are 137 and 43 respectively then find the numbers.",
+      "prashna": "यदि दो संख्याओं का योगफल एवं अन्तर क्रमशः 137 तथा 43 हैं तो संख्याओं को ज्ञात करें।"
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "The sum of the digits of a two-digit number is 12 and the difference between the number and the number formed by reversing the digits is 18. Write the equation for these statements.",
+      "prashna": "दो अंकों की एक संख्या के अंकों का योग 12 है। उस संख्या तथा उसके अंकों का स्थान परस्पर बदलने से प्राप्त संख्या का अंतर 18 है। इन कथनों के समीकरण लिखें।"
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "For what value of p does the following pair of linear equations have a unique solution ?\n4x + py + 8 = 0 and 2x + 2y + 2 = 0",
+      "prashna": "p के किस मान के लिए निम्न रैखिक समीकरणों के युग्म का एक अद्वितीय हल है ?\n4x + py + 8 = 0 एवं 2x + 2y + 2 = 0"
+    },
+    {
+      "id": "short_21",
+      "type": "short_answer",
+      "chapter": "3",
+      "chapter_name": "Pair of Linear Equations in Two Variables",
+      "question": "Solve the pair of equations 2x + y = 7 and 4x - 3y + 1 = 0 by the method of substitution or elimination.",
+      "prashna": "समीकरण युग्म 2x + y = 7 तथा 4x - 3y + 1 = 0 को प्रतिस्थापन या विलोपन विधि से हल करें।"
+    }
   ]
 }

@@ -1,136 +1,1018 @@
 {
   "2014": [
     {
-      "id": "short_1",
-      "type": "short_answer",
+      "id": "long_answer_1_1",
+      "type": "long_answer",
+      "section": "Panorama",
       "chapter": "2",
-      "chapter_name": "Nelson Mandela: Long Walk to Freedom",
-      "question": "Answer any two of the following in about 30 words:",
-      "prashna": "निम्नलिखित में से किन्हीं दो के उत्तर लगभग 30 शब्दों में दें:",
-      "sub_questions": {
-        "1": "Write few sentences about the elderly corn merchant.",
-        "2": "Why did Mr. Johnson think that the narrator did not follow the principle of walking?",
-        "3": "How did Humayun Kabir define civilization?",
-        "4": "Do you think that language is crucial to a writer? Give your opinion in short."
-      },
-      "anuprashna": {
-        "1": "बुजुर्ग अनाज व्यापारी के बारे में कुछ वाक्य लिखिए।",
-        "2": "मिस्टर जॉनसन को ऐसा क्यों लगा कि कथावाचक ने पैदल चलने के सिद्धांत का पालन नहीं किया?",
-        "3": "हुमायूँ कबीर ने सभ्यता को कैसे परिभाषित किया?",
-        "4": "क्या आपको लगता है कि एक लेखक के लिए भाषा अत्यंत महत्वपूर्ण है? संक्षेप में अपनी राय दें।"
-      }
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "\"But any how on Saturday when I collect, I put in a good word an ecology. This is the narrator's way of preserving ecology. How are you contributing to ecological preservation in your surroundings?\"",
+      "prashna": "\"लेकिन किसी तरह शनिवार को जब मैं (चंदा) इकट्ठा करता हूँ, तो मैं पारिस्थितिकी (ecology) के बारे में अच्छी बातें कहता हूँ। यह कथावाचक का पारिस्थितिकी को संरक्षित करने का तरीका है। आप अपने परिवेश में पारिस्थितिक संरक्षण में कैसे योगदान दे रहे हैं?\""
     }
   ],
-  "2017": [
+  "2016": [
     {
       "id": "long_1",
       "type": "long_answer",
+      "section": "Panorama",
       "chapter": "2",
-      "chapter_name": "Nelson Mandela: Long Walk to Freedom",
-      "question": "Answer any one of the following in about 80 words: (i) What did the narrator do with the wounded squirrel? (ii) Peace, freedom and democracy are essential for human being. Do you agree? Give your own opinion. (iii) Enumerate the traits of the old woman.",
-      "prashna": "निम्नलिखित में से किसी एक प्रश्न का लगभग 80 शब्दों में उत्तर दीजिए: (i) लेखक ने घायल गिलहरी के साथ क्या किया? (ii) शांति, स्वतंत्रता और लोकतंत्र मानव के लिए आवश्यक हैं। क्या आप सहमत हैं? अपना मत दीजिए। (iii) वृद्ध महिला के गुणों का वर्णन कीजिए।"
-    },
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "Answer any one of the following in about 80 words: i) Did the narrator enjoy talking about Ecology? ii) Mention one feature which Indian Films need. iii) What form of Electricity did the narrator use?",
+      "prashna": "निम्नलिखित में से किसी एक प्रश्न का लगभग 80 शब्दों में उत्तर दें: i) क्या वर्णनकर्ता को पारिस्थितिकी के बारे में बात करना पसंद था? ii) भारतीय फिल्मों को क्या एक विशेषता की आवश्यकता है? iii) वर्णनकर्ता ने विद्युत का कौन सा रूप इस्तेमाल किया?"
+    }
+  ],
+  "2018": [
     {
-      "id": "long_answer_1",
-      "type": "long_answer",
+      "id": "obj_3",
+      "type": "objective",
+      "section": "Panorama",
       "chapter": "2",
-      "chapter_name": "Nelson Mandela: Long Walk to Freedom",
-      "question": "Answer any one of the following in about 80 words:",
-      "prashna": "लगभग 80 शब्दों में निम्नलिखित में से किसी एक का उत्तर दें:",
-      "sub_questions": {
-        "1": "What did the narrator do with the wounded squirrel?",
-        "2": "Peace, freedom and democracy and essential for human being. Do you agree?",
-        "3": "Enumerate the traits of the old woman."
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "Jim asked Mr. Greene to keep the old newspapers for the school-going children who............ them?",
+      "prashna": "जिम ने मिस्टर ग्रीन से पुराने अखबारों को स्कूल जाने वाले बच्चों के लिए रखने के लिए कहा, जो उन्हें ......... करते थे?",
+      "options": {
+        "A": "burnt",
+        "B": "bought",
+        "C": "read",
+        "D": "collected"
       },
-      "anuprashna": {
-        "1": "कथावाचक ने घायल गिलहरी के साथ क्या किया?",
-        "2": "शांति, स्वतंत्रता और लोकतंत्र मानव जाति के लिए आवश्यक हैं। क्या आप सहमत हैं?",
-        "3": "वृद्ध महिला के गुणों का वर्णन करें।"
+      "vikalpa": {
+        "A": "जलाते थे",
+        "B": "खरीदते थे",
+        "C": "पढ़ते थे",
+        "D": "इकट्ठा करते थे"
       }
     },
     {
-      "id": "short_answer_1",
+      "id": "obj_4",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "Jim told Mr. Johnson that it would reduce........... and save ecology if he did not use his car for travelling to short distances",
+      "prashna": "जिम ने मिस्टर जॉनसन से कहा कि यदि वह कम दूरी की यात्रा के लिए अपनी कार का उपयोग नहीं करते हैं तो इससे ........... कम होगा और पारिस्थितिकी बचेगी।",
+      "options": {
+        "A": "petrol",
+        "B": "pollution",
+        "C": "weight",
+        "D": "diesel"
+      },
+      "vikalpa": {
+        "A": "पेट्रोल",
+        "B": "प्रदूषण",
+        "C": "वजन",
+        "D": "डीजल"
+      }
+    },
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "In \"Me and the Ecology Bit\", the narrator talks about how he advises everybody what they should do to protect the ............",
+      "prashna": "\"Me and the Ecology Bit\" में, वर्णनकर्ता बताते हैं कि वह हर किसी को ............ की रक्षा के लिए क्या करना चाहिए, यह सलाह देते हैं।",
+      "options": {
+        "A": "elderly",
+        "B": "ecology",
+        "C": "children",
+        "D": "pedestrians"
+      },
+      "vikalpa": {
+        "A": "बुजुर्गों",
+        "B": "पर्यावरण",
+        "C": "बच्चों",
+        "D": "पदयात्रियों"
+      }
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "The narrator told Mr. Williams not to burn leaves as it is ............ for the air and ecology.",
+      "prashna": "वर्णनकर्ता ने श्री विलियम्स को पत्तियाँ न जलाने के लिए कहा क्योंकि यह हवा और पर्यावरण के लिए ............ है।",
+      "options": {
+        "A": "excellent",
+        "B": "bad",
+        "C": "good",
+        "D": "helpful"
+      },
+      "vikalpa": {
+        "A": "उत्कृष्ट",
+        "B": "बुरा",
+        "C": "अच्छा",
+        "D": "सहायक"
+      }
+    },
+    {
+      "id": "short_2",
       "type": "short_answer",
+      "section": "Panorama",
       "chapter": "2",
-      "chapter_name": "Nelson Mandela: Long Walk to Freedom",
-      "question": "Answer any two of the following questions in about 30 words:",
-      "prashna": "लगभग 30 शब्दों में निम्नलिखित में से किन्हीं दो प्रश्नों के उत्तर दें:",
-      "sub_questions": {
-        "1": "In which situation does the writer find himself in the cinema?",
-        "2": "What does the narrator do on Saturday and Sunday?",
-        "3": "How would Gillu inform that he was hungry?",
-        "4": "Why did Alexander Aris accepted the Novel Peace Prize on behalf of his mother?"
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "What advice does Jim give to his mother? What does she reply?",
+      "prashna": "जिम अपनी माँ को क्या सलाह देता है? वह क्या जवाब देती है?"
+    }
+  ],
+  "2019": [
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "In 'Me and the Ecology Bit', the post office was......... from Mr. Johnson's house.",
+      "prashna": "'मी एंड द इकोलॉजी बिट' में, पोस्ट ऑफिस मिस्टर जॉनसन के घर से ......... था।",
+      "options": {
+        "A": "one block away",
+        "B": "three blocks away",
+        "C": "two blocks away",
+        "D": "four blocks away"
       },
-      "anuprashna": {
-        "1": "सिनेमा में लेखक खुद को किस स्थिति में पाता है?",
-        "2": "कथावाचक शनिवार और रविवार को क्या करता है?",
-        "3": "गिल्लू कैसे सूचित करता था कि वह भूखा है?",
-        "4": "अलेक्जेंडर एरिस ने अपनी माँ की ओर से नोबेल शांति पुरस्कार क्यों स्वीकार किया?"
+      "vikalpa": {
+        "A": "एक ब्लॉक दूर",
+        "B": "तीन ब्लॉक दूर",
+        "C": "दो ब्लॉक दूर",
+        "D": "चार ब्लॉक दूर"
       }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "'Me and the Ecology Bit' is all about -",
+      "prashna": "'मी एंड द इकोलॉजी बिट' किसके बारे में है -",
+      "options": {
+        "A": "Preserving water resources",
+        "B": "Preserving environment and ecology",
+        "C": "Preserving forest resources",
+        "D": "Preserving human resources"
+      },
+      "vikalpa": {
+        "A": "जल संसाधनों का संरक्षण",
+        "B": "पर्यावरण और पारिस्थितिकी का संरक्षण",
+        "C": "वन संसाधनों का संरक्षण",
+        "D": "मानव संसाधनों का संरक्षण"
+      }
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "In 'Me and the Ecology Bit', the post office was......... from Mr. Johnson’s house.",
+      "prashna": "'मी एंड द इकोलॉजी बिट' में, पोस्ट ऑफिस श्री जॉनसन के घर से ......... था।",
+      "options": {
+        "A": "one block away",
+        "B": "three blocks away",
+        "C": "two blocks away",
+        "D": "four blocks away"
+      },
+      "vikalpa": {
+        "A": "एक ब्लॉक दूर",
+        "B": "तीन ब्लॉक दूर",
+        "C": "दो ब्लॉक दूर",
+        "D": "चार ब्लॉक दूर"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "'Me and the Ecology Bit' is all about -",
+      "prashna": "'मी एंड द इकोलॉजी बिट' किसके बारे में है? -",
+      "options": {
+        "A": "Preserving water resources",
+        "B": "Preserving environment and ecology",
+        "C": "Preserving forest resources",
+        "D": "Preserving human resources"
+      },
+      "vikalpa": {
+        "A": "जल संसाधनों का संरक्षण",
+        "B": "पर्यावरण और पारिस्थितिकी का संरक्षण",
+        "C": "वन संसाधनों का संरक्षण",
+        "D": "मानव संसाधनों का संरक्षण"
+      }
+    }
+  ],
+  "2020": [
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "According to Jim, who uses electric appliances the most?",
+      "prashna": "जिम के अनुसार, बिजली के उपकरणों का सबसे अधिक उपयोग कौन करता है?",
+      "options": {
+        "A": "Women",
+        "B": "Men",
+        "C": "Young girls",
+        "D": "Old men"
+      },
+      "vikalpa": {
+        "A": "महिलाएं",
+        "B": "पुरुष",
+        "C": "युवा लड़कियां",
+        "D": "बूढ़े आदमी"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "According to Jim, nobody wants to do anything about",
+      "prashna": "जिम के अनुसार, कोई भी किसके बारे में कुछ नहीं करना चाहता?",
+      "options": {
+        "A": "plants",
+        "B": "security",
+        "C": "ecology",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "पौधों",
+        "B": "सुरक्षा",
+        "C": "पारिस्थितिकी (ecology)",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "\"Nobody's willing to do anything about ecology\" is said by",
+      "prashna": "\"पारिस्थितिकी के बारे में कोई कुछ भी करने को तैयार नहीं है\" किसके द्वारा कहा गया है?",
+      "options": {
+        "A": "Jim",
+        "B": "Jack",
+        "C": "Michael",
+        "D": "Jill"
+      },
+      "vikalpa": {
+        "A": "जिम",
+        "B": "जैक",
+        "C": "माइकल",
+        "D": "जिल"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "Who has written 'Me and the Ecology Bit'?",
+      "prashna": "'मी एंड द इकोलॉजी बिट' किसने लिखी है?",
+      "options": {
+        "A": "Jon Lexau",
+        "B": "Leo Tolstoy",
+        "C": "Toni Morrison",
+        "D": "R. C. Hutchinson"
+      },
+      "vikalpa": {
+        "A": "जॉन लेक्साउ",
+        "B": "लेओ टॉलस्टॉय",
+        "C": "टोनी मॉरिसन",
+        "D": "आर. सी. हचिन्सन"
+      }
+    },
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "Jim found Mr. William burning",
+      "prashna": "जिम ने श्री विलियम को जलाते हुए देखा",
+      "options": {
+        "A": "books",
+        "B": "plants",
+        "C": "leaves",
+        "D": "plastic"
+      },
+      "vikalpa": {
+        "A": "किताबें",
+        "B": "पौधे",
+        "C": "पत्ते",
+        "D": "प्लास्टिक"
+      }
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "Which animal messes up Ms. Greene's yard?",
+      "prashna": "कौन सा जानवर श्रीमती ग्रीन के आँगन को गंदा कर देता है?"
     }
   ],
   "2021": [
     {
-      "id": "passage_2_2",
-      "type": "passage",
+      "id": "obj_20",
+      "type": "objective",
+      "section": "Panorama",
       "chapter": "2",
-      "chapter_name": "Nelson Mandela: Long Walk to Freedom",
-      "context": "We must do all we can to prevent conflicts and civil war. Most conflicts happen in poor countries, especially which are badly governed or where power and health are not distributed fairly between tribal and religious groups. So the best way to check fighting is to make a political arrangement in which all groups have their representative. The need is to ensure human rights and economic development of all.",
-      "question": "OR: Read the following passage and answer the questions that follow:",
-      "prashna": "अथवा: निम्नलिखित गद्यांश को पढ़ें और उसके बाद आने वाले प्रश्नों के उत्तर दें:",
-      "sub_questions": {
-        "i": "Where do conflicts mostly happen?",
-        "ii": "What should be done to check fighting?",
-        "iii": "What should be ensured for all?",
-        "iv": "Make sentences with 'Representative'. 'Economic'?"
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "Jim asked Mrs. Greene to save the old newspapers for the school………",
+      "prashna": "जिम ने श्रीमती ग्रीन से पुराने अखबारों को स्कूल ............ के लिए बचाने के लिए कहा।",
+      "options": {
+        "A": "office",
+        "B": "pickup",
+        "C": "children",
+        "D": "library"
       },
-      "anuprashna": {
-        "i": "संघर्ष अधिकतर कहाँ होते हैं?",
-        "ii": "लड़ाई को रोकने के लिए क्या किया जाना चाहिए?",
-        "iii": "सभी के लिए क्या सुनिश्चित किया जाना चाहिए?",
-        "iv": "'Representative' और 'Economic' शब्दों से वाक्य बनाएं।"
+      "vikalpa": {
+        "A": "कार्यालय",
+        "B": "पिकअप",
+        "C": "बच्चे",
+        "D": "पुस्तकालय"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "Mr. Johnson was asked to use his car less in order to save the",
+      "prashna": "मिस्टर जॉनसन से ........... बचाने के लिए अपनी कार का कम उपयोग करने के लिए कहा गया था।",
+      "options": {
+        "A": "environment",
+        "B": "diesel",
+        "C": "weight",
+        "D": "petrol"
+      },
+      "vikalpa": {
+        "A": "पर्यावरण",
+        "B": "डीजल",
+        "C": "वजन",
+        "D": "पेट्रोल"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "Preaching about ecology is easy but it is difficult to abide by the rules of",
+      "prashna": "पारिस्थितिकी के बारे में उपदेश देना आसान है लेकिन ............ के नियमों का पालन करना कठिन है।",
+      "options": {
+        "A": "preservation",
+        "B": "water wastage",
+        "C": "population growth",
+        "D": "noise pollution"
+      },
+      "vikalpa": {
+        "A": "संरक्षण",
+        "B": "पानी की बर्बादी",
+        "C": "जनसंख्या वृद्धि",
+        "D": "ध्वनि प्रदूषण"
+      }
+    },
+    {
+      "id": "obj_43",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "Jim asks Ms. Greene to save...........so that they can be made into paper.",
+      "prashna": "जिम सुश्री ग्रीन से ............ बचाने के लिए कहता है ताकि उनसे कागज बनाया जा सके।",
+      "options": {
+        "A": "leaves",
+        "B": "garbage",
+        "C": "newspapers",
+        "D": "fruit-skins"
+      },
+      "vikalpa": {
+        "A": "पत्तियां",
+        "B": "कचरा",
+        "C": "अखबार",
+        "D": "फलों के छिलके"
+      }
+    },
+    {
+      "id": "obj_60",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "Mr. Johnson tells Jim that driving his motorbike causes…………pollution.",
+      "prashna": "मिस्टर जॉनसन जिम को बताते हैं कि उनकी मोटरबाइक चलाने से ............ प्रदूषण होता है।",
+      "options": {
+        "A": "noise",
+        "B": "soil",
+        "C": "water",
+        "D": "air"
+      },
+      "vikalpa": {
+        "A": "ध्वनि",
+        "B": "मिट्टी",
+        "C": "पानी",
+        "D": "हवा"
+      }
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "How do modern appliances affect ecology?",
+      "prashna": "आधुनिक उपकरण पारिस्थितिकी को कैसे प्रभावित करते हैं?"
+    },
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "The narrator in 'Me and the Ecology Bit' told Mr. Williams not to burn leaves as it is…………..for the air and ecology.",
+      "prashna": "'मी एंड द इकोलॉजी बिट' के कथावाचक ने मिस्टर विलियम्स को पत्तियां न जलाने के लिए कहा क्योंकि यह हवा और पारिस्थितिकी के लिए …………… है।",
+      "options": {
+        "A": "excellent",
+        "B": "bad",
+        "C": "good",
+        "D": "helpful"
+      },
+      "vikalpa": {
+        "A": "उत्कृष्ट",
+        "B": "बुरा",
+        "C": "अच्छा",
+        "D": "सहायक"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "The post office in 'Me and the Ecology Bit' is only…………blocks from Mr. Johnson's house.",
+      "prashna": "'मी एंड द इकोलॉजी बिट' में डाकघर मिस्टर जॉनसन के घर से केवल ………….. ब्लॉक दूर है।",
+      "options": {
+        "A": "three",
+        "B": "two",
+        "C": "four",
+        "D": "one"
+      },
+      "vikalpa": {
+        "A": "तीन",
+        "B": "दो",
+        "C": "चार",
+        "D": "एक"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "Ms. Greene goes away on",
+      "options": {
+        "A": "Thursdays and Fridays",
+        "B": "Wednesdays and Thursdays",
+        "C": "Saturdays and Sundays",
+        "D": "Mondays and Tuesdays"
+      },
+      "prashna": "मिस. ग्रीन चली जाती हैं",
+      "vikalpa": {
+        "A": "गुरुवार और शुक्रवार",
+        "B": "बुधवार और गुरुवार",
+        "C": "शनिवार और रविवार",
+        "D": "सोमवार और मंगलवार"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "Mr. William was burning",
+      "options": {
+        "A": "plastic",
+        "B": "paper",
+        "C": "leaves",
+        "D": "clothes"
+      },
+      "prashna": "श्री विलियम ... जल रहे थे।",
+      "vikalpa": {
+        "A": "प्लास्टिक",
+        "B": "कागज",
+        "C": "पत्ते",
+        "D": "कपड़े"
+      }
+    },
+    {
+      "id": "short_3",
+      "type": "short_answer",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "Why does Jim ask Ms. Greene to save paper and aluminium cans?",
+      "prashna": "जिम मिस. ग्रीन से कागज और एल्युमीनियम के डिब्बे बचाने के लिए क्यों कहता है?"
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "Jim advises ............... to walk to the post office.",
+      "prashna": "जिम ............... को डाकघर तक पैदल चलने की सलाह देता है।",
+      "options": {
+        "A": "Ms. Greene",
+        "B": "Ms. Smith",
+        "C": "Mr. William",
+        "D": "Mr. Roger"
+      },
+      "vikalpa": {
+        "A": "सुश्री ग्रीन",
+        "B": "सुश्री स्मिथ",
+        "C": "श्रीमान विलियम",
+        "D": "श्रीमान रोजर"
+      }
+    },
+    {
+      "id": "obj_46",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "The author advises Ms. Greene to save",
+      "prashna": "लेखक सुश्री ग्रीन को क्या बचाने की सलाह देते हैं?",
+      "options": {
+        "A": "steel utensils",
+        "B": "dusters",
+        "C": "cups",
+        "D": "aluminium cans"
+      },
+      "vikalpa": {
+        "A": "स्टील के बर्तन",
+        "B": "झाड़न",
+        "C": "कप",
+        "D": "एल्युमीनियम के डिब्बे"
+      }
+    },
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "Who makes a run for the car?",
+      "prashna": "कार के लिए कौन दौड़ता है?",
+      "options": {
+        "A": "Jim",
+        "B": "Ms. Greene",
+        "C": "Mr. Johnson",
+        "D": "Mr. William"
+      },
+      "vikalpa": {
+        "A": "जिम",
+        "B": "सुश्री ग्रीन",
+        "C": "मिस्टर जॉनसन",
+        "D": "मिस्टर विलियम"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "Burning the leaves is not good for the……………",
+      "prashna": "पत्तियों को जलाना .............. के लिए अच्छा नहीं है।",
+      "options": {
+        "A": "ecology",
+        "B": "school",
+        "C": "home",
+        "D": "garden"
+      },
+      "vikalpa": {
+        "A": "पारिस्थितिकी",
+        "B": "स्कूल",
+        "C": "घर",
+        "D": "बगीचा"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "It is hard to get people to work for……………..",
+      "prashna": "लोगों को .............. के लिए काम पर लगाना मुश्किल है।",
+      "options": {
+        "A": "school",
+        "B": "play",
+        "C": "ecology",
+        "D": "money"
+      },
+      "vikalpa": {
+        "A": "स्कूल",
+        "B": "खेल",
+        "C": "पारिस्थितिकी",
+        "D": "पैसा"
+      }
+    },
+    {
+      "id": "obj_49",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "Jim has a…………….route.",
+      "prashna": "जिम का एक .............. मार्ग है।",
+      "options": {
+        "A": "variable",
+        "B": "bus",
+        "C": "paper",
+        "D": "school"
+      },
+      "vikalpa": {
+        "A": "परिवर्तनशील",
+        "B": "बस",
+        "C": "कागज",
+        "D": "स्कूल"
       }
     }
   ],
   "2024": [
     {
-      "id": "obj_9",
+      "id": "obj_11",
       "type": "objective",
+      "section": "Panorama",
       "chapter": "2",
-      "chapter_name": "Nelson Mandela: Long Walk to Freedom",
-      "question": "The old woman is never ashamed of being the daughter of black ... slaves.",
-      "prashna": "बूढ़ी महिला कभी काले ___ गुलामों की बेटी होने पर शर्मिंदा नहीं होती।",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "Joan Lexau is the writer of",
+      "prashna": "जोआन लेक्साउ ___ के लेखक हैं।",
       "options": {
-        "A": "American",
-        "B": "British",
-        "C": "African",
-        "D": "Brahmin"
+        "A": "Me and the Ecology Bit",
+        "B": "The Pace for Living",
+        "C": "Once Upon a Time",
+        "D": "Acceptance Speech"
       },
       "vikalpa": {
-        "A": "अमेरिकी",
-        "B": "ब्रिटिश",
-        "C": "अफ्रीकी",
-        "D": "ब्राह्मण"
+        "A": "मैं और पारिस्थितिकी भाग",
+        "B": "जीवन की गति",
+        "C": "एक समय था",
+        "D": "स्वीकार भाषण"
       }
     },
     {
-      "id": "passage_1_alt",
-      "type": "passage",
+      "id": "obj_46",
+      "type": "objective",
+      "section": "Panorama",
       "chapter": "2",
-      "chapter_name": "Nelson Mandela: Long Walk to Freedom",
-      "context": "The Civil Rights Movement was a social and political movement that took place in the United States in the 1950s and 1960s. The movement sought to end racial segregation and discrimination against African Americans and to achieve equal rights and opportunities for all people. The Civil Rights Movement was led by prominent figures such as Martin Luther King, Jr., Rose Parks, and Malcolm X. It involved protests, boycotts and civil disobedience. The movement was successful in achieving many important victories, including the Civil Rights Act of 1964 and the Voting Rights Act of 1965, which ended segregation and ensured voting rights for African Americans.",
-      "prashna": "नागरिक अधिकार आंदोलन 1950 और 1960 के दशक में संयुक्त राज्य अमेरिका में हुआ एक सामाजिक और राजनीतिक आंदोलन था। इस आंदोलन का उद्देश्य अफ्रीकी अमेरिकियों के खिलाफ नस्ली भेदभाव और भेदभाव को समाप्त करना और सभी लोगों के लिए समान अधिकार और अवसर प्राप्त करना था। नागरिक अधिकार आंदोलन के प्रमुख नेता मार्टिन लूथर किंग जूनियर, रोजा पार्क्स और माल्कम एक्स थे। इसमें प्रदर्शन, बहिष्कार और सिविल अवज्ञा शामिल थी। इस आंदोलन ने कई महत्वपूर्ण जीत हासिल की, जिसमें 1964 का नागरिक अधिकार अधिनियम और 1965 का मताधिकार अधिनियम शामिल हैं, जिन्होंने भेदभाव को समाप्त किया और अफ्रीकी अमेरिकियों के लिए मताधिकार सुनिश्चित किया।",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "Instead of driving a car, Jim advises Mr. Johnson to ... to the post-office.",
+      "prashna": "कार चलाने के बजाय, जिम मिस्टर जॉनसन को डाकघर तक ___ जाने की सलाह देते हैं।",
+      "options": {
+        "A": "jog",
+        "B": "walk",
+        "C": "run",
+        "D": "drive"
+      },
+      "vikalpa": {
+        "A": "जॉग",
+        "B": "चलकर",
+        "C": "दौड़कर",
+        "D": "गाड़ी चलाकर"
+      }
+    },
+    {
+      "id": "obj_56",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "Jim's dog had dug up Ms. Greene's",
+      "prashna": "जिम के कुत्ते ने मिस ग्रीन के ___ को खोद दिया था।",
+      "options": {
+        "A": "courtyard",
+        "B": "backyard",
+        "C": "garden",
+        "D": "field"
+      },
+      "vikalpa": {
+        "A": "आंगन",
+        "B": "पिछवाड़ा",
+        "C": "बाग",
+        "D": "खेत"
+      }
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "What form of electricity does Jim use?",
+      "prashna": "जिम किस प्रकार की बिजली का उपयोग करता है?"
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "Jim was very angry with .................... for burning leaves.",
+      "prashna": "जिम .................... पर पत्तियों को जलाने के लिए बहुत गुस्सा था।",
+      "options": {
+        "A": "Mr. William",
+        "B": "Ms. Greene",
+        "C": "Mr. Johnson",
+        "D": "Mrs. Smith"
+      },
+      "vikalpa": {
+        "A": "मिस्टर विलियम",
+        "B": "मिसेज ग्रीन",
+        "C": "मिस्टर जॉनसन",
+        "D": "मिसेज स्मिथ"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "Jim wanted everybody to contribute a little of their time to save our...",
+      "prashna": "जिम चाहता था कि हर कोई हमारे ... को बचाने के लिए अपने समय का थोड़ा योगदान दे।",
+      "options": {
+        "A": "houses",
+        "B": "plants",
+        "C": "environment",
+        "D": "education system"
+      },
+      "vikalpa": {
+        "A": "घरों",
+        "B": "पौधों",
+        "C": "पर्यावरण",
+        "D": "शिक्षा प्रणाली"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "Burning of leaves is bad for _____.",
+      "prashna": "पत्तियों का जलना _____ के लिए बुरा है।",
+      "options": {
+        "A": "breath and air",
+        "B": "men and society",
+        "C": "nature and society",
+        "D": "air and environment"
+      },
+      "vikalpa": {
+        "A": "साँस और हवा",
+        "B": "मनुष्य और समाज",
+        "C": "प्रकृति और समाज",
+        "D": "हवा और पर्यावरण"
+      }
+    },
+    {
+      "id": "passage_2_1",
+      "type": "passage",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "context": "Garbage is a great environmental hazard. It comes from various sources - used paper, tiffin packings, plastic bags, ice-cream wrappers, bottle caps, fallen leaves from trees and many more. Garbage makes the premises ugly, unkempt and breeds diseases. A lot of trash that is thrown away contain material that can be recycled and reused such as paper, metals and glass which can be sent to the nearest recycling centre or disposed of to the junk dealer. It also contains organic matter such as leaves which can enrich soil fertility. A compost pit can be made at a convenient location where the refuse can be placed with layers of soil and an occasional sprinkling of water. This would help decomposition to make valuable fertilizer. This would also prevent pollution that is usually caused by burning such organic waste.",
+      "question": "Read the following passage carefully and answer the questions that follow:",
+      "prashna": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और नीचे दिए गए प्रश्नों के उत्तर दें:",
       "sub_questions": {
-        "1": "What was the Civil Rights Movement?",
-        "2": "When did the Civil Rights Movement take place?",
-        "3": "What were the goals of the Civil Rights Movement?",
-        "4": "What were some of the important victories of the Civil Rights Movement?"
+        "1": "What happens to the disposed material at the recycling centre?",
+        "2": "Where does garbage come from?",
+        "3": "Where should a compost pit be made?",
+        "4": "How would pollution be prevented?"
       },
       "anuprashna": {
-        "1": "नागरिक अधिकार आंदोलन क्या था?",
-        "2": "नागरिक अधिकार आंदोलन कब हुआ?",
-        "3": "नागरिक अधिकार आंदोलन के उद्देश्य क्या थे?",
-        "4": "नागरिक अधिकार आंदोलन की कुछ महत्वपूर्ण जीत क्या थीं?"
+        "1": "रीसाइक्लिंग सेंटर में निपटाए गए सामग्री का क्या होता है?",
+        "2": "कूड़ा कहाँ से आता है?",
+        "3": "खाद गड्ढा (compost pit) कहाँ बनाया जाना चाहिए?",
+        "4": "प्रदूषण को कैसे रोका जाएगा?"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "Jim says that women use too many ............... things.",
+      "prashna": "जिम का कहना है कि महिलाएं बहुत अधिक ............... चीजों का उपयोग करती हैं।",
+      "options": {
+        "A": "electric",
+        "B": "mechanical",
+        "C": "electronic",
+        "D": "fancy"
+      },
+      "vikalpa": {
+        "A": "बिजली की",
+        "B": "यांत्रिक",
+        "C": "इलेक्ट्रॉनिक",
+        "D": "फैंसी"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "According to Jim, nobody's willing to do anything about ...............",
+      "prashna": "जिम के अनुसार, ............... के बारे में कोई भी कुछ करने को तैयार नहीं है।",
+      "options": {
+        "A": "plants",
+        "B": "animals",
+        "C": "environment",
+        "D": "security"
+      },
+      "vikalpa": {
+        "A": "पौधे",
+        "B": "जानवर",
+        "C": "पर्यावरण",
+        "D": "सुरक्षा"
+      }
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "Who makes a run for the car ?",
+      "prashna": "कार की ओर कौन दौड़ लगाता है?",
+      "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
+      "options": {
+        "A": "Jim",
+        "B": "Mr. Johnson",
+        "C": "Ms. Greene",
+        "D": "Mr. Williams"
+      },
+      "vikalpa": {
+        "A": "जिम",
+        "B": "मिस्टर जॉनसन",
+        "C": "मिस ग्रीन",
+        "D": "मिस्टर विलियम्स"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "The author advises Ms. Greene to save",
+      "prashna": "लेखक मिस ग्रीन को क्या बचाने की सलाह देते हैं?",
+      "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
+      "options": {
+        "A": "steel utensils",
+        "B": "dusters",
+        "C": "cups",
+        "D": "aluminium cans"
+      },
+      "vikalpa": {
+        "A": "स्टील के बर्तन",
+        "B": "झाड़न (डस्टर)",
+        "C": "कप",
+        "D": "एल्युमिनियम के डिब्बे"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "Who got tired of trying to get Ms. Greene to do something about ecology ?",
+      "prashna": "मिस ग्रीन को पर्यावरण के लिए कुछ करने को कहते-कहते कौन थक गया?",
+      "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
+      "options": {
+        "A": "Mr. Johnson",
+        "B": "Mr. Williams",
+        "C": "Jim",
+        "D": "Ms. Greene"
+      },
+      "vikalpa": {
+        "A": "मिस्टर जॉनसन",
+        "B": "मिस्टर विलियम्स",
+        "C": "जिम",
+        "D": "मिस ग्रीन"
+      }
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "Who complains about Jim's watching television throughout the day ?",
+      "prashna": "पूरे दिन जिम के टेलीविजन देखने की शिकायत कौन करता है?",
+      "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
+      "options": {
+        "A": "Mr. Williams",
+        "B": "Ms. Greene",
+        "C": "Mr. Johnson",
+        "D": "Jim's Mother"
+      },
+      "vikalpa": {
+        "A": "मिस्टर विलियम्स",
+        "B": "मिस ग्रीन",
+        "C": "मिस्टर जॉनसन",
+        "D": "जिम की माँ"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "Who pretended not to be home ?",
+      "prashna": "किसने घर पर न होने का नाटक किया?",
+      "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
+      "options": {
+        "A": "Mr. Williams",
+        "B": "Mrs. Smith",
+        "C": "Mr. Johnson",
+        "D": "Ms. Greene"
+      },
+      "vikalpa": {
+        "A": "मिस्टर विलियम्स",
+        "B": "मिसेज स्मिथ",
+        "C": "मिस्टर जॉनसन",
+        "D": "मिस ग्रीन"
+      }
+    },
+    {
+      "id": "obj_56",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "Jim drove his ............... round and round the backyard all summer.",
+      "prashna": "जिम ने पूरी गर्मी अपने बाड़े में बार-बार अपनी ............... चलाई।",
+      "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
+      "options": {
+        "A": "bicycle",
+        "B": "car",
+        "C": "motorbike",
+        "D": "truck"
+      },
+      "vikalpa": {
+        "A": "साइकिल",
+        "B": "कार",
+        "C": "मोटरबाइक",
+        "D": "ट्रक"
+      }
+    },
+    {
+      "id": "obj_60",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "question": "“Sure it is hard to get people to work for ...............”",
+      "prashna": "“निश्चित रूप से लोगों से ............... के लिए काम करवाना कठिन है।”",
+      "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
+      "options": {
+        "A": "hospitals",
+        "B": "others",
+        "C": "ecology",
+        "D": "free"
+      },
+      "vikalpa": {
+        "A": "अस्पतालों",
+        "B": "दूसरों",
+        "C": "पारिस्थितिकी (पर्यावरण)",
+        "D": "मुफ्त"
       }
     }
   ]

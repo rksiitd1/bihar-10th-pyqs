@@ -1,216 +1,98 @@
 {
-  "2011": [
-    {
-      "id": "long_2",
-      "type": "long_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Define electric current, potential difference and resistance along with their S.I. units and establish the relationship between them with an explanation of the law.",
-      "prashna": "S.I. मात्रक के साथ विद्युत धारा, विभवान्तर और प्रतिरोध को परिभाषित करें और इनमें संबंध नियम की व्याख्या के साथ स्थापित करें।"
-    }
-  ],
   "2012": [
     {
-      "id": "long_3",
-      "type": "long_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Find the equivalent resistance of two resistors connected in parallel.",
-      "prashna": "समांनातर श्रेणी में संयोजित दो प्रतिरोधों का तुल्य प्रतिरोध ज्ञात करें।"
-    }
-  ],
-  "2013": [
-    {
-      "id": "long_1",
-      "type": "long_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "State Ohm's law. Verify this law using an ammeter and voltmeter.",
-      "prashna": "ओम के नियम को लिखें। एमीटर एवं वोल्टमीटर द्वारा इस नियम की जाँच करें।"
-    }
-  ],
-  "2014": [
-    {
       "id": "long_2",
       "type": "long_answer",
       "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "What is called parallel combination of resistors? Obtain the expression for equivalent resistance when resistors $R_1, R_2$ and $R_3$ are connected in parallel.",
-      "prashna": "प्रतिरोधों का पार्श्वक्रम संयोजन किसे कहते हैं? प्रतिरोध $R_1, R_2$ तथा $R_3$ को पार्श्वक्रम में संयोजित करने पर समतुल्य प्रतिरोध का व्यंजक प्राप्त करें।"
-    }
-  ],
-  "2015": [
-    {
-      "id": "long_1_1",
-      "type": "long_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Find the electric current ($I$) in the following circuit :",
-      "prashna": "विद्युत धारा ($I$) का मान ज्ञात करें :"
-    },
-    {
-      "id": "long_1_1",
-      "type": "long_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Find the value of electric current ($I$).",
-      "prashna": "विद्युत धारा ($I$) का मान ज्ञात करें।"
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Describe myopia (near-sightedness) with a clear diagram.",
+      "prashna": "साफ चित्र द्वारा निकट दृष्टि दोष का वर्णन करें।"
     }
   ],
   "2016": [
     {
-      "id": "long_1_2",
+      "id": "long_1_1",
       "type": "long_answer",
       "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "What is resistance ? How is the resistance of a coil calculated practically with the help of ammeter and voltmeter ?",
-      "prashna": "प्रतिरोध क्या है ? किसी कुण्डली का प्रतिरोध आमीटर और वोल्टमीटर की सहायता से ज्ञात करने के लिए प्रयोग का वर्णन करें।"
-    },
-    {
-      "id": "long_1_2",
-      "type": "long_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "What is resistance? Describe an experiment to find the resistance of a coil with the help of an ammeter and a voltmeter.",
-      "prashna": "प्रतिरोध क्या है? किसी कुण्डली का प्रतिरोध आमीटर और वोल्टमीटर की सहायता से ज्ञात करने के लिए प्रयोग का वर्णन करें।"
-    }
-  ],
-  "2017": [
-    {
-      "id": "long_1_2",
-      "type": "long_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Explain Conductor, Non-conductor, Semi-conductor and Super-conductor with example.",
-      "prashna": "चालक, अचालक, अर्द्धचालक एवं अति चालक से आप क्या समझते हैं? सोदाहरण व्याख्या करें।"
-    },
-    {
-      "id": "long_1_2",
-      "type": "long_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "What do you understand by conductor, insulator, semiconductor and superconductor? Explain with examples.",
-      "prashna": "चालक, अचालक, अर्द्धचालक एवं अतिचालक से आप क्या समझते हैं? सोदाहरण व्याख्या करें।"
-    }
-  ],
-  "2018": [
-    {
-      "id": "long_1_2",
-      "type": "long_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Draw a circuit diagram for studying Ohm's law. State Ohm's law. Draw V-I graph that verifies Ohm's law. State the nature of the V-I graph.",
-      "prashna": "ओम के नियम के अध्ययन के लिए एक विद्युत परिपथ खींचे। ओम का नियम लिखें। ओम के नियम को सत्यापित करने वाले V-I ग्राफ को खींचे और उस ग्राफ की प्रकृति को लिखें।",
-      "sub_questions": {
-        "a": "Draw a circuit diagram for studying Ohm's law.",
-        "b": "State Ohm's law.",
-        "c": "Draw V-I graph that verifies Ohm's law. State the nature of the V-I graph."
-      },
-      "anuprashna": {
-        "a": "ओम के नियम के अध्ययन के लिए एक विद्युत परिपथ खींचे।",
-        "b": "ओम का नियम लिखें।",
-        "c": "ओम के नियम को सत्यापित करने वाले V-I ग्राफ को खींचे और उस ग्राफ की प्रकृति को लिखें।"
-      }
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "What is vision defect? Name its types. How can they be removed ?",
+      "prashna": "दृष्टि दोष क्या है ? यह कितने प्रकार के होते हैं ? इनका निवारण कैसे किया जाता है ?"
     },
     {
       "id": "long_1_1",
       "type": "long_answer",
       "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Answer the following questions:",
-      "prashna": "निम्नलिखित प्रश्नों के उत्तर दें:",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "What is a defect of vision? How many types are there? How are they corrected?",
+      "prashna": "दृष्टि दोष क्या है? यह कितने प्रकार के होते हैं? इनका निवारण कैसे किया जाता है?"
+    }
+  ],
+  "2018": [
+    {
+      "id": "long_1_1",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "State types of defects of vision. Write these eye defects and their correction in brief. The far point of a myopic person is $80cm$ in front of the eye. What is the nature and power of the lens required to correct the problem?",
+      "prashna": "दृष्टि दोष के प्रकार लिखें। इन दोषों तथा उनके संशोधन के बारे में संक्षेप में लिखें। किसी निकट दृष्टि से पीड़ित व्यक्ति का दूर बिन्दु नेत्र के सामने $80 cm$ दूरी पर है। इस दोष को संशोधित करने के लिए आवश्यक लेंस की प्रकृति तथा क्षमता क्या होगी?",
       "sub_questions": {
-        "A": "What is electric power?",
-        "B": "Derive $H = I^2Rt$, where $H$ is the amount of Heat produced by steady current ($I$) through a resistor ($R$) in time $t$.",
-        "C": "How much energy is given to each Coulomb of charge passing through a $6\text{V}$ battery?"
+        "a": "State types of defects of vision.",
+        "b": "Write these eye defects and their correction in brief.",
+        "c": "The far point of a myopic person is $80cm$ in front of the eye. What is the nature and power of the lens required to correct the problem?"
       },
       "anuprashna": {
-        "A": "विद्युत शक्ति क्या है?",
-        "B": "निगमन करें $H = I^2Rt$ जहाँ $H$, किसी प्रतिरोधक ($R$) में विद्युत धारा ($I$) द्वारा $t$ समय में उत्पन्न ऊष्मा की मात्रा है।",
-        "C": "$6\text{V}$ बैटरी से गुजरने वाले हर एक कूलॉम आवेश को कितनी ऊर्जा दी जाती है?"
+        "a": "दृष्टि दोष के प्रकार लिखें।",
+        "b": "इन दोषों तथा उनके संशोधन के बारे में संक्षेप में लिखें।",
+        "c": "किसी निकट दृष्टि से पीड़ित व्यक्ति का दूर बिन्दु नेत्र के सामने $80 cm$ दूरी पर है। इस दोष को संशोधित करने के लिए आवश्यक लेंस की प्रकृति तथा क्षमता क्या होगी?"
       }
     }
   ],
   "2019": [
     {
-      "id": "long_2",
+      "id": "long_1",
       "type": "long_answer",
       "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Derive the formulas for total resistance in the following cases:",
-      "prashna": "निम्नलिखित मामलों में कुल प्रतिरोध के सूत्रों को व्युत्पन्न करें:",
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "Answer the following sub-questions about human vision:",
+      "prashna": "मानव दृष्टि के बारे में निम्नलिखित अनुप्रश्नों के उत्तर दें:",
       "sub_questions": {
-        "A": "Prove that $R = R_1 + R_2$ where $R$ is the equivalent resistance of resistors $R_1$ and $R_2$ connected in series.",
-        "B": "Prove that $\frac{1}, {R} = \frac{1}, {R_1} + \frac{1}, {R_2}$ where $R$ is the equivalent resistance of resistors $R_1$ and $R_2$ connected in parallel."
+        "A": "Draw a well labelled diagram of human eye.",
+        "B": "How do ciliary muscles accommodate focal length of eye lens to see nearby objects and far objects?"
       },
       "anuprashna": {
-        "A": "सिद्ध करें, $R = R_1 + R_2$ जहाँ R, श्रेणीक्रम में संयोजित प्रतिरोधों $R_1$ और $R_2$ का समतुल्य प्रतिरोध है।",
-        "B": "सिद्ध करें, $\frac{1}, {R} = \frac{1}, {R_1} + \frac{1}, {R_2}$ जहाँ R, पार्श्वक्रम में संयोजित प्रतिरोधों $R_1$ और $R_2$ का समतुल्य प्रतिरोध है।"
+        "A": "मानव नेत्र का स्वच्छ नामांकित आरेख खींचें।",
+        "B": "किस प्रकार निकट रखी वस्तुओं और दूर रखी वस्तुओं को देखने के लिए पक्ष्माभी पेशियाँ अभिनेत्र लेंस की फोकस दूरी को समायोजित करती हैं?"
       }
-    },
-    {
-      "id": "long_1_2",
-      "type": "long_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "What is electric power? Derive $H = I^2Rt$, where $H$ is the amount of heat produced by steady current $I$ through a resistor $R$ in time $t$.",
-      "prashna": "विद्युत शक्ति क्या है? निगमन करें $H = I^2Rt$ जहाँ $H$, किसी प्रतिरोधक $R$ में विद्युत धारा $I$ द्वारा $t$ समय में उत्पन्न ऊष्मा की मात्रा है।"
     }
   ],
   "2020": [
     {
-      "id": "long_2",
+      "id": "long_1",
       "type": "long_answer",
       "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Write Ohm's law. Explain an experiment for its verification.",
-      "prashna": "ओम का नियम लिखें। इसके सत्यापन के लिये एक प्रयोग का वर्णन करें।"
-    },
-    {
-      "id": "long_1_1",
-      "type": "long_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Write the S.I. units of resistance and potential difference. Explain the verification of Ohm's law.",
-      "prashna": "प्रतिरोध और विभवान्तर के S.I. मात्रक को लिखें। ओम के नियम के सत्यापन कर समझावें।"
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "What is short sightedness (myopia)? What are its causes? Explain the method of removing this defect with diagram.",
+      "prashna": "निकट-दृष्टि दोष किसे कहते हैं ? इसके क्या कारण हैं ? इसके संशोधन की विधि को सचित्र समझायें।"
     }
   ],
   "2021": [
     {
-      "id": "long_2",
+      "id": "long_1",
       "type": "long_answer",
       "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "What is called parallel combination of resistances? Obtain the expression for equivalent resistance when resistances $R_1$, $R_2$, and $R_3$ are connected in parallel.",
-      "prashna": "प्रतिरोधों का पार्श्वक्रम संयोजन किसे कहते हैं? प्रतिरोध $R_1, R_2$ तथा $R_3$ को पार्श्वक्रम में संयोजित करने पर समतुल्य प्रतिरोध का व्यंजक प्राप्त करें।"
-    },
-    {
-      "id": "long_2",
-      "type": "long_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Obtain an expression for the equivalent resistance of three resistors of different values connected in series.",
-      "prashna": "श्रेणीक्रम में संयोजित तीन विभिन्न मान के प्रतिरोधों के समतुल्य प्रतिरोध के लिए व्यंजक प्राप्त करें।"
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "What do you understand by dispersion of light? Explain the formation of a rainbow.",
+      "prashna": "प्रकाश के वर्ण-विक्षेपण से आप क्या समझते हैं? इन्द्रधनुष की व्याख्या करें।"
     }
   ],
-  "2022": [
+  "2025": [
     {
       "id": "long_1",
       "type": "long_answer",
       "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Explain conductor, insulator, semiconductor and superconductor with examples.",
-      "prashna": "चारक, अचारक, अद्थधचारक एिॊ अनतचारक की सोदाहयर् व्माख्मा कयें।"
-    }
-  ],
-  "2024": [
-    {
-      "id": "long_10",
-      "type": "long_answer",
-      "chapter": "11",
-      "chapter_name": "Electricity",
-      "question": "Explain conductor, insulator and semiconductor with examples.",
-      "prashna": "चालक, अचालक एवं अर्द्धचालक की सोदाहरण व्याख्या करें।"
+      "chapter_name": "The Human Eye and the Colourful World",
+      "question": "What are defects of vision? What are their types? How are the defects resolved?",
+      "prashna": "दृष्टिदोष क्या हैं ? यह कितने प्रकार के होते हैं ? इनका निवारण कैसे किया जाता है ?"
     }
   ]
 }

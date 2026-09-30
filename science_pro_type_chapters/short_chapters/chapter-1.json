@@ -1,14 +1,4 @@
 {
-  "2012": [
-    {
-      "id": "short_9",
-      "type": "short_answer",
-      "chapter": "1",
-      "chapter_name": "Chemical Reactions and Equations",
-      "question": "What happens when zinc is added to a solution of iron (II) sulphate? Write the chemical reaction that takes place.",
-      "prashna": "जिंक को आयरन (II) सल्फेट के विलयन में डालने से क्या होता है? होनेवाली रासायनिक अभिक्रिया लिखिए।"
-    }
-  ],
   "2014": [
     {
       "id": "short_16",
@@ -25,16 +15,6 @@
       "chapter_name": "Chemical Reactions and Equations",
       "question": "What is a balanced chemical equation? Why is it necessary to balance a chemical equation?",
       "prashna": "संतुलित रासायनिक समीकरण क्या है? रासायनिक समीकरण को संतुलित करना क्यों आवश्यक है?"
-    }
-  ],
-  "2015": [
-    {
-      "id": "short_10",
-      "type": "short_answer",
-      "chapter": "1",
-      "chapter_name": "Chemical Reactions and Equations",
-      "question": "What type of reaction takes place in the digestion of food in our body?",
-      "prashna": "भोजन के पाचन द्वारा किस प्रकार की अभिक्रिया हमारे शरीर में होती है ?"
     }
   ],
   "2016": [
@@ -81,12 +61,12 @@
       "prashna": "उत्प्रेरक से आप क्या समझते हैं?"
     },
     {
-      "id": "short_8",
+      "id": "short_6",
       "type": "short_answer",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
-      "question": "Write the anomalies of Mendeleev's periodic table.",
-      "prashna": "मेंडलीफ के आवर्तसारणी की विसंगतियों को लिखें।"
+      "question": "What do you understand by a catalyst?",
+      "prashna": "उत्प्रेरक से आप क्या समझते हैं?"
     }
   ],
   "2018": [
@@ -105,6 +85,22 @@
       "chapter_name": "Chemical Reactions and Equations",
       "question": "What do you mean by a Precipitation Reaction? Explain it by giving an example.",
       "prashna": "अवक्षेपण अभिक्रिया से आप क्या समझते हैं? एक उदाहरण देकर समझाइए।"
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Chemical Reactions and Equations",
+      "question": "Write equations for the reactions of -",
+      "prashna": "इन अभिक्रियाओं के लिए समीकरण लिखिए -",
+      "sub_questions": {
+        "A": "Iron with Steam",
+        "B": "Calcium with Water"
+      },
+      "anuprashna": {
+        "A": "भाप के साथ लोहा",
+        "B": "जल के साथ कैल्सियम"
+      }
     }
   ],
   "2019": [
@@ -115,14 +111,6 @@
       "chapter_name": "Chemical Reactions and Equations",
       "question": "Write one equation each for decomposition reaction and combination reaction.",
       "prashna": "वियोजन अभिक्रिया एवं संयोजन अभिक्रिया के लिए एक-एक समीकरण लिखिए।"
-    },
-    {
-      "id": "short_11",
-      "type": "short_answer",
-      "chapter": "1",
-      "chapter_name": "Chemical Reactions and Equations",
-      "question": "Why does the colour of copper sulfate solution change when an iron nail is dipped in it?",
-      "prashna": "जब लोहे की कील को कॉपर सल्फेट के विलयन में डुबोया जाता है तो विलयन का रंग क्यों बदल जाता है?"
     },
     {
       "id": "short_12",
@@ -245,14 +233,6 @@
       "prashna": "रासायनिक समीकरण को संतुलित करना क्यों आवश्यक है ?"
     },
     {
-      "id": "short_16",
-      "type": "short_answer",
-      "chapter": "1",
-      "chapter_name": "Chemical Reactions and Equations",
-      "question": "What is corrosion ? Explain with example.",
-      "prashna": "संक्षारण क्या है ? सोदाहरण समझाएँ।"
-    },
-    {
       "id": "short_11",
       "type": "short_answer",
       "chapter": "1",
@@ -285,14 +265,48 @@
       "chapter_name": "Chemical Reactions and Equations",
       "question": "Write three information obtained from chemical equation.",
       "prashna": "रासायनिक समीकरण से प्राप्त होने वाली तीन सूचनाओं को लिखें।"
+    }
+  ],
+  "2026": [
+    {
+      "id": "short_11",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Chemical Reactions and Equations",
+      "question": "What is a balanced chemical equation ? Give an example.",
+      "prashna": "संतुलित रासायनिक समीकरण क्या है ? इसका एक उदाहरण दें।"
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Chemical Reactions and Equations",
+      "question": "What do you understand by electrolysis ?",
+      "prashna": "वैद्युत अपघटन से आप क्या समझते हैं ?"
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Chemical Reactions and Equations",
+      "question": "Describe a precipitation reaction with an example.",
+      "prashna": "उदाहरण सहित किसी अवक्षेपण अभिक्रिया का वर्णन करें।"
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "chapter": "1",
+      "chapter_name": "Chemical Reactions and Equations",
+      "question": "What are oxidation-reduction reactions ?",
+      "prashna": "ऑक्सीकरण-अवकरण अभिक्रियाएँ क्या हैं ?"
     },
     {
       "id": "short_11",
       "type": "short_answer",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
-      "question": "Why does the colour of the solution change when a piece of iron is added to copper sulphate solution ?",
-      "prashna": "कॉपर सल्फेट के विलयन में लोहे का एक टुकड़ा डाल देने पर विलयन का रंग क्यों बदल जाता है ?"
+      "question": "Explain the process of extinguishing fire using a fire extinguisher through a chemical reaction.",
+      "prashna": "अग्निशामक यंत्र द्वारा आग बुझाने की क्रिया को रासायनिक अभिक्रिया द्वारा समझाएँ।"
     }
   ]
 }

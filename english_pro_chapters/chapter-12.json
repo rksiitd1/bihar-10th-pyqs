@@ -1,24 +1,796 @@
 {
-  "2014": [
+  "2018": [
     {
-      "id": "short_2",
-      "type": "short_answer",
+      "id": "obj_20",
+      "type": "objective",
+      "section": "Panorama",
       "chapter": "12",
-      "chapter_name": "A Tiger in the Zoo (Poem)",
-      "question": "Answer any two of the following question in about 40 words:",
-      "prashna": "निम्नलिखित में से किन्हीं दो प्रश्नों के उत्तर लगभग 40 शब्दों में दें:",
-      "sub_questions": {
-        "1": "How does a polythene bag pollute our environment?",
-        "2": "Describe Radha's condition, as reported by her friends.",
-        "3": "Do you think that the Koel symbolises true love?",
-        "4": "How Sleeping Porter is the hero of the mountain?"
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "Lord Krishna had not met........... for some time.",
+      "prashna": "भगवान कृष्ण कुछ समय से ........... से नहीं मिले थे।",
+      "options": {
+        "A": "Radha",
+        "B": "Sudama",
+        "C": "Vidyapati",
+        "D": "Yashoda"
       },
-      "anuprashna": {
-        "1": "पॉलीथीन बैग हमारे पर्यावरण को कैसे प्रदूषित करता है?",
-        "2": "राधा की स्थिति का वर्णन करें, जैसा कि उसके दोस्तों द्वारा बताया गया है।",
-        "3": "क्या आपको लगता है कि कोयल सच्चे प्यार का प्रतीक है?",
-        "4": "स्लीपिंग पोर्टर (सोता हुआ कुली) पहाड़ का नायक कैसे है?"
+      "vikalpa": {
+        "A": "राधा",
+        "B": "सुदामा",
+        "C": "विद्यापति",
+        "D": "यशोदा"
       }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "Vidyapati's poems are about Radha and ............",
+      "prashna": "विद्यापति की कविताएँ राधा और ............ के बारे में हैं।",
+      "options": {
+        "A": "Ram",
+        "B": "Sita",
+        "C": "Krishna",
+        "D": "Vishnu"
+      },
+      "vikalpa": {
+        "A": "राम",
+        "B": "सीता",
+        "C": "कृष्ण",
+        "D": "विष्णु"
+      }
+    }
+  ],
+  "2019": [
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "'Thinner than a Crescent', has been composed by -",
+      "prashna": "'थिनर दैन ए क्रेसेंट' की रचना किसके द्वारा की गई है -",
+      "options": {
+        "A": "Vidhyadhar Pandit",
+        "B": "Kalidas",
+        "C": "Vidhyapati",
+        "D": "Tulsidas"
+      },
+      "vikalpa": {
+        "A": "विद्याधर पंडित",
+        "B": "कालिदास",
+        "C": "विद्यापति",
+        "D": "तुलसीदास"
+      }
+    },
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "'Thinner than a Crescent', has been composed by -",
+      "prashna": "'थिनर दैन अ क्रेसेंट' की रचना किसके द्वारा की गई है? -",
+      "options": {
+        "A": "Vidhyadhar Pandit",
+        "B": "Kalidas",
+        "C": "Vidhyapati",
+        "D": "Tulsidas"
+      },
+      "vikalpa": {
+        "A": "विद्याधर पंडित",
+        "B": "कालिदास",
+        "C": "विद्यापति",
+        "D": "तुलसीदास"
+      }
+    }
+  ],
+  "2020": [
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "Radha's friends are....... about Radha.",
+      "prashna": "राधा की सहेलियाँ राधा के बारे में क्या हैं?",
+      "options": {
+        "A": "angry",
+        "B": "happy",
+        "C": "worried",
+        "D": "weeping"
+      },
+      "vikalpa": {
+        "A": "क्रोधित",
+        "B": "खुश",
+        "C": "चिंतित",
+        "D": "रो रही हैं"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "Radha's tears have carved a",
+      "prashna": "राधा के आँसुओं ने एक ... बनाया है।",
+      "options": {
+        "A": "river",
+        "B": "statue",
+        "C": "sea",
+        "D": "hole"
+      },
+      "vikalpa": {
+        "A": "नदी",
+        "B": "मूर्ति",
+        "C": "समुद्र",
+        "D": "छेद"
+      }
+    },
+    {
+      "id": "obj_33",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "'Thinner than a Crescent' has been written by",
+      "prashna": "'थिनर दैन अ क्रेसेंट' लिखी गई है",
+      "options": {
+        "A": "Vidyapati",
+        "B": "Walter de la Mare",
+        "C": "William Cowper",
+        "D": "Laxmi Prasad Devkota"
+      },
+      "vikalpa": {
+        "A": "विद्यापति",
+        "B": "वॉल्टर डे ला मेयर",
+        "C": "विलियम काउपर",
+        "D": "लक्ष्मी प्रसाद देवकोटा"
+      }
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "What does Radha's friend tell Lord Krishna?",
+      "prashna": "राधा की सखी भगवान कृष्ण को क्या कहती हैं?"
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "Vidyapati is a......... poet",
+      "prashna": "विद्यापति एक ......... कवि हैं।",
+      "options": {
+        "A": "Oriya",
+        "B": "English",
+        "C": "Maithili",
+        "D": "Bhojpuri"
+      },
+      "vikalpa": {
+        "A": "ओड़िया",
+        "B": "अंग्रेजी",
+        "C": "मैथिली",
+        "D": "भोजपुरी"
+      }
+    },
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "'Her tears carved a river- whose tears is the poet referring to ?",
+      "prashna": "'उसके आंसुओं ने एक नदी तराश दी - कवि किसके आंसुओं की बात कर रहा है?",
+      "options": {
+        "A": "Radha",
+        "B": "Radha's friend",
+        "C": "Radha's sister",
+        "D": "Radha's mother"
+      },
+      "vikalpa": {
+        "A": "राधा",
+        "B": "राधा की सहेली",
+        "C": "राधा की बहन",
+        "D": "राधा की माँ"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "Vidyapati was born in",
+      "prashna": "विद्यापति का जन्म कहाँ हुआ था?",
+      "options": {
+        "A": "Bhagalpur",
+        "B": "Motihari",
+        "C": "Darbhanga",
+        "D": "Madhubani"
+      },
+      "vikalpa": {
+        "A": "भागलपुर",
+        "B": "मोतिहारी",
+        "C": "दरभंगा",
+        "D": "मधुबनी"
+      }
+    },
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "What does Radha's friend believe in?",
+      "prashna": "राधा की सहेली किसमें विश्वास करती है?"
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "Who is crying in 'Thinner Than a Crescent\"?",
+      "prashna": "'थिनर दैन ए क्रेसेंट' में कौन रो रहा है?",
+      "options": {
+        "A": "Radha",
+        "B": "Krishna",
+        "C": "Sudama",
+        "D": "Devaki"
+      },
+      "vikalpa": {
+        "A": "राधा",
+        "B": "कृष्ण",
+        "C": "सुदामा",
+        "D": "देवकी"
+      }
+    },
+    {
+      "id": "obj_53",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "Why is Radha hurt in \"Thinner Than a Crescent\"?",
+      "prashna": "\"थिनर दैन ए क्रेसेंट\" में राधा क्यों आहत हैं?",
+      "options": {
+        "A": "Due to the presence of Lord Krishna",
+        "B": "Due to the absence of Lord Krishna",
+        "C": "Due to the ignorance of Lord Krishna",
+        "D": "Due to the anger of Lord Krishna"
+      },
+      "vikalpa": {
+        "A": "भगवान कृष्ण की उपस्थिति के कारण",
+        "B": "भगवान कृष्ण की अनुपस्थिति के कारण",
+        "C": "भगवान कृष्ण की अज्ञानता के कारण",
+        "D": "भगवान कृष्ण के क्रोध के कारण"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "Radha's friend is ... about her.",
+      "options": {
+        "A": "Happy",
+        "B": "concerned",
+        "C": "angry",
+        "D": "satisfied"
+      },
+      "prashna": "राधा की दोस्त उसके बारे में ... है।",
+      "vikalpa": {
+        "A": "खुश",
+        "B": "चिंतित",
+        "C": "नाराज",
+        "D": "संतुष्ट"
+      }
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "Radha's friend says that Radha has ... weight.",
+      "options": {
+        "A": "gained",
+        "B": "added",
+        "C": "put",
+        "D": "lost"
+      },
+      "prashna": "राधा की दोस्त कहती है कि राधा ने ... वजन।",
+      "vikalpa": {
+        "A": "बढ़ा",
+        "B": "जोड़ा",
+        "C": "रखा",
+        "D": "घटा"
+      }
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "Vidyapati is known for depicting the ............... of separation.",
+      "prashna": "विद्यापति को अलगाव के ............... के चित्रण के लिए जाना जाता है।",
+      "options": {
+        "A": "society",
+        "B": "history",
+        "C": "culture",
+        "D": "pangs"
+      },
+      "vikalpa": {
+        "A": "समाज",
+        "B": "इतिहास",
+        "C": "संस्कृति",
+        "D": "पीड़ा/कष्ट"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "Vidyapati is born in the village of",
+      "prashna": "विद्यापति का जन्म किस गाँव में हुआ है?",
+      "options": {
+        "A": "Gaya",
+        "B": "Dhanbad",
+        "C": "Bokaro",
+        "D": "Bisapi"
+      },
+      "vikalpa": {
+        "A": "गया",
+        "B": "धनबाद",
+        "C": "बोकारो",
+        "D": "बिसपी"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "Radha is growing ............... than the crescent.",
+      "prashna": "राधा दूज के चाँद से भी अधिक ............... होती जा रही है।",
+      "options": {
+        "A": "larger",
+        "B": "stronger",
+        "C": "thinner",
+        "D": "weaker"
+      },
+      "vikalpa": {
+        "A": "बड़ी",
+        "B": "मजबूत",
+        "C": "दुबली/पतली",
+        "D": "कमजोर"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "How does Radha look like?",
+      "prashna": "राधा कैसी दिखती है?",
+      "options": {
+        "A": "Wider than the crescent",
+        "B": "Thinner than the crescent",
+        "C": "Fatter than the crescent",
+        "D": "Sharper than the crescent"
+      },
+      "vikalpa": {
+        "A": "दूज के चाँद से चौड़ी",
+        "B": "दूज के चाँद से भी दुबली/पतली",
+        "C": "दूज के चाँद से मोटी",
+        "D": "दूज के चाँद से तेज"
+      }
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "What do Radha's friends believe in ?",
+      "prashna": "राधा की सखियाँ किस बात में विश्वास करती हैं?",
+      "context": "Answer any five of the following questions :"
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "Vidyapati's poems are about Radha and………………",
+      "prashna": "विद्यापति की कविताएँ राधा और .............. के बारे में हैं।",
+      "options": {
+        "A": "Ram",
+        "B": "Sita",
+        "C": "Krishna",
+        "D": "Vishnu"
+      },
+      "vikalpa": {
+        "A": "राम",
+        "B": "सीता",
+        "C": "कृष्ण",
+        "D": "विष्णु"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "Vidyapati is a…………..poet.",
+      "prashna": "विद्यापति एक .............. कवि हैं।",
+      "options": {
+        "A": "Oriya",
+        "B": "English",
+        "C": "Maithili",
+        "D": "Bhojpuri"
+      },
+      "vikalpa": {
+        "A": "ओड़िया",
+        "B": "अंग्रेजी",
+        "C": "मैथिली",
+        "D": "भोजपुरी"
+      }
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "Radha is growing thinner than a",
+      "prashna": "राधा ___ से पतली हो रही है।",
+      "options": {
+        "A": "thin stick",
+        "B": "thin thread",
+        "C": "crescent moon",
+        "D": "eclipsed sun"
+      },
+      "vikalpa": {
+        "A": "पतली छड़ी",
+        "B": "पतले धागे",
+        "C": "अर्धचंद्र",
+        "D": "ग्रहण लग चुके सूरज"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "Vidyapati's poems usually deal with",
+      "prashna": "विद्यापति की कविताएँ आमतौर पर ___ से संबंधित होती हैं।",
+      "options": {
+        "A": "Krishna's love",
+        "B": "Mahadev's love",
+        "C": "Rukmani's love",
+        "D": "Radha's love"
+      },
+      "vikalpa": {
+        "A": "कृष्ण के प्रेम",
+        "B": "महादेव के प्रेम",
+        "C": "रुक्मणी के प्रेम",
+        "D": "राधा के प्रेम"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "Radha has lost quite a lot of .................... due to her isolation from Krishna.",
+      "prashna": "कृष्ण से अलगाव के कारण राधा ने काफी .................... खो दिया है।",
+      "options": {
+        "A": "weight",
+        "B": "wealth",
+        "C": "jewellery",
+        "D": "clothes"
+      },
+      "vikalpa": {
+        "A": "वजन",
+        "B": "धन",
+        "C": "गहने",
+        "D": "कपड़े"
+      }
+    },
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "Radha's friends believe that .................... will come again.",
+      "prashna": "राधा के दोस्त मानते हैं कि .................... फिर आएगा।",
+      "options": {
+        "A": "Krishna",
+        "B": "Madhava",
+        "C": "Hari",
+        "D": "Sudama"
+      },
+      "vikalpa": {
+        "A": "कृष्ण",
+        "B": "माधव",
+        "C": "हरि",
+        "D": "सुदामा"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "Lord Krishna had not met .................... for some time.",
+      "prashna": "भगवान कृष्ण कुछ समय से .................... से नहीं मिले थे।",
+      "options": {
+        "A": "Rukmani",
+        "B": "Sita",
+        "C": "Radha",
+        "D": "Draupadi"
+      },
+      "vikalpa": {
+        "A": "रुक्मिणी",
+        "B": "सीता",
+        "C": "राधा",
+        "D": "द्रौपदी"
+      }
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "A .................... has been carved by Radha's tears.",
+      "prashna": "राधा के आंसुओं से एक .................... तराशा गया है।",
+      "options": {
+        "A": "sea",
+        "B": "lake",
+        "C": "river",
+        "D": "pond"
+      },
+      "vikalpa": {
+        "A": "समुद्र",
+        "B": "झील",
+        "C": "नदी",
+        "D": "तालाब"
+      }
+    },
+    {
+      "id": "short_answer_6",
+      "type": "short_answer",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "Why did Radha's friends run to Lord Krishna?",
+      "prashna": "राधा के दोस्त भगवान कृष्ण के पास क्यों भागे?"
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_56",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "‘O Madhva, I have run to call you ‘ _____ is from",
+      "prashna": "'ओ माधव, मैं तुम्हें बुलाने के लिए दौड़ी हूँ' यह पंक्तियाँ कहाँ से हैं?",
+      "options": {
+        "A": "Thinner than a Crescent",
+        "B": "Koel",
+        "C": "Martha",
+        "D": "The Sleeping Porter"
+      },
+      "vikalpa": {
+        "A": "थिनर दैन ए क्रेसेंट",
+        "B": "कोयल",
+        "C": "मार्था",
+        "D": "द स्लीपिंग पोर्टर"
+      }
+    },
+    {
+      "id": "obj_44",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "Radha's friend says that Radha is deeply hurt and has ............... weight.",
+      "prashna": "राधा की सहेली कहती है कि राधा को गहरा दुख पहुँचा है और उसका वजन ............... हो गया है।",
+      "options": {
+        "A": "gained",
+        "B": "lost",
+        "C": "increased",
+        "D": "added"
+      },
+      "vikalpa": {
+        "A": "बढ़",
+        "B": "कम",
+        "C": "बढ़",
+        "D": "जुड़"
+      }
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "The poem tells us that ............... thinks about Krishna all the time.",
+      "prashna": "कविता हमें बताती है कि ............... हर समय कृष्ण के बारे में सोचती है।",
+      "options": {
+        "A": "Radha",
+        "B": "Madhava",
+        "C": "Vishnu",
+        "D": "Ram"
+      },
+      "vikalpa": {
+        "A": "राधा",
+        "B": "माधव",
+        "C": "विष्णु",
+        "D": "राम"
+      }
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "The poem “Thinner than a Crescent” is all about ............... and Krishna.",
+      "prashna": "“थिनर दैन अ क्रेसेंट” कविता ............... और कृष्ण के बारे में है।",
+      "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
+      "options": {
+        "A": "Vishnu",
+        "B": "Radha",
+        "C": "Ram",
+        "D": "Rukmini"
+      },
+      "vikalpa": {
+        "A": "विष्णु",
+        "B": "राधा",
+        "C": "राम",
+        "D": "रुक्मिणी"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "Vidyapati is primarily concerned with intense ............... of Radha's love.",
+      "prashna": "विद्यापति मुख्य रूप से राधा के प्रेम के तीव्र ............... से संबंधित हैं।",
+      "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
+      "options": {
+        "A": "passion",
+        "B": "separation",
+        "C": "boredom",
+        "D": "loneliness"
+      },
+      "vikalpa": {
+        "A": "जुनून",
+        "B": "विरह / अलगाव",
+        "C": "ऊब",
+        "D": "अकेलापन"
+      }
+    },
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "Radha's friends want Radha's ............... with Madhava.",
+      "prashna": "राधा की सखियाँ माधव के साथ राधा का ............... चाहती हैं।",
+      "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
+      "options": {
+        "A": "separation",
+        "B": "union",
+        "C": "isolation",
+        "D": "detachment"
+      },
+      "vikalpa": {
+        "A": "अलगाव / विरह",
+        "B": "मिलन",
+        "C": "एकांत",
+        "D": "अनासक्ति"
+      }
+    },
+    {
+      "id": "short_4_f",
+      "type": "short_answer",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "Why is Radha crying ?",
+      "prashna": "राधा क्यों रो रही है?",
+      "instructions": "Answer any five of the following questions :"
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "Radha is crying because she is ............... from Lord Krishna.",
+      "prashna": "राधा रो रही है क्योंकि वह भगवान कृष्ण से ............... है।",
+      "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
+      "options": {
+        "A": "separated",
+        "B": "liberated",
+        "C": "free",
+        "D": "detached"
+      },
+      "vikalpa": {
+        "A": "अलग / विलग",
+        "B": "मुक्त",
+        "C": "स्वतंत्र",
+        "D": "अनासक्त"
+      }
+    },
+    {
+      "id": "obj_57",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "Radha is growing thinner than a",
+      "prashna": "राधा ............... से भी अधिक दुबली होती जा रही है।",
+      "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
+      "options": {
+        "A": "thin stick",
+        "B": "thin thread",
+        "C": "crescent moon",
+        "D": "eclipsed sun"
+      },
+      "vikalpa": {
+        "A": "पतली छड़ी",
+        "B": "पतले धागे",
+        "C": "दूज के चाँद (crescent moon)",
+        "D": "ग्रहण लगे सूर्य"
+      }
+    },
+    {
+      "id": "short_4_d",
+      "type": "short_answer",
+      "section": "Panorama",
+      "chapter": "12",
+      "chapter_name": "Thinner Than a Crescent",
+      "question": "Why is Radha's friend so worried ?",
+      "prashna": "राधा की सखी इतनी चिंतित क्यों है?",
+      "instructions": "Answer any five of the following questions :"
     }
   ]
 }

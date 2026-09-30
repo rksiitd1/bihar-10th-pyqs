@@ -452,5 +452,67 @@
         "D": "$90^\\circ$"
       }
     }
+  ],
+  "2026": [
+    {
+      "id": "obj_84",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Some Applications of Trigonometry",
+      "question": "If the length of the shadow of a tree is equal to its height then angle of elevation of the sun is",
+      "prashna": "यदि किसी वृक्ष की छाया की लम्बाई उसकी ऊँचाई के बराबर हो तो सूर्य का उन्नयन कोण है",
+      "options": {
+        "A": "30^{\\circ}",
+        "B": "45^{\\circ}",
+        "C": "60^{\\circ}",
+        "D": "75^{\\circ}"
+      },
+      "vikalpa": {
+        "A": "30^{\\circ}",
+        "B": "45^{\\circ}",
+        "C": "60^{\\circ}",
+        "D": "75^{\\circ}"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Some Applications of Trigonometry",
+      "question": "The angle of elevation of the top of a tower at a distance of 25 m from its foot is 60^{\\circ}, then the height of the tower is",
+      "prashna": "एक मीनार के शीर्ष का उन्नयन कोण उसके पाद से 25 मी की दूरी पर 60^{\\circ} है तो मीनार की ऊँचाई है",
+      "options": {
+        "A": "5\\sqrt{3} m",
+        "B": "15\\sqrt{3} m",
+        "C": "25\\sqrt{3} m",
+        "D": "25 m"
+      },
+      "vikalpa": {
+        "A": "5\\sqrt{3} मी",
+        "B": "15\\sqrt{3} मी",
+        "C": "25\\sqrt{3} मी",
+        "D": "25 मी"
+      }
+    },
+    {
+      "id": "obj_91",
+      "type": "objective",
+      "chapter": "9",
+      "chapter_name": "Some Applications of Trigonometry",
+      "question": "A kite is at a height of 20 m from the earth and its string makes an angle 45^{\\circ} with the earth, then the length of the string is",
+      "prashna": "एक पतंग पृथ्वी से 20 मी की ऊँचाई पर है और इसकी डोर पृथ्वी से 45^{\\circ} का कोण बनाती है तो डोर की लम्बाई है",
+      "options": {
+        "A": "20\\sqrt{2} m",
+        "B": "10\\sqrt{2} m",
+        "C": "5\\sqrt{2} m",
+        "D": "10 m"
+      },
+      "vikalpa": {
+        "A": "20\\sqrt{2} मी",
+        "B": "10\\sqrt{2} मी",
+        "C": "5\\sqrt{2} मी",
+        "D": "10 मी"
+      }
+    }
   ]
 }

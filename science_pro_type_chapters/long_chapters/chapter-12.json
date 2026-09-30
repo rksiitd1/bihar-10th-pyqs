@@ -1,70 +1,198 @@
 {
+  "2011": [
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "12",
+      "chapter_name": "Electricity",
+      "question": "Define electric current, potential difference and resistance along with their S.I. units and establish the relationship between them with an explanation of the law.",
+      "prashna": "S.I. मात्रक के साथ विद्युत धारा, विभवान्तर और प्रतिरोध को परिभाषित करें और इनमें संबंध नियम की व्याख्या के साथ स्थापित करें।"
+    }
+  ],
   "2012": [
+    {
+      "id": "long_3",
+      "type": "long_answer",
+      "chapter": "12",
+      "chapter_name": "Electricity",
+      "question": "Find the equivalent resistance of two resistors connected in parallel.",
+      "prashna": "समांनातर श्रेणी में संयोजित दो प्रतिरोधों का तुल्य प्रतिरोध ज्ञात करें।"
+    }
+  ],
+  "2013": [
     {
       "id": "long_1",
       "type": "long_answer",
       "chapter": "12",
-      "chapter_name": "Magnetic Effects of Electric Current",
-      "question": "Describe the working principle of an electric generator with a labeled diagram.",
-      "prashna": "विद्युत जनित्र का सिद्धांत सहित कार्य विधि का सचित्र वर्णन करें।"
+      "chapter_name": "Electricity",
+      "question": "State Ohm's law. Verify this law using an ammeter and voltmeter.",
+      "prashna": "ओम के नियम को लिखें। एमीटर एवं वोल्टमीटर द्वारा इस नियम की जाँच करें।"
     }
   ],
   "2014": [
     {
-      "id": "long_1",
+      "id": "long_2",
       "type": "long_answer",
       "chapter": "12",
-      "chapter_name": "Magnetic Effects of Electric Current",
-      "question": "A magnetic field is produced around a current-carrying conducting wire. Describe Oersted's experiment to show this.",
-      "prashna": "धारावाही चालक तार के इर्द-गिर्द चुंबकीय क्षेत्र उत्पन्न होता है। उसे दिखाने के लिए ओस्टैड के प्रयोग का वर्णन करें।"
+      "chapter_name": "Electricity",
+      "question": "What is called parallel combination of resistors? Obtain the expression for equivalent resistance when resistors $R_1, R_2$ and $R_3$ are connected in parallel.",
+      "prashna": "प्रतिरोधों का पार्श्वक्रम संयोजन किसे कहते हैं? प्रतिरोध $R_1, R_2$ तथा $R_3$ को पार्श्वक्रम में संयोजित करने पर समतुल्य प्रतिरोध का व्यंजक प्राप्त करें।"
     }
   ],
-  "2017": [
+  "2015": [
     {
       "id": "long_1_1",
       "type": "long_answer",
       "chapter": "12",
-      "chapter_name": "Magnetic Effects of Electric Current",
-      "question": "What is Electric Generator? Explain principle of its function. Describe its structure and working procedure.",
-      "prashna": "विद्युत जनरेटर से आप क्या समझते हैं? यह किस सिद्धान्त पर कार्य करता है? इसकी बनावट एवं क्रिया विधि का वर्णन करें।"
+      "chapter_name": "Electricity",
+      "question": "Find the electric current ($I$) in the following circuit :",
+      "prashna": "विद्युत धारा ($I$) का मान ज्ञात करें :"
     },
     {
       "id": "long_1_1",
       "type": "long_answer",
       "chapter": "12",
-      "chapter_name": "Magnetic Effects of Electric Current",
-      "question": "What do you understand by an electric generator? On what principle does it work? Describe its construction and working method.",
-      "prashna": "विद्युत जेनरेटर से आप क्या समझते हैं? यह किस सिद्धांत पर कार्य करता है? इसकी बनावट एवं क्रिया विधि का वर्णन करें।"
+      "chapter_name": "Electricity",
+      "question": "Find the value of electric current ($I$).",
+      "prashna": "विद्युत धारा ($I$) का मान ज्ञात करें।"
+    }
+  ],
+  "2016": [
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "chapter": "12",
+      "chapter_name": "Electricity",
+      "question": "What is resistance ? How is the resistance of a coil calculated practically with the help of ammeter and voltmeter ?",
+      "prashna": "प्रतिरोध क्या है ? किसी कुण्डली का प्रतिरोध आमीटर और वोल्टमीटर की सहायता से ज्ञात करने के लिए प्रयोग का वर्णन करें।"
+    },
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "chapter": "12",
+      "chapter_name": "Electricity",
+      "question": "What is resistance? Describe an experiment to find the resistance of a coil with the help of an ammeter and a voltmeter.",
+      "prashna": "प्रतिरोध क्या है? किसी कुण्डली का प्रतिरोध आमीटर और वोल्टमीटर की सहायता से ज्ञात करने के लिए प्रयोग का वर्णन करें।"
+    }
+  ],
+  "2017": [
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "chapter": "12",
+      "chapter_name": "Electricity",
+      "question": "Explain Conductor, Non-conductor, Semi-conductor and Super-conductor with example.",
+      "prashna": "चालक, अचालक, अर्द्धचालक एवं अति चालक से आप क्या समझते हैं? सोदाहरण व्याख्या करें।"
+    },
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "chapter": "12",
+      "chapter_name": "Electricity",
+      "question": "What do you understand by conductor, insulator, semiconductor and superconductor? Explain with examples.",
+      "prashna": "चालक, अचालक, अर्द्धचालक एवं अतिचालक से आप क्या समझते हैं? सोदाहरण व्याख्या करें।"
+    }
+  ],
+  "2018": [
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "chapter": "12",
+      "chapter_name": "Electricity",
+      "question": "Draw a circuit diagram for studying Ohm's law. State Ohm's law. Draw V-I graph that verifies Ohm's law. State the nature of the V-I graph.",
+      "prashna": "ओम के नियम के अध्ययन के लिए एक विद्युत परिपथ खींचे। ओम का नियम लिखें। ओम के नियम को सत्यापित करने वाले V-I ग्राफ को खींचे और उस ग्राफ की प्रकृति को लिखें।",
+      "sub_questions": {
+        "a": "Draw a circuit diagram for studying Ohm's law.",
+        "b": "State Ohm's law.",
+        "c": "Draw V-I graph that verifies Ohm's law. State the nature of the V-I graph."
+      },
+      "anuprashna": {
+        "a": "ओम के नियम के अध्ययन के लिए एक विद्युत परिपथ खींचे।",
+        "b": "ओम का नियम लिखें।",
+        "c": "ओम के नियम को सत्यापित करने वाले V-I ग्राफ को खींचे और उस ग्राफ की प्रकृति को लिखें।"
+      }
     }
   ],
   "2019": [
     {
-      "id": "long_1_1",
+      "id": "long_2",
       "type": "long_answer",
       "chapter": "12",
-      "chapter_name": "Magnetic Effects of Electric Current",
-      "question": "Draw a labelled diagram of an electric motor. Explain its principle and working. What is the function of split ring in an electric motor?",
-      "prashna": "विद्युत मोटर का नामांकित आरेख खींचें। इसका सिद्धांत तथा कार्यविधि स्पष्ट करें। विद्युत मोटर में विभक्त वलय का क्या महत्त्व है?"
+      "chapter_name": "Electricity",
+      "question": "Derive the formulas for total resistance in the following cases:",
+      "prashna": "निम्नलिखित मामलों में कुल प्रतिरोध के सूत्रों को व्युत्पन्न करें:",
+      "sub_questions": {
+        "A": "Prove that $R = R_1 + R_2$ where $R$ is the equivalent resistance of resistors $R_1$ and $R_2$ connected in series.",
+        "B": "Prove that $\frac{1}, {R} = \frac{1}, {R_1} + \frac{1}, {R_2}$ where $R$ is the equivalent resistance of resistors $R_1$ and $R_2$ connected in parallel."
+      },
+      "anuprashna": {
+        "A": "सिद्ध करें, $R = R_1 + R_2$ जहाँ R, श्रेणीक्रम में संयोजित प्रतिरोधों $R_1$ और $R_2$ का समतुल्य प्रतिरोध है।",
+        "B": "सिद्ध करें, $\frac{1}, {R} = \frac{1}, {R_1} + \frac{1}, {R_2}$ जहाँ R, पार्श्वक्रम में संयोजित प्रतिरोधों $R_1$ और $R_2$ का समतुल्य प्रतिरोध है।"
+      }
+    },
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "chapter": "12",
+      "chapter_name": "Electricity",
+      "question": "What is electric power? Derive $H = I^2Rt$, where $H$ is the amount of heat produced by steady current $I$ through a resistor $R$ in time $t$.",
+      "prashna": "विद्युत शक्ति क्या है? निगमन करें $H = I^2Rt$ जहाँ $H$, किसी प्रतिरोधक $R$ में विद्युत धारा $I$ द्वारा $t$ समय में उत्पन्न ऊष्मा की मात्रा है।"
     }
   ],
-  "2022": [
+  "2020": [
     {
       "id": "long_2",
       "type": "long_answer",
       "chapter": "12",
-      "chapter_name": "Magnetic Effects of Electric Current",
-      "question": "Draw a labelled diagram of an electric motor. Explain its principle and working. What is the significance of the dividing ring in an electric motor ?",
-      "prashna": "विद्युत मोटर का नामांकित आरेख खींचें। इसका सिद्धांत तथा कार्यविधि स्पष्ट करें। विद्युत मोटर में विभक्त वलय का क्या महत्व है ?"
-    }
-  ],
-  "2025": [
+      "chapter_name": "Electricity",
+      "question": "Write Ohm's law. Explain an experiment for its verification.",
+      "prashna": "ओम का नियम लिखें। इसके सत्यापन के लिये एक प्रयोग का वर्णन करें।"
+    },
     {
-      "id": "long_9",
+      "id": "long_1_1",
       "type": "long_answer",
       "chapter": "12",
-      "chapter_name": "Magnetic Effects of Electric Current",
-      "question": "Describe Oersted's experiment to show that a magnetic field is produced around a current carrying conductor wire.",
-      "prashna": "ऑस्ट्रेड के प्रयोग का वर्णन यह दर्शाने के लिए करें कि धारावाही चालक तार के इर्द-गिर्द चुम्बकीय क्षेत्र उत्पन्न होता है।"
+      "chapter_name": "Electricity",
+      "question": "Write the S.I. units of resistance and potential difference. Explain the verification of Ohm's law.",
+      "prashna": "प्रतिरोध और विभवान्तर के S.I. मात्रक को लिखें। ओम के नियम के सत्यापन कर समझावें।"
+    }
+  ],
+  "2021": [
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "12",
+      "chapter_name": "Electricity",
+      "question": "What is called parallel combination of resistances? Obtain the expression for equivalent resistance when resistances $R_1$, $R_2$, and $R_3$ are connected in parallel.",
+      "prashna": "प्रतिरोधों का पार्श्वक्रम संयोजन किसे कहते हैं? प्रतिरोध $R_1, R_2$ तथा $R_3$ को पार्श्वक्रम में संयोजित करने पर समतुल्य प्रतिरोध का व्यंजक प्राप्त करें।"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "chapter": "12",
+      "chapter_name": "Electricity",
+      "question": "Obtain an expression for the equivalent resistance of three resistors of different values connected in series.",
+      "prashna": "श्रेणीक्रम में संयोजित तीन विभिन्न मान के प्रतिरोधों के समतुल्य प्रतिरोध के लिए व्यंजक प्राप्त करें।"
+    }
+  ],
+  "2022": [
+    {
+      "id": "long_1",
+      "type": "long_answer",
+      "chapter": "12",
+      "chapter_name": "Electricity",
+      "question": "Explain conductor, insulator, semiconductor and superconductor with examples.",
+      "prashna": "चारक, अचारक, अद्थधचारक एिॊ अनतचारक की सोदाहयर् व्माख्मा कयें।"
+    }
+  ],
+  "2024": [
+    {
+      "id": "long_10",
+      "type": "long_answer",
+      "chapter": "12",
+      "chapter_name": "Electricity",
+      "question": "Explain conductor, insulator and semiconductor with examples.",
+      "prashna": "चालक, अचालक एवं अर्द्धचालक की सोदाहरण व्याख्या करें।"
     }
   ]
 }

@@ -18,7 +18,7 @@ def read_items_from_file(file_path: str) -> List[Dict[str, Any]]:
 
 
 def main() -> None:
-    source_dir = "social_science_data_annotated"
+    source_dir = "social_science_data_jevified"
     output_dir = "social_science_pro"
     os.makedirs(output_dir, exist_ok=True)
 

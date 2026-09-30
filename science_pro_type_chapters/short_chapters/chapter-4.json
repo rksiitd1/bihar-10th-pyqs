@@ -43,14 +43,6 @@
       "chapter_name": "Carbon and its Compounds",
       "question": "Write the structural formulas of butanone and ethanoic acid.",
       "prashna": "ब्यूटेनोन एवं एथेनोइक अम्ल के संरचना सूत्र लिखें।"
-    },
-    {
-      "id": "short_4",
-      "type": "short_answer",
-      "chapter": "4",
-      "chapter_name": "Carbon and its Compounds",
-      "question": "What are fossil fuels? Write with examples.",
-      "prashna": "जीवाश्म ईंधन क्या हैं? उदाहरण सहित लिखें।"
     }
   ],
   "2015": [
@@ -89,14 +81,6 @@
   ],
   "2016": [
     {
-      "id": "short_7",
-      "type": "short_answer",
-      "chapter": "4",
-      "chapter_name": "Carbon and its Compounds",
-      "question": "In which medium is the covalent compound soluble ?",
-      "prashna": "सह संयोजक यौगिक किसमें घुलनशील होते हैं ?"
-    },
-    {
       "id": "short_8",
       "type": "short_answer",
       "chapter": "4",
@@ -131,14 +115,6 @@
       "prashna": "प्रतिस्थापन अभिक्रिया क्या है?"
     },
     {
-      "id": "short_6",
-      "type": "short_answer",
-      "chapter": "4",
-      "chapter_name": "Carbon and its Compounds",
-      "question": "What do you understand by a catalyst?",
-      "prashna": "उत्प्रेरक से आप क्या समझते हैं?"
-    },
-    {
       "id": "short_7",
       "type": "short_answer",
       "chapter": "4",
@@ -148,22 +124,6 @@
     }
   ],
   "2018": [
-    {
-      "id": "short_10",
-      "type": "short_answer",
-      "chapter": "4",
-      "chapter_name": "Carbon and its Compounds",
-      "question": "Draw the electron dot structure for - (a) $H_2S$, (b) $F_2$",
-      "prashna": "इलेक्ट्रॉन बिंदु संरचना बनाइए: (a) $H_2S$, (b) $F_2$",
-      "sub_questions": {
-        "a": "$H_2S$",
-        "b": "$F_2$"
-      },
-      "anuprashna": {
-        "a": "$H_2S$",
-        "b": "$F_2$"
-      }
-    },
     {
       "id": "short_11",
       "type": "short_answer",
@@ -303,6 +263,24 @@
       "chapter_name": "Carbon and its Compounds",
       "question": "What do you understand by homologous series ? Write with examples.",
       "prashna": "समजातीय श्रेणी से आप क्या समझते हैं ? उदाहरण के साथ लिखिए।"
+    }
+  ],
+  "2026": [
+    {
+      "id": "short_16",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "What is isomerism ? Give one example.",
+      "prashna": "समावयवता क्या है ? कोई एक उदाहरण दें।"
+    },
+    {
+      "id": "short_14",
+      "type": "short_answer",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "Why are carbon and its compounds used as fuel ?",
+      "prashna": "कार्बन एवं उनके यौगिकों का उपयोग ईंधन के रूप में क्यों किया जाता है ?"
     }
   ]
 }

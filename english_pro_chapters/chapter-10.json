@@ -3,8 +3,9 @@
     {
       "id": "poem_1",
       "type": "poem",
+      "section": "Panorama",
       "chapter": "10",
-      "chapter_name": "Dust of Snow (Poem)",
+      "chapter_name": "Ode on Solitude",
       "question": "Read carefully the stanza given below and answer the questions that follow:",
       "prashna": "नीचे दिए गए पद्यांश को ध्यानपूर्वक पढ़ें और उसके बाद आने वाले प्रश्नों के उत्तर दें:",
       "context": "Whose herd with milk, whose field with bread.\nWhose flock supply him with attire,\nWhose trees in summer yield him shade, in winter fire.",
@@ -20,6 +21,598 @@
         "3": "उसे रोटी कौन देता है?",
         "4": "उसे अपने कपड़े कहाँ से मिलते हैं?"
       }
+    }
+  ],
+  "2016": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "section": "Grammar",
+      "chapter": "10",
+      "chapter_name": "Transformation of Sentences (Simple, Complex, Compound)",
+      "question": "Do as directed: i) The mountain is too high to climb. (Remove too ... to) ii) Mohan is the best boy. (Positive degree) iii) Sita sings a song. (Into Passive voice) iv) Man is mortal. (Into Negative)",
+      "prashna": "निर्देशानुसार करें: i) पहाड़ बहुत ऊंचा है कि चढ़ा न जा सके। (too ... to हटाएं) ii) मोहन सबसे अच्छा लड़का है। (धनात्मक रूप) iii) सीता एक गीत गाती है। (निष्क्रिय आवाज में) iv) मनुष्य नश्वर है। (नकारात्मक रूप में)"
+    }
+  ],
+  "2017": [
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "section": "Grammar",
+      "chapter": "10",
+      "chapter_name": "Transformation of Sentences (Simple, Complex, Compound)",
+      "question": "Can a human nature change? (Change into assertive)",
+      "prashna": "इस वाक्य को Assertive में बदलिए: 'क्या मानव स्वभाव बदल सकता है?'"
+    },
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "section": "Grammar",
+      "chapter": "10",
+      "chapter_name": "Transformation of Sentences (Simple, Complex, Compound)",
+      "question": "What a piece of work is man! (Change into assertive sentence)",
+      "prashna": "इस वाक्य को Assertive में बदलिए: 'मनुष्य क्या एक उत्कृष्ट कृति है!'"
+    },
+    {
+      "id": "poem_1",
+      "type": "poem",
+      "section": "Panorama",
+      "chapter": "10",
+      "chapter_name": "Ode on Solitude",
+      "context": "\"Happy the man whose wish and care. A few paternal acres bound Content to breathe his native air in his own ground\".",
+      "sub_questions": {
+        "1": "Who has composed this poem?",
+        "2": "Who is a happy man?",
+        "3": "Who does the pronoun 'his' in the third line of the first stanza refer to?",
+        "4": "What is the theme of the first stanza of this poem?"
+      },
+      "anuprashna": {
+        "1": "इस कविता की रचना किसने की है?",
+        "2": "खुशकिस्मत आदमी कौन है?",
+        "3": "पहले छंद की तीसरी पंक्ति में 'his' सर्वनाम किसके लिए है?",
+        "4": "इस कविता के पहले छंद का विषय क्या है?"
+      }
+    },
+    {
+      "id": "poem_1",
+      "type": "poem",
+      "section": "Panorama",
+      "chapter": "10",
+      "chapter_name": "Ode on Solitude",
+      "question": "Read carefully the stanza given below and answer the questions that follow:",
+      "prashna": "नीचे दिए गए पद्यांश को ध्यान से पढ़ें और उसके बाद आने वाले प्रश्नों के उत्तर दें:",
+      "context": "Happy the men whose wish and care.\nA few paternal acres bound\nContent to breathe his native air\nin his own ground",
+      "sub_questions": {
+        "1": "Who has composed this poem?",
+        "2": "Who is a happy man?",
+        "3": "Who does the pronoun 'his' in the third line of the first stanza refer to?",
+        "4": "What is the theme of the first stanza of this poem."
+      },
+      "anuprashna": {
+        "1": "इस कविता की रचना किसने की है?",
+        "2": "सुखी व्यक्ति कौन है?",
+        "3": "पहले छंद की तीसरी पंक्ति में सर्वनाम 'his' किसे संदर्भित करता है?",
+        "4": "इस कविता के पहले छंद का विषय क्या है?"
+      }
+    }
+  ],
+  "2018": [
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "10",
+      "chapter_name": "Ode on Solitude",
+      "question": "A happy man's wants are satisfied by the property inherited by him from his…………",
+      "prashna": "एक सुखी व्यक्ति की इच्छाएँ उसके द्वारा अपने ………… से विरासत में मिली संपत्ति से पूरी होती हैं।",
+      "options": {
+        "A": "uncle",
+        "B": "mother",
+        "C": "cousin",
+        "D": "father"
+      },
+      "vikalpa": {
+        "A": "चाचा/मामा",
+        "B": "माता",
+        "C": "चचेरे भाई",
+        "D": "पिता"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "10",
+      "chapter_name": "Ode on Solitude",
+      "question": "\"Ode on Solitude\" is written by ............",
+      "prashna": "\"Ode on Solitude\" किसके द्वारा लिखी गई है ............",
+      "options": {
+        "A": "Alexander Pope",
+        "B": "Leo Tolstoy",
+        "C": "R.C. Hutchinson",
+        "D": "Toni Morrison"
+      },
+      "vikalpa": {
+        "A": "अलेक्जेंडर पोप",
+        "B": "लियो टॉलस्टॉय",
+        "C": "आर.सी. हचिंसन",
+        "D": "टोनी मॉरिसन"
+      }
+    }
+  ],
+  "2019": [
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "10",
+      "chapter_name": "Ode on Solitude",
+      "question": "Pope, in the poem 'Ode on Solitude', says that village people get everything except -",
+      "prashna": "पोप, अपनी कविता 'ओड ऑन सॉलिट्यूड' में कहते हैं कि गाँव के लोगों को इसके अलावा सब कुछ मिलता है -",
+      "options": {
+        "A": "Milk from herds",
+        "B": "Bread from fields",
+        "C": "Attire from flocks",
+        "D": "Money from trees"
+      },
+      "vikalpa": {
+        "A": "झुंडों से दूध",
+        "B": "खेतों से रोटी",
+        "C": "रेवड़ों से पोशाक",
+        "D": "पेड़ों से पैसा"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "10",
+      "chapter_name": "Ode on Solitude",
+      "question": "Pope, in the poem 'Ode on Solitude', says that village people get everything except -",
+      "prashna": "पोप, कविता 'ओड ऑन सॉलिट्यूड' में कहते हैं कि गांव के लोगों को सब कुछ मिलता है सिवाय -",
+      "options": {
+        "A": "Milk from herds",
+        "B": "Bread from fields",
+        "C": "Attire from flocks",
+        "D": "Money from trees"
+      },
+      "vikalpa": {
+        "A": "झुंड से दूध",
+        "B": "खेतों से रोटी",
+        "C": "भेड़ों से पोशाक",
+        "D": "पेड़ों से पैसा"
+      }
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "section": "Panorama",
+      "chapter": "10",
+      "chapter_name": "Ode on Solitude",
+      "question": "What is Pope's idea of a happy man in the poem 'Ode on Solitude'?",
+      "prashna": "'ओड ऑन सॉलिट्यूड' कविता में पोप का एक सुखी व्यक्ति का विचार क्या है?"
+    }
+  ],
+  "2020": [
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "10",
+      "chapter_name": "Ode on Solitude",
+      "question": "The poet in 'Ode on Solitude' wants to live",
+      "prashna": "'ओड ऑन सॉलिट्यूड' में कवि कैसे जीना चाहता है?",
+      "options": {
+        "A": "seen",
+        "B": "unseen",
+        "C": "remembered",
+        "D": "praised"
+      },
+      "vikalpa": {
+        "A": "देखा हुआ (प्रसिद्धि के साथ)",
+        "B": "अनदेखा (एकांत में)",
+        "C": "याद किया हुआ",
+        "D": "प्रशंसित"
+      }
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "10",
+      "chapter_name": "Ode on Solitude",
+      "question": "'Ode on Solitude' has been written by",
+      "prashna": "'ओड ऑन सोलिट्यूड' लिखी गई है",
+      "options": {
+        "A": "Walter de la Mare",
+        "B": "John Keats",
+        "C": "William Wordsworth",
+        "D": "Alexander Pope"
+      },
+      "vikalpa": {
+        "A": "वॉल्टर डे ला मेयर",
+        "B": "जॉन कीट्स",
+        "C": "विलियम वर्ड्सवर्थ",
+        "D": "अलेक्जेंडर पोप"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "10",
+      "chapter_name": "Ode on Solitude",
+      "question": "The happy man is ... to breathe his native air.",
+      "prashna": "खुश आदमी अपने देश की हवा में सांस लेने के लिए ... है।",
+      "options": {
+        "A": "content",
+        "B": "sad",
+        "C": "cruel",
+        "D": "unable"
+      },
+      "vikalpa": {
+        "A": "संतुष्ट",
+        "B": "दुखी",
+        "C": "क्रूर",
+        "D": "असमर्थ"
+      }
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "10",
+      "chapter_name": "Ode on Solitude",
+      "question": "In 'Ode on Solitude', the poet says that a happy man wants to ………….unlamented",
+      "prashna": "'ओड ऑन सॉलिट्यूड' में, कवि कहता है कि एक खुशहाल आदमी बिना किसी विलाप के ………….. चाहता है",
+      "options": {
+        "A": "sleep",
+        "B": "think",
+        "C": "die",
+        "D": "live"
+      },
+      "vikalpa": {
+        "A": "सोना",
+        "B": "सोचना",
+        "C": "मरना",
+        "D": "जीना"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_54",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "10",
+      "chapter_name": "Ode on Solitude",
+      "question": "A ... man is very contented with the few acres of paternal land.",
+      "options": {
+        "A": "sad",
+        "B": "greedy",
+        "C": "happy",
+        "D": "wise"
+      },
+      "prashna": "एक ... आदमी अपने पिता की कुछ एकड़ भूमि से बहुत संतुष्ट है।",
+      "vikalpa": {
+        "A": "दुखी",
+        "B": "लालची",
+        "C": "खुश",
+        "D": "बुद्धिमान"
+      }
+    },
+    {
+      "id": "obj_56",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "10",
+      "chapter_name": "Ode on Solitude",
+      "question": "The happy man gets ... from his cattle.",
+      "options": {
+        "A": "vegetables",
+        "B": "fruits",
+        "C": "milk",
+        "D": "shade"
+      },
+      "prashna": "खुश आदमी को अपने मवेशियों से ... मिलता है।",
+      "vikalpa": {
+        "A": "सब्जियाँ",
+        "B": "फल",
+        "C": "दूध",
+        "D": "छाया"
+      }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "10",
+      "chapter_name": "Ode on Solitude",
+      "question": "Pope is remembered chiefly as a",
+      "prashna": "पोप को मुख्य रूप से किस रूप में याद किया जाता है?",
+      "options": {
+        "A": "novelist",
+        "B": "dramatist",
+        "C": "satirist",
+        "D": "politician"
+      },
+      "vikalpa": {
+        "A": "उपन्यासकार",
+        "B": "नाटककार",
+        "C": "व्यंग्यकार",
+        "D": "राजनीतिज्ञ"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "10",
+      "chapter_name": "Ode on Solitude",
+      "question": "Pope is content to",
+      "prashna": "पोप इसमें संतुष्ट हैं",
+      "options": {
+        "A": "eat good food",
+        "B": "have excess wealth",
+        "C": "breathe the native air",
+        "D": "travel across the world"
+      },
+      "vikalpa": {
+        "A": "अच्छा खाना खाना",
+        "B": "अत्यधिक धन होना",
+        "C": "अपनी मातृभूमि की हवा में सांस लेना",
+        "D": "दुनिया भर की यात्रा करना"
+      }
+    },
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "10",
+      "chapter_name": "Ode on Solitude",
+      "question": "A ............... man, according to Pope, has no cares and anxieties.",
+      "prashna": "पोप के अनुसार, एक ............... व्यक्ति को कोई चिंता और फिक्र नहीं होती।",
+      "options": {
+        "A": "blessed",
+        "B": "poor",
+        "C": "wicked",
+        "D": "rich"
+      },
+      "vikalpa": {
+        "A": "भाग्यशाली/धन्य",
+        "B": "गरीब",
+        "C": "दुष्ट",
+        "D": "अमीर"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "10",
+      "chapter_name": "Ode on Solitude",
+      "question": "Who composed 'Ode on Solitude'?",
+      "prashna": "'Ode on Solitude' की रचना किसने की?",
+      "options": {
+        "A": "William Cowper",
+        "B": "Tony Morrison",
+        "C": "Walter de la Mare",
+        "D": "Alexander Pope"
+      },
+      "vikalpa": {
+        "A": "विलियम कूपर",
+        "B": "टोनी मॉरिसन",
+        "C": "वॉल्टर डी ला मेयर",
+        "D": "अलेक्जेंडर पोप"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "10",
+      "chapter_name": "Ode on Solitude",
+      "question": "The happy man is content to get his food from his……………..",
+      "prashna": "सुखी व्यक्ति अपने .............. से भोजन प्राप्त करने में संतुष्ट रहता है।",
+      "options": {
+        "A": "cattle",
+        "B": "parents",
+        "C": "fields",
+        "D": "relatives"
+      },
+      "vikalpa": {
+        "A": "मवेशी",
+        "B": "माता-पिता",
+        "C": "खेत",
+        "D": "रिश्तेदार"
+      }
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "10",
+      "chapter_name": "Ode on Solitude",
+      "question": "A man, according to Alexander Pope, is said to be blessed when he has no",
+      "prashna": "अलेक्जेंडर पोप के अनुसार, मनुष्य को धन्य कहा जाता है जब उसकी ___ नहीं होती।",
+      "options": {
+        "A": "relationships",
+        "B": "anxieties",
+        "C": "properties",
+        "D": "friends"
+      },
+      "vikalpa": {
+        "A": "रिश्ते",
+        "B": "चिंताएँ",
+        "C": "संपत्ति",
+        "D": "मित्र"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "10",
+      "chapter_name": "Ode on Solitude",
+      "question": "The happy man is .................... to breathe his native air.",
+      "prashna": "खुश आदमी अपने मूल वायु को सांस लेने में .................... है।",
+      "options": {
+        "A": "able",
+        "B": "content",
+        "C": "sad",
+        "D": "unable"
+      },
+      "vikalpa": {
+        "A": "सक्षम",
+        "B": "संतुष्ट",
+        "C": "दुखी",
+        "D": "असमर्थ"
+      }
+    },
+    {
+      "id": "short_answer_4",
+      "type": "short_answer",
+      "section": "Panorama",
+      "chapter": "10",
+      "chapter_name": "Ode on Solitude",
+      "question": "What is the poet wish for after death?",
+      "prashna": "मृत्यु के बाद कवि क्या चाहता है?"
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "10",
+      "chapter_name": "Ode on Solitude",
+      "question": "A happy man's ............... and care are bound by a few paternal acres.",
+      "prashna": "एक सुखी व्यक्ति की ............... और देखभाल कुछ पैतृक एकड़ जमीन तक सीमित होती है।",
+      "options": {
+        "A": "sleep",
+        "B": "health",
+        "C": "wealth",
+        "D": "wish"
+      },
+      "vikalpa": {
+        "A": "नींद",
+        "B": "स्वास्थ्य",
+        "C": "धन",
+        "D": "इच्छा"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "10",
+      "chapter_name": "Ode on Solitude",
+      "question": "A happy man is ............... to breathe his native air.",
+      "prashna": "एक सुखी व्यक्ति अपनी जन्मभूमि की हवा में सांस लेने में ............... होता है।",
+      "options": {
+        "A": "able",
+        "B": "content",
+        "C": "sad",
+        "D": "unable"
+      },
+      "vikalpa": {
+        "A": "सक्षम",
+        "B": "संतुष्ट",
+        "C": "उदास",
+        "D": "असमर्थ"
+      }
+    },
+    {
+      "id": "obj_56",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "10",
+      "chapter_name": "Ode on Solitude",
+      "question": "The poet wants to live unseen and ...............",
+      "prashna": "कवि अनदेखा और ............... जीना चाहता है।",
+      "options": {
+        "A": "unknown",
+        "B": "silently",
+        "C": "peacefully",
+        "D": "unheard"
+      },
+      "vikalpa": {
+        "A": "अज्ञात",
+        "B": "खामोशी से",
+        "C": "शांति से",
+        "D": "अनसुना"
+      }
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "section": "Panorama",
+      "chapter": "10",
+      "chapter_name": "Ode on Solitude",
+      "question": "Who, according to Alexander Pope, is a happy man ?",
+      "prashna": "अलेक्जेंडर पोप के अनुसार, एक सुखी व्यक्ति कौन है?"
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "10",
+      "chapter_name": "Ode on Solitude",
+      "question": "The happy man gets ............... from his cattle.",
+      "prashna": "सुखी व्यक्ति को अपने मवेशियों से ............... मिलता है।",
+      "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
+      "options": {
+        "A": "vegetables",
+        "B": "milk",
+        "C": "fruits",
+        "D": "shade"
+      },
+      "vikalpa": {
+        "A": "सब्जियाँ",
+        "B": "दूध",
+        "C": "फल",
+        "D": "छाया"
+      }
+    },
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "10",
+      "chapter_name": "Ode on Solitude",
+      "question": "Pope is content to",
+      "prashna": "पोप किस बात से संतुष्ट हैं?",
+      "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
+      "options": {
+        "A": "eat good food",
+        "B": "have excess health",
+        "C": "breathe the native air",
+        "D": "travel across the world"
+      },
+      "vikalpa": {
+        "A": "अच्छा भोजन करने से",
+        "B": "अत्यधिक स्वास्थ्य रखने से",
+        "C": "अपनी जन्मभूमि की हवा में सांस लेने से",
+        "D": "पूरी दुनिया की यात्रा करने से"
+      }
+    },
+    {
+      "id": "short_4_a",
+      "type": "short_answer",
+      "section": "Panorama",
+      "chapter": "10",
+      "chapter_name": "Ode on Solitude",
+      "question": "How do the trees help a happy man ?",
+      "prashna": "पेड़ एक सुखी व्यक्ति की किस प्रकार मदद करते हैं?",
+      "instructions": "Answer any five of the following questions :"
     }
   ]
 }

@@ -87,46 +87,6 @@
   ],
   "2014": [
     {
-      "id": "obj_2",
-      "type": "objective",
-      "chapter": "4",
-      "chapter_name": "Carbon and its Compounds",
-      "question": "Diesel is used in",
-      "prashna": "डीजल का उपयोग होता है।",
-      "options": {
-        "A": "In heavy vehicles",
-        "B": "In railway engines",
-        "C": "In power generation",
-        "D": "In all of these"
-      },
-      "vikalpa": {
-        "A": "भारी वाहनों में",
-        "B": "रेल के इंजनों में",
-        "C": "विद्युत उत्पादन में",
-        "D": "इन सभी में"
-      }
-    },
-    {
-      "id": "obj_43",
-      "type": "objective",
-      "chapter": "4",
-      "chapter_name": "Carbon and its Compounds",
-      "question": "Which of the following is a covalent compound?",
-      "prashna": "निम्न में कौन सहसंयोजी यौगिक है?",
-      "options": {
-        "A": "$\text{NaCl}$",
-        "B": "$\text{CaCl}_2$",
-        "C": "$\text{CH}_4$",
-        "D": "$\text{Na}_2\text{O}$"
-      },
-      "vikalpa": {
-        "A": "$\text{NaCl}$",
-        "B": "$\text{CaCl}_2$",
-        "C": "$\text{CH}_4$",
-        "D": "$\text{Na}_2\text{O}$"
-      }
-    },
-    {
       "id": "obj_53",
       "type": "objective",
       "chapter": "4",
@@ -144,6 +104,26 @@
         "B": "ऑक्सीजन",
         "C": "हाइड्रोजन",
         "D": "नाइट्रोजन"
+      }
+    },
+    {
+      "id": "obj_54",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "Common name of methanoic acid is",
+      "prashna": "मेथनॉइक अम्ल का सामान्य नाम है",
+      "options": {
+        "A": "Formic acid",
+        "B": "Acetic acid",
+        "C": "Lactic acid",
+        "D": "Lactic acid"
+      },
+      "vikalpa": {
+        "A": "फॉर्मिक अम्ल",
+        "B": "एसीटीक अम्ल",
+        "C": "लैक्टिक अम्ल",
+        "D": "लैक्टिक अम्ल"
       }
     },
     {
@@ -204,26 +184,6 @@
         "B": "एथाइन",
         "C": "एथनॉल",
         "D": "मिथेन"
-      }
-    },
-    {
-      "id": "obj_70",
-      "type": "objective",
-      "chapter": "4",
-      "chapter_name": "Carbon and its Compounds",
-      "question": "Which of the following acids is found in vinegar?",
-      "prashna": "सिरका में निम्न में कौन-सा अम्ल पाया जाता है?",
-      "options": {
-        "A": "Sulphuric acid",
-        "B": "Hydrochloric acid",
-        "C": "Formic acid",
-        "D": "Acetic acid"
-      },
-      "vikalpa": {
-        "A": "गंधकाम्ल",
-        "B": "हाइड्रोक्लोरिक अम्ल",
-        "C": "फॉर्मिल अम्ल",
-        "D": "ऐसीटिक अम्ल"
       }
     },
     {
@@ -473,26 +433,6 @@
   ],
   "2017": [
     {
-      "id": "obj_4",
-      "type": "objective",
-      "chapter": "4",
-      "chapter_name": "Carbon and its Compounds",
-      "question": "Which of the following is not used as a cooking fuel?",
-      "prashna": "निम्नलिखित में से किसका उपयोग खाना बनाने वाले ईंधन में नहीं होता है?",
-      "options": {
-        "A": "C.N.G",
-        "B": "L.P.G",
-        "C": "Bio Gas",
-        "D": "Coal"
-      },
-      "vikalpa": {
-        "A": "C.N.G",
-        "B": "L.P.G",
-        "C": "बायो गैस",
-        "D": "कोयला"
-      }
-    },
-    {
       "id": "obj_9",
       "type": "objective",
       "chapter": "4",
@@ -530,26 +470,6 @@
         "B": "अपररूप",
         "C": "समावयवी",
         "D": "कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_4",
-      "type": "objective",
-      "chapter": "4",
-      "chapter_name": "Carbon and its Compounds",
-      "question": "Which of the following is not used as a cooking fuel?",
-      "prashna": "निम्नलिखित में से किसका उपयोग खाना बनाने वाले ईंधन में नहीं होता है?",
-      "options": {
-        "A": "C.N.G.",
-        "B": "L.P.G.",
-        "C": "Biogas",
-        "D": "Coal"
-      },
-      "vikalpa": {
-        "A": "C.N.G.",
-        "B": "L.P.G.",
-        "C": "बायो गैस",
-        "D": "कोयला"
       }
     },
     {
@@ -737,6 +657,26 @@
       }
     },
     {
+      "id": "obj_24",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "How many atoms of oxygen are there in one molecule of Glucose?",
+      "prashna": "ग्लूकोज के एक अणु में ऑक्सीजन के कितने परमाणु होते हैं?",
+      "options": {
+        "A": "4",
+        "B": "6",
+        "C": "8",
+        "D": "12"
+      },
+      "vikalpa": {
+        "A": "4",
+        "B": "6",
+        "C": "8",
+        "D": "12"
+      }
+    },
+    {
       "id": "obj_29",
       "type": "objective",
       "chapter": "4",
@@ -777,26 +717,6 @@
       }
     },
     {
-      "id": "obj_32",
-      "type": "objective",
-      "chapter": "4",
-      "chapter_name": "Carbon and its Compounds",
-      "question": "How many bonds are formed between the two oxygen atoms?",
-      "prashna": "ऑक्सीजन के दो परमाणुओं के बीच कितने आबंध बनते हैं?",
-      "options": {
-        "A": "Single Bond",
-        "B": "Double Bond",
-        "C": "Triple Bond",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "एक आबंध",
-        "B": "द्वि आबंध",
-        "C": "त्रि आबंध",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
       "id": "obj_38",
       "type": "objective",
       "chapter": "4",
@@ -818,26 +738,6 @@
     }
   ],
   "2020": [
-    {
-      "id": "obj_2",
-      "type": "objective",
-      "chapter": "4",
-      "chapter_name": "Carbon and its Compounds",
-      "question": "The atomic number of carbon is",
-      "prashna": "कार्बन की परमाणु संख्या है",
-      "options": {
-        "A": "6",
-        "B": "8",
-        "C": "9",
-        "D": "11"
-      },
-      "vikalpa": {
-        "A": "6",
-        "B": "8",
-        "C": "9",
-        "D": "11"
-      }
-    },
     {
       "id": "obj_3",
       "type": "objective",
@@ -879,46 +779,6 @@
       }
     },
     {
-      "id": "obj_25",
-      "type": "objective",
-      "chapter": "4",
-      "chapter_name": "Carbon and its Compounds",
-      "question": "According to modern periodic law, properties of elements are a periodic function of their",
-      "prashna": "आधुनिक आवर्त नियम के अनुसार तत्वों के गुणधर्म निम्नलिखित में किसके आवर्त फलन होते हैं ?",
-      "options": {
-        "A": "Atomic masses",
-        "B": "Atomic numbers",
-        "C": "Atomic size",
-        "D": "Density"
-      },
-      "vikalpa": {
-        "A": "परमाणु द्रव्यमानों के",
-        "B": "परमाणु संख्याओं के",
-        "C": "परमाणु आकार के",
-        "D": "घनत्व के"
-      }
-    },
-    {
-      "id": "obj_26",
-      "type": "objective",
-      "chapter": "4",
-      "chapter_name": "Carbon and its Compounds",
-      "question": "The horizontal rows of modern periodic table are known as which of the following?",
-      "prashna": "आधुनिक आवर्त सारणी की क्षैतिज कतारें निम्नलिखित में क्या कहलाती हैं ?",
-      "options": {
-        "A": "Periods",
-        "B": "Groups",
-        "C": "Shells",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "आवर्त",
-        "B": "समूह",
-        "C": "कोश",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
       "id": "obj_8",
       "type": "objective",
       "chapter": "4",
@@ -936,6 +796,26 @@
         "B": "$>\text{CO}$",
         "C": "$-\text{COOH}$",
         "D": "$-\text{O}-$"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "Which of the following is the chemical formula of glucose ?",
+      "prashna": "ग्लूकोज का रासायनिक सूत्र निम्नलिखित में कौन है ?",
+      "options": {
+        "A": "$C_2H_5OH$",
+        "B": "$C_6H_6O_6$",
+        "C": "$C_6H_{12}O_6$",
+        "D": "$C_6H_6$"
+      },
+      "vikalpa": {
+        "A": "$C_2H_5OH$",
+        "B": "$C_6H_6O_6$",
+        "C": "$C_6H_{12}O_6$",
+        "D": "$C_6H_6$"
       }
     },
     {
@@ -960,26 +840,6 @@
     }
   ],
   "2021": [
-    {
-      "id": "obj_2",
-      "type": "objective",
-      "chapter": "4",
-      "chapter_name": "Carbon and its Compounds",
-      "question": "Diesel is used in",
-      "prashna": "डीजल का उपयोग होता है।",
-      "options": {
-        "A": "Heavy vehicles",
-        "B": "Railway engines",
-        "C": "Electricity generation",
-        "D": "All of these"
-      },
-      "vikalpa": {
-        "A": "भारी वाहनों में",
-        "B": "रेल के इंजनों में",
-        "C": "विद्युत उत्पादन में",
-        "D": "इन सभी में"
-      }
-    },
     {
       "id": "obj_43",
       "type": "objective",
@@ -1098,26 +958,6 @@
         "B": "एथाइन",
         "C": "एथनॉल",
         "D": "मिथेन"
-      }
-    },
-    {
-      "id": "obj_70",
-      "type": "objective",
-      "chapter": "4",
-      "chapter_name": "Carbon and its Compounds",
-      "question": "Which of the following acids is found in vinegar?",
-      "prashna": "सिरका में निम्न में कौन-सा अम्ल पाया जाता है?",
-      "options": {
-        "A": "Sulphuric acid",
-        "B": "Hydrochloric acid",
-        "C": "Formic acid",
-        "D": "Acetic acid"
-      },
-      "vikalpa": {
-        "A": "गंधकाम्ल",
-        "B": "हाइड्रोक्लोरिक अम्ल",
-        "C": "फॉर्मिक अम्ल",
-        "D": "ऐसीटिक अम्ल"
       }
     },
     {
@@ -1281,26 +1121,6 @@
       }
     },
     {
-      "id": "obj_66",
-      "type": "objective",
-      "chapter": "4",
-      "chapter_name": "Carbon and its Compounds",
-      "question": "Carbon is a",
-      "prashna": "कार्बन है",
-      "options": {
-        "A": "Metal",
-        "B": "Non-metal",
-        "C": "Metalloid",
-        "D": "Alloy"
-      },
-      "vikalpa": {
-        "A": "धातु",
-        "B": "अधातु",
-        "C": "उपधातु",
-        "D": "मिश्रधातु"
-      }
-    },
-    {
       "id": "obj_67",
       "type": "objective",
       "chapter": "4",
@@ -1383,43 +1203,23 @@
       }
     },
     {
-      "id": "obj_1",
+      "id": "obj_54",
       "type": "objective",
       "chapter": "4",
       "chapter_name": "Carbon and its Compounds",
-      "question": "Fuel is",
-      "prashna": "ईंधन है",
+      "question": "The hardest natural substance is",
+      "prashna": "सबसे कठोर प्राकृतिक पदार्थ है",
       "options": {
-        "A": "CNG",
-        "B": "LPG",
-        "C": "Wood",
-        "D": "All of these"
+        "A": "Silver",
+        "B": "Iron",
+        "C": "Diamond",
+        "D": "Coal"
       },
       "vikalpa": {
-        "A": "CNG",
-        "B": "LPG",
-        "C": "रकडी",
-        "D": "इनभें से सबी"
-      }
-    },
-    {
-      "id": "obj_2",
-      "type": "objective",
-      "chapter": "4",
-      "chapter_name": "Carbon and its Compounds",
-      "question": "An example of fossil fuel is",
-      "prashna": "जीिाश्भ ईंधन का उदाहयर् है",
-      "options": {
-        "A": "Petroleum",
-        "B": "Coal",
-        "C": "Both (A) and (B)",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "ऩेट्रोमरमभ",
-        "B": "कोमरा",
-        "C": "(A) औय (B) दोनों",
-        "D": "इनभें से कोई नहीॊ"
+        "A": "चाँदी",
+        "B": "लोहा",
+        "C": "हीरा",
+        "D": "कोयला"
       }
     },
     {
@@ -1460,26 +1260,6 @@
         "B": "2",
         "C": "3",
         "D": "4"
-      }
-    },
-    {
-      "id": "obj_17",
-      "type": "objective",
-      "chapter": "4",
-      "chapter_name": "Carbon and its Compounds",
-      "question": "Tincture iodine is made by dissolving iodine in which of the following liquids?",
-      "prashna": "आमोडीन को ननम्नमरखखत भें ककस द्रि भें घोरने से दटक्ॊ चय आमोडीन फनता ह?ै",
-      "options": {
-        "A": "Chloroform",
-        "B": "Ether",
-        "C": "Carbon tetrachloride",
-        "D": "Ethyl alcohol"
-      },
-      "vikalpa": {
-        "A": "क्रोयोपॉभथ",
-        "B": "ईथय",
-        "C": "काफथन टेट्राक्रोयाइड",
-        "D": "एचथर ऐल्कोहॉर"
       }
     },
     {
@@ -1543,26 +1323,6 @@
       }
     },
     {
-      "id": "obj_21",
-      "type": "objective",
-      "chapter": "4",
-      "chapter_name": "Carbon and its Compounds",
-      "question": "Which of the following is not a fossil fuel?",
-      "prashna": "ननम्नमरखखत भें कौन जीिाश्भ ईंधन नहीॊ ह?ै",
-      "options": {
-        "A": "Biogas",
-        "B": "Petroleum",
-        "C": "Natural gas",
-        "D": "Coal"
-      },
-      "vikalpa": {
-        "A": "फामोगैस",
-        "B": "ऩेट्रोमरमभ",
-        "C": "प्राकनतक गैस",
-        "D": "कोमरा"
-      }
-    },
-    {
       "id": "obj_39",
       "type": "objective",
       "chapter": "4",
@@ -1621,29 +1381,29 @@
         "C": "4",
         "D": "5"
       }
-    },
-    {
-      "id": "obj_79",
-      "type": "objective",
-      "chapter": "4",
-      "chapter_name": "Carbon and its Compounds",
-      "question": "Which of the following is formed by hydrolysis of $Al_4C_3$?",
-      "prashna": "$Al_4C_3$ के जर अऩघटन से ननम्नाॊककत भें कौन फनता है?",
-      "options": {
-        "A": "Ethane",
-        "B": "Methane",
-        "C": "Alkyne",
-        "D": "Alkene"
-      },
-      "vikalpa": {
-        "A": "एथेन",
-        "B": "भेथेन",
-        "C": "एल्काइन",
-        "D": "एल्कीन"
-      }
     }
   ],
   "2023": [
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "What is the chemical formula of dry ice?",
+      "prashna": "शुष्क बर्फ का रासायनिक सूत्र क्या है?",
+      "options": {
+        "A": "$CO$",
+        "B": "$CO_2$",
+        "C": "$H_2O$",
+        "D": "$H_2O_2$"
+      },
+      "vikalpa": {
+        "A": "$CO$",
+        "B": "$CO_2$",
+        "C": "$H_2O$",
+        "D": "$H_2O_2$"
+      }
+    },
     {
       "id": "obj_23",
       "type": "objective",
@@ -1662,26 +1422,6 @@
         "B": "सोना",
         "C": "चाँदी",
         "D": "हीरा"
-      }
-    },
-    {
-      "id": "obj_52",
-      "type": "objective",
-      "chapter": "4",
-      "chapter_name": "Carbon and its Compounds",
-      "question": "How many bonds are there between two atoms of one molecule of oxygen gas ?",
-      "prashna": "ऑक्सीजन गैस के एक अणु के दो परमाणुओं के बीच कितने आबंध पाए जाते हैं?",
-      "options": {
-        "A": "1",
-        "B": "2",
-        "C": "3",
-        "D": "No bond"
-      },
-      "vikalpa": {
-        "A": "1",
-        "B": "2",
-        "C": "3",
-        "D": "कोई आबंध नहीं"
       }
     },
     {
@@ -1867,6 +1607,26 @@
       }
     },
     {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "Which of the following is the chemical formula of glucose ?",
+      "prashna": "ग्लूकोज का रासायनिक सूत्र निम्नलिखित में कौन है ?",
+      "options": {
+        "A": "$C_2H_5OH$",
+        "B": "$C_6H_6O_6$",
+        "C": "$C_6H_{12}O_6$",
+        "D": "$C_6H_6$"
+      },
+      "vikalpa": {
+        "A": "$C_2H_5OH$",
+        "B": "$C_6H_6O_6$",
+        "C": "$C_6H_{12}O_6$",
+        "D": "$C_6H_6$"
+      }
+    },
+    {
       "id": "obj_19",
       "type": "objective",
       "chapter": "4",
@@ -1924,26 +1684,6 @@
         "B": "$MgCl_2$",
         "C": "$CH_4$",
         "D": "NaCl"
-      }
-    },
-    {
-      "id": "obj_72",
-      "type": "objective",
-      "chapter": "4",
-      "chapter_name": "Carbon and its Compounds",
-      "question": "Which of the following is a good conductor of electricity ?",
-      "prashna": "निम्नांकित में कौन विद्युत का सुचालक है ?",
-      "options": {
-        "A": "Plastic",
-        "B": "Iodine",
-        "C": "Sulphur",
-        "D": "Graphite"
-      },
-      "vikalpa": {
-        "A": "प्लास्टिक",
-        "B": "आयोडीन",
-        "C": "गंधक",
-        "D": "ग्रेफाइट"
       }
     },
     {
@@ -2013,26 +1753,6 @@
       "chapter_name": "Carbon and its Compounds",
       "question": "How many crystalline allotropes of carbon are there?",
       "prashna": "कार्बन के कितने रवादार अपररूप हैं ?",
-      "options": {
-        "A": "1",
-        "B": "2",
-        "C": "3",
-        "D": "4"
-      },
-      "vikalpa": {
-        "A": "1",
-        "B": "2",
-        "C": "3",
-        "D": "4"
-      }
-    },
-    {
-      "id": "obj_63",
-      "type": "objective",
-      "chapter": "4",
-      "chapter_name": "Carbon and its Compounds",
-      "question": "How many bonds are there between two atoms in a nitrogen?",
-      "prashna": "नाइट्रोजन के अणु में दो परमाणुओं के बीच कितने आबंध हैं ?",
       "options": {
         "A": "1",
         "B": "2",
@@ -2209,26 +1929,6 @@
       }
     },
     {
-      "id": "obj_17",
-      "type": "objective",
-      "chapter": "4",
-      "chapter_name": "Carbon and its Compounds",
-      "question": "Tincture iodine solution is prepared in",
-      "prashna": "टिंचर आयोडीन विलयन बना होता है",
-      "options": {
-        "A": "Ethyl alcohol",
-        "B": "Chloroform",
-        "C": "Carbon tetrachloride",
-        "D": "Ether"
-      },
-      "vikalpa": {
-        "A": "एथिल ऐल्कोहॉल में",
-        "B": "क्लोरोफार्म में",
-        "C": "कार्बन टेट्राक्लोराइड में",
-        "D": "ईथर में"
-      }
-    },
-    {
       "id": "obj_18",
       "type": "objective",
       "chapter": "4",
@@ -2309,46 +2009,6 @@
       }
     },
     {
-      "id": "obj_24",
-      "type": "objective",
-      "chapter": "4",
-      "chapter_name": "Carbon and its Compounds",
-      "question": "How many bonds are found between the two atoms of a molecule of oxygen gas ?",
-      "prashna": "ऑक्सीजन गैस के एक अणु के दो परमाणुओं के बीच कितने आबंध पाए जाते हैं ?",
-      "options": {
-        "A": "1",
-        "B": "2",
-        "C": "3",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "1",
-        "B": "2",
-        "C": "3",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_52",
-      "type": "objective",
-      "chapter": "4",
-      "chapter_name": "Carbon and its Compounds",
-      "question": "The ratio of nitrogen and hydrogen atoms in one molecule of ammonia is",
-      "prashna": "अमोनिया के एक अणु में नाइट्रोजन एवं हाइड्रोजन के परमाणुओं का अनुपात होता है",
-      "options": {
-        "A": "1 : 3",
-        "B": "3 : 1",
-        "C": "1 : 2",
-        "D": "2 : 1"
-      },
-      "vikalpa": {
-        "A": "1 : 3",
-        "B": "3 : 1",
-        "C": "1 : 2",
-        "D": "2 : 1"
-      }
-    },
-    {
       "id": "obj_56",
       "type": "objective",
       "chapter": "4",
@@ -2366,6 +2026,228 @@
         "B": "फुलरीन",
         "C": "ग्रेफाइट",
         "D": "इनमें से सभी"
+      }
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "Which of the following is a hydrocarbon ?",
+      "prashna": "निम्नलिखित में से कौन हाइड्रोकार्बन है ?",
+      "options": {
+        "A": "$H_2O$",
+        "B": "$C_4H_{10}$",
+        "C": "$CO_2$",
+        "D": "$HNO_3$"
+      },
+      "vikalpa": {
+        "A": "$H_2O$",
+        "B": "$C_4H_{10}$",
+        "C": "$CO_2$",
+        "D": "$HNO_3$"
+      }
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "$-OH$ is the functional group of",
+      "prashna": "$-OH$ क्रियाशील समूह है",
+      "options": {
+        "A": "Ketone",
+        "B": "Alcohol",
+        "C": "Aldehyde",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "कीटोन का",
+        "B": "अल्कोहल का",
+        "C": "एल्डिहाइड का",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "How many covalent bonds are there in methane ?",
+      "prashna": "मिथेन में कितने सह-संयोजक बंधन होते हैं ?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "8"
+      },
+      "vikalpa": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "8"
+      }
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "The shape of $C_{60}$ Fullerene is similar to which of the following ?",
+      "prashna": "$C_{60}$ फुलेरीन की आकृति निम्नलिखित में किसके जैसी होती है ?",
+      "options": {
+        "A": "Pear",
+        "B": "Damru",
+        "C": "Football",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "नाशपाती",
+        "B": "डमरू",
+        "C": "फुटबॉल",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "The main component of domestic gas ( LPG ) is",
+      "prashna": "घरेलू गैस (LPG) का प्रमुख अवयव है",
+      "options": {
+        "A": "Methane",
+        "B": "Butane",
+        "C": "Ethane",
+        "D": "Propane"
+      },
+      "vikalpa": {
+        "A": "मिथेन",
+        "B": "ब्यूटेन",
+        "C": "एथेन",
+        "D": "प्रोपेन"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "Which of the following is the hardest natural substance ?",
+      "prashna": "निम्नलिखित में सबसे कठोर प्राकृतिक पदार्थ कौन है ?",
+      "options": {
+        "A": "Silver",
+        "B": "Iron",
+        "C": "Diamond",
+        "D": "Coal"
+      },
+      "vikalpa": {
+        "A": "चाँदी",
+        "B": "लोहा",
+        "C": "हीरा",
+        "D": "कोयला"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "The molecular formula of ethyl alcohol is",
+      "prashna": "इथाइल एल्कोहल का अणुसूत्र है",
+      "options": {
+        "A": "$CH_3OH$",
+        "B": "$C_2H_5OH$",
+        "C": "$C_2H_6OH$",
+        "D": "$C_2H_2OH$"
+      },
+      "vikalpa": {
+        "A": "$CH_3OH$",
+        "B": "$C_2H_5OH$",
+        "C": "$C_2H_6OH$",
+        "D": "$C_2H_2OH$"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "The molecular formula of benzene is",
+      "prashna": "बेंजीन का अणुसूत्र है",
+      "options": {
+        "A": "$CH_4$",
+        "B": "$C_2H_2$",
+        "C": "$C_6H_6$",
+        "D": "$C_2H_4$"
+      },
+      "vikalpa": {
+        "A": "$CH_4$",
+        "B": "$C_2H_2$",
+        "C": "$C_6H_6$",
+        "D": "$C_2H_4$"
+      }
+    },
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "Which of the following pairs is isomeric ?",
+      "prashna": "निम्नलिखित में कौन युग्म समावयवी है ?",
+      "options": {
+        "A": "$C_2H_6$ and $C_6H_6$",
+        "B": "$C_5H_{10}$ and $C_5H_{12}$",
+        "C": "$C_2H_5OH$ and $CH_3OCH_3$",
+        "D": "$CH_4$ and $C_2H_6$"
+      },
+      "vikalpa": {
+        "A": "$C_2H_6$ और $C_6H_6$",
+        "B": "$C_5H_{10}$ और $C_5H_{12}$",
+        "C": "$C_2H_5OH$ और $CH_3OCH_3$",
+        "D": "$CH_4$ और $C_2H_6$"
+      }
+    },
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "The IUPAC name of acetic acid is",
+      "prashna": "ऐसीटिक अम्ल का IUPAC नाम है",
+      "options": {
+        "A": "Ethanoic acid",
+        "B": "Methanoic acid",
+        "C": "Propanone",
+        "D": "Aldehyde"
+      },
+      "vikalpa": {
+        "A": "एथेनॉइक अम्ल",
+        "B": "मेथेनॉइक अम्ल",
+        "C": "प्रोपेनोन",
+        "D": "ऐल्डिहाइड"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "chapter": "4",
+      "chapter_name": "Carbon and its Compounds",
+      "question": "Which element is not present in alcohol ?",
+      "prashna": "एल्कोहॉल में कौन-सा तत्व उपस्थित नहीं है ?",
+      "options": {
+        "A": "Carbon",
+        "B": "Oxygen",
+        "C": "Hydrogen",
+        "D": "Nitrogen"
+      },
+      "vikalpa": {
+        "A": "कार्बन",
+        "B": "ऑक्सीजन",
+        "C": "हाइड्रोजन",
+        "D": "नाइट्रोजन"
       }
     }
   ]

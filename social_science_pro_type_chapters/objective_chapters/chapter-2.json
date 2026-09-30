@@ -1,1507 +1,3393 @@
 {
   "2011": [
     {
-      "id": "obj_2",
+      "id": "obj_1",
       "type": "objective",
+      "section": "History",
       "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "When did the Jallianwala Bagh massacre happen?",
-      "prashna": "जलियाँवाला बाग हत्याकांड कब हुआ था ?",
+      "chapter_name": "Socialism and Communism",
+      "question": "Where was Karl Marx born?",
+      "prashna": "कार्ल मार्क्स का जन्म कहाँ हुआ था ?",
       "options": {
-        "A": "6 April, 1919",
-        "B": "9 April, 1919",
-        "C": "13 April, 1919",
-        "D": "1 May, 1919"
+        "A": "England",
+        "B": "Germany",
+        "C": "Italy",
+        "D": "Russia"
       },
       "vikalpa": {
-        "A": "6 अप्रैल, 1919",
-        "B": "9 अप्रैल, 1919",
-        "C": "13 अप्रैल, 1919",
-        "D": "1 मई, 1919"
+        "A": "इंग्लैण्ड",
+        "B": "जर्मनी",
+        "C": "इटली",
+        "D": "रूस"
       }
     }
   ],
   "2012": [
     {
-      "id": "obj_2",
+      "id": "obj_3",
       "type": "objective",
+      "section": "History",
       "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "When was the Rashtriya Swayamsevak Sangh (RSS) established?",
-      "prashna": "राष्ट्रीय स्वयंसेवक संघ की स्थापना कब हुई ?",
+      "chapter_name": "Socialism and Communism",
+      "question": "When did the Bolshevik Revolution take place?",
+      "prashna": "बोल्शेविक क्रांति कब हुई ?",
       "options": {
-        "A": "1923",
-        "B": "1925",
-        "C": "1928",
-        "D": "1930"
+        "A": "January, 1905",
+        "B": "February, 1917",
+        "C": "November, 1917",
+        "D": "May, 1919"
       },
       "vikalpa": {
-        "A": "1923",
-        "B": "1925",
-        "C": "1928",
-        "D": "1930"
+        "A": "जनवरी, 1905",
+        "B": "फरवरी, 1917",
+        "C": "नवम्बर, 1917",
+        "D": "मई, 1919"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "2",
+      "chapter_name": "Agriculture",
+      "question": "Which of the following is a Kharif crop?",
+      "prashna": "निम्नलिखित में खरीफ फसल कौन है?",
+      "options": {
+        "A": "Wheat",
+        "B": "Mustard",
+        "C": "Rice",
+        "D": "Pea"
+      },
+      "vikalpa": {
+        "A": "गेहूँ",
+        "B": "सरसों",
+        "C": "चावल",
+        "D": "मटर"
+      }
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "Which of the following is not a feature of a federal state?",
+      "prashna": "संघ राज्य की विशेषता नहीं है",
+      "options": {
+        "A": "Written constitution",
+        "B": "Division of powers",
+        "C": "Unitary governance system",
+        "D": "Supreme Court"
+      },
+      "vikalpa": {
+        "A": "लिखित संविधान",
+        "B": "शक्तियों का विभाजन",
+        "C": "एकहरी शासन व्यवस्था",
+        "D": "सर्वोच्च न्यायालय"
+      }
+    }
+  ],
+  "2013": [
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "An example of a federal government is:",
+      "prashna": "संघ सरकार का उदाहरण है:",
+      "options": {
+        "A": "America",
+        "B": "China",
+        "C": "Britain",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "अमेरिका",
+        "B": "चीन",
+        "C": "ब्रिटेन",
+        "D": "इनमें से कोई नहीं"
       }
     }
   ],
   "2014": [
     {
-      "id": "obj_2",
+      "id": "obj_7",
       "type": "objective",
+      "section": "Economics",
       "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "When did the Rampa rebellion occur?",
-      "prashna": "रम्पा विद्रोह कब हुआ?",
+      "chapter_name": "State and National Income",
+      "question": "According to the year $2008-09$, the average per capita income of India is",
+      "prashna": "सन् $2008-09$ के अनुसार भारत की औसत प्रति व्यक्ति आय है",
       "options": {
-        "A": "$1916$",
-        "B": "$1917$",
-        "C": "$1918$",
-        "D": "$1919$"
+        "A": "Rs $22,533$",
+        "B": "Rs $25,494$",
+        "C": "Rs $6,610$",
+        "D": "Rs $54,850$"
       },
       "vikalpa": {
-        "A": "$1916$",
-        "B": "$1917$",
-        "C": "$1918$",
-        "D": "$1919$"
+        "A": "$22,533$ रुपये",
+        "B": "$25,494$ रुपये",
+        "C": "$6,610$ रुपये",
+        "D": "$54,850$ रुपये"
+      }
+    },
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "section": "History",
+      "chapter": "2",
+      "chapter_name": "Socialism and Communism",
+      "question": "Who wrote the book 'War and Peace'?",
+      "prashna": "'वार एण्ड पीस' पुस्तक की रचना किसने की ?",
+      "options": {
+        "A": "Karl Marx",
+        "B": "Tolstoy",
+        "C": "Dostoevsky",
+        "D": "Engels"
+      },
+      "vikalpa": {
+        "A": "कार्ल मार्क्स",
+        "B": "टालस्टाय",
+        "C": "दोस्तोवस्की",
+        "D": "ऐंजल्स"
       }
     }
   ],
   "2015": [
     {
-      "id": "obj_4",
+      "id": "obj_8",
       "type": "objective",
+      "section": "Geography",
       "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "Fill in the blank with appropriate word :\nRashtriya Swayam Sevak Sangha was founded in the year ________ .",
-      "prashna": "सही शब्द से रिक्त स्थान की पूर्ति करें :\nराष्ट्रीय स्वयं सेवक संघ की स्थापना ________ वर्ष में हुई थी।",
+      "chapter_name": "Agriculture",
+      "question": "Fill in the blanks with appropriate words :\n(ii) Major plantation crop in Karnataka is ________ .",
+      "prashna": "सही शब्द से रिक्त स्थानों की पूर्ति करें :\n(ii) कर्नाटक में ________ मुख्य रोपण फसल है।",
       "options": null,
       "vikalpa": null
-    }
-  ],
-  "2016": [
-    {
-      "id": "obj_2",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "When did Rampa rebellion take place ?",
-      "prashna": "रम्पा विद्रोह कब हुआ ?",
-      "options": {
-        "A": "$1916$",
-        "B": "$1917$",
-        "C": "$1918$",
-        "D": "$1919$"
-      },
-      "vikalpa": {
-        "A": "$1916$ में",
-        "B": "$1917$ में",
-        "C": "$1918$ में",
-        "D": "$1919$ में"
-      }
-    },
-    {
-      "id": "obj_2",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "When did the Rampa Rebellion occur?",
-      "prashna": "रम्पा विद्रोह कब हुआ ?",
-      "options": {
-        "A": "In 1916",
-        "B": "In 1917",
-        "C": "In 1918",
-        "D": "In 1919"
-      },
-      "vikalpa": {
-        "A": "1916 में",
-        "B": "1917 में",
-        "C": "1918 में",
-        "D": "1919 में"
-      }
-    }
-  ],
-  "2017": [
-    {
-      "id": "obj_4",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "Fill in blank with appropriate word: In Odisha, ........................ was opposed in ........................",
-      "prashna": "सही शब्द से रिक्त स्थान की पूर्ति करें : ओडिसा में ......... में ......... विद्रोह हुआ।"
-    }
-  ],
-  "2018": [
-    {
-      "id": "obj_3",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "In which session of Congress was the proposal for the Non-Cooperation Movement passed?",
-      "prashna": "असहयोग आन्दोलन का प्रस्ताव काँग्रेस के किस अधिवेशन में पारित हुआ?",
-      "options": {
-        "A": "September $1920$, Calcutta",
-        "B": "October $1920$, Ahmedabad",
-        "C": "November $1920$, Faizpur",
-        "D": "December $1920$, Nagpur"
-      },
-      "vikalpa": {
-        "A": "सितम्बर $1920$, कलकत्ता",
-        "B": "अक्टूबर $1920$, अहमदाबाद",
-        "C": "नवम्बर $1920$, फैजपुर",
-        "D": "दिसम्बर $1920$, नागपुर"
-      }
-    },
-    {
-      "id": "obj_4",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "When and by whom was the Rashtriya Swayamsevak Sangh established?",
-      "prashna": "राष्ट्रीय स्वयं सेवक संघ की स्थापना कब और किसने की ?",
-      "options": {
-        "A": "$1923$, Guru Golwalkar",
-        "B": "$1925$, K. B. Hedgewar",
-        "C": "$1926$, Chittaranjan Das",
-        "D": "$1928$, Lalchand"
-      },
-      "vikalpa": {
-        "A": "$1923$, गुरु गोलवलकर",
-        "B": "$1925$, के. बी. हेडगेवार",
-        "C": "$1926$, चितरंजन दास",
-        "D": "$1928$, लालचंद"
-      }
-    },
-    {
-      "id": "obj_3",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "In which annual session of congress, the proposal for demand of complete independence was passed?",
-      "prashna": "पूर्ण स्वराज्य की मांग का प्रस्ताव कांग्रेस के किस वार्षिक अधिवेशन में पारित हुआ?",
-      "options": {
-        "A": "$1929$, Lahore",
-        "B": "$1933$, Kolkata",
-        "C": "$1931$, Karachi",
-        "D": "$1924$, Belgaum"
-      },
-      "vikalpa": {
-        "A": "$1929$, लाहौर",
-        "B": "$1933$, कलकत्ता",
-        "C": "$1931$, कराची",
-        "D": "$1924$, बेलगाम"
-      }
-    },
-    {
-      "id": "obj_4",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "During which 'Peasant Movement' the title of 'Sardar' was given to Vallabh Bhai Patel?",
-      "prashna": "वल्लभ भाई पटेल को 'सरदार' की उपाधि किस 'किसान आन्दोलन' के दौरान दी गई?",
-      "options": {
-        "A": "Bardoli",
-        "B": "Ahmedabad",
-        "C": "Kheda",
-        "D": "Champaran"
-      },
-      "vikalpa": {
-        "A": "बारदोली",
-        "B": "अहमदाबाद",
-        "C": "खेड़ा",
-        "D": "चम्पारण"
-      }
-    }
-  ],
-  "2019": [
-    {
-      "id": "obj_2",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "Who gave the slogan 'Return towards Vedas'?",
-      "prashna": "वेदों की ओर लौटो' नारा किसने दिया था?",
-      "options": {
-        "A": "Ramakrishna Paramahamsa",
-        "B": "Swami Vivekananda",
-        "C": "Swami Dayanand Saraswati",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "रामकृष्ण परमहंस",
-        "B": "स्वामी विवेकानन्द",
-        "C": "स्वामी दयानन्द सरस्वती",
-        "D": "इनमें से कोई नहीं"
-      }
     },
     {
       "id": "obj_9",
       "type": "objective",
+      "section": "Civics",
       "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "Civil Disobedience Movement started with which march?",
-      "prashna": "सविनय अवज्ञा आंदोलन किस यात्रा से शुरू हुआ?",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "An example of federal government is",
+      "prashna": "संघ सरकार का उदाहरण है",
       "options": {
-        "A": "$1920$, Bhuj",
-        "B": "$1930$, Ahmedabad",
-        "C": "$1930$, Dandi",
+        "A": "America",
+        "B": "Britain",
+        "C": "China",
         "D": "None of these"
       },
       "vikalpa": {
-        "A": "$1920$, भुज",
-        "B": "$1930$, अहमदाबाद",
-        "C": "$1930$, दांडी",
+        "A": "अमरीका",
+        "B": "ब्रिटेन",
+        "C": "चीन",
         "D": "इनमें से कोई नहीं"
       }
     },
     {
-      "id": "obj_27",
+      "id": "obj_11",
       "type": "objective",
+      "section": "Economics",
       "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "The $10^{th}$ and the last Guru of Sikhs, Sri Gobind Singh, was born in which city of Bihar?",
-      "prashna": "सिखों के दसवें और अंतिम गुरु श्री गोबिन्द सिंह का जन्म बिहार के किस नगर में हुआ था?",
+      "chapter_name": "State and National Income",
+      "question": "Which state has the highest per capita income in India?",
+      "prashna": "भारत में किस राज्य का प्रति व्यक्ति आय सर्वाधिक है?",
       "options": {
-        "A": "Munger",
-        "B": "Khagaria",
-        "C": "Patna",
-        "D": "None of these"
+        "A": "Bihar",
+        "B": "Punjab",
+        "C": "Goa",
+        "D": "Haryana"
       },
       "vikalpa": {
-        "A": "मुंगेर",
-        "B": "खगड़िया",
-        "C": "पटना",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_30",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "Tipu Sultan was the ruler of-",
-      "prashna": "टीपू सुल्तान शासक थे-",
-      "options": {
-        "A": "Mysore",
-        "B": "Shimla",
-        "C": "Kashmir",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "मैसूर",
-        "B": "शिमला",
-        "C": "कश्मीर",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_33",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "When did the Jallianwala Bagh Massacre take place?",
-      "prashna": "जलियाँवाला बाग हत्याकांड कब हुआ?",
-      "options": {
-        "A": "$13$ April $1919$",
-        "B": "$14$ April $1919$",
-        "C": "$15$ April $1919$",
-        "D": "$16$ April $1919$"
-      },
-      "vikalpa": {
-        "A": "$13$ अप्रैल $1919$",
-        "B": "$14$ अप्रैल $1919$",
-        "C": "$15$ अप्रैल $1919$",
-        "D": "$16$ अप्रैल $1919$"
-      }
-    },
-    {
-      "id": "obj_4",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "In which year did Gandhi ji establish the Sabarmati Ashram?",
-      "prashna": "गाँधी जी ने साबरमती आश्रम की स्थापना किस वर्ष की?",
-      "options": {
-        "A": "1895",
-        "B": "1900",
-        "C": "1915",
-        "D": "1916"
-      },
-      "vikalpa": {
-        "A": "1895",
-        "B": "1900",
-        "C": "1915",
-        "D": "1916"
+        "A": "बिहार",
+        "B": "पंजाब",
+        "C": "गोवा",
+        "D": "हरियाणा"
       }
     },
     {
       "id": "obj_5",
       "type": "objective",
+      "section": "Civics",
       "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "Who founded the Brahmo Samaj?",
-      "prashna": "ब्रह्म समाज की स्थापना किसने की?",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "Which of the following is an example of a federal government?",
+      "prashna": "संघ सरकार का उदाहरण है।",
       "options": {
-        "A": "Raja Ram Mohan Roy",
-        "B": "Dayanand Saraswati",
-        "C": "Vivekananda",
-        "D": "Ramakrishna Paramhansa"
+        "A": "America",
+        "B": "Britain",
+        "C": "China",
+        "D": "None of these"
       },
       "vikalpa": {
-        "A": "राजा राममोहन राय",
-        "B": "दयानंद सरस्वती",
-        "C": "विवेकानंद",
-        "D": "रामकृष्ण परमहंस"
-      }
-    }
-  ],
-  "2020": [
-    {
-      "id": "obj_46",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "When did the civil disobedience movement start ?",
-      "prashna": "सविनय अवज्ञा आंदोलन कब शुरू हुआ ?",
-      "options": {
-        "A": "1920",
-        "B": "1930",
-        "C": "1935",
-        "D": "1942"
-      },
-      "vikalpa": {
-        "A": "$1920$",
-        "B": "$1930$",
-        "C": "$1935$",
-        "D": "$1942$"
+        "A": "अमेरिका",
+        "B": "ब्रिटेन",
+        "C": "चीन",
+        "D": "इनमें से कोई नहीं"
       }
     },
     {
-      "id": "obj_2",
+      "id": "obj_7",
       "type": "objective",
+      "section": "Economics",
       "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "When was the Rashtriya Swayamsevak Sangh established?",
-      "prashna": "राष्ट्रीय स्वयं सेवक संघ की स्थापना कब हुई?",
+      "chapter_name": "State and National Income",
+      "question": "Which state in India has the highest per capita income?",
+      "prashna": "भारत में किस राज्य की प्रति व्यक्ति आय सर्वाधिक है ?",
       "options": {
-        "A": "$1923$ A.D.",
-        "B": "$1925$ A.D.",
-        "C": "$1934$ A.D.",
-        "D": "$1939$ A.D."
+        "A": "Bihar",
+        "B": "Punjab",
+        "C": "Goa",
+        "D": "Haryana"
       },
       "vikalpa": {
-        "A": "$1923$ ई०",
-        "B": "$1925$ ई०",
-        "C": "$1934$ ई०",
-        "D": "$1939$ ई०"
+        "A": "बिहार",
+        "B": "पंजाब",
+        "C": "गोवा",
+        "D": "हरियाणा"
+      }
+    }
+  ],
+  "2016": [
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "How many seats are reserved for women in Panchayati Raj institutions in Bihar ?",
+      "prashna": "बिहार में पंचायती राज संस्थाओं में महिलाओं के लिए कितनी सीटें आरक्षित हैं ?",
+      "options": {
+        "A": "$50\\%$",
+        "B": "$25\\%$",
+        "C": "$33\\%$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$50\\%$",
+        "B": "$25\\%$",
+        "C": "$33\\%$",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "How many seats are reserved for women in Panchayati Raj institutions in Bihar?",
+      "prashna": "बिहार में पंचायती राज संस्थाओं में महिलाओं के लिए कितनी सीटें आरक्षित हैं?",
+      "options": {
+        "A": "$50\\%$",
+        "B": "$25\\%$",
+        "C": "$33\\%$",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$50\\%$",
+        "B": "$25\\%$",
+        "C": "$33\\%$",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ],
+  "2017": [
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "section": "Economics",
+      "chapter": "2",
+      "chapter_name": "State and National Income",
+      "question": "A country whose national income is high is called:",
+      "prashna": "जिस देश की राष्ट्रीय आय अधिक होती है वह देश क्या कहलाता है?",
+      "options": {
+        "A": "Underdeveloped",
+        "B": "Developed",
+        "C": "Developing",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "अविकसित",
+        "B": "विकसित",
+        "C": "अर्द्ध विकसित",
+        "D": "इनमें कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "section": "Economics",
+      "chapter": "2",
+      "chapter_name": "State and National Income",
+      "question": "What is a country called whose national income is high?",
+      "prashna": "जिस देश की राष्ट्रीय आय अधिक होती है वह देश क्या कहलाता है?",
+      "options": {
+        "A": "Undeveloped",
+        "B": "Developed",
+        "C": "Semi-developed",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "अविकसित",
+        "B": "विकसित",
+        "C": "अर्द्ध विकसित",
+        "D": "इनमें कोई नहीं"
+      }
+    }
+  ],
+  "2018": [
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "section": "History",
+      "chapter": "2",
+      "chapter_name": "Socialism and Communism",
+      "question": "When did the Bolshevik Revolution take place?",
+      "prashna": "बोलशेविक क्रांति कब हुई ?",
+      "options": {
+        "A": "February $1917$",
+        "B": "November $1917$",
+        "C": "April $1917$",
+        "D": "July $1905$"
+      },
+      "vikalpa": {
+        "A": "फरवरी $1917$",
+        "B": "नवम्बर $1917$",
+        "C": "अप्रैल $1917$",
+        "D": "जुलाई $1905$"
+      }
+    },
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "2",
+      "chapter_name": "Agriculture",
+      "question": "In which state is step (terrace) farming prevalent?",
+      "prashna": "सोपानी कृषि किस राज्य में प्रचलित है?",
+      "options": {
+        "A": "Haryana",
+        "B": "Punjab",
+        "C": "Bihar",
+        "D": "Uttarakhand"
+      },
+      "vikalpa": {
+        "A": "हरियाणा",
+        "B": "पंजाब",
+        "C": "बिहार",
+        "D": "उत्तराखंड"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "An example of a federal government is:",
+      "prashna": "संघ सरकार का उदाहरण है",
+      "options": {
+        "A": "America",
+        "B": "China",
+        "C": "Great Britain",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "अमेरिका",
+        "B": "चीन",
+        "C": "ग्रेट ब्रिटेन",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "section": "History",
+      "chapter": "2",
+      "chapter_name": "Socialism and Communism",
+      "question": "Between which countries, the treaty of Brest Litovsk took place?",
+      "prashna": "ब्रेस्ट लिटोव्स्क की संधि किन देशों के बीच हुई थी?",
+      "options": {
+        "A": "Russia and Italy",
+        "B": "Russia and France",
+        "C": "Russia and England",
+        "D": "Russia and Germany"
+      },
+      "vikalpa": {
+        "A": "रूस और इटली",
+        "B": "रूस और फ्रांस",
+        "C": "रूस और इंग्लैंड",
+        "D": "रूस और जर्मनी"
+      }
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "section": "History",
+      "chapter": "2",
+      "chapter_name": "Socialism and Communism",
+      "question": "Which class of society was exploited by the capitalist class?",
+      "prashna": "पूँजीपति वर्ग के द्वारा किस वर्ग का शोषण हुआ?",
+      "options": {
+        "A": "Labour class",
+        "B": "Middle class",
+        "C": "Peasant class",
+        "D": "All classes"
+      },
+      "vikalpa": {
+        "A": "श्रमिक वर्ग",
+        "B": "मध्यम वर्ग",
+        "C": "कृषक वर्ग",
+        "D": "सभी वर्ग"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "section": "Economics",
+      "chapter": "2",
+      "chapter_name": "State and National Income",
+      "question": "The country whose per capita income is high, is called -",
+      "prashna": "जिस देश की प्रति व्यक्ति आय अधिक होती है, वह देश कहलाता है-",
+      "options": {
+        "A": "Undeveloped",
+        "B": "Developed",
+        "C": "Semi-developed",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "अविकसित",
+        "B": "विकसित",
+        "C": "अर्द्ध विकसित",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "section": "Economics",
+      "chapter": "2",
+      "chapter_name": "State and National Income",
+      "question": "Which district of Bihar has highest per capita income?",
+      "prashna": "बिहार के किस जिले की प्रति व्यक्ति आय सर्वाधिक है?",
+      "options": {
+        "A": "Patna",
+        "B": "Gaya",
+        "C": "Sheohar",
+        "D": "Nalanda"
+      },
+      "vikalpa": {
+        "A": "पटना",
+        "B": "गया",
+        "C": "शिवहर",
+        "D": "नालंदा"
+      }
+    }
+  ],
+  "2019": [
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "section": "History",
+      "chapter": "2",
+      "chapter_name": "Socialism and Communism",
+      "question": "Which is not included in the new economic policy?",
+      "prashna": "नई आर्थिक नीति में किसे सम्मिलित नहीं किया गया है?",
+      "options": {
+        "A": "Controlled economy",
+        "B": "Liberalization",
+        "C": "Globalization",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "नियंत्रित अर्थव्यवस्था",
+        "B": "उदारीकरण",
+        "C": "वैश्वीकरण",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "2",
+      "chapter_name": "Agriculture",
+      "question": "Rice is-",
+      "prashna": "चावल है-",
+      "options": {
+        "A": "Kharif crop",
+        "B": "Rabi crop",
+        "C": "Zaid crop",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "खरीफ फसल",
+        "B": "रबी फसल",
+        "C": "जायद फसल",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "In which state the Panchayati Raj System was first implemented?",
+      "prashna": "पंचायती राज व्यवस्था सर्वप्रथम किस राज्य में लागू किया गया?",
+      "options": {
+        "A": "Rajasthan",
+        "B": "Bihar",
+        "C": "Uttarakhand",
+        "D": "Madhya Pradesh"
+      },
+      "vikalpa": {
+        "A": "राजस्थान",
+        "B": "बिहार",
+        "C": "उत्तराखंड",
+        "D": "मध्यप्रदेश"
       }
     },
     {
       "id": "obj_3",
       "type": "objective",
+      "section": "History",
       "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "Who was the first President of Indian National Congress?",
-      "prashna": "भारतीय राष्ट्रीय कांग्रेस के पहले अध्यक्ष कौन थे?",
+      "chapter_name": "Socialism and Communism",
+      "question": "Where was Karl Marx born?",
+      "prashna": "कार्ल मार्क्स का जन्म कहाँ हुआ था?",
       "options": {
-        "A": "Bal Gangadhar Tilak",
-        "B": "Womesh Chunder Bonnerjee",
-        "C": "Lala Lajpat Rai",
-        "D": "Lala Hardayal"
+        "A": "Germany",
+        "B": "England",
+        "C": "France",
+        "D": "Poland"
       },
       "vikalpa": {
-        "A": "बाल गंगाधर तिलक",
-        "B": "व्योमेश चन्द्र बनर्जी",
-        "C": "लाला लाजपत राय",
-        "D": "लाला हरदयाल"
+        "A": "जर्मनी",
+        "B": "इंग्लैंड",
+        "C": "फ्रांस",
+        "D": "पोलैंड"
       }
     },
     {
-      "id": "obj_4",
+      "id": "obj_16",
       "type": "objective",
+      "section": "Geography",
       "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "When did the Sepoy revolt take place?",
-      "prashna": "सिपाही विद्रोह कब हुआ था?",
+      "chapter_name": "Agriculture",
+      "question": "Pulse is the source of which nutrition?",
+      "prashna": "दाल किस पौष्टिक अंश का स्रोत है?",
       "options": {
-        "A": "$1855$ A.D.",
-        "B": "$1857$ A.D.",
-        "C": "$1885$ A.D.",
-        "D": "$1887$ A.D."
+        "A": "Carbohydrate",
+        "B": "Protein",
+        "C": "Vitamin D",
+        "D": "Fat"
       },
       "vikalpa": {
-        "A": "$1855$ ई०",
-        "B": "$1857$ ई०",
-        "C": "$1885$ ई०",
-        "D": "$1887$ ई०"
+        "A": "कार्बोहाइड्रेट",
+        "B": "प्रोटीन",
+        "C": "विटामिन D",
+        "D": "वसा"
       }
     },
     {
-      "id": "obj_13",
+      "id": "obj_26",
       "type": "objective",
+      "section": "Civics",
       "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "Who adopted the policy of 'divide and rule'?",
-      "prashna": "'फूट डालो और राज करो' की नीति किसने अपनायी?",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "Who is the head of the village kutchery?",
+      "prashna": "ग्राम कचहरी का प्रधान होता है?",
       "options": {
-        "A": "Britishers",
-        "B": "Persians",
-        "C": "Muslims",
-        "D": "Punjabis"
+        "A": "Panch",
+        "B": "Sarpanch",
+        "C": "Pramukh",
+        "D": "Justice friend"
       },
       "vikalpa": {
-        "A": "अंग्रेजों ने",
-        "B": "पारसियों ने",
-        "C": "मुसलमानों ने",
-        "D": "पंजाबियों ने"
+        "A": "पंच",
+        "B": "सरपंच",
+        "C": "प्रमुख",
+        "D": "न्यायमित्र"
       }
     }
   ],
-  "2021": [
+  "2020": [
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "section": "History",
+      "chapter": "2",
+      "chapter_name": "Socialism and Communism",
+      "question": "What was included in the New Economic Policy ?",
+      "prashna": "नई आर्थिक नीति में किसे सम्मिलित किया गया ?",
+      "options": {
+        "A": "Liberalisation",
+        "B": "Privatisation",
+        "C": "Globalisation",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "उदारीकरण",
+        "B": "निजीकरण",
+        "C": "वैश्वीकरण",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "Which is not a characteristic of a federal state ?",
+      "prashna": "संघ राज्य की विशेषता नहीं है",
+      "options": {
+        "A": "Written constitution",
+        "B": "Power distribution",
+        "C": "Unitary ruling system",
+        "D": "Supreme Judiciary"
+      },
+      "vikalpa": {
+        "A": "लिखित संविधान",
+        "B": "शक्तियों का विभाजन",
+        "C": "इकहरी शासन व्यवस्था",
+        "D": "सर्वोच्च न्यायपालिका"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "The example of federal government is",
+      "prashna": "संघ सरकार का उदाहरण है",
+      "options": {
+        "A": "America",
+        "B": "China",
+        "C": "Britain",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "अमेरिका",
+        "B": "चीन",
+        "C": "ब्रिटेन",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "section": "History",
+      "chapter": "2",
+      "chapter_name": "Socialism and Communism",
+      "question": "Where was the first experiment of the communist governance started ?",
+      "prashna": "साम्यवादी शासन का पहला प्रयोग कहाँ हुआ था ?",
+      "options": {
+        "A": "Russia",
+        "B": "Japan",
+        "C": "China",
+        "D": "Cuba"
+      },
+      "vikalpa": {
+        "A": "रूस",
+        "B": "जापान",
+        "C": "चीन",
+        "D": "क्यूबा"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "section": "History",
+      "chapter": "2",
+      "chapter_name": "Socialism and Communism",
+      "question": "When did the Bolshevik revolution take place ?",
+      "prashna": "बोल्शेविक क्रांति कब हुई ?",
+      "options": {
+        "A": "February, 1917",
+        "B": "November, 1917",
+        "C": "April, 1917",
+        "D": "September, 1905"
+      },
+      "vikalpa": {
+        "A": "फरवरी, $1917$",
+        "B": "नवम्बर, $1917$",
+        "C": "अप्रैल, $1917$",
+        "D": "सितम्बर, $1905$"
+      }
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "The term of Panchayati Raj system in Bihar is",
+      "prashna": "बिहार में पंचायती राज व्यवस्था का कार्यकाल है",
+      "options": {
+        "A": "4 years",
+        "B": "5 years",
+        "C": "6 years",
+        "D": "7 years"
+      },
+      "vikalpa": {
+        "A": "4 वर्ष",
+        "B": "5 वर्ष",
+        "C": "6 वर्ष",
+        "D": "7 वर्ष"
+      }
+    },
     {
       "id": "obj_23",
       "type": "objective",
+      "section": "History",
       "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "When did the Jallianwala Bagh massacre take place?",
-      "prashna": "जलियाँवाला बाग हत्याकांड कब हुआ ?",
+      "chapter_name": "Socialism and Communism",
+      "question": "Where was Karl Marx born?",
+      "prashna": "कार्ल मार्क्स का जन्म कहाँ हुआ था?",
       "options": {
-        "A": "$13$ April, $1919$",
-        "B": "$14$ April, $1920$",
-        "C": "$15$ April, $1919$",
-        "D": "$16$ April, $1920$"
+        "A": "Germany",
+        "B": "England",
+        "C": "France",
+        "D": "Poland"
       },
       "vikalpa": {
-        "A": "$13$ अप्रैल, $1919$",
-        "B": "$14$ अप्रैल, $1920$",
-        "C": "$15$ अप्रैल, $1919$",
-        "D": "$16$ अप्रैल, $1920$"
+        "A": "जर्मनी",
+        "B": "इंग्लैंड",
+        "C": "फ्रांस",
+        "D": "पोलैंड"
       }
     },
     {
       "id": "obj_24",
       "type": "objective",
+      "section": "History",
       "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "Who wrote the book 'Hind Swaraj'?",
-      "prashna": "'हिन्द स्वराज' पुस्तक किसने लिखी ?",
+      "chapter_name": "Socialism and Communism",
+      "question": "In which year was 'Das Kapital' published?",
+      "prashna": "'दास कैपिटल' का प्रकाशन किस वर्ष हुआ था?",
       "options": {
-        "A": "Sardar Vallabhbhai Patel",
-        "B": "Subhash Chandra Bose",
-        "C": "Mahatma Gandhi",
-        "D": "Pandit Jawaharlal Nehru"
+        "A": "1848",
+        "B": "1864",
+        "C": "1867",
+        "D": "1883"
       },
       "vikalpa": {
-        "A": "सरदार वल्लभभाई पटेल",
-        "B": "सुभाष चन्द्र बोस",
-        "C": "महात्मा गाँधी",
-        "D": "पंडित जवाहरलाल नेहरू"
+        "A": "1848 में",
+        "B": "1864 में",
+        "C": "1867 में",
+        "D": "1883 में"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "2",
+      "chapter_name": "Agriculture",
+      "question": "Which of the following is a Rabi crop?",
+      "prashna": "निम्नलिखित में से कौन रबी फसल है?",
+      "options": {
+        "A": "Jowar",
+        "B": "Paddy",
+        "C": "Wheat",
+        "D": "Jute"
+      },
+      "vikalpa": {
+        "A": "ज्वार",
+        "B": "धान",
+        "C": "गेहूँ",
+        "D": "जूट"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "section": "History",
+      "chapter": "2",
+      "chapter_name": "Socialism and Communism",
+      "question": "When did Bolshevik revolution take place?",
+      "prashna": "बोल्शेविक क्रांति कब हुई?",
+      "options": {
+        "A": "February, 1917",
+        "B": "November, 1917",
+        "C": "April, 1918",
+        "D": "December, 1918"
+      },
+      "vikalpa": {
+        "A": "फरवरी, 1917",
+        "B": "नवम्बर, 1917",
+        "C": "अप्रैल, 1918",
+        "D": "दिसम्बर, 1918"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "Which of the following is a union territory?",
+      "prashna": "निम्नलिखित में कौन केन्द्र शासित प्रदेश है?",
+      "options": {
+        "A": "Uttarakhand",
+        "B": "Chhattisgarh",
+        "C": "Chandigarh",
+        "D": "Kerala"
+      },
+      "vikalpa": {
+        "A": "उत्तराखंड",
+        "B": "छत्तीसगढ़",
+        "C": "चण्डीगढ़",
+        "D": "केरल"
       }
     },
     {
       "id": "obj_44",
       "type": "objective",
+      "section": "Civics",
       "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "Who founded Arya Samaj?",
-      "prashna": "आर्य समाज की स्थापना किसने की ?",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "What is the head of Patna Municipal Corporation called?",
+      "prashna": "पटना नगर निगम के प्रधान को क्या कहा जाता है?",
       "options": {
-        "A": "Radhakant",
-        "B": "Ramakrishna Paramhansa",
-        "C": "Vivekananda",
-        "D": "Dayananda Saraswati"
+        "A": "Mayor",
+        "B": "City Head",
+        "C": "City Secretary",
+        "D": "None of these"
       },
       "vikalpa": {
-        "A": "राधाकांत ने",
-        "B": "रामकृष्ण परमहंस ने",
-        "C": "विवेकानंद ने",
-        "D": "दयानंद सरस्वती ने"
+        "A": "महापौर",
+        "B": "नगर प्रधान",
+        "C": "नगर सचिव",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "The Panchayati Raj system was started on the recommendation of which committee?",
+      "prashna": "किस समिति की अनुशंसा पर पंचायती राज प्रणाली की शुरुआत की गई ?",
+      "options": {
+        "A": "Tendulkar Committee",
+        "B": "Balwant Rai Mehta Committee",
+        "C": "Verma Committee",
+        "D": "Raja Chelliah Committee"
+      },
+      "vikalpa": {
+        "A": "तेंदुलकर समिति",
+        "B": "बलवंत राय मेहता समिति",
+        "C": "वर्मा समिति",
+        "D": "राजा चलैया समिति"
       }
     },
     {
-      "id": "obj_65",
+      "id": "obj_15",
       "type": "objective",
+      "section": "Civics",
       "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "When did the Non-Cooperation Movement start?",
-      "prashna": "असहयोग आंदोलन कब शुरू हुआ ?",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "What is the lowest level of Panchayati Raj system?",
+      "prashna": "पंचायती राज व्यवस्था का निम्नतम स्तर क्या है ?",
       "options": {
-        "A": "$1919$",
-        "B": "$1920$",
-        "C": "$1930$",
-        "D": "$1942$"
+        "A": "Zila Parishad",
+        "B": "Panchayat Samiti",
+        "C": "Gram Panchayat",
+        "D": "None of these"
       },
       "vikalpa": {
-        "A": "$1919$",
-        "B": "$1920$",
-        "C": "$1930$",
-        "D": "$1942$"
+        "A": "जिला परिषद",
+        "B": "पंचायत समिति",
+        "C": "ग्राम पंचायत",
+        "D": "इनमें से कोई नहीं"
       }
     },
     {
-      "id": "obj_67",
+      "id": "obj_16",
       "type": "objective",
+      "section": "Civics",
       "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "When did the Indian National Congress declare Purna Swaraj?",
-      "prashna": "भारतीय राष्ट्रीय कांग्रेस ने कब पूर्ण स्वराज की घोषणा की?",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "Municipality is related to which schedule?",
+      "prashna": "नगरपालिका किस अनुसूची से सम्बन्धित है?",
       "options": {
-        "A": "$26$ January, $1929$",
-        "B": "$26$ January, $1931$",
-        "C": "$15$ August, $1930$",
-        "D": "$26$ January, $1930$"
+        "A": "$10^{th}$ Schedule",
+        "B": "$11^{th}$ Schedule",
+        "C": "$12^{th}$ Schedule",
+        "D": "$9^{th}$ Schedule"
       },
       "vikalpa": {
-        "A": "$26$ जनवरी, $1929$",
-        "B": "$26$ जनवरी, $1931$",
-        "C": "$15$ अगस्त, $1930$",
-        "D": "$26$ जनवरी, $1930$"
+        "A": "$10$वीं अनुसूची",
+        "B": "$11$वीं अनुसूची",
+        "C": "$12$वीं अनुसूची",
+        "D": "$9$वीं अनुसूची"
       }
     },
     {
-      "id": "obj_2",
+      "id": "obj_41",
       "type": "objective",
+      "section": "History",
       "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "After the Chauri-Chaura incident, which movement was called off by Gandhiji?",
-      "prashna": "चौरी-चौरा कांड के बाद गाँधीजी ने निम्नलिखित में से किस आंदोलन को बंद कर दिया?",
+      "chapter_name": "Socialism and Communism",
+      "question": "When did Lenin die?",
+      "prashna": "लेनिन की मृत्यु कब हुई ?",
       "options": {
-        "A": "Khilafat Movement",
-        "B": "Civil Disobedience Movement",
-        "C": "Non-Cooperation Movement",
-        "D": "Quit India Movement"
+        "A": "$1921$",
+        "B": "$1922$",
+        "C": "$1923$",
+        "D": "$1924$"
       },
       "vikalpa": {
-        "A": "खिलाफत आंदोलन",
-        "B": "सविनय अवज्ञा आंदोलन",
-        "C": "असहयोग आंदोलन",
-        "D": "भारत छोड़ो आंदोलन"
+        "A": "$1921$",
+        "B": "$1922$",
+        "C": "$1923$",
+        "D": "$1924$"
       }
     },
     {
-      "id": "obj_49",
+      "id": "obj_48",
       "type": "objective",
+      "section": "Geography",
       "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "On whom was the Tinkathia system applicable?",
-      "prashna": "तीनकठिया प्रणाली किन पर लागू थी ?",
+      "chapter_name": "Agriculture",
+      "question": "Rubber cultivation is done in which state of India?",
+      "prashna": "रबर की खेती भारत के किस राज्य में की जाती है ?",
       "options": {
-        "A": "On farmers",
-        "B": "To workers",
-        "C": "On traders",
-        "D": "On industrialists"
+        "A": "Kerala",
+        "B": "Gujarat",
+        "C": "Andhra Pradesh",
+        "D": "Chhattisgarh"
       },
       "vikalpa": {
-        "A": "किसानों पर",
-        "B": "श्रमिकों को",
-        "C": "व्यापारियों पर",
-        "D": "उद्योगपतियों पर"
+        "A": "केरल",
+        "B": "गुजरात",
+        "C": "आंध्र प्रदेश",
+        "D": "छत्तीसगढ़"
       }
     },
     {
-      "id": "obj_50",
+      "id": "obj_4",
       "type": "objective",
+      "section": "Civics",
       "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "Which committee was formed by the government to investigate the Jallianwala Bagh massacre?",
-      "prashna": "जलियाँवाला बाग हत्याकांड की जाँच के लिए सरकार ने किस समिति का गठन किया था ?",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "At present, how many Union Territories are there in India?",
+      "prashna": "वर्तमान में भारत में कितने केन्द्र शासित प्रदेश हैं?",
       "options": {
-        "A": "Hunter Committee",
-        "B": "Dyer Committee",
-        "C": "Montagu Committee",
-        "D": "Chelmsford Committee"
+        "A": "$7$",
+        "B": "$9$",
+        "C": "$8$",
+        "D": "$10$"
       },
       "vikalpa": {
-        "A": "हंटर समिति",
-        "B": "डायर समिति",
-        "C": "मांटेग्यू समिति",
-        "D": "चेम्सफोर्ड समिति"
+        "A": "$7$",
+        "B": "$9$",
+        "C": "$8$",
+        "D": "$10$"
       }
     },
     {
-      "id": "obj_51",
+      "id": "obj_7",
       "type": "objective",
+      "section": "Civics",
       "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "Where is the birthplace of Dr. Rajendra Prasad?",
-      "prashna": "डॉ० राजेन्द्र प्रसाद का जन्मस्थान कहाँ है ?",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "By which Constitutional Amendment did Panchayati Raj institutions get constitutional status?",
+      "prashna": "पंचायती राज संस्थाओं को संवैधानिक दर्जा किस संविधान संशोधन से प्राप्त हुआ?",
       "options": {
-        "A": "Madhya Pradesh",
-        "B": "Bihar",
+        "A": "$72^{nd}$",
+        "B": "$73^{rd}$",
+        "C": "$74^{th}$",
+        "D": "$75^{th}$"
+      },
+      "vikalpa": {
+        "A": "$72$ वाँ",
+        "B": "$73$ वाँ",
+        "C": "$74$ वाँ",
+        "D": "$75$ वाँ"
+      }
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "section": "History",
+      "chapter": "2",
+      "chapter_name": "Socialism and Communism",
+      "question": "Who led the Bolshevik Revolution in Russia?",
+      "prashna": "रूस की बोल्शेविक क्रांति का नेतृत्व किसने किया?",
+      "options": {
+        "A": "Kerensky",
+        "B": "Trotsky",
+        "C": "Lenin",
+        "D": "Stalin"
+      },
+      "vikalpa": {
+        "A": "केरेन्सकी",
+        "B": "ट्रांटस्की",
+        "C": "लेनिन",
+        "D": "स्टालिन"
+      }
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "section": "Economics",
+      "chapter": "2",
+      "chapter_name": "State and National Income",
+      "question": "Who calculates National Income in India?",
+      "prashna": "भारत में राष्ट्रीय आय की गणना कौन करता है?",
+      "options": {
+        "A": "Central Statistical Organization (CSO)",
+        "B": "Reserve Bank of India",
+        "C": "Finance Department",
+        "D": "National Development Council"
+      },
+      "vikalpa": {
+        "A": "केन्द्रीय सांख्यिकी संगठन (CSO)",
+        "B": "रिजर्व बैंक ऑफ इण्डिया",
+        "C": "वित्त विभाग",
+        "D": "राष्ट्रीय विकास परिषद"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "section": "Economics",
+      "chapter": "2",
+      "chapter_name": "State and National Income",
+      "question": "Who first estimated the National Income of India?",
+      "prashna": "भारत की राष्ट्रीय आय का सर्वप्रथम अनुमान किसने लगाया?",
+      "options": {
+        "A": "Mahatma Gandhi",
+        "B": "Jawaharlal Nehru",
+        "C": "Sardar Patel",
+        "D": "Dadabhai Naoroji"
+      },
+      "vikalpa": {
+        "A": "महात्मा गाँधी",
+        "B": "जवाहरलाल नेहरू",
+        "C": "सरदार पटेल",
+        "D": "दादाभाई नौरोजी"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "2",
+      "chapter_name": "Agriculture",
+      "question": "Terrace farming (Sopani Krishi) is prevalent in",
+      "prashna": "सोपानी कृषि प्रचलित है",
+      "options": {
+        "A": "In Haryana",
+        "B": "In Punjab",
+        "C": "In the plains of Bihar",
+        "D": "In Uttarakhand"
+      },
+      "vikalpa": {
+        "A": "हरियाणा में",
+        "B": "पंजाब में",
+        "C": "बिहार के मैदानी क्षेत्रों में",
+        "D": "उत्तराखंड में"
+      }
+    },
+    {
+      "id": "obj_30",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "2",
+      "chapter_name": "Agriculture",
+      "question": "Which of the following is not a plantation crop?",
+      "prashna": "निम्न में से कौन रोपण फसल नहीं है?",
+      "options": {
+        "A": "Rubber",
+        "B": "Sugarcane",
+        "C": "Paddy",
+        "D": "Tea"
+      },
+      "vikalpa": {
+        "A": "रबड़",
+        "B": "गन्ना",
+        "C": "धान",
+        "D": "चाय"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "2",
+      "chapter_name": "Agriculture",
+      "question": "Which is the main food crop of India?",
+      "prashna": "भारत की प्रमुख खाद्यान्न फसल कौन है?",
+      "options": {
+        "A": "Wheat",
+        "B": "Maize",
+        "C": "Barley",
+        "D": "Paddy"
+      },
+      "vikalpa": {
+        "A": "गेहूँ",
+        "B": "मकई",
+        "C": "जौ",
+        "D": "धान"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "2",
+      "chapter_name": "Agriculture",
+      "question": "With which sector of the economy is the Green Revolution related?",
+      "prashna": "अर्थव्यवस्था के किस क्षेत्र से हरित क्रांति सम्बन्धित है ?",
+      "options": {
+        "A": "Primary sector",
+        "B": "Secondary sector",
+        "C": "Tertiary sector",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "प्राथमिक क्षेत्र",
+        "B": "द्वितीयक क्षेत्र",
+        "C": "तृतीयक क्षेत्र",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "section": "Economics",
+      "chapter": "2",
+      "chapter_name": "State and National Income",
+      "question": "Which of the following affects our standard of living?",
+      "prashna": "निम्नांकित में कौन हमारे रहन-सहन के स्तर को प्रभावित करता है?",
+      "options": {
+        "A": "State income",
+        "B": "National income",
+        "C": "Per capita income",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "राजकीय आय",
+        "B": "राष्ट्रीय आय",
+        "C": "प्रति व्यक्ति आय",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_43",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "In which state of India did Panchayati Raj first start?",
+      "prashna": "भारत में किस राज्य में सर्वप्रथम पंचायती राज की शुरुआत हुई ?",
+      "options": {
+        "A": "Rajasthan",
+        "B": "Punjab",
         "C": "Uttar Pradesh",
-        "D": "Gujarat"
+        "D": "Bihar"
       },
       "vikalpa": {
-        "A": "मध्य प्रदेश",
-        "B": "बिहार",
+        "A": "राजस्थान",
+        "B": "पंजाब",
         "C": "उत्तर प्रदेश",
-        "D": "गुजरात"
+        "D": "बिहार"
       }
     },
     {
-      "id": "obj_68",
+      "id": "obj_44",
       "type": "objective",
+      "section": "Civics",
       "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "What was the famous slogan of the Quit India Movement?",
-      "prashna": "भारत छोड़ो आंदोलन का प्रसिद्ध नारा क्या था ?",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "Which of the following is a Union Territory?",
+      "prashna": "निम्नलिखित में से कौन केन्द्र शासित प्रदेश है ?",
       "options": {
-        "A": "Inquilab Zindabad",
-        "B": "Do or Die",
-        "C": "Divide and Rule",
-        "D": "Vande Mataram"
+        "A": "Uttarakhand",
+        "B": "Chhattisgarh",
+        "C": "Chandigarh",
+        "D": "Kerala"
       },
       "vikalpa": {
-        "A": "इंकलाब जिंदाबाद",
-        "B": "करो या मरो",
-        "C": "फूट डालो और शासन करो",
-        "D": "वन्दे मातरम"
+        "A": "उत्तराखंड",
+        "B": "छत्तीसगढ़",
+        "C": "चण्डीगढ़",
+        "D": "केरल"
       }
     },
     {
-      "id": "obj_70",
+      "id": "obj_45",
       "type": "objective",
+      "section": "Civics",
       "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "When was the Indian National Congress established?",
-      "prashna": "भारतीय राष्ट्रीय कांग्रेस की स्थापना कब हुई ?",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "Example of a Federal government is",
+      "prashna": "संघ सरकार का उदाहरण है।",
       "options": {
-        "A": "In $1857$",
-        "B": "In $1885$",
-        "C": "In $1920$",
-        "D": "In $1947$"
+        "A": "America",
+        "B": "India",
+        "C": "Canada",
+        "D": "All of these"
       },
       "vikalpa": {
-        "A": "$1857$ में",
-        "B": "$1885$ में",
-        "C": "$1920$ में",
-        "D": "$1947$ में"
+        "A": "अमेरिका",
+        "B": "भारत",
+        "C": "कनाडा,",
+        "D": "इनमें से सभी"
       }
     },
     {
-      "id": "obj_71",
+      "id": "obj_61",
       "type": "objective",
+      "section": "Geography",
       "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "Where did Gandhiji first use Satyagraha in India?",
-      "prashna": "गाँधीजी ने भारत में सत्याग्रह का पहला प्रयोग कहाँ किया था?",
+      "chapter_name": "Agriculture",
+      "question": "Which of the following is a Kharif crop?",
+      "prashna": "निम्न में से कौन खरीफ की फसल है ?",
       "options": {
-        "A": "In Champaran",
-        "B": "In Kheda",
-        "C": "In Ahmedabad",
-        "D": "In Kolkata"
+        "A": "Wheat",
+        "B": "Oilseeds",
+        "C": "Barley",
+        "D": "Paddy"
       },
       "vikalpa": {
-        "A": "चम्पारण में",
-        "B": "खेडा में",
-        "C": "अहमदाबाद में",
-        "D": "कोलकाता में"
+        "A": "गेहूँ",
+        "B": "तिलहन",
+        "C": "जौ",
+        "D": "धान"
+      }
+    },
+    {
+      "id": "obj_62",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "2",
+      "chapter_name": "Agriculture",
+      "question": "What is Operation Flood?",
+      "prashna": "ऑपरेशन फ्लड क्या है?",
+      "options": {
+        "A": "Flood control",
+        "B": "Dairy development",
+        "C": "Dam maintenance",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "बाढ़ नियंत्रण",
+        "B": "डेयरी विकास",
+        "C": "बाँध का रखरखाव",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_69",
+      "type": "objective",
+      "section": "History",
+      "chapter": "2",
+      "chapter_name": "Socialism and Communism",
+      "question": "What is called the Bible of Socialists?",
+      "prashna": "समाजवादियों की बाइबिल किसे कहा जाता है ?",
+      "options": {
+        "A": "Social Contract",
+        "B": "Das Kapital",
+        "C": "April Thesis",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "सोशल कांट्रैक्ट",
+        "B": "दास कैपिटल",
+        "C": "अप्रैल थीसिस",
+        "D": "इनमें से कोई नहीं"
       }
     }
   ],
   "2022": [
     {
-      "id": "obj_44",
+      "id": "obj_8",
       "type": "objective",
+      "section": "Economics",
       "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "Against which law was the meeting organized in Jallianwala Bagh?",
-      "prashna": "किस कानून के विरोध में जलियाँवाला बाग में सभा का आयोजन हुआ था?",
+      "chapter_name": "State and National Income",
+      "question": "When was the Central Statistical Organization established?",
+      "prashna": "केन्द्रीय सांख्यिकी संगठन की स्थापना कब हुई थी?",
       "options": {
-        "A": "Vernacular Press Act",
-        "B": "Government of India Act, 1858",
-        "C": "Rowlatt Act",
+        "A": "1950",
+        "B": "1954",
+        "C": "1956",
+        "D": "1960"
+      },
+      "vikalpa": {
+        "A": "1950",
+        "B": "1954",
+        "C": "1956",
+        "D": "1960"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "Which of the following is not a source of income of Municipal corporation?",
+      "prashna": "निम्न में से कौन नगर निगम के आय का स्रोत नहीं है?",
+      "options": {
+        "A": "House Tax",
+        "B": "Income Tax",
+        "C": "Water Tax",
+        "D": "Toilet Tax"
+      },
+      "vikalpa": {
+        "A": "मकान कर",
+        "B": "आय कर",
+        "C": "जल कर",
+        "D": "शौचालय कर"
+      }
+    },
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "Which of the following is the Legislative Assembly of the Panchayat?",
+      "prashna": "निम्न में से कौन पंचायत की व्यवस्थापिका सभा है?",
+      "options": {
+        "A": "Gram Sabha",
+        "B": "Gram Raksha Dal",
+        "C": "Gram Kachahari",
         "D": "None of these"
       },
       "vikalpa": {
-        "A": "वर्नाक्यूलर प्रेस एक्ट",
-        "B": "भारत सरकार अधिनियम, 1858",
-        "C": "रौलेट एक्ट",
+        "A": "ग्राम सभा",
+        "B": "ग्राम रक्षा दल",
+        "C": "ग्राम कचहरी",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "Who appoints the Governor?",
+      "prashna": "राज्यपाल की नियुक्ति कौन करता है?",
+      "options": {
+        "A": "Prime Minister",
+        "B": "Chief Minister",
+        "C": "President",
+        "D": "Vice-President"
+      },
+      "vikalpa": {
+        "A": "प्रधानमंत्री",
+        "B": "मुख्यमंत्री",
+        "C": "राष्ट्रपति",
+        "D": "उपराष्ट्रपति"
+      }
+    },
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "2",
+      "chapter_name": "Agriculture",
+      "question": "Which of the following is a Kharif crop?",
+      "prashna": "निम्न में से कौन खरीफ फसल है?",
+      "options": {
+        "A": "Wheat",
+        "B": "Gram",
+        "C": "Peas",
+        "D": "Cotton"
+      },
+      "vikalpa": {
+        "A": "गेहूँ",
+        "B": "चना",
+        "C": "मटर",
+        "D": "कपास"
+      }
+    },
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "section": "History",
+      "chapter": "2",
+      "chapter_name": "Socialism and Communism",
+      "question": "Robert Owen belonged to which country?",
+      "prashna": "राबर्ट ओवन कहाँ का निवासी था?",
+      "options": {
+        "A": "France",
+        "B": "Germany",
+        "C": "Britain",
+        "D": "Austria"
+      },
+      "vikalpa": {
+        "A": "फ्रांस",
+        "B": "जर्मनी",
+        "C": "ब्रिटेन",
+        "D": "ऑस्ट्रिया"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "section": "History",
+      "chapter": "2",
+      "chapter_name": "Socialism and Communism",
+      "question": "Who led the Bolshevik revolution?",
+      "prashna": "बोल्शेविक क्रांति का नेतृत्व किसने किया?",
+      "options": {
+        "A": "Mazzini",
+        "B": "Lenin",
+        "C": "Bismarck",
+        "D": "Garibaldi"
+      },
+      "vikalpa": {
+        "A": "मेजिनी",
+        "B": "लेनिन",
+        "C": "बिस्मार्क",
+        "D": "गैरीबाल्डी"
+      }
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "section": "Economics",
+      "chapter": "2",
+      "chapter_name": "State and National Income",
+      "question": "Which term is used for rise in income of developed countries?",
+      "prashna": "विकसित देशों की आय में वृद्धि के लिए किस पद का प्रयोग होता है?",
+      "options": {
+        "A": "Economic development",
+        "B": "Economic growth",
+        "C": "Inclusive growth",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "आर्थिक विकास",
+        "B": "आर्थिक वृद्धि",
+        "C": "समावेशी विकास",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "section": "Economics",
+      "chapter": "2",
+      "chapter_name": "State and National Income",
+      "question": "Who first estimated National Income in India?",
+      "prashna": "भारत में सर्वप्रथम राष्ट्रीय आय का अनुमान किसने लगाया था?",
+      "options": {
+        "A": "Dr. V. K. R. V. Rao",
+        "B": "Prof. P. C. Mahalanobis",
+        "C": "Dadabhai Naoroji",
+        "D": "C. Rajagopalachari"
+      },
+      "vikalpa": {
+        "A": "डॉ० वी० के० आर० वी० - राव",
+        "B": "प्रो० पी० सी० महलानोबिस",
+        "C": "दादाभाई नौरजी",
+        "D": "सी. राजगोपालाचारी"
+      }
+    },
+    {
+      "id": "obj_53",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "What percentage of seats are reserved for women in Panchayats?",
+      "prashna": "पंचायतों में महिलाओं के लिए कितना प्रतिशत स्थान आरक्षित है?",
+      "options": {
+        "A": "27 percent",
+        "B": "33 percent",
+        "C": "50 percent",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "27 प्रतिशत",
+        "B": "33 प्रतिशत",
+        "C": "50 प्रतिशत",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_54",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "State Finance Commission is constituted for:",
+      "prashna": "राज्य वित्त आयोग का गठन किया जाता है।",
+      "options": {
+        "A": "Reviewing the financial position of Panchayats",
+        "B": "Reviewing the financial relations between Centre and States",
+        "C": "Reviewing the financial position of Banks",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "पंचायतों की वित्तीय स्थिति के पुनरावलोकन हेतु",
+        "B": "केन्द्र और राज्यों के वित्तीय सम्बन्ध के पुनरावलोकन हेतु",
+        "C": "बैंकों की वित्तीय स्थिति के पुनरावलोकन हेतु",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_60",
+      "type": "objective",
+      "section": "History",
+      "chapter": "2",
+      "chapter_name": "Socialism and Communism",
+      "question": "Which was the world's first socialist country?",
+      "prashna": "विश्व का पहला समाजवादी देश था",
+      "options": {
+        "A": "Germany",
+        "B": "France",
+        "C": "Russia",
+        "D": "India"
+      },
+      "vikalpa": {
+        "A": "जर्मनी",
+        "B": "फ्रांस",
+        "C": "रूस",
+        "D": "भारत"
+      }
+    },
+    {
+      "id": "obj_69",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "2",
+      "chapter_name": "Agriculture",
+      "question": "Which is a type of paddy?",
+      "prashna": "धान का एक प्रकार है,",
+      "options": {
+        "A": "Aus",
+        "B": "Aman",
+        "C": "Boro",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "ऑस",
+        "B": "अमन",
+        "C": "बोरो",
+        "D": "इनमें से सभी"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "section": "History",
+      "chapter": "2",
+      "chapter_name": "Socialism and Communism",
+      "question": "Who wrote the program 'April Thesis' of the Bolshevik party?",
+      "prashna": "बोल्शेविक दल का कार्यक्रम 'अप्रैल थीसिस' किसने लिखा ?",
+      "options": {
+        "A": "Stalin",
+        "B": "Trotsky",
+        "C": "Lenin",
+        "D": "Garibaldi"
+      },
+      "vikalpa": {
+        "A": "स्टालिन",
+        "B": "ट्रॉटस्की",
+        "C": "लेनिन",
+        "D": "गैरीबाल्डी"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "section": "History",
+      "chapter": "2",
+      "chapter_name": "Socialism and Communism",
+      "question": "Which is called the 'Bible of Socialists'?",
+      "prashna": "'समाजवादियों की बाइबिल' किसे कहते हैं ?",
+      "options": {
+        "A": "War and Peace",
+        "B": "Communist Manifesto",
+        "C": "Das Kapital",
+        "D": "April Thesis"
+      },
+      "vikalpa": {
+        "A": "वार एण्ड पीस",
+        "B": "कम्युनिस्ट मेनिफेस्टो",
+        "C": "दास कैपिटल",
+        "D": "अप्रैल थीसिस"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "section": "Economics",
+      "chapter": "2",
+      "chapter_name": "State and National Income",
+      "question": "Which state of India has the highest per capita income?",
+      "prashna": "भारत की सर्वाधिक प्रति व्यक्ति आय वाला राज्य कौन है ?",
+      "options": {
+        "A": "Punjab",
+        "B": "Goa",
+        "C": "Maharashtra",
+        "D": "Karnataka"
+      },
+      "vikalpa": {
+        "A": "पंजाब",
+        "B": "गोवा",
+        "C": "महाराष्ट्र",
+        "D": "कर्नाटक"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "section": "Economics",
+      "chapter": "2",
+      "chapter_name": "State and National Income",
+      "question": "What is the total amount of income earned in a country during the year called?",
+      "prashna": "वर्ष भर में किसी देश में अर्जित आय की कुल मात्रा को क्या कहते हैं ?",
+      "options": {
+        "A": "Per capita income",
+        "B": "Average income",
+        "C": "National income",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "प्रति व्यक्ति आय",
+        "B": "औसत आय",
+        "C": "राष्ट्रीय आय",
         "D": "इनमें से कोई नहीं"
       }
     },
     {
       "id": "obj_45",
       "type": "objective",
+      "section": "Civics",
       "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "Mahatma Gandhi came to Champaran on whose request?",
-      "prashna": "किनके अनुरोध पर महात्मा गाँधी चम्पारण आए थे?",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "What is the term of Zilla Parishad?",
+      "prashna": "जिला परिषद का कार्यकाल कितने वर्ष का होता है ?",
       "options": {
-        "A": "Raj Kumar Shukla",
-        "B": "Anugrah Narayan Sinha",
-        "C": "Jayaprakash Narayan",
-        "D": "Dr. Rajendra Prasad"
+        "A": "4 years",
+        "B": "5 years",
+        "C": "6 years",
+        "D": "2 years"
       },
       "vikalpa": {
-        "A": "राजकुमार शुक्ल",
-        "B": "अनुग्रह नारायण सिन्हा",
-        "C": "जयप्रकाश नारायण",
-        "D": "डॉ० राजेन्द्र प्रसाद"
+        "A": "4 वर्ष",
+        "B": "5 वर्ष",
+        "C": "6 वर्ष",
+        "D": "2 वर्ष"
       }
     },
     {
       "id": "obj_46",
       "type": "objective",
+      "section": "Civics",
       "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "During which peasant movement was Vallabhbhai Patel awarded the title of 'Sardar'?",
-      "prashna": "वल्लभ भाई पटेल को 'सरदार' की उपाधि किस किसान आन्दोलन के दौरान दी गई थी?",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "Where was the Panchayati Raj System started?",
+      "prashna": "पंचायती राज प्रणाली की शुरुआत कहाँ हुई थी ?",
       "options": {
-        "A": "Bardoli",
-        "B": "Ahmedabad",
-        "C": "Kheda",
-        "D": "Champaran"
+        "A": "Bihar",
+        "B": "Rajasthan",
+        "C": "Karnataka",
+        "D": "Maharashtra"
       },
       "vikalpa": {
-        "A": "बारदोली",
-        "B": "अहमदाबाद",
-        "C": "खेड़ा",
-        "D": "चम्पारण"
+        "A": "बिहार",
+        "B": "राजस्थान",
+        "C": "कर्नाटक",
+        "D": "महाराष्ट्र"
       }
     },
     {
-      "id": "obj_52",
+      "id": "obj_47",
       "type": "objective",
+      "section": "Civics",
       "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "When was Bihar separated from Bengal?",
-      "prashna": "बिहार बंगाल से कब पृथक हुआ?",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "Who is the head of Gram Panchayat?",
+      "prashna": "ग्राम पंचायत का प्रधान कौन होता है ?",
       "options": {
-        "A": "1912",
-        "B": "1936",
-        "C": "1928",
-        "D": "1940"
-      },
-      "vikalpa": {
-        "A": "1912",
-        "B": "1936",
-        "C": "1928",
-        "D": "1940"
-      }
-    },
-    {
-      "id": "obj_55",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "On the bank of which river was the tricolour hoisted by Nehruji in December, 1929?",
-      "prashna": "दिसंबर, 1929 में किस नदी के तट पर नेहरू जी द्वारा तिरंगा फहराया गया?",
-      "options": {
-        "A": "Ganga",
-        "B": "Yamuna",
-        "C": "Ravi",
-        "D": "Indus"
-      },
-      "vikalpa": {
-        "A": "गंगा",
-        "B": "यमुना",
-        "C": "रावी",
-        "D": "सिंधु"
-      }
-    },
-    {
-      "id": "obj_56",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "What was the nickname of revolutionary leader Surya Sen?",
-      "prashna": "क्रांतिकारी नेता सूर्य सेन का उपनाम क्या था?",
-      "options": {
-        "A": "Netaji",
-        "B": "Master Da",
-        "C": "Sardar",
+        "A": "Parshad",
+        "B": "Mayor",
+        "C": "Commissioner",
         "D": "Mukhiya"
       },
       "vikalpa": {
-        "A": "नेता जी",
-        "B": "मास्टर दा",
-        "C": "सरदार",
+        "A": "पार्षद",
+        "B": "महापौर",
+        "C": "आयुक्त",
         "D": "मुखिया"
       }
     },
     {
-      "id": "obj_33",
+      "id": "obj_48",
       "type": "objective",
+      "section": "Civics",
       "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "Where did the Moplah Rebellion take place?",
-      "prashna": "मोपला विद्रोह कहाँ हुआ था ?",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "Who appoints the Governor?",
+      "prashna": "राज्यपाल की नियुक्ति कौन करता है ?",
       "options": {
-        "A": "Maharashtra",
-        "B": "Bengal",
-        "C": "Gujarat",
-        "D": "Kerala"
+        "A": "President",
+        "B": "Prime Minister",
+        "C": "Vice-President",
+        "D": "Chief Minister"
       },
       "vikalpa": {
-        "A": "महाराष्ट्र",
-        "B": "बंगाल",
-        "C": "गुजरात",
-        "D": "केरल"
+        "A": "राष्ट्रपति",
+        "B": "प्रधानमंत्री",
+        "C": "उप-राष्ट्रपति",
+        "D": "मुख्यमंत्री"
       }
     },
     {
-      "id": "obj_57",
+      "id": "obj_58",
       "type": "objective",
+      "section": "History",
       "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "Who was the Viceroy of India during the Civil Disobedience Movement?",
-      "prashna": "सविनय अवज्ञा आंदोलन के समय भारत के वायसराय कौन थे ?",
+      "chapter_name": "Socialism and Communism",
+      "question": "What was minority party called in Russia?",
+      "prashna": "रूस में अल्पमत वाला दल क्या कहलाया ?",
       "options": {
-        "A": "Lord Dalhousie",
-        "B": "Lord Irwin",
-        "C": "Lord Chelmsford",
-        "D": "Lord Minto"
+        "A": "Bolshevik",
+        "B": "Menshevik",
+        "C": "Proletariat",
+        "D": "None of these"
       },
       "vikalpa": {
-        "A": "लॉर्ड डलहौजी",
-        "B": "लॉर्ड इरविन",
-        "C": "लॉर्ड चेम्सफोर्ड",
-        "D": "लॉर्ड मिंटो"
-      }
-    },
-    {
-      "id": "obj_59",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "The Chauri-Chaura incident occurred in",
-      "prashna": "चौरी-चौरा कांड हुआ था",
-      "options": {
-        "A": "1920",
-        "B": "1922",
-        "C": "1930",
-        "D": "1942"
-      },
-      "vikalpa": {
-        "A": "1920 में",
-        "B": "1922 में",
-        "C": "1930 में",
-        "D": "1942 में"
-      }
-    },
-    {
-      "id": "obj_64",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "Who is known as Frontier Gandhi?",
-      "prashna": "किन्हें सीमान्त गाँधी के नाम से जाना जाता है ?",
-      "options": {
-        "A": "K. Kelappan",
-        "B": "Khan Abdul Ghaffar Khan",
-        "C": "Maulana Abul Kalam Azad",
-        "D": "C. Rajagopalachari"
-      },
-      "vikalpa": {
-        "A": "के. केलप्पन",
-        "B": "खान अब्दुल गफ्फार खान",
-        "C": "मौलाना अबुल कलाम आजाद",
-        "D": "सी. राजगोपालाचारी"
-      }
-    }
-  ],
-  "2023": [
-    {
-      "id": "obj_1",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "During which peasant movement was Vallabhbhai Patel given the title of Sardar?",
-      "prashna": "वल्लभ भाई पटेल को सरदार की उपाधि किस किसान आंदोलन के दौरान दी गई ?",
-      "options": {
-        "A": "Bardoli",
-        "B": "Ahmedabad",
-        "C": "Kheda",
-        "D": "Champaran"
-      },
-      "vikalpa": {
-        "A": "बारदोली",
-        "B": "अहमदाबाद",
-        "C": "खेड़ा",
-        "D": "चंपारण"
-      }
-    },
-    {
-      "id": "obj_2",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "Who among the following is also known as Frontier Gandhi?",
-      "prashna": "निम्न में से किन्हें सीमांत गाँधी के नाम से भी जाना जाता है ?",
-      "options": {
-        "A": "C. Rajagopalachari",
-        "B": "Maulana Abul Kalam Azad",
-        "C": "Khan Abdul Ghaffar Khan",
-        "D": "Lala Hardayal"
-      },
-      "vikalpa": {
-        "A": "सी. राजगोपालाचारी",
-        "B": "मौलाना अबुल कलाम आजाद",
-        "C": "खान अब्दुल ग़फ़्फ़ार खान",
-        "D": "लाला हरदयाल"
-      }
-    },
-    {
-      "id": "obj_3",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "Government of India Act, 1919 is also known as",
-      "prashna": "भारत सरकार अधिनियम, 1919 को ........... के नाम से भी जानते हैं।",
-      "options": {
-        "A": "Montague-Chelmsford Plan",
-        "B": "Simon Commission",
-        "C": "Indian Statutory Commission",
-        "D": "Nehru Report"
-      },
-      "vikalpa": {
-        "A": "मोंटेग्यू-चेम्सफोर्ड योजना",
-        "B": "साइमन कमीशन",
-        "C": "इंडियन स्टेट्यूटरी कमीशन",
-        "D": "नेहरू रिपोर्ट"
-      }
-    },
-    {
-      "id": "obj_50",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "When was the Indian National Congress established?",
-      "prashna": "भारतीय राष्ट्रीय कांग्रेस की स्थापना कब हुई ?",
-      "options": {
-        "A": "1732",
-        "B": "1885",
-        "C": "1890",
-        "D": "1945"
-      },
-      "vikalpa": {
-        "A": "1732",
-        "B": "1885",
-        "C": "1890",
-        "D": "1945"
+        "A": "बोल्शेविक",
+        "B": "मेनशेविक",
+        "C": "सर्वहारा वर्ग",
+        "D": "इनमें से कोई नहीं"
       }
     }
   ],
   "2024": [
     {
-      "id": "obj_3",
+      "id": "obj_25",
       "type": "objective",
+      "section": "Geography",
       "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "Where was the Communist Party of India established?",
-      "prashna": "भारतीय कम्युनिस्ट पार्टी की स्थापना कहाँ हुई ?",
+      "chapter_name": "Agriculture",
+      "question": "Aus is a type of",
+      "prashna": "ऑस प्रकार है",
       "options": {
-        "A": "Lucknow",
-        "B": "Berlin",
-        "C": "Delhi",
-        "D": "Tashkent"
+        "A": "Wheat",
+        "B": "Rice",
+        "C": "Maize",
+        "D": "Millet"
       },
       "vikalpa": {
-        "A": "लखनऊ",
-        "B": "बर्लिन",
-        "C": "दिल्ली",
-        "D": "ताशकंद"
+        "A": "गेहूँ का",
+        "B": "धान का",
+        "C": "मक्का का",
+        "D": "बाजरा का"
       }
     },
     {
-      "id": "obj_5",
+      "id": "obj_46",
       "type": "objective",
+      "section": "Civics",
       "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "During whose reign was the Ilbert bill passed?",
-      "prashna": "इलबर्ट बिल किसके शासनकाल में पारित हुआ ?",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "Which is the $22^{nd}$ State of India?",
+      "prashna": "भारत का बाइसवाँ राज्य कौन है ?",
       "options": {
-        "A": "Lord Lytton",
-        "B": "Lord Ripon",
-        "C": "Lord Dalhousie",
-        "D": "Lord Curzon"
+        "A": "Goa",
+        "B": "Mizoram",
+        "C": "Sikkim",
+        "D": "Manipur"
       },
       "vikalpa": {
-        "A": "लॉर्ड लिटन",
-        "B": "लॉर्ड रिपन",
-        "C": "लॉर्ड डलहौजी",
-        "D": "लॉर्ड कर्जन"
+        "A": "गोवा",
+        "B": "मिजोरम",
+        "C": "सिक्किम",
+        "D": "मणिपुर"
       }
     },
     {
-      "id": "obj_6",
+      "id": "obj_48",
       "type": "objective",
+      "section": "Civics",
       "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "In which Congress session was the proposal of non-cooperation movement adopted?",
-      "prashna": "असहयोग आंदोलन का प्रस्ताव किस कांग्रेस अधिवेशन में स्वीकार किया गया ?",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "Money, banking, communications like matters are kept in which list?",
+      "prashna": "मुद्रा, बैंकिंग, संचार जैसे मामले किस सूची में रखे गए हैं ?",
       "options": {
-        "A": "Nagpur",
-        "B": "Lahore",
-        "C": "Lucknow",
-        "D": "Karachi"
-      },
-      "vikalpa": {
-        "A": "नागपुर",
-        "B": "लाहौर",
-        "C": "लखनऊ",
-        "D": "कराची"
-      }
-    },
-    {
-      "id": "obj_8",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "Who published 'Independence'?",
-      "prashna": "‘इंडिपेंडेंस’ का प्रकाशन किसने किया ?",
-      "options": {
-        "A": "Annie Besant",
-        "B": "Motilal Nehru",
-        "C": "Gandhiji",
-        "D": "Martin Luther"
-      },
-      "vikalpa": {
-        "A": "ऐनी बेसेंट",
-        "B": "मोतीलाल नेहरू",
-        "C": "गाँधीजी",
-        "D": "मार्टिन लूथर"
-      }
-    },
-    {
-      "id": "obj_11",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "Against which law was a meeting organised in Jallianwala Bagh?",
-      "prashna": "किस कानून के विरोध में जालियाँवाला बाग में सभा का आयोजन हुआ ?",
-      "options": {
-        "A": "Ilbert Bill",
-        "B": "Rowlatt Act",
-        "C": "Simon Commission",
-        "D": "Vernacular Press Act"
-      },
-      "vikalpa": {
-        "A": "इलबर्ट बिल",
-        "B": "रॉलेट एक्ट",
-        "C": "साइमन कमीशन",
-        "D": "वर्नाक्यूलर प्रेस एक्ट"
-      }
-    },
-    {
-      "id": "obj_16",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "What title did the British government give to Gandhiji?",
-      "prashna": "ब्रिटिश सरकार ने गाँधीजी को क्या उपाधि दी ?",
-      "options": {
-        "A": "Knight",
-        "B": "Kaiser-e-Hind",
-        "C": "Mahatma",
+        "A": "Union List",
+        "B": "State List",
+        "C": "Concurrent List",
         "D": "All of these"
       },
       "vikalpa": {
-        "A": "नाइट",
-        "B": "कैसर-ए-हिंद",
-        "C": "महात्मा",
+        "A": "संघ सूची",
+        "B": "राज्य सूची",
+        "C": "समवर्ती सूची",
         "D": "इनमें से सभी"
       }
     },
     {
-      "id": "obj_17",
+      "id": "obj_49",
       "type": "objective",
+      "section": "Civics",
       "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "Which movement was started with Dandi March?",
-      "prashna": "दांडी यात्रा से किस आंदोलन की शुरुआत हुई ?",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "What is the $12^{th}$ schedule of the constitution related to?",
+      "prashna": "संविधान की $12$ वीं अनुसूची का संबंध किससे है ?",
       "options": {
-        "A": "Non-cooperation Movement",
-        "B": "Quit India Movement",
-        "C": "Civil disobedience Movement",
-        "D": "Champaran Satyagraha"
+        "A": "Jurisdiction of municipality",
+        "B": "Income sources of municipal corporation",
+        "C": "Directive principles of state",
+        "D": "Fundamental rights"
       },
       "vikalpa": {
-        "A": "असहयोग आंदोलन",
-        "B": "भारत छोड़ो आंदोलन",
-        "C": "सविनय अवज्ञा आंदोलन",
-        "D": "चम्पारण सत्याग्रह"
+        "A": "नगरपालिका का कार्यक्षेत्र",
+        "B": "नगर-निगम के आय स्रोत",
+        "C": "राज्य के नीति निदेशक तत्व",
+        "D": "मौलिक अधिकार"
       }
     },
     {
-      "id": "obj_20",
+      "id": "obj_54",
       "type": "objective",
+      "section": "Civics",
       "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "When was the All India Muslim League established?",
-      "prashna": "ऑल इण्डिया मुस्लिम लीग की स्थापना कब हुई ?",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "In which article of the constitution has the local self government been given a place?",
+      "prashna": "स्थानीय स्वशासन को संविधान के किस अनुच्छेद में स्थान दिया गया है ?",
       "options": {
-        "A": "1902",
-        "B": "1906",
-        "C": "1911",
-        "D": "1912"
+        "A": "Article 31",
+        "B": "Article 35",
+        "C": "Article 40",
+        "D": "Article 42"
       },
       "vikalpa": {
-        "A": "$1902$",
-        "B": "$1906$",
-        "C": "$1911$",
-        "D": "$1912$"
+        "A": "अनुच्छेद $31$",
+        "B": "अनुच्छेद $35$",
+        "C": "अनुच्छेद $40$",
+        "D": "अनुच्छेद $42$"
       }
     },
     {
-      "id": "obj_29",
+      "id": "obj_57",
       "type": "objective",
+      "section": "Civics",
       "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "Which of the following is not a liberal leader ?",
-      "prashna": "निम्न में से कौन उदारवादी नेता नहीं हैं ?",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "Who of the following is appointed by the state government?",
+      "prashna": "निम्न में से किसकी नियुक्ति राज्य सरकार करती है ?",
       "options": {
-        "A": "Dadabhai Naoroji",
-        "B": "Firoj Shah Mehta",
-        "C": "Bipin Chandra Pal",
-        "D": "Surendranath Bannerjee"
+        "A": "Mayor",
+        "B": "Mukhiya",
+        "C": "City Commissioner",
+        "D": "All of them"
       },
       "vikalpa": {
-        "A": "दादाभाई नौरोजी",
-        "B": "फिरोजशाह मेहता",
-        "C": "बिपिन चंद्र पाल",
-        "D": "सुरेंद्रनाथ बनर्जी"
-      }
-    },
-    {
-      "id": "obj_30",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "Which of the following proposed separate electorate for Muslims for the first time ?",
-      "prashna": "निम्नलिखित में से किसने पहली बार मुसलमानों के लिए अलग निर्वाचन का प्रस्ताव रखा ?",
-      "options": {
-        "A": "Simon Commission",
-        "B": "Morley-Minto Reforms",
-        "C": "Delhi Pact",
-        "D": "Montague-Chelmsford Report"
-      },
-      "vikalpa": {
-        "A": "साइमन कमीशन",
-        "B": "मॉर्ले-मिंटो सुधार",
-        "C": "दिल्ली समझौता",
-        "D": "मोंटेग्यू-चेम्सफोर्ड रिपोर्ट"
-      }
-    },
-    {
-      "id": "obj_40",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "Who was the first President of Swaraj Dal ?",
-      "prashna": "स्वराज दल के प्रथम अध्यक्ष कौन थे ?",
-      "options": {
-        "A": "Motilal Nehru",
-        "B": "Chitta Ranjan Das",
-        "C": "Madan Mohan Malaviya",
-        "D": "Manavendra Nath Roy"
-      },
-      "vikalpa": {
-        "A": "मोतीलाल नेहरू",
-        "B": "चित्तरंजन दास",
-        "C": "मदन मोहन मालवीय",
-        "D": "मानवेन्द्र नाथ राय"
-      }
-    },
-    {
-      "id": "obj_73",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "Who was the political guru of Gandhiji ?",
-      "prashna": "गाँधीजी के राजनीतिक गुरु कौन थे ?",
-      "options": {
-        "A": "Gopal Krishna Gokhale",
-        "B": "Rabindranath Tagore",
-        "C": "Vipin Chandra Pal",
-        "D": "Vyomkesh Banerjee"
-      },
-      "vikalpa": {
-        "A": "गोपालकृष्ण गोखले",
-        "B": "रवीन्द्रनाथ टैगोर",
-        "C": "बिपिन चंद्र पाल",
-        "D": "व्योमकेश बनर्जी"
-      }
-    }
-  ],
-  "2025": [
-    {
-      "id": "obj_3",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "When was the partition of Bengal annulled ?",
-      "prashna": "बंगाल विभाजन को कब रद्द किया गया था ?",
-      "options": {
-        "A": "1904",
-        "B": "1905",
-        "C": "1907",
-        "D": "1911"
-      },
-      "vikalpa": {
-        "A": "1904",
-        "B": "1905",
-        "C": "1907",
-        "D": "1911"
-      }
-    },
-    {
-      "id": "obj_4",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "Which of the following was founded by Lala Hardayal ?",
-      "prashna": "लाला हरदयाल ने निम्न में से किसकी स्थापना की ?",
-      "options": {
-        "A": "Home Rule League",
-        "B": "Ghadar Party",
-        "C": "Communist Party of India",
-        "D": "Brahmo Samaj"
-      },
-      "vikalpa": {
-        "A": "होम रूल लीग",
-        "B": "ग़दर पार्टी",
-        "C": "भारतीय कम्युनिस्ट पार्टी",
-        "D": "ब्रह्म समाज"
-      }
-    },
-    {
-      "id": "obj_5",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "What is the another name for Government of India Act, 1919 ?",
-      "prashna": "भारत सरकार अधिनियम, 1919 को किस अन्य नाम से भी जाना जाता है ?",
-      "options": {
-        "A": "Montague-Chelmsford Reforms",
-        "B": "Ilbert Bill",
-        "C": "Indian Statutory Commission",
-        "D": "Nehru Report"
-      },
-      "vikalpa": {
-        "A": "मोंटेग्यू-चेम्सफोर्ड सुधार",
-        "B": "इलबर्ट बिल",
-        "C": "इंडियन स्टेट्युटरी कमीशन",
-        "D": "नेहरू रिपोर्ट"
-      }
-    },
-    {
-      "id": "obj_6",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "Who founded the All India Muslim League ?",
-      "prashna": "अखिल भारतीय मुस्लिम लीग की स्थापना किसने की ?",
-      "options": {
-        "A": "Mohammad Ali Jinnah",
-        "B": "Zakir Hussain",
-        "C": "Nawab Salimullah Khan",
-        "D": "Muhammad Ismail"
-      },
-      "vikalpa": {
-        "A": "मोहम्मद अली जिन्ना",
-        "B": "जाकिर हुसैन",
-        "C": "नवाब सलीमउल्लाह खान",
-        "D": "मोहम्मद इस्माइल"
-      }
-    },
-    {
-      "id": "obj_20",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "Who among the following was given the title of Kaiser-i-Hind ?",
-      "prashna": "निम्न में से किन्हें कैसर-ए-हिंद की उपाधि दी गई थी ?",
-      "options": {
-        "A": "Rabindra Nath Tagore",
-        "B": "Mahatma Gandhi",
-        "C": "Shankaran Nair",
-        "D": "Surendra Nath Banerjee"
-      },
-      "vikalpa": {
-        "A": "रवीन्द्रनाथ टैगोर",
-        "B": "महात्मा गाँधी",
-        "C": "शंकरन नायर",
-        "D": "सुरेन्द्रनाथ बनर्जी"
-      }
-    },
-    {
-      "id": "obj_21",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "Which of the following movements started with 'Dandi March' ?",
-      "prashna": "निम्न में से किस आंदोलन की शुरुआत 'दांडी मार्च' से हुई थी ?",
-      "options": {
-        "A": "Civil Disobedience Movement",
-        "B": "Non-Cooperation Movement",
-        "C": "Quit India Movement",
-        "D": "Khilafat Movement"
-      },
-      "vikalpa": {
-        "A": "सविनय अवज्ञा आंदोलन",
-        "B": "असहयोग आंदोलन",
-        "C": "भारत छोड़ो आंदोलन",
-        "D": "खिलाफत आंदोलन"
-      }
-    },
-    {
-      "id": "obj_23",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "When was 'All India Trade Union Congress' established ?",
-      "prashna": "'अखिल भारतीय ट्रेड यूनियन कांग्रेस' की स्थापना कब हुई ?",
-      "options": {
-        "A": "1848",
-        "B": "1881",
-        "C": "1885",
-        "D": "1920"
-      },
-      "vikalpa": {
-        "A": "1848",
-        "B": "1881",
-        "C": "1885",
-        "D": "1920"
-      }
-    },
-    {
-      "id": "obj_66",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "Where did Gandhiji establish Sabarmati Ashram ?",
-      "prashna": "गाँधीजी ने साबरमती आश्रम की स्थापना कहाँ की ?",
-      "options": {
-        "A": "Gandhinagar",
-        "B": "Ahmedabad",
-        "C": "Surat",
-        "D": "Vadodara"
-      },
-      "vikalpa": {
-        "A": "गाँधीनगर",
-        "B": "अहमदाबाद",
-        "C": "सूरत",
-        "D": "वडोदरा"
-      }
-    },
-    {
-      "id": "obj_27",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "When was the partition of Bengal annulled?",
-      "prashna": "बंगाल विभाजन को कब रद्द किया गया था?",
-      "options": {
-        "A": "1904",
-        "B": "1905",
-        "C": "1907",
-        "D": "1911"
-      },
-      "vikalpa": {
-        "A": "1904",
-        "B": "1905",
-        "C": "1907",
-        "D": "1911"
-      }
-    },
-    {
-      "id": "obj_28",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "Which of the following was founded by Lala Hardayal?",
-      "prashna": "लाला हरदयाल ने निम्न में से किसकी स्थापना की?",
-      "options": {
-        "A": "Home Rule League",
-        "B": "Ghadar Party",
-        "C": "Communist Party of India",
-        "D": "Brahmo Samaj"
-      },
-      "vikalpa": {
-        "A": "होम रूल लीग",
-        "B": "ग़दर पार्टी",
-        "C": "भारतीय कम्युनिस्ट पार्टी",
-        "D": "ब्रह्म समाज"
-      }
-    },
-    {
-      "id": "obj_29",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "What is the another name for Government of India Act, 1919?",
-      "prashna": "भारत सरकार अधिनियम, 1919 को किस अन्य नाम से भी जाना जाता है?",
-      "options": {
-        "A": "Montague-Chelmsford Reforms",
-        "B": "Ilbert Bill",
-        "C": "Indian Statutory Commission",
-        "D": "Nehru Report"
-      },
-      "vikalpa": {
-        "A": "मांटेग्यू-चेम्सफोर्ड सुधार",
-        "B": "इलवर्ट बिल",
-        "C": "इंडियन स्टेट्च्यूटरी कमीशन",
-        "D": "नेहरू रिपोर्ट"
-      }
-    },
-    {
-      "id": "obj_30",
-      "type": "objective",
-      "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "Who founded the All India Muslim League?",
-      "prashna": "अखिल भारतीय मुस्लिम लीग की स्थापना किसने की?",
-      "options": {
-        "A": "Mohammad Ali Jinnah",
-        "B": "Zakir Hussain",
-        "C": "Nawab Salimullah Khan",
-        "D": "Muhammad Ismail"
-      },
-      "vikalpa": {
-        "A": "मोहम्मद अली जिन्ना",
-        "B": "जाकिर हुसैन",
-        "C": "नवाब सलीमउल्लाह खान",
-        "D": "मोहम्मद इस्माइल"
+        "A": "महापौर",
+        "B": "मुखिया",
+        "C": "नगर-आयुक्त",
+        "D": "इनमें से सभी"
       }
     },
     {
       "id": "obj_60",
       "type": "objective",
+      "section": "Civics",
       "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "Who among the following was given the title of Kaiser-i-Hind?",
-      "prashna": "निम्न में से किन्हें कैसर-ए-हिंद की उपाधि दी गई थी?",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "Where is the executive officer appointed?",
+      "prashna": "कार्यपालक पदाधिकारी की नियुक्ति कहाँ की जाती है ?",
       "options": {
-        "A": "Rabindra Nath Tagore",
-        "B": "Mahatma Gandhi",
-        "C": "Shankaran Nair",
-        "D": "Surendra Nath Banerjee"
+        "A": "Gram Panchayat",
+        "B": "Municipal Corporation",
+        "C": "Nagar Panchayat",
+        "D": "Nagar Parishad"
       },
       "vikalpa": {
-        "A": "रवीन्द्रनाथ टैगोर",
-        "B": "महात्मा गाँधी",
-        "C": "शंकरन नायर",
-        "D": "सुरेन्द्रनाथ बनर्जी"
+        "A": "ग्राम पंचायत",
+        "B": "नगर निगम",
+        "C": "नगर पंचायत",
+        "D": "नगर परिषद्"
+      }
+    },
+    {
+      "id": "obj_67",
+      "type": "objective",
+      "section": "Economics",
+      "chapter": "2",
+      "chapter_name": "State and National Income",
+      "question": "Which state of India has the highest per capita Income?",
+      "prashna": "भारत का सर्वाधिक प्रति व्यक्ति आय वाला राज्य कौन है ?",
+      "options": {
+        "A": "Goa",
+        "B": "Punjab",
+        "C": "Telangana",
+        "D": "Karnataka"
+      },
+      "vikalpa": {
+        "A": "गोवा",
+        "B": "पंजाब",
+        "C": "तेलंगाना",
+        "D": "कर्नाटक"
+      }
+    },
+    {
+      "id": "obj_68",
+      "type": "objective",
+      "section": "Economics",
+      "chapter": "2",
+      "chapter_name": "State and National Income",
+      "question": "What is the monetary value of all final goods and services produced within a country in a year called?",
+      "prashna": "देश की सीमा के अंदर एक वर्ष में उत्पादित सभी अंतिम वस्तुओं एवं सेवाओं का मौद्रिक मूल्य क्या कहलाता है ?",
+      "options": {
+        "A": "Gross National Product",
+        "B": "Gross Domestic Product",
+        "C": "Net Domestic Product",
+        "D": "Net National Product"
+      },
+      "vikalpa": {
+        "A": "सकल राष्ट्रीय उत्पाद",
+        "B": "सकल घरेलू उत्पाद",
+        "C": "शुद्ध घरेलू उत्पाद",
+        "D": "शुद्ध राष्ट्रीय उत्पाद"
+      }
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "Who has the right to make laws on the subjects of the concurrent list ?",
+      "prashna": "समवर्ती सूची के विषयों पर कानून बनाने का अधिकार किसे प्राप्त है ?",
+      "options": {
+        "A": "State",
+        "B": "Union",
+        "C": "Both (A) and (B)",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "राज्य को",
+        "B": "संघ को",
+        "C": "(A) और (B) दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "Who is the head of village court ?",
+      "prashna": "ग्राम कचहरी का प्रधान कौन होता है ?",
+      "options": {
+        "A": "Panch",
+        "B": "Sarpanch",
+        "C": "Mayor",
+        "D": "Nyaya Mitra"
+      },
+      "vikalpa": {
+        "A": "पंच",
+        "B": "सरपंच",
+        "C": "मेयर",
+        "D": "न्यायमित्र"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "Who elects the Sarpanch ?",
+      "prashna": "सरपंच का निर्वाचन कौन करता है ?",
+      "options": {
+        "A": "Members of Gram Sabha",
+        "B": "State Government",
+        "C": "Mukhiya and Panch",
+        "D": "Panch"
+      },
+      "vikalpa": {
+        "A": "ग्राम सभा के सदस्य",
+        "B": "राज्य सरकार",
+        "C": "मुखिया और पंच",
+        "D": "पंच"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "section": "History",
+      "chapter": "2",
+      "chapter_name": "Socialism and Communism",
+      "question": "Who founded the Third International in 1919 ?",
+      "prashna": "1919 में थर्ड इंटरनेशनल की स्थापना किसने की ?",
+      "options": {
+        "A": "Karl Marx",
+        "B": "Lenin",
+        "C": "Friedrich Engels",
+        "D": "Robert Owen"
+      },
+      "vikalpa": {
+        "A": "कार्ल मार्क्स ने",
+        "B": "लेनिन ने",
+        "C": "फ्रेडरिक एंगेल्स",
+        "D": "राबर्ट ओवन"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "section": "History",
+      "chapter": "2",
+      "chapter_name": "Socialism and Communism",
+      "question": "By what name is the first Russian Revolution of 1917 known ?",
+      "prashna": "1917 की पहली रूसी क्रांति किस नाम से जानी जाती है ?",
+      "options": {
+        "A": "October Revolution",
+        "B": "March Revolution",
+        "C": "February Revolution",
+        "D": "November Revolution"
+      },
+      "vikalpa": {
+        "A": "अक्टूबर क्रांति",
+        "B": "मार्च क्रांति",
+        "C": "फरवरी क्रांति",
+        "D": "नवम्बर क्रांति"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "section": "History",
+      "chapter": "2",
+      "chapter_name": "Socialism and Communism",
+      "question": "Who implemented the New Economic Policy (NEP) ?",
+      "prashna": "नई आर्थिक नीति किसने लागू की ?",
+      "options": {
+        "A": "Lenin",
+        "B": "Metternich",
+        "C": "Bismarck",
+        "D": "Stalin"
+      },
+      "vikalpa": {
+        "A": "लेनिन",
+        "B": "मेटरनिख",
+        "C": "बिस्मार्क",
+        "D": "स्टालिन"
+      }
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "section": "History",
+      "chapter": "2",
+      "chapter_name": "Socialism and Communism",
+      "question": "Who succeeded Lenin ?",
+      "prashna": "लेनिन का उत्तराधिकारी कौन बना ?",
+      "options": {
+        "A": "Mazzini",
+        "B": "Stalin",
+        "C": "Trotsky",
+        "D": "Kerensky"
+      },
+      "vikalpa": {
+        "A": "मेजिनी",
+        "B": "स्टालिन",
+        "C": "ट्रॉट्स्की",
+        "D": "केरेन्सकी"
+      }
+    },
+    {
+      "id": "obj_46",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "2",
+      "chapter_name": "Agriculture",
+      "question": "Which is the largest sugarcane producing state in South India ?",
+      "prashna": "दक्षिण भारत में सर्वाधिक गन्ना उत्पादक राज्य कौन है ?",
+      "options": {
+        "A": "Andhra Pradesh",
+        "B": "Odisha",
+        "C": "Tamil Nadu",
+        "D": "Maharashtra"
+      },
+      "vikalpa": {
+        "A": "आंध्र प्रदेश",
+        "B": "ओडिशा",
+        "C": "तमिलनाडु",
+        "D": "महाराष्ट्र"
+      }
+    },
+    {
+      "id": "obj_57",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "Who among the following suggested democratic decentralization ?",
+      "prashna": "लोकतांत्रिक विकेन्द्रीकरण का सुझाव निम्न में से किसने दिया ?",
+      "options": {
+        "A": "Balwant Rai Mehta Committee",
+        "B": "Tendulkar Committee",
+        "C": "Narsimham Committee",
+        "D": "Chelliah Committee"
+      },
+      "vikalpa": {
+        "A": "बलवंत राय मेहता समिति",
+        "B": "तेंदुलकर समिति",
+        "C": "नरसिंहम समिति",
+        "D": "चेलैया समिति"
+      }
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "Which constitutional amendment is related to urban local self government ?",
+      "prashna": "कौन-सा संवैधानिक संशोधन नगरीय स्थानीय स्वशासन से संबंधित है ?",
+      "options": {
+        "A": "$75^{th}$",
+        "B": "$74^{th}$",
+        "C": "$73^{rd}$",
+        "D": "$72^{nd}$"
+      },
+      "vikalpa": {
+        "A": "$75$ वाँ",
+        "B": "$74$ वाँ",
+        "C": "$73$ वाँ",
+        "D": "$72$ वाँ"
       }
     },
     {
       "id": "obj_61",
       "type": "objective",
+      "section": "Civics",
       "chapter": "2",
-      "chapter_name": "Nationalism in India",
-      "question": "Which of the following movements started with 'Dandi March'?",
-      "prashna": "निम्न में से किस आंदोलन की शुरुआत 'दांडी मार्च' से हुई थी?",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "Which country does not have a federal system of governance ?",
+      "prashna": "किस देश में संघात्मक शासन व्यवस्था नहीं है ?",
       "options": {
-        "A": "Civil Disobedience Movement",
-        "B": "Non-Cooperation Movement",
-        "C": "Quit India Movement",
-        "D": "Khilafat Movement"
+        "A": "India",
+        "B": "China",
+        "C": "Belgium",
+        "D": "Switzerland"
       },
       "vikalpa": {
-        "A": "सविनय अवज्ञा आन्दोलन",
-        "B": "असहयोग आन्दोलन",
-        "C": "भारत छोड़ो आन्दोलन",
-        "D": "खिलाफत आन्दोलन"
+        "A": "भारत",
+        "B": "चीन",
+        "C": "बेल्जियम",
+        "D": "स्विट्जरलैंड"
+      }
+    },
+    {
+      "id": "obj_65",
+      "type": "objective",
+      "section": "Economics",
+      "chapter": "2",
+      "chapter_name": "State and National Income",
+      "question": "When was the national income estimated for the first time in India ?",
+      "prashna": "भारत में सर्वप्रथम राष्ट्रीय आय का अनुमान कब लगाया गया ?",
+      "options": {
+        "A": "1798",
+        "B": "1848",
+        "C": "1868",
+        "D": "1911"
+      },
+      "vikalpa": {
+        "A": "1798",
+        "B": "1848",
+        "C": "1868",
+        "D": "1911"
+      }
+    },
+    {
+      "id": "obj_66",
+      "type": "objective",
+      "section": "Economics",
+      "chapter": "2",
+      "chapter_name": "State and National Income",
+      "question": "Circular flow is related to which of the following ?",
+      "prashna": "चक्रीय प्रवाह का संबंध निम्न में से किससे है ?",
+      "options": {
+        "A": "Production",
+        "B": "Income",
+        "C": "Expenditure",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "उत्पादन",
+        "B": "आय",
+        "C": "व्यय",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_72",
+      "type": "objective",
+      "section": "Economics",
+      "chapter": "2",
+      "chapter_name": "State and National Income",
+      "question": "The meaning of National income is",
+      "prashna": "राष्ट्रीय आय का अर्थ है",
+      "options": {
+        "A": "Family income",
+        "B": "Income of Public enterprises",
+        "C": "Government income",
+        "D": "Monetary value of all final goods and services of an economy"
+      },
+      "vikalpa": {
+        "A": "पारिवारिक आय",
+        "B": "सार्वजनिक उपक्रमों की आय",
+        "C": "सरकार की आय",
+        "D": "किसी अर्थव्यवस्था की सभी अंतिम वस्तुओं और सेवाओं का मौद्रिक मूल्य"
+      }
+    },
+    {
+      "id": "obj_79",
+      "type": "objective",
+      "section": "History",
+      "chapter": "2",
+      "chapter_name": "Socialism and Communism",
+      "question": "Between which countries was the treaty of Brest-Litovsk signed ?",
+      "prashna": "ब्रेस्ट-लिटोवस्क की संधि किन देशों के बीच हुई थी ?",
+      "options": {
+        "A": "Russia and Italy",
+        "B": "Russia and France",
+        "C": "Russia and England",
+        "D": "Russia and Germany"
+      },
+      "vikalpa": {
+        "A": "रूस और इटली",
+        "B": "रूस और फ्रांस",
+        "C": "रूस और इंग्लैण्ड",
+        "D": "रूस और जर्मनी"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "section": "Economics",
+      "chapter": "2",
+      "chapter_name": "State and National Income",
+      "question": "National income in India is calculated by which of the following ?",
+      "prashna": "भारत में राष्ट्रीय आय की गणना किसके द्वारा की जाती है ?",
+      "options": {
+        "A": "Central statistical office",
+        "B": "Planning Commission",
+        "C": "NITI Aayog",
+        "D": "National Development Council"
+      },
+      "vikalpa": {
+        "A": "केन्द्रीय सांख्यिकी कार्यालय",
+        "B": "योजना आयोग",
+        "C": "नीति आयोग",
+        "D": "राष्ट्रीय विकास परिषद्"
+      }
+    },
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "section": "History",
+      "chapter": "2",
+      "chapter_name": "Socialism and Communism",
+      "question": "Who changed the name of Bolshevik Party to Communist Party ?",
+      "prashna": "बोल्शेविक दल का नाम बदलकर साम्यवादी दल किसने किया ?",
+      "options": {
+        "A": "Lenin",
+        "B": "Trotsky",
+        "C": "Stalin",
+        "D": "Bismarck"
+      },
+      "vikalpa": {
+        "A": "लेनिन",
+        "B": "ट्रॉट्स्की",
+        "C": "स्टालिन",
+        "D": "बिस्मार्क"
+      }
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "section": "History",
+      "chapter": "2",
+      "chapter_name": "Socialism and Communism",
+      "question": "Who abolished Serfdom in Russia ?",
+      "prashna": "रूस में कृषि दासता को किसने समाप्त किया ?",
+      "options": {
+        "A": "Lenin",
+        "B": "Czar Alexander II",
+        "C": "Stalin",
+        "D": "Trotsky"
+      },
+      "vikalpa": {
+        "A": "लेनिन",
+        "B": "जार एलेक्जेंडेर द्वितीय",
+        "C": "स्टालिन",
+        "D": "ट्रॉट्स्की"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "section": "History",
+      "chapter": "2",
+      "chapter_name": "Socialism and Communism",
+      "question": "Who is considered the father of scientific socialism ?",
+      "prashna": "वैज्ञानिक समाजवाद का जनक किसे माना जाता है ?",
+      "options": {
+        "A": "Hegel",
+        "B": "Karl Marx",
+        "C": "Saint Simon",
+        "D": "Martin Luther"
+      },
+      "vikalpa": {
+        "A": "हीगेल",
+        "B": "कार्ल मार्क्स",
+        "C": "सेंट साइमन",
+        "D": "मार्टिन लूथर"
+      }
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "section": "History",
+      "chapter": "2",
+      "chapter_name": "Socialism and Communism",
+      "question": "When did the Soviet Union disintegrate ?",
+      "prashna": "सोवियत संघ का विघटन कब हुआ ?",
+      "options": {
+        "A": "1985",
+        "B": "1991",
+        "C": "1968",
+        "D": "1990"
+      },
+      "vikalpa": {
+        "A": "1985",
+        "B": "1991",
+        "C": "1968",
+        "D": "1990"
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "2",
+      "chapter_name": "Agriculture",
+      "question": "Which of the following is a plantation crop ?",
+      "prashna": "निम्नलिखित में से कौन रोपण फसल है ?",
+      "options": {
+        "A": "Tea",
+        "B": "Rubber",
+        "C": "Sugarcane",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "चाय",
+        "B": "रबड़",
+        "C": "गन्ना",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_45",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "2",
+      "chapter_name": "Agriculture",
+      "question": "What type of crop is peanut ?",
+      "prashna": "मूँगफली किस प्रकार की फसल है ?",
+      "options": {
+        "A": "Rabi",
+        "B": "Kharif",
+        "C": "Zaid",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "रबी",
+        "B": "खरीफ",
+        "C": "जायद",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_49",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "Who appoints the Governor ?",
+      "prashna": "राज्यपाल की नियुक्ति कौन करता है ?",
+      "options": {
+        "A": "Prime Minister",
+        "B": "President",
+        "C": "Chief Minister",
+        "D": "Chief Justice"
+      },
+      "vikalpa": {
+        "A": "प्रधानमंत्री",
+        "B": "राष्ट्रपति",
+        "C": "मुख्यमंत्री",
+        "D": "मुख्य न्यायाधीश"
+      }
+    },
+    {
+      "id": "obj_51",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "In case of dissolution of Panchayati Raj institutions, at what time interval is it mandatory to hold elections ?",
+      "prashna": "पंचायती राज संस्थानों के विघटन की स्थिति में कितने समय अंतराल में चुनाव करवाना अनिवार्य है ?",
+      "options": {
+        "A": "2 months",
+        "B": "6 months",
+        "C": "1 year",
+        "D": "1 month"
+      },
+      "vikalpa": {
+        "A": "2 माह",
+        "B": "6 माह",
+        "C": "1 वर्ष",
+        "D": "1 माह"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "Meghalaya was formed from which state ?",
+      "prashna": "किस राज्य को काटकर मेघालय राज्य का गठन किया गया ?",
+      "options": {
+        "A": "Tripura",
+        "B": "Assam",
+        "C": "Nagaland",
+        "D": "Arunachal Pradesh"
+      },
+      "vikalpa": {
+        "A": "त्रिपुरा",
+        "B": "असम",
+        "C": "नागालैण्ड",
+        "D": "अरुणाचल प्रदेश"
+      }
+    },
+    {
+      "id": "obj_53",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "Who is the head of the village court ?",
+      "prashna": "ग्राम कचहरी का प्रधान कौन होता है ?",
+      "options": {
+        "A": "Sarpanch",
+        "B": "District Magistrate",
+        "C": "Nyaya Mitra",
+        "D": "Mukhiya"
+      },
+      "vikalpa": {
+        "A": "सरपंच",
+        "B": "जिला मजिस्ट्रेट",
+        "C": "न्याय मित्र",
+        "D": "मुखिया"
+      }
+    },
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "section": "Economics",
+      "chapter": "2",
+      "chapter_name": "State and National Income",
+      "question": "Which of the following does not include the value of depreciation ?",
+      "prashna": "निम्नलिखित में किसमें मूल्यह्रास का मान शामिल नहीं है ?",
+      "options": {
+        "A": "GDP",
+        "B": "GNP",
+        "C": "NNP",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "GDP",
+        "B": "GNP",
+        "C": "NNP",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_61",
+      "type": "objective",
+      "section": "Economics",
+      "chapter": "2",
+      "chapter_name": "State and National Income",
+      "question": "What is the remuneration of capital ?",
+      "prashna": "पूँजी का पारिश्रमिक क्या है ?",
+      "options": {
+        "A": "Rent",
+        "B": "Wages",
+        "C": "Interest",
+        "D": "Mixed income"
+      },
+      "vikalpa": {
+        "A": "लगान",
+        "B": "मजदूरी",
+        "C": "ब्याज",
+        "D": "मिश्रित आय"
+      }
+    },
+    {
+      "id": "obj_74",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "73rd Constitutional Amendment is related to which of the following ?",
+      "prashna": "73 वां संवैधानिक संशोधन निम्न में से किससे संबंधित है ?",
+      "options": {
+        "A": "Panchayati Raj",
+        "B": "Municipality",
+        "C": "Supreme Court",
+        "D": "Election of President"
+      },
+      "vikalpa": {
+        "A": "पंचायती राज",
+        "B": "नगरपालिका",
+        "C": "सर्वोच्च न्यायालय",
+        "D": "राष्ट्रपति चुनाव"
+      }
+    },
+    {
+      "id": "obj_76",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "In which of the following cities has municipal corporation been already established ?",
+      "prashna": "निम्न में से किस शहर में नगर-निगम की स्थापना हो चुकी है ?",
+      "options": {
+        "A": "Bhagalpur",
+        "B": "Gopalganj",
+        "C": "Sitamarhi",
+        "D": "Rohtas"
+      },
+      "vikalpa": {
+        "A": "भागलपुर",
+        "B": "गोपालगंज",
+        "C": "सीतामढ़ी",
+        "D": "रोहतास"
+      }
+    },
+    {
+      "id": "obj_77",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "Which of the following does not have a federal system of government ?",
+      "prashna": "निम्नलिखित में से कहाँ संघीय सरकार प्रणाली नहीं है ?",
+      "options": {
+        "A": "India",
+        "B": "China",
+        "C": "Spain",
+        "D": "United States of America"
+      },
+      "vikalpa": {
+        "A": "भारत",
+        "B": "चीन",
+        "C": "स्पेन",
+        "D": "संयुक्त राज्य अमेरिका"
+      }
+    },
+    {
+      "id": "obj_78",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "Which of the following subjects has been placed in the State List ?",
+      "prashna": "निम्न में से किस विषय को राज्य सूची में रखा गया है ?",
+      "options": {
+        "A": "Agriculture",
+        "B": "Police",
+        "C": "Irrigation",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "कृषि",
+        "B": "पुलिस",
+        "C": "सिंचाई",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "2",
+      "chapter_name": "Agriculture",
+      "question": "What type of crop is peanut?",
+      "prashna": "मूँगफली किस प्रकार की फसल है?",
+      "options": {
+        "A": "Rabi",
+        "B": "Kharif",
+        "C": "Zaid",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "रबी",
+        "B": "खरीफ",
+        "C": "जायद",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "section": "Economics",
+      "chapter": "2",
+      "chapter_name": "State and National Income",
+      "question": "National income in India is calculated by which of the following?",
+      "prashna": "भारत में राष्ट्रीय आय की गणना किसके द्वारा की जाती है?",
+      "options": {
+        "A": "Central statistical office",
+        "B": "Planning Commission",
+        "C": "NITI Aayog",
+        "D": "National Development Council"
+      },
+      "vikalpa": {
+        "A": "केन्द्रीय सांख्यिकी कार्यालय",
+        "B": "योजना आयोग",
+        "C": "नीति आयोग",
+        "D": "राष्ट्रीय विकास परिषद्"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "section": "History",
+      "chapter": "2",
+      "chapter_name": "Socialism and Communism",
+      "question": "Who changed the name of Bolshevik Party to Communist Party?",
+      "prashna": "बोल्शेविक दल का नाम बदलकर साम्यवादी दल किसने किया?",
+      "options": {
+        "A": "Lenin",
+        "B": "Trotsky",
+        "C": "Stalin",
+        "D": "Bismarck"
+      },
+      "vikalpa": {
+        "A": "लेनिन",
+        "B": "ट्रॉट्स्की",
+        "C": "स्टालिन",
+        "D": "बिस्मार्क"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "section": "History",
+      "chapter": "2",
+      "chapter_name": "Socialism and Communism",
+      "question": "Who abolished Serfdom in Russia?",
+      "prashna": "रूस में कृषि दासता को किसने समाप्त किया?",
+      "options": {
+        "A": "Lenin",
+        "B": "Czar Alexander II",
+        "C": "Stalin",
+        "D": "Trotsky"
+      },
+      "vikalpa": {
+        "A": "लेनिन",
+        "B": "जार एलेक्जेंडर द्वितीय",
+        "C": "स्टालिन",
+        "D": "ट्रॉट्स्की"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "2",
+      "chapter_name": "Agriculture",
+      "question": "Which of the following is a plantation crop?",
+      "prashna": "निम्नलिखित में से कौन रोपण फसल है?",
+      "options": {
+        "A": "Tea",
+        "B": "Rubber",
+        "C": "Sugarcane",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "चाय",
+        "B": "रबड़",
+        "C": "गन्ना",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_51",
+      "type": "objective",
+      "section": "Economics",
+      "chapter": "2",
+      "chapter_name": "State and National Income",
+      "question": "Which of the following does not include the value of depreciation?",
+      "prashna": "निम्नलिखित में किसमें मूल्यह्रास का मान शामिल नहीं है?",
+      "options": {
+        "A": "GDP",
+        "B": "GNP",
+        "C": "NNP",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "GDP",
+        "B": "GNP",
+        "C": "NNP",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_53",
+      "type": "objective",
+      "section": "Economics",
+      "chapter": "2",
+      "chapter_name": "State and National Income",
+      "question": "What is the remuneration of capital?",
+      "prashna": "पूँजी का पारिश्रमिक क्या है?",
+      "options": {
+        "A": "Rent",
+        "B": "Wages",
+        "C": "Interest",
+        "D": "Mixed income"
+      },
+      "vikalpa": {
+        "A": "लगान",
+        "B": "मजदूरी",
+        "C": "ब्याज",
+        "D": "मिश्रित आय"
+      }
+    },
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "section": "History",
+      "chapter": "2",
+      "chapter_name": "Socialism and Communism",
+      "question": "Who is considered the father of scientific socialism?",
+      "prashna": "वैज्ञानिक समाजवाद का जनक किसे माना जाता है?",
+      "options": {
+        "A": "Hegel",
+        "B": "Karl Marx",
+        "C": "Saint Simon",
+        "D": "Martin Luther"
+      },
+      "vikalpa": {
+        "A": "हीगेल",
+        "B": "कार्ल मार्क्स",
+        "C": "सेंट साइमन",
+        "D": "मार्टिन लूथर"
+      }
+    },
+    {
+      "id": "obj_64",
+      "type": "objective",
+      "section": "History",
+      "chapter": "2",
+      "chapter_name": "Socialism and Communism",
+      "question": "When did the Soviet Union disintegrate?",
+      "prashna": "सोवियत संघ का विघटन कब हुआ?",
+      "options": {
+        "A": "1985",
+        "B": "1991",
+        "C": "1968",
+        "D": "1990"
+      },
+      "vikalpa": {
+        "A": "1985",
+        "B": "1991",
+        "C": "1968",
+        "D": "1990"
+      }
+    },
+    {
+      "id": "obj_66",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "73rd Constitutional Amendment is related to which of following?",
+      "prashna": "73 वां संवैधानिक संशोधन निम्न में से किससे संबंधित है?",
+      "options": {
+        "A": "Panchayati Raj",
+        "B": "Municipality",
+        "C": "Supreme Court",
+        "D": "Election of President"
+      },
+      "vikalpa": {
+        "A": "पंचायती राज",
+        "B": "नगरपालिका",
+        "C": "सर्वोच्च न्यायालय",
+        "D": "राष्ट्रपति चुनाव"
+      }
+    },
+    {
+      "id": "obj_67",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "Under whose Chairmanship was the State Reorganization Commission formed in 1953?",
+      "prashna": "राज्य पुनर्गठन आयोग, 1953 का गठन किसकी अध्यक्षता में हुआ?",
+      "options": {
+        "A": "Fazal Ali",
+        "B": "Sardar Vallabhbhai Patel",
+        "C": "Morarji Desai",
+        "D": "Lal Bahadur Shastri"
+      },
+      "vikalpa": {
+        "A": "फ़जल अली",
+        "B": "सरदार वल्लभभाई पटेल",
+        "C": "मोरारजी देसाई",
+        "D": "लाल बहादुर शास्त्री"
+      }
+    },
+    {
+      "id": "obj_68",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "In which of the following cities has municipal corporation been already established?",
+      "prashna": "निम्न में से किस शहर में नगर-निगम की स्थापना हो चुकी है?",
+      "options": {
+        "A": "Bhagalpur",
+        "B": "Gopalganj",
+        "C": "Sitamarhi",
+        "D": "Rohtas"
+      },
+      "vikalpa": {
+        "A": "भागलपुर",
+        "B": "गोपालगंज",
+        "C": "सीतामढ़ी",
+        "D": "रोहतास"
+      }
+    },
+    {
+      "id": "obj_69",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "Which of the following does not have a federal system of government?",
+      "prashna": "निम्नलिखित में से कहाँ संघीय सरकार प्रणाली नहीं है?",
+      "options": {
+        "A": "India",
+        "B": "China",
+        "C": "Spain",
+        "D": "United States of America"
+      },
+      "vikalpa": {
+        "A": "भारत",
+        "B": "चीन",
+        "C": "स्पेन",
+        "D": "संयुक्त राज्य अमेरिका"
+      }
+    },
+    {
+      "id": "obj_70",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "Which of the following subjects has been placed in the State List?",
+      "prashna": "निम्न में से किस विषय को राज्य सूची में रखा गया है?",
+      "options": {
+        "A": "Agriculture",
+        "B": "Police",
+        "C": "Irrigation",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "कृषि",
+        "B": "पुलिस",
+        "C": "सिंचाई",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_73",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "Who appoints the Governor?",
+      "prashna": "राज्यपाल की नियुक्ति कौन करता है?",
+      "options": {
+        "A": "Prime Minister",
+        "B": "President",
+        "C": "Chief Minister",
+        "D": "Chief Justice"
+      },
+      "vikalpa": {
+        "A": "प्रधानमंत्री",
+        "B": "राष्ट्रपति",
+        "C": "मुख्यमंत्री",
+        "D": "मुख्य न्यायाधीश"
+      }
+    },
+    {
+      "id": "obj_75",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "In case of dissolution of Panchayati Raj institutions, at what time interval is it mandatory to hold elections?",
+      "prashna": "पंचायती राज संस्थाओं के विघटन की स्थिति में कितने समय अंतराल में चुनाव करवाना अनिवार्य है?",
+      "options": {
+        "A": "2 months",
+        "B": "6 months",
+        "C": "1 year",
+        "D": "1 month"
+      },
+      "vikalpa": {
+        "A": "2 माह",
+        "B": "6 माह",
+        "C": "1 वर्ष",
+        "D": "1 माह"
+      }
+    },
+    {
+      "id": "obj_77",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "Who is the head of the village court?",
+      "prashna": "ग्राम कचहरी का प्रधान कौन होता है?",
+      "options": {
+        "A": "Sarpanch",
+        "B": "District Magistrate",
+        "C": "Nyaya Mitra",
+        "D": "Mukhiya"
+      },
+      "vikalpa": {
+        "A": "सरपंच",
+        "B": "जिला मजिस्ट्रेट",
+        "C": "न्याय मित्र",
+        "D": "मुखिया"
+      }
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "2",
+      "chapter_name": "Agriculture",
+      "question": "In which season are Rabi crops sown ?",
+      "prashna": "रबी की फसलें किस ऋतु में बोई जाती हैं ?",
+      "options": {
+        "A": "Winter",
+        "B": "Summer",
+        "C": "Monsoon",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "शीत",
+        "B": "ग्रीष्म",
+        "C": "मानसून",
+        "D": "इनमें से कोई नहीं"
+      },
+      "instructions": "Question Nos. 1 to 80 have four options each, out of which only one is correct. Mark your selected option on the OMR sheet. Answer any 40 questions."
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "section": "History",
+      "chapter": "2",
+      "chapter_name": "Socialism and Communism",
+      "question": "With whom did Russia sign the Treaty of Brest-Litovsk ?",
+      "prashna": "रूस ने ब्रेस्टलिटोवस्क की संधि किससे की ?",
+      "options": {
+        "A": "France",
+        "B": "Germany",
+        "C": "Poland",
+        "D": "America"
+      },
+      "vikalpa": {
+        "A": "फ्रांस",
+        "B": "जर्मनी",
+        "C": "पोलैंड",
+        "D": "अमेरिका"
+      },
+      "instructions": "Question Nos. 1 to 80 have four options each, out of which only one is correct. Mark your selected option on the OMR sheet. Answer any 40 questions."
+    },
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "2",
+      "chapter_name": "Agriculture",
+      "question": "Which temperature range is required for tea production ?",
+      "prashna": "चाय उत्पादन के लिए किस तापक्रम परास की आवश्यकता होती है ?",
+      "options": {
+        "A": "10°C - 20°C",
+        "B": "20°C - 30°C",
+        "C": "30°C - 40°C",
+        "D": "5°C - 10°C"
+      },
+      "vikalpa": {
+        "A": "10°C - 20°C",
+        "B": "20°C - 30°C",
+        "C": "30°C - 40°C",
+        "D": "5°C - 10°C"
+      },
+      "instructions": "Question Nos. 1 to 80 have four options each, out of which only one is correct. Mark your selected option on the OMR sheet. Answer any 40 questions."
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "section": "Economics",
+      "chapter": "2",
+      "chapter_name": "State and National Income",
+      "question": "Expenditure on depreciation and repair of capital is included in which of the following ?",
+      "prashna": "मरम्मत पर व्यय एवं पूंजी की घिसावट को किसमें शामिल किया जाता है ?",
+      "options": {
+        "A": "Net Domestic Product",
+        "B": "Net National Product",
+        "C": "Gross National Product",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "शुद्ध घरेलू उत्पाद",
+        "B": "शुद्ध राष्ट्रीय उत्पाद",
+        "C": "सकल राष्ट्रीय उत्पाद",
+        "D": "इनमें से कोई नहीं"
+      },
+      "instructions": "Question Nos. 1 to 80 have four options each, out of which only one is correct. Mark your selected option on the OMR sheet. Answer any 40 questions."
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "section": "Economics",
+      "chapter": "2",
+      "chapter_name": "State and National Income",
+      "question": "Who tried to calculate national income before independence ?",
+      "prashna": "स्वतंत्रता प्राप्ति के पूर्व राष्ट्रीय आय गणना का प्रयास किसने किया था ?",
+      "options": {
+        "A": "M. S. Swaminathan",
+        "B": "K. C. Pant",
+        "C": "Dadabhai Naoroji",
+        "D": "Prof. Keynes"
+      },
+      "vikalpa": {
+        "A": "एम. एस. स्वामीनाथन",
+        "B": "के. सी. पंत",
+        "C": "दादाभाई नौरोजी",
+        "D": "प्रो० केन्स"
+      },
+      "instructions": "Question Nos. 1 to 80 have four options each, out of which only one is correct. Mark your selected option on the OMR sheet. Answer any 40 questions."
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "section": "Economics",
+      "chapter": "2",
+      "chapter_name": "State and National Income",
+      "question": "The problem of double counting is related to which of the following ?",
+      "prashna": "दोहरी गणना की समस्या का संबंध निम्नलिखित में से किससे है ?",
+      "options": {
+        "A": "Barter system",
+        "B": "Per capita income",
+        "C": "National income",
+        "D": "Consumption expenditure"
+      },
+      "vikalpa": {
+        "A": "वस्तु विनिमय",
+        "B": "प्रति व्यक्ति आय",
+        "C": "राष्ट्रीय आय",
+        "D": "उपभोग व्यय"
+      },
+      "instructions": "Question Nos. 1 to 80 have four options each, out of which only one is correct. Mark your selected option on the OMR sheet. Answer any 40 questions."
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "Which of the following two union territories have been merged ?",
+      "prashna": "निम्नलिखित में से किन दो केन्द्रशासित प्रदेशों का विलय कर दिया गया है ?",
+      "options": {
+        "A": "Puducherry and Lakshadweep",
+        "B": "Jammu-Kashmir and Ladakh",
+        "C": "Dadra, Nagar Haveli and Daman and Diu",
+        "D": "Andaman and Nicobar Islands"
+      },
+      "vikalpa": {
+        "A": "पुदुचेरी एवं लक्षद्वीप",
+        "B": "जम्मू-कश्मीर एवं लद्दाख",
+        "C": "दादरा, नगर हवेली और दमन व दीव",
+        "D": "अंडमान एवं निकोबार द्वीपसमूह"
+      },
+      "instructions": "Question Nos. 1 to 80 have four options each, out of which only one is correct. Mark your selected option on the OMR sheet. Answer any 40 questions."
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "What is the committee of all the villagers living in a Panchayat called ?",
+      "prashna": "एक पंचायत क्षेत्र में रहने वाले सभी ग्रामवासियों की सभा क्या कहलाती है ?",
+      "options": {
+        "A": "Gram Sabha",
+        "B": "Gram Panchayat",
+        "C": "Panchayat Samiti",
+        "D": "Zilla Parishad"
+      },
+      "vikalpa": {
+        "A": "ग्राम सभा",
+        "B": "ग्राम पंचायत",
+        "C": "पंचायत समिति",
+        "D": "जिला परिषद्"
+      },
+      "instructions": "Question Nos. 1 to 80 have four options each, out of which only one is correct. Mark your selected option on the OMR sheet. Answer any 40 questions."
+    },
+    {
+      "id": "obj_59",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "Who appoints the Panchayat Secretary ?",
+      "prashna": "पंचायत सचिव की नियुक्ति कौन करता है ?",
+      "options": {
+        "A": "Gram Sabha",
+        "B": "Mukhiya of Gram Panchayat",
+        "C": "State Government",
+        "D": "Pramukh of Panchayat Samiti"
+      },
+      "vikalpa": {
+        "A": "ग्राम सभा",
+        "B": "ग्राम पंचायत का मुखिया",
+        "C": "राज्य सरकार",
+        "D": "पंचायत समिति का प्रमुख"
+      },
+      "instructions": "Question Nos. 1 to 80 have four options each, out of which only one is correct. Mark your selected option on the OMR sheet. Answer any 40 questions."
+    },
+    {
+      "id": "obj_60",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "Which of the following is not a feature of a federal government ?",
+      "prashna": "निम्नलिखित में से क्या संघीय सरकार की विशेषता नहीं है ?",
+      "options": {
+        "A": "Division of powers",
+        "B": "Supremacy of the constitution",
+        "C": "Flexible constitution",
+        "D": "Independent judiciary"
+      },
+      "vikalpa": {
+        "A": "शक्तियों का विभाजन",
+        "B": "संविधान की सर्वोच्चता",
+        "C": "लचीला संविधान",
+        "D": "स्वतंत्र न्यायपालिका"
+      },
+      "instructions": "Question Nos. 1 to 80 have four options each, out of which only one is correct. Mark your selected option on the OMR sheet. Answer any 40 questions."
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "2",
+      "chapter_name": "Agriculture",
+      "question": "Which is the leading state in sugarcane production in India ?",
+      "prashna": "भारत में गन्ना उत्पादन में कौन अग्रणी राज्य है ?",
+      "options": {
+        "A": "Bihar",
+        "B": "Uttar Pradesh",
+        "C": "Punjab",
+        "D": "Andhra Pradesh"
+      },
+      "vikalpa": {
+        "A": "बिहार",
+        "B": "उत्तर प्रदेश",
+        "C": "पंजाब",
+        "D": "आंध्र प्रदेश"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "2",
+      "chapter_name": "Agriculture",
+      "question": "By which other name is Operation Flood known ?",
+      "prashna": "ऑपरेशन फ्लड को किस अन्य नाम से जाना जाता है ?",
+      "options": {
+        "A": "Green Revolution",
+        "B": "White Revolution",
+        "C": "Flood Protection",
+        "D": "Blue Revolution"
+      },
+      "vikalpa": {
+        "A": "हरित क्रांति",
+        "B": "श्वेत क्रांति",
+        "C": "बाढ़ सुरक्षा",
+        "D": "नीली क्रांति"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "2",
+      "chapter_name": "Agriculture",
+      "question": "By which name is shifting cultivation known in Andaman and Nicobar Islands ?",
+      "prashna": "अंडमान एवं निकोबार द्वीप समूह में झूम कृषि को किस नाम से जाना जाता है ?",
+      "options": {
+        "A": "Podu",
+        "B": "Dipa",
+        "C": "Pamlu",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "पोंडु",
+        "B": "दीपा",
+        "C": "पामलू",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "section": "History",
+      "chapter": "2",
+      "chapter_name": "Socialism and Communism",
+      "question": "Which of the following is called the Bible of Socialism ?",
+      "prashna": "निम्नलिखित में से किसे समाजवादियों की बाइबल कहा जाता है ?",
+      "options": {
+        "A": "War and Peace",
+        "B": "Communist Manifesto",
+        "C": "Das Kapital",
+        "D": "April Theses"
+      },
+      "vikalpa": {
+        "A": "वॉर एण्ड पीस",
+        "B": "कम्युनिस्ट मैनिफेस्टो",
+        "C": "दास-कैपिटल",
+        "D": "अप्रैल थीसिस"
+      }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "The 11th Schedule of the constitution is related to which of the following ?",
+      "prashna": "संविधान की ग्यारहवीं अनुसूची का संबंध निम्नलिखित में से किससे है ?",
+      "options": {
+        "A": "Panchayati Raj System",
+        "B": "Powers of Municipalities",
+        "C": "Anti-defection Law",
+        "D": "Scheduled languages"
+      },
+      "vikalpa": {
+        "A": "पंचायती राज व्यवस्था",
+        "B": "नगरपालिकाओं की शक्ति",
+        "C": "दल-बदल विरोधी कानून",
+        "D": "अनुसूचित भाषायें"
+      }
+    },
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "2",
+      "chapter_name": "Federalism (Working of Power Sharing)",
+      "question": "Who is the Chief Executive Officer of Panchayat Samiti ?",
+      "prashna": "पंचायत समिति के मुख्य कार्यकारी पदाधिकारी कौन होता है ?",
+      "options": {
+        "A": "Mukhiya of Gram Panchayat",
+        "B": "Panchayat Secretary",
+        "C": "Block Development Officer",
+        "D": "Mayor"
+      },
+      "vikalpa": {
+        "A": "ग्राम पंचायत के मुखिया",
+        "B": "पंचायत सचिव",
+        "C": "प्रखण्ड विकास पदाधिकारी",
+        "D": "महापौर"
+      }
+    },
+    {
+      "id": "obj_46",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "2",
+      "chapter_name": "Agriculture",
+      "question": "Which state ranks first in the production of Jowar ?",
+      "prashna": "ज्वार उत्पादन में किस राज्य का स्थान प्रथम है ?",
+      "options": {
+        "A": "Karnataka",
+        "B": "Madhya Pradesh",
+        "C": "Andhra Pradesh",
+        "D": "Maharashtra"
+      },
+      "vikalpa": {
+        "A": "कर्नाटक",
+        "B": "मध्य प्रदेश",
+        "C": "आन्ध्र प्रदेश",
+        "D": "महाराष्ट्र"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "section": "Economics",
+      "chapter": "2",
+      "chapter_name": "State and National Income",
+      "question": "What is the value of all goods and services produced within the boundaries of a country over a period of one year called ?",
+      "prashna": "देश की सीमा के अंतर्गत एक वर्ष की अवधि में उत्पादित सभी वस्तुओं एवं सेवाओं के मूल्य को क्या कहते हैं ?",
+      "options": {
+        "A": "Gross Domestic Product",
+        "B": "Gross National Product",
+        "C": "Net National Product",
+        "D": "Per Capita Income"
+      },
+      "vikalpa": {
+        "A": "सकल घरेलू उत्पाद",
+        "B": "सकल राष्ट्रीय उत्पाद",
+        "C": "शुद्ध राष्ट्रीय उत्पाद",
+        "D": "प्रति व्यक्ति आय"
       }
     }
   ]

@@ -1,1384 +1,86 @@
 {
   "2011": [
     {
-      "id": "obj_19",
+      "id": "obj_18",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "In what kind of water does the dengue-causing mosquito breed?",
-      "prashna": "डेंगू उत्पन्न करनेवाला मच्छर किस तरह के जल में लगता है?",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "What type of current is obtained from a dynamo?",
+      "prashna": "डायनेमो से किस प्रकार की धारा प्राप्त होती है ?",
       "options": {
-        "A": "Clean water",
-        "B": "Dirty water",
-        "C": "Salty water",
-        "D": "Soft water"
+        "A": "Direct current (DC)",
+        "B": "Alternating current (AC)",
+        "C": "Both currents",
+        "D": "None of these"
       },
       "vikalpa": {
-        "A": "साफ जल",
-        "B": "गन्दा जल",
-        "C": "खरा जल",
-        "D": "मृदु जल"
-      }
-    },
-    {
-      "id": "obj_20",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which of the following is not a source of biogas fuel?",
-      "prashna": "निम्नलिखित में से कोन बायोगैस ईंधन का स्रोत नहीं है?",
-      "options": {
-        "A": "Wood",
-        "B": "Gobar gas",
-        "C": "Nuclear energy",
-        "D": "Coal"
-      },
-      "vikalpa": {
-        "A": "लकड़ी",
-        "B": "गोबर गैस",
-        "C": "नाभिकीय ऊर्जा",
-        "D": "कोयला"
+        "A": "दिष्ट धारा",
+        "B": "प्रत्यावर्ती धारा",
+        "C": "दोनों धाराएँ",
+        "D": "इनमें से कोई नहीं"
       }
     }
   ],
   "2012": [
     {
-      "id": "obj_12",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which of the following is not an example of a bio-mass energy source?",
-      "prashna": "निम्नलिखित में से कौन जैव मात्रा ऊर्जा स्रोत का उदाहरण नहीं है?",
-      "options": {
-        "A": "Wood",
-        "B": "Gobar-gas",
-        "C": "Nuclear energy",
-        "D": "Coal"
-      },
-      "vikalpa": {
-        "A": "लकड़ी",
-        "B": "गोबर गैस",
-        "C": "नाभिकीय ऊर्जा",
-        "D": "कोयला"
-      }
-    },
-    {
-      "id": "obj_15",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "The number of oxygen atoms in a molecule of ozone is",
-      "prashna": "ओजोन के अणु में ऑक्सीजन के परमाणु की संख्या होती है।",
-      "options": {
-        "A": "1",
-        "B": "2",
-        "C": "3",
-        "D": "4"
-      },
-      "vikalpa": {
-        "A": "1",
-        "B": "2",
-        "C": "3",
-        "D": "4"
-      }
-    }
-  ],
-  "2013": [
-    {
-      "id": "obj_9",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Necessary for obtaining nuclear energy is",
-      "prashna": "नाभिकीय ऊर्जा प्राप्त करने हेतु आवश्यक है",
-      "options": {
-        "A": "Helium",
-        "B": "Chromium",
-        "C": "Uranium",
-        "D": "Aluminum"
-      },
-      "vikalpa": {
-        "A": "हीलियम",
-        "B": "क्रोमियम",
-        "C": "यूरेनियम",
-        "D": "एल्युमिनियम"
-      }
-    },
-    {
       "id": "obj_10",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "The gas responsible for global warming is",
-      "prashna": "ग्लोबल वार्मिंग के लिए उत्तरदायी गैस है।",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "The device used for producing electric current is called a",
+      "prashna": "विद्युत धारा उत्पन्न करने की युक्ति को कहते हैं",
       "options": {
-        "A": "$O_2$",
-        "B": "$NH_3$",
-        "C": "$CO_2$",
-        "D": "$N_2$"
+        "A": "Generator",
+        "B": "Galvanometer",
+        "C": "Ammeter",
+        "D": "Motor"
       },
       "vikalpa": {
-        "A": "$O_2$",
-        "B": "$NH_3$",
-        "C": "$CO_2$",
-        "D": "$N_2$"
+        "A": "जनित्र",
+        "B": "गैल्वेनोमीटर",
+        "C": "ऐभीटय",
+        "D": "भोटय"
+      }
+    },
+    {
+      "id": "obj_11",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "At the time of short circuit, the current in the circuit",
+      "prashna": "लघुपथन के समय परिपथ में विद्युत धारा का मान",
+      "options": {
+        "A": "decreases substantially",
+        "B": "remains constant",
+        "C": "increases heavily",
+        "D": "varies continuously"
+      },
+      "vikalpa": {
+        "A": "कम हो जाता है",
+        "B": "स्थिर रहता है",
+        "C": "बहुत अधिक बढ़ जाता है",
+        "D": "निरंतर परिवर्तित होता है"
       }
     }
   ],
   "2014": [
     {
-      "id": "obj_36",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "The source of energy in an ecosystem is",
-      "prashna": "पारिस्थितिकी तंत्र में ऊर्जा का स्रोत है",
-      "options": {
-        "A": "Air",
-        "B": "Sunlight",
-        "C": "Rain water",
-        "D": "Soil"
-      },
-      "vikalpa": {
-        "A": "वायु",
-        "B": "सूर्य प्रकाश",
-        "C": "वर्षा जल",
-        "D": "मिट्टी"
-      }
-    },
-    {
-      "id": "obj_38",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Green plants are called",
-      "prashna": "हरे पौधे कहलाते हैं",
-      "options": {
-        "A": "Producers",
-        "B": "Consumers",
-        "C": "Decomposers",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "उत्पादक",
-        "B": "उपभोक्ता",
-        "C": "अपघटक",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_40",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Ozone layer is found in",
-      "prashna": "ओजोन परत पायी जाती है",
-      "options": {
-        "A": "In Stratosphere",
-        "B": "In Exosphere",
-        "C": "In Ionosphere",
-        "D": "In Troposphere"
-      },
-      "vikalpa": {
-        "A": "स्ट्रेटोस्फियर में",
-        "B": "एक्सोस्फियर में",
-        "C": "आयनोस्फियर में",
-        "D": "ट्रोपोस्फियर में"
-      }
-    },
-    {
-      "id": "obj_6",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which of the following is not an example of a biomass energy source?",
-      "prashna": "जीव द्रव्यमान ऊर्जा स्रोत का उदाहरण निम्नलिखित में कौन नहीं है?",
-      "options": {
-        "A": "Petroleum",
-        "B": "Biogas",
-        "C": "Nuclear energy",
-        "D": "Coal"
-      },
-      "vikalpa": {
-        "A": "पेट्रोलियम",
-        "B": "बायोगैस",
-        "C": "नाभिकीय ऊर्जा",
-        "D": "कोयला"
-      }
-    },
-    {
-      "id": "obj_7",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "What should be the minimum speed of wind in a wind electric generator?",
-      "prashna": "पवन विद्युत जनित्र में पवन की चाल कम-से-कम कितनी होनी चाहिए?",
-      "options": {
-        "A": "15 km/h",
-        "B": "150 km/h",
-        "C": "1.5 km/h",
-        "D": "1500 km/h"
-      },
-      "vikalpa": {
-        "A": "15 किमी/घंटा",
-        "B": "150 किमी/घंटा",
-        "C": "1.5 किमी/घंटा",
-        "D": "1500 किमी/घंटा"
-      }
-    },
-    {
-      "id": "obj_15",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "The main source of energy on Earth in nature is",
-      "prashna": "प्रकृति में पृथ्वी पर ऊर्जा का मुख्य स्रोत है",
-      "options": {
-        "A": "Coal",
-        "B": "Sun",
-        "C": "Water",
-        "D": "Wood"
-      },
-      "vikalpa": {
-        "A": "कोयला",
-        "B": "सूर्य",
-        "C": "पानी",
-        "D": "लकड़ी"
-      }
-    },
-    {
-      "id": "obj_16",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Green plants are called",
-      "prashna": "हरे पौधे कहलाते हैं",
-      "options": {
-        "A": "Producers",
-        "B": "Decomposers",
-        "C": "Consumers",
-        "D": "Food chain"
-      },
-      "vikalpa": {
-        "A": "उत्पादक",
-        "B": "अपघटक",
-        "C": "उपभोक्ता",
-        "D": "आहार शृंखला"
-      }
-    },
-    {
-      "id": "obj_20",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which of the following is an example of 'ground water'?",
-      "prashna": "निम्नलिखित में से कौन एक 'भूमिगत जल' का उदाहरण है?",
-      "options": {
-        "A": "River",
-        "B": "Well",
-        "C": "Pond",
-        "D": "Sea"
-      },
-      "vikalpa": {
-        "A": "नदी",
-        "B": "कुआँ",
-        "C": "तालाब",
-        "D": "समुद्र"
-      }
-    }
-  ],
-  "2015": [
-    {
       "id": "obj_17",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Ozone layer is found in",
-      "prashna": "ओजोन परत पाई जाती है",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "Which material rod is used to make electromagnets?",
+      "prashna": "विद्युत चुंबक बनाने के लिए किस पदार्थ के छड़ का उपयोग होता है",
       "options": {
-        "A": "Stratosphere",
-        "B": "Exosphere",
-        "C": "Ionosphere",
-        "D": "Troposphere"
-      },
-      "vikalpa": {
-        "A": "स्ट्रेटोस्फियर में",
-        "B": "एक्सोस्फियर में",
-        "C": "आयनास्फियर में",
-        "D": "ट्रोपोस्फियर में"
-      }
-    },
-    {
-      "id": "obj_17",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "The ozone layer is found in:",
-      "prashna": "ओजोन परत पायी जाती है।",
-      "options": {
-        "A": "Stratosphere",
-        "B": "Exosphere",
-        "C": "Ionosphere",
-        "D": "Troposphere"
-      },
-      "vikalpa": {
-        "A": "स्रेटोस्फियर में",
-        "B": "एक्सोस्फियर में",
-        "C": "आयनोस्फियर में",
-        "D": "ट्रोपोस्फियर में"
-      }
-    }
-  ],
-  "2016": [
-    {
-      "id": "obj_13",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "The presence of $CO_2$ gas in atmosphere is",
-      "prashna": "वायुमंडल में $CO_2$ गैस की उपस्थिति है",
-      "options": {
-        "A": "0.01%",
-        "B": "0.05%",
-        "C": "0.03%",
-        "D": "0.02%"
-      },
-      "vikalpa": {
-        "A": "0.01%",
-        "B": "0.05%",
-        "C": "0.03%",
-        "D": "0.02%"
-      }
-    },
-    {
-      "id": "obj_13",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "The presence of $CO_2$ gas in the atmosphere is:",
-      "prashna": "वायुमंडल में $CO_2$ गैस की उपस्थिति है",
-      "options": {
-        "A": "0.01%",
-        "B": "0.05%",
-        "C": "0.03%",
-        "D": "0.02%"
-      },
-      "vikalpa": {
-        "A": "0.01%",
-        "B": "0.05%",
-        "C": "0.03%",
-        "D": "0.02%"
-      }
-    }
-  ],
-  "2018": [
-    {
-      "id": "obj_13",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "The main aim of 'Chipko Movement' was to conserve -",
-      "prashna": "'चिपको आन्दोलन' का मुख्य उद्देश्य संरक्षित करना था -",
-      "options": {
-        "A": "soil",
-        "B": "trees",
-        "C": "water",
-        "D": "electricity"
-      },
-      "vikalpa": {
-        "A": "मिट्टी को",
-        "B": "वृक्षों को",
-        "C": "जल को",
-        "D": "बिजली को"
-      }
-    },
-    {
-      "id": "obj_40",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which of the following groups contains only biodegradable items?",
-      "prashna": "निम्न में से कौन -से समूहों में केवल जैव निम्नीकरणीय पदार्थ हैं -",
-      "options": {
-        "A": "Grass, flowers and leather",
-        "B": "Grass, wood and plastic",
-        "C": "Fruits-peels, cake and rubber",
-        "D": "Cake, wood and grass"
-      },
-      "vikalpa": {
-        "A": "घास, पुष्प तथा चमड़ा",
-        "B": "घास, लकड़ी तथा प्लास्टिक",
-        "C": "फसलों के छिलके, केक एवं रबर",
-        "D": "केक, लकड़ी एवं घास"
-      }
-    },
-    {
-      "id": "obj_12",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which energy does a hydro electric power plant convert into electric energy?",
-      "prashna": "जल विद्युत संयंत्र किस ऊर्जा को विद्युत ऊर्जा में रूपांतरित करता है?",
-      "options": {
-        "A": "Thermal energy",
-        "B": "Nuclear energy",
-        "C": "Solar energy",
-        "D": "Potential energy"
-      },
-      "vikalpa": {
-        "A": "तापीय ऊर्जा",
-        "B": "नाभिकीय ऊर्जा",
-        "C": "सौर ऊर्जा",
-        "D": "स्थितिज ऊर्जा"
-      }
-    },
-    {
-      "id": "obj_13",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "In which State, Narora nuclear power reactor is situated?",
-      "prashna": "नरौरा नाभिकीय विद्युत संयंत्र किस राज्य में स्थित है?",
-      "options": {
-        "A": "Rajasthan",
-        "B": "Maharashtra",
-        "C": "Uttar Pradesh",
-        "D": "Gujarat"
-      },
-      "vikalpa": {
-        "A": "राजस्थान",
-        "B": "महाराष्ट्र",
-        "C": "उत्तर प्रदेश",
-        "D": "गुजरात"
-      }
-    },
-    {
-      "id": "obj_40",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which of the following constitutes a Food chain?",
-      "prashna": "निम्न में कौन आहार श्रृंखला का निर्माण करता है?",
-      "options": {
-        "A": "Grass, wheat and mango",
-        "B": "Grass, goat and human",
-        "C": "Goat, Cow and elephant",
-        "D": "Grass, Goat and fish"
-      },
-      "vikalpa": {
-        "A": "घास, गेहूं तथा आम",
-        "B": "घास, बकरी तथा मानव",
-        "C": "बकरी, गाय तथा हाथी",
-        "D": "घास, बकरी तथा मछली"
-      }
-    }
-  ],
-  "2019": [
-    {
-      "id": "obj_11",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which gas is responsible for the global warming?",
-      "prashna": "कौन-सी गैस वैश्विक ऊष्मण के लिए उत्तरदायी है?",
-      "options": {
-        "A": "Carbon dioxide",
-        "B": "Oxygen",
-        "C": "Nitrogen",
+        "A": "Steel",
+        "B": "Brass",
+        "C": "Soft iron",
         "D": "None of these"
       },
       "vikalpa": {
-        "A": "कार्बन डाइऑक्साइड",
-        "B": "ऑक्सीजन",
-        "C": "नाइट्रोजन",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_25",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which is not responsible for Ganga's pollution?",
-      "prashna": "निम्न में कौन गंगा-प्रदूषण के लिए उत्तरदायी नहीं है?",
-      "options": {
-        "A": "Fish farming in Ganga",
-        "B": "Washing of clothes in Ganga",
-        "C": "Immersion of unburnt corpse in Ganga",
-        "D": "Emission of chemical effluents in Ganga"
-      },
-      "vikalpa": {
-        "A": "गंगा में मछली पालना",
-        "B": "गंगा में कपड़ों का धोना",
-        "C": "गंगा में अधजले शव को बहाना",
-        "D": "गंगा में रासायनिक अपशिष्ट उत्सर्जन"
-      }
-    },
-    {
-      "id": "obj_27",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which of the following constitutes a food chain?",
-      "prashna": "निम्न में से कौन आहार श्रृंखला का निर्माण करता है?",
-      "options": {
-        "A": "Grass, wheat and mango",
-        "B": "Grass, goat and human",
-        "C": "Goat, cow and elephant",
-        "D": "Grass, fish and goat"
-      },
-      "vikalpa": {
-        "A": "घास, गेहूँ तथा आम",
-        "B": "घास, बकरी तथा मानव",
-        "C": "बकरी, गाय तथा हाथी",
-        "D": "घास, मछली तथा बकरी"
-      }
-    },
-    {
-      "id": "obj_32",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which of the following is an ideal source of energy?",
-      "prashna": "निम्न में से उत्तम ऊर्जा स्त्रोत कौन सा है?",
-      "options": {
-        "A": "Coal",
-        "B": "Wood",
-        "C": "Petroleum",
-        "D": "Bio-mass"
-      },
-      "vikalpa": {
-        "A": "कोयला",
-        "B": "लकड़ी",
-        "C": "पेट्रोलियम",
-        "D": "बायो-मास"
-      }
-    },
-    {
-      "id": "obj_40",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which is a non-biodegradable waste?",
-      "prashna": "कौन सा अजैव निम्नीकरणीय कचरा है?",
-      "options": {
-        "A": "Tissue paper",
-        "B": "Peel of banana",
-        "C": "Thermocol",
-        "D": "All of these"
-      },
-      "vikalpa": {
-        "A": "टिश्यू पेपर",
-        "B": "केले का छिलका",
-        "C": "थर्मोकॉल",
-        "D": "इनमें से सभी"
-      }
-    },
-    {
-      "id": "obj_2",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which is the conventional source of energy?",
-      "prashna": "कौन - सा परंपरागत ऊर्जा स्रोत है?",
-      "options": {
-        "A": "Bio - Mass",
-        "B": "Nuclear energy source",
-        "C": "Geo - thermal energy source",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "जैव मात्रा (बायो-मास)",
-        "B": "नाभिकीय ऊर्जा स्रोत",
-        "C": "भूतापीय ऊर्जा स्रोत",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_6",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which state has 'Surangam' water harvesting system?",
-      "prashna": "सुरंगम किस राज्य की जल संग्रहण व्यवस्था है?",
-      "options": {
-        "A": "Himachal Pradesh",
-        "B": "Tamil Nadu",
-        "C": "Kerala",
-        "D": "Karnataka"
-      },
-      "vikalpa": {
-        "A": "हिमाचल प्रदेश",
-        "B": "तमिलनाडु",
-        "C": "केरल",
-        "D": "कर्नाटक"
-      }
-    },
-    {
-      "id": "obj_12",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Hot spots of biodiversity is -",
-      "prashna": "जैव विविधता के विशिष्ट स्थल (Hot spots) हैं -",
-      "options": {
-        "A": "Crop field",
-        "B": "River Bank",
-        "C": "Sea Shore",
-        "D": "Forest"
-      },
-      "vikalpa": {
-        "A": "शहर",
-        "B": "नदी तट",
-        "C": "समुद्र तट",
-        "D": "वन"
-      }
-    },
-    {
-      "id": "obj_25",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "The earth is shielded by ozone layer from which harmful radiation?",
-      "prashna": "ओजोन परत किस हानिकारक विकिरण से पृथ्वी को सुरक्षा प्रदान करती है?",
-      "options": {
-        "A": "Infra - red",
-        "B": "Thermal",
-        "C": "Ultra - violet",
-        "D": "All of these"
-      },
-      "vikalpa": {
-        "A": "अवरक्त विकिरण",
-        "B": "तापीय विकिरण",
-        "C": "पराबैंगनी विकिरण",
-        "D": "इनमें से सभी"
-      }
-    },
-    {
-      "id": "obj_40",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which one of the following is a clean energy source?",
-      "prashna": "निम्न में से कौन - सा स्वच्छ ऊर्जा स्रोत है?",
-      "options": {
-        "A": "Coal",
-        "B": "Wood",
-        "C": "Natural gas",
-        "D": "All of these"
-      },
-      "vikalpa": {
-        "A": "कोयला",
-        "B": "लकड़ी",
-        "C": "प्राकृतिक गैस",
-        "D": "इनमें से सभी"
-      }
-    }
-  ],
-  "2020": [
-    {
-      "id": "obj_11",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "In which day a solar water heater cannot be used to get hot water?",
-      "prashna": "गर्म जल प्राप्त करने के लिये हम सौर जल तापक का उपयोग किस दिन नहीं कर सकते हैं ?",
-      "options": {
-        "A": "A sunny day",
-        "B": "A cloudy day",
-        "C": "A hot day",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "धूप वाले दिन",
-        "B": "बादलों वाले दिन",
-        "C": "गरम दिन",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_12",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which of the following is not derived from the solar energy?",
-      "prashna": "निम्न में से कौन-सा ऊर्जा स्रोत सौर ऊर्जा के व्युत्पन्न नहीं है ?",
-      "options": {
-        "A": "Geothermal energy",
-        "B": "Wind energy",
-        "C": "Nuclear energy",
-        "D": "Biomass"
-      },
-      "vikalpa": {
-        "A": "भूतापीय ऊर्जा",
-        "B": "पवन ऊर्जा",
-        "C": "नाभिकीय ऊर्जा",
-        "D": "जैवमात्रा"
-      }
-    },
-    {
-      "id": "obj_20",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "'Chipko movement' is related to",
-      "prashna": "'चिपको आंदोलन' किससे संबंधित है ?",
-      "options": {
-        "A": "forest conservation",
-        "B": "soil conservation",
-        "C": "water conservation",
-        "D": "afforestation"
-      },
-      "vikalpa": {
-        "A": "वन संरक्षण",
-        "B": "मृदा संरक्षण",
-        "C": "जल संरक्षण",
-        "D": "वृक्षारोपण"
-      }
-    },
-    {
-      "id": "obj_10",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which of the following is not the source of non-renewable energy ?",
-      "prashna": "निम्न में से कौन अनवीकरणीय ऊर्जा का स्रोत नहीं है ?",
-      "options": {
-        "A": "Petroleum",
-        "B": "Coal",
-        "C": "Biogas",
-        "D": "Natural gas"
-      },
-      "vikalpa": {
-        "A": "पेट्रोलियम",
-        "B": "कोयला",
-        "C": "बायोगैस",
-        "D": "प्राकृतिक गैस"
-      }
-    },
-    {
-      "id": "obj_19",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "In which state is Tehri Dam constructed ?",
-      "prashna": "टेहरी बाँध का निर्माण किस प्रदेश में किया गया है ?",
-      "options": {
-        "A": "Uttar Pradesh",
-        "B": "Uttarakhand",
-        "C": "Rajasthan",
-        "D": "Madhya Pradesh"
-      },
-      "vikalpa": {
-        "A": "उत्तर प्रदेश",
-        "B": "उत्तराखंड",
-        "C": "राजस्थान",
-        "D": "मध्य प्रदेश"
-      }
-    },
-    {
-      "id": "obj_20",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which of the following causes acid rain ?",
-      "prashna": "निम्नलिखित में किसके कारण अम्ल वर्षा होती है ?",
-      "options": {
-        "A": "$CO_2$",
-        "B": "$SO_2$",
-        "C": "$CO$",
-        "D": "$Cl_2$"
-      },
-      "vikalpa": {
-        "A": "$CO_2$",
-        "B": "$SO_2$",
-        "C": "$CO$",
-        "D": "$Cl_2$"
-      }
-    },
-    {
-      "id": "obj_21",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Ultimate source of energy for all living organisms is",
-      "prashna": "सभी जीव-जन्तुओं के लिए ऊर्जा का अंतिम स्रोत है",
-      "options": {
-        "A": "Planet",
-        "B": "Moon",
-        "C": "Sun",
-        "D": "Coal"
-      },
-      "vikalpa": {
-        "A": "ग्रह",
-        "B": "चन्द्रमा",
-        "C": "सूर्य",
-        "D": "कोयला"
-      }
-    },
-    {
-      "id": "obj_30",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which of the following is not a natural resource ?",
-      "prashna": "निम्नलिखित में कौन प्राकृतिक संसाधन नहीं है ?",
-      "options": {
-        "A": "Air",
-        "B": "Water",
-        "C": "Soil",
-        "D": "Organism"
-      },
-      "vikalpa": {
-        "A": "वायु",
-        "B": "जल",
-        "C": "मिट्टी",
-        "D": "जीवधारी"
-      }
-    },
-    {
-      "id": "obj_33",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "With which of the following metals is solar cell made of ?",
-      "prashna": "निम्नलिखित में किस धातु से सोलर सेल बना होता है ?",
-      "options": {
-        "A": "Zinc",
-        "B": "Gold",
-        "C": "Platinum",
-        "D": "Silicon"
-      },
-      "vikalpa": {
-        "A": "जस्ता",
-        "B": "सोना",
-        "C": "प्लेटिनम",
-        "D": "सिलिकन"
-      }
-    },
-    {
-      "id": "obj_43",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "In which direction does energy flow in an ecosystem ?",
-      "prashna": "पारिस्थितिकी तंत्र में ऊर्जा का प्रवाह किस दिशा में होता है ?",
-      "options": {
-        "A": "Unidirectional",
-        "B": "Bidirectional",
-        "C": "Multidirectional",
-        "D": "Non-directional"
-      },
-      "vikalpa": {
-        "A": "एकदिशीय",
-        "B": "द्विदिशीय",
-        "C": "बहुदिशीय",
-        "D": "किसी भी दिशा में नहीं"
-      }
-    },
-    {
-      "id": "obj_44",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "The ozone layer is found",
-      "prashna": "ओजोन परत पाया जाता है",
-      "options": {
-        "A": "in the lower layer of atmosphere",
-        "B": "in the upper layer of atmosphere",
-        "C": "in the middle layer of atmosphere",
-        "D": "none of these"
-      },
-      "vikalpa": {
-        "A": "वायुमंडल के निचली सतह में",
-        "B": "वायुमंडल के ऊपरी सतह में",
-        "C": "वायुमंडल के मध्य सतह में",
-        "D": "इनमें से कोई नहीं"
-      }
-    }
-  ],
-  "2021": [
-    {
-      "id": "obj_36",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "The source of energy in an ecosystem is",
-      "prashna": "पारिस्थितिकी तंत्र में ऊर्जा का स्रोत है",
-      "options": {
-        "A": "Air",
-        "B": "Sunlight",
-        "C": "Rain water",
-        "D": "Soil"
-      },
-      "vikalpa": {
-        "A": "वायु",
-        "B": "सूर्य प्रकाश",
-        "C": "वर्षा जल",
-        "D": "मिट्टी"
-      }
-    },
-    {
-      "id": "obj_38",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Green plants are called",
-      "prashna": "हरे पौधे कहलाते हैं",
-      "options": {
-        "A": "Producers",
-        "B": "Consumers",
-        "C": "Decomposers",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "उत्पादक",
-        "B": "उपभोक्ता",
-        "C": "अपघटक",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_40",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "The ozone layer is found in",
-      "prashna": "ओजोन परत पायी जाती है",
-      "options": {
-        "A": "Stratosphere",
-        "B": "Exosphere",
-        "C": "Ionosphere",
-        "D": "Troposphere"
-      },
-      "vikalpa": {
-        "A": "स्ट्रेटोस्फियर में",
-        "B": "एक्सोस्फियर में",
-        "C": "आयनोस्फियर में",
-        "D": "ट्रोपोस्फियर में"
-      }
-    },
-    {
-      "id": "obj_28",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "What is the number of atoms of oxygen in a molecule of ozone?",
-      "prashna": "ओजोन के एक अणु में आक्सीजन के परमाणुओं की संख्या कितनी होती है?",
-      "options": {
-        "A": "1",
-        "B": "2",
-        "C": "3",
-        "D": "4"
-      },
-      "vikalpa": {
-        "A": "1",
-        "B": "2",
-        "C": "3",
-        "D": "4"
-      }
-    }
-  ],
-  "2022": [
-    {
-      "id": "obj_13",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Non-renewable source of energy is",
-      "prashna": "अनवीकरणीय ऊर्जा का स्रोत है",
-      "options": {
-        "A": "Coal",
-        "B": "Wind",
-        "C": "Water",
-        "D": "Sun"
-      },
-      "vikalpa": {
-        "A": "कोयला",
-        "B": "पवन",
-        "C": "जल",
-        "D": "सूर्य"
-      }
-    },
-    {
-      "id": "obj_34",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "The source of energy in the ecosystem is",
-      "prashna": "पारिस्थितिक तंत्र में ऊर्जा का स्रोत है",
-      "options": {
-        "A": "Rainwater",
-        "B": "Sunlight",
-        "C": "Air",
-        "D": "Soil"
-      },
-      "vikalpa": {
-        "A": "वर्षा जल",
-        "B": "सूर्य प्रकाश",
-        "C": "वायु",
-        "D": "मिट्टी"
-      }
-    },
-    {
-      "id": "obj_40",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "What is the main cause of depletion of ozone layer ?",
-      "prashna": "ओजोन परत का ह्रास मुख्यतः किसके द्वारा होता है ?",
-      "options": {
-        "A": "Pollution",
-        "B": "Pesticides",
-        "C": "CFC",
-        "D": "Methane"
-      },
-      "vikalpa": {
-        "A": "प्रदूषण",
-        "B": "पीड़कनाशी",
-        "C": "CFC",
-        "D": "मिथेन"
-      }
-    },
-    {
-      "id": "obj_49",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "The molecular formula of ozone is",
-      "prashna": "ओजोन का आणविक सूत्र है",
-      "options": {
-        "A": "$O_4$",
-        "B": "$O_3$",
-        "C": "$O_2$",
-        "D": "$O_5$"
-      },
-      "vikalpa": {
-        "A": "$O_4$",
-        "B": "$O_3$",
-        "C": "$O_2$",
-        "D": "$O_5$"
-      }
-    },
-    {
-      "id": "obj_68",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "BS-IV is associated with",
-      "prashna": "BS-IV का सम्बन्ध है",
-      "options": {
-        "A": "Soil pollution",
-        "B": "Sound pollution",
-        "C": "Air pollution",
-        "D": "Water pollution"
-      },
-      "vikalpa": {
-        "A": "मृदा प्रदूषण से",
-        "B": "ध्वनि प्रदूषण से",
-        "C": "वायु प्रदूषण से",
-        "D": "जल प्रदूषण से"
-      }
-    },
-    {
-      "id": "obj_73",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which type of ecosystem is a pond ?",
-      "prashna": "तालाब किस प्रकार का पारिस्थितिक तंत्र है ?",
-      "options": {
-        "A": "Artificial",
-        "B": "Natural",
-        "C": "Abiotic",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "कृत्रिम",
-        "B": "प्राकृतिक",
-        "C": "अजैविक",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_74",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which of the following are present in maximum number in an ecosystem ?",
-      "prashna": "निम्न में कौन पारिस्थितिक तंत्र में अधिकतम संख्या में मौजूद होते हैं ?",
-      "options": {
-        "A": "Producers",
-        "B": "Herbivores",
-        "C": "Carnivores",
-        "D": "Omnivores"
-      },
-      "vikalpa": {
-        "A": "उत्पादक",
-        "B": "शाकभक्षी",
-        "C": "मांसभक्षी",
-        "D": "सर्वभक्षक"
-      }
-    },
-    {
-      "id": "obj_78",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Narora Nuclear power plant is located in which state ?",
-      "prashna": "नरोरा नाभिकीय विद्युत संयंत्र किस राज्य में स्थित है ?",
-      "options": {
-        "A": "Rajasthan",
-        "B": "Gujarat",
-        "C": "Maharashtra",
-        "D": "Uttar Pradesh"
-      },
-      "vikalpa": {
-        "A": "राजस्थान",
-        "B": "गुजरात",
-        "C": "महाराष्ट्र",
-        "D": "उत्तर प्रदेश"
-      }
-    },
-    {
-      "id": "obj_22",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "What was the purpose of the construction of Tehri Dam?",
-      "prashna": "दटहयी फाॉध ननभाथर् का उद्देश्म क्मा था ?",
-      "options": {
-        "A": "Water supply",
-        "B": "Land irrigation",
-        "C": "Electricity production",
-        "D": "All of these"
-      },
-      "vikalpa": {
-        "A": "जर आऩनूतथ",
-        "B": "बमूमभ मसचाई",
-        "C": "बफजरी उत्ऩादन",
-        "D": "इनभें से सबी"
-      }
-    },
-    {
-      "id": "obj_57",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "The amount of nitrogen in the atmosphere is",
-      "prashna": "िामभु ॊडर भें नाइट्रोजन की भात्रा है",
-      "options": {
-        "A": "20%",
-        "B": "50%",
-        "C": "78%",
-        "D": "0.3%"
-      },
-      "vikalpa": {
-        "A": "20%",
-        "B": "50%",
-        "C": "78%",
-        "D": "0.3%"
-      }
-    },
-    {
-      "id": "obj_58",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "What is the main source of energy on Earth in nature?",
-      "prashna": "प्रकनत भें ऩथृ िी ऩय ऊजाथ का भख्ु म स्रोत क्मा है?",
-      "options": {
-        "A": "Coal",
-        "B": "Water",
-        "C": "Air",
-        "D": "Sunlight"
-      },
-      "vikalpa": {
-        "A": "कोमरा",
-        "B": "ऩानी",
-        "C": "िामू",
-        "D": "समू थप्रकाश"
-      }
-    },
-    {
-      "id": "obj_60",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "The number of oxygen atoms in a molecule of ozone is",
-      "prashna": "ओजोन के अर्ु भें ऑक्सीजन की ऩयभार्ु की सॊख्मा होती है।",
-      "options": {
-        "A": "1",
-        "B": "2",
-        "C": "3",
-        "D": "4"
-      },
-      "vikalpa": {
-        "A": "1",
-        "B": "2",
-        "C": "3",
-        "D": "4"
-      }
-    },
-    {
-      "id": "obj_63",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "In a food chain, who always remains at the third trophic level?",
-      "prashna": "एक खाद्म शॊखृ रा भें, तीसये ऩोषी स्तय ऩय हभेशा कौन यहता है?",
-      "options": {
-        "A": "Herbivore",
-        "B": "Carnivore",
-        "C": "Decomposer",
-        "D": "Producer"
-      },
-      "vikalpa": {
-        "A": "शाकाहायी",
-        "B": "भाॊसाहायी",
-        "C": "अऩघटक",
-        "D": "उत्ऩादक"
-      }
-    },
-    {
-      "id": "obj_64",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which of the following groups contains only biodegradable substances?",
-      "prashna": "ननम्न भें से कौन-से सभहू ों भें केिर जैि ननम्नीकयर्ीम ऩदाथथ है ?",
-      "options": {
-        "A": "Grass, flower and leather",
-        "B": "Grass, wood and plastic",
-        "C": "Fruit peels, cake and steel",
-        "D": "Cake, wood and glass"
-      },
-      "vikalpa": {
-        "A": "घास, ऩष्ु ऩ तथा चभडा",
-        "B": "घास, रकडी तथा प्राजस्टक",
-        "C": "परों के नछरके, के क तथा स्टीर",
-        "D": "के क, रकडी एिॊ शीशा"
-      }
-    },
-    {
-      "id": "obj_69",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Non-renewable energy is",
-      "prashna": "अनिीकयर्ीम ऊजाथ है",
-      "options": {
-        "A": "Ocean energy",
-        "B": "Solar energy",
-        "C": "Energy obtained from coal",
-        "D": "Wind energy"
-      },
-      "vikalpa": {
-        "A": "भहासागयीम ऊजाथ",
-        "B": "सौय ऊजाथ",
-        "C": "कोमरा से प्राप्त ऊजाथ",
-        "D": "ऩिन ऊजाथ"
-      }
-    },
-    {
-      "id": "obj_71",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Two non-renewable sources of energy are",
-      "prashna": "ऊजाथ के दो अनिीकयर्ीम स्रोत हैं",
-      "options": {
-        "A": "Biomass and petroleum",
-        "B": "Gobar gas and biomass",
-        "C": "Coal and petroleum",
-        "D": "None of these"
-      },
-      "vikalpa": {
-        "A": "जैिभात्रा तथा ऩेट्रोमरमभ",
-        "B": "गोफय गैस तथा जैिभात्रा",
-        "C": "कोमरा तथा ऩेट्रोमरमभ",
-        "D": "इनभें से कोई नहीॊ"
-      }
-    },
-    {
-      "id": "obj_72",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "A good source of energy is that which",
-      "prashna": "उत्तभ ऊजाथ का स्रोत िह है",
-      "options": {
-        "A": "is easily accessible",
-        "B": "does more work per unit volume or per unit mass",
-        "C": "whose storage and transport is easy",
-        "D": "has all these qualities"
-      },
-      "vikalpa": {
-        "A": "जो सयरता से सरु ब हो सके",
-        "B": "जो प्रनत एकाॊक आमतन अथिा प्रनत एकाॊक द्रव्मभान भें अचधक कामथ कये",
-        "C": "जजसका बॊडायर् तथा ऩरयिहन आसान हो",
-        "D": "जजसभें मे सबी गु र् हों।"
-      }
-    }
-  ],
-  "2023": [
-    {
-      "id": "obj_1",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which of the following is a non-renewable source of energy?",
-      "prashna": "निम्नलिखित में से कौन ऊर्जा का अनवीकरणीय स्रोत है?",
-      "options": {
-        "A": "Sun",
-        "B": "Wind",
-        "C": "Petroleum",
-        "D": "Flowing water"
-      },
-      "vikalpa": {
-        "A": "सूर्य",
-        "B": "पवन",
-        "C": "पेट्रोलियम",
-        "D": "बहता पानी"
-      }
-    },
-    {
-      "id": "obj_2",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "The actual source of energy of fossil fuel is",
-      "prashna": "जीवाश्म ईंधन की ऊर्जा का वास्तविक स्रोत है",
-      "options": {
-        "A": "nuclear fusion",
-        "B": "sun",
-        "C": "moon",
-        "D": "none of these"
-      },
-      "vikalpa": {
-        "A": "नाभिकीय संलयन",
-        "B": "सूर्य",
-        "C": "चन्द्रमा",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_3",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Those which 'produce heat on combustion' are called",
-      "prashna": "जो 'दहन कर ऊष्मा उत्पन्न करते हैं' उन्हें कहा जाता है",
-      "options": {
-        "A": "engine",
-        "B": "fuel",
-        "C": "heater",
-        "D": "none of these"
-      },
-      "vikalpa": {
-        "A": "इंजन",
-        "B": "ईंधन",
-        "C": "तापक",
+        "A": "इस्पात",
+        "B": "पीतल",
+        "C": "नरम लोहा",
         "D": "इनमें से कोई नहीं"
       }
     },
@@ -1386,443 +88,657 @@
       "id": "obj_4",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Euro-II is related to",
-      "prashna": "यूरो-II का संबंध है",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "The device used for producing electric current is called",
+      "prashna": "विद्युत धारा उत्पन्न करने की युक्ति को कहते हैं",
       "options": {
-        "A": "air pollution",
-        "B": "soil pollution",
-        "C": "water pollution",
-        "D": "none of these"
+        "A": "Generator",
+        "B": "Galvanometer",
+        "C": "Ammeter",
+        "D": "Meter"
       },
       "vikalpa": {
-        "A": "वायु प्रदूषण से",
-        "B": "मृदा प्रदूषण से",
-        "C": "जल प्रदूषण से",
-        "D": "इनमें से कोई नहीं"
+        "A": "जनित्र",
+        "B": "गैल्वेनोमीटर",
+        "C": "ऐमीटर",
+        "D": "मीटर"
+      }
+    }
+  ],
+  "2015": [
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "At the time of short circuit, the value of electric current in the circuit will be:",
+      "prashna": "लघुपथन के समय परिपथ में विद्युत धारा का मान होगा:",
+      "options": {
+        "A": "Very high",
+        "B": "Very low",
+        "C": "3 Ampere",
+        "D": "4 Ampere"
+      },
+      "vikalpa": {
+        "A": "बहुत अधिक",
+        "B": "बहुत कम",
+        "C": "3 एम्पीयर",
+        "D": "4 एम्पीयर"
+      }
+    }
+  ],
+  "2017": [
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "Dynamo converts mechanical energy into:-",
+      "prashna": "डायनेमो यांत्रिक ऊर्जा को किस ऊर्जा में परिणत करता है?",
+      "options": {
+        "A": "Sound Energy",
+        "B": "Electrical Energy",
+        "C": "Solar Energy",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "ध्वनि ऊर्जा",
+        "B": "विद्युत ऊर्जा",
+        "C": "सौर ऊर्जा",
+        "D": "इनमें कोई नहीं"
       }
     },
     {
       "id": "obj_6",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "The device which directly converts solar energy into electricity known as",
-      "prashna": "सौर ऊर्जा को सीधे विद्युत में बदलनेवाली युक्ति को कहते हैं",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "The reason of accidents from electricity in houses is-",
+      "prashna": "घरों में विद्युत से दुर्घटना किसके कारण होती है?",
       "options": {
-        "A": "Daniel cell",
-        "B": "Leclanche cell",
-        "C": "Solar cell",
-        "D": "none of these"
+        "A": "Fuse wire",
+        "B": "Short Circuit",
+        "C": "High voltage",
+        "D": "None of these"
       },
       "vikalpa": {
-        "A": "डेनियल सेल",
-        "B": "लेक्लांशे सेल",
-        "C": "सौर सेल",
-        "D": "इनमें से कोई नहीं"
+        "A": "फ्यूज तार",
+        "B": "शॉर्ट सर्किट",
+        "C": "उच्च धारा प्रवाह",
+        "D": "इनमें कोई नहीं"
       }
     },
     {
-      "id": "obj_13",
+      "id": "obj_5",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which is an example of a decomposer?",
-      "prashna": "अपघटक का उदाहरण है",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "A dynamo converts mechanical energy into which energy?",
+      "prashna": "डायनेमो यांत्रिक ऊर्जा को किस ऊर्जा में परिणत करता है?",
       "options": {
-        "A": "Cow",
-        "B": "Fungus",
-        "C": "Tiger",
-        "D": "Grass"
+        "A": "Sound energy",
+        "B": "Electrical energy",
+        "C": "Solar energy",
+        "D": "None of these"
       },
       "vikalpa": {
-        "A": "गाय",
-        "B": "कवक",
-        "C": "बाघ",
-        "D": "घास"
+        "A": "ध्वनि ऊर्जा",
+        "B": "विद्युत ऊर्जा",
+        "C": "सौर ऊर्जा",
+        "D": "इनमें कोई नहीं"
       }
     },
     {
-      "id": "obj_14",
+      "id": "obj_6",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which is the main source of energy on earth?",
-      "prashna": "पृथ्वी पर ऊर्जा का मुख्य स्रोत है",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "Electrical accidents in homes occur due to-",
+      "prashna": "घरों में विद्युत से दुर्घटना किसके कारण होती है?",
       "options": {
-        "A": "Coal",
-        "B": "Wood",
-        "C": "Water",
-        "D": "Sun"
+        "A": "Fuse wire",
+        "B": "Short circuit",
+        "C": "High current flow",
+        "D": "None of these"
       },
       "vikalpa": {
-        "A": "कोयला",
-        "B": "लकड़ी",
-        "C": "पानी",
-        "D": "सूर्य"
-      }
-    },
-    {
-      "id": "obj_15",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which of the following is/are a part of environment?",
-      "prashna": "निम्नलिखित में से कौन पर्यावरण का हिस्सा है?",
-      "options": {
-        "A": "Atmosphere",
-        "B": "Hydrosphere",
-        "C": "Lithosphere",
-        "D": "All of these"
-      },
-      "vikalpa": {
-        "A": "वायुमंडल",
-        "B": "जलमंडल",
-        "C": "स्थलमंडल",
-        "D": "इनमें से सभी"
-      }
-    },
-    {
-      "id": "obj_16",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "How many trophic levels are there in a forest ecosystem?",
-      "prashna": "एक वन पारिस्थितिक तंत्र में कितने पोषी स्तर होते हैं?",
-      "options": {
-        "A": "1",
-        "B": "2",
-        "C": "3",
-        "D": "4"
-      },
-      "vikalpa": {
-        "A": "1",
-        "B": "2",
-        "C": "3",
-        "D": "4"
-      }
-    },
-    {
-      "id": "obj_27",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "The molecular formula of ozone is",
-      "prashna": "ओजोन का आण्विक सूत्र है",
-      "options": {
-        "A": "$O_2$",
-        "B": "$O_3$",
-        "C": "$O_4$",
-        "D": "$O_5$"
-      },
-      "vikalpa": {
-        "A": "$O_2$",
-        "B": "$O_3$",
-        "C": "$O_4$",
-        "D": "$O_5$"
-      }
-    },
-    {
-      "id": "obj_29",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "The flow of energy in an ecosystem is",
-      "prashna": "पारिस्थितिक तंत्र में ऊर्जा का प्रवाह होता है",
-      "options": {
-        "A": "unidirectional",
-        "B": "bidirectional",
-        "C": "multidirectional",
-        "D": "cyclic"
-      },
-      "vikalpa": {
-        "A": "एकदिशीय",
-        "B": "द्विदिशीय",
-        "C": "बहुदिशीय",
-        "D": "चक्रीय"
-      }
-    },
-    {
-      "id": "obj_76",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "The tiger is a consumer of",
-      "prashna": "बाघ उपभोक्ता है",
-      "options": {
-        "A": "first trophic level",
-        "B": "second trophic level",
-        "C": "third trophic level",
-        "D": "none of these"
-      },
-      "vikalpa": {
-        "A": "प्रथम पोषी स्तर का",
-        "B": "द्वितीय पोषी स्तर का",
-        "C": "तृतीय पोषी स्तर का",
-        "D": "इनमें से कोई नहीं"
+        "A": "फ्यूज तार",
+        "B": "शॉर्ट सर्किट",
+        "C": "उच्च धारा प्रवाह",
+        "D": "इनमें कोई नहीं"
       }
     }
   ],
-  "2024": [
+  "2018": [
     {
-      "id": "obj_13",
+      "id": "obj_8",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which one of the following is a clean energy source ?",
-      "prashna": "निम्न में से कौन-सा स्वच्छ ऊर्जा स्रोत है ?",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "At the time of short circuiting, the current in the circuit -",
+      "prashna": "लघुपथन (शॉर्ट सर्किट) के समय परिपथ में विद्युत धारा का मान -",
       "options": {
-        "A": "Coal",
-        "B": "Wood",
-        "C": "Natural gas",
-        "D": "All of these"
+        "A": "Reduces substantially",
+        "B": "Does not change",
+        "C": "Increases heavily",
+        "D": "Varies continuously"
       },
       "vikalpa": {
-        "A": "कोयला",
-        "B": "लकड़ी",
-        "C": "प्राकृतिक गैस",
-        "D": "इनमें से सभी"
-      }
-    },
-    {
-      "id": "obj_56",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which of the following is necessary to obtain nuclear energy ?",
-      "prashna": "नाभिकीय ऊर्जा प्राप्त करने के लिए निम्नलिखित में कौन आवश्यक है ?",
-      "options": {
-        "A": "Helium",
-        "B": "Uranium",
-        "C": "Aluminium",
-        "D": "Chromium"
-      },
-      "vikalpa": {
-        "A": "हीलियम",
-        "B": "यूरेनियम",
-        "C": "ऐल्युमिनियम",
-        "D": "क्रोमियम"
-      }
-    },
-    {
-      "id": "obj_77",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "The device which directly converts solar energy into electricity is",
-      "prashna": "सौर ऊर्जा को सीधे विद्युत में बदलने वाली युक्ति को कहते हैं",
-      "options": {
-        "A": "Daniel cell",
-        "B": "Dry cell",
-        "C": "Solar cell",
-        "D": "Eveready cell"
-      },
-      "vikalpa": {
-        "A": "डेनियल सेल",
-        "B": "सूखा सेल",
-        "C": "सौर सेल",
-        "D": "एवरेडी सेल"
-      }
-    },
-    {
-      "id": "obj_3",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which energy does a hydro-electric power plant convert into electric energy?",
-      "prashna": "जल विद्युत संयंत्र किस ऊर्जा को विद्युत ऊर्जा में रूपांतरित करता है ?",
-      "options": {
-        "A": "Nuclear energy",
-        "B": "Solar energy",
-        "C": "Potential energy",
-        "D": "Thermal energy"
-      },
-      "vikalpa": {
-        "A": "नाभिकीय ऊर्जा",
-        "B": "सौर ऊर्जा",
-        "C": "स्थितिज ऊर्जा",
-        "D": "तापीय ऊर्जा"
+        "A": "बहुत कम हो जाता है।",
+        "B": "परिवर्तित नहीं होता है।",
+        "C": "बहुत अधिक बढ़ जाता है।",
+        "D": "निरंतर परिवर्तित होता है।"
       }
     },
     {
       "id": "obj_9",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Depletion of ozone layer is due to",
-      "prashna": "ओजोन परत का अवक्षय करता है",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "A positively - charged particle (alpha - particle) projected towards west is deflected towards north by a magnetic field. The direction of the magnetic field is:",
+      "prashna": "पश्चिम की ओर प्रक्षेपित कोई धनावेशित कण (अल्फा कण) किसी चुंबकीय क्षेत्र द्वारा उत्तर की ओर विक्षेपित हो जाता है। चुंबकीय क्षेत्र की दिशा क्या है?",
       "options": {
-        "A": "ATP",
-        "B": "CFC",
-        "C": "NADP",
-        "D": "DDT"
+        "A": "towards south",
+        "B": "towards east",
+        "C": "downward",
+        "D": "upward"
       },
       "vikalpa": {
-        "A": "ATP",
-        "B": "CFC",
-        "C": "NADP",
-        "D": "DDT"
+        "A": "दक्षिण की ओर",
+        "B": "पूर्व की ओर",
+        "C": "अधोमुखी",
+        "D": "उपरिमुखी"
       }
     },
     {
-      "id": "obj_19",
+      "id": "obj_10",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which is the conventional source of energy?",
-      "prashna": "कौन-सा परंपरागत ऊर्जा स्रोत है ?",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "A rectangular coil of copper wire is being rotated in a magnetic field. The direction of the induced current in the coil changes once in each.",
+      "prashna": "ताँबे के तार की एक आयताकार कुंडली किसी चुंबकीय क्षेत्र में घूर्णी गति कर रही है। इस कुंडली में प्रेरित विद्युत धारा की दिशा में कितने परिभ्रमण के पश्चात् परिवर्तन होता है?",
       "options": {
-        "A": "Nuclear energy source",
-        "B": "Geo-thermal energy source",
-        "C": "Biomass",
-        "D": "None of these"
+        "A": "two revolutions",
+        "B": "one revaluation",
+        "C": "half revaluation",
+        "D": "one - fourth revolution"
       },
       "vikalpa": {
-        "A": "नाभिकीय ऊर्जा स्रोत",
-        "B": "भूतापीय ऊर्जा स्रोत",
-        "C": "जैव मात्रा (बायोमास)",
-        "D": "इनमें से कोई नहीं"
+        "A": "दो",
+        "B": "एक",
+        "C": "आधे",
+        "D": "चौथाई"
       }
     },
     {
-      "id": "obj_26",
+      "id": "obj_11",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "The tiger is a consumer of",
-      "prashna": "बाघ उपभोक्ता है",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "The magnetic field inside a long straight solenoid- carrying current -",
+      "prashna": "किसी विद्युत धारावाही सीधी लंबी परिनालिका के भीतर चुंबकीय क्षेत्र -",
       "options": {
-        "A": "first trophic level",
-        "B": "second trophic level",
-        "C": "third trophic level",
-        "D": "none of these"
+        "A": "is zero",
+        "B": "decreases as we move towards its end.",
+        "C": "increases as we move towards its end.",
+        "D": "is the same at all points."
       },
       "vikalpa": {
-        "A": "प्रथम पोषी स्तर का",
-        "B": "द्वितीय पोषी स्तर का",
-        "C": "तृतीय पोषी स्तर का",
-        "D": "इनमें से कोई नहीं"
+        "A": "शून्य होता है।",
+        "B": "इसके सिरे की ओर जाने पर घटता है।",
+        "C": "इसके सिरे की ओर जाने पर बढ़ता है।",
+        "D": "सभी बिन्दुओं पर समान होता है।"
       }
     },
     {
-      "id": "obj_36",
+      "id": "obj_6",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which is used in Solar cell?",
-      "prashna": "सौर सेल में किसका उपयोग होता है ?",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "In India, the frequency of produced alternating current is -",
+      "prashna": "भारत में उत्पादित प्रत्यावर्ती विद्युत धारा की आवृत्ति है -",
       "options": {
-        "A": "Uranium",
-        "B": "Plastic",
-        "C": "Silicon",
-        "D": "Plutonium"
+        "A": "$50\text{ Hz}$",
+        "B": "$60\text{ Hz}$",
+        "C": "$70\text{ Hz}$",
+        "D": "$80\text{ Hz}$"
       },
       "vikalpa": {
-        "A": "यूरेनियम",
-        "B": "प्लास्टिक",
-        "C": "सिलिकन",
-        "D": "प्लूटोनियम"
+        "A": "$50\text{ Hz}$",
+        "B": "$60\text{ Hz}$",
+        "C": "$70\text{ Hz}$",
+        "D": "$80\text{ Hz}$"
       }
     },
     {
-      "id": "obj_41",
+      "id": "obj_9",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "What should be the minimum speed of wind in a wind electric generator?",
-      "prashna": "पवन विद्युत जनित्र में पवन की चाल कम-से-कम कितनी होनी चाहिए ?",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "What is the direction of magnetic field lines inside a bar magnet?",
+      "prashna": "किसी छड़ चुम्बक के अंदर चुम्बकीय क्षेत्र रेखाओं की दिशा क्या होती है?",
       "options": {
-        "A": "$1500\text{ km/h}$",
-        "B": "$150\text{ km/h}$",
-        "C": "$15\text{ km/h}$",
-        "D": "$1.5\text{ km/h}$"
+        "A": "from North to South pole",
+        "B": "from South pole to North pole",
+        "C": "from North pole to Western pole",
+        "D": "from South pole to Western pole"
       },
       "vikalpa": {
-        "A": "$1500\text{ किमी/घंटा}$",
-        "B": "$150\text{ किमी/घंटा}$",
-        "C": "$15\text{ किमी/घंटा}$",
-        "D": "$1.5\text{ किमी/घंटा}$"
+        "A": "उत्तर ध्रुव से दक्षिण ध्रुव",
+        "B": "दक्षिण ध्रुव से उत्तर ध्रुव",
+        "C": "उत्तर ध्रुव से पश्चिमी ध्रुव",
+        "D": "दक्षिण ध्रुव से पश्चिमी ध्रुव"
       }
     },
     {
-      "id": "obj_44",
+      "id": "obj_10",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "The upper part of a box-type solar cooker has a glass cover. The reason for this is",
-      "prashna": "बॉक्स-टाइप सौर कुकर के ऊपरी भाग में काँच का ढक्कन रहता है। इसका कारण है",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "In domestic electric circuit, the colour of neutral wire is -",
+      "prashna": "घरेलू विद्युत परिपथ में उदासीन तार का रंग होता है -",
       "options": {
-        "A": "to see whether the food kept inside the cooker is being cooked or not",
-        "B": "to prevent loss of heat due to radiation",
-        "C": "to prevent the passage of dust into the box",
-        "D": "none of these"
+        "A": "Red",
+        "B": "Green",
+        "C": "Black",
+        "D": "Yellow"
       },
       "vikalpa": {
-        "A": "यह देखना कि कुकर के अंदर रखा भोजन पक रहा है या नहीं",
-        "B": "विकिरण द्वारा ऊष्मा की हानि को रोकना",
-        "C": "बॉक्स के भीतर धूलकणों को जाने से रोकना",
-        "D": "इनमें से कोई नहीं"
+        "A": "लाल",
+        "B": "हरा",
+        "C": "काला",
+        "D": "पीला"
       }
     },
     {
-      "id": "obj_75",
+      "id": "obj_11",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Ozone layer protects earth from which harmful radiation?",
-      "prashna": "ओजोन परत किस हानिकारक विकिरण से पृथ्वी को सुरक्षा प्रदान करती है ?",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "In which device, the split ring acts as commutator?",
+      "prashna": "किस युक्ति में विभक्त वलय दिक् परिवर्तन का कार्य करता है?",
       "options": {
-        "A": "Infrared",
-        "B": "Thermal",
-        "C": "Ultraviolet",
-        "D": "All of these"
+        "A": "Electric generator",
+        "B": "Electric motor",
+        "C": "Galvanometer",
+        "D": "Volt meter"
       },
       "vikalpa": {
-        "A": "अवरक्त विकिरण",
-        "B": "तापीय विकिरण",
-        "C": "पराबैंगनी विकिरण",
-        "D": "इनमें से सभी"
+        "A": "विद्युत जनित्र",
+        "B": "विद्युत मोटर",
+        "C": "गैल्वेनोमीटर",
+        "D": "वोल्टमीटर"
       }
     }
   ],
-  "2025": [
+  "2019": [
     {
       "id": "obj_7",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "What type of energy source is hydroelectric energy?",
-      "prashna": "जल विद्युत ऊर्जा किस प्रकार का ऊर्जा स्रोत है ?",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "According to Fleming's left hand rule, the index finger of the left hand indicates -",
+      "prashna": "फ्लेमिंग के वामहस्त नियम में बाएँ हाथ की तर्जनी संकेत करती है -",
       "options": {
-        "A": "Renewable",
-        "B": "Non-renewable",
-        "C": "Both (A) and (B)",
+        "A": "Direction of electric force applied on a conductor",
+        "B": "Direction of magnetic field",
+        "C": "Direction of the flow of electric current in a conductor",
         "D": "None of these"
       },
       "vikalpa": {
-        "A": "नवीकरणीय",
-        "B": "अनवीकरणीय",
-        "C": "(A) और (B) दोनों",
+        "A": "चालक पर आरोपित विद्युत बल की दिशा",
+        "B": "चुम्बकीय क्षेत्र की दिशा",
+        "C": "चालक में प्रवाहित विद्युत धारा की दिशा",
         "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "A rectangular coil of a copper wire is rotated in a magnetic field. The direction of the induced current in the coil changes once in every -",
+      "prashna": "ताँबे की तार की एक आयताकार कुंडली किसी चुम्बकीय क्षेत्र में घूर्णी गति कर रही है। इस कुंडली में प्रेरित विद्युत धारा की दिशा में कितने परिभ्रमण के पश्चात परिवर्तन होता है?",
+      "options": {
+        "A": "Two rotations",
+        "B": "One rotation",
+        "C": "Half rotation",
+        "D": "One-fourth rotation"
+      },
+      "vikalpa": {
+        "A": "दो",
+        "B": "एक",
+        "C": "आधे",
+        "D": "एक-चौथाई"
+      }
+    },
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "At the time of overloading, the electric current in the circuit -",
+      "prashna": "अतिभारण के समय विद्युत परिपथ में विद्युत धारा का मान -",
+      "options": {
+        "A": "reduces substantially",
+        "B": "does not change",
+        "C": "increases heavily",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "बहुत कम हो जाता है।",
+        "B": "परिवर्तित नहीं होता है।",
+        "C": "बहुत अधिक बढ़ जाता है।",
+        "D": "इनमें से कोई नहीं।"
+      }
+    },
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "In which device, the split ring is used?",
+      "prashna": "विभक्त वलय का उपयोग किस उपकरण में किया जाता है?",
+      "options": {
+        "A": "Electric Motor",
+        "B": "Electric generator",
+        "C": "Ammeter",
+        "D": "Galvanometer"
+      },
+      "vikalpa": {
+        "A": "विद्युत मोटर",
+        "B": "विद्युत जनित्र",
+        "C": "अमीटर",
+        "D": "गैल्वेनोमीटर"
+      }
+    }
+  ],
+  "2020": [
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "Who discovered the magnetic effect of electric current?",
+      "prashna": "विद्युत् धारा के चुंबकीय प्रभाव का खोज किसने किया था ?",
+      "options": {
+        "A": "Faraday",
+        "B": "Oersted",
+        "C": "Ampere",
+        "D": "Bohr"
+      },
+      "vikalpa": {
+        "A": "फेराडे",
+        "B": "ओस्टेंड",
+        "C": "ऐम्पियर",
+        "D": "बोर"
       }
     },
     {
       "id": "obj_8",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which gas is responsible for global warming?",
-      "prashna": "कौन-सी गैस वैश्विक ऊष्मण के लिए उत्तरदायी है ?",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "Electric motor converts",
+      "prashna": "विद्युत् मोटर परिवर्तित करता है",
       "options": {
-        "A": "Nitrogen",
-        "B": "Carbon dioxide",
-        "C": "Oxygen",
+        "A": "mechanical energy into electrical energy",
+        "B": "chemical energy into electrical energy",
+        "C": "electrical energy into chemical energy",
+        "D": "electrical energy into mechanical energy"
+      },
+      "vikalpa": {
+        "A": "यांत्रिक ऊर्जा को विद्युत् ऊर्जा में",
+        "B": "रासायनिक ऊर्जा को विद्युत् ऊर्जा में",
+        "C": "विद्युत् ऊर्जा को रासायनिक ऊर्जा में",
+        "D": "विद्युत् ऊर्जा को यांत्रिक ऊर्जा में"
+      }
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "When positively charged particle (alpha-particle) is projected towards west and deflected towards north by a magnetic field, the direction of magnetic field will be",
+      "prashna": "जब पश्चिम की ओर प्रक्षेपित कोई धनावेशित कण (अल्फा-कण) किसी चुंबकीय क्षेत्र द्वारा उत्तर की ओर विक्षेपित हो जाता है तो चुंबकीय क्षेत्र की दिशा होगी",
+      "options": {
+        "A": "towards south",
+        "B": "towards east",
+        "C": "downward",
+        "D": "upward"
+      },
+      "vikalpa": {
+        "A": "दक्षिण की ओर",
+        "B": "पूर्व की ओर",
+        "C": "अधोमुखी",
+        "D": "उपरिमुखी"
+      }
+    },
+    {
+      "id": "obj_2",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "The device which converts electrical energy into mechanical energy is",
+      "prashna": "वह उपकरण जो विद्युत ऊर्जा को यांत्रिक ऊर्जा में बदलता है, होता है",
+      "options": {
+        "A": "Generator",
+        "B": "Electric motor",
+        "C": "both Generator and Electric motor",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "जेनरेटर",
+        "B": "विद्युत मोटर",
+        "C": "जेनरेटर और विद्युत मोटर दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "Switches are set",
+      "prashna": "स्विच लगाये जाते हैं",
+      "options": {
+        "A": "in cold wire",
+        "B": "in hot wire",
+        "C": "in underground (earth) wire",
+        "D": "in all of these"
+      },
+      "vikalpa": {
+        "A": "ठंडे तार में",
+        "B": "गर्म तार में",
+        "C": "भू-योजित तार में",
+        "D": "इनमें से सभी"
+      }
+    }
+  ],
+  "2021": [
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "Which material rod is used to make an electromagnet?",
+      "prashna": "विद्युत चुंबक बनाने के लिए किस पदार्थ के छड़ का उपयोग होता है",
+      "options": {
+        "A": "Steel",
+        "B": "Brass",
+        "C": "Soft iron",
         "D": "None of these"
       },
       "vikalpa": {
-        "A": "नाइट्रोजन",
-        "B": "कार्बन डाइआक्साइड",
-        "C": "ऑक्सीजन",
+        "A": "इस्पात",
+        "B": "पीतल",
+        "C": "नरम लोहा",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_56",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "A dynamo converts",
+      "prashna": "डायनेमो परिवर्तित करता है",
+      "options": {
+        "A": "Electrical energy into mechanical energy",
+        "B": "Mechanical energy into electrical energy",
+        "C": "Chemical energy into electrical energy",
+        "D": "Electrical energy into chemical energy"
+      },
+      "vikalpa": {
+        "A": "विद्युत ऊर्जा को यांत्रिक ऊर्जा में",
+        "B": "यांत्रिक ऊर्जा को विद्युत ऊर्जा मे",
+        "C": "रासायनिक ऊर्जा को विद्युत ऊर्जा में",
+        "D": "विद्युत ऊर्जा को रासायनिक ऊर्जा में"
+      }
+    }
+  ],
+  "2022": [
+    {
+      "id": "obj_76",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "The frequency of alternating current produced in India is",
+      "prashna": "भारत में उत्पादित प्रत्यावर्ती विद्युत धारा की आवृत्ति है",
+      "options": {
+        "A": "80 Hz",
+        "B": "70 Hz",
+        "C": "60 Hz",
+        "D": "50 Hz"
+      },
+      "vikalpa": {
+        "A": "80 Hz",
+        "B": "70 Hz",
+        "C": "60 Hz",
+        "D": "50 Hz"
+      }
+    },
+    {
+      "id": "obj_66",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "Which of the following correctly describes the magnetic field near a long straight wire carrying current?",
+      "prashna": "ननम्नमरखखत भें से कौन ककसी रम्फे विद्मतु धायािाही ताय के ननकट चम्ु फकीम ऺेत्र का सही िर्थन कयता है?",
+      "options": {
+        "A": "The field consists of straight lines perpendicular to the wire",
+        "B": "The field consists of straight lines parallel to the wire",
+        "C": "The field consists of radial lines originating from the wire",
+        "D": "The field consists of concentric circles centred on the wire"
+      },
+      "vikalpa": {
+        "A": "चम्ु फकीम ऺेत्र की ऺेत्र येखाएॉ ताय के रॊफित् होती हैं",
+        "B": "चम्ु फकीम ऺेत्र की ऺेत्र येखाएॉ ताय के सभाॊतय होती हैं",
+        "C": "चम्ु फकीम ऺेत्र की ऺेत्र येखाएॉ अयीम होती हैं जजनका उद्बि ताय से होता है",
+        "D": "चम्ु फकीम ऺेत्र की सॊकेनद्री ऺेत्र येखाओॊ का केनद्र ताय होता है"
+      }
+    }
+  ],
+  "2023": [
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "The SI unit of magnetic flux is",
+      "prashna": "चुम्बकीय फ्लक्स का S.I. मात्रक है",
+      "options": {
+        "A": "watt",
+        "B": "joule",
+        "C": "weber",
+        "D": "newton"
+      },
+      "vikalpa": {
+        "A": "वाट",
+        "B": "जूल",
+        "C": "वेबर",
+        "D": "न्यूटन"
+      }
+    }
+  ],
+  "2024": [
+    {
+      "id": "obj_75",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "In domestic electric circuit the colour of neutral wire is",
+      "prashna": "घरेलू विद्युत परिपथ में उदासीन तार का रंग होता है",
+      "options": {
+        "A": "Red",
+        "B": "Green",
+        "C": "Black",
+        "D": "Yellow"
+      },
+      "vikalpa": {
+        "A": "लाल",
+        "B": "हरा",
+        "C": "काला",
+        "D": "पीला"
+      }
+    },
+    {
+      "id": "obj_76",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "In which device does the split ring act as a commutator ?",
+      "prashna": "किस युक्ति में विभक्त वलय दिक् परिवर्तक का कार्य करता है ?",
+      "options": {
+        "A": "Electric motor",
+        "B": "Galvanometer",
+        "C": "Voltmeter",
+        "D": "Electric generator"
+      },
+      "vikalpa": {
+        "A": "विद्युत मोटर",
+        "B": "गैल्वेनोमीटर",
+        "C": "वोल्टमीटर",
+        "D": "विद्युत जनित्र"
+      }
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "A rectangular coil of a copper wire is rotated in a magnetic field. The direction of the induced current in the coil changes after",
+      "prashna": "तांबे की तार की एक आयताकार कुंडली किसी चुम्बकीय क्षेत्र में घूर्णी गति कर रही है। इस कुंडली में प्रेरित विद्युत धारा की दिशा में कितने परिभ्रमण के पश्चात परिवर्तन होता है ?",
+      "options": {
+        "A": "every one-fourth rotation",
+        "B": "every half rotation",
+        "C": "every one rotation",
+        "D": "every two rotations"
+      },
+      "vikalpa": {
+        "A": "एक-चौथाई",
+        "B": "आधा",
+        "C": "एक",
+        "D": "दो"
+      }
+    },
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "A split ring is used in",
+      "prashna": "विभक्त वलय प्रयुक्त होता है",
+      "options": {
+        "A": "galvanometer",
+        "B": "D.C. motor",
+        "C": "microscope",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "गैल्वेनोमीटर में",
+        "B": "D.C. मोटर में",
+        "C": "सूक्ष्मदर्शी में",
         "D": "इनमें से कोई नहीं"
       }
     },
@@ -1830,540 +746,364 @@
       "id": "obj_46",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "The chemical which shows biomagnification is",
-      "prashna": "जैव आवर्धन प्रदर्शित करने वाला रसायन है",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "The frequency of alternating current in household electric circuit is",
+      "prashna": "घरेलू विद्युत परिपथ में प्रत्यावर्ती धारा की आवृत्ति होती है",
       "options": {
-        "A": "CFC",
-        "B": "ADP",
-        "C": "ATP",
-        "D": "DDT"
+        "A": "$50\text{ Hz}$",
+        "B": "$60\text{ Hz}$",
+        "C": "$100\text{ Hz}$",
+        "D": "$220\text{ Hz}$"
       },
       "vikalpa": {
-        "A": "CFC",
-        "B": "ADP",
-        "C": "ATP",
-        "D": "DDT"
+        "A": "$50\text{ Hz}$",
+        "B": "$60\text{ Hz}$",
+        "C": "$100\text{ Hz}$",
+        "D": "$220\text{ Hz}$"
       }
-    },
+    }
+  ],
+  "2025": [
     {
-      "id": "obj_47",
+      "id": "obj_1",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Primary consumers are called",
-      "prashna": "प्राथमिक उपभोक्ता कहलाते हैं",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "A horizontal magnet hanging freely in air always comes to rest in",
+      "prashna": "हवा में स्वतंत्र रूप से लटका हुआ क्षैतिज चुम्बक हमेशा आराम की स्थिति में रहता है",
       "options": {
-        "A": "Decomposer",
-        "B": "Omnivorous",
-        "C": "Carnivorous",
-        "D": "Vegetarian"
-      },
-      "vikalpa": {
-        "A": "अपघटक",
-        "B": "सर्वाहारी",
-        "C": "मांसाहारी",
-        "D": "शाकाहारी"
-      }
-    },
-    {
-      "id": "obj_48",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "CFC is widely used in",
-      "prashna": "CFC का व्यापक उपयोग होता है",
-      "options": {
-        "A": "Jet engines",
-        "B": "Refrigerators",
-        "C": "Air conditioners",
-        "D": "All of these"
-      },
-      "vikalpa": {
-        "A": "जेट इंजनों में",
-        "B": "रेफ्रीजरेटरों में",
-        "C": "एयर कंडीशनरों में",
-        "D": "इनमें से सभी"
-      }
-    },
-    {
-      "id": "obj_65",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "In which state is the Kalpakkam Nuclear Power Plant located?",
-      "prashna": "कलपक्कम नाभिकीय विद्युत संयंत्र किस राज्य में स्थित है ?",
-      "options": {
-        "A": "Karnataka",
-        "B": "Tamil Nadu",
-        "C": "Uttar Pradesh",
-        "D": "Gujarat"
-      },
-      "vikalpa": {
-        "A": "कर्नाटक",
-        "B": "तमिलनाडु",
-        "C": "उत्तर प्रदेश",
-        "D": "गुजरात"
-      }
-    },
-    {
-      "id": "obj_67",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "The two non-renewable sources of energy are",
-      "prashna": "ऊर्जा के दो अनवीकरणीय स्रोत हैं",
-      "options": {
-        "A": "Gobar gas and biomass",
-        "B": "Coal and petroleum",
-        "C": "Biomass and petroleum",
+        "A": "Any direction",
+        "B": "East-West direction",
+        "C": "North-South direction",
         "D": "None of these"
       },
       "vikalpa": {
-        "A": "गोबर गैस तथा जैवमात्रा",
-        "B": "कोयला तथा पेट्रोलियम",
-        "C": "जैवमात्रा तथा पेट्रोलियम",
+        "A": "किसी भी दिशा में",
+        "B": "पूरब-पश्चिम दिशा में",
+        "C": "उत्तर-दक्षिण दिशा में",
         "D": "इनमें से कोई नहीं"
       }
     },
     {
-      "id": "obj_75",
+      "id": "obj_2",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which of the following is not an ancient method of water harvesting?",
-      "prashna": "निम्नलिखित में कौन जल संचयन की प्राचीन विधि नहीं है ?",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "If a compass is placed near a wire carrying electric current, the compass needle",
+      "prashna": "यदि एक विद्युत धारावाही तार के समीप कम्पपास रखा जाता है, तो यह कम्पपास की सुई",
       "options": {
-        "A": "Katta",
-        "B": "Kulh",
-        "C": "Dug well",
-        "D": "Irish"
-      },
-      "vikalpa": {
-        "A": "कट्टा",
-        "B": "कुल्ह",
-        "C": "डग वेल",
-        "D": "ईरिश"
-      }
-    },
-    {
-      "id": "obj_76",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "What was the objective of construction of Tehri Dam?",
-      "prashna": "टिहरी बाँध निर्माण का उद्देश्य क्या था ?",
-      "options": {
-        "A": "Electricity generation",
-        "B": "Land irrigation",
-        "C": "Water supply",
-        "D": "All of these"
-      },
-      "vikalpa": {
-        "A": "बिजली उत्पादन",
-        "B": "भूमि सिंचाई",
-        "C": "जल आपूर्ति",
-        "D": "इनमें से सभी"
-      }
-    },
-    {
-      "id": "obj_77",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "What is the new concept of waste management?",
-      "prashna": "अपशिष्ट प्रबंधन की नई अवधारणा क्या है ?",
-      "options": {
-        "A": "Reuse",
-        "B": "Recycle",
-        "C": "Reduce",
-        "D": "All of these"
-      },
-      "vikalpa": {
-        "A": "पुनःउपयोग",
-        "B": "पुनःचक्रण",
-        "C": "कमी",
-        "D": "इनमें से सभी"
-      }
-    },
-    {
-      "id": "obj_78",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which of the following is a renewable resource?",
-      "prashna": "निम्नलिखित में नवीकरणीय संसाधन कौन है ?",
-      "options": {
-        "A": "Coal",
-        "B": "Forest",
-        "C": "Petroleum",
+        "A": "Will be deflected",
+        "B": "The current carrying wire will be deflected",
+        "C": "Will not be deflected",
         "D": "None of these"
       },
       "vikalpa": {
-        "A": "कोयला",
-        "B": "वन",
-        "C": "पेट्रोलियम",
+        "A": "विक्षेपित होगी",
+        "B": "धारावाही तार विक्षेपित होगी",
+        "C": "विक्षेपित नहीं होगी",
         "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_79",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which of the following is the main component of biogas?",
-      "prashna": "निम्नलिखित में कौन बायोगैस का मुख्य घटक है ?",
-      "options": {
-        "A": "Carbon dioxide",
-        "B": "Hydrogen sulphide",
-        "C": "Water vapour",
-        "D": "Methane"
-      },
-      "vikalpa": {
-        "A": "कार्बन डाइआक्साइड",
-        "B": "हाइड्रोजन सल्फाइड",
-        "C": "जलवाष्प",
-        "D": "मिथेन"
       }
     },
     {
       "id": "obj_3",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which of the following is an artificial ecosystem ?",
-      "prashna": "निम्न में कृत्रिम पारिस्थितिक तंत्र कौन है ?",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "Faraday made many revolutionary discoveries, including",
+      "prashna": "फैराडे ने बहुत से क्रांतिकारी खोज की जिनमें शामिल है",
       "options": {
-        "A": "Park",
-        "B": "Aquarium",
-        "C": "Garden",
-        "D": "All of these"
+        "A": "Electromagnetic induction",
+        "B": "Law of electrolysis",
+        "C": "Both (A) and (B)",
+        "D": "None of these"
       },
       "vikalpa": {
-        "A": "पार्क",
-        "B": "जल जीवशाला",
-        "C": "फुलवारी",
-        "D": "इनमें से सभी"
+        "A": "विद्युत चुंबकीय प्रेरण",
+        "B": "विद्युत अपघटन के नियम",
+        "C": "(A) और (B) दोनों",
+        "D": "इनमें से कोई नहीं"
       }
     },
     {
       "id": "obj_4",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which substance cannot be decomposed in the environment ?",
-      "prashna": "कौन-से पदार्थ का अपघटन पर्यावरण में नहीं हो सकता है ?",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "An electric motor converts",
+      "prashna": "विद्युत मोटर परिवर्तित करता है",
       "options": {
-        "A": "Dry leaves",
-        "B": "Food",
-        "C": "Dead organism",
-        "D": "Plastic"
+        "A": "Chemical energy into electrical energy",
+        "B": "Electrical energy into mechanical energy",
+        "C": "Mechanical energy into electrical energy",
+        "D": "Electrical energy into chemical energy"
       },
       "vikalpa": {
-        "A": "सूखे पत्ते",
-        "B": "भोजन",
-        "C": "मृत जीव",
-        "D": "प्लास्टिक"
+        "A": "रासायनिक ऊर्जा को विद्युत ऊर्जा में",
+        "B": "विद्युत ऊर्जा को यांत्रिक ऊर्जा में",
+        "C": "यांत्रिक ऊर्जा को विद्युत ऊर्जा में",
+        "D": "विद्युत ऊर्जा को रासायनिक ऊर्जा में"
       }
     },
     {
       "id": "obj_5",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "The correct food chain is",
-      "prashna": "सही आहार श्रृंखला है",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "In Fleming's left-hand rule, the index finger of the left hand indicates",
+      "prashna": "फ्लेमिंग के वाम हस्त नियम में बायें हाथ की तर्जनी संकेत करती है",
       "options": {
-        "A": "Fish $\rightarrow$ Grass $\rightarrow$ Cow",
-        "B": "Goat $\rightarrow$ Grass $\rightarrow$ Deer",
-        "C": "Grass $\rightarrow$ Deer $\rightarrow$ Lion",
-        "D": "Bird $\rightarrow$ Snake $\rightarrow$ Grass"
+        "A": "Direction of magnetic field",
+        "B": "Direction of electric force applied on the conductor",
+        "C": "Direction of electric current flowing in the conductor",
+        "D": "None of these"
       },
       "vikalpa": {
-        "A": "मछली $\rightarrow$ घास $\rightarrow$ गाय",
-        "B": "बकरी $\rightarrow$ घास $\rightarrow$ हिरण",
-        "C": "घास $\rightarrow$ हिरण $\rightarrow$ शेर",
-        "D": "चिड़िया $\rightarrow$ साँप $\rightarrow$ घास"
+        "A": "चुम्बकीय क्षेत्र की दिशा",
+        "B": "चालक पर आरोपित विद्युत बल की दिशा",
+        "C": "चालक में प्रवाहित विद्युत धारा की दिशा",
+        "D": "इनमें से कोई नहीं"
       }
     },
     {
       "id": "obj_6",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "The substances which get decomposed by biological process are",
-      "prashna": "जो पदार्थ जैविक प्रक्रम द्वारा अपघटित हो जाते हैं, वह है",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "When electric current flows through a conducting wire, what type of magnetic field is generated above and below the wire?",
+      "prashna": "किसी चालक तार से विद्युत धारा प्रवाहित करने पर तार के ऊपर तथा नीचे किस प्रकार के चुंबकीय क्षेत्र पैदा होते हैं ?",
       "options": {
-        "A": "Non-biodegradable",
-        "B": "Inert",
-        "C": "Biodegradable",
+        "A": "Opposite type",
+        "B": "Similar type",
+        "C": "Not of any kind",
         "D": "None of these"
       },
       "vikalpa": {
-        "A": "गैरजैवनिम्नीकरणीय",
-        "B": "अक्रिय",
-        "C": "जैवनिम्नीकरणीय",
+        "A": "विपरीत प्रकार के",
+        "B": "समान प्रकार के",
+        "C": "किसी भी प्रकार के नहीं",
         "D": "इनमें से कोई नहीं"
       }
     },
     {
-      "id": "obj_7",
+      "id": "obj_10",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Waste can be managed by which of the following ?",
-      "prashna": "कचरे का प्रबंधन निम्नलिखित में किसके द्वारा हो सकता है ?",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "The action of electric motor is based on",
+      "prashna": "विद्युत मोटर की क्रिया आधारित है",
       "options": {
-        "A": "Burning it out of the city",
-        "B": "Using in filling pits",
-        "C": "Recycling of some wastes",
-        "D": "All of these"
-      },
-      "vikalpa": {
-        "A": "शहर से बाहर जला देना",
-        "B": "गड्ढों को भरने में उपयोग करना",
-        "C": "कुछ कचरे का पुन:चक्रण",
-        "D": "इनमें से सभी"
-      }
-    },
-    {
-      "id": "obj_8",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which disease can be caused in humans by the ultraviolet rays of the sun ?",
-      "prashna": "सूर्य की पराबैंगनी किरणों से मनुष्य में कौन-सी बीमारी हो सकती है ?",
-      "options": {
-        "A": "Lung cancer",
-        "B": "T. B.",
-        "C": "Oral cancer",
-        "D": "Skin cancer"
-      },
-      "vikalpa": {
-        "A": "फेफड़े का कैंसर",
-        "B": "टी.बी.",
-        "C": "मुंह का कैंसर",
-        "D": "त्वचा का कैंसर"
-      }
-    },
-    {
-      "id": "obj_15",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which gas is not released when fossil fuels are burnt ?",
-      "prashna": "जीवाश्म ईंधन के जलने पर कौन-सी गैस मुक्त नहीं होती है ?",
-      "options": {
-        "A": "Oxygen gas",
-        "B": "Carbon dioxide gas",
-        "C": "Sulphur dioxide gas",
+        "A": "Electric current and magnetic effect",
+        "B": "Rotation of armature",
+        "C": "Both (A) and (B)",
         "D": "None of these"
       },
       "vikalpa": {
-        "A": "ऑक्सीजन गैस",
-        "B": "कार्बन डाइऑक्साइड गैस",
-        "C": "सल्फर डाइऑक्साइड गैस",
+        "A": "विद्युत-धारा और चुम्बकीय प्रभाव पर",
+        "B": "आर्मेचर के घूर्णन पर",
+        "C": "(A) और (B) दोनों",
         "D": "इनमें से कोई नहीं"
       }
     },
     {
-      "id": "obj_16",
+      "id": "obj_11",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which of the following is the main component of biogas ?",
-      "prashna": "निम्न में से कौन बायोगैस का मुख्य अवयव है ?",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "From which of the following does the induced current get direction ?",
+      "prashna": "निम्नलिखित में से किससे प्रेरित धारा को दिशा प्राप्त होती है ?",
       "options": {
-        "A": "$H_2S$",
-        "B": "$H_2$",
-        "C": "$CO_2$",
-        "D": "$CH_4$"
+        "A": "By Lenz's law",
+        "B": "By left hand rule",
+        "C": "By right hand rule",
+        "D": "By Ohm's law"
       },
       "vikalpa": {
-        "A": "$H_2S$",
-        "B": "$H_2$",
-        "C": "$CO_2$",
-        "D": "$CH_4$"
+        "A": "लेंज के नियम से",
+        "B": "वाम-हस्त नियम से",
+        "C": "दक्षिण-हस्त नियम से",
+        "D": "ओम के नियम से"
       }
     },
     {
-      "id": "obj_23",
+      "id": "obj_12",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "The molecular formula of ozone is",
-      "prashna": "ओजोन का आण्विक सूत्र है",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "The frequency of alternating electric current produced in India is",
+      "prashna": "भारत में उत्पादित प्रत्यावर्ती विद्युत धारा की आवृत्ति होती है",
       "options": {
-        "A": "$O_2$",
-        "B": "$O_3$",
-        "C": "$O_4$",
-        "D": "$O_5$"
+        "A": "80 Hz",
+        "B": "70 Hz",
+        "C": "60 Hz",
+        "D": "50 Hz"
       },
       "vikalpa": {
-        "A": "$O_2$",
-        "B": "$O_3$",
-        "C": "$O_4$",
-        "D": "$O_5$"
+        "A": "80 Hz",
+        "B": "70 Hz",
+        "C": "60 Hz",
+        "D": "50 Hz"
+      }
+    }
+  ],
+  "2026": [
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "Which is not a safety device ?",
+      "prashna": "कौन एक सुरक्षा युक्ति नहीं है ?",
+      "options": {
+        "A": "Fuse wire",
+        "B": "MCB",
+        "C": "Ground wire",
+        "D": "Voltmeter"
+      },
+      "vikalpa": {
+        "A": "फ्यूज तार",
+        "B": "एम.सी.बी.",
+        "C": "भूमिगत तार",
+        "D": "वोल्टमीटर"
       }
     },
     {
-      "id": "obj_27",
+      "id": "obj_53",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which of the following is a pollution free source of energy ?",
-      "prashna": "निम्न में से कौन-सा ऊर्जा का प्रदूषण मुक्त स्रोत है ?",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "Who discovered the magnetic effect of electric current ?",
+      "prashna": "विद्युत-धारा के चुम्बकीय प्रभाव की खोज किसने की ?",
       "options": {
-        "A": "Solar energy",
-        "B": "Hydro-electric energy",
-        "C": "Wind energy",
-        "D": "All of these"
+        "A": "Oersted",
+        "B": "Ampere",
+        "C": "Bohr",
+        "D": "Faraday"
       },
       "vikalpa": {
-        "A": "सौर ऊर्जा",
-        "B": "जल-वैद्युत ऊर्जा",
-        "C": "पवन ऊर्जा",
-        "D": "इनमें से सभी"
+        "A": "ओस्ट्रेड",
+        "B": "एम्पियर",
+        "C": "बोर",
+        "D": "फैराडे"
       }
     },
     {
-      "id": "obj_28",
+      "id": "obj_54",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which of the following is responsible for the depletion of ozone layer ?",
-      "prashna": "ओजोन परत के अवक्षय के लिए निम्नांकित में कौन उत्तरदायी है ?",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "What does the middle finger of Fleming's left hand rule indicate ?",
+      "prashna": "फ्लेमिंग के बाएँ हाथ के नियम में मध्यमा उंगली क्या दर्शाती है ?",
       "options": {
-        "A": "Sulphur",
-        "B": "Carbon dioxide",
-        "C": "Carbon",
-        "D": "Chlorofluorocarbon"
-      },
-      "vikalpa": {
-        "A": "सल्फर",
-        "B": "कार्बन डाइऑक्साइड",
-        "C": "कार्बन",
-        "D": "क्लोरोफ्लोरोकार्बन"
-      }
-    },
-    {
-      "id": "obj_29",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "'Ahar and Pyne' is the water harvesting system of which state ?",
-      "prashna": "'आहर और पइन' किस राज्य की जल-संचयन व्यवस्था है ?",
-      "options": {
-        "A": "Bihar",
-        "B": "Uttar Pradesh",
-        "C": "Maharashtra",
-        "D": "Madhya Pradesh"
-      },
-      "vikalpa": {
-        "A": "बिहार",
-        "B": "उत्तर प्रदेश",
-        "C": "महाराष्ट्र",
-        "D": "मध्य प्रदेश"
-      }
-    },
-    {
-      "id": "obj_30",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which of the following is a natural resource ?",
-      "prashna": "निम्नांकित में कौन प्राकृतिक संसाधन है ?",
-      "options": {
-        "A": "Soil",
-        "B": "Water",
-        "C": "Air",
-        "D": "All of these"
-      },
-      "vikalpa": {
-        "A": "मृदा",
-        "B": "जल",
-        "C": "वायु",
-        "D": "इनमें से सभी"
-      }
-    },
-    {
-      "id": "obj_31",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which of the following is a forest based industry ?",
-      "prashna": "निम्नांकित में वनों पर आधारित उद्योग कौन है ?",
-      "options": {
-        "A": "Lac industry",
-        "B": "Paper industry",
-        "C": "Timber industry",
-        "D": "All of these"
-      },
-      "vikalpa": {
-        "A": "लाख उद्योग",
-        "B": "कागज उद्योग",
-        "C": "लकड़ी उद्योग",
-        "D": "इनमें से सभी"
-      }
-    },
-    {
-      "id": "obj_33",
-      "type": "objective",
-      "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "Which of the following is the primary source of energy in fossil fuels ?",
-      "prashna": "निम्न में से कौन-सा जीवाश्म ईंधन में ऊर्जा का प्राथमिक स्रोत है ?",
-      "options": {
-        "A": "Moon",
-        "B": "Nuclear fusion",
-        "C": "Sun",
+        "A": "Direction of electric force applied on the conductor",
+        "B": "Direction of electric current in the conductor",
+        "C": "Direction of the magnetic field",
         "D": "None of these"
       },
       "vikalpa": {
-        "A": "चन्द्रमा",
-        "B": "नाभिकीय संलयन",
-        "C": "सूर्य",
+        "A": "चालक पर आरोपित बल की दिशा",
+        "B": "चालक में विद्युत धारा की दिशा",
+        "C": "चुम्बकीय क्षेत्र की दिशा",
         "D": "इनमें से कोई नहीं"
       }
     },
     {
-      "id": "obj_34",
+      "id": "obj_56",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "In which of the following forms is energy available in the oceans ?",
-      "prashna": "निम्न में से किस रूप में महासागरों में ऊर्जा उपलब्ध है ?",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "The melting point of a fuse should be",
+      "prashna": "एक फ्यूज का गलनांक होना चाहिए",
       "options": {
-        "A": "Tidal energy",
-        "B": "Wave energy",
-        "C": "Oceanic thermal energy",
-        "D": "All of these"
+        "A": "low",
+        "B": "high",
+        "C": "very high",
+        "D": "none of these"
       },
       "vikalpa": {
-        "A": "ज्वारीय ऊर्जा",
-        "B": "तरंग ऊर्जा",
-        "C": "सागरीय तापीय ऊर्जा",
-        "D": "इनमें से सभी"
+        "A": "कम",
+        "B": "उच्च",
+        "C": "बहुत उच्च",
+        "D": "इनमें से कोई नहीं"
       }
     },
     {
-      "id": "obj_35",
+      "id": "obj_57",
       "type": "objective",
       "chapter": "13",
-      "chapter_name": "Our Environment",
-      "question": "In which state is Tarapur Nuclear Power Plant located ?",
-      "prashna": "तारापुर नाभिकीय विद्युत संयंत्र किस राज्य में स्थित है ?",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "Dynamo converts mechanical energy into which energy ?",
+      "prashna": "डायनेमो यांत्रिक ऊर्जा को किस ऊर्जा में परिणत करता है ?",
       "options": {
-        "A": "Rajasthan",
-        "B": "Gujarat",
-        "C": "Maharashtra",
-        "D": "Bihar"
+        "A": "Sound energy",
+        "B": "Electrical energy",
+        "C": "Solar energy",
+        "D": "None of these"
       },
       "vikalpa": {
-        "A": "राजस्थान",
-        "B": "गुजरात",
-        "C": "महाराष्ट्र",
-        "D": "बिहार"
+        "A": "ध्वनि ऊर्जा",
+        "B": "विद्युत ऊर्जा",
+        "C": "सौर ऊर्जा",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_77",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "Direction of alternating current in a conductor",
+      "prashna": "प्रत्यावर्ती धारा की दिशा चालक में",
+      "options": {
+        "A": "is uniform",
+        "B": "reverses periodically",
+        "C": "changes twice",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "एकसमान होती है",
+        "B": "आवर्ती रूप से उलट जाती है",
+        "C": "दो बार बदलती है",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_78",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "Which of the following is a safety device ?",
+      "prashna": "निम्नलिखित में कौन सुरक्षा युक्ति है ?",
+      "options": {
+        "A": "Ammeter",
+        "B": "Unit Board",
+        "C": "MCB",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "ऐमीटर",
+        "B": "यूनिट बोर्ड",
+        "C": "एम. सी. बी.",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_80",
+      "type": "objective",
+      "chapter": "13",
+      "chapter_name": "Magnetic Effects of Electric Current",
+      "question": "The value of electric current in the electric circuit at the time of overloading",
+      "prashna": "अतिभारण के समय विद्युत परिपथ में विद्युत धारा का मान",
+      "options": {
+        "A": "decreases considerably",
+        "B": "does not change",
+        "C": "increases very much",
+        "D": "none of these"
+      },
+      "vikalpa": {
+        "A": "बहुत कम हो जाता है",
+        "B": "परिवर्तित नहीं होता है",
+        "C": "बहुत अधिक बढ़ जाता है",
+        "D": "इनमें से कोई नहीं"
       }
     }
   ]

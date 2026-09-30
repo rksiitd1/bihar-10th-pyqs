@@ -72,7 +72,7 @@ def process_question_paper(input_pdf_path: str, output_json_path: str):
     prompt_text = generate_extraction_prompt(None)
 
     logger.info("Generating content with Gemini...")
-    model = utils.get_generative_model(model_name="models/gemini-3-flash-preview")
+    model = utils.get_generative_model(model_name="models/gemini-3.8-flash")
     
     response = utils.generate_content_from_file_with_retry(model, input_path, prompt_text, logger=logger)
                 
