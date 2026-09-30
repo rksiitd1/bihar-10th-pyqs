@@ -52,7 +52,7 @@ The pipeline supports the following subjects with complete Bihar Board chapter m
 
 ### 2. High-Accuracy Classification (Jevification)
 - `jev_annotate_subject.py`: Uses TypeSafe AI's Jev model to map questions to specific NCERT/BSEB chapters with confidence scores.
-- `run_all_jev_backlog.py`: Master runner to classify all unclassified/newly added papers across all subjects using 16 parallel workers.
+- `run_jev_pipeline.py`: Master runner to classify all unclassified/newly added papers across all 6 subjects using 16 parallel workers.
 
 ### 3. Duplication Audit
 - `scratch/all_pairs_audit.py`: Performs a rigorous N×N matrix comparison across all 151 papers (11,325 pairs) to detect cross-year, cross-subject, and cross-sitting duplicates. 
@@ -109,7 +109,7 @@ Copy `.env.example` to `.env` in the root directory and fill in your keys:
 
 1. **Prepare PDFs**: Place PDFs in `{subject}_papers/`.
 2. **Batch Extract**: Run `python batch_processing_{subject}.py` to extract raw data.
-3. **Classify**: Run `python run_all_jev_backlog.py` to map questions to chapters.
+3. **Classify**: Run `python run_jev_pipeline.py` to map questions to chapters.
 4. **Finalize**: Run `python run_final_merge_split.py` to generate the organized production data sets.
 
 ---
