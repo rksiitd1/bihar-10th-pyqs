@@ -21,6 +21,17 @@
       "prashna": "आज भारतीय सिनेमा को किस चीज की जरूरत है?"
     }
   ],
+  "2020": [
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "section": "Panorama_Reader",
+      "chapter": "4",
+      "chapter_name": "Quality",
+      "question": "How many brothers were Gesslers?",
+      "prashna": "गेसलर कितने भाई थे?"
+    }
+  ],
   "2021": [
     {
       "id": "short_3",
@@ -43,6 +54,15 @@
       "prashna": "भारतीय फिल्में विदेशों में क्यों नहीं दिखाई जाती हैं?"
     },
     {
+      "id": "short_10",
+      "type": "short_answer",
+      "section": "Panorama_Reader",
+      "chapter": "4",
+      "chapter_name": "Quality",
+      "question": "What were the two special qualities of Mr. Gessler’s shoes?",
+      "prashna": "श्री जेस्लर के जूतों की दो विशेषताएँ क्या थीं?"
+    },
+    {
       "id": "short_4",
       "type": "short_answer",
       "section": "Panorama",
@@ -54,6 +74,15 @@
     }
   ],
   "2024": [
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "section": "Panorama_Reader",
+      "chapter": "4",
+      "chapter_name": "Quality",
+      "question": "What was the author’s opinion about Mr. Gessler as a shoemaker?",
+      "prashna": "मिस्टर गेसलर के बारे में लेखक की क्या राय थी?"
+    },
     {
       "id": "short_answer_2",
       "type": "short_answer",
@@ -84,6 +113,16 @@
       "chapter_name": "What is Wrong with Indian Films?",
       "question": "What does the cinema combine ?",
       "prashna": "सिनेमा किन-किन विधाओं का संयोजन करता है?",
+      "instructions": "Answer any five of the following questions :"
+    },
+    {
+      "id": "short_4_i",
+      "type": "short_answer",
+      "section": "Panorama_Reader",
+      "chapter": "4",
+      "chapter_name": "Quality",
+      "question": "How did the author know the shoemaker ?",
+      "prashna": "लेखक जूता बनाने वाले (मिस्टर गेस्लर) को कैसे जानते थे?",
       "instructions": "Answer any five of the following questions :"
     }
   ]

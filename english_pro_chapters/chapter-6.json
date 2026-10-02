@@ -175,6 +175,27 @@
       }
     },
     {
+      "id": "obj_30",
+      "type": "objective",
+      "section": "Panorama_Reader",
+      "chapter": "6",
+      "chapter_name": "Two Horizons",
+      "question": "The letters are exchanged between a mother and ............",
+      "prashna": "पत्रों का आदान-प्रदान एक माँ और ............ के बीच होता है।",
+      "options": {
+        "A": "son",
+        "B": "father",
+        "C": "daughter",
+        "D": "mother-in-law"
+      },
+      "vikalpa": {
+        "A": "पुत्र",
+        "B": "पिता",
+        "C": "पुत्री",
+        "D": "सास"
+      }
+    },
+    {
       "id": "obj_34",
       "type": "objective",
       "section": "Grammar",
@@ -239,6 +260,27 @@
     }
   ],
   "2019": [
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "section": "Panorama_Reader",
+      "chapter": "6",
+      "chapter_name": "Two Horizons",
+      "question": "The only companion of the mother in the story 'Two Horizons', is -",
+      "prashna": "'टू होराइजन्स' कहानी में माँ की एकमात्र साथी है -",
+      "options": {
+        "A": "her husband",
+        "B": "her son",
+        "C": "her daughter",
+        "D": "her dog"
+      },
+      "vikalpa": {
+        "A": "उसके पति",
+        "B": "उसका बेटा",
+        "C": "उसकी बेटी",
+        "D": "उसका कुत्ता"
+      }
+    },
     {
       "id": "obj_12",
       "type": "objective",
@@ -387,6 +429,27 @@
       }
     },
     {
+      "id": "obj_22",
+      "type": "objective",
+      "section": "Panorama_Reader",
+      "chapter": "6",
+      "chapter_name": "Two Horizons",
+      "question": "The only companion of the mother in the story 'Two Horizons', is -",
+      "prashna": "'टू होराइजन्स' कहानी में माँ की एकमात्र साथी कौन है? -",
+      "options": {
+        "A": "her husband",
+        "B": "her son",
+        "C": "her daughter",
+        "D": "her dog"
+      },
+      "vikalpa": {
+        "A": "उसका पति",
+        "B": "उसका बेटा",
+        "C": "उसकी बेटी",
+        "D": "उसका कुत्ता"
+      }
+    },
+    {
       "id": "obj_34",
       "type": "objective",
       "section": "Grammar",
@@ -448,9 +511,39 @@
         "C": "मैंने उससे कहा कि मैं एक अच्छा खिलाड़ी रहा था।",
         "D": "मैंने उसे बताया कि मैं एक अच्छा खिलाड़ी था।"
       }
+    },
+    {
+      "id": "short_8",
+      "type": "short_answer",
+      "section": "Panorama_Reader",
+      "chapter": "6",
+      "chapter_name": "Two Horizons",
+      "question": "Describe the relation between the mother and the daughter in 'Two Horizons'.",
+      "prashna": "'टू होराइजन्स' में माँ और बेटी के बीच के संबंध का वर्णन करें।"
     }
   ],
   "2020": [
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "section": "Panorama_Reader",
+      "chapter": "6",
+      "chapter_name": "Two Horizons",
+      "question": "Binapani Mohanty is a well known ….....short story writer.",
+      "prashna": "बीनापाणि मोहंती एक प्रसिद्ध ........... लघु कथा लेखिका हैं।",
+      "options": {
+        "A": "Bengali",
+        "B": "Assamese",
+        "C": "Oriya",
+        "D": "Marathi"
+      },
+      "vikalpa": {
+        "A": "बंगाली",
+        "B": "असमिया",
+        "C": "ओड़िया",
+        "D": "मराठी"
+      }
+    },
     {
       "id": "obj_37",
       "type": "objective",
@@ -533,6 +626,48 @@
         "B": "आशा ने कहा कि वह कभी मछली नहीं खाती थी",
         "C": "आशा ने कहा कि मछली उसके द्वारा कभी नहीं खाई गई",
         "D": "आशा ने बताया कि मछली उसने कभी नहीं खाई"
+      }
+    },
+    {
+      "id": "obj_1",
+      "type": "objective",
+      "section": "Panorama_Reader",
+      "chapter": "6",
+      "chapter_name": "Two Horizons",
+      "question": "The daughter in 'Two Horizons' does not wish to ... any more.",
+      "prashna": "'टू होराइजन्स' कहानी में बेटी अब और नहीं चाहती है...",
+      "options": {
+        "A": "dream",
+        "B": "cry",
+        "C": "fight",
+        "D": "laugh"
+      },
+      "vikalpa": {
+        "A": "सपना",
+        "B": "रोना",
+        "C": "लड़ना",
+        "D": "हंसना"
+      }
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "section": "Panorama_Reader",
+      "chapter": "6",
+      "chapter_name": "Two Horizons",
+      "question": "The mother in 'Two Horizons' was …………………… to read the letter of her daughter.",
+      "prashna": "'टू होराइजन्स' में माँ अपनी बेटी के पत्र को पढ़ने के लिए …………………… थी।",
+      "options": {
+        "A": "disturbed",
+        "B": "angry",
+        "C": "jealous",
+        "D": "delighted"
+      },
+      "vikalpa": {
+        "A": "परेशान",
+        "B": "नाराज",
+        "C": "ईर्ष्या",
+        "D": "प्रसन्न"
       }
     },
     {
@@ -640,6 +775,27 @@
         "B": "टोनी मॉरिसन",
         "C": "अमृता प्रीतम",
         "D": "महादेवी वर्मा"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "section": "Panorama_Reader",
+      "chapter": "6",
+      "chapter_name": "Two Horizons",
+      "question": "\"Two Horizons\" written by Binapati Mohanty has been translated into English by",
+      "prashna": "बीनापाणि मोहंती द्वारा लिखित \"टू हॉराइजन्स\" का अंग्रेजी में अनुवाद ............ द्वारा किया गया है।",
+      "options": {
+        "A": "Mahadevi Verma",
+        "B": "Nissim Ezekiel",
+        "C": "Jayanta Mahapatra",
+        "D": "Shiv K. Kumar"
+      },
+      "vikalpa": {
+        "A": "महादेवी वर्मा",
+        "B": "निसिम इजेकील",
+        "C": "जयंत महापात्र",
+        "D": "शिव के. कुमार"
       }
     },
     {
@@ -790,6 +946,15 @@
       }
     },
     {
+      "id": "short_10",
+      "type": "short_answer",
+      "section": "Panorama_Reader",
+      "chapter": "6",
+      "chapter_name": "Two Horizons",
+      "question": "Why does the daughter feel empty and aware all the time?",
+      "prashna": "बेटी हर समय खालीपन और जागरूक क्यों महसूस करती है?"
+    },
+    {
       "id": "obj_8",
       "type": "objective",
       "section": "Panorama",
@@ -808,6 +973,27 @@
         "B": "देख सकती",
         "C": "सूँघ सकती",
         "D": "सुन सकती"
+      }
+    },
+    {
+      "id": "obj_23",
+      "type": "objective",
+      "section": "Panorama_Reader",
+      "chapter": "6",
+      "chapter_name": "Two Horizons",
+      "question": "The mother in 'Two Horizons tells her daughter, 'Never try to come an......... child'.",
+      "prashna": "'टू होराइजन्स' में माँ अपनी बेटी से कहती है, 'कभी भी एक ......... बच्चा बनने की कोशिश मत करना'!",
+      "options": {
+        "A": "innocent",
+        "B": "idiot",
+        "C": "idle",
+        "D": "honest"
+      },
+      "vikalpa": {
+        "A": "मासूम",
+        "B": "मूर्ख",
+        "C": "बेकार/आलसी",
+        "D": "ईमानदार"
       }
     },
     {
@@ -986,9 +1172,39 @@
       "chapter_name": "Once Upon a Time",
       "question": "Answer any five of the following questions: (a) The young people visited the old woman with the intention of insulting her. Is it true?",
       "prashna": "निम्नलिखित में से किन्हीं पाँच प्रश्नों के उत्तर दें: (a) युवक बूढ़ी औरत के पास उसका अपमान करने के इरादे से गए थे। क्या यह सच है?"
+    },
+    {
+      "id": "short_9",
+      "type": "short_answer",
+      "section": "Panorama_Reader",
+      "chapter": "6",
+      "chapter_name": "Two Horizons",
+      "question": "(i) What did the mother do after receiving her daughter's letter?",
+      "prashna": "(i) अपनी बेटी का पत्र पाकर माँ ने क्या किया?"
     }
   ],
   "2022": [
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "section": "Panorama_Reader",
+      "chapter": "6",
+      "chapter_name": "Two Horizons",
+      "question": "The daughter in 'Two Horizons' tried to",
+      "options": {
+        "A": "buy jewellery",
+        "B": "study",
+        "C": "stitch clothes",
+        "D": "build new dreams"
+      },
+      "prashna": "'टू होराइजन्स' में बेटी ने कोशिश की",
+      "vikalpa": {
+        "A": "गहने खरीदने",
+        "B": "पढ़ाई",
+        "C": "कपड़े सिलने",
+        "D": "नए सपने बनाने"
+      }
+    },
     {
       "id": "obj_42",
       "type": "objective",
@@ -1285,6 +1501,48 @@
     }
   ],
   "2023": [
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "section": "Panorama_Reader",
+      "chapter": "6",
+      "chapter_name": "Two Horizons",
+      "question": "In Two Horizons', letters were exchanged between…………….",
+      "prashna": "'Two Horizons' में, किनके बीच पत्रों का आदान-प्रदान हुआ था?",
+      "options": {
+        "A": "mother and daughter",
+        "B": "son and father",
+        "C": "wife and husband",
+        "D": "brother and cousin"
+      },
+      "vikalpa": {
+        "A": "माँ और बेटी",
+        "B": "बेटा और पिता",
+        "C": "पत्नी और पति",
+        "D": "भाई और चचेरे भाई"
+      }
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "section": "Panorama_Reader",
+      "chapter": "6",
+      "chapter_name": "Two Horizons",
+      "question": "The daughter in Two Horizons' does not wish to………….any more.",
+      "prashna": "'Two Horizons' की बेटी अब और .............. नहीं करना चाहती।",
+      "options": {
+        "A": "dream",
+        "B": "cry",
+        "C": "fight",
+        "D": "laugh"
+      },
+      "vikalpa": {
+        "A": "सपना देखना",
+        "B": "रोना",
+        "C": "लड़ना",
+        "D": "हंसना"
+      }
+    },
     {
       "id": "obj_54",
       "type": "objective",
@@ -1778,6 +2036,15 @@
         "C": "यात्री ने ड्राइवर को डांटा कि वह तेज चला रहा है",
         "D": "यात्री ड्राइवर से कह सकता है कि वह तेज चला रहा है"
       }
+    },
+    {
+      "id": "short_answer_9",
+      "type": "short_answer",
+      "section": "Panorama_Reader",
+      "chapter": "6",
+      "chapter_name": "Two Horizons",
+      "question": "Comment on the bond between the mother and her daughter.",
+      "prashna": "मां और बेटी के बीच के बंधन पर टिप्पणी करें।"
     }
   ],
   "2025": [
@@ -1959,6 +2226,48 @@
       "prashna": "वक्ता के लिए 'पक्षी' और 'स्त्री' क्या दर्शाते हैं?"
     },
     {
+      "id": "obj_9",
+      "type": "objective",
+      "section": "Panorama_Reader",
+      "chapter": "6",
+      "chapter_name": "Two Horizons",
+      "question": "The mother in her letter tells the daughter that ............... cannot be bought.",
+      "prashna": "माँ अपने पत्र में बेटी को बताती है कि ............... खरीदा नहीं जा सकता।",
+      "options": {
+        "A": "happiness",
+        "B": "peace",
+        "C": "honour",
+        "D": "fulfilment"
+      },
+      "vikalpa": {
+        "A": "खुशी",
+        "B": "शांति",
+        "C": "सम्मान",
+        "D": "पूर्णता"
+      }
+    },
+    {
+      "id": "obj_26",
+      "type": "objective",
+      "section": "Panorama_Reader",
+      "chapter": "6",
+      "chapter_name": "Two Horizons",
+      "question": "The daughter in her letter says that she has lost her ...............",
+      "prashna": "बेटी अपने पत्र में कहती है कि उसने अपना ............... खो दिया है।",
+      "options": {
+        "A": "quickness",
+        "B": "laughter",
+        "C": "enthusiasm",
+        "D": "dreams"
+      },
+      "vikalpa": {
+        "A": "तेज़ी",
+        "B": "हँसी",
+        "C": "उत्साह",
+        "D": "सपने"
+      }
+    },
+    {
       "id": "obj_39",
       "type": "objective",
       "section": "Panorama",
@@ -2104,9 +2413,62 @@
         "C": "उसने अपनी बेटी को जीवन में सफलता पाने की सलाह दी",
         "D": "उसने अपनी बेटी को जीवन में सफलता पाने के लिए अच्छी तरह अध्ययन करने की सलाह दी (अशुद्ध रूप)"
       }
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "section": "Panorama_Reader",
+      "chapter": "6",
+      "chapter_name": "Two Horizons",
+      "question": "What is the mother's advice to her daughter ?",
+      "prashna": "बेटी को माँ की क्या सलाह है?"
     }
   ],
   "2026": [
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "section": "Panorama_Reader",
+      "chapter": "6",
+      "chapter_name": "Two Horizons",
+      "question": "The daughter says that she can see no reason for the ............... she feels.",
+      "prashna": "बेटी कहती है कि वह जो महसूस करती है उस ............... का उसे कोई कारण नहीं दिखता।",
+      "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
+      "options": {
+        "A": "sadness",
+        "B": "weariness",
+        "C": "tension",
+        "D": "anger"
+      },
+      "vikalpa": {
+        "A": "उदासी",
+        "B": "थकान",
+        "C": "तनाव",
+        "D": "क्रोध"
+      }
+    },
+    {
+      "id": "obj_19",
+      "type": "objective",
+      "section": "Panorama_Reader",
+      "chapter": "6",
+      "chapter_name": "Two Horizons",
+      "question": "The mother advises her daughter to seek ............... within herself.",
+      "prashna": "माँ अपनी बेटी को अपने भीतर ............... तलाशने की सलाह देती है।",
+      "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
+      "options": {
+        "A": "satisfaction",
+        "B": "peace",
+        "C": "fulfilment",
+        "D": "happiness"
+      },
+      "vikalpa": {
+        "A": "संतुष्टि",
+        "B": "शांति",
+        "C": "पूर्णता",
+        "D": "प्रसन्नता"
+      }
+    },
     {
       "id": "obj_43",
       "type": "objective",
@@ -2218,6 +2580,28 @@
       }
     },
     {
+      "id": "obj_10",
+      "type": "objective",
+      "section": "Panorama_Reader",
+      "chapter": "6",
+      "chapter_name": "Two Horizons",
+      "question": "The daughter in her letter says that she has ............... without a thought.",
+      "prashna": "बेटी अपने पत्र में कहती है कि उसने बिना सोचे-समझे ............... किया है।",
+      "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
+      "options": {
+        "A": "laughed",
+        "B": "suffered",
+        "C": "cried",
+        "D": "acted"
+      },
+      "vikalpa": {
+        "A": "हँसी",
+        "B": "कष्ट सहा",
+        "C": "रोई",
+        "D": "कार्य किया"
+      }
+    },
+    {
       "id": "obj_24",
       "type": "objective",
       "section": "Panorama",
@@ -2237,6 +2621,28 @@
         "B": "बीमार",
         "C": "युवा",
         "D": "अमीर"
+      }
+    },
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "section": "Panorama_Reader",
+      "chapter": "6",
+      "chapter_name": "Two Horizons",
+      "question": "The daughter in ‘Two Horizons’ tried to",
+      "prashna": "'टू होराइजन्स' में बेटी ने क्या करने का प्रयास किया?",
+      "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
+      "options": {
+        "A": "buy jewellery",
+        "B": "study",
+        "C": "stitch clothes",
+        "D": "build new dreams"
+      },
+      "vikalpa": {
+        "A": "गहने खरीदने का",
+        "B": "पढ़ाई करने का",
+        "C": "कपड़े सिलने का",
+        "D": "नए सपने संजोने का"
       }
     },
     {
