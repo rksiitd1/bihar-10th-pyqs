@@ -1,74 +1,247 @@
 [
   {
-    "chapter": "2",
-    "file": "chapter-2.json",
-    "total_items": 262,
-    "years": 16
-  },
-  {
-    "chapter": "4",
-    "file": "chapter-4.json",
-    "total_items": 284,
-    "years": 16
-  },
-  {
-    "chapter": "8",
-    "file": "chapter-8.json",
-    "total_items": 132,
-    "years": 16
-  },
-  {
-    "chapter": "3",
-    "file": "chapter-3.json",
-    "total_items": 133,
-    "years": 16
-  },
-  {
-    "chapter": "6",
-    "file": "chapter-6.json",
-    "total_items": 165,
-    "years": 16
-  },
-  {
+    "section": "Civics",
     "chapter": "1",
-    "file": "chapter-1.json",
-    "total_items": 339,
-    "years": 16
+    "file": "Civics/chapter-1.json",
+    "total_items": 15,
+    "years": 9
   },
   {
-    "chapter": "7",
-    "file": "chapter-7.json",
-    "total_items": 102,
-    "years": 16
+    "section": "Civics",
+    "chapter": "2",
+    "file": "Civics/chapter-2.json",
+    "total_items": 98,
+    "years": 15
   },
   {
-    "chapter": "UNCLASSIFIED",
-    "file": "chapter-unclassified.json",
-    "total_items": 428,
-    "years": 16
+    "section": "Civics",
+    "chapter": "3",
+    "file": "Civics/chapter-3.json",
+    "total_items": 4,
+    "years": 4
   },
   {
+    "section": "Civics",
+    "chapter": "4",
+    "file": "Civics/chapter-4.json",
+    "total_items": 34,
+    "years": 12
+  },
+  {
+    "section": "Civics",
     "chapter": "5",
-    "file": "chapter-5.json",
-    "total_items": 118,
+    "file": "Civics/chapter-5.json",
+    "total_items": 38,
+    "years": 13
+  },
+  {
+    "section": "Civics",
+    "chapter": "6",
+    "file": "Civics/chapter-6.json",
+    "total_items": 71,
+    "years": 15
+  },
+  {
+    "section": "Civics",
+    "chapter": "7",
+    "file": "Civics/chapter-7.json",
+    "total_items": 13,
+    "years": 8
+  },
+  {
+    "section": "Civics",
+    "chapter": "8",
+    "file": "Civics/chapter-8.json",
+    "total_items": 23,
+    "years": 9
+  },
+  {
+    "section": "Economics",
+    "chapter": "1",
+    "file": "Economics/chapter-1.json",
+    "total_items": 99,
     "years": 16
   },
   {
+    "section": "Economics",
+    "chapter": "2",
+    "file": "Economics/chapter-2.json",
+    "total_items": 53,
+    "years": 14
+  },
+  {
+    "section": "Economics",
+    "chapter": "3",
+    "file": "Economics/chapter-3.json",
+    "total_items": 38,
+    "years": 14
+  },
+  {
+    "section": "Economics",
+    "chapter": "4",
+    "file": "Economics/chapter-4.json",
+    "total_items": 56,
+    "years": 15
+  },
+  {
+    "section": "Economics",
+    "chapter": "5",
+    "file": "Economics/chapter-5.json",
+    "total_items": 12,
+    "years": 7
+  },
+  {
+    "section": "Economics",
+    "chapter": "6",
+    "file": "Economics/chapter-6.json",
+    "total_items": 63,
+    "years": 15
+  },
+  {
+    "section": "Economics",
+    "chapter": "7",
+    "file": "Economics/chapter-7.json",
+    "total_items": 38,
+    "years": 13
+  },
+  {
+    "section": "Geography",
+    "chapter": "1",
+    "file": "Geography/chapter-1.json",
+    "total_items": 146,
+    "years": 16
+  },
+  {
+    "section": "Geography",
+    "chapter": "2",
+    "file": "Geography/chapter-2.json",
+    "total_items": 50,
+    "years": 16
+  },
+  {
+    "section": "Geography",
+    "chapter": "3",
+    "file": "Geography/chapter-3.json",
+    "total_items": 48,
+    "years": 13
+  },
+  {
+    "section": "Geography",
+    "chapter": "4",
+    "file": "Geography/chapter-4.json",
+    "total_items": 59,
+    "years": 14
+  },
+  {
+    "section": "Geography",
+    "chapter": "5",
+    "file": "Geography/chapter-5.json",
+    "total_items": 31,
+    "years": 10
+  },
+  {
+    "section": "Geography",
+    "chapter": "6",
+    "file": "Geography/chapter-6.json",
+    "total_items": 12,
+    "years": 7
+  },
+  {
+    "section": "Geography",
+    "chapter": "7",
+    "file": "Geography/chapter-7.json",
+    "total_items": 30,
+    "years": 14
+  },
+  {
+    "section": "Geography",
+    "chapter": "8",
+    "file": "Geography/chapter-8.json",
+    "total_items": 64,
+    "years": 14
+  },
+  {
+    "section": "Geography",
     "chapter": "9",
-    "file": "chapter-9.json",
+    "file": "Geography/chapter-9.json",
     "total_items": 51,
     "years": 12
   },
   {
+    "section": "Geography",
     "chapter": "10",
-    "file": "chapter-10.json",
+    "file": "Geography/chapter-10.json",
     "total_items": 10,
     "years": 8
   },
   {
+    "section": "Geography",
     "chapter": "11",
-    "file": "chapter-11.json",
+    "file": "Geography/chapter-11.json",
     "total_items": 7,
     "years": 6
+  },
+  {
+    "section": "History",
+    "chapter": "1",
+    "file": "History/chapter-1.json",
+    "total_items": 79,
+    "years": 14
+  },
+  {
+    "section": "History",
+    "chapter": "2",
+    "file": "History/chapter-2.json",
+    "total_items": 61,
+    "years": 15
+  },
+  {
+    "section": "History",
+    "chapter": "3",
+    "file": "History/chapter-3.json",
+    "total_items": 43,
+    "years": 14
+  },
+  {
+    "section": "History",
+    "chapter": "4",
+    "file": "History/chapter-4.json",
+    "total_items": 135,
+    "years": 15
+  },
+  {
+    "section": "History",
+    "chapter": "5",
+    "file": "History/chapter-5.json",
+    "total_items": 37,
+    "years": 12
+  },
+  {
+    "section": "History",
+    "chapter": "6",
+    "file": "History/chapter-6.json",
+    "total_items": 19,
+    "years": 13
+  },
+  {
+    "section": "History",
+    "chapter": "7",
+    "file": "History/chapter-7.json",
+    "total_items": 21,
+    "years": 12
+  },
+  {
+    "section": "History",
+    "chapter": "8",
+    "file": "History/chapter-8.json",
+    "total_items": 45,
+    "years": 14
+  },
+  {
+    "section": "Unclassified",
+    "chapter": "UNCLASSIFIED",
+    "file": "Unclassified/chapter-unclassified.json",
+    "total_items": 428,
+    "years": 16
   }
 ]

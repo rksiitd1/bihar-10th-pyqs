@@ -1,74 +1,86 @@
 [
   {
-    "chapter": "20",
-    "file": "chapter-20.json",
-    "total_items": 11,
-    "years": 10
-  },
-  {
-    "chapter": "UNCLASSIFIED",
-    "file": "chapter-unclassified.json",
-    "total_items": 96,
-    "years": 15
-  },
-  {
-    "chapter": "15",
-    "file": "chapter-15.json",
-    "total_items": 4,
-    "years": 3
-  },
-  {
-    "chapter": "10",
-    "file": "chapter-10.json",
-    "total_items": 3,
-    "years": 2
-  },
-  {
-    "chapter": "14",
-    "file": "chapter-14.json",
-    "total_items": 1,
-    "years": 1
-  },
-  {
-    "chapter": "6",
-    "file": "chapter-6.json",
-    "total_items": 1,
-    "years": 1
-  },
-  {
-    "chapter": "5",
-    "file": "chapter-5.json",
-    "total_items": 1,
-    "years": 1
-  },
-  {
-    "chapter": "16",
-    "file": "chapter-16.json",
-    "total_items": 2,
-    "years": 1
-  },
-  {
-    "chapter": "3",
-    "file": "chapter-3.json",
-    "total_items": 2,
-    "years": 1
-  },
-  {
-    "chapter": "1",
-    "file": "chapter-1.json",
-    "total_items": 1,
-    "years": 1
-  },
-  {
+    "section": "Grammar",
     "chapter": "18",
-    "file": "chapter-18.json",
+    "file": "Grammar/chapter-18.json",
     "total_items": 5,
     "years": 1
   },
   {
+    "section": "Grammar",
+    "chapter": "20",
+    "file": "Grammar/chapter-20.json",
+    "total_items": 11,
+    "years": 10
+  },
+  {
+    "section": "Panorama",
     "chapter": "2",
-    "file": "chapter-2.json",
+    "file": "Panorama/chapter-2.json",
     "total_items": 1,
     "years": 1
+  },
+  {
+    "section": "Panorama",
+    "chapter": "3",
+    "file": "Panorama/chapter-3.json",
+    "total_items": 2,
+    "years": 1
+  },
+  {
+    "section": "Panorama",
+    "chapter": "5",
+    "file": "Panorama/chapter-5.json",
+    "total_items": 1,
+    "years": 1
+  },
+  {
+    "section": "Panorama",
+    "chapter": "6",
+    "file": "Panorama/chapter-6.json",
+    "total_items": 1,
+    "years": 1
+  },
+  {
+    "section": "Panorama",
+    "chapter": "10",
+    "file": "Panorama/chapter-10.json",
+    "total_items": 3,
+    "years": 2
+  },
+  {
+    "section": "Panorama",
+    "chapter": "14",
+    "file": "Panorama/chapter-14.json",
+    "total_items": 1,
+    "years": 1
+  },
+  {
+    "section": "Panorama",
+    "chapter": "15",
+    "file": "Panorama/chapter-15.json",
+    "total_items": 4,
+    "years": 3
+  },
+  {
+    "section": "Panorama",
+    "chapter": "16",
+    "file": "Panorama/chapter-16.json",
+    "total_items": 2,
+    "years": 1
+  },
+  {
+    "section": "Panorama_Reader",
+    "chapter": "1",
+    "file": "Panorama_Reader/chapter-1.json",
+    "total_items": 1,
+    "years": 1
+  },
+  {
+    "section": "Unclassified",
+    "chapter": "UNCLASSIFIED",
+    "file": "Unclassified/chapter-unclassified.json",
+    "total_items": 96,
+    "years": 15
   }
 ]

@@ -22,7 +22,7 @@ def main() -> None:
     if not isinstance(data, dict):
         raise ValueError("Expected top-level object keyed by year.")
 
-    chapters: Dict[str, Dict[str, List[Dict[str, Any]]]] = {}
+    sections: Dict[str, Dict[str, Dict[str, List[Dict[str, Any]]]]] = {}
 
     for year, items in data.items():
         if not isinstance(items, list):
@@ -30,37 +30,62 @@ def main() -> None:
         for item in items:
             if not isinstance(item, dict):
                 continue
+            section = item.get("section")
+            if not section or section in ("UNCLASSIFIED", "unknown", "None"):
+                section = "Unclassified"
+            else:
+                section = str(section).strip()
+
             chapter_id = item.get("chapter")
             if chapter_id is None or chapter_id == "":
                 chapter_id = item.get("chapter_name")
             if chapter_id is None or chapter_id == "":
-                chapter_id = "unknown"
+                chapter_id = "unclassified"
 
-            chapter_key = str(chapter_id)
-            if chapter_key not in chapters:
-                chapters[chapter_key] = {}
-            chapters[chapter_key].setdefault(year, []).append(item)
+            chapter_key = str(chapter_id).strip()
+
+            if section not in sections:
+                sections[section] = {}
+            if chapter_key not in sections[section]:
+                sections[section][chapter_key] = {}
+            sections[section][chapter_key].setdefault(year, []).append(item)
 
     manifest = []
-    for chapter_key, year_map in chapters.items():
-        try:
-            ordered_years = sorted(year_map.keys(), key=lambda y: int(y))
-        except ValueError:
-            ordered_years = sorted(year_map.keys())
-        ordered_obj = {y: year_map[y] for y in ordered_years}
+    for section_name, chapters in sorted(sections.items()):
+        sec_dir = os.path.join(output_dir, section_name)
+        os.makedirs(sec_dir, exist_ok=True)
+        sec_manifest = []
 
-        filename = f"chapter-{slugify(chapter_key)}.json"
-        out_path = os.path.join(output_dir, filename)
-        with open(out_path, "w", encoding="utf-8") as f:
-            json.dump(ordered_obj, f, ensure_ascii=False, indent=2)
+        for chapter_key, year_map in sorted(chapters.items(), key=lambda x: (int(x[0]) if x[0].isdigit() else 999, x[0])):
+            try:
+                ordered_years = sorted(year_map.keys(), key=lambda y: int(y))
+            except ValueError:
+                ordered_years = sorted(year_map.keys())
+            ordered_obj = {y: year_map[y] for y in ordered_years}
 
-        total = sum(len(v) for v in year_map.values())
-        manifest.append({"chapter": chapter_key, "file": filename, "total_items": total, "years": len(year_map)})
+            filename = f"chapter-{slugify(chapter_key)}.json"
+            out_path = os.path.join(sec_dir, filename)
+            with open(out_path, "w", encoding="utf-8") as f:
+                json.dump(ordered_obj, f, ensure_ascii=False, indent=2)
+
+            total = sum(len(v) for v in year_map.values())
+            entry = {
+                "section": section_name,
+                "chapter": chapter_key,
+                "file": f"{section_name}/{filename}",
+                "total_items": total,
+                "years": len(year_map)
+            }
+            sec_manifest.append(entry)
+            manifest.append(entry)
+
+        with open(os.path.join(sec_dir, "manifest.json"), "w", encoding="utf-8") as f:
+            json.dump(sec_manifest, f, ensure_ascii=False, indent=2)
 
     with open(os.path.join(output_dir, "manifest.json"), "w", encoding="utf-8") as f:
         json.dump(manifest, f, ensure_ascii=False, indent=2)
 
-    print(f"Wrote {len(chapters)} chapter files to {output_dir}")
+    print(f"Wrote {len(manifest)} chapter files across {len(sections)} sections to {output_dir}")
 
 
 if __name__ == "__main__":

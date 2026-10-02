@@ -24,11 +24,12 @@ flowchart LR
 | `{subject}_data/` | Raw extracted JSON (Questions extracted via Gemini) |
 | `{subject}_data_jevified/` | High-accuracy JSON mapped to official BSEB chapters via TypeSafe AI Jev |
 | `{subject}_pro/` | Merged master file: all years combined into one dictionary |
-| `{subject}_pro_chapters/` | Data split by individual BSEB chapters |
+| `{subject}_pro_chapters/` | Data split by chapter (nested by section folders for multi-section subjects) |
 | `{subject}_pro_types/` | Data split by question type (Objective, Short Answer, Long Answer, etc.) |
-| `{subject}_pro_type_chapters/` | Categorized by type and then nested by chapter (with manifests) |
+| `{subject}_pro_type_chapters/` | Categorized by type and then nested by section & chapter (with manifests) |
 
-*(Note: Legacy `_annotated` and `_raw` backup folders have been cleaned up in favor of this streamlined structure).*
+*(Note: Multi-section subjects like Social Science, Hindi, English, and Sanskrit nest their chapters cleanly into subdirectories by section/book: e.g. `History/`, `Geography/`, `Godhuli/`, `Varnika/`, `Panorama/`, `Panorama_Reader/`, `Piyusham/`, `Vyakaran/`).*
+
 
 ---
 

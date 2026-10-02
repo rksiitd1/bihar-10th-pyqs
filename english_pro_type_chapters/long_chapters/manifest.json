@@ -1,50 +1,79 @@
 [
   {
-    "chapter": "3",
-    "file": "chapter-3.json",
-    "total_items": 5,
-    "years": 5
+    "section": "Grammar",
+    "chapter": "19",
+    "file": "Grammar/chapter-19.json",
+    "total_items": 8,
+    "years": 4
   },
   {
-    "chapter": "5",
-    "file": "chapter-5.json",
-    "total_items": 2,
-    "years": 2
-  },
-  {
-    "chapter": "8",
-    "file": "chapter-8.json",
-    "total_items": 1,
-    "years": 1
-  },
-  {
+    "section": "Grammar",
     "chapter": "20",
-    "file": "chapter-20.json",
+    "file": "Grammar/chapter-20.json",
     "total_items": 22,
     "years": 8
   },
   {
+    "section": "Panorama",
     "chapter": "2",
-    "file": "chapter-2.json",
+    "file": "Panorama/chapter-2.json",
     "total_items": 2,
     "years": 2
   },
   {
-    "chapter": "4",
-    "file": "chapter-4.json",
+    "section": "Panorama",
+    "chapter": "3",
+    "file": "Panorama/chapter-3.json",
     "total_items": 3,
+    "years": 3
+  },
+  {
+    "section": "Panorama",
+    "chapter": "4",
+    "file": "Panorama/chapter-4.json",
+    "total_items": 1,
+    "years": 1
+  },
+  {
+    "section": "Panorama",
+    "chapter": "5",
+    "file": "Panorama/chapter-5.json",
+    "total_items": 1,
+    "years": 1
+  },
+  {
+    "section": "Panorama",
+    "chapter": "8",
+    "file": "Panorama/chapter-8.json",
+    "total_items": 1,
+    "years": 1
+  },
+  {
+    "section": "Panorama_Reader",
+    "chapter": "3",
+    "file": "Panorama_Reader/chapter-3.json",
+    "total_items": 2,
     "years": 2
   },
   {
-    "chapter": "UNCLASSIFIED",
-    "file": "chapter-unclassified.json",
-    "total_items": 6,
-    "years": 5
+    "section": "Panorama_Reader",
+    "chapter": "4",
+    "file": "Panorama_Reader/chapter-4.json",
+    "total_items": 2,
+    "years": 2
   },
   {
-    "chapter": "19",
-    "file": "chapter-19.json",
-    "total_items": 8,
-    "years": 4
+    "section": "Panorama_Reader",
+    "chapter": "5",
+    "file": "Panorama_Reader/chapter-5.json",
+    "total_items": 1,
+    "years": 1
+  },
+  {
+    "section": "Unclassified",
+    "chapter": "UNCLASSIFIED",
+    "file": "Unclassified/chapter-unclassified.json",
+    "total_items": 6,
+    "years": 5
   }
 ]
