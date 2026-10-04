@@ -1,0 +1,675 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bihar 10th PYQ — Manual Chapter Classification</title>
+<style>
+  :root {
+    --bg: #0d1117; --surface: #161b22; --border: #30363d;
+    --text: #e6edf3; --text-dim: #8b949e; --text-bright: #f0f6fc;
+    --accent: #58a6ff; --accent2: #3fb950; --accent3: #f0883e;
+    --danger: #f85149; --purple: #bc8cff;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+    background: var(--bg); color: var(--text); line-height: 1.6;
+  }
+  
+  /* Header */
+  .header {
+    position: sticky; top: 0; z-index: 100;
+    background: var(--surface); border-bottom: 1px solid var(--border);
+    padding: 12px 24px; display: flex; align-items: center; gap: 16px;
+    flex-wrap: wrap;
+  }
+  .header h1 { font-size: 18px; color: var(--accent); white-space: nowrap; }
+  .stats {
+    display: flex; gap: 16px; font-size: 13px; color: var(--text-dim);
+  }
+  .stats .num { font-weight: 700; color: var(--text-bright); }
+  .stats .recovered { color: var(--accent2); }
+  .stats .remaining { color: var(--accent3); }
+  
+  /* Controls bar */
+  .controls {
+    background: var(--surface); border-bottom: 1px solid var(--border);
+    padding: 8px 24px; display: flex; gap: 12px; align-items: center;
+    flex-wrap: wrap; position: sticky; top: 56px; z-index: 99;
+  }
+  select, button, input[type="file"] {
+    background: var(--bg); color: var(--text); border: 1px solid var(--border);
+    padding: 6px 12px; border-radius: 6px; font-size: 13px; cursor: pointer;
+  }
+  select:focus, button:focus { outline: 2px solid var(--accent); }
+  button.primary { background: #238636; border-color: #2ea043; color: #fff; font-weight: 600; }
+  button.primary:hover { background: #2ea043; }
+  button.danger { background: #da3633; border-color: #f85149; color: #fff; }
+  button.export { background: #1f6feb; border-color: #388bfd; color: #fff; font-weight: 600; }
+  button:disabled { opacity: 0.5; cursor: not-allowed; }
+  .spacer { flex: 1; }
+  .filter-label { font-size: 12px; color: var(--text-dim); }
+
+  /* Main layout */
+  .main { display: flex; height: calc(100vh - 112px); }
+  
+  /* Question list panel */
+  .list-panel {
+    width: 420px; min-width: 360px; border-right: 1px solid var(--border);
+    overflow-y: auto; flex-shrink: 0;
+  }
+  .q-item {
+    padding: 10px 16px; border-bottom: 1px solid var(--border);
+    cursor: pointer; transition: background 0.15s;
+  }
+  .q-item:hover { background: #1c2128; }
+  .q-item.active { background: #1c3a5e; border-left: 3px solid var(--accent); }
+  .q-item.classified { border-left: 3px solid var(--accent2); }
+  .q-item.skipped { border-left: 3px solid var(--text-dim); opacity: 0.6; }
+  .q-item .q-header { display: flex; justify-content: space-between; margin-bottom: 2px; }
+  .q-item .q-id { font-size: 12px; font-weight: 600; color: var(--accent); }
+  .q-item .q-year { font-size: 11px; color: var(--text-dim); background: var(--bg); padding: 1px 6px; border-radius: 4px; }
+  .q-item .q-type { font-size: 11px; color: var(--purple); text-transform: capitalize; }
+  .q-item .q-preview { font-size: 12px; color: var(--text-dim); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; max-width: 380px; }
+  .q-item .q-classification { font-size: 11px; color: var(--accent2); margin-top: 2px; font-weight: 600; }
+  
+  /* Detail panel */
+  .detail-panel {
+    flex: 1; overflow-y: auto; padding: 24px; display: flex; flex-direction: column; gap: 16px;
+  }
+  .detail-panel.empty {
+    display: flex; align-items: center; justify-content: center;
+    color: var(--text-dim); font-size: 16px;
+  }
+  
+  .card {
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 8px; padding: 16px;
+  }
+  .card h3 { font-size: 14px; color: var(--accent); margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px; }
+  .q-text { font-size: 15px; line-height: 1.7; white-space: pre-wrap; }
+  .q-text.hindi { font-family: 'Noto Sans Devanagari', 'Mangal', sans-serif; }
+  
+  .options-grid { display: grid; grid-template-columns: auto 1fr; gap: 4px 12px; font-size: 14px; margin-top: 8px; }
+  .opt-key { font-weight: 700; color: var(--accent); }
+  
+  .sub-q { margin: 8px 0; padding: 8px 12px; background: var(--bg); border-radius: 6px; border-left: 2px solid var(--border); }
+  
+  /* Classification form */
+  .classify-form {
+    background: var(--surface); border: 2px solid var(--accent);
+    border-radius: 8px; padding: 16px;
+  }
+  .classify-form h3 { color: var(--accent2); }
+  .form-row { display: flex; gap: 12px; margin-top: 8px; align-items: center; flex-wrap: wrap; }
+  .form-row label { font-size: 13px; color: var(--text-dim); min-width: 60px; }
+  .form-row select { flex: 1; min-width: 200px; }
+  .btn-row { display: flex; gap: 8px; margin-top: 12px; }
+  
+  .jev-hint { font-size: 12px; color: var(--text-dim); margin-top: 6px; }
+  .jev-hint .choice { color: var(--accent3); font-weight: 600; }
+  .jev-hint .conf { color: var(--purple); }
+
+  /* Keyboard shortcuts */
+  .shortcuts {
+    position: fixed; bottom: 12px; right: 12px;
+    background: var(--surface); border: 1px solid var(--border); border-radius: 8px;
+    padding: 10px 14px; font-size: 11px; color: var(--text-dim); z-index: 50;
+  }
+  .shortcuts kbd {
+    background: var(--bg); border: 1px solid var(--border); border-radius: 3px;
+    padding: 1px 5px; font-family: monospace; color: var(--text); font-size: 11px;
+  }
+  
+  /* File load overlay */
+  .overlay {
+    position: fixed; inset: 0; background: rgba(0,0,0,0.8);
+    display: flex; align-items: center; justify-content: center; z-index: 200;
+  }
+  .overlay-box {
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 12px; padding: 32px; text-align: center; max-width: 500px;
+  }
+  .overlay-box h2 { color: var(--accent); margin-bottom: 16px; }
+  .overlay-box p { color: var(--text-dim); margin-bottom: 16px; }
+  .drop-zone {
+    border: 2px dashed var(--border); border-radius: 8px; padding: 40px;
+    cursor: pointer; transition: border-color 0.2s;
+  }
+  .drop-zone:hover, .drop-zone.dragover { border-color: var(--accent); }
+  .hidden { display: none !important; }
+  
+  .progress-bar {
+    height: 4px; background: var(--border); border-radius: 2px; margin-top: 8px; overflow: hidden;
+  }
+  .progress-bar .fill { height: 100%; background: var(--accent2); transition: width 0.3s; }
+</style>
+</head>
+<body>
+
+<!-- File Load Overlay -->
+<div id="loadOverlay" class="overlay">
+  <div class="overlay-box">
+    <h2>📚 Bihar 10th PYQ — Manual Classifier</h2>
+    <p>Load <code>manual_review_data.json</code> to start classifying unclassified questions.</p>
+    <div class="drop-zone" id="dropZone" onclick="document.getElementById('fileInput').click()">
+      <p style="font-size:36px;margin-bottom:8px">📂</p>
+      <p>Click or drag <code>manual_review_data.json</code> here</p>
+      <input type="file" id="fileInput" accept=".json" style="display:none">
+    </div>
+    <p style="margin-top:16px;font-size:12px">Generate it by running: <code>python export_for_review.py</code></p>
+  </div>
+</div>
+
+<!-- Header -->
+<div class="header">
+  <h1>📝 Manual Chapter Classifier</h1>
+  <div class="stats">
+    <span>Total: <span class="num" id="statTotal">0</span></span>
+    <span>Classified: <span class="num recovered" id="statClassified">0</span></span>
+    <span>Remaining: <span class="num remaining" id="statRemaining">0</span></span>
+    <span>Skipped: <span class="num" id="statSkipped">0</span></span>
+  </div>
+  <div class="progress-bar" style="width:200px">
+    <div class="fill" id="progressFill" style="width:0%"></div>
+  </div>
+</div>
+
+<!-- Controls -->
+<div class="controls">
+  <span class="filter-label">Subject:</span>
+  <select id="filterSubject"><option value="all">All Subjects</option></select>
+  <span class="filter-label">Type:</span>
+  <select id="filterType"><option value="all">All Types</option></select>
+  <span class="filter-label">Status:</span>
+  <select id="filterStatus">
+    <option value="pending">Pending</option>
+    <option value="classified">Classified</option>
+    <option value="skipped">Skipped</option>
+    <option value="all">All</option>
+  </select>
+  <div class="spacer"></div>
+  <button class="export" id="btnExport" disabled>💾 Export Classifications</button>
+  <button id="btnImportProgress">📥 Resume Progress</button>
+  <input type="file" id="progressInput" accept=".json" style="display:none">
+</div>
+
+<!-- Main panels -->
+<div class="main">
+  <div class="list-panel" id="listPanel"></div>
+  <div class="detail-panel empty" id="detailPanel">
+    <span>← Select a question to classify</span>
+  </div>
+</div>
+
+<!-- Keyboard shortcuts -->
+<div class="shortcuts">
+  <kbd>↑</kbd>/<kbd>↓</kbd> Navigate &nbsp;
+  <kbd>Enter</kbd> Confirm &nbsp;
+  <kbd>S</kbd> Skip &nbsp;
+  <kbd>U</kbd> Un-skip
+</div>
+
+<script>
+// ─── State ───
+let DATA = null;         // raw loaded data
+let questions = [];      // flat array of all unclassified Qs
+let decisions = {};      // key -> { subject, file, index, section, chapter, chapter_name, status }
+let activeIdx = -1;
+let filteredIndices = [];
+
+// ─── File Loading ───
+document.getElementById('fileInput').addEventListener('change', e => {
+  const file = e.target.files[0];
+  if (file) loadFile(file);
+});
+
+const dz = document.getElementById('dropZone');
+dz.addEventListener('dragover', e => { e.preventDefault(); dz.classList.add('dragover'); });
+dz.addEventListener('dragleave', () => dz.classList.remove('dragover'));
+dz.addEventListener('drop', e => { e.preventDefault(); dz.classList.remove('dragover'); loadFile(e.dataTransfer.files[0]); });
+
+function loadFile(file) {
+  const reader = new FileReader();
+  reader.onload = e => {
+    try {
+      DATA = JSON.parse(e.target.result);
+      initApp();
+    } catch (err) {
+      alert('Invalid JSON file: ' + err.message);
+    }
+  };
+  reader.readAsText(file);
+}
+
+// ─── Init ───
+function initApp() {
+  document.getElementById('loadOverlay').classList.add('hidden');
+  questions = [];
+  
+  // Flatten all subjects
+  const subjectSelect = document.getElementById('filterSubject');
+  subjectSelect.innerHTML = '<option value="all">All Subjects</option>';
+  const types = new Set();
+  
+  for (const [subj, qs] of Object.entries(DATA.subjects || {})) {
+    subjectSelect.innerHTML += `<option value="${subj}">${subj.replace(/_/g,' ').replace(/\b\w/g,c=>c.toUpperCase())}</option>`;
+    for (const q of qs) {
+      q._subject = subj;
+      q._key = `${subj}::${q.file}::${q.index}`;
+      questions.push(q);
+      if (q.type) types.add(q.type);
+    }
+  }
+  
+  const typeSelect = document.getElementById('filterType');
+  typeSelect.innerHTML = '<option value="all">All Types</option>';
+  for (const t of [...types].sort()) {
+    typeSelect.innerHTML += `<option value="${t}">${t.replace(/_/g,' ')}</option>`;
+  }
+  
+  // Initialize decisions for all questions
+  for (const q of questions) {
+    if (!decisions[q._key]) {
+      decisions[q._key] = { subject: q._subject, file: q.file, index: q.index, status: 'pending' };
+    }
+  }
+  
+  applyFilters();
+  updateStats();
+  document.getElementById('btnExport').disabled = false;
+}
+
+// ─── Filtering ───
+document.getElementById('filterSubject').addEventListener('change', applyFilters);
+document.getElementById('filterType').addEventListener('change', applyFilters);
+document.getElementById('filterStatus').addEventListener('change', applyFilters);
+
+function applyFilters() {
+  const subj = document.getElementById('filterSubject').value;
+  const type = document.getElementById('filterType').value;
+  const status = document.getElementById('filterStatus').value;
+  
+  filteredIndices = [];
+  for (let i = 0; i < questions.length; i++) {
+    const q = questions[i];
+    if (subj !== 'all' && q._subject !== subj) continue;
+    if (type !== 'all' && q.type !== type) continue;
+    const d = decisions[q._key];
+    if (status !== 'all' && d && d.status !== status) continue;
+    filteredIndices.push(i);
+  }
+  
+  renderList();
+  if (filteredIndices.length > 0) {
+    selectQuestion(filteredIndices[0]);
+  } else {
+    activeIdx = -1;
+    document.getElementById('detailPanel').innerHTML = '<span>No questions match the current filters</span>';
+    document.getElementById('detailPanel').className = 'detail-panel empty';
+  }
+}
+
+// ─── List Rendering ───
+function renderList() {
+  const panel = document.getElementById('listPanel');
+  let html = '';
+  for (const gi of filteredIndices) {
+    const q = questions[gi];
+    const d = decisions[q._key];
+    const statusClass = d?.status === 'classified' ? 'classified' : d?.status === 'skipped' ? 'skipped' : '';
+    const activeClass = gi === activeIdx ? 'active' : '';
+    const preview = (q.question || q.prashna || q.context || '').substring(0, 80).replace(/\n/g, ' ');
+    const classLabel = d?.status === 'classified' ? `<div class="q-classification">✓ ${d.section ? d.section + ' → ' : ''}Ch ${d.chapter}: ${d.chapter_name}</div>` : '';
+    
+    html += `<div class="q-item ${statusClass} ${activeClass}" data-gi="${gi}" onclick="selectQuestion(${gi})">
+      <div class="q-header">
+        <span class="q-id">${q.id || 'Q' + q.index}</span>
+        <span class="q-year">${q.year}</span>
+      </div>
+      <span class="q-type">${q._subject} · ${(q.type||'').replace(/_/g,' ')}</span>
+      <div class="q-preview">${escHtml(preview)}</div>
+      ${classLabel}
+    </div>`;
+  }
+  panel.innerHTML = html;
+  
+  // Scroll active into view
+  const activeEl = panel.querySelector('.q-item.active');
+  if (activeEl) activeEl.scrollIntoView({ block: 'nearest' });
+}
+
+// ─── Question Detail ───
+function selectQuestion(gi) {
+  activeIdx = gi;
+  renderList();
+  
+  const q = questions[gi];
+  const d = decisions[q._key];
+  const opts = DATA.chapter_options[q._subject];
+  const panel = document.getElementById('detailPanel');
+  panel.className = 'detail-panel';
+  
+  let html = '';
+  
+  // Question text card
+  html += `<div class="card">
+    <h3>Question (English)</h3>
+    <div class="q-text">${escHtml(q.question || '(No English text)')}</div>
+  </div>`;
+  
+  if (q.prashna) {
+    html += `<div class="card">
+      <h3>प्रश्न (Hindi)</h3>
+      <div class="q-text hindi">${escHtml(q.prashna)}</div>
+    </div>`;
+  }
+  
+  if (q.context) {
+    html += `<div class="card">
+      <h3>Context / Passage</h3>
+      <div class="q-text">${escHtml(q.context)}</div>
+    </div>`;
+  }
+  
+  if (q.instructions) {
+    html += `<div class="card">
+      <h3>Instructions</h3>
+      <div class="q-text">${escHtml(q.instructions)}</div>
+    </div>`;
+  }
+  
+  // Options
+  if (q.options && typeof q.options === 'object') {
+    html += `<div class="card"><h3>Options (EN)</h3><div class="options-grid">`;
+    for (const [k, v] of Object.entries(q.options)) {
+      html += `<span class="opt-key">${escHtml(k)}.</span><span>${escHtml(String(v))}</span>`;
+    }
+    html += `</div></div>`;
+  }
+  if (q.vikalpa && typeof q.vikalpa === 'object') {
+    html += `<div class="card"><h3>विकल्प (HI)</h3><div class="options-grid">`;
+    for (const [k, v] of Object.entries(q.vikalpa)) {
+      html += `<span class="opt-key">${escHtml(k)}.</span><span class="hindi">${escHtml(String(v))}</span>`;
+    }
+    html += `</div></div>`;
+  }
+  
+  // Sub-questions
+  if (q.sub_questions && q.sub_questions.length > 0) {
+    html += `<div class="card"><h3>Sub-Questions</h3>`;
+    for (const sq of q.sub_questions) {
+      html += `<div class="sub-q">`;
+      if (sq.question) html += `<div>${escHtml(sq.question)}</div>`;
+      if (sq.prashna) html += `<div class="hindi" style="color:var(--text-dim)">${escHtml(sq.prashna)}</div>`;
+      html += `</div>`;
+    }
+    html += `</div>`;
+  }
+  
+  // Jev hint
+  if (q.raw_choice || q.confidence) {
+    html += `<div class="card"><h3>Jev API Hint</h3>
+      <div class="jev-hint">Best guess: <span class="choice">${escHtml(q.raw_choice || 'none')}</span> 
+      at <span class="conf">${((q.confidence || 0) * 100).toFixed(1)}%</span> confidence (below threshold)</div>
+    </div>`;
+  }
+  
+  // Classification form
+  html += `<div class="classify-form" id="classifyForm">
+    <h3>🏷️ Classify This Question</h3>`;
+  
+  if (opts.is_multi_section) {
+    html += `<div class="form-row">
+      <label>Section:</label>
+      <select id="selSection" onchange="updateChapterDropdown()">
+        <option value="">— Select Section —</option>`;
+    for (const secName of Object.keys(opts.sections)) {
+      const sel = d?.section === secName ? 'selected' : '';
+      html += `<option value="${escHtml(secName)}" ${sel}>${escHtml(secName)}</option>`;
+    }
+    html += `</select></div>`;
+  }
+  
+  html += `<div class="form-row">
+    <label>Chapter:</label>
+    <select id="selChapter">
+      <option value="">— Select Chapter —</option>`;
+  
+  // If not multi-section, populate chapters directly
+  if (!opts.is_multi_section) {
+    const sec = Object.keys(opts.sections)[0];
+    for (const ch of opts.sections[sec]) {
+      const sel = d?.chapter == ch.number ? 'selected' : '';
+      html += `<option value="${ch.number}" data-name="${escAttr(ch.name_en)}" ${sel}>${ch.number}. ${escHtml(ch.name_en)} (${escHtml(ch.name_hi)})</option>`;
+    }
+  }
+  html += `</select></div>`;
+  
+  html += `<div class="btn-row">
+    <button class="primary" onclick="classifyQuestion()">✅ Classify (Enter)</button>
+    <button onclick="skipQuestion()">⏭ Skip (S)</button>
+    <button onclick="markUnseen()">👁️ Mark as Unseen Passage</button>
+    ${d?.status !== 'pending' ? '<button class="danger" onclick="resetQuestion()">↩ Reset</button>' : ''}
+  </div>`;
+  
+  html += `<div style="margin-top:8px;font-size:12px;color:var(--text-dim)">
+    File: ${q.file} | Index: ${q.index} | ID: ${q.id}
+  </div>`;
+  
+  html += `</div>`;
+  
+  panel.innerHTML = html;
+  
+  // If multi-section and section is already set, populate chapters
+  if (opts.is_multi_section && d?.section) {
+    updateChapterDropdown();
+  }
+}
+
+function updateChapterDropdown() {
+  const q = questions[activeIdx];
+  const opts = DATA.chapter_options[q._subject];
+  const secSelect = document.getElementById('selSection');
+  const chSelect = document.getElementById('selChapter');
+  const secName = secSelect.value;
+  
+  chSelect.innerHTML = '<option value="">— Select Chapter —</option>';
+  if (secName && opts.sections[secName]) {
+    const d = decisions[q._key];
+    for (const ch of opts.sections[secName]) {
+      const sel = d?.chapter == ch.number && d?.section === secName ? 'selected' : '';
+      chSelect.innerHTML += `<option value="${ch.number}" data-name="${escAttr(ch.name_en)}" ${sel}>${ch.number}. ${escHtml(ch.name_en)} (${escHtml(ch.name_hi)})</option>`;
+    }
+  }
+}
+
+function classifyQuestion() {
+  if (activeIdx < 0) return;
+  const q = questions[activeIdx];
+  const opts = DATA.chapter_options[q._subject];
+  
+  let section = '';
+  if (opts.is_multi_section) {
+    section = document.getElementById('selSection').value;
+    if (!section) { alert('Please select a section first'); return; }
+  }
+  
+  const chSelect = document.getElementById('selChapter');
+  const chapter = chSelect.value;
+  if (!chapter) { alert('Please select a chapter'); return; }
+  const chapterName = chSelect.options[chSelect.selectedIndex].getAttribute('data-name');
+  
+  decisions[q._key] = {
+    subject: q._subject,
+    file: q.file,
+    index: q.index,
+    section: section,
+    chapter: chapter,
+    chapter_name: chapterName,
+    status: 'classified'
+  };
+  
+  updateStats();
+  moveToNext();
+}
+
+function skipQuestion() {
+  if (activeIdx < 0) return;
+  const q = questions[activeIdx];
+  decisions[q._key] = { ...decisions[q._key], status: 'skipped' };
+  updateStats();
+  moveToNext();
+}
+
+function markUnseen() {
+  if (activeIdx < 0) return;
+  const q = questions[activeIdx];
+  decisions[q._key] = {
+    subject: q._subject, file: q.file, index: q.index,
+    section: 'Unseen', chapter: 0, chapter_name: 'Unseen Passage/Poem',
+    status: 'classified'
+  };
+  updateStats();
+  moveToNext();
+}
+
+function resetQuestion() {
+  if (activeIdx < 0) return;
+  const q = questions[activeIdx];
+  decisions[q._key] = { subject: q._subject, file: q.file, index: q.index, status: 'pending' };
+  updateStats();
+  selectQuestion(activeIdx);
+}
+
+function moveToNext() {
+  const currentFilteredIdx = filteredIndices.indexOf(activeIdx);
+  if (currentFilteredIdx < filteredIndices.length - 1) {
+    // Try to find next pending in filtered list
+    for (let i = currentFilteredIdx + 1; i < filteredIndices.length; i++) {
+      const gi = filteredIndices[i];
+      const q = questions[gi];
+      if (decisions[q._key]?.status === 'pending') {
+        selectQuestion(gi);
+        return;
+      }
+    }
+    // If no more pending, just go to next
+    selectQuestion(filteredIndices[currentFilteredIdx + 1]);
+  } else {
+    applyFilters(); // Refresh to remove classified from pending filter
+  }
+}
+
+// ─── Stats ───
+function updateStats() {
+  let classified = 0, skipped = 0;
+  for (const d of Object.values(decisions)) {
+    if (d.status === 'classified') classified++;
+    else if (d.status === 'skipped') skipped++;
+  }
+  document.getElementById('statTotal').textContent = questions.length;
+  document.getElementById('statClassified').textContent = classified;
+  document.getElementById('statRemaining').textContent = questions.length - classified - skipped;
+  document.getElementById('statSkipped').textContent = skipped;
+  document.getElementById('progressFill').style.width = ((classified / questions.length) * 100).toFixed(1) + '%';
+  
+  // Auto-save progress to localStorage
+  try { localStorage.setItem('pyq_review_progress', JSON.stringify(decisions)); } catch(e) {}
+}
+
+// ─── Export ───
+document.getElementById('btnExport').addEventListener('click', () => {
+  const classified = Object.values(decisions).filter(d => d.status === 'classified');
+  if (classified.length === 0) { alert('No classifications to export yet.'); return; }
+  
+  const exportData = {
+    exported_at: new Date().toISOString(),
+    total_classified: classified.length,
+    classifications: classified
+  };
+  
+  const blob = new Blob([JSON.stringify(exportData, null, 2)], { type: 'application/json' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = `manual_classifications_${new Date().toISOString().slice(0,10)}.json`;
+  a.click();
+  URL.revokeObjectURL(url);
+});
+
+// ─── Import Progress ───
+document.getElementById('btnImportProgress').addEventListener('click', () => {
+  // Try localStorage first
+  try {
+    const saved = localStorage.getItem('pyq_review_progress');
+    if (saved) {
+      const parsed = JSON.parse(saved);
+      const count = Object.values(parsed).filter(d => d.status !== 'pending').length;
+      if (count > 0 && confirm(`Found ${count} saved decisions in browser. Load them?`)) {
+        Object.assign(decisions, parsed);
+        updateStats();
+        applyFilters();
+        return;
+      }
+    }
+  } catch(e) {}
+  document.getElementById('progressInput').click();
+});
+
+document.getElementById('progressInput').addEventListener('change', e => {
+  const file = e.target.files[0];
+  if (!file) return;
+  const reader = new FileReader();
+  reader.onload = ev => {
+    try {
+      const data = JSON.parse(ev.target.result);
+      const classifications = data.classifications || [];
+      for (const c of classifications) {
+        const key = `${c.subject}::${c.file}::${c.index}`;
+        decisions[key] = c;
+      }
+      updateStats();
+      applyFilters();
+      alert(`Imported ${classifications.length} classifications.`);
+    } catch (err) { alert('Error importing: ' + err.message); }
+  };
+  reader.readAsText(file);
+});
+
+// ─── Keyboard Shortcuts ───
+document.addEventListener('keydown', e => {
+  if (e.target.tagName === 'SELECT' || e.target.tagName === 'INPUT') return;
+  
+  const fIdx = filteredIndices.indexOf(activeIdx);
+  
+  if (e.key === 'ArrowDown' && fIdx < filteredIndices.length - 1) {
+    e.preventDefault();
+    selectQuestion(filteredIndices[fIdx + 1]);
+  } else if (e.key === 'ArrowUp' && fIdx > 0) {
+    e.preventDefault();
+    selectQuestion(filteredIndices[fIdx - 1]);
+  } else if (e.key === 'Enter') {
+    e.preventDefault();
+    classifyQuestion();
+  } else if (e.key.toLowerCase() === 's' && !e.ctrlKey) {
+    e.preventDefault();
+    skipQuestion();
+  } else if (e.key.toLowerCase() === 'u') {
+    e.preventDefault();
+    resetQuestion();
+  }
+});
+
+// ─── Utils ───
+function escHtml(s) {
+  if (!s) return '';
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+function escAttr(s) {
+  return escHtml(s).replace(/'/g,'&#39;');
+}
+</script>
+</body>
+</html>

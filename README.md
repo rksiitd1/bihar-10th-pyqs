@@ -118,6 +118,32 @@ Copy `.env.example` to `.env` in the root directory and fill in your keys:
 ## 📝 Status
 - ✅ Project Structure & Folder Schema Cleaned (6 Subjects)
 - ✅ Core Extraction Engine (Gemini 3.8/3.5/2.0 Flash) Complete (2011-2026)
-- ✅ High-Accuracy Jev Classification Complete (87.0% Overall Accuracy)
+- ✅ High-Accuracy Jev Classification Complete (93.3% Overall Classification Rate @ >= 0.50 confidence)
 - ✅ Full N×N Duplicate and Imposter Audit Completed
 - ✅ Final Organized Data Generation (`*_pro` folders) Complete (151 files, 11,662 questions)
+- ✅ Manual Review Web UI & Workflow (`manual_review.html` + `apply_manual_classifications.py`)
+
+---
+
+## 🖥️ Manual Review & Classification UI
+
+For classifying remaining edge cases or unclassified questions:
+
+1. **Export unclassified questions**:
+   ```bash
+   python export_for_review.py
+   ```
+   Generates `manual_review_data.json`.
+
+2. **Open the web UI**:
+   Open `manual_review.html` in any browser, and drag-and-drop `manual_review_data.json`.
+   - Supports keyboard shortcuts: `↑`/`↓` navigate, `Enter` classify, `S` skip, `U` unskip.
+   - Saves progress automatically to browser localStorage.
+   - Click **Export Classifications** to download your decisions JSON.
+
+3. **Apply your classifications**:
+   ```bash
+   python apply_manual_classifications.py manual_classifications_YYYY-MM-DD.json
+   ```
+   This automatically injects your manual decisions into `{subject}_data_jevified/` and rebuilds all `*_pro*` folders.
+

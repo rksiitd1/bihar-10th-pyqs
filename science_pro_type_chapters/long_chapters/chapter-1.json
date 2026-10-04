@@ -1,10 +1,32 @@
 {
+  "2011": [
+    {
+      "id": "long_1_1",
+      "type": "long_answer",
+      "chapter": "1",
+      "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.59,
+      "raw_choice": "1. Chemical Reactions and Equations (रासायनिक अभिक्रियाएं एवं समीकरण)",
+      "question": "Answer the following:",
+      "prashna": "निम्नलिखित का उत्तर दें:",
+      "sub_questions": {
+        "A": "Why do athletes often experience cramps in their bodies during heavy exercise?",
+        "B": "What reaction occurs in the body when adrenaline hormone is mixed into the blood?"
+      },
+      "anuprashna": {
+        "A": "अत्यधिक व्यायाम के दौरान खिलाड़ी के शरीर में क्रैंप होने लगता है। क्यों?",
+        "B": "जब एड्रिनलीन हार्मोन रुधिर में मिल जाता है, तो शरीर में क्या अनुक्रिया होती है?"
+      }
+    }
+  ],
   "2018": [
     {
       "id": "long_2_2",
       "type": "long_answer",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What are the following reactions?\n(i) Combination reaction\n(ii) Decomposition reaction\n(iii) Displacement reaction\n(iv) Double displacement reaction",
       "prashna": "निम्नलिखित अभिक्रियाएँ क्या है?\n(i) संयोजन अभिक्रिया\n(ii) वियोजन अभिक्रिया\n(iii) विस्थापन अभिक्रिया\n(iv) द्विविस्थापन अभिक्रिया",
       "sub_questions": {
@@ -19,6 +41,82 @@
         "iii": "विस्थापन अभिक्रिया",
         "iv": "द्विविस्थापन अभिक्रिया"
       }
+    },
+    {
+      "id": "long_1_1",
+      "type": "long_answer",
+      "chapter": "1",
+      "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.59,
+      "raw_choice": "1. Chemical Reactions and Equations (रासायनिक अभिक्रियाएं एवं समीकरण)",
+      "question": "Answer the following questions:",
+      "prashna": "निम्नलिखित प्रश्नों के उत्तर दें:",
+      "sub_questions": {
+        "A": "What is electric power?",
+        "B": "Derive $H = I^2Rt$, where $H$ is the amount of Heat produced by steady current ($I$) through a resistor ($R$) in time $t$.",
+        "C": "How much energy is given to each Coulomb of charge passing through a $6\text{V}$ battery?"
+      },
+      "anuprashna": {
+        "A": "विद्युत शक्ति क्या है?",
+        "B": "निगमन करें $H = I^2Rt$ जहाँ $H$, किसी प्रतिरोधक ($R$) में विद्युत धारा ($I$) द्वारा $t$ समय में उत्पन्न ऊष्मा की मात्रा है।",
+        "C": "$6\text{V}$ बैटरी से गुजरने वाले हर एक कूलॉम आवेश को कितनी ऊर्जा दी जाती है?"
+      }
+    },
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "chapter": "1",
+      "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.59,
+      "raw_choice": "1. Chemical Reactions and Equations (रासायनिक अभिक्रियाएं एवं समीकरण)",
+      "question": "Answer the following questions:",
+      "prashna": "निम्नलिखित प्रश्नों के उत्तर दें:",
+      "sub_questions": {
+        "A": "What do you mean by scattering of Light?",
+        "B": "What is Spectrum of Light?",
+        "C": "Explain the dispersion of White light passing through a Glass Prism."
+      },
+      "anuprashna": {
+        "A": "प्रकाश के प्रकीर्णन से आप क्या समझते है?",
+        "B": "प्रकाश वर्ण-पट क्या है?",
+        "C": "काँच के प्रिज्म से गुजरते हुए श्वेत प्रकाश के वर्ण-विक्षेपण की व्याख्या करें।"
+      }
+    },
+    {
+      "id": "long_2_1",
+      "type": "long_answer",
+      "chapter": "1",
+      "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.59,
+      "raw_choice": "1. Chemical Reactions and Equations (रासायनिक अभिक्रियाएं एवं समीकरण)",
+      "question": "Answer the following questions:",
+      "prashna": "निम्नलिखित प्रश्नों के उत्तर दें:",
+      "sub_questions": {
+        "A": "What is a homologous series? Explain with an example.",
+        "B": "Write three Chemical properties of Carbon compounds with suitable Chemical reactions."
+      },
+      "anuprashna": {
+        "A": "समजातीय श्रेणी क्या है? उदाहरण देकर समझाइए।",
+        "B": "कार्बन यौगिकों के तीन रासायनिक गुणधर्मों का उपयुक्त रासायनिक अभिक्रिया के साथ उल्लेख करें।"
+      }
+    },
+    {
+      "id": "long_2_2",
+      "type": "long_answer",
+      "chapter": "1",
+      "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.63,
+      "raw_choice": "1. Chemical Reactions and Equations (रासायनिक अभिक्रियाएं एवं समीकरण)",
+      "question": "Answer the following questions:",
+      "prashna": "निम्नलिखित प्रश्नों के उत्तर दें:",
+      "sub_questions": {
+        "A": "Differentiate between metal and non-metal on the basis of their chemical properties.",
+        "B": "Arrange the metals given in the order of their decreasing reactivity: (i) $Zn$ (ii) $Fe$ (iii) $Ca$ (iv) $Mg$ (v) $K$ (vi) $Na$"
+      },
+      "anuprashna": {
+        "A": "रासायनिक गुणधर्मों के आधार पर धातुओं एवं अधातुओं में विभेद कीजिए।",
+        "B": "दिये गये धातुओं की क्रियाशीलता को अवरोही क्रम में व्यवस्थित करें: (i) $Zn$ (ii) $Fe$ (iii) $Ca$ (iv) $Mg$ (v) $K$ (vi) $Na$"
+      }
     }
   ],
   "2019": [
@@ -27,6 +125,8 @@
       "type": "long_answer",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What are the following reactions?",
       "prashna": "निम्नलिखित अभिक्रियाएँ क्या हैं?",
       "sub_questions": {

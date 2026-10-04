@@ -19,7 +19,7 @@ def main():
     print("🌟 MASTER JEV CLASSIFICATION PIPELINE (TYPESAFE AI) 🌟")
     print("Subjects: Science, Mathematics, Social Science, English, Hindi, Sanskrit")
     print("Workers: 16 parallel workers per subject")
-    print("Threshold: 0.70 confidence (sub-0.70 marked UNCLASSIFIED)")
+    print("Threshold: 0.50 confidence (sub-0.50 marked UNCLASSIFIED)")
     print("="*70)
     print()
 
@@ -45,7 +45,7 @@ def main():
         # Max workers set to 16 for blazing fast throughput
         stats = jev_annotate_subject.annotate_subject(
             subject=subject,
-            conf_threshold=0.7,
+            conf_threshold=0.5,
             max_workers=16,
             overwrite=False
         )

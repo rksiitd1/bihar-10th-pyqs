@@ -4,6 +4,8 @@
         "type": "short_answer",
         "chapter": "14",
         "chapter_name": "Sources of Energy",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Write the names of two energy sources that you consider renewable.",
         "prashna": "ऐसे दो ऊर्जा स्रोतों के नाम लिखिए जिन्हें आप नवीकरणीय मानते हैं।"
     },
@@ -12,6 +14,8 @@
         "type": "short_answer",
         "chapter": "16",
         "chapter_name": "Our Environment",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is ozone and how does it affect any ecosystem?",
         "prashna": "ओजोन क्या है तथा यह किसी पारितंत्र को किस प्रकार प्रभावित करती है?"
     },
@@ -20,6 +24,8 @@
         "type": "short_answer",
         "chapter": "16",
         "chapter_name": "Our Environment",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What changes can you bring in your habits to become environment-friendly?",
         "prashna": "पर्यावरण-मित्र बनाने के लिए आप अपनी आदतों में कौन-से परिवर्तन ला सकते हैं?"
     },
@@ -28,6 +34,8 @@
         "type": "long_answer",
         "chapter": "13",
         "chapter_name": "Magnetic Effects of Electric Current",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Describe the working principle of an electric generator with a labeled diagram.",
         "prashna": "विद्युत जनित्र का सिद्धांत सहित कार्य विधि का सचित्र वर्णन करें।"
     },
@@ -36,6 +44,8 @@
         "type": "short_answer",
         "chapter": "10",
         "chapter_name": "Light – Reflection and Refraction",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is the meaning of the statement \"The refractive index of diamond is 2.42\"?",
         "prashna": "\"हीरे का अपवर्तनांक 2.42 है।\" इस कथन का क्या अभिप्राय है?"
     },
@@ -44,6 +54,8 @@
         "type": "long_answer",
         "chapter": "11",
         "chapter_name": "The Human Eye and the Colourful World",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Describe myopia (near-sightedness) with a clear diagram.",
         "prashna": "साफ चित्र द्वारा निकट दृष्टि दोष का वर्णन करें।"
     },
@@ -52,6 +64,8 @@
         "type": "long_answer",
         "chapter": "12",
         "chapter_name": "Electricity",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Find the equivalent resistance of two resistors connected in parallel.",
         "prashna": "समांनातर श्रेणी में संयोजित दो प्रतिरोधों का तुल्य प्रतिरोध ज्ञात करें।"
     },
@@ -60,6 +74,8 @@
         "type": "short_answer",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What criteria do we use to decide whether something is alive?",
         "prashna": "कोई वस्तु सजीव है, इसका निर्धारण करने के लिए हम किस मापदंड का उपयोग करेंगे?"
     },
@@ -68,6 +84,8 @@
         "type": "short_answer",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "How are oxygen and carbon dioxide transported in human beings?",
         "prashna": "मनुष्यों में ऑक्सीजन तथा कार्बन डाइऑक्साइड का परिवहन कैसे होता है?"
     },
@@ -76,6 +94,8 @@
         "type": "short_answer",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "From where do plants obtain each of the raw materials required for photosynthesis?",
         "prashna": "प्रकाश संश्लेषण के लिए आवश्यक कच्ची सामग्री पौधे कहाँ से प्राप्त करते हैं?"
     },
@@ -84,6 +104,8 @@
         "type": "long_answer",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Draw a clean and labeled diagram of a nephron.",
         "prashna": "नेफ्रॉन का नामांकित स्वच्छ चित्र बनाइए।"
     },
@@ -92,6 +114,8 @@
         "type": "long_answer",
         "chapter": "4",
         "chapter_name": "Carbon and its Compounds",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Write the structural formulas of the following organic compounds-",
         "prashna": "निम्नांकित कार्बनिक यौगिकों का संरचना सूत्र लिखिए-",
         "sub_questions": {
@@ -114,14 +138,18 @@
         "type": "short_answer",
         "chapter": "2",
         "chapter_name": "Acids, Bases and Salts",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Why does an aqueous solution of an acid conduct electricity?",
         "prashna": "अम्ल का जलीय विलयन क्यों विद्युत का चालन करता है?"
     },
     {
         "id": "short_9",
         "type": "short_answer",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "chapter": "3",
+        "chapter_name": "Metals and Non-metals",
+        "confidence": 0.68,
+        "raw_choice": "3. Metals and Non-metals (धातु एवं अधातु)",
         "question": "What happens when zinc is added to a solution of iron (II) sulphate? Write the chemical reaction that takes place.",
         "prashna": "जिंक को आयरन (II) सल्फेट के विलयन में डालने से क्या होता है? होनेवाली रासायनिक अभिक्रिया लिखिए।"
     },
@@ -130,6 +158,8 @@
         "type": "short_answer",
         "chapter": "4",
         "chapter_name": "Carbon and its Compounds",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is a homologous series? Write with examples.",
         "prashna": "समजातीय श्रेणी क्या है ? उदाहरण के साथ लिखें।"
     },
@@ -138,6 +168,8 @@
         "type": "objective",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Breakdown of pyruvate to give carbon dioxide, water and energy takes place in",
         "prashna": "पायरुवेट के विखंडन से कार्बन-डाइऑक्साइड, जल तथा ऊर्जा देता है और यह क्रिया होती है।",
         "options": {
@@ -158,6 +190,8 @@
         "type": "objective",
         "chapter": "10",
         "chapter_name": "Light – Reflection and Refraction",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which of the following materials cannot be used to make a lens?",
         "prashna": "निम्न में कौन-सा पदार्थ लेंस बनाने के लिए प्रयुक्त नहीं किया जा सकता है?",
         "options": {
@@ -178,6 +212,8 @@
         "type": "objective",
         "chapter": "10",
         "chapter_name": "Light – Reflection and Refraction",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Where should an object be placed in front of a convex lens to get a real image of the same size as the object?",
         "prashna": "किसी बिंब का वास्तविक प्रतिबिंब समान आकार का प्राप्त करने हेतु बिंब को उत्तल लेंस के सामने कहाँ रखें?",
         "options": {
@@ -198,6 +234,8 @@
         "type": "objective",
         "chapter": "11",
         "chapter_name": "The Human Eye and the Colourful World",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The least distance of distinct vision for a young adult with normal vision is about",
         "prashna": "सामान्य दृष्टि के वयस्क के लिए सुस्पष्ट दर्शन की अल्पतम दूरी लगभग होती है",
         "options": {
@@ -218,6 +256,8 @@
         "type": "objective",
         "chapter": "5",
         "chapter_name": "Periodic Classification of Elements",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The atomic number of iron is",
         "prashna": "लोहे की परमाणु संख्या है",
         "options": {
@@ -238,6 +278,8 @@
         "type": "objective",
         "chapter": "2",
         "chapter_name": "Acids, Bases and Salts",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "A solution turns red litmus blue, its pH is likely to be",
         "prashna": "कोई विलयन लाल लिटमस को नीला कर देता है। उसका pH होगा।",
         "options": {
@@ -258,6 +300,8 @@
         "type": "objective",
         "chapter": "5",
         "chapter_name": "Periodic Classification of Elements",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The number of groups in the modern periodic table is",
         "prashna": "आधुनिक आवर्त सारणी में वर्गों की संख्या होती है",
         "options": {
@@ -278,6 +322,8 @@
         "type": "objective",
         "chapter": "4",
         "chapter_name": "Carbon and its Compounds",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The functional group $-CHO$ is called",
         "prashna": "–CHO अभिक्रिया मूलक को कहते हैं",
         "options": {
@@ -298,6 +344,8 @@
         "type": "objective",
         "chapter": "12",
         "chapter_name": "Electricity",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which of the following terms does not represent electrical power in a circuit?",
         "prashna": "निम्नलिखित में से कौन-सा पद विद्युत परिपथ में विद्युत शक्ति को निरूपित नहीं करता है?",
         "options": {
@@ -318,6 +366,8 @@
         "type": "objective",
         "chapter": "13",
         "chapter_name": "Magnetic Effects of Electric Current",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The device used for producing electric current is called a",
         "prashna": "विद्युत धारा उत्पन्न करने की युक्ति को कहते हैं",
         "options": {
@@ -338,6 +388,8 @@
         "type": "objective",
         "chapter": "13",
         "chapter_name": "Magnetic Effects of Electric Current",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "At the time of short circuit, the current in the circuit",
         "prashna": "लघुपथन के समय परिपथ में विद्युत धारा का मान",
         "options": {
@@ -358,6 +410,8 @@
         "type": "objective",
         "chapter": "14",
         "chapter_name": "Sources of Energy",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which of the following is not an example of a bio-mass energy source?",
         "prashna": "निम्नलिखित में से कौन जैव मात्रा ऊर्जा स्रोत का उदाहरण नहीं है?",
         "options": {
@@ -378,6 +432,8 @@
         "type": "objective",
         "chapter": "3",
         "chapter_name": "Metals and Non-metals",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "An element reacts with oxygen to give a compound with a high melting point. This compound is also soluble in water. The element is likely to be",
         "prashna": "कोई तत्त्व ऑक्सीजन के साथ अभिक्रिया कर उच्च गलनांक वाला यौगिक निर्मित करती है। यह यौगिक जल में विलेय है। यह तत्त्व हो सकता है।",
         "options": {
@@ -398,6 +454,8 @@
         "type": "objective",
         "chapter": "4",
         "chapter_name": "Carbon and its Compounds",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Ethane, with the molecular formula $C_2H_6$ has",
         "prashna": "एथेन का आण्विक सूत्र $C_2H_6$ है। इसमें",
         "options": {
@@ -416,8 +474,10 @@
     {
         "id": "obj_15",
         "type": "objective",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "chapter": "16",
+        "chapter_name": "Our Environment",
+        "confidence": 0.68,
+        "raw_choice": "16. Our Environment (हमारा पर्यावरण)",
         "question": "The number of oxygen atoms in a molecule of ozone is",
         "prashna": "ओजोन के अणु में ऑक्सीजन के परमाणु की संख्या होती है।",
         "options": {
@@ -438,6 +498,8 @@
         "type": "objective",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "In humans, the kidney is a part of a system which is related to",
         "prashna": "मनुष्य में वृक्क एक तंत्र का भाग है, जो संबंधित है",
         "options": {
@@ -458,6 +520,8 @@
         "type": "objective",
         "chapter": "7",
         "chapter_name": "Control and Coordination",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The gap between two neurons is called a",
         "prashna": "दो तंत्रिका कोशिका के मध्य खाली स्थान को कहते हैं",
         "options": {
@@ -478,6 +542,8 @@
         "type": "objective",
         "chapter": "8",
         "chapter_name": "How do Organisms Reproduce?",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The anther contains",
         "prashna": "परागकोश में होते हैं",
         "options": {
@@ -498,6 +564,8 @@
         "type": "objective",
         "chapter": "9",
         "chapter_name": "Heredity and Evolution",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "In evolutionary terms, with whom do we have more commonalities?",
         "prashna": "विकासीय दृष्टिकोण से हमारी किससे अधिक समानता है?",
         "options": {
@@ -518,6 +586,8 @@
         "type": "objective",
         "chapter": "8",
         "chapter_name": "How do Organisms Reproduce?",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Asexual reproduction takes place through budding in",
         "prashna": "मुकुलन द्वारा अलैंगिक जनन होता है",
         "options": {

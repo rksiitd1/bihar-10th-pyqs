@@ -5,6 +5,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "If the diameter of a semicircle is 14 cm, then its circumference will be",
       "prashna": "यदि अर्द्धवृत्त का व्यास 14 सेमी है, तो अर्द्धवृत्त की परिधि होगी",
       "options": {
@@ -25,6 +27,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "If the ratio of circumferences of two circles is $2:3$, then the ratio of their radii will be",
       "prashna": "दो वृत्तों की परिधियाँ $2:3$ के अनुपात में हैं। उनकी त्रिज्याओं का अनुपात होगा",
       "options": {
@@ -47,6 +51,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "If the ratio of areas of two circles is $4 : 9$, then the ratio of their radii will be",
       "prashna": "दो वृत्तों के क्षेत्रफल $4 : 9$ के अनुपात में हैं। इनकी त्रिज्याओं का अनुपात होगा",
       "options": {
@@ -67,6 +73,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Area of sector of angle $\theta$ will be",
       "prashna": "कोण $\theta$ वाले त्रिज्यखण्ड का क्षेत्रफल होगा",
       "options": {
@@ -105,12 +113,60 @@
       }
     }
   ],
+  "2018": [
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Areas Related to Circles",
+      "confidence": 0.62,
+      "raw_choice": "12. Areas Related to Circles (वृत्तों से संबंधित क्षेत्रफल)",
+      "question": "At 4:24 pm, how many degrees has the hour hand of a clock moved from its position at noon?",
+      "prashna": "ठीक 4:24 अपराह्न पर घंटे की सुई दोपहर के बाद कितने डिग्री घूम जा चुकी होगी -",
+      "options": {
+        "A": "$135^\\circ$",
+        "B": "$134^\\circ$",
+        "C": "$133^\\circ$",
+        "D": "$132^\\circ$"
+      },
+      "vikalpa": {
+        "A": "$135^\\circ$",
+        "B": "$134^\\circ$",
+        "C": "$133^\\circ$",
+        "D": "$132^\\circ$"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Areas Related to Circles",
+      "confidence": 0.67,
+      "raw_choice": "12. Areas Related to Circles (वृत्तों से संबंधित क्षेत्रफल)",
+      "question": "At 4:24 pm, how many degrees has the hour hand of a clock moved from its position at noon?",
+      "prashna": "ठीक 4:24 अपराह्न पर घंटे की सुई दोपहर के बाद कितने डिग्री घूम जा चुकी होगी-",
+      "options": {
+        "A": "$135^\\circ$",
+        "B": "$134^\\circ$",
+        "C": "$133^\\circ$",
+        "D": "$132^\\circ$"
+      },
+      "vikalpa": {
+        "A": "$135^\\circ$",
+        "B": "$134^\\circ$",
+        "C": "$133^\\circ$",
+        "D": "$132^\\circ$"
+      }
+    }
+  ],
   "2019": [
     {
       "id": "obj_30",
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The radius of a circle with area $38.5\\ cm^2$ is -",
       "prashna": "38.5 सेमी$^2$ क्षेत्रफल वाले वृत्त की त्रिज्या है -",
       "options": {
@@ -131,6 +187,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The radius of a circle with area $38.5 \text{ cm}^2$ is -",
       "prashna": "$38.5 \text{ सेमी}^2$ क्षेत्रफल वाले वृत्त की त्रिज्या है -",
       "options": {
@@ -153,6 +211,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The diameter of a circle with area $64\\pi \text{ cm}^2$ is",
       "prashna": "$64\\pi \text{ cm}^2$ क्षेत्रफल वाले वृत्त का व्यास है",
       "options": {
@@ -173,6 +233,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "If the circumference of a circle is increased from $2\\pi$ to $4\\pi$, its area will be",
       "prashna": "यदि एक वृत्त की परिधि $2\\pi$ से बढ़ाकर $4\\pi$ कर दी जाए, तो उसका क्षेत्रफल होगा",
       "options": {
@@ -193,6 +255,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The minute needle of a watch is $21 \text{ cm}$ long. The area covered by it in $10$ minutes is",
       "prashna": "एक घड़ी की मिनट की सुई $21 \text{ cm}$ लंबी है। इसके द्वारा $10$ मिनट में रचित क्षेत्रफल है",
       "options": {
@@ -213,6 +277,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The area of the inner square of a circle of radius $8 \text{ cm}$ is",
       "prashna": "$8 \text{ cm}$ त्रिज्या वाले वृत्त के अंत:वर्ग का क्षेत्रफल है",
       "options": {
@@ -235,6 +301,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is the circumference of the circle whose diameter is 28 cm ?",
       "prashna": "28 cm व्यास वाले वृत्त की परिधि क्या होगी ?",
       "options": {
@@ -255,6 +323,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The area of a sector of an angle $\theta^\\circ$ in the circle with radius $R$ is",
       "prashna": "$R$ त्रिज्या वाले वृत्त में $\theta^\\circ$ के त्रिज्यखंड का क्षेत्रफल होगा",
       "options": {
@@ -275,6 +345,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The areas of two circles are in the ratio $9 : 4$. The ratio of their circumferences is",
       "prashna": "दो वृत्तों के क्षेत्रफलों का अनुपात $9 : 4$ है, उनकी परिधियों का अनुपात होगा",
       "options": {
@@ -295,6 +367,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The radius of a circle is 6 cm and centre is at O. A sector AOB is such that $\\angle AOB = 30^\\circ$, then length of minor arc AB is",
       "prashna": "एक वृत्त की त्रिज्या 6 cm है तथा केंद्र O है। एक त्रिज्य-खण्ड AOB इस प्रकार है कि $\\angle AOB = 30^\\circ$, तो लघु चाप AB की लंबाई है",
       "options": {
@@ -315,6 +389,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is the area of a semi-circular field whose diameter is 24 cm ?",
       "prashna": "एक अर्द्धवृत्ताकार खेत का क्षेत्रफल क्या होगा यदि व्यास 24 cm हो ?",
       "options": {
@@ -335,6 +411,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The angle formed by the minute hand of a clock in $60$ minutes is",
       "prashna": "एक घड़ी के मिनट वाली सुई द्वारा $60$ मिनट में बनाया गया कोण होता है",
       "options": {
@@ -355,6 +433,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "If the angle of a sector is $p^\\circ$ and the radius of the circle is $r$, then the area of the sector will be",
       "prashna": "यदि कोण $p^\\circ$, त्रिज्या $r$ वाले वृत्त के त्रिज्यखंड का कोण हो, तो त्रिज्यखंड का क्षेत्रफल होगा",
       "options": {
@@ -375,6 +455,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "If '$d$' is the diameter of a circle, then its area will be",
       "prashna": "यदि '$d$' एक वृत्त का व्यास हो, तो उसका क्षेत्रफल होगा",
       "options": {
@@ -395,6 +477,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "If the circumference of a circle is $132$ cm, then its radius is",
       "prashna": "यदि एक वृत्त की परिधि $132$ सेमी है, तो इसकी त्रिज्या है",
       "options": {
@@ -415,6 +499,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "If the ratio of the circumferences of two circles is $3 : 4$, then the ratio of their areas is",
       "prashna": "दो वृत्तों के परिधियों का अनुपात $3 : 4$ है, तो उनके क्षेत्रफलों का अनुपात है",
       "options": {
@@ -435,6 +521,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "If the area of a circle is $154$ cm$^2$, then its circumference is",
       "prashna": "यदि एक वृत्त का क्षेत्रफल $154$ सेमी$^2$ है, तो इसकी परिधि है",
       "options": {
@@ -457,6 +545,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Total perimeter of a semicircle of radius $12 \text{ cm}$ is",
       "prashna": "$12 \text{ सेमी}$ त्रिज्या वाले अर्धवृत्त की कुल परिमिति होगी",
       "options": {
@@ -477,6 +567,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The external and internal radii of a circular ring are $R$ and $r$ respectively; then the area of the ring is",
       "prashna": "एक वृत्ताकार वलय की बाहरी एवं भीतरी त्रिज्याएँ क्रम से $R$ एवं $r$ हैं तो वलय का क्षेत्रफल होगा",
       "options": {
@@ -497,6 +589,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The areas of two circles are in the ratio $9:4$. The ratio of their circumferences is",
       "prashna": "दो वृत्त के क्षेत्रफलों का अनुपात $9:4$ है तो उनकी परिधियों का अनुपात होगा",
       "options": {
@@ -517,6 +611,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "In making 1000 revolutions, a wheel covers $88 \text{ km}$. The diameter of the wheel is",
       "prashna": "1000 चक्कर लगाने में एक पहिया $88$ किमी तय करता है। पहिए का व्यास है",
       "options": {
@@ -539,6 +635,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "If the radius of a wheel is $\frac{35}, {44}$ metre then the distance covered in 2 revolutions is",
       "prashna": "यदि किसी पहिए की त्रिज्या $\frac{35}, {44}$ मीटर हो तो 2 चक्कर में तय की गई दूरी है",
       "options": {
@@ -559,6 +657,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "If $O$ is the centre and $r$ is the radius of a circle and $\\angle AOB = \theta$, then the length of arc $AB$ is equal to",
       "prashna": "यदि केन्द्र $O$ और त्रिज्या $r$ वाले वृत्त में $\\angle AOB = \theta$, तो चाप $AB$ की लंबाई बराबर है",
       "options": {
@@ -579,6 +679,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "If the area of minor sector of a circle with radius 7 cm is 14 square cm, then the area of major sector is",
       "prashna": "यदि 7 सेमी त्रिज्या वाले वृत्त के लघु वृत्तखंड का क्षेत्रफल 14 वर्ग सेमी हो, तो दीर्घ वृत्तखंड का क्षेत्रफल होगा",
       "options": {
@@ -599,6 +701,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The area of a circle is $154 \text{ cm}^2$. Then its diameter is",
       "prashna": "एक वृत्त का क्षेत्रफल $154 \text{ cm}^2$ है, तो इसका व्यास है",
       "options": {
@@ -619,6 +723,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The perimeter of a semicircle whose radius is $3r$ is",
       "prashna": "एक अद्थधवत्त जिसकी त्रिज्या $3r$ है, उसकी परिमिति होगी।",
       "options": {
@@ -639,6 +745,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The area of a circle of diameter 42 cm is",
       "prashna": "42 सेमी व्यास वाले वृत्त का क्षेत्रफल है",
       "options": {
@@ -659,6 +767,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The ratio of the radii of two circles is $4 : 3$. Then the ratio of their areas will be",
       "prashna": "दो वृत्तों की त्रिज्याओं का अनुपात $4 : 3$ है, तो उनके क्षेत्रफलों का अनुपात होगा",
       "options": {
@@ -679,6 +789,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "If the area and perimeter of a circle are numerically equal, then the diameter of the circle is",
       "prashna": "यदि एक वृत्त का क्षेत्रफल तथा परिधि संख्यात्मक रूप में बराबर है, तो वृत्त का व्यास है",
       "options": {
@@ -699,6 +811,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The length of the arc corresponding to the sector having radius $r$ and angle $\theta$ is",
       "prashna": "$r$ त्रिज्या तथा कोण $\theta$ वाले त्रिज्यखण्ड के संगत चाप की लंबाई है",
       "options": {
@@ -719,6 +833,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "If the radius of a circle is $14\text{ cm}$, then the area of the circle is",
       "prashna": "यदि किसी वृत्त की त्रिज्या $14\text{ सेमी}$ हो, तो वृत्त का क्षेत्रफल होगा",
       "options": {
@@ -739,6 +855,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "If the radius of a circle is $14\text{ cm}$, then the circumference of the circle is",
       "prashna": "यदि किसी वृत्त की त्रिज्या $14\text{ सेमी}$ हो, तो वृत्त की परिधि होगी",
       "options": {
@@ -759,6 +877,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The sum of the circumference and radius of a circle is 51 cm. Then the radius of the circle is",
       "prashna": "एक वृत्त की परिधि तथा त्रिज्या का योग 51 सेमी है, तो वृत्त की त्रिज्या होगी",
       "options": {
@@ -779,6 +899,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "If the area of a circle is equal to the sum of the areas of circles of radii $3\text{ cm}$ and $4\text{ cm}$ respectively, then the radius of that circle is",
       "prashna": "यदि एक वृत्त का क्षेत्रफल क्रमशः $3\text{ सेमी}$ और $4\text{ सेमी}$ त्रिज्याओं वाले वृत्तों के क्षेत्रफलों के योग के बराबर है तो उस वृत्त की त्रिज्या है",
       "options": {
@@ -801,6 +923,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The ratio of the areas of two circles is $x^2 : y^2$. Then the ratio of their radii is",
       "prashna": "दो वृत्तों के क्षेत्रफलों का अनुपात $x^2 : y^2$ है तो उनकी त्रिज्याओं का अनुपात होगा",
       "options": {
@@ -821,6 +945,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The area of a circle is $49\\pi$ square cm. Then its diameter is",
       "prashna": "किसी वृत्त का क्षेत्रफल $49\\pi$ वर्ग सेमी है तो उसका व्यास होगा",
       "options": {
@@ -841,6 +967,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The distance covered by a wheel of radius 14 cm in 5 revolutions is",
       "prashna": "5 चक्करों में 14 सेमी त्रिज्या के पहिया के द्वारा तय की गई दूरी है",
       "options": {
@@ -861,6 +989,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "If the area of a circle is equal to the area of a square then the ratio of their perimeters is",
       "prashna": "एक वृत्त का क्षेत्रफल एवं एक वर्ग का क्षेत्रफल बराबर है तो उनकी परिमितियों का अनुपात होगा",
       "options": {
@@ -881,6 +1011,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "If the radius of a circle becomes $k$ times then the ratio of the areas of previous and new circles is",
       "prashna": "यदि किसी वृत्त की त्रिज्या $k$ गुनी हो जाए तो पुराने एवं नए वृत्तों के क्षेत्रफलों का अनुपात होगा",
       "options": {
@@ -901,6 +1033,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is the total perimeter of a semicircle whose radius is $k$ ?",
       "prashna": "$k$ त्रिज्या वाले अर्धवृत्त की कुल परिमिति क्या होगी ?",
       "options": {
@@ -921,6 +1055,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The distance covered by a wheel of diameter 42 cm in 2 revolutions is",
       "prashna": "2 चक्करों में 42 सेमी व्यास के पहिया के द्वारा तय की गई दूरी है",
       "options": {
@@ -937,10 +1073,34 @@
       }
     },
     {
+      "id": "obj_40",
+      "type": "objective",
+      "chapter": "12",
+      "chapter_name": "Areas Related to Circles",
+      "confidence": 0.64,
+      "raw_choice": "12. Areas Related to Circles (वृत्तों से संबंधित क्षेत्रफल)",
+      "question": "A, B, C and D are four points on the circumference of a circle of radius 8 cm such that ABCD is a square. Then the area of square ABCD is",
+      "prashna": "एक वृत्त जिसकी त्रिज्या 8 सेमी है उसकी परिधि पर A, B, C एवं D चार बिन्दु ऐसे हैं कि ABCD एक वर्ग है तो वर्ग ABCD का क्षेत्रफल होगा",
+      "options": {
+        "A": "64 cm^2",
+        "B": "100 cm^2",
+        "C": "125 cm^2",
+        "D": "128 cm^2"
+      },
+      "vikalpa": {
+        "A": "64 सेमी^2",
+        "B": "100 सेमी^2",
+        "C": "125 सेमी^2",
+        "D": "128 सेमी^2"
+      }
+    },
+    {
       "id": "obj_96",
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "If O is the centre and R is the radius of a circle and $\\angle AOB = \theta$ then the length of arc AB is",
       "prashna": "यदि केन्द्र O और त्रिज्या R वाले वृत्त में $\\angle AOB = \theta$ तो चाप AB की लम्बाई होगी",
       "options": {
@@ -963,6 +1123,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The ratio of the radii of two circles is $3 : 4$; then the ratio of their areas is",
       "prashna": "दो वृत्तों की त्रिज्याओं का अनुपात $3 : 4$ है तो उनके क्षेत्रफलों का अनुपात है",
       "options": {
@@ -983,6 +1145,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The area of the sector of a circle of radius $42$ cm and central angle $30^\\circ$ is",
       "prashna": "$42$ सेमी त्रिज्या वाले वृत्त के उस त्रिज्यखंड जिसका केन्द्रीय कोण $30^\\circ$ है, का क्षेत्रफल है",
       "options": {
@@ -1003,6 +1167,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The ratio of the circumferences of two circles is $5 : 7$; then the ratio of their radii is",
       "prashna": "दो वृत्तों की परिधियों का अनुपात $5 : 7$ है तो उनकी त्रिज्याओं का अनुपात है",
       "options": {
@@ -1085,6 +1251,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "If the ratio of circumferences of two circles is 3 : 4 then the ratio of their areas is",
       "prashna": "यदि दो वृत्तों की परिधियों का अनुपात 3 : 4 है तो उनके क्षेत्रफलों का अनुपात है",
       "options": {
@@ -1105,6 +1273,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The value of central angle of a sector is 60^{\\circ} and radius is 21 cm. Then the length of the arc is",
       "prashna": "एक त्रिज्यखण्ड के केन्द्रीय कोण का मान 60^{\\circ} है तथा त्रिज्या 21 सेमी हो तो चाप की लम्बाई है",
       "options": {
@@ -1125,6 +1295,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Perimeter of semicircle is",
       "prashna": "अर्द्धवृत्त की परिमिति है",
       "options": {
@@ -1145,6 +1317,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Circumference of the circle having diameter 28 cm is",
       "prashna": "28 सेमी व्यास वाले वृत्त की परिधि है",
       "options": {
@@ -1165,6 +1339,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The perimeter of a sector of a circle of radius 14 cm is 50 cm ; then central angle of the sector is",
       "prashna": "14 सेमी त्रिज्या वाले वृत्त के त्रिज्यखण्ड की परिमिति 50 सेमी है तो त्रिज्यखण्ड का केन्द्रीय कोण है",
       "options": {
@@ -1185,6 +1361,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "A wire is looped in the form of a circle of radius 28 cm. It is rebent into a square form, then the length of its side is",
       "prashna": "एक तार 28 सेमी त्रिज्या वाले वृत्त के रूप में मुड़ी हुई है। इसे पुनः वर्गाकार तार के रूप में मोड़ने पर इसकी भुजा की लम्बाई है",
       "options": {
@@ -1205,6 +1383,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The area of a circle is the same as the area of a square. Then the ratio of their perimeters is",
       "prashna": "यदि वृत्त का क्षेत्रफल वर्ग के क्षेत्रफल के बराबर हो तो उनकी परिमिति का अनुपात है",
       "options": {
@@ -1225,6 +1405,8 @@
       "type": "objective",
       "chapter": "12",
       "chapter_name": "Areas Related to Circles",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "If the circumference of a circle increases from 2\\pi to 4\\pi then its new area is",
       "prashna": "यदि किसी वृत्त की परिधि 2\\pi से बढ़कर 4\\pi हो जाती है तो इसका नया क्षेत्रफल है",
       "options": {

@@ -6,6 +6,8 @@
       "section": "Geography",
       "chapter": "7",
       "chapter_name": "Natural Disaster: An Introduction",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is not a man-made disaster?",
       "prashna": "निम्न में से कौन मानव जनित आपदा नहीं है?",
       "options": {
@@ -29,6 +31,8 @@
       "section": "Geography",
       "chapter": "7",
       "chapter_name": "Natural Disaster: An Introduction",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What do you understand by disaster?",
       "prashna": "आपदा से आप क्या समझते हैं?"
     }
@@ -40,6 +44,8 @@
       "section": "Geography",
       "chapter": "7",
       "chapter_name": "Natural Disaster: An Introduction",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is not a natural disaster?",
       "prashna": "निम्न में से कौन प्राकृतिक आपदा नहीं है ?",
       "options": {
@@ -63,6 +69,8 @@
       "section": "Geography",
       "chapter": "7",
       "chapter_name": "Natural Disaster: An Introduction",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which one is a natural disaster?",
       "prashna": "निम्नांकित में कौन प्राकृतिक आपदा है?",
       "options": {
@@ -79,11 +87,26 @@
       }
     },
     {
+      "id": "short_13",
+      "type": "short_answer",
+      "section": "Geography",
+      "chapter": "7",
+      "chapter_name": "Natural Disaster: An Introduction",
+      "confidence": 0.62,
+      "raw_choice": "Geography - 7. Natural Disaster: An Introduction (प्राकृतिक आपदा: एक परिचय)",
+      "question": "Describe the objectives of disaster management.",
+      "prashna": "आपदा प्रबंधन के उद्देश्यों की विवेचना करें।",
+      "options": null,
+      "vikalpa": null
+    },
+    {
       "id": "obj_9",
       "type": "objective",
       "section": "Geography",
       "chapter": "7",
       "chapter_name": "Natural Disaster: An Introduction",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is a natural disaster?",
       "prashna": "निम्नलिखित में कौन प्राकृतिक आपदा है?",
       "options": {
@@ -98,6 +121,17 @@
         "C": "भूकम्प",
         "D": "रासायनिक दुर्घटना"
       }
+    },
+    {
+      "id": "short_12",
+      "type": "short_answer",
+      "section": "Geography",
+      "chapter": "7",
+      "chapter_name": "Natural Disaster: An Introduction",
+      "confidence": 0.62,
+      "raw_choice": "Geography - 7. Natural Disaster: An Introduction (प्राकृतिक आपदा: एक परिचय)",
+      "question": "Discuss the objectives of disaster management.",
+      "prashna": "आपदा प्रबंधन के उद्देश्यों की विवेचना करें।"
     }
   ],
   "2016": [
@@ -107,6 +141,8 @@
       "section": "Geography",
       "chapter": "7",
       "chapter_name": "Natural Disaster: An Introduction",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Describe the different types of disasters.",
       "prashna": "आपदा के विभिन्न प्रकारों का वर्णन करें।"
     }
@@ -118,6 +154,8 @@
       "section": "Geography",
       "chapter": "7",
       "chapter_name": "Natural Disaster: An Introduction",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which among the following is not a natural disaster?",
       "prashna": "इनमें से कौन प्राकृतिक आपदा नहीं है?",
       "options": {
@@ -139,6 +177,8 @@
       "section": "Geography",
       "chapter": "7",
       "chapter_name": "Natural Disaster: An Introduction",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of these is not a natural disaster?",
       "prashna": "इनमें से कौन प्राकृतिक आपदा नहीं है?",
       "options": {
@@ -153,6 +193,29 @@
         "C": "भूकंप",
         "D": "आतंकवाद"
       }
+    },
+    {
+      "id": "obj_10",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "7",
+      "chapter_name": "Natural Disaster: An Introduction",
+      "confidence": 0.58,
+      "raw_choice": "Geography - 7. Natural Disaster: An Introduction (प्राकृतिक आपदा: एक परिचय)",
+      "question": "What type of disaster is drought?",
+      "prashna": "सूखा किस प्रकार की आपदा है?",
+      "options": {
+        "A": "Natural disaster",
+        "B": "Man-made disaster",
+        "C": "General disaster",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "प्राकृतिक आपदा",
+        "B": "मानव जनित आपदा",
+        "C": "सामान्य आपदा",
+        "D": "इनमें से कोई नहीं"
+      }
     }
   ],
   "2018": [
@@ -162,6 +225,8 @@
       "section": "Geography",
       "chapter": "7",
       "chapter_name": "Natural Disaster: An Introduction",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Why is disaster management necessary?",
       "prashna": "आपदा प्रबंधन की आवश्यकता क्यों है ?"
     }
@@ -173,6 +238,8 @@
       "section": "Geography",
       "chapter": "7",
       "chapter_name": "Natural Disaster: An Introduction",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is Landslide?",
       "prashna": "भू-स्खलन क्या है?"
     },
@@ -182,6 +249,8 @@
       "section": "Geography",
       "chapter": "7",
       "chapter_name": "Natural Disaster: An Introduction",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of these is not a natural disaster?",
       "prashna": "इनमें से कौन सी प्राकृतिक आपदा नहीं है?",
       "options": {
@@ -203,6 +272,8 @@
       "section": "Geography",
       "chapter": "7",
       "chapter_name": "Natural Disaster: An Introduction",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What do you mean by Disaster?",
       "prashna": "आपदा से आप क्या समझते हैं?"
     }
@@ -214,6 +285,8 @@
       "section": "Geography",
       "chapter": "7",
       "chapter_name": "Natural Disaster: An Introduction",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Landslide is",
       "prashna": "भूस्खलन है",
       "options": {
@@ -235,6 +308,8 @@
       "section": "Geography",
       "chapter": "7",
       "chapter_name": "Natural Disaster: An Introduction",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "How many types of disaster are there ?",
       "prashna": "आपदाएँ कितने प्रकार की होती हैं ?"
     },
@@ -244,6 +319,8 @@
       "section": "Geography",
       "chapter": "7",
       "chapter_name": "Natural Disaster: An Introduction",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is not a man-made disaster?",
       "prashna": "निम्नलिखित में कौन मानव-जनित आपदा नहीं है?",
       "options": {
@@ -258,6 +335,17 @@
         "C": "सुनामी",
         "D": "सांप्रदायिक दंगा"
       }
+    },
+    {
+      "id": "short_28",
+      "type": "short_answer",
+      "section": "Geography",
+      "chapter": "7",
+      "chapter_name": "Natural Disaster: An Introduction",
+      "confidence": 0.59,
+      "raw_choice": "Geography - 7. Natural Disaster: An Introduction (प्राकृतिक आपदा: एक परिचय)",
+      "question": "Mention any two measures for protection from landslide",
+      "prashna": "भू-स्खलन से बचाव के किन्हीं दो उपायों का उल्लेख करें।"
     }
   ],
   "2021": [
@@ -267,6 +355,8 @@
       "section": "Geography",
       "chapter": "7",
       "chapter_name": "Natural Disaster: An Introduction",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Bhopal gas disaster was a",
       "prashna": "भोपाल गैस आपदा थी",
       "options": {
@@ -288,6 +378,8 @@
       "section": "Geography",
       "chapter": "7",
       "chapter_name": "Natural Disaster: An Introduction",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is a natural disaster?",
       "prashna": "निम्न में से कौन प्राकृतिक आपदा है ?",
       "options": {
@@ -309,6 +401,8 @@
       "section": "Geography",
       "chapter": "7",
       "chapter_name": "Natural Disaster: An Introduction",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The most landslide prone state is",
       "prashna": "सर्वाधिक भूस्खलन प्रवण राज्य है",
       "options": {
@@ -330,6 +424,8 @@
       "section": "Geography",
       "chapter": "7",
       "chapter_name": "Natural Disaster: An Introduction",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is a natural disaster?",
       "prashna": "निम्नलिखित में कौन प्राकृतिक आपदा है ?",
       "options": {
@@ -351,6 +447,8 @@
       "section": "Geography",
       "chapter": "7",
       "chapter_name": "Natural Disaster: An Introduction",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Discuss different types of natural disasters.",
       "prashna": "प्राकृतिक आपदा के विभिन्न प्रकारों की विवेचना कीजिए।"
     }
@@ -362,6 +460,8 @@
       "section": "Geography",
       "chapter": "7",
       "chapter_name": "Natural Disaster: An Introduction",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Why is Disaster Management needed?",
       "prashna": "आपदा प्रबंधन की आवश्यकता क्यों है?"
     },
@@ -371,6 +471,8 @@
       "section": "Geography",
       "chapter": "7",
       "chapter_name": "Natural Disaster: An Introduction",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Why is disaster management necessary?",
       "prashna": "आपदा प्रबंधन की आवश्यकता क्यों है ?"
     }
@@ -382,6 +484,8 @@
       "section": "Geography",
       "chapter": "7",
       "chapter_name": "Natural Disaster: An Introduction",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is not a natural disaster?",
       "prashna": "निम्न में से कौन प्राकृतिक आपदा नहीं है ?",
       "options": {
@@ -403,6 +507,8 @@
       "section": "Geography",
       "chapter": "7",
       "chapter_name": "Natural Disaster: An Introduction",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is the difference between natural disaster and manmade disaster?",
       "prashna": "प्राकृतिक आपदा और मानव जनित आपदा में क्या अन्तर है ?"
     }
@@ -414,6 +520,8 @@
       "section": "Geography",
       "chapter": "7",
       "chapter_name": "Natural Disaster: An Introduction",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following states is most affected by cyclonic storms ?",
       "prashna": "निम्नलिखित में से कौन राज्य चक्रवातीय तूफान से सर्वाधिक प्रभावित है ?",
       "options": {
@@ -435,6 +543,8 @@
       "section": "Geography",
       "chapter": "7",
       "chapter_name": "Natural Disaster: An Introduction",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Why is disaster management needed ?",
       "prashna": "आपदा प्रबंधन की आवश्यकता क्यों है ?"
     }
@@ -446,6 +556,8 @@
       "section": "Geography",
       "chapter": "7",
       "chapter_name": "Natural Disaster: An Introduction",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which is the apex body for disaster management in India ?",
       "prashna": "भारत में आपदा प्रबंधन का सर्वोच्च निकाय कौन है ?",
       "options": {
@@ -468,6 +580,8 @@
       "section": "Geography",
       "chapter": "7",
       "chapter_name": "Natural Disaster: An Introduction",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which disaster comes gradually ?",
       "prashna": "कौन-सी आपदा धीरे-धीरे आती है ?",
       "options": {
@@ -490,6 +604,8 @@
       "section": "Geography",
       "chapter": "7",
       "chapter_name": "Natural Disaster: An Introduction",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Mention man-made disasters.",
       "prashna": "मानव निर्मित आपदाओं का उल्लेख कीजिए।",
       "instructions": "Question Nos. 29 to 32 are Short Answer Type. Answer any 2 questions. Each question carries 2 marks."
@@ -500,6 +616,8 @@
       "section": "Geography",
       "chapter": "7",
       "chapter_name": "Natural Disaster: An Introduction",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is a man-made disaster ?",
       "prashna": "निम्न में से कौन मानवजनित आपदा है ?",
       "options": {
@@ -513,6 +631,29 @@
         "B": "भू-स्खलन",
         "C": "महामारी",
         "D": "भूकंप"
+      }
+    },
+    {
+      "id": "obj_58",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "7",
+      "chapter_name": "Natural Disaster: An Introduction",
+      "confidence": 0.65,
+      "raw_choice": "Geography - 7. Natural Disaster: An Introduction (प्राकृतिक आपदा: एक परिचय)",
+      "question": "Who is the ex-officio Chairman of National Disaster Management Authority (NDMA) ?",
+      "prashna": "राष्ट्रीय आपदा प्रबंधन प्राधिकरण (NDMA) का पदेन अध्यक्ष कौन होता है ?",
+      "options": {
+        "A": "President",
+        "B": "Prime Minister",
+        "C": "Environment Minister",
+        "D": "Home Minister"
+      },
+      "vikalpa": {
+        "A": "राष्ट्रपति",
+        "B": "प्रधानमंत्री",
+        "C": "पर्यावरण मंत्री",
+        "D": "गृह मंत्री"
       }
     }
   ]

@@ -6,6 +6,8 @@
       "section": "Panorama_Reader",
       "chapter": "6",
       "chapter_name": "Two Horizons",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The letters are exchanged between a mother and ............",
       "prashna": "पत्रों का आदान-प्रदान एक माँ और ............ के बीच होता है।",
       "options": {
@@ -29,6 +31,8 @@
       "section": "Panorama_Reader",
       "chapter": "6",
       "chapter_name": "Two Horizons",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The only companion of the mother in the story 'Two Horizons', is -",
       "prashna": "'टू होराइजन्स' कहानी में माँ की एकमात्र साथी है -",
       "options": {
@@ -50,6 +54,8 @@
       "section": "Panorama_Reader",
       "chapter": "6",
       "chapter_name": "Two Horizons",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The only companion of the mother in the story 'Two Horizons', is -",
       "prashna": "'टू होराइजन्स' कहानी में माँ की एकमात्र साथी कौन है? -",
       "options": {
@@ -71,6 +77,8 @@
       "section": "Panorama_Reader",
       "chapter": "6",
       "chapter_name": "Two Horizons",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Describe the relation between the mother and the daughter in 'Two Horizons'.",
       "prashna": "'टू होराइजन्स' में माँ और बेटी के बीच के संबंध का वर्णन करें।"
     }
@@ -82,6 +90,8 @@
       "section": "Panorama_Reader",
       "chapter": "6",
       "chapter_name": "Two Horizons",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Binapani Mohanty is a well known ….....short story writer.",
       "prashna": "बीनापाणि मोहंती एक प्रसिद्ध ........... लघु कथा लेखिका हैं।",
       "options": {
@@ -103,6 +113,8 @@
       "section": "Panorama_Reader",
       "chapter": "6",
       "chapter_name": "Two Horizons",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The daughter in 'Two Horizons' does not wish to ... any more.",
       "prashna": "'टू होराइजन्स' कहानी में बेटी अब और नहीं चाहती है...",
       "options": {
@@ -124,6 +136,8 @@
       "section": "Panorama_Reader",
       "chapter": "6",
       "chapter_name": "Two Horizons",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The mother in 'Two Horizons' was …………………… to read the letter of her daughter.",
       "prashna": "'टू होराइजन्स' में माँ अपनी बेटी के पत्र को पढ़ने के लिए …………………… थी।",
       "options": {
@@ -147,6 +161,8 @@
       "section": "Panorama_Reader",
       "chapter": "6",
       "chapter_name": "Two Horizons",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "\"Two Horizons\" written by Binapati Mohanty has been translated into English by",
       "prashna": "बीनापाणि मोहंती द्वारा लिखित \"टू हॉराइजन्स\" का अंग्रेजी में अनुवाद ............ द्वारा किया गया है।",
       "options": {
@@ -168,6 +184,8 @@
       "section": "Panorama_Reader",
       "chapter": "6",
       "chapter_name": "Two Horizons",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Why does the daughter feel empty and aware all the time?",
       "prashna": "बेटी हर समय खालीपन और जागरूक क्यों महसूस करती है?"
     },
@@ -177,6 +195,8 @@
       "section": "Panorama_Reader",
       "chapter": "6",
       "chapter_name": "Two Horizons",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The mother in 'Two Horizons tells her daughter, 'Never try to come an......... child'.",
       "prashna": "'टू होराइजन्स' में माँ अपनी बेटी से कहती है, 'कभी भी एक ......... बच्चा बनने की कोशिश मत करना'!",
       "options": {
@@ -198,6 +218,8 @@
       "section": "Panorama_Reader",
       "chapter": "6",
       "chapter_name": "Two Horizons",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "(i) What did the mother do after receiving her daughter's letter?",
       "prashna": "(i) अपनी बेटी का पत्र पाकर माँ ने क्या किया?"
     }
@@ -209,6 +231,8 @@
       "section": "Panorama_Reader",
       "chapter": "6",
       "chapter_name": "Two Horizons",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The daughter in 'Two Horizons' tried to",
       "options": {
         "A": "buy jewellery",
@@ -223,6 +247,29 @@
         "C": "कपड़े सिलने",
         "D": "नए सपने बनाने"
       }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "section": "Panorama_Reader",
+      "chapter": "6",
+      "chapter_name": "Two Horizons",
+      "confidence": 0.58,
+      "raw_choice": "Panorama_Reader - 6. Two Horizons (दो क्षितिज)",
+      "question": "The mother was ... to read the letter from her daughter.",
+      "options": {
+        "A": "happy",
+        "B": "jealous",
+        "C": "tired",
+        "D": "disturbed"
+      },
+      "prashna": "माँ अपनी बेटी के पत्र को पढ़ने के लिए ... थी।",
+      "vikalpa": {
+        "A": "खुश",
+        "B": "ईर्ष्यालु",
+        "C": "थकी",
+        "D": "परेशान"
+      }
     }
   ],
   "2023": [
@@ -232,6 +279,8 @@
       "section": "Panorama_Reader",
       "chapter": "6",
       "chapter_name": "Two Horizons",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "In Two Horizons', letters were exchanged between…………….",
       "prashna": "'Two Horizons' में, किनके बीच पत्रों का आदान-प्रदान हुआ था?",
       "options": {
@@ -253,6 +302,8 @@
       "section": "Panorama_Reader",
       "chapter": "6",
       "chapter_name": "Two Horizons",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The daughter in Two Horizons' does not wish to………….any more.",
       "prashna": "'Two Horizons' की बेटी अब और .............. नहीं करना चाहती।",
       "options": {
@@ -276,17 +327,44 @@
       "section": "Panorama_Reader",
       "chapter": "6",
       "chapter_name": "Two Horizons",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Comment on the bond between the mother and her daughter.",
       "prashna": "मां और बेटी के बीच के बंधन पर टिप्पणी करें।"
     }
   ],
   "2025": [
     {
+      "id": "obj_30",
+      "type": "objective",
+      "section": "Panorama_Reader",
+      "chapter": "6",
+      "chapter_name": "Two Horizons",
+      "confidence": 0.99,
+      "raw_choice": "Panorama_Reader - 6. Two Horizons (दो क्षितिज)",
+      "question": "The daughter in ‘Two Horizons’ does not wish to __any more.",
+      "prashna": "'टू होराइजन्स' की बेटी अब और __ नहीं चाहती है।",
+      "options": {
+        "A": "dream",
+        "B": "want",
+        "C": "desire",
+        "D": "need"
+      },
+      "vikalpa": {
+        "A": "सपना देखना",
+        "B": "चाहना",
+        "C": "इच्छा करना",
+        "D": "जरूरत होना"
+      }
+    },
+    {
       "id": "obj_9",
       "type": "objective",
       "section": "Panorama_Reader",
       "chapter": "6",
       "chapter_name": "Two Horizons",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The mother in her letter tells the daughter that ............... cannot be bought.",
       "prashna": "माँ अपने पत्र में बेटी को बताती है कि ............... खरीदा नहीं जा सकता।",
       "options": {
@@ -308,6 +386,8 @@
       "section": "Panorama_Reader",
       "chapter": "6",
       "chapter_name": "Two Horizons",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The daughter in her letter says that she has lost her ...............",
       "prashna": "बेटी अपने पत्र में कहती है कि उसने अपना ............... खो दिया है।",
       "options": {
@@ -329,6 +409,8 @@
       "section": "Panorama_Reader",
       "chapter": "6",
       "chapter_name": "Two Horizons",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is the mother's advice to her daughter ?",
       "prashna": "बेटी को माँ की क्या सलाह है?"
     }
@@ -340,6 +422,8 @@
       "section": "Panorama_Reader",
       "chapter": "6",
       "chapter_name": "Two Horizons",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The daughter says that she can see no reason for the ............... she feels.",
       "prashna": "बेटी कहती है कि वह जो महसूस करती है उस ............... का उसे कोई कारण नहीं दिखता।",
       "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
@@ -362,6 +446,8 @@
       "section": "Panorama_Reader",
       "chapter": "6",
       "chapter_name": "Two Horizons",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The mother advises her daughter to seek ............... within herself.",
       "prashna": "माँ अपनी बेटी को अपने भीतर ............... तलाशने की सलाह देती है।",
       "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
@@ -384,6 +470,8 @@
       "section": "Panorama_Reader",
       "chapter": "6",
       "chapter_name": "Two Horizons",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The daughter in her letter says that she has ............... without a thought.",
       "prashna": "बेटी अपने पत्र में कहती है कि उसने बिना सोचे-समझे ............... किया है।",
       "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
@@ -406,6 +494,8 @@
       "section": "Panorama_Reader",
       "chapter": "6",
       "chapter_name": "Two Horizons",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The daughter in ‘Two Horizons’ tried to",
       "prashna": "'टू होराइजन्स' में बेटी ने क्या करने का प्रयास किया?",
       "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",

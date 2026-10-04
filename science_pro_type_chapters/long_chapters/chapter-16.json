@@ -5,6 +5,8 @@
       "type": "long_answer",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "How does formation and depletion of ozone take place ?",
       "prashna": "ओजोन का निर्माण एवं अपक्षय किस प्रकार होता है ?"
     }
@@ -15,6 +17,8 @@
       "type": "long_answer",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is the impact of deforestation on wild animals?",
       "prashna": "वनों की कटाई का वन्य जीवों पर क्या प्रभाव पड़ता है?"
     }
@@ -25,16 +29,30 @@
       "type": "long_answer",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is a food chain ? Explain it with an example.",
       "prashna": "आहार श्रृंखला क्या है ? इसे एक उदाहरण द्वारा समझाएँ।"
     }
   ],
   "2024": [
     {
+      "id": "long_4",
+      "type": "long_answer",
+      "chapter": "16",
+      "chapter_name": "Our Environment",
+      "confidence": 0.58,
+      "raw_choice": "16. Our Environment (हमारा पर्यावरण)",
+      "question": "Briefly describe the benefits of rainwater harvesting.",
+      "prashna": "वर्षा-जल के संचयन के लाभ का संक्षिप्त विवरण दें।"
+    },
+    {
       "id": "long_20",
       "type": "long_answer",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is the effect of deforestation on wildlife?",
       "prashna": "वनों की कटाई का वन्य जीवों पर क्या प्रभाव पड़ता है ?"
     },
@@ -43,6 +61,8 @@
       "type": "long_answer",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is a food chain? Explain it with an example.",
       "prashna": "आहार श्रृंखला क्या है ? इसे एक उदाहरण द्वारा समझायें।"
     }
@@ -53,8 +73,20 @@
       "type": "long_answer",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Explain recycling of waste materials with examples.",
       "prashna": "अपशिष्ट पदार्थों के चक्रण को उदाहरण देकर समझाएँ।"
+    },
+    {
+      "id": "long_20",
+      "type": "long_answer",
+      "chapter": "16",
+      "chapter_name": "Our Environment",
+      "confidence": 0.65,
+      "raw_choice": "16. Our Environment (हमारा पर्यावरण)",
+      "question": "What should be done for water conservation and water management ?",
+      "prashna": "जल संरक्षण एवं जल प्रबंधन के लिए क्या किया जाना चाहिए ?"
     }
   ],
   "2026": [
@@ -63,6 +95,8 @@
       "type": "long_answer",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What steps have been taken to limit ozone depletion ?",
       "prashna": "ओजोन अवक्षय को सीमित करने के लिए क्या कदम उठाए गये हैं ?"
     },
@@ -71,6 +105,8 @@
       "type": "long_answer",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is 'Chipko movement' ? Explain it.",
       "prashna": "'चिपको आंदोलन' क्या है ? समझाकर लिखें।"
     },
@@ -79,6 +115,8 @@
       "type": "long_answer",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What do you understand by conservation and management of natural resources ?",
       "prashna": "प्राकृतिक संसाधनों के संरक्षण एवं प्रबंधन से आप क्या समझते हैं ?"
     }

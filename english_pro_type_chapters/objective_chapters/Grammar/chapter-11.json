@@ -6,8 +6,35 @@
       "section": "Grammar",
       "chapter": "11",
       "chapter_name": "Degrees of Comparison",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Birds do not fly as fast as an aeroplane. (Change into comparative degree)",
       "prashna": "इस वाक्य को Comparative Degree में बदलिए: 'पक्षी हवाई जहाज जितनी तेज़ नहीं उड़ते।'"
+    }
+  ],
+  "2019": [
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "section": "Grammar",
+      "chapter": "11",
+      "chapter_name": "Degrees of Comparison",
+      "confidence": 0.73,
+      "raw_choice": "Grammar - 11. Degrees of Comparison (तुलना की अवस्थाएँ (Degrees))",
+      "question": "एवरेस्ट संसार में सबसे ऊँची चोटी है।",
+      "prashna": "एवरेस्ट संसार में सबसे ऊँची चोटी है।",
+      "options": {
+        "A": "Everest is very high peak in the world.",
+        "B": "Everest is the highest peak in the world.",
+        "C": "Everest is most high peak in the world.",
+        "D": "Everest was the highest peak in the world."
+      },
+      "vikalpa": {
+        "A": "एवरेस्ट इज़ वेरी हाई पीक इन द वर्ल्ड",
+        "B": "एवरेस्ट इज़ द हाईएस्ट पीक इन द वर्ल्ड",
+        "C": "एवरेस्ट इज़ मोस्ट हाई पीक इन द वर्ल्ड",
+        "D": "एवरेस्ट वाज़ द हाईएस्ट पीक इन द वर्ल्ड"
+      }
     }
   ],
   "2020": [
@@ -17,6 +44,8 @@
       "section": "Grammar",
       "chapter": "11",
       "chapter_name": "Degrees of Comparison",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "गंगा सरोता से ज्यादा तेज है।",
       "prashna": "Radha is more intelligent than Sarita.",
       "options": {

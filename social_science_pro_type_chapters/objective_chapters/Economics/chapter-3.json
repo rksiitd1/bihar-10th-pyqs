@@ -1,4 +1,29 @@
 {
+  "2020": [
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "section": "Economics",
+      "chapter": "3",
+      "chapter_name": "Money, Savings and Credit",
+      "confidence": 0.64,
+      "raw_choice": "Economics - 3. Money, Savings and Credit (मुद्रा, बचत एवं साख)",
+      "question": "What is the most important in human's economic life?",
+      "prashna": "मनुष्य के आर्थिक जीवन में सबसे महत्वपूर्ण क्या है?",
+      "options": {
+        "A": "Land",
+        "B": "Money",
+        "C": "Field papers",
+        "D": "Receipt of Land revenue"
+      },
+      "vikalpa": {
+        "A": "जमीन",
+        "B": "मुद्रा",
+        "C": "खेतों के कागजात",
+        "D": "मालगुजारी के रसीद"
+      }
+    }
+  ],
   "2021": [
     {
       "id": "obj_71",
@@ -6,6 +31,8 @@
       "section": "Economics",
       "chapter": "3",
       "chapter_name": "Money, Savings and Credit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is the highest medium of exchange?",
       "prashna": "विनिमय का सर्वोच्च माध्यम क्या है?",
       "options": {
@@ -29,6 +56,8 @@
       "section": "Economics",
       "chapter": "3",
       "chapter_name": "Money, Savings and Credit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is an example of credit money?",
       "prashna": "निम्न में से कौन साख मुद्रा का उदाहरण है?",
       "options": {
@@ -50,6 +79,8 @@
       "section": "Economics",
       "chapter": "3",
       "chapter_name": "Money, Savings and Credit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is a plastic money?",
       "prashna": "निम्न में से कौन प्लास्टिक मुद्रा है?",
       "options": {
@@ -71,6 +102,8 @@
       "section": "Economics",
       "chapter": "3",
       "chapter_name": "Money, Savings and Credit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is the currency of Russia?",
       "prashna": "रूस की मुद्रा क्या है?",
       "options": {
@@ -92,6 +125,8 @@
       "section": "Economics",
       "chapter": "3",
       "chapter_name": "Money, Savings and Credit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is the basis of Credit?",
       "prashna": "साख का आधार क्या है?",
       "options": {
@@ -113,6 +148,8 @@
       "section": "Economics",
       "chapter": "3",
       "chapter_name": "Money, Savings and Credit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is the currency of Sweden?",
       "prashna": "स्वीडन की मुद्रा क्या है?",
       "options": {
@@ -136,6 +173,8 @@
       "section": "Economics",
       "chapter": "3",
       "chapter_name": "Money, Savings and Credit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Taka is the currency of which country?",
       "prashna": "टका किस देश की मुद्रा है?",
       "options": {
@@ -159,6 +198,8 @@
       "section": "Economics",
       "chapter": "3",
       "chapter_name": "Money, Savings and Credit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Rupee is the currency of which of the following countries?",
       "prashna": "निम्न में से किस देश की मुद्रा रुपया है ?",
       "options": {
@@ -180,6 +221,8 @@
       "section": "Economics",
       "chapter": "3",
       "chapter_name": "Money, Savings and Credit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is saving?",
       "prashna": "बचत क्या है ?",
       "options": {
@@ -201,6 +244,8 @@
       "section": "Economics",
       "chapter": "3",
       "chapter_name": "Money, Savings and Credit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is not a letter of credit?",
       "prashna": "निम्न में से क्या साख पत्र नहीं है ?",
       "options": {
@@ -217,11 +262,36 @@
       }
     },
     {
+      "id": "obj_80",
+      "type": "objective",
+      "section": "Economics",
+      "chapter": "3",
+      "chapter_name": "Money, Savings and Credit",
+      "confidence": 0.61,
+      "raw_choice": "Economics - 3. Money, Savings and Credit (मुद्रा, बचत एवं साख)",
+      "question": "Which of the following leads to capital formation?",
+      "prashna": "निम्न में से किसके द्वारा पूँजी निर्माण होता है ?",
+      "options": {
+        "A": "Consumption",
+        "B": "Exchange",
+        "C": "Saving",
+        "D": "Investment"
+      },
+      "vikalpa": {
+        "A": "उपभोग",
+        "B": "विनिमय",
+        "C": "बचत",
+        "D": "विनियोग"
+      }
+    },
+    {
       "id": "obj_19",
       "type": "objective",
       "section": "Economics",
       "chapter": "3",
       "chapter_name": "Money, Savings and Credit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Dinar is the currency of which country ?",
       "prashna": "दिनार किस देश की मुद्रा है ?",
       "options": {
@@ -243,6 +313,8 @@
       "section": "Economics",
       "chapter": "3",
       "chapter_name": "Money, Savings and Credit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is the difference between income and consumption called ?",
       "prashna": "आय और उपभोग का अंतर क्या कहलाता है ?",
       "options": {
@@ -266,6 +338,8 @@
       "section": "Economics",
       "chapter": "3",
       "chapter_name": "Money, Savings and Credit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is the primary function of money ?",
       "prashna": "मुद्रा का प्राथमिक कार्य क्या है ?",
       "options": {
@@ -287,6 +361,8 @@
       "section": "Economics",
       "chapter": "3",
       "chapter_name": "Money, Savings and Credit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following assets has the least liquidity ?",
       "prashna": "निम्नलिखित में से किस संपत्ति की तरलता सबसे कम है ?",
       "options": {
@@ -308,6 +384,8 @@
       "section": "Economics",
       "chapter": "3",
       "chapter_name": "Money, Savings and Credit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is the primary function of money?",
       "prashna": "मुद्रा का प्राथमिक कार्य क्या है?",
       "options": {
@@ -329,6 +407,8 @@
       "section": "Economics",
       "chapter": "3",
       "chapter_name": "Money, Savings and Credit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following assets has the least liquidity?",
       "prashna": "निम्नलिखित में से किस संपत्ति की तरलता सबसे कम है?",
       "options": {
@@ -352,6 +432,8 @@
       "section": "Economics",
       "chapter": "3",
       "chapter_name": "Money, Savings and Credit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is/are the characteristic(s) of money ?",
       "prashna": "निम्नलिखित में से मुद्रा की विशेषता क्या है ?",
       "options": {

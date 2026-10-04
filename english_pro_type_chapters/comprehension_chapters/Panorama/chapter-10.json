@@ -6,6 +6,8 @@
       "section": "Panorama",
       "chapter": "10",
       "chapter_name": "Ode on Solitude",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Read carefully the stanza given below and answer the questions that follow:",
       "prashna": "नीचे दिए गए पद्यांश को ध्यानपूर्वक पढ़ें और उसके बाद आने वाले प्रश्नों के उत्तर दें:",
       "context": "Whose herd with milk, whose field with bread.\nWhose flock supply him with attire,\nWhose trees in summer yield him shade, in winter fire.",
@@ -30,6 +32,8 @@
       "section": "Panorama",
       "chapter": "10",
       "chapter_name": "Ode on Solitude",
+      "confidence": 0.95,
+      "raw_choice": "",
       "context": "\"Happy the man whose wish and care. A few paternal acres bound Content to breathe his native air in his own ground\".",
       "sub_questions": {
         "1": "Who has composed this poem?",
@@ -50,6 +54,8 @@
       "section": "Panorama",
       "chapter": "10",
       "chapter_name": "Ode on Solitude",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Read carefully the stanza given below and answer the questions that follow:",
       "prashna": "नीचे दिए गए पद्यांश को ध्यान से पढ़ें और उसके बाद आने वाले प्रश्नों के उत्तर दें:",
       "context": "Happy the men whose wish and care.\nA few paternal acres bound\nContent to breathe his native air\nin his own ground",
@@ -64,6 +70,30 @@
         "2": "सुखी व्यक्ति कौन है?",
         "3": "पहले छंद की तीसरी पंक्ति में सर्वनाम 'his' किसे संदर्भित करता है?",
         "4": "इस कविता के पहले छंद का विषय क्या है?"
+      }
+    }
+  ],
+  "2025": [
+    {
+      "id": "poem_1_2",
+      "type": "poem",
+      "section": "Panorama",
+      "chapter": "10",
+      "chapter_name": "Ode on Solitude",
+      "confidence": 0.59,
+      "raw_choice": "Panorama - 10. Ode on Solitude (एकांत पर एक गीत)",
+      "context": "Sometimes when the day is bad\nAnd someone’s made me very sad\nOr I’ve been given angry stares\nI go behind the front porch stairs\nThere, curled up with chin on knee\nI like to be alone with me\nAnd listen to people talk\nAnd hurry by me on the walk.",
+      "question": "Read the following poem carefully and answer the questions that follow:",
+      "prashna": "निम्नलिखित कविता को ध्यानपूर्वक पढ़ें और नीचे दिए गए प्रश्नों के उत्तर दें:",
+      "sub_questions": {
+        "1": "Where does the speaker go when he is angry?",
+        "2": "What does he do when he is angry and alone?",
+        "3": "What do the people around him do?"
+      },
+      "anuprashna": {
+        "1": "जब वक्ता नाराज होता है तो वह कहाँ जाता है?",
+        "2": "नाराज और अकेला होने पर वह क्या करता है?",
+        "3": "उसके आस-पास के लोग क्या करते हैं?"
       }
     }
   ]

@@ -1,4 +1,52 @@
 {
+  "2014": [
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "1",
+      "chapter_name": "Power Sharing in Democracy",
+      "confidence": 0.58,
+      "raw_choice": "Civics - 1. Power Sharing in Democracy (लोकतंत्र में सत्ता की साझेदारी)",
+      "question": "\"Democracy is government of the people, by the people, and for the people.\" Whose statement is this?",
+      "prashna": "\"लोकतंत्र जनता का, जनता द्वारा, जनता के लिए शासन है।\" यह कथन किसका है?",
+      "options": {
+        "A": "George Washington",
+        "B": "Abraham Lincoln",
+        "C": "Aristotle",
+        "D": "Lord Bryce"
+      },
+      "vikalpa": {
+        "A": "जॉर्ज वाशिंगटन",
+        "B": "अब्राहम लिंकन",
+        "C": "अरस्तू",
+        "D": "लॉर्ड ब्राइस"
+      }
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "1",
+      "chapter_name": "Power Sharing in Democracy",
+      "confidence": 0.58,
+      "raw_choice": "Civics - 1. Power Sharing in Democracy (लोकतंत्र में सत्ता की साझेदारी)",
+      "question": "What type of democracy has been established in India?",
+      "prashna": "भारत में किस तरह के लोकतंत्र की व्यवस्था की गई है ?",
+      "options": {
+        "A": "Direct",
+        "B": "Indirect",
+        "C": "Both direct and indirect",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "प्रत्यक्ष",
+        "B": "अप्रत्यक्ष",
+        "C": "प्रत्यक्ष और अप्रत्यक्ष दोनों",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ],
   "2018": [
     {
       "id": "obj_23",
@@ -6,6 +54,8 @@
       "section": "Civics",
       "chapter": "1",
       "chapter_name": "Power Sharing in Democracy",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Sharing of power is right because -",
       "prashna": "सत्ता में साझेदारी सही है क्योंकि-",
       "options": {
@@ -22,6 +72,31 @@
       }
     }
   ],
+  "2019": [
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "1",
+      "chapter_name": "Power Sharing in Democracy",
+      "confidence": 0.54,
+      "raw_choice": "Civics - 1. Power Sharing in Democracy (लोकतंत्र में सत्ता की साझेदारी)",
+      "question": "“Democracy is of the people, for the people and by the people”. Whose statement is this?",
+      "prashna": "“लोकतंत्र जनता का, जनता के द्वारा और जनता के लिए शासन है।” यह कथन किसका है?",
+      "options": {
+        "A": "Aristotle",
+        "B": "George Washington",
+        "C": "Abraham Lincoln",
+        "D": "Lord Bryce"
+      },
+      "vikalpa": {
+        "A": "अरस्तू",
+        "B": "जॉर्ज वाशिंगटन",
+        "C": "अब्राहम लिंकन",
+        "D": "लार्ड ब्राइस"
+      }
+    }
+  ],
   "2021": [
     {
       "id": "obj_59",
@@ -29,6 +104,8 @@
       "section": "Civics",
       "chapter": "1",
       "chapter_name": "Power Sharing in Democracy",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is the basis of social division in Belgium?",
       "prashna": "बेल्जियम में सामाजिक विभाजन का आधार क्या है ?",
       "options": {
@@ -52,6 +129,8 @@
       "section": "Civics",
       "chapter": "1",
       "chapter_name": "Power Sharing in Democracy",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which form of government is there in India?",
       "prashna": "भारत में कौन शासन प्रणाली है?",
       "options": {
@@ -66,6 +145,29 @@
         "C": "तानाशाही व्यवस्था",
         "D": "संसदीय व्यवस्था"
       }
+    },
+    {
+      "id": "obj_47",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "1",
+      "chapter_name": "Power Sharing in Democracy",
+      "confidence": 0.56,
+      "raw_choice": "Civics - 1. Power Sharing in Democracy (लोकतंत्र में सत्ता की साझेदारी)",
+      "question": "Who is the constitutional head of India?",
+      "prashna": "भारत का संवैधानिक अध्यक्ष कौन है ?",
+      "options": {
+        "A": "President",
+        "B": "Prime Minister",
+        "C": "Governor",
+        "D": "Vice President"
+      },
+      "vikalpa": {
+        "A": "राष्ट्रपति",
+        "B": "प्रधानमंत्री",
+        "C": "राज्यपाल",
+        "D": "उप-राष्ट्रपति"
+      }
     }
   ],
   "2024": [
@@ -75,6 +177,8 @@
       "section": "Civics",
       "chapter": "1",
       "chapter_name": "Power Sharing in Democracy",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "In where of the following was the social division based on language?",
       "prashna": "निम्न में से कहाँ सामाजिक विभाजन का आधार भाषा था ?",
       "options": {
@@ -89,15 +193,88 @@
         "C": "बोलिविया",
         "D": "नेपाल"
       }
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "1",
+      "chapter_name": "Power Sharing in Democracy",
+      "confidence": 0.52,
+      "raw_choice": "Civics - 1. Power Sharing in Democracy (लोकतंत्र में सत्ता की साझेदारी)",
+      "question": "The government based on public opinion is",
+      "prashna": "जनमत पर आधारित शासन है",
+      "options": {
+        "A": "Monarchy",
+        "B": "Dictatorship",
+        "C": "Democracy",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "राजतंत्र",
+        "B": "तानाशाही",
+        "C": "लोकतंत्र",
+        "D": "इनमें से कोई नहीं"
+      }
     }
   ],
   "2026": [
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "1",
+      "chapter_name": "Power Sharing in Democracy",
+      "confidence": 0.55,
+      "raw_choice": "Civics - 1. Power Sharing in Democracy (लोकतंत्र में सत्ता की साझेदारी)",
+      "question": "In which of the following is direct democracy found ?",
+      "prashna": "निम्नलिखित में से कहाँ प्रत्यक्ष लोकतंत्र पाया जाता है ?",
+      "options": {
+        "A": "Switzerland",
+        "B": "India",
+        "C": "Pakistan",
+        "D": "China"
+      },
+      "vikalpa": {
+        "A": "स्विट्जरलैंड",
+        "B": "भारत",
+        "C": "पाकिस्तान",
+        "D": "चीन"
+      },
+      "instructions": "Question Nos. 1 to 80 have four options each, out of which only one is correct. Mark your selected option on the OMR sheet. Answer any 40 questions."
+    },
+    {
+      "id": "obj_57",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "1",
+      "chapter_name": "Power Sharing in Democracy",
+      "confidence": 0.54,
+      "raw_choice": "Civics - 1. Power Sharing in Democracy (लोकतंत्र में सत्ता की साझेदारी)",
+      "question": "How does a representative democracy function in the Indian context ?",
+      "prashna": "भारत के संदर्भ में एक प्रतिनिधि लोकतंत्र कैसे कार्य करता है ?",
+      "options": {
+        "A": "All citizens take decisions directly",
+        "B": "The government is elected by military force",
+        "C": "Citizens elect their representatives who make decisions for them",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "सभी नागरिक प्रत्यक्ष रूप से निर्णय लेते हैं",
+        "B": "सैन्य बल द्वारा सरकार चुनी जाती है",
+        "C": "नागरिक अपने प्रतिनिधि चुनते हैं जो उनके लिए निर्णय लेते हैं",
+        "D": "इनमें से सभी"
+      },
+      "instructions": "Question Nos. 1 to 80 have four options each, out of which only one is correct. Mark your selected option on the OMR sheet. Answer any 40 questions."
+    },
     {
       "id": "obj_53",
       "type": "objective",
       "section": "Civics",
       "chapter": "1",
       "chapter_name": "Power Sharing in Democracy",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which language has the largest number of people speaking in Belgium ?",
       "prashna": "बेल्जियम में किस भाषा को बोलने वाले लोगों की संख्या अधिक है ?",
       "options": {
@@ -111,6 +288,29 @@
         "B": "डच",
         "C": "जर्मन",
         "D": "अंग्रेजी"
+      }
+    },
+    {
+      "id": "obj_56",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "1",
+      "chapter_name": "Power Sharing in Democracy",
+      "confidence": 0.64,
+      "raw_choice": "Civics - 1. Power Sharing in Democracy (लोकतंत्र में सत्ता की साझेदारी)",
+      "question": "Who is the head of the state of the Indian Union ?",
+      "prashna": "भारतीय संघ का राष्ट्र प्रमुख कौन होता है ?",
+      "options": {
+        "A": "The Prime Minister",
+        "B": "The President",
+        "C": "The Chief Justice",
+        "D": "The Speaker of Lok Sabha"
+      },
+      "vikalpa": {
+        "A": "प्रधानमंत्री",
+        "B": "राष्ट्रपति",
+        "C": "मुख्य न्यायाधीश",
+        "D": "लोकसभा अध्यक्ष"
       }
     }
   ]

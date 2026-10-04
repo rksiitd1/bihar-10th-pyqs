@@ -1,4 +1,17 @@
 {
+  "2012": [
+    {
+      "id": "short_1",
+      "type": "short_answer",
+      "section": "Panorama",
+      "chapter": "10",
+      "chapter_name": "Ode on Solitude",
+      "confidence": 0.65,
+      "raw_choice": "Panorama - 10. Ode on Solitude (एकांत पर एक गीत)",
+      "question": "Answer any two questions in about 50 words each: (i) What is an ode? (ii) Who is the happy man? (iii) Why is the Koel restless? (iv) What type of cap is the 'Porter wearing'?",
+      "prashna": "किन्हीं दो प्रश्नों के उत्तर लगभग 50 शब्दों में दें: (i) ओड (ode) क्या है? (ii) सुखी व्यक्ति कौन है? (iii) कोयल बेचैन क्यों है? (iv) कुली (Porter) ने किस प्रकार की टोपी पहनी है?"
+    }
+  ],
   "2019": [
     {
       "id": "short_5",
@@ -6,8 +19,24 @@
       "section": "Panorama",
       "chapter": "10",
       "chapter_name": "Ode on Solitude",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is Pope's idea of a happy man in the poem 'Ode on Solitude'?",
       "prashna": "'ओड ऑन सॉलिट्यूड' कविता में पोप का एक सुखी व्यक्ति का विचार क्या है?"
+    }
+  ],
+  "2022": [
+    {
+      "id": "short_6",
+      "type": "short_answer",
+      "section": "Panorama",
+      "chapter": "10",
+      "chapter_name": "Ode on Solitude",
+      "confidence": 0.54,
+      "raw_choice": "Panorama - 10. Ode on Solitude (एकांत पर एक गीत)",
+      "question": "What does the poet wish for after death ?",
+      "prashna": "कवि मृत्यु के बाद क्या कामना करता है?",
+      "context": "Answer any five of the following questions :"
     }
   ],
   "2024": [
@@ -17,6 +46,8 @@
       "section": "Panorama",
       "chapter": "10",
       "chapter_name": "Ode on Solitude",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is the poet wish for after death?",
       "prashna": "मृत्यु के बाद कवि क्या चाहता है?"
     }
@@ -28,6 +59,8 @@
       "section": "Panorama",
       "chapter": "10",
       "chapter_name": "Ode on Solitude",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Who, according to Alexander Pope, is a happy man ?",
       "prashna": "अलेक्जेंडर पोप के अनुसार, एक सुखी व्यक्ति कौन है?"
     }
@@ -39,6 +72,8 @@
       "section": "Panorama",
       "chapter": "10",
       "chapter_name": "Ode on Solitude",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "How do the trees help a happy man ?",
       "prashna": "पेड़ एक सुखी व्यक्ति की किस प्रकार मदद करते हैं?",
       "instructions": "Answer any five of the following questions :"

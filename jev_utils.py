@@ -160,7 +160,7 @@ def call_jev_with_retry(
 def classify_question(
     q: Dict[str, Any],
     subject: str,
-    confidence_threshold: float = 0.7
+    confidence_threshold: float = 0.5
 ) -> Dict[str, Any]:
     """
     Classifies a question using Jev and returns annotation metadata:

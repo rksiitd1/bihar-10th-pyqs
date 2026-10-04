@@ -5,6 +5,8 @@
       "type": "short_answer",
       "chapter": "2",
       "chapter_name": "Polynomials",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Sum of zeros of the polynomial $ax^2 + bx + c$ is _______.",
       "prashna": "बहुपद $ax^2 + bx + c$ के शून्यक का योग _______ होता है।"
     },
@@ -13,6 +15,8 @@
       "type": "short_answer",
       "chapter": "2",
       "chapter_name": "Polynomials",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "If $\\alpha, \beta$ are the zeros of polynomial $p(x) = x^2 - 7x + k$ and $\\alpha - \beta = 1$, then find the value of $k$.",
       "prashna": "यदि $\\alpha, \beta$ बहुपद $p(x) = x^2 - 7x + k$ के शून्यक हैं और $\\alpha - \beta = 1$ है, तो $k$ का मान निकालें।",
       "marks": 2
@@ -20,10 +24,22 @@
   ],
   "2016": [
     {
+      "id": "short_17",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "confidence": 0.62,
+      "raw_choice": "2. Polynomials (बहुपद)",
+      "question": "If $\\alpha$ and $\beta$ are the roots of quadratic equation $cx^2 - bx + a = 0$, then $\\alpha^2 + \beta^2 = $ __________.",
+      "prashna": "यदि द्विघातीय समीकरण $cx^2 - bx + a = 0$ के मूल $\\alpha$ एवं $\beta$ हों, तब $\\alpha^2 + \beta^2 = $ __________।"
+    },
+    {
       "id": "short_22",
       "type": "short_answer",
       "chapter": "2",
       "chapter_name": "Polynomials",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Find the zeros of polynomial $4x^2 - 3$.",
       "prashna": "बहुपद $4x^2 - 3$ के शून्यक ज्ञात करें।"
     },
@@ -32,6 +48,8 @@
       "type": "short_answer",
       "chapter": "2",
       "chapter_name": "Polynomials",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Find the quadratic equation, whose sum and product of zeros are $4$ and $1$ respectively.",
       "prashna": "एक द्विघातीय बहुपद समीकरण ज्ञात करें, जिसके शून्यकों के योग एवं गुणनफल क्रमशः $4$ एवं $1$ हैं।"
     }
@@ -42,6 +60,8 @@
       "type": "short_answer",
       "chapter": "2",
       "chapter_name": "Polynomials",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "$4x^2 + \frac{1}, {7}$ is ................ polynomial.",
       "prashna": "$4x^2 + \frac{1}, {7}$ ................ बहुपद है ।"
     },
@@ -50,6 +70,8 @@
       "type": "short_answer",
       "chapter": "2",
       "chapter_name": "Polynomials",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Find the sum and product of zeroes of quadratic polynomial $2x^2 - 8x + 6$",
       "prashna": "द्विघात बहुपद $2x^2 - 8x + 6$ के शून्यकों का योग एवं गुणनफल ज्ञात करें ।"
     },
@@ -68,6 +90,8 @@
       "type": "short_answer",
       "chapter": "2",
       "chapter_name": "Polynomials",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "If $\\alpha$ and $\beta$ are zeros of polynomial $p(x) = x^2 + x + 1$, then find $\\alpha^2 + \beta^2$.",
       "prashna": "यदि बहुपद $p(x) = x^2 + x + 1$ का शून्यक $\\alpha$ तथा $\beta$ है, तो $\\alpha^2 + \beta^2$ का मान ज्ञात करें।"
     },
@@ -76,6 +100,8 @@
       "type": "short_answer",
       "chapter": "2",
       "chapter_name": "Polynomials",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Find the condition which must be satisfied by co-efficient of polynomials, such that the sum of two zeros of the polynomial $f(x) = x^3 - px^2 + qx - r$, is zero.",
       "prashna": "बहुपद $f(x) = x^3 - px^2 + qx - r$ के दो शून्यकों का जोड़ शून्य होने की शर्त की गणना करें (बहुपद के गुणांकों के बीच)।"
     },
@@ -84,6 +110,8 @@
       "type": "short_answer",
       "chapter": "2",
       "chapter_name": "Polynomials",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "If $\\alpha$ and $\beta$ are zeros of polynomial $p(x) = x^2 + x + 1$, then find $\\alpha^2 + \beta^2$.",
       "prashna": "यदि बहुपद $p(x) = x^2 + x + 1$ का शून्यक $\\alpha$ तथा $\beta$ है, तो $\\alpha^2 + \beta^2$ का मान ज्ञात करें।"
     },
@@ -92,6 +120,8 @@
       "type": "short_answer",
       "chapter": "2",
       "chapter_name": "Polynomials",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Find the condition which must be satisfied by co-efficient of polynomials, such that the sum of two zeros of the polynomial $f(x) = x^3 - px^2 + qx - r$, is zero.",
       "prashna": "बहुपद $f(x) = x^3 - px^2 + qx - r$ के दो शून्यकों का जोड़ शून्य होने की शर्त की गणना करें (बहुपद के गुणाकों के बीच)।"
     }
@@ -102,6 +132,8 @@
       "type": "short_answer",
       "chapter": "2",
       "chapter_name": "Polynomials",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "If $\\alpha, \beta$ are the zeros of the quadratic polynomial $4x^2 - 4x + 1$, then find the value of $\frac{\\alpha}, {\beta} + \frac{\beta}, {\\alpha}$.",
       "prashna": "यदि $\\alpha, \beta$ किसी द्विघात बहुपद $4x^2 - 4x + 1$ के मूल हों, तो $\frac{\\alpha}, {\beta} + \frac{\beta}, {\\alpha}$ का मान ज्ञात करें।"
     },
@@ -110,6 +142,8 @@
       "type": "short_answer",
       "chapter": "2",
       "chapter_name": "Polynomials",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "If $\\alpha, \beta$ are the zeros of the quadratic polynomial $4x^2 - 4x + 1$, then find the value of $\frac{\\alpha}, {\beta} + \frac{\beta}, {\\alpha}$.",
       "prashna": "यदि $\\alpha, \beta$ किसी द्विघात बहुपद $4x^2 - 4x + 1$ के मूल हों, तो $\frac{\\alpha}, {\beta} + \frac{\beta}, {\\alpha}$ का मान ज्ञात करें।"
     }
@@ -120,6 +154,8 @@
       "type": "short_answer",
       "chapter": "2",
       "chapter_name": "Polynomials",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Find the zeroes of the quadratic polynomial $x^2 - 2x - 8$.",
       "prashna": "द्विघात बहुपद $x^2 - 2x - 8$ के शून्यकों ज्ञात कीजिए।"
     },
@@ -128,6 +164,8 @@
       "type": "short_answer",
       "chapter": "2",
       "chapter_name": "Polynomials",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "If $\\alpha, \beta$ are the zeroes of the quadratic polynomial $ax^2 + bx + c$, then find the value of $\\alpha^2 + \beta^2$.",
       "prashna": "यदि $\\alpha, \beta$ किसी द्विघात बहुपद $ax^2 + bx + c$ के शून्यक हों तो $\\alpha^2 + \beta^2$ का मान ज्ञात करें।"
     },
@@ -136,6 +174,8 @@
       "type": "short_answer",
       "chapter": "2",
       "chapter_name": "Polynomials",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Find the zeroes of the polynomial $6x^2 - 3 - 7x$ and verify the relationship between the zeroes and the coefficients.",
       "prashna": "बहुपद $6x^2 - 3 - 7x$ के शून्यक ज्ञात करें तथा इसके शून्यकों और गुणांकों के बीच संबंध की सत्यता की जाँच करें।"
     }
@@ -146,6 +186,8 @@
       "type": "short_answer",
       "chapter": "2",
       "chapter_name": "Polynomials",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "If the product of the zeros of the polynomial $(ax^2 - 6x - 6)$ is 4, find the value of $a$.",
       "prashna": "यदि बहुपद $(ax^2 - 6x - 6)$ के शून्यकों का गुणनफल 4 है तो $a$ का मान ज्ञात करें।"
     },
@@ -154,14 +196,28 @@
       "type": "short_answer",
       "chapter": "2",
       "chapter_name": "Polynomials",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "If $\\alpha$ and $\beta$ are zeros of the quadratic polynomial $2x^2 + 7x + 5$, then find the value of $\\alpha + \beta + \\alpha\beta$.",
       "prashna": "यदि $\\alpha$ और $\beta$ द्विघात बहुपद $2x^2 + 7x + 5$ के शून्यक हों, तो $\\alpha + \beta + \\alpha\beta$ का मान निकालें।"
+    },
+    {
+      "id": "short_15",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "confidence": 0.69,
+      "raw_choice": "2. Polynomials (बहुपद)",
+      "question": "Find the zeroes of the quadratic polynomial $x^2 + 11x + 30$.",
+      "prashna": "द्विघात बहुपद $x^2 + 11x + 30$ के शून्यकों को ज्ञात करें।"
     },
     {
       "id": "short_23",
       "type": "short_answer",
       "chapter": "2",
       "chapter_name": "Polynomials",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "If $(x-a)$ is a factor of polynomial $(x^2 - ax + a - 1)$, then find the value of $a$.",
       "prashna": "यदि बहुपद $(x^2 - ax + a - 1)$ का एक गुणनखंड $(x-a)$ है, तो $a$ का मान ज्ञात करें।"
     },
@@ -170,6 +226,8 @@
       "type": "short_answer",
       "chapter": "2",
       "chapter_name": "Polynomials",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "If $\\alpha$ and $\beta$ are the zeroes of the polynomial $f(x) = x^2 - 2x - 8$, then find the value of $\\alpha + \beta - \\alpha\beta$.",
       "prashna": "यदि $\\alpha$ तथा $\beta$ बहुपद $f(x) = x^2 - 2x - 8$ के शून्यक हों, तो $\\alpha + \beta - \\alpha\beta$ का मान ज्ञात करें।"
     }
@@ -180,6 +238,8 @@
       "type": "short_answer",
       "chapter": "2",
       "chapter_name": "Polynomials",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Find the zeroes of the quadratic polynomial $z^2 - 2z - 8$.",
       "prashna": "द्विघात बहुपद $z^2 - 2z - 8$ के शून्यक निकालें।"
     },
@@ -188,6 +248,8 @@
       "type": "short_answer",
       "chapter": "2",
       "chapter_name": "Polynomials",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Find a cubic polynomial whose zeroes are 3, -1 and -2.",
       "prashna": "एक त्रिघाती बहुपद ज्ञात करें जिसके शून्यक 3, -1 एवं -2 हैं।"
     },
@@ -196,6 +258,8 @@
       "type": "short_answer",
       "chapter": "2",
       "chapter_name": "Polynomials",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "If $\\alpha, \beta$ are the zeroes of polynomial $p(x) = 2x^2 - 11x + 15$ then find the value of $\frac{1}, {\\alpha} + \frac{1}, {\beta}$.",
       "prashna": "यदि $\\alpha, \beta$ बहुपद $p(x) = 2x^2 - 11x + 15$ के शून्यक हैं तो $\frac{1}, {\\alpha} + \frac{1}, {\beta}$ का मान ज्ञात करें।"
     },
@@ -204,6 +268,8 @@
       "type": "short_answer",
       "chapter": "2",
       "chapter_name": "Polynomials",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "If $-2$ is a zero of the polynomial $3x^2 + 4x + 2k$, then find the value of $k$.",
       "prashna": "यदि बहुपद $3x^2 + 4x + 2k$ का एक शून्यक $-2$ है तो $k$ का मान ज्ञात करें।"
     }
@@ -214,6 +280,8 @@
       "type": "short_answer",
       "chapter": "2",
       "chapter_name": "Polynomials",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Find the zeroes of $4t^2 - 4t + 1$ and verify the relation between zeroes and coefficients.",
       "prashna": "$4t^2 - 4t + 1$ के शून्यक ज्ञात करें एवं शून्यकों और गुणांकों के बीच के संबंध की जाँच करें।"
     },
@@ -222,6 +290,8 @@
       "type": "short_answer",
       "chapter": "2",
       "chapter_name": "Polynomials",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Find a quadratic polynomial, the sum and product of whose zeroes are 0 and -4 respectively.",
       "prashna": "एक द्विघात बहुपद ज्ञात करें जिसके शून्यकों का योग तथा गुणनफल क्रमशः 0 और -4 है।"
     }
@@ -232,6 +302,8 @@
       "type": "short_answer",
       "chapter": "2",
       "chapter_name": "Polynomials",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Find the zeroes of the quadratic polynomial $x^2 - 3$ and verify the relationship between the zeroes and the co-efficients.",
       "prashna": "द्विघात बहुपद $x^2 - 3$ के शून्यक ज्ञात करें और शून्यकों तथा गुणांकों के बीच के संबंध की सत्यता की जाँच करें।"
     },
@@ -240,6 +312,8 @@
       "type": "short_answer",
       "chapter": "2",
       "chapter_name": "Polynomials",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Find the zeroes of the quadratic polynomial $3x^2 - x - 4$ and verify the relationship between the zeroes and the co-efficients.",
       "prashna": "द्विघात बहुपद $3x^2 - x - 4$ के शून्यक ज्ञात करें और शून्यकों तथा गुणांकों के बीच के संबंध की सत्यता की जाँच करें।"
     },
@@ -248,6 +322,8 @@
       "type": "short_answer",
       "chapter": "2",
       "chapter_name": "Polynomials",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Divide polynomial $2x^4 + 3x^3 - 2x^2 - 9x - 12$ by polynomial $x^2 - 3$.",
       "prashna": "बहुपद $2x^4 + 3x^3 - 2x^2 - 9x - 12$ में बहुपद $x^2 - 3$ से भाग दें।"
     },
@@ -256,6 +332,8 @@
       "type": "short_answer",
       "chapter": "2",
       "chapter_name": "Polynomials",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "If one zero of the polynomial $(a^2+9)x^2 + 13x + 6a$ is reciprocal of the others, then find the value of $a$.",
       "prashna": "यदि बहुपद $(a^2+9)x^2 + 13x + 6a$ का एक शून्यक दूसरे का व्युत्क्रम है तो $a$ का मान ज्ञात करें।"
     }
@@ -266,6 +344,8 @@
       "type": "short_answer",
       "chapter": "2",
       "chapter_name": "Polynomials",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Divide $x^3 + 1$ by $x + 1$.",
       "prashna": "$x^3 + 1$ को $x + 1$ से भाग दीजिए।"
     }
@@ -276,6 +356,8 @@
       "type": "short_answer",
       "chapter": "2",
       "chapter_name": "Polynomials",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Find the zeroes of the quadratic polynomial 3x^2 - x - 4.",
       "prashna": "द्विघात बहुपद 3x^2 - x - 4 का शून्यक ज्ञात करें।",
       "instructions": "Question Nos. 1 to 30 are Short Answer Type Questions. Answer any 15 questions. Each question carries 2 marks."
@@ -285,14 +367,28 @@
       "type": "short_answer",
       "chapter": "2",
       "chapter_name": "Polynomials",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "If x^2 + 2x - 3 is divided by x - 2 then find the remainder.",
       "prashna": "यदि x^2 + 2x - 3 को x - 2 से भाग दिया जाए तो शेषफल ज्ञात करें।"
+    },
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "chapter": "2",
+      "chapter_name": "Polynomials",
+      "confidence": 0.74,
+      "raw_choice": "2. Polynomials (बहुपद)",
+      "question": "Find the sum and product of the roots of the quadratic equation x^2 - x + 3 = 0.",
+      "prashna": "द्विघात समीकरण x^2 - x + 3 = 0 के मूलों का योगफल एवं गुणनफल ज्ञात करें।"
     },
     {
       "id": "short_16",
       "type": "short_answer",
       "chapter": "2",
       "chapter_name": "Polynomials",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Find a quadratic polynomial of which the sum and product of zeros are - 7 and 10 respectively.",
       "prashna": "एक द्विघात बहुपद ज्ञात करें जिसके शून्यकों का योग और गुणनफल क्रमशः - 7 एवं 10 है।"
     },
@@ -301,6 +397,8 @@
       "type": "short_answer",
       "chapter": "2",
       "chapter_name": "Polynomials",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Divide y^6 + 3y^2 + 10 by y^3 + 1.",
       "prashna": "y^6 + 3y^2 + 10 को y^3 + 1 से भाग दें।"
     }

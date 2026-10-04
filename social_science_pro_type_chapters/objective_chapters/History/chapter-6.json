@@ -6,6 +6,8 @@
       "section": "History",
       "chapter": "6",
       "chapter_name": "Urbanization and Urban Life",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Where is the density of population highest?",
       "prashna": "जनसंख्या का घनत्व सबसे अधिक कहाँ होता है?",
       "options": {
@@ -29,6 +31,8 @@
       "section": "History",
       "chapter": "6",
       "chapter_name": "Urbanization and Urban Life",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Who had developed the 'Garden City' hypothesis?",
       "prashna": "'गार्डन सिटी' की अवधारणा किसने विकसित की थी?",
       "options": {
@@ -50,6 +54,8 @@
       "section": "History",
       "chapter": "6",
       "chapter_name": "Urbanization and Urban Life",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Who developed the concept of 'Garden City'?",
       "prashna": "'गार्डन सिटी' की अवधारणा किसने विकसित की थी ?",
       "options": {
@@ -73,6 +79,8 @@
       "section": "History",
       "chapter": "6",
       "chapter_name": "Urbanization and Urban Life",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The purpose to built Golghar in Patna was-",
       "prashna": "पटना में गोलघर किस उद्देश्य से बनाया गया था?",
       "options": {
@@ -96,6 +104,8 @@
       "section": "History",
       "chapter": "6",
       "chapter_name": "Urbanization and Urban Life",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which type of attitude emerged in urban system leaving the feudal system behind ?",
       "prashna": "सामंती व्यवस्था से हटकर किस प्रकार की शहरी व्यवस्था की प्रवृत्ति बढ़ी ?",
       "options": {
@@ -117,6 +127,8 @@
       "section": "History",
       "chapter": "6",
       "chapter_name": "Urbanization and Urban Life",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which is the largest city of Bihar?",
       "prashna": "बिहार का सबसे बड़ा नगर कौन है?",
       "options": {
@@ -140,6 +152,8 @@
       "section": "History",
       "chapter": "6",
       "chapter_name": "Urbanization and Urban Life",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "When did Sasaram city develop?",
       "prashna": "सासाराम नगर का विकास कब हुआ था?",
       "options": {
@@ -163,6 +177,8 @@
       "section": "History",
       "chapter": "6",
       "chapter_name": "Urbanization and Urban Life",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Sasaram city was developed in",
       "prashna": "सासाराम नगर का विकास हुआ था",
       "options": {
@@ -186,6 +202,8 @@
       "section": "History",
       "chapter": "6",
       "chapter_name": "Urbanization and Urban Life",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Who planned the main streets of Paris ?",
       "prashna": "पेरिस की प्रधान सड़कों की योजना किसने बनाई थी ?",
       "options": {
@@ -204,11 +222,61 @@
   ],
   "2026": [
     {
+      "id": "obj_10",
+      "type": "objective",
+      "section": "History",
+      "chapter": "6",
+      "chapter_name": "Urbanization and Urban Life",
+      "confidence": 0.51,
+      "raw_choice": "History - 6. Urbanization and Urban Life (शहरीकरण एवं शहरी जीवन)",
+      "question": "Who among the following came to the court of Chandragupta Maurya ?",
+      "prashna": "निम्न में से कौन चन्द्रगुप्त मौर्य के दरबार में आया था ?",
+      "options": {
+        "A": "Fa-Hien",
+        "B": "Megasthenes",
+        "C": "Confucius",
+        "D": "Seleucus Nicator"
+      },
+      "vikalpa": {
+        "A": "फाह्यान",
+        "B": "मेगास्थिनीज",
+        "C": "कन्फ्यूशियस",
+        "D": "सेल्युकस निकेटर"
+      },
+      "instructions": "Question Nos. 1 to 80 have four options each, out of which only one is correct. Mark your selected option on the OMR sheet. Answer any 40 questions."
+    },
+    {
+      "id": "obj_71",
+      "type": "objective",
+      "section": "History",
+      "chapter": "6",
+      "chapter_name": "Urbanization and Urban Life",
+      "confidence": 0.6,
+      "raw_choice": "History - 6. Urbanization and Urban Life (शहरीकरण एवं शहरी जीवन)",
+      "question": "Which was the planned town in undivided Bihar ?",
+      "prashna": "अविभाजित बिहार में कौन-सा नियोजित नगर था ?",
+      "options": {
+        "A": "Patna",
+        "B": "Ranchi",
+        "C": "Jamshedpur",
+        "D": "Gaya"
+      },
+      "vikalpa": {
+        "A": "पटना",
+        "B": "राँची",
+        "C": "जमशेदपुर",
+        "D": "गया"
+      },
+      "instructions": "Question Nos. 1 to 80 have four options each, out of which only one is correct. Mark your selected option on the OMR sheet. Answer any 40 questions."
+    },
+    {
       "id": "obj_70",
       "type": "objective",
       "section": "History",
       "chapter": "6",
       "chapter_name": "Urbanization and Urban Life",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "When did Patna become the capital of Bihar ?",
       "prashna": "पटना बिहार की राजधानी कब बनी ?",
       "options": {

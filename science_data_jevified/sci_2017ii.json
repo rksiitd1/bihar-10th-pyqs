@@ -4,6 +4,8 @@
         "type": "short_answer",
         "chapter": "10",
         "chapter_name": "Light – Reflection and Refraction",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is magnification? Describe it.",
         "prashna": "आवर्द्धन किसे कहते हैं? वर्णन करें।"
     },
@@ -12,6 +14,8 @@
         "type": "short_answer",
         "chapter": "10",
         "chapter_name": "Light – Reflection and Refraction",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is the relation between focal length ($f$) and radius of curvature in a concave mirror?",
         "prashna": "अवतल दर्पण में फोकस दूरी ($f$) और वक्रता त्रिज्या में क्या संबंध है?"
     },
@@ -20,14 +24,18 @@
         "type": "short_answer",
         "chapter": "12",
         "chapter_name": "Electricity",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is electric charge? How many types of electric charges are there?",
         "prashna": "विद्युत आवेश क्या है? विद्युत आवेश कितने प्रकार के होते हैं?"
     },
     {
         "id": "short_4",
         "type": "short_answer",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "chapter": "13",
+        "chapter_name": "Magnetic Effects of Electric Current",
+        "confidence": 0.58,
+        "raw_choice": "13. Magnetic Effects of Electric Current (विद्युत धारा के चुंबकीय प्रभाव)",
         "question": "Differentiate between alternating current and direct current.",
         "prashna": "प्रत्यावर्ती धारा एवं दिष्ट धारा में अंतर स्पष्ट करें।"
     },
@@ -36,6 +44,8 @@
         "type": "long_answer",
         "chapter": "13",
         "chapter_name": "Magnetic Effects of Electric Current",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What do you understand by an electric generator? On what principle does it work? Describe its construction and working method.",
         "prashna": "विद्युत जेनरेटर से आप क्या समझते हैं? यह किस सिद्धांत पर कार्य करता है? इसकी बनावट एवं क्रिया विधि का वर्णन करें।"
     },
@@ -44,6 +54,8 @@
         "type": "long_answer",
         "chapter": "12",
         "chapter_name": "Electricity",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What do you understand by conductor, insulator, semiconductor and superconductor? Explain with examples.",
         "prashna": "चालक, अचालक, अर्द्धचालक एवं अतिचालक से आप क्या समझते हैं? सोदाहरण व्याख्या करें।"
     },
@@ -52,6 +64,8 @@
         "type": "short_answer",
         "chapter": "4",
         "chapter_name": "Carbon and its Compounds",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is a substitution reaction?",
         "prashna": "प्रतिस्थापन अभिक्रिया क्या है?"
     },
@@ -60,6 +74,8 @@
         "type": "short_answer",
         "chapter": "1",
         "chapter_name": "Chemical Reactions and Equations",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What do you understand by a catalyst?",
         "prashna": "उत्प्रेरक से आप क्या समझते हैं?"
     },
@@ -68,6 +84,8 @@
         "type": "short_answer",
         "chapter": "4",
         "chapter_name": "Carbon and its Compounds",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is hydrogenation? What is its industrial application?",
         "prashna": "हाइड्रोजनीकरण क्या है? इसका औद्योगिक अनुप्रयोग क्या है?"
     },
@@ -76,6 +94,8 @@
         "type": "short_answer",
         "chapter": "5",
         "chapter_name": "Periodic Classification of Elements",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Write the anomalies of Mendeleev's periodic table.",
         "prashna": "मेंडलीफ के आवर्तसारणी की विसंगतियों को लिखें।"
     },
@@ -84,6 +104,8 @@
         "type": "long_answer",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.4,
+        "raw_choice": "5. Periodic Classification of Elements (तत्वों का आवर्त वर्गीकरण)",
         "question": "Match Column I and Column II-",
         "prashna": "स्तंभ I तथा स्तंभ II का मिलान करें-",
         "sub_questions": {
@@ -116,6 +138,8 @@
         "type": "long_answer",
         "chapter": "3",
         "chapter_name": "Metals and Non-metals",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Differentiate between metals and non-metals on the basis of chemical properties.",
         "prashna": "रासायनिक गुणों के आधार पर धातु और अधातु में अंतर स्पष्ट करें।"
     },
@@ -124,6 +148,8 @@
         "type": "short_answer",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What do you understand by the circulatory system?",
         "prashna": "परिसंचरण तंत्र से आप क्या समझते हैं?"
     },
@@ -132,6 +158,8 @@
         "type": "short_answer",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What do you understand by heterotrophic nutrition?",
         "prashna": "विषमपोषी पोषण से आप क्या समझते हो ?"
     },
@@ -140,6 +168,8 @@
         "type": "short_answer",
         "chapter": "8",
         "chapter_name": "How do Organisms Reproduce?",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is budding?",
         "prashna": "मुकुलन क्या है?"
     },
@@ -148,6 +178,8 @@
         "type": "short_answer",
         "chapter": "16",
         "chapter_name": "Our Environment",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What do you understand by producers?",
         "prashna": "उत्पादक से आप क्या समझते हैं?"
     },
@@ -156,6 +188,8 @@
         "type": "long_answer",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is blood? Describe its components.",
         "prashna": "रक्त क्या है? इसके घटकों का वर्णन करें।"
     },
@@ -164,6 +198,8 @@
         "type": "long_answer",
         "chapter": "8",
         "chapter_name": "How do Organisms Reproduce?",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Draw a labeled diagram of the longitudinal section of a flower.",
         "prashna": "पुष्प के अनुदैर्ध्य काट का नामांकित चित्र बनायें।"
     },
@@ -172,6 +208,8 @@
         "type": "objective",
         "chapter": "10",
         "chapter_name": "Light – Reflection and Refraction",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Rays of light travel in-",
         "prashna": "प्रकाश की किरणें गमन करती है-",
         "options": {
@@ -192,6 +230,8 @@
         "type": "objective",
         "chapter": "10",
         "chapter_name": "Light – Reflection and Refraction",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which mirror is used for shaving?",
         "prashna": "हजामत के लिए किस दर्पण का उपयोग होता है?",
         "options": {
@@ -212,6 +252,8 @@
         "type": "objective",
         "chapter": "10",
         "chapter_name": "Light – Reflection and Refraction",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The reflecting surface of a searchlight is-",
         "prashna": "सर्चलाइट का परावर्तक सतह होता है-",
         "options": {
@@ -232,6 +274,8 @@
         "type": "objective",
         "chapter": "14",
         "chapter_name": "Sources of Energy",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which of the following is not used as a cooking fuel?",
         "prashna": "निम्नलिखित में से किसका उपयोग खाना बनाने वाले ईंधन में नहीं होता है?",
         "options": {
@@ -252,6 +296,8 @@
         "type": "objective",
         "chapter": "13",
         "chapter_name": "Magnetic Effects of Electric Current",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "A dynamo converts mechanical energy into which energy?",
         "prashna": "डायनेमो यांत्रिक ऊर्जा को किस ऊर्जा में परिणत करता है?",
         "options": {
@@ -272,6 +318,8 @@
         "type": "objective",
         "chapter": "13",
         "chapter_name": "Magnetic Effects of Electric Current",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Electrical accidents in homes occur due to-",
         "prashna": "घरों में विद्युत से दुर्घटना किसके कारण होती है?",
         "options": {
@@ -292,6 +340,8 @@
         "type": "objective",
         "chapter": "11",
         "chapter_name": "The Human Eye and the Colourful World",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The eye behaves like-",
         "prashna": "आँख व्यवहार होता है-",
         "options": {
@@ -312,6 +362,8 @@
         "type": "objective",
         "chapter": "2",
         "chapter_name": "Acids, Bases and Salts",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is the chemical formula of Khadiya?",
         "prashna": "खड़िया का रासायनिक सूत्र क्या है?",
         "options": {
@@ -332,6 +384,8 @@
         "type": "objective",
         "chapter": "4",
         "chapter_name": "Carbon and its Compounds",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is the reactive radical -COOH called?",
         "prashna": "COOH अभिक्रियाशील मूलक को क्या कहते हैं?",
         "options": {
@@ -352,6 +406,8 @@
         "type": "objective",
         "chapter": "2",
         "chapter_name": "Acids, Bases and Salts",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The pH of any acidic solution is-",
         "prashna": "किसी भी अम्लीय विलयन का pH होता है-",
         "options": {
@@ -372,6 +428,8 @@
         "type": "objective",
         "chapter": "3",
         "chapter_name": "Metals and Non-metals",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Ore of Mercury is-",
         "prashna": "पारे का अयस्क है-",
         "options": {
@@ -392,6 +450,8 @@
         "type": "objective",
         "chapter": "4",
         "chapter_name": "Carbon and its Compounds",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Compounds having same molecular formula but different structural formula are called-",
         "prashna": "एक अणुसूत्र परन्तु विभिन्न संरचना सूत्र वाले यौगिक कहलाते हैं-",
         "options": {
@@ -412,6 +472,8 @@
         "type": "objective",
         "chapter": "2",
         "chapter_name": "Acids, Bases and Salts",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which of the following is a strong acid?",
         "prashna": "निम्नांकित में कौन प्रबल अम्ल हैं?",
         "options": {
@@ -432,6 +494,8 @@
         "type": "objective",
         "chapter": "5",
         "chapter_name": "Periodic Classification of Elements",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The number of horizontal rows in the modern periodic table is-",
         "prashna": "आधुनिक आवर्त सारणी में क्षैतिज कतारों की संख्या होती है-",
         "options": {
@@ -452,6 +516,8 @@
         "type": "objective",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Helps in blood clotting-",
         "prashna": "रक्त का थक्का बनाने में सहायक होता है-",
         "options": {
@@ -472,6 +538,8 @@
         "type": "objective",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is the structural and functional unit of kidney called?",
         "prashna": "वृक्क की संरचनात्मक एवं क्रियात्मक इकाई को क्या कहते हैं?",
         "options": {
@@ -492,6 +560,8 @@
         "type": "objective",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "In unicellular algae, transport of water takes place through...........",
         "prashna": "एक कोशिकीय शैवाल में जल का परिवहन ...........द्वारा होता है।",
         "options": {
@@ -512,6 +582,8 @@
         "type": "objective",
         "chapter": "7",
         "chapter_name": "Control and Coordination",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Brain is responsible for-",
         "prashna": "मस्तिष्क उत्तरदायी है-",
         "options": {
@@ -532,6 +604,8 @@
         "type": "objective",
         "chapter": "8",
         "chapter_name": "How do Organisms Reproduce?",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Anther contains-",
         "prashna": "परागकोश में होता है-",
         "options": {
@@ -552,6 +626,8 @@
         "type": "objective",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "How many teeth does an adult human have?",
         "prashna": "एक वयस्क मनुष्य के कितने दाँत होते हैं?",
         "options": {

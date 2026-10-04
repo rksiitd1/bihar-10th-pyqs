@@ -1,4 +1,17 @@
 {
+  "2011": [
+    {
+      "id": "short_18",
+      "type": "short_answer",
+      "section": "Civics",
+      "chapter": "7",
+      "chapter_name": "Outcomes of Democracy",
+      "confidence": 0.54,
+      "raw_choice": "Civics - 7. Outcomes of Democracy (लोकतंत्र के परिणाम)",
+      "question": "Write about Article $19$ of the Indian Constitution.",
+      "prashna": "भारतीय संविधान के अनुच्छेद $19$ के विषय में लिखें।"
+    }
+  ],
   "2020": [
     {
       "id": "short_11",
@@ -6,6 +19,8 @@
       "section": "Civics",
       "chapter": "7",
       "chapter_name": "Outcomes of Democracy",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Write a short note on the responsibility and objective of democracy in the coming society.",
       "prashna": "भावी समाज में लोकतंत्र की जिम्मेदारी और उद्देश्य पर एक संक्षिप्त टिप्पणी लिखें।"
     }

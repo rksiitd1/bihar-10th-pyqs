@@ -27,11 +27,11 @@ def safe_print(*args, **kwargs):
         print(*args, **kwargs)
 
 def reorder_question(q: Dict[str, Any], meta: Dict[str, Any], is_multi: bool) -> Dict[str, Any]:
-    """Inserts section (if multi), chapter, chapter_name right after 'type'."""
+    """Inserts section (if multi), chapter, chapter_name, confidence, raw_choice right after 'type'."""
     new_q = {}
     inserted = False
     for k, v in q.items():
-        if k in ("chapter", "chapter_name", "section"):
+        if k in ("chapter", "chapter_name", "section", "confidence", "raw_choice"):
             continue
         new_q[k] = v
         if k == "type":
@@ -39,6 +39,8 @@ def reorder_question(q: Dict[str, Any], meta: Dict[str, Any], is_multi: bool) ->
                 new_q["section"] = meta.get("section", "UNCLASSIFIED")
             new_q["chapter"] = meta.get("chapter", "UNCLASSIFIED")
             new_q["chapter_name"] = meta.get("chapter_name", "UNCLASSIFIED")
+            new_q["confidence"] = meta.get("confidence", 0.0)
+            new_q["raw_choice"] = meta.get("raw_choice", "")
             inserted = True
             
     if not inserted:
@@ -46,6 +48,8 @@ def reorder_question(q: Dict[str, Any], meta: Dict[str, Any], is_multi: bool) ->
             new_q["section"] = meta.get("section", "UNCLASSIFIED")
         new_q["chapter"] = meta.get("chapter", "UNCLASSIFIED")
         new_q["chapter_name"] = meta.get("chapter_name", "UNCLASSIFIED")
+        new_q["confidence"] = meta.get("confidence", 0.0)
+        new_q["raw_choice"] = meta.get("raw_choice", "")
         
     return new_q
 

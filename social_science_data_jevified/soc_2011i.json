@@ -5,6 +5,8 @@
         "section": "History",
         "chapter": "2",
         "chapter_name": "Socialism and Communism",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Where was Karl Marx born?",
         "prashna": "कार्ल मार्क्स का जन्म कहाँ हुआ था ?",
         "options": {
@@ -26,6 +28,8 @@
         "section": "History",
         "chapter": "4",
         "chapter_name": "Nationalism in India",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "When did the Jallianwala Bagh massacre happen?",
         "prashna": "जलियाँवाला बाग हत्याकांड कब हुआ था ?",
         "options": {
@@ -47,6 +51,8 @@
         "section": "History",
         "chapter": "8",
         "chapter_name": "Press, Culture and Nationalism",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Where did the printing press first start in the world?",
         "prashna": "विश्व में सर्वप्रथम मुद्रण की शुरुआत कहाँ हुई?",
         "options": {
@@ -68,6 +74,8 @@
         "section": "History",
         "chapter": "2",
         "chapter_name": "Socialism and Communism",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The Russian Revolution influenced the whole world. Explain with any two examples.",
         "prashna": "रूस की क्रांति ने पूरे विश्व को प्रभावित किया। किन्हीं दो उदाहरणों द्वारा स्पष्ट करें।"
     },
@@ -77,6 +85,8 @@
         "section": "History",
         "chapter": "3",
         "chapter_name": "Nationalist Movement in Indo-China",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Give a brief introduction of Ho Chi Minh.",
         "prashna": "हो-ची-मिन्ह का संक्षिप्त परिचय दें।"
     },
@@ -86,6 +96,8 @@
         "section": "History",
         "chapter": "6",
         "chapter_name": "Urbanization and Urban Life",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Mention any two differences between rural and urban life.",
         "prashna": "ग्रामीण तथा नगरीय जीवन के बीच किन्हीं दो भिन्नताओं का उल्लेख करें।"
     },
@@ -95,6 +107,8 @@
         "section": "History",
         "chapter": "1",
         "chapter_name": "Nationalism in Europe",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What was the contribution of Mazzini in the unification of Italy?",
         "prashna": "इटली के एकीकरण में मेजिनी का क्या योगदान था ?"
     },
@@ -104,15 +118,19 @@
         "section": "History",
         "chapter": "7",
         "chapter_name": "Trade and Globalization",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Give a brief description of any three causes of the economic crisis of 1929 AD.",
         "prashna": "1929 ई० के आर्थिक संकट के किन्हीं तीन कारणों का संक्षिप्त विवरण दें।"
     },
     {
         "id": "short_6",
         "type": "short_answer",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "History",
+        "chapter": "8",
+        "chapter_name": "Press, Culture and Nationalism",
+        "confidence": 0.51,
+        "raw_choice": "History - 8. Press, Culture and Nationalism (प्रेस संस्कृति एवं राष्ट्रवाद)",
         "question": "Highlight the role of the press in independent India.",
         "prashna": "स्वतंत्र भारत में प्रेस की भूमिका पर प्रकाश डालें।"
     },
@@ -122,6 +140,8 @@
         "section": "History",
         "chapter": "4",
         "chapter_name": "Nationalism in India",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "How was the All India National Congress established? What were its initial objectives?",
         "prashna": "अखिल भारतीय राष्ट्रीय काँग्रेस की स्थापना कैसे हुई? इसके प्रारंभिक उद्देश्य क्या थे?"
     },
@@ -131,6 +151,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.4,
+        "raw_choice": "History - 5. Economy and Livelihood (अर्थव्यवस्था और आजीविका)",
         "question": "What do you understand by colonialism? How did industrialization give birth to colonialism?",
         "prashna": "उपनिवेशवाद से आप क्या समझते हैं? औद्योगिकीकरण ने कैसे उपनिवेशवाद को जन्म दिया ?"
     },
@@ -140,6 +162,8 @@
         "section": "Geography",
         "chapter": "2",
         "chapter_name": "Agriculture",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Name the wheat-producing regions of India while mentioning the main geographical conditions for wheat production.",
         "prashna": "गेहूँ उत्पादन हेतु मुख्य भौगोलिक दशाओं का उल्लेख करते हुए भारत के गेहूँ उत्पादक क्षेत्रों के नाम लिखें।"
     },
@@ -149,6 +173,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.46,
+        "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
         "question": "Introduce the Mumbai High oil-producing area.",
         "prashna": "मुम्बई हाई तेल उत्पादक क्षेत्र का परिचय दें।"
     },
@@ -158,15 +184,19 @@
         "section": "Geography",
         "chapter": "2",
         "chapter_name": "Agriculture",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What do you understand by 'Green Revolution'?",
         "prashna": "'हरित क्रांति' से आप क्या समझते हैं?"
     },
     {
         "id": "short_10",
         "type": "short_answer",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Economics",
+        "chapter": "6",
+        "chapter_name": "Globalization",
+        "confidence": 0.63,
+        "raw_choice": "Economics - 6. Globalization (वैश्वीकरण)",
         "question": "Describe the main points of the New Industrial Policy.",
         "prashna": "नई औद्योगिक नीति के मुख्य बिन्दुओं का वर्णन करें।"
     },
@@ -176,6 +206,8 @@
         "section": "Geography",
         "chapter": "1",
         "chapter_name": "India: Resources and Utilization",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Mention two main factors of forest destruction.",
         "prashna": "वन विनाश के दो मुख्य कारकों का उल्लेख करें।"
     },
@@ -185,6 +217,8 @@
         "section": "Geography",
         "chapter": "1",
         "chapter_name": "India: Resources and Utilization",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Write the names of four types of coal.",
         "prashna": "कोयले के चार प्रकारों के नाम लिखें।"
     },
@@ -194,6 +228,8 @@
         "section": "Geography",
         "chapter": "2",
         "chapter_name": "Agriculture",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Explain the difference between commercial agriculture and subsistence agriculture.",
         "prashna": "व्यापारिक कृषि एवं निर्वाहक कृषि में अन्तर स्पष्ट करें।"
     },
@@ -203,6 +239,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.37,
+        "raw_choice": "Economics - 1. History of Economy and its Development (अर्थव्यवस्था एवं इसके विकास का इतिहास)",
         "question": "At which place in India was the first nuclear power plant established?",
         "prashna": "भारत के किस स्थान पर पहला परमाणु ऊर्जा केन्द्र स्थापित किया गया था ?",
         "options": {
@@ -224,6 +262,8 @@
         "section": "Geography",
         "chapter": "1",
         "chapter_name": "India: Resources and Utilization",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which animal is found only in India?",
         "prashna": "कौन-सा जानवर केवल भारत में ही पाया जाता है?",
         "options": {
@@ -245,6 +285,8 @@
         "section": "Geography",
         "chapter": "4",
         "chapter_name": "Transport, Communication and Trade",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which of the following was the first railway line in Bihar?",
         "prashna": "बिहार की पहली रेल लाइन निम्न में से कौन थी ?",
         "options": {
@@ -266,6 +308,8 @@
         "section": "Civics",
         "chapter": "7",
         "chapter_name": "Outcomes of Democracy",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "How does democracy form an accountable and legitimate government?",
         "prashna": "लोकतंत्र किस तरह उत्तरदायी एवं वैध सरकार का गठन करता है ?"
     },
@@ -275,6 +319,8 @@
         "section": "Civics",
         "chapter": "2",
         "chapter_name": "Federalism (Working of Power Sharing)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Describe the main functions of a Municipal Corporation.",
         "prashna": "नगर निगम के प्रमुख कार्यों का वर्णन करें।"
     },
@@ -284,6 +330,8 @@
         "section": "Civics",
         "chapter": "6",
         "chapter_name": "Political Parties",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What are National Political Parties?",
         "prashna": "राष्ट्रीय राजनीतिक दल किसे कहते हैं?"
     },
@@ -293,6 +341,8 @@
         "section": "Civics",
         "chapter": "6",
         "chapter_name": "Political Parties",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Write three measures in brief to make political parties effective.",
         "prashna": "राजनीतिक दलों को प्रभावशाली बनाने के तीन उपायों को संक्षेप में लिखें।"
     },
@@ -302,6 +352,8 @@
         "section": "Civics",
         "chapter": "4",
         "chapter_name": "Gender, Religion and Caste",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is the contribution of women in the progress of the nation?",
         "prashna": "राष्ट्र की प्रगति में महिलाओं का क्या योगदान है ?"
     },
@@ -311,24 +363,30 @@
         "section": "Civics",
         "chapter": "2",
         "chapter_name": "Federalism (Working of Power Sharing)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "State two features of federal government.",
         "prashna": "संघीय शासन की दो विशेषताएँ बताइए।"
     },
     {
         "id": "short_18",
         "type": "short_answer",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Civics",
+        "chapter": "7",
+        "chapter_name": "Outcomes of Democracy",
+        "confidence": 0.54,
+        "raw_choice": "Civics - 7. Outcomes of Democracy (लोकतंत्र के परिणाम)",
         "question": "Write about Article $19$ of the Indian Constitution.",
         "prashna": "भारतीय संविधान के अनुच्छेद $19$ के विषय में लिखें।"
     },
     {
         "id": "obj_7",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Civics",
+        "chapter": "4",
+        "chapter_name": "Gender, Religion and Caste",
+        "confidence": 0.54,
+        "raw_choice": "Civics - 4. Gender, Religion and Caste (जाति, धर्म और लैंगिक मसले)",
         "question": "Where is there a provision for reservation for women in India?",
         "prashna": "भारत में कहाँ महिलाओं के लिए आरक्षण की व्यवस्था है ?",
         "options": {
@@ -350,6 +408,8 @@
         "section": "Civics",
         "chapter": "5",
         "chapter_name": "Popular Struggles and Movements",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Where did the 'Right to Information Movement' start?",
         "prashna": "'सूचना के अधिकार आन्दोलन' की शुरुआत कहाँ से हुई ?",
         "options": {
@@ -371,6 +431,8 @@
         "section": "Economics",
         "chapter": "1",
         "chapter_name": "History of Economy and its Development",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is economic planning? What are the main objectives of planning?",
         "prashna": "आर्थिक नियोजन किसे कहते हैं? नियोजन के मुख्य उद्देश्य क्या हैं?"
     },
@@ -380,15 +442,19 @@
         "section": "Economics",
         "chapter": "4",
         "chapter_name": "Our Financial Institutions",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Discuss the main functions of commercial banks.",
         "prashna": "व्यावसायिक बैंकों के मुख्य कार्यों की विवेचना करें।"
     },
     {
         "id": "short_19",
         "type": "short_answer",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "History",
+        "chapter": "2",
+        "chapter_name": "Socialism and Communism",
+        "confidence": 0.58,
+        "raw_choice": "History - 2. Socialism and Communism (समाजवाद एवं साम्यवाद)",
         "question": "Write three features of economic reforms or the New Economic Policy.",
         "prashna": "आर्थिक सुधारों या नई आर्थिक नीति की तीन विशेषताएँ लिखें।"
     },
@@ -398,6 +464,8 @@
         "section": "Economics",
         "chapter": "5",
         "chapter_name": "Employment and Services",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is outsourcing (Bahyasroti)?",
         "prashna": "बाह्यस्रोती किसे कहते हैं?"
     },
@@ -407,6 +475,8 @@
         "section": "Economics",
         "chapter": "7",
         "chapter_name": "Consumer Awareness and Protection",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Write about the duties of the consumer.",
         "prashna": "उपभोक्ता के कर्तव्यों के बारे में लिखें।"
     },
@@ -416,6 +486,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.21,
+        "raw_choice": "Economics - 2. State and National Income (राज्य एवं राष्ट्र की आय)",
         "question": "Write the full forms of the following.",
         "prashna": "निम्न के विस्तारित रूप लिखें।",
         "sub_questions": {
@@ -433,6 +505,8 @@
         "section": "Economics",
         "chapter": "4",
         "chapter_name": "Our Financial Institutions",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Write the definition of cooperation.",
         "prashna": "सहकारिता की परिभाषा लिखें।"
     },
@@ -442,6 +516,8 @@
         "section": "Economics",
         "chapter": "4",
         "chapter_name": "Our Financial Institutions",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "When was the Reserve Bank of India established?",
         "prashna": "भारतीय रिजर्व बैंक की स्थापना कब हुई ?",
         "options": {
@@ -463,6 +539,8 @@
         "section": "Economics",
         "chapter": "6",
         "chapter_name": "Globalization",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "How many main components of globalization are there?",
         "prashna": "वैश्वीकरण के मुख्य अंग कितने हैं?",
         "options": {
@@ -484,6 +562,8 @@
         "section": "Geography",
         "chapter": "9",
         "chapter_name": "Natural Disaster Management: Earthquake and Tsunami",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is an earthquake? Mention any two measures to protect from it.",
         "prashna": "भूकंप क्या है? इससे बचाव के किन्हीं दो उपायों का उल्लेख करें।"
     },
@@ -493,6 +573,8 @@
         "section": "Geography",
         "chapter": "7",
         "chapter_name": "Natural Disaster: An Introduction",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which of the following is not a man-made disaster?",
         "prashna": "निम्न में से कौन मानव जनित आपदा नहीं है?",
         "options": {
@@ -514,6 +596,8 @@
         "section": "Geography",
         "chapter": "8",
         "chapter_name": "Natural Disaster Management: Flood and Drought",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Describe the losses caused by floods.",
         "prashna": "बाढ़ से होनेवाली हानियों का वर्णन करें।"
     }

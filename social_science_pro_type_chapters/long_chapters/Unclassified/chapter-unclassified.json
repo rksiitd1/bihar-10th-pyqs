@@ -6,6 +6,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.4,
+      "raw_choice": "History - 5. Economy and Livelihood (अर्थव्यवस्था और आजीविका)",
       "question": "What do you understand by colonialism? How did industrialization give birth to colonialism?",
       "prashna": "उपनिवेशवाद से आप क्या समझते हैं? औद्योगिकीकरण ने कैसे उपनिवेशवाद को जन्म दिया ?"
     }
@@ -17,6 +19,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.48,
+      "raw_choice": "Civics - 1. Power Sharing in Democracy (लोकतंत्र में सत्ता की साझेदारी)",
       "question": "How do political parties share power?",
       "prashna": "राजनीतिक दल किस तरह सत्ता में साझेदारी करते हैं?"
     }
@@ -28,26 +32,10 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.36,
+      "raw_choice": "Civics - 4. Gender, Religion and Caste (जाति, धर्म और लैंगिक मसले)",
       "question": "How do familyism and casteism affect democracy in Bihar?",
       "prashna": "परिवारवाद और जातिवाद बिहार में किस तरह लोकतंत्र को प्रभावित करता है?"
-    },
-    {
-      "id": "long_6",
-      "type": "long_answer",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "What was the impact of the current economic recession on the service sector in India? Write.",
-      "prashna": "वर्तमान आर्थिक मंदी का प्रभाव भारत में सेवा क्षेत्र पर क्या पड़ा? लिखें।"
-    },
-    {
-      "id": "long_25_2",
-      "type": "long_answer",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "Write on the importance of 'Human Rights'.",
-      "prashna": "'मानवाधिकार' के महत्त्व पर लिखें।"
     }
   ],
   "2016": [
@@ -57,17 +45,10 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.35,
+      "raw_choice": "History - 7. Trade and Globalization (व्यापार और भूमंडलीकरण)",
       "question": "What do you mean by colonization ? How did industrialisation give birth to colonization ? Explain.",
       "prashna": "उपनिवेशवाद से आप क्या समझते हैं ? औद्योगिकीकरण ने उपनिवेशवाद को कैसे जन्म दिया ? वर्णन करें।"
-    },
-    {
-      "id": "long_2_1",
-      "type": "long_answer",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "Describe the contribution of industries on Indian economy in detail.",
-      "prashna": "भारतीय अर्थव्यवस्था में उद्योगों के योगदान का विस्तार पूर्वक वर्णन करें।"
     },
     {
       "id": "long_3_1",
@@ -75,6 +56,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.49,
+      "raw_choice": "Civics - 6. Political Parties (राजनीतिक दल)",
       "question": "How do familycracy and casteism affect the democracy in Bihar ?",
       "prashna": "परिवारवाद और जातिवाद बिहार में किस तरह लोकतंत्र को प्रभावित करते हैं ?"
     },
@@ -84,17 +67,10 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.36,
+      "raw_choice": "History - 5. Economy and Livelihood (अर्थव्यवस्था और आजीविका)",
       "question": "What do you understand by colonialism? How did industrialization give birth to colonialism?",
       "prashna": "उपनिवेशवाद से आप क्या समझते हैं? औद्योगीकरण ने उपनिवेशवाद को कैसे जन्म दिया ?"
-    },
-    {
-      "id": "long_2",
-      "type": "long_answer",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "Describe in detail the contribution of industries to the Indian economy.",
-      "prashna": "भारतीय अर्थव्यवस्था में उद्योगों के योगदान का विस्तारपूर्वक वर्णन करें।"
     }
   ],
   "2018": [
@@ -104,6 +80,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.3,
+      "raw_choice": "Civics - 4. Gender, Religion and Caste (जाति, धर्म और लैंगिक मसले)",
       "question": "How do nepotism and casteism affect democracy in Bihar?",
       "prashna": "परिवारवाद और जातिवाद बिहार में किस तरह लोकतंत्र को प्रभावित करता है?"
     },
@@ -113,17 +91,10 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.36,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
       "question": "Describe the major energy sources of Bihar and describe one source in detail.",
       "prashna": "बिहार के प्रमुख ऊर्जा स्रोतों का वर्णन कीजिए और किसी एक स्रोत का विस्तृत वर्णन कीजिए।"
-    },
-    {
-      "id": "long_2_2",
-      "type": "long_answer",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "How the role of judiciary is a challenge to democracy? What are the measures for its improvement?",
-      "prashna": "न्यायपालिका की भूमिका लोकतंत्र की चुनौती है। कैसे? इसे सुधारने के क्या उपाय हैं?"
     }
   ],
   "2019": [
@@ -133,66 +104,34 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.38,
+      "raw_choice": "Economics - 1. History of Economy and its Development (अर्थव्यवस्था एवं इसके विकास का इतिहास)",
       "question": "Describe the effects of mining activity on the economy.",
       "prashna": "अर्थव्यवस्था पर खनन – कार्य के प्रभावों का वर्णन करें।"
     }
   ],
-  "2020": [
-    {
-      "id": "long_5",
-      "type": "long_answer",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "What are the important elements of co-operation ? Explain its role in development of a state.",
-      "prashna": "सहकारिता के महत्त्वपूर्ण तत्त्व क्या हैं ? राज्य के विकास में इसकी भूमिका का वर्णन करें।"
-    },
-    {
-      "id": "long_15",
-      "type": "long_answer",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "Write any four characteristics of Indian democracy.",
-      "prashna": "भारतीय लोकतंत्र की किन्हीं चार विशेषताओं का वर्णन करें।"
-    }
-  ],
   "2021": [
-    {
-      "id": "long_7",
-      "type": "long_answer",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "Review the role and impact of the press in the Indian National Movement.",
-      "prashna": "भारतीय राष्ट्रीय आंदोलन में प्रेस की भूमिका एवं प्रभावों की समीक्षा करें।"
-    },
     {
       "id": "long_14",
       "type": "long_answer",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.48,
+      "raw_choice": "Civics - 7. Outcomes of Democracy (लोकतंत्र के परिणाम)",
       "question": "What are the essential conditions for the success of democracy?",
       "prashna": "लोकतंत्र की सफलता के लिए कौन-सी आवश्यक शर्तें हैं?"
     }
   ],
   "2022": [
     {
-      "id": "long_3",
-      "type": "long_answer",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "Describe the structure and functions of Gram Kachhari.",
-      "prashna": "ग्राम कचहरी की संरचना एवं कार्यों का वर्णन करें।"
-    },
-    {
       "id": "long_8",
       "type": "long_answer",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.47,
+      "raw_choice": "Geography - 2. Agriculture (कृषि)",
       "question": "Discuss the food security system adopted by the government to solve the problem of starvation.",
       "prashna": "भुखमरी की समस्या के निवारण के लिए सरकार द्वारा अपनाई गई खाद्य सुरक्षा प्रणाली की विवेचना कीजिए ।"
     }
@@ -204,85 +143,21 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.49,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
       "question": "Explain the concept of sustainable development.",
       "prashna": "सतत विकास की अवधारणा की व्याख्या कीजिए।"
     }
   ],
-  "2024": [
-    {
-      "id": "long_3",
-      "type": "long_answer",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "How is the Federal system helpful in National integration? Describe.",
-      "prashna": "संघात्मक व्यवस्था राष्ट्रीय एकता में किस प्रकार सहायक है ? वर्णन कीजिए।"
-    },
-    {
-      "id": "long_3",
-      "type": "long_answer",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "Discuss the role of judiciary in federal system.",
-      "prashna": "संघीय व्यवस्था में न्यायपालिका की भूमिका की विवेचना कीजिए।"
-    }
-  ],
-  "2025": [
-    {
-      "id": "long_5",
-      "type": "long_answer",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "Discuss the role of infrastructure in the economic development of the country.",
-      "prashna": "देश के आर्थिक विकास में आधारिक संरचना की भूमिका की विवेचना करें।"
-    },
-    {
-      "id": "long_5",
-      "type": "long_answer",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "Discuss the role of infrastructure in the economic development of the country.",
-      "prashna": "देश के आर्थिक विकास में आधारिक संरचना की भूमिका की विवेचना करें।"
-    }
-  ],
   "2026": [
-    {
-      "id": "long_5",
-      "type": "long_answer",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "Discuss the contribution of infrastructure in the economic development of the country.",
-      "prashna": "देश के आर्थिक विकास में आधारिक संरचना के योगदान पर चर्चा करें।",
-      "instructions": "Question Nos. 19 and 20 are Long Answer Type. Answer any 1 of them. Each question carries 4 marks."
-    },
-    {
-      "id": "long_3",
-      "type": "long_answer",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "What is the role of democracy in establishing harmony among social diversities ?",
-      "prashna": "सामाजिक विविधताओं के बीच सामंजस्य स्थापित करने में लोकतंत्र की क्या भूमिका है ?"
-    },
-    {
-      "id": "long_4",
-      "type": "long_answer",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "Why do we need a three-tier government in the context of India ?",
-      "prashna": "भारत के परिप्रेक्ष्य में हमें त्रिस्तरीय सरकार की आवश्यकता क्यों है ?"
-    },
     {
       "id": "long_7",
       "type": "long_answer",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.42,
+      "raw_choice": "Civics - 5. Popular Struggles and Movements (जन-संघर्ष और आंदोलन)",
       "question": "Describe the importance of the role of local communities in the management and restoration of forests.",
       "prashna": "वनों के प्रबंधन एवं पुनर्निर्माण में स्थानीय समुदायों की भूमिका के महत्व का वर्णन करें।"
     }

@@ -6,6 +6,8 @@
       "section": "Geography",
       "chapter": "10",
       "chapter_name": "Life Saving Emergency Management",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "In case of burns by fire on the human body, what primary treatment should be given at the burned spot?",
       "prashna": "मानव शरीर में आग से जलने की स्थिति में जले हुए स्थान पर क्या प्राथमिक उपचार करना चाहिए?",
       "options": {
@@ -22,6 +24,31 @@
       }
     }
   ],
+  "2020": [
+    {
+      "id": "obj_42",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "10",
+      "chapter_name": "Life Saving Emergency Management",
+      "confidence": 0.51,
+      "raw_choice": "Geography - 10. Life Saving Emergency Management (जीवन रक्षक आकस्मिक प्रबंधन)",
+      "question": "Amount of water present in human body is",
+      "prashna": "मानव शरीर में जल की मात्रा होती है",
+      "options": {
+        "A": "55%",
+        "B": "60%",
+        "C": "65%",
+        "D": "70%"
+      },
+      "vikalpa": {
+        "A": "$55\\%$",
+        "B": "$60\\%$",
+        "C": "$65\\%$",
+        "D": "$70\\%$"
+      }
+    }
+  ],
   "2021": [
     {
       "id": "obj_59",
@@ -29,6 +56,8 @@
       "section": "Geography",
       "chapter": "10",
       "chapter_name": "Life Saving Emergency Management",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which instrument is used to detect people buried under debris?",
       "prashna": "मलवे के नीचे दबे लोगों का पता लगाने के लिए किस यंत्र का उपयोग होता है ?",
       "options": {
@@ -52,6 +81,8 @@
       "section": "Geography",
       "chapter": "10",
       "chapter_name": "Life Saving Emergency Management",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which instrument is used to locate the people buried under the rubble?",
       "prashna": "मलवे के नीचे दबे हुए लोगों का पता लगाने के लिए किस यंत्र की मदद ली जाती है ?",
       "options": {
@@ -75,6 +106,8 @@
       "section": "Geography",
       "chapter": "10",
       "chapter_name": "Life Saving Emergency Management",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is a first-aid equipment ?",
       "prashna": "निम्न में से कौन प्राथमिक उपचार का उपकरण है ?",
       "options": {

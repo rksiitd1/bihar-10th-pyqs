@@ -6,6 +6,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which animal is found only in India?",
       "prashna": "कौन-सा जानवर केवल भारत में ही पाया जाता है?",
       "options": {
@@ -29,6 +31,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is the main cause of land degradation in Punjab?",
       "prashna": "पंजाब की भूमि निम्नीकरण की मुख्य कारण निम्न में से कौन है?",
       "options": {
@@ -52,6 +56,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is the other name for black soil?",
       "prashna": "काली मृदा का दूसरा नाम क्या है ?",
       "options": {
@@ -75,6 +81,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following resources is solar energy?",
       "prashna": "सौर ऊर्जा निम्नलिखित में से कौन-सा साधन है ?",
       "options": {
@@ -96,6 +104,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Due to the presence of water in a vast area, the Earth is called",
       "prashna": "वृहद क्षेत्र में जल की उपस्थिति के कारण ही पृथ्वी को कहते हैं",
       "options": {
@@ -112,6 +122,54 @@
       }
     }
   ],
+  "2015": [
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.61,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "Major production place of uranium is",
+      "prashna": "यूरेनियम के प्रमुख उत्पादक स्थल है",
+      "options": {
+        "A": "Digboi",
+        "B": "Jharia",
+        "C": "Ghatshila",
+        "D": "Jadugoda"
+      },
+      "vikalpa": {
+        "A": "दिगबोई",
+        "B": "झरिया",
+        "C": "घाटशिला",
+        "D": "जादूगोडा"
+      }
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.63,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "The main producing center of Uranium is",
+      "prashna": "यूरेनियम का प्रमुख उत्पादक स्थल है",
+      "options": {
+        "A": "Digboi",
+        "B": "Jharia",
+        "C": "Ghatshila",
+        "D": "Jaduguda"
+      },
+      "vikalpa": {
+        "A": "दिगबोई",
+        "B": "झरिया",
+        "C": "घाटशिला",
+        "D": "जादूगोड़ा"
+      }
+    }
+  ],
   "2016": [
     {
       "id": "obj_3",
@@ -119,6 +177,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "In which state is desert soil found ?",
       "prashna": "मरुस्थलीय मृदा किस राज्य में पाया जाता है ?",
       "options": {
@@ -140,6 +200,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "In which state is arid soil found?",
       "prashna": "मरुस्थलीय मृदा किस राज्य में पायी जाती है ?",
       "options": {
@@ -163,6 +225,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Among the following, where is soil found in vastness?",
       "prashna": "मृदा का विस्तार निम्न में से कहाँ है?",
       "options": {
@@ -184,6 +248,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Where among the following is the extension of arid soil?",
       "prashna": "मरुस्थलीय मृदा का विस्तार निम्न में से कहाँ है?",
       "options": {
@@ -202,11 +268,82 @@
   ],
   "2018": [
     {
+      "id": "obj_12",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.54,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "What percentage of water is contained in the bodies of living beings?",
+      "prashna": "प्राणियों के शरीर में कितना प्रतिशत जल की मात्रा निहित होती है ?",
+      "options": {
+        "A": "$55\\%$",
+        "B": "$60\\%$",
+        "C": "$65\\%$",
+        "D": "$70\\%$"
+      },
+      "vikalpa": {
+        "A": "$55\\%$",
+        "B": "$60\\%$",
+        "C": "$65\\%$",
+        "D": "$70\\%$"
+      }
+    },
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.53,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "From the perspective of forest conservation and management, into how many categories have forests been classified?",
+      "prashna": "वन संरक्षण एवं प्रबंधन की दृष्टि से वनों को कितने वर्गों में वर्गीकृत किया गया है?,",
+      "options": {
+        "A": "In $4$ categories",
+        "B": "In $3$ categories",
+        "C": "In $5$ categories",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "$4$ वर्गों में",
+        "B": "$3$ वर्गों में",
+        "C": "$5$ वर्गों में",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.55,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "According to the forestry report of an NGO, what was the extent of forest area in the world in $1948$ in hectares?",
+      "prashna": "एक एन०जी०ओ० की वानिकी रिपोर्ट के अनुसार $1948$ में विश्व में कितने हेक्टेयर भूमि पर वन का विस्तार था ?",
+      "options": {
+        "A": "In $600$ crore hectares",
+        "B": "In $400$ crore hectares",
+        "C": "In $800$ crore hectares",
+        "D": "In $500$ crore hectares"
+      },
+      "vikalpa": {
+        "A": "$600$ करोड़ हेक्टेयर में",
+        "B": "$400$ करोड़ हेक्टेयर में",
+        "C": "$800$ करोड़ हेक्टेयर में",
+        "D": "$500$ करोड़ हेक्टेयर में"
+      }
+    },
+    {
       "id": "obj_16",
       "type": "objective",
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which is the best type of coal?",
       "prashna": "कोयले का सर्वोत्तम प्रकार कौन-सा है ?",
       "options": {
@@ -228,6 +365,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the Indian state has maximum possibilities for the development of Solar Energy?",
       "prashna": "भारत के किस राज्य में सौर ऊर्जा के विकास की सर्वाधिक संभावनाएँ हैं?",
       "options": {
@@ -242,6 +381,29 @@
         "C": "राजस्थान",
         "D": "मेघालय"
       }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.68,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "What are the main sources of energy?",
+      "prashna": "ऊर्जा के मुख्य स्रोत क्या हैं?",
+      "options": {
+        "A": "Coal",
+        "B": "Petroleum",
+        "C": "Electricity",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "कोयला",
+        "B": "पेट्रोलियम",
+        "C": "विद्युत",
+        "D": "इनमें से सभी"
+      }
     }
   ],
   "2019": [
@@ -251,6 +413,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Who said 'Resources do not exist but are made'?",
       "prashna": "किसने कहा- 'संसाधन होते नहीं, बनते हैं'?",
       "options": {
@@ -272,6 +436,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following types of resource is solar energy?",
       "prashna": "सौर ऊर्जा निम्नलिखित में से कौन-सा संसाधन है?",
       "options": {
@@ -293,6 +459,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which is not an example of primary energy?",
       "prashna": "प्राथमिक ऊर्जा का उदाहरण कौन सा नहीं है?",
       "options": {
@@ -309,11 +477,36 @@
       }
     },
     {
+      "id": "obj_25",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.67,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "An important Uranium producing center is-",
+      "prashna": "यूरेनियम का प्रमुख उत्पादक केन्द्र है-",
+      "options": {
+        "A": "Digboi",
+        "B": "Jharia",
+        "C": "Ghatshila",
+        "D": "Jadugora"
+      },
+      "vikalpa": {
+        "A": "डिगबोई",
+        "B": "झरिया",
+        "C": "घाटशिला",
+        "D": "जादूगोड़ा"
+      }
+    },
+    {
       "id": "obj_37",
       "type": "objective",
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Because of the presence of water in large area, the earth is called-",
       "prashna": "बृहद क्षेत्र में जल की उपस्थिति के कारण ही पृथ्वी को कहते हैं?",
       "options": {
@@ -335,6 +528,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Black soil is suitable for -",
       "prashna": "काली मिट्टी उपयुक्त है -",
       "options": {
@@ -356,6 +551,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of these is not the primary energy?",
       "prashna": "इनमें से कौन सी प्राथमिक ऊर्जा नहीं है?",
       "options": {
@@ -379,6 +576,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The leading coal producing state in India is",
       "prashna": "भारत में कोयले का सर्वप्रमुख उत्पादक राज्य है",
       "options": {
@@ -400,6 +599,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Coal is",
       "prashna": "कोयला है",
       "options": {
@@ -421,6 +622,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The main cause of land degradation in Punjab is",
       "prashna": "पंजाब में भूमि निम्नीकरण का मुख्य कारण है",
       "options": {
@@ -442,6 +645,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following creatures is found only in India ?",
       "prashna": "निम्न जीवों में कौन केवल भारत में पाया जाता है ?",
       "options": {
@@ -458,11 +663,36 @@
       }
     },
     {
+      "id": "obj_17",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.55,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "Hirakud Dam is in",
+      "prashna": "हीराकुड बांध है",
+      "options": {
+        "A": "Karnataka",
+        "B": "Tamil Nadu",
+        "C": "Bihar",
+        "D": "Odisha"
+      },
+      "vikalpa": {
+        "A": "कर्नाटक में",
+        "B": "तमिलनाडु में",
+        "C": "बिहार में",
+        "D": "ओडिशा में"
+      }
+    },
+    {
       "id": "obj_18",
       "type": "objective",
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Sundarban is in",
       "prashna": "सुंदरवन है",
       "options": {
@@ -484,6 +714,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Where was the Second Earth Summit held?",
       "prashna": "द्वितीय पृथ्वी सम्मेलन कहाँ हुआ था?",
       "options": {
@@ -505,6 +737,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which state has the maximum expansion of forest?",
       "prashna": "किस राज्य में वनों का सबसे अधिक विस्तार है?",
       "options": {
@@ -523,11 +757,59 @@
   ],
   "2021": [
     {
+      "id": "obj_25",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.64,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "Hirakud Dam is built on",
+      "prashna": "हिराकुंड बाँध बना है",
+      "options": {
+        "A": "Mahanadi",
+        "B": "Ganga",
+        "C": "Krishna",
+        "D": "Kosi"
+      },
+      "vikalpa": {
+        "A": "महानदी पर",
+        "B": "गंगा पर",
+        "C": "कृष्णा पर",
+        "D": "कोसी पर"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.51,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "Which of the following is a non-metallic mineral?",
+      "prashna": "निम्न में से कौन अधात्विक खनिज है ?",
+      "options": {
+        "A": "Gold",
+        "B": "Tin",
+        "C": "Mica",
+        "D": "Gold"
+      },
+      "vikalpa": {
+        "A": "सोना",
+        "B": "टिन",
+        "C": "अभ्रक",
+        "D": "सोना"
+      }
+    },
+    {
       "id": "obj_47",
       "type": "objective",
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is the hardest mineral?",
       "prashna": "निम्न में से सबसे अधिक कठोर खनिज कौन है ?",
       "options": {
@@ -549,6 +831,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Where is Kanha National Park located?",
       "prashna": "कान्हा राष्ट्रीय उद्यान' कहाँ स्थित है ?",
       "options": {
@@ -565,11 +849,59 @@
       }
     },
     {
+      "id": "obj_52",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.65,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "A river valley project of South India is",
+      "prashna": "दक्षिण भारत की नदी घाटी परियोजना है",
+      "options": {
+        "A": "Tungabhadra Project",
+        "B": "Hirakud Project",
+        "C": "Kosi Project",
+        "D": "Rihand Project"
+      },
+      "vikalpa": {
+        "A": "तुंगभद्रा परियोजना",
+        "B": "हीराकुंड परियोजना",
+        "C": "कोसी परियोजना",
+        "D": "रिहन्द परियोजना"
+      }
+    },
+    {
+      "id": "obj_56",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.53,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "Nagarjuna Sagar project is built on which river?",
+      "prashna": "नागार्जुन सागर परियोजना किस नदी पर बनी है ?",
+      "options": {
+        "A": "Satluj",
+        "B": "Krishna",
+        "C": "Narmada",
+        "D": "Rihand"
+      },
+      "vikalpa": {
+        "A": "सतलज",
+        "B": "कृष्णा",
+        "C": "नर्मदा",
+        "D": "रिहन्द"
+      }
+    },
+    {
       "id": "obj_74",
       "type": "objective",
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which state in India has the largest reserves of mineral oil?",
       "prashna": "भारत में किस राज्य में खनिज तेल का सर्वाधिक भंडार है?",
       "options": {
@@ -591,6 +923,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which energy source is non-renewable?",
       "prashna": "कौन-सा ऊर्जा स्रोत अनवीकरणीय है ?",
       "options": {
@@ -612,6 +946,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Where is Periyar National Park located?",
       "prashna": "पेरियार राष्ट्रीय उद्यान कहाँ स्थित है ?",
       "options": {
@@ -633,6 +969,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following states has the maximum forest cover?",
       "prashna": "निम्न राज्यों में से किसमें वन का सबसे अधिक विस्तार है ?",
       "options": {
@@ -649,11 +987,36 @@
       }
     },
     {
+      "id": "obj_11",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.62,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "Govind Sagar artificial reservoir is related to",
+      "prashna": "गोविंद सागर कृत्रिम जलाशय सम्बन्धित है",
+      "options": {
+        "A": "Rihand Dam",
+        "B": "Hirakud Dam",
+        "C": "Bhakra Nangal Dam",
+        "D": "Narora Dam"
+      },
+      "vikalpa": {
+        "A": "रिहन्द बाँध से",
+        "B": "हीराकुंड बांध से",
+        "C": "भाखड़ा नांगल बाँध से",
+        "D": "नरौरा बाँध से"
+      }
+    },
+    {
       "id": "obj_23",
       "type": "objective",
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is the main cause of land degradation in Punjab?",
       "prashna": "पंजाब में भूमि निम्नीकरण का मुख्य कारण क्या है?",
       "options": {
@@ -675,6 +1038,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What kind of soil is usually found in Bihar?",
       "prashna": "बिहार में प्राय: कैसी मिट्टी पाई जाती है?",
       "options": {
@@ -696,6 +1061,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is an example of a ferrous mineral?",
       "prashna": "निम्न में से कौन लौह युक्त खनिज का उदाहरण है?",
       "options": {
@@ -717,6 +1084,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The worst quality of coal is",
       "prashna": "सबसे घटिया कोयला है।",
       "options": {
@@ -733,11 +1102,36 @@
       }
     },
     {
+      "id": "obj_73",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.53,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "The longest dam in India is",
+      "prashna": "भारत में सबसे लम्बा बाँध है",
+      "options": {
+        "A": "Rihand Dam",
+        "B": "Hirakud Dam",
+        "C": "Bhakra Nangal Dam",
+        "D": "Narora Dam"
+      },
+      "vikalpa": {
+        "A": "रिहन्द बाँध",
+        "B": "हीराकुंड बांध",
+        "C": "भाखड़ा नांगल बाँध",
+        "D": "नरौरा बाँध"
+      }
+    },
+    {
       "id": "obj_75",
       "type": "objective",
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which is the best type of coal?",
       "prashna": "सर्वोत्तम कोयले का प्रकार कौन-सा है ?",
       "options": {
@@ -759,6 +1153,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following states has the largest forest cover?",
       "prashna": "निम्न राज्यों में से किसमें सर्वाधिक वन-क्षेत्र है ?",
       "options": {
@@ -782,6 +1178,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Where is Gir National Park situated?",
       "prashna": "गिर राष्ट्रीय उद्यान कहाँ है?",
       "options": {
@@ -803,6 +1201,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Where was the first Earth Summit held?",
       "prashna": "प्रथम पृथ्वी सम्मेलन कहाँ आयोजित हुआ?",
       "options": {
@@ -824,6 +1224,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Where is desert soil found?",
       "prashna": "मरुस्थलीय मृदा कहाँ मिलती है?",
       "options": {
@@ -840,11 +1242,59 @@
       }
     },
     {
+      "id": "obj_37",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.64,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "The largest iron ore producing state in India is",
+      "prashna": "भारत में सबसे बड़ा लौह अयस्क उत्पादक राज्य है",
+      "options": {
+        "A": "Karnataka",
+        "B": "Odisha",
+        "C": "Jharkhand",
+        "D": "Maharashtra"
+      },
+      "vikalpa": {
+        "A": "कर्नाटक",
+        "B": "ओडिशा",
+        "C": "झारखण्ड",
+        "D": "महाराष्ट्र"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.69,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "On which river is Hirakud project situated?",
+      "prashna": "हीराकुड परियोजना किस नदी पर है?",
+      "options": {
+        "A": "Mahanadi",
+        "B": "Godavari",
+        "C": "Damodar",
+        "D": "Sutlej"
+      },
+      "vikalpa": {
+        "A": "महानदी",
+        "B": "गोदावरी",
+        "C": "दामोदर",
+        "D": "सतलज"
+      }
+    },
+    {
       "id": "obj_73",
       "type": "objective",
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is a fossil fuel?",
       "prashna": "निम्न में से कौन जीवाश्म ईंधन है?",
       "options": {
@@ -861,11 +1311,82 @@
       }
     },
     {
+      "id": "obj_75",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.64,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "In which state is Manikaran geothermal plant situated?",
+      "prashna": "मनीकरण भूतापीय ऊर्जा संयंत्र किस राज्य में है?",
+      "options": {
+        "A": "Punjab",
+        "B": "Uttarakhand",
+        "C": "Himachal Pradesh",
+        "D": "Manipur"
+      },
+      "vikalpa": {
+        "A": "पंजाब",
+        "B": "उत्तराखण्ड",
+        "C": "हिमाचल प्रदेश",
+        "D": "मणिपुर"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.59,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "Aluminum is associated with which mineral?",
+      "prashna": "एल्यूमीनियम किस खनिज से सम्बन्धित है ?",
+      "options": {
+        "A": "Copper",
+        "B": "Mica",
+        "C": "Iron Ore",
+        "D": "Bauxite"
+      },
+      "vikalpa": {
+        "A": "ताँबा",
+        "B": "अभ्रक",
+        "C": "लौह अयस्क",
+        "D": "बॉक्साइट"
+      }
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.67,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "Where is Nanda Devi National Park located?",
+      "prashna": "नंदादेवी राष्ट्रीय उद्यान कहाँ है?",
+      "options": {
+        "A": "Uttar Pradesh",
+        "B": "Uttarakhand",
+        "C": "Kerala",
+        "D": "Jharkhand"
+      },
+      "vikalpa": {
+        "A": "उत्तर प्रदेश",
+        "B": "उत्तराखण्ड",
+        "C": "केरल",
+        "D": "झारखण्ड"
+      }
+    },
+    {
       "id": "obj_19",
       "type": "objective",
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is a non-renewable resource?",
       "prashna": "निम्न में कौन अनवीकरणीय संसाधन है ?",
       "options": {
@@ -887,6 +1408,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which type of coal is mainly found in India?",
       "prashna": "भारत में मुख्यतः किस प्रकार का कोयला पाया जाता है ?",
       "options": {
@@ -903,11 +1426,36 @@
       }
     },
     {
+      "id": "obj_23",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.64,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "Which place in India receives the highest rainfall?",
+      "prashna": "भारत में सर्वाधिक वर्षा किस स्थान पर होती है ?",
+      "options": {
+        "A": "Mawsynram",
+        "B": "Cherrapunji",
+        "C": "Guwahati",
+        "D": "Agartala"
+      },
+      "vikalpa": {
+        "A": "मौसिनराम",
+        "B": "चेरापूँजी",
+        "C": "गुवाहाटी",
+        "D": "अगरतला"
+      }
+    },
+    {
       "id": "obj_32",
       "type": "objective",
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which satellite is used for the exploration and management of resources?",
       "prashna": "संसाधकों की खोज एवं प्रबंधन के लिए किस उपग्रह का प्रयोग किया जाता है?",
       "options": {
@@ -929,6 +1477,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which is the largest man-made reservoir in India?",
       "prashna": "भारत में सबसे बड़ा मानव-निर्मित जलाशय है",
       "options": {
@@ -950,6 +1500,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is the main cause of land degradation in Punjab?",
       "prashna": "पंजाब में भूमि निम्नीकरण का मुख्य कारण क्या है ?",
       "options": {
@@ -971,6 +1523,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which state is the largest producer of bauxite?",
       "prashna": "बॉक्साइट का सबसे बड़ा उत्पादक राज्य है",
       "options": {
@@ -992,6 +1546,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is an organic mineral?",
       "prashna": "निम्न में कौन कार्बनिक खनिज है?",
       "options": {
@@ -1013,6 +1569,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Where was the first Earth Summit held?",
       "prashna": "प्रथम पृथ्वी सम्मेलन कहाँ हुआ था ?",
       "options": {
@@ -1031,11 +1589,36 @@
   ],
   "2023": [
     {
+      "id": "obj_25",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.54,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "When was the Wild-life Board of India formed?",
+      "prashna": "भारतीय वन्य जीव बोर्ड का गठन कब हुआ ?",
+      "options": {
+        "A": "1950",
+        "B": "1952",
+        "C": "1948",
+        "D": "1954"
+      },
+      "vikalpa": {
+        "A": "1950",
+        "B": "1952",
+        "C": "1948",
+        "D": "1954"
+      }
+    },
+    {
       "id": "obj_28",
       "type": "objective",
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is the renewable source of energy?",
       "prashna": "निम्न में से कौन नवीकरणीय ऊर्जा का स्रोत है ?",
       "options": {
@@ -1052,11 +1635,59 @@
       }
     },
     {
+      "id": "obj_29",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.58,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "Which is the longest dam in India?",
+      "prashna": "भारत का सबसे लंबा बाँध कौन-सा है ?",
+      "options": {
+        "A": "Hirakud dam",
+        "B": "Tehri dam",
+        "C": "Rihand dam",
+        "D": "Bhakra-Nangal dam"
+      },
+      "vikalpa": {
+        "A": "हीराकुड बाँध",
+        "B": "टिहरी बाँध",
+        "C": "रिहन्द बाँध",
+        "D": "भाखड़ा-नंगल बाँध"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.7,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "Which state is the largest producer of manganese?",
+      "prashna": "मैंगनीज उत्पादन में अग्रणी राज्य कौन है ?",
+      "options": {
+        "A": "Odisha",
+        "B": "Madhya Pradesh",
+        "C": "Maharashtra",
+        "D": "Karnataka"
+      },
+      "vikalpa": {
+        "A": "ओडिशा",
+        "B": "मध्य प्रदेश",
+        "C": "महाराष्ट्र",
+        "D": "कर्नाटक"
+      }
+    },
+    {
       "id": "obj_35",
       "type": "objective",
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is a type of iron ore?",
       "prashna": "निम्न में से कौन लौह अयस्क का एक प्रकार है ?",
       "options": {
@@ -1073,11 +1704,82 @@
       }
     },
     {
+      "id": "obj_36",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.54,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "On which river is the Bhakra-Nangal Project built?",
+      "prashna": "भाखड़ा-नंगल परियोजना किस नदी पर बनी है ?",
+      "options": {
+        "A": "Mahanadi",
+        "B": "Satluj",
+        "C": "Godavari",
+        "D": "Krishna"
+      },
+      "vikalpa": {
+        "A": "महानदी",
+        "B": "सतलज",
+        "C": "गोदावरी",
+        "D": "कृष्णा"
+      }
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.56,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "Which type of power plant is there at Manikaran of Himachal Pradesh?",
+      "prashna": "हिमाचल प्रदेश के मणिकरण में किस प्रकार का ऊर्जा संयंत्र है ?",
+      "options": {
+        "A": "Nuclear power plant",
+        "B": "Geothermal power plant",
+        "C": "Thermal power plant",
+        "D": "Hydel power plant"
+      },
+      "vikalpa": {
+        "A": "परमाणु ऊर्जा संयंत्र",
+        "B": "भूतापीय ऊर्जा संयंत्र",
+        "C": "ताप विद्युत ऊर्जा संयंत्र",
+        "D": "जल विद्युत ऊर्जा संयंत्र"
+      }
+    },
+    {
+      "id": "obj_39",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.58,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "With which mineral is natural gas found?",
+      "prashna": "प्राकृतिक गैस किस खनिज के साथ पाया जाता है ?",
+      "options": {
+        "A": "Uranium",
+        "B": "Petroleum",
+        "C": "Limestone",
+        "D": "Coal"
+      },
+      "vikalpa": {
+        "A": "यूरेनियम",
+        "B": "पेट्रोलियम",
+        "C": "चूनापत्थर",
+        "D": "कोयला"
+      }
+    },
+    {
       "id": "obj_78",
       "type": "objective",
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is a fossil fuel?",
       "prashna": "निम्न में से कौन जीवाश्भ ईंधन है?",
       "options": {
@@ -1092,6 +1794,29 @@
         "C": "प्राकृतिक गैस",
         "D": "इनमें से सभी"
       }
+    },
+    {
+      "id": "obj_80",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.65,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "Where is Kaziranga National Park located?",
+      "prashna": "काजीरंगा राष्ट्रीय उद्यान कहाँ स्थित है ?",
+      "options": {
+        "A": "Rajasthan",
+        "B": "Uttar Pradesh",
+        "C": "Uttarakhand",
+        "D": "Assam"
+      },
+      "vikalpa": {
+        "A": "राजस्थान",
+        "B": "उत्तर प्रदेश",
+        "C": "उत्तराखण्ड",
+        "D": "असम"
+      }
     }
   ],
   "2024": [
@@ -1101,6 +1826,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Where is Simlipal National Park located?",
       "prashna": "भिमलीपाल राष्ट्रीय उद्यान कहाँ स्थित है ?",
       "options": {
@@ -1122,6 +1849,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is a factor of soil formation?",
       "prashna": "निम्न में से कौन मृदा निर्माण का कारक है ?",
       "options": {
@@ -1138,11 +1867,36 @@
       }
     },
     {
+      "id": "obj_28",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.59,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "Which is the biggest river valley project of South India?",
+      "prashna": "दक्षिण भारत की सबसे बड़ी नदी घाटी परियोजना कौन-सी है ?",
+      "options": {
+        "A": "Tungabhadra",
+        "B": "Sharavati",
+        "C": "Chambal",
+        "D": "Hirakud"
+      },
+      "vikalpa": {
+        "A": "तुंगभद्रा",
+        "B": "शारावती",
+        "C": "चंबल",
+        "D": "हीराकुंड"
+      }
+    },
+    {
       "id": "obj_30",
       "type": "objective",
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "When was the First World Summit held for environmental protection?",
       "prashna": "पर्यावरण संरक्षण हेतु पहला विश्व शिखर सम्मेलन कब आयोजित हुआ ?",
       "options": {
@@ -1164,6 +1918,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which state is leading in the production of bauxite?",
       "prashna": "बॉक्साइट के उत्पादन में कौन राज्य अग्रणी है ?",
       "options": {
@@ -1185,6 +1941,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Where is black soil found?",
       "prashna": "काली मिट्टी कहाँ पाई जाती है ?",
       "options": {
@@ -1206,6 +1964,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is called new alluvial soil?",
       "prashna": "निम्न में से किसे नवीन जलोढ़ मिट्टी कहा जाता है ?",
       "options": {
@@ -1227,6 +1987,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "In which part is mangrove forest mostly found?",
       "prashna": "किस भाग में मैंग्रोव वन सबसे अधिक पाया जाता है ?",
       "options": {
@@ -1248,6 +2010,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is an abiotic resource ?",
       "prashna": "निम्न में से कौन अजैविक संसाधन है ?",
       "options": {
@@ -1269,6 +2033,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is regur called ?",
       "prashna": "रेगुर किसे कहते हैं ?",
       "options": {
@@ -1285,11 +2051,36 @@
       }
     },
     {
+      "id": "obj_11",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.56,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "Where is the Sharavati River Valley Project located ?",
+      "prashna": "शरावती नदीघाटी परियोजना कहाँ अवस्थित है ?",
+      "options": {
+        "A": "Bihar",
+        "B": "Karnataka",
+        "C": "Uttar Pradesh",
+        "D": "Tamil Nadu"
+      },
+      "vikalpa": {
+        "A": "बिहार",
+        "B": "कर्नाटक",
+        "C": "उत्तर प्रदेश",
+        "D": "तमिलनाडु"
+      }
+    },
+    {
       "id": "obj_12",
       "type": "objective",
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What percentage of India is covered by forest ?",
       "prashna": "भारत का कितना प्रतिशत भाग वनों से ढँका है ?",
       "options": {
@@ -1306,11 +2097,82 @@
       }
     },
     {
+      "id": "obj_13",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.67,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "Where is Naharkatia oil field located ?",
+      "prashna": "नहरकटिया तेल क्षेत्र कहाँ स्थित है ?",
+      "options": {
+        "A": "Arunachal Pradesh",
+        "B": "Assam",
+        "C": "Nagaland",
+        "D": "Tripura"
+      },
+      "vikalpa": {
+        "A": "अरुणाचल प्रदेश",
+        "B": "असम",
+        "C": "नागालैण्ड",
+        "D": "त्रिपुरा"
+      }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.51,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "When was the first National Water Policy adopted ?",
+      "prashna": "प्रथम राष्ट्रीय जल नीति कब अपनाई गई थी ?",
+      "options": {
+        "A": "1975",
+        "B": "1982",
+        "C": "1987",
+        "D": "2002"
+      },
+      "vikalpa": {
+        "A": "1975",
+        "B": "1982",
+        "C": "1987",
+        "D": "2002"
+      }
+    },
+    {
+      "id": "obj_41",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.54,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "In which state is the Indira Gandhi canal located ?",
+      "prashna": "इंदिरा गांधी नहर किस राज्य में स्थित है ?",
+      "options": {
+        "A": "Kerala",
+        "B": "Maharashtra",
+        "C": "Rajasthan",
+        "D": "Bihar"
+      },
+      "vikalpa": {
+        "A": "केरल",
+        "B": "महाराष्ट्र",
+        "C": "राजस्थान",
+        "D": "बिहार"
+      }
+    },
+    {
       "id": "obj_43",
       "type": "objective",
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "India is the leading producer of which mineral in the world ?",
       "prashna": "भारत किस खनिज के उत्पादन में विश्व में अग्रणी है ?",
       "options": {
@@ -1334,6 +2196,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which is the largest artificial lake in India ?",
       "prashna": "भारत की सबसे बड़ी कृत्रिम झील कौन है ?",
       "options": {
@@ -1355,6 +2219,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is the old alluvial soil of Ganga plain called ?",
       "prashna": "गंगा मैदान की पुरानी जलोढ़ मृदा क्या कहलाती है ?",
       "options": {
@@ -1371,11 +2237,82 @@
       }
     },
     {
+      "id": "obj_26",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.75,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "Where is Sariska Wildlife Sanctuary located ?",
+      "prashna": "सरिस्का वन्य जीव अभयारण्य कहाँ स्थित है ?",
+      "options": {
+        "A": "Odisha",
+        "B": "Maharashtra",
+        "C": "Rajasthan",
+        "D": "Karnataka"
+      },
+      "vikalpa": {
+        "A": "ओडिशा",
+        "B": "महाराष्ट्र",
+        "C": "राजस्थान",
+        "D": "कर्नाटक"
+      }
+    },
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.56,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "By which name is Brahmaputra river known in Tibet ?",
+      "prashna": "ब्रह्मपुत्र नदी तिब्बत में किस नाम से जानी जाती है ?",
+      "options": {
+        "A": "Jamuna river",
+        "B": "Tsangpo river",
+        "C": "Yangtze river",
+        "D": "Manas river"
+      },
+      "vikalpa": {
+        "A": "जमुना नदी",
+        "B": "सांग्पो नदी",
+        "C": "यांग्त्ज़ी नदी",
+        "D": "मानस नदी"
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.63,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "Natural gas is found with which mineral ?",
+      "prashna": "प्राकृतिक गैस किस खनिज के साथ पायी जाती है ?",
+      "options": {
+        "A": "Uranium",
+        "B": "Limestone",
+        "C": "Coal",
+        "D": "Petroleum"
+      },
+      "vikalpa": {
+        "A": "यूरेनियम",
+        "B": "चूनापत्थर",
+        "C": "कोयला",
+        "D": "पेट्रोलियम"
+      }
+    },
+    {
       "id": "obj_41",
       "type": "objective",
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which is the best type of coal ?",
       "prashna": "सर्वोत्तम कोयले का प्रकार कौन है ?",
       "options": {
@@ -1397,6 +2334,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which Earth Summit was held in Johannesburg ?",
       "prashna": "जोहानसबर्ग में कौन-सा पृथ्वी सम्मेलन आयोजित हुआ था ?",
       "options": {
@@ -1418,6 +2357,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which is the best type of coal?",
       "prashna": "सर्वोत्तम कोयले का प्रकार कौन है?",
       "options": {
@@ -1439,6 +2380,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which Earth Summit was held in Johannesburg?",
       "prashna": "जोहानसबर्ग में कौन-सा पृथ्वी सम्मेलन आयोजित हुआ था?",
       "options": {
@@ -1460,6 +2403,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which is the largest artificial lake in India?",
       "prashna": "भारत की सबसे बड़ी कृत्रिम झील कौन है?",
       "options": {
@@ -1476,11 +2421,36 @@
       }
     },
     {
+      "id": "obj_22",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.51,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "What was India's position in the world in terms of population in 2011?",
+      "prashna": "2011 में जनसंख्या की दृष्टि से भारत का विश्व में कौन स्थान था?",
+      "options": {
+        "A": "First",
+        "B": "Second",
+        "C": "Third",
+        "D": "Fourth"
+      },
+      "vikalpa": {
+        "A": "प्रथम",
+        "B": "द्वितीय",
+        "C": "तृतीय",
+        "D": "चतुर्थ"
+      }
+    },
+    {
       "id": "obj_24",
       "type": "objective",
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is the old alluvial soil of Ganga plain called?",
       "prashna": "गंगा मैदान की पुरानी जलोढ़ मृदा क्या कहलाती है?",
       "options": {
@@ -1502,6 +2472,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Where is Sariska Wildlife Sanctuary located?",
       "prashna": "सरिस्का वन्य जीव अभयारण्य कहाँ स्थित है?",
       "options": {
@@ -1516,6 +2488,52 @@
         "C": "राजस्थान",
         "D": "कर्नाटक"
       }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.61,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "By which name is Brahmaputra river known in Tibet?",
+      "prashna": "ब्रह्मपुत्र नदी तिब्बत में किस नाम से जानी जाती है?",
+      "options": {
+        "A": "Jamuna river",
+        "B": "Tsangpo river",
+        "C": "Yangtze river",
+        "D": "Manas river"
+      },
+      "vikalpa": {
+        "A": "जमुना नदी",
+        "B": "सांग्पो नदी",
+        "C": "यांग्त्जी नदी",
+        "D": "मानस नदी"
+      }
+    },
+    {
+      "id": "obj_40",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.63,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "Natural gas is found with which mineral?",
+      "prashna": "प्राकृतिक गैस किस खनिज के साथ पायी जाती है?",
+      "options": {
+        "A": "Uranium",
+        "B": "Limestone",
+        "C": "Coal",
+        "D": "Petroleum"
+      },
+      "vikalpa": {
+        "A": "यूरेनियम",
+        "B": "चूनापत्थर",
+        "C": "कोयला",
+        "D": "पेट्रोलियम"
+      }
     }
   ],
   "2026": [
@@ -1525,6 +2543,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which Indian region is not rich in minerals ?",
       "prashna": "खनिज पदार्थों में कौन-सा भारतीय क्षेत्र समृद्ध नहीं है ?",
       "options": {
@@ -1542,11 +2562,85 @@
       "instructions": "Question Nos. 1 to 80 have four options each, out of which only one is correct. Mark your selected option on the OMR sheet. Answer any 40 questions."
     },
     {
+      "id": "obj_2",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.74,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "Which statement is true regarding anthracite coal ?",
+      "prashna": "एंथ्रासाइट कोयले के संबंध में कौन-सा कथन सत्य है ?",
+      "options": {
+        "A": "It is of best quality",
+        "B": "It contains 30% carbon",
+        "C": "This is called brown coal",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "यह सर्वोच्च कोटि का है",
+        "B": "इसमें 30% कार्बन की मात्रा होती है",
+        "C": "इसे भूरा कोयला कहते हैं",
+        "D": "इनमें से सभी"
+      },
+      "instructions": "Question Nos. 1 to 80 have four options each, out of which only one is correct. Mark your selected option on the OMR sheet. Answer any 40 questions."
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.7,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "On which river is the Hirakud Dam constructed ?",
+      "prashna": "हीराकुड बाँध किस नदी पर निर्मित है ?",
+      "options": {
+        "A": "Tungabhadra",
+        "B": "Mahanadi",
+        "C": "Krishna",
+        "D": "Sharavati"
+      },
+      "vikalpa": {
+        "A": "तुंगभद्रा",
+        "B": "महानदी",
+        "C": "कृष्णा",
+        "D": "शारावती"
+      },
+      "instructions": "Question Nos. 1 to 80 have four options each, out of which only one is correct. Mark your selected option on the OMR sheet. Answer any 40 questions."
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.56,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "Which country is the leading producer of mineral oil ?",
+      "prashna": "खनिज तेल उत्पादन में कौन देश अग्रणी है ?",
+      "options": {
+        "A": "India",
+        "B": "United States of America",
+        "C": "China",
+        "D": "Japan"
+      },
+      "vikalpa": {
+        "A": "भारत",
+        "B": "संयुक्त राज्य अमेरिका",
+        "C": "चीन",
+        "D": "जापान"
+      },
+      "instructions": "Question Nos. 1 to 80 have four options each, out of which only one is correct. Mark your selected option on the OMR sheet. Answer any 40 questions."
+    },
+    {
       "id": "obj_8",
       "type": "objective",
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What percentage of total water is in the ocean ?",
       "prashna": "कुल जल का कितना प्रतिशत महासागरों में है ?",
       "options": {
@@ -1569,6 +2663,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following soils is formed by the disintegration of basalt ?",
       "prashna": "निम्नलिखित में से किस मृदा का निर्माण बेसाल्ट के विघटन से हुआ है ?",
       "options": {
@@ -1591,6 +2687,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which soil is most fertile ?",
       "prashna": "कौन-सी मृदा सर्वाधिक उपजाऊ है ?",
       "options": {
@@ -1612,6 +2710,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What type of resource is tidal energy ?",
       "prashna": "ज्वारीय ऊर्जा किस प्रकार का संसाधन है ?",
       "options": {
@@ -1628,11 +2728,36 @@
       }
     },
     {
+      "id": "obj_42",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "1",
+      "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.56,
+      "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
+      "question": "Where is Indravati National Park located ?",
+      "prashna": "इन्द्रावती राष्ट्रीय उद्यान कहाँ स्थित है ?",
+      "options": {
+        "A": "Madhya Pradesh",
+        "B": "Sikkim",
+        "C": "Chhattisgarh",
+        "D": "Nagaland"
+      },
+      "vikalpa": {
+        "A": "मध्य प्रदेश",
+        "B": "सिक्किम",
+        "C": "छत्तीसगढ़",
+        "D": "नागालैण्ड"
+      }
+    },
+    {
       "id": "obj_43",
       "type": "objective",
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is famous for gold mines ?",
       "prashna": "स्वर्ण खदान के लिए निम्नलिखित में से कौन प्रसिद्ध है ?",
       "options": {
@@ -1654,6 +2779,8 @@
       "section": "Geography",
       "chapter": "1",
       "chapter_name": "India: Resources and Utilization",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following has the maximum expansion of Mangrove forest ?",
       "prashna": "निम्न में से किसमें मैंग्रोव वन का विस्तार सर्वाधिक है ?",
       "options": {

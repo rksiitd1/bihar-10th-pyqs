@@ -4,6 +4,8 @@
         "type": "short_answer",
         "chapter": "13",
         "chapter_name": "Magnetic Effects of Electric Current",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "How does change of energy take place in electric motor?",
         "prashna": "विद्युत मोटर में ऊर्जा का रूपान्तरण कैसे होता है ?"
     },
@@ -12,6 +14,8 @@
         "type": "short_answer",
         "chapter": "12",
         "chapter_name": "Electricity",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "$100 W - 220 V$ is printed on an electric bulb. How much current will pass through the bulb ?",
         "prashna": "विद्युत बल्ब पर $100 W - 220 V$ अंकित है। बल्ब से प्रवाहित विद्युत धारा का मान बताएँ।"
     },
@@ -20,6 +24,8 @@
         "type": "short_answer",
         "chapter": "14",
         "chapter_name": "Sources of Energy",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Give one feature of solar energy.",
         "prashna": "सौर ऊर्जा की एक विशेषता लिखें।"
     },
@@ -28,6 +34,8 @@
         "type": "short_answer",
         "chapter": "12",
         "chapter_name": "Electricity",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is the S.I. unit of resistance?",
         "prashna": "प्रतिरोध का S.I. मात्रक क्या है ?"
     },
@@ -36,6 +44,8 @@
         "type": "short_answer",
         "chapter": "13",
         "chapter_name": "Magnetic Effects of Electric Current",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "On which effect of electric current does an electric bell work ?",
         "prashna": "विद्युत धारा के किस प्रभाव से बिजली घंटी कार्य करती है ?"
     },
@@ -44,14 +54,18 @@
         "type": "short_answer",
         "chapter": "3",
         "chapter_name": "Metals and Non-metals",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "In which form is the purity of gold measured ?",
         "prashna": "सोने की शुद्धता की माप किस रूप में की जाती है ?"
     },
     {
         "id": "short_7",
         "type": "short_answer",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "chapter": "4",
+        "chapter_name": "Carbon and its Compounds",
+        "confidence": 0.56,
+        "raw_choice": "4. Carbon and its Compounds (कार्बन एवं उसके यौगिक)",
         "question": "In which medium is the covalent compound soluble ?",
         "prashna": "सह संयोजक यौगिक किसमें घुलनशील होते हैं ?"
     },
@@ -60,6 +74,8 @@
         "type": "short_answer",
         "chapter": "4",
         "chapter_name": "Carbon and its Compounds",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is the general formula of alkyne ?",
         "prashna": "एल्काइन का सामान्य सूत्र क्या है ?"
     },
@@ -68,6 +84,8 @@
         "type": "short_answer",
         "chapter": "4",
         "chapter_name": "Carbon and its Compounds",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "$C_n H_{2n}$ is the general formula of which type of hydrocarbon?",
         "prashna": "$C_n H_{2n}$ किस हाइड्रोकार्बन का सामान्य सूत्र है ?"
     },
@@ -76,6 +94,8 @@
         "type": "short_answer",
         "chapter": "3",
         "chapter_name": "Metals and Non-metals",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which metal is cut with the help of knife ?",
         "prashna": "चाकू की सहायता से किस धातु को काटा जाता है ?"
     },
@@ -84,6 +104,8 @@
         "type": "short_answer",
         "chapter": "16",
         "chapter_name": "Our Environment",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Give one suggestion for the conservation of forest.",
         "prashna": "वन संरक्षण के एक सुझाव बताएँ।"
     },
@@ -92,6 +114,8 @@
         "type": "short_answer",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Why are plants green ?",
         "prashna": "पौधे हरे क्यों होते हैं ?"
     },
@@ -100,6 +124,8 @@
         "type": "short_answer",
         "chapter": "8",
         "chapter_name": "How do Organisms Reproduce?",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What do you mean by pollination ?",
         "prashna": "परागण से आप क्या समझते हैं ?"
     },
@@ -108,6 +134,8 @@
         "type": "short_answer",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Fish respires by which respiratory organ?",
         "prashna": "मछली किस अंग के द्वारा श्वसन करती है ?"
     },
@@ -116,6 +144,8 @@
         "type": "short_answer",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Transport of water occurs through which type of tissue ?",
         "prashna": "पौधों में जल परिवहन किस ऊतक द्वारा होता है ?"
     },
@@ -124,6 +154,8 @@
         "type": "short_answer",
         "chapter": "13",
         "chapter_name": "Magnetic Effects of Electric Current",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What do you mean by short circuit ?",
         "prashna": "लघु पथन से आप क्या समझते हैं ?"
     },
@@ -132,6 +164,8 @@
         "type": "short_answer",
         "chapter": "10",
         "chapter_name": "Light – Reflection and Refraction",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is reflection of light ? Describe its laws with diagram.",
         "prashna": "प्रकाश का परावर्तन क्या है ? इसके नियमों का सचित्र उल्लेख करें।"
     },
@@ -140,6 +174,8 @@
         "type": "short_answer",
         "chapter": "1",
         "chapter_name": "Chemical Reactions and Equations",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is balanced chemical equation ? Give example.",
         "prashna": "संतुलित रासायनिक समीकरण क्या है ? उदाहरण दें।"
     },
@@ -148,6 +184,8 @@
         "type": "short_answer",
         "chapter": "14",
         "chapter_name": "Sources of Energy",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What are the resources of non-renewable energy ?",
         "prashna": "ऊर्जा के अनवीकरणीय संसाधन कौन-कौन हैं ?"
     },
@@ -156,6 +194,8 @@
         "type": "short_answer",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is the role of digestive juice in the stomach ?",
         "prashna": "आमाशय में पाचक रस की क्या भूमिका है ?"
     },
@@ -164,6 +204,8 @@
         "type": "short_answer",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is the difference between respiration and breathing ?",
         "prashna": "श्वसन एवं स्वासोच्छवास में क्या अन्तर है ?"
     },
@@ -172,6 +214,8 @@
         "type": "short_answer",
         "chapter": "10",
         "chapter_name": "Light – Reflection and Refraction",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Why is convex lens called converging lens ?",
         "prashna": "उत्तर लेंस को अभिसारी लेंस क्यों कहा जाता है ?"
     },
@@ -180,6 +224,8 @@
         "type": "short_answer",
         "chapter": "12",
         "chapter_name": "Electricity",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is grouping of resistances ? What are its types ?",
         "prashna": "प्रतिरोधों का संयोजन क्या है ? यह कितने प्रकार से होता है ?"
     },
@@ -188,6 +234,8 @@
         "type": "short_answer",
         "chapter": "2",
         "chapter_name": "Acids, Bases and Salts",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Write the process of making the Plaster of Paris and its uses.",
         "prashna": "प्लास्टर ऑफ पेरिस के निर्माण की विधि एवं उपयोग लिखें।"
     },
@@ -196,6 +244,8 @@
         "type": "short_answer",
         "chapter": "5",
         "chapter_name": "Periodic Classification of Elements",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is valence electron ? Write number of the valence electron in sodium.",
         "prashna": "संयोजी इलेक्ट्रॉन क्या है ? सोडियम परमाणु में स्थित संयोजी इलेक्ट्रॉन की संख्या लिखें।"
     },
@@ -204,6 +254,8 @@
         "type": "short_answer",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Write the difference between blood and lymph.",
         "prashna": "रक्त और लसिका में अन्तर लिखें।"
     },
@@ -212,6 +264,8 @@
         "type": "short_answer",
         "chapter": "7",
         "chapter_name": "Control and Coordination",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Write the names and functions of male and female sex hormones.",
         "prashna": "नर तथा मादा जनन हार्मोनों के नाम एवं कार्य लिखें।"
     },
@@ -220,6 +274,8 @@
         "type": "long_answer",
         "chapter": "11",
         "chapter_name": "The Human Eye and the Colourful World",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is vision defect? Name its types. How can they be removed ?",
         "prashna": "दृष्टि दोष क्या है ? यह कितने प्रकार के होते हैं ? इनका निवारण कैसे किया जाता है ?"
     },
@@ -228,6 +284,8 @@
         "type": "long_answer",
         "chapter": "12",
         "chapter_name": "Electricity",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is resistance ? How is the resistance of a coil calculated practically with the help of ammeter and voltmeter ?",
         "prashna": "प्रतिरोध क्या है ? किसी कुण्डली का प्रतिरोध आमीटर और वोल्टमीटर की सहायता से ज्ञात करने के लिए प्रयोग का वर्णन करें।"
     },
@@ -236,6 +294,8 @@
         "type": "long_answer",
         "chapter": "14",
         "chapter_name": "Sources of Energy",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is energy crisis ? Describe its remedy.",
         "prashna": "ऊर्जा संकट क्या है ? इसके समाधान का उल्लेख करें।"
     },
@@ -244,6 +304,8 @@
         "type": "long_answer",
         "chapter": "5",
         "chapter_name": "Periodic Classification of Elements",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What are the differences between Mendeleef's periodic table and Modern periodic table ?",
         "prashna": "मेंडेलीफ के आवर्त सारणी और आधुनिक आवर्त सारणी में क्या अन्तर है ?"
     },
@@ -252,6 +314,8 @@
         "type": "long_answer",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Describe the experiment which shows that oxygen gas is released during the process of photosynthesis.",
         "prashna": "प्रायोगिक विवरण द्वारा बताएँ कि प्रकाश संश्लेषण की क्रिया में ऑक्सीजन गैस मुक्त होती है।"
     },
@@ -260,6 +324,8 @@
         "type": "objective",
         "chapter": "10",
         "chapter_name": "Light – Reflection and Refraction",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The image formed by plane mirror is",
         "prashna": "समतल दर्पण द्वारा बना प्रतिबिम्ब होता है",
         "options": {
@@ -280,6 +346,8 @@
         "type": "objective",
         "chapter": "11",
         "chapter_name": "The Human Eye and the Colourful World",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which lens is used to remove the near sightedness defect ?",
         "prashna": "निकट दृष्टि दोष दूर करने के लिए किस लेंस का व्यवहार होता है ?",
         "options": {
@@ -300,6 +368,8 @@
         "type": "objective",
         "chapter": "11",
         "chapter_name": "The Human Eye and the Colourful World",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What type of lens is found in human eye ?",
         "prashna": "मानव नेत्र में किस प्रकार का लेंस पाया जाता है ?",
         "options": {
@@ -320,6 +390,8 @@
         "type": "objective",
         "chapter": "12",
         "chapter_name": "Electricity",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The instrument used to measure the potential difference is called",
         "prashna": "विभवान्तर मापने वाले यंत्र को कहा जाता है",
         "options": {
@@ -340,6 +412,8 @@
         "type": "objective",
         "chapter": "12",
         "chapter_name": "Electricity",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Ammeter is connected in an electric circuit",
         "prashna": "आमीटर को विद्युत परिपथ में कैसे जोड़ा जाता है ?",
         "options": {
@@ -360,6 +434,8 @@
         "type": "objective",
         "chapter": "12",
         "chapter_name": "Electricity",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The S.I. unit of electric current is",
         "prashna": "विद्युत धारा का S.I. मात्रक है",
         "options": {
@@ -380,6 +456,8 @@
         "type": "objective",
         "chapter": "10",
         "chapter_name": "Light – Reflection and Refraction",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "By which lens only virtual image is formed ?",
         "prashna": "किस लेंस के द्वारा सिर्फ काल्पनिक प्रतिबिम्ब बनता है ?",
         "options": {
@@ -400,6 +478,8 @@
         "type": "objective",
         "chapter": "1",
         "chapter_name": "Chemical Reactions and Equations",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "$CuO + H_2 \rightarrow Cu + H_2O$ is what type of reaction ?",
         "prashna": "$CuO + H_2 \rightarrow Cu + H_2O$ किस प्रकार की अभिक्रिया है ?",
         "options": {
@@ -420,6 +500,8 @@
         "type": "objective",
         "chapter": "3",
         "chapter_name": "Metals and Non-metals",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The compound formed by transfer of electrons is called",
         "prashna": "इलेक्ट्रॉन के स्थानान्तरण से बने यौगिक कहलाते हैं",
         "options": {
@@ -440,6 +522,8 @@
         "type": "objective",
         "chapter": "3",
         "chapter_name": "Metals and Non-metals",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Brass is an example of",
         "prashna": "पीतल उदाहरण है",
         "options": {
@@ -460,6 +544,8 @@
         "type": "objective",
         "chapter": "4",
         "chapter_name": "Carbon and its Compounds",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Carbon combining with hydrogen forms",
         "prashna": "कार्बन हाइड्रोजन से संयोग कर बनाता है",
         "options": {
@@ -480,6 +566,8 @@
         "type": "objective",
         "chapter": "5",
         "chapter_name": "Periodic Classification of Elements",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The members of 1st group of the periodic table are",
         "prashna": "आवर्त सारणी के प्रथम वर्ग के सदस्य हैं",
         "options": {
@@ -500,6 +588,8 @@
         "type": "objective",
         "chapter": "16",
         "chapter_name": "Our Environment",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The presence of $CO_2$ gas in atmosphere is",
         "prashna": "वायुमंडल में $CO_2$ गैस की उपस्थिति है",
         "options": {
@@ -520,6 +610,8 @@
         "type": "objective",
         "chapter": "2",
         "chapter_name": "Acids, Bases and Salts",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'$NaOH$' is",
         "prashna": "'$NaOH$' है",
         "options": {
@@ -540,6 +632,8 @@
         "type": "objective",
         "chapter": "7",
         "chapter_name": "Control and Coordination",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Auxin is",
         "prashna": "ऑक्सीन है",
         "options": {
@@ -560,6 +654,8 @@
         "type": "objective",
         "chapter": "8",
         "chapter_name": "How do Organisms Reproduce?",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": ".......... is not a part of human female reproductive system.",
         "prashna": "मानव मादा के जनन तंत्र का भाग नहीं है",
         "options": {
@@ -580,6 +676,8 @@
         "type": "objective",
         "chapter": "8",
         "chapter_name": "How do Organisms Reproduce?",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The anther has",
         "prashna": "परागकोश में होते हैं",
         "options": {
@@ -600,6 +698,8 @@
         "type": "objective",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Essential for autotrophic nutrition is",
         "prashna": "स्वपोषी पोषण के लिए आवश्यक है",
         "options": {
@@ -620,6 +720,8 @@
         "type": "objective",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The largest gland of human body is",
         "prashna": "मनुष्य के शरीर की सबसे बड़ी ग्रन्थि है",
         "options": {
@@ -640,6 +742,8 @@
         "type": "objective",
         "chapter": "7",
         "chapter_name": "Control and Coordination",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Example of phytohormone is",
         "prashna": "पादप हार्मोन का उदाहरण है",
         "options": {

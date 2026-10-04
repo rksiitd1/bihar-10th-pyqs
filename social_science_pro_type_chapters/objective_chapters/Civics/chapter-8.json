@@ -1,4 +1,29 @@
 {
+  "2019": [
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "8",
+      "chapter_name": "Challenges to Democracy",
+      "confidence": 0.55,
+      "raw_choice": "Civics - 8. Challenges to Democracy (लोकतंत्र की चुनौतियाँ)",
+      "question": "Success of democracy depends on-",
+      "prashna": "लोकतंत्र की सफलता निर्भर करती है-",
+      "options": {
+        "A": "Indifference of citizens",
+        "B": "Illegal activities of citizens",
+        "C": "Active participation of the citizens",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "नागरिकों की उदासीनता पर",
+        "B": "नागरिकों की गैर-कानूनी कार्रवाई पर",
+        "C": "नागरिकों की विवेकपूर्ण सहभागिता पर",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ],
   "2021": [
     {
       "id": "obj_8",
@@ -6,6 +31,8 @@
       "section": "Civics",
       "chapter": "8",
       "chapter_name": "Challenges to Democracy",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is the obstacle in the success of democracy in India?",
       "prashna": "भारत में लोकतंत्र की सफलता में क्या बाधा है?",
       "options": {
@@ -29,6 +56,8 @@
       "section": "Civics",
       "chapter": "8",
       "chapter_name": "Challenges to Democracy",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The challenge to the success of democracy is",
       "prashna": "लोकतंत्र की सफलता की चुनौती है",
       "options": {

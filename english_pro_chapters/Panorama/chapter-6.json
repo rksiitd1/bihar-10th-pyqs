@@ -6,6 +6,8 @@
       "section": "Panorama",
       "chapter": "6",
       "chapter_name": "Once Upon a Time",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Read the extract carefully and answer the following questions :",
       "prashna": "निम्नलिखित अंश को ध्यानपूर्वक पढ़िए और निम्न प्रश्नों के उत्तर दीजिए :",
       "context": "\"Once upon a time there was an old woman. Blind but wise.\" Or an old man ? A guru, perhaps, soothing restless children. I have heard this story, or one exactly like it, in the lore of several cultures.\n\n\"Once upon a time there was an old woman. Blind. Wise.\"\n\nIn the version I know, the woman is the daughter of slaves, black, American, and lives alone in a small house outside of town. Her reputation for wisdom is without peer and without question. Among her people, she is both the law and its transgression. The honour she is paid and the awe in which she is held reach beyond her neighbourhood to places far away; to the city where the intelligence of rural prophets is the source of much amusement.",
@@ -27,11 +29,36 @@
   ],
   "2018": [
     {
+      "id": "obj_11",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "6",
+      "chapter_name": "Once Upon a Time",
+      "confidence": 0.61,
+      "raw_choice": "Panorama - 6. Once Upon a Time (एक समय की बात है)",
+      "question": "The old woman was........ enough to know she could not help the young people",
+      "prashna": "बुढ़िया यह जानने के लिए काफी ........ थी कि वह उन युवाओं की मदद नहीं कर सकती।",
+      "options": {
+        "A": "stupid",
+        "B": "intelligent",
+        "C": "strong",
+        "D": "suspicious"
+      },
+      "vikalpa": {
+        "A": "मूर्ख",
+        "B": "बुद्धिमान",
+        "C": "मजबूत",
+        "D": "संदिग्ध"
+      }
+    },
+    {
       "id": "obj_12",
       "type": "objective",
       "section": "Panorama",
       "chapter": "6",
       "chapter_name": "Once Upon a Time",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Who is the writer of \"Once upon a Time\"?",
       "prashna": "\"वन्स अपॉन अ टाइम\" के लेखक कौन हैं?",
       "options": {
@@ -48,11 +75,36 @@
       }
     },
     {
+      "id": "obj_11",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "6",
+      "chapter_name": "Once Upon a Time",
+      "confidence": 0.67,
+      "raw_choice": "Panorama - 6. Once Upon a Time (एक समय की बात है)",
+      "question": "The old woman was ............",
+      "prashna": "वृद्ध महिला ............ थी।",
+      "options": {
+        "A": "foolish",
+        "B": "wise",
+        "C": "shy",
+        "D": "bold"
+      },
+      "vikalpa": {
+        "A": "मूर्ख",
+        "B": "बुद्धिमान",
+        "C": "शर्मीली",
+        "D": "निडर"
+      }
+    },
+    {
       "id": "obj_12",
       "type": "objective",
       "section": "Panorama",
       "chapter": "6",
       "chapter_name": "Once Upon a Time",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The young people asked the old woman a question. Whose answer could only be given by one who could............",
       "prashna": "युवाओं ने वृद्ध महिला से एक प्रश्न पूछा। जिसका उत्तर केवल वही दे सकता था जो ............ सके।",
       "options": {
@@ -76,6 +128,8 @@
       "section": "Panorama",
       "chapter": "6",
       "chapter_name": "Once Upon a Time",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "In the story 'Once Upon a Time', the woman was visited by -",
       "prashna": "'वन्स अपॉन ए टाइम' कहानी में, महिला के पास कौन आए थे -",
       "options": {
@@ -97,6 +151,8 @@
       "section": "Panorama",
       "chapter": "6",
       "chapter_name": "Once Upon a Time",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Toni Morrison was the first ...... to receive the Nobel Prize.",
       "prashna": "टोनी मॉरिसन नोबेल पुरस्कार प्राप्त करने वाली पहली ...... थीं।",
       "options": {
@@ -118,6 +174,8 @@
       "section": "Panorama",
       "chapter": "6",
       "chapter_name": "Once Upon a Time",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Toni Morrison was the first ......to receive the Nobel Prize.",
       "prashna": "टोनी मॉरिसन नोबेल पुरस्कार प्राप्त करने वाली पहली ......थीं।",
       "options": {
@@ -139,6 +197,8 @@
       "section": "Panorama",
       "chapter": "6",
       "chapter_name": "Once Upon a Time",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "In the story 'Once Upon a Time', the woman was visited by -",
       "prashna": "'वन्स अपॉन अ टाइम' कहानी में, महिला के पास कौन आए थे? -",
       "options": {
@@ -162,6 +222,8 @@
       "section": "Panorama",
       "chapter": "6",
       "chapter_name": "Once Upon a Time",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Who is the first black woman to receive a Nobel Prize in literature?",
       "prashna": "साहित्य में नोबेल पुरस्कार पाने वाली पहली अश्वेत महिला कौन हैं?",
       "options": {
@@ -183,6 +245,8 @@
       "section": "Panorama",
       "chapter": "6",
       "chapter_name": "Once Upon a Time",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Some......... people visited the old woman in 'Once Upon a Time'.",
       "prashna": "'वन्स अपॉन अ टाइम' में कुछ ......... लोग बूढ़ी औरत के पास आए।",
       "options": {
@@ -204,6 +268,8 @@
       "section": "Panorama",
       "chapter": "6",
       "chapter_name": "Once Upon a Time",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The old woman in 'Once Upon a Time' could answer the questions asked by the young men, if only she could",
       "prashna": "'वन्स अपॉन ए टाइम' की बूढ़ी औरत युवकों द्वारा पूछे गए सवालों का जवाब दे सकती थी, अगर केवल वह",
       "options": {
@@ -225,6 +291,8 @@
       "section": "Panorama",
       "chapter": "6",
       "chapter_name": "Once Upon a Time",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The boy in 'Once Upon a Time' carries a ......... and a jug of warm cider,",
       "prashna": "'वन्स अपॉन ए टाइम' में लड़का एक ......... और गर्म साइडर का जग ले जाता है,",
       "options": {
@@ -246,6 +314,8 @@
       "section": "Panorama",
       "chapter": "6",
       "chapter_name": "Once Upon a Time",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What disability did the woman have in 'Once Upon a Time'?",
       "prashna": "'वन्स अपॉन ए टाइम' में महिला को क्या विकलांगता थी?",
       "options": {
@@ -267,6 +337,8 @@
       "section": "Panorama",
       "chapter": "6",
       "chapter_name": "Once Upon a Time",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Answer any five of the following questions: (a) The young people visited the old woman with the intention of insulting her. Is it true?",
       "prashna": "निम्नलिखित में से किन्हीं पाँच प्रश्नों के उत्तर दें: (a) युवक बूढ़ी औरत के पास उसका अपमान करने के इरादे से गए थे। क्या यह सच है?"
     }
@@ -278,6 +350,8 @@
       "section": "Panorama",
       "chapter": "6",
       "chapter_name": "Once Upon a Time",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What disability did the woman have in 'Once Upon a Time'?",
       "options": {
         "A": "Obesity",
@@ -299,6 +373,8 @@
       "section": "Panorama",
       "chapter": "6",
       "chapter_name": "Once Upon a Time",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Toni Morrison was the ............... black woman to receive the Nobel Prize in Literature.",
       "prashna": "टोनी मॉरिसन साहित्य में नोबेल पुरस्कार पाने वाली ............... अश्वेत महिला थीं।",
       "options": {
@@ -322,6 +398,8 @@
       "section": "Panorama",
       "chapter": "6",
       "chapter_name": "Once Upon a Time",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The old woman in the piece 'Once Upon a Time' is a daughter of",
       "prashna": "'Once Upon a Time' रचना में बूढ़ी औरत किसकी बेटी है?",
       "options": {
@@ -345,6 +423,8 @@
       "section": "Panorama",
       "chapter": "6",
       "chapter_name": "Once Upon a Time",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The old woman is never ashamed of being the daughter of black ... slaves.",
       "prashna": "बूढ़ी महिला कभी काले ___ गुलामों की बेटी होने पर शर्मिंदा नहीं होती।",
       "options": {
@@ -366,6 +446,8 @@
       "section": "Panorama",
       "chapter": "6",
       "chapter_name": "Once Upon a Time",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Why are the young visitors in ‘Once Upon A Time’ reprimanded?",
       "prashna": "'एक समय था' में युवा आगंतुकों को क्यों फटकार लगाई जाती है?"
     },
@@ -375,6 +457,8 @@
       "section": "Panorama",
       "chapter": "6",
       "chapter_name": "Once Upon a Time",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The old woman was visited by young people to .................... her.",
       "prashna": "युवाओं ने बूढ़ी औरत से मिलने .................... के लिए आए थे।",
       "options": {
@@ -396,6 +480,8 @@
       "section": "Panorama",
       "chapter": "6",
       "chapter_name": "Once Upon a Time",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'Once Upon a Time' shows that .................... should be vibrant.",
       "prashna": "'वन्स अपॉन ए टाइम' दिखाता है कि .................... जीवंत होना चाहिए।",
       "options": {
@@ -417,6 +503,8 @@
       "section": "Panorama",
       "chapter": "6",
       "chapter_name": "Once Upon a Time",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "According to the old woman, the young visitors were responsible for the act of",
       "prashna": "बूढ़ी औरत के अनुसार, युवा आगंतुक .................... के कार्य के लिए जिम्मेदार थे।",
       "options": {
@@ -440,6 +528,8 @@
       "section": "Panorama",
       "chapter": "6",
       "chapter_name": "Once Upon a Time",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The old, blind woman was also ________.",
       "prashna": "बूढ़ी, अंधी महिला भी ________ थी।",
       "options": {
@@ -461,6 +551,8 @@
       "section": "Panorama",
       "chapter": "6",
       "chapter_name": "Once Upon a Time",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The old woman in ‘Once upon A Time’ is a daughter of ____.",
       "prashna": "'वन्स अपॉन ए टाइम' में बूढ़ी औरत ____ की बेटी है।",
       "options": {
@@ -482,6 +574,8 @@
       "section": "Panorama",
       "chapter": "6",
       "chapter_name": "Once Upon a Time",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What does ‘bird’ and ‘woman’ signify to the speaker?",
       "prashna": "वक्ता के लिए 'पक्षी' और 'स्त्री' क्या दर्शाते हैं?"
     },
@@ -491,6 +585,8 @@
       "section": "Panorama",
       "chapter": "6",
       "chapter_name": "Once Upon a Time",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'The girl' as Toni Morrison says, 'offers ............... and pieces of meat'.",
       "prashna": "'लड़की' जैसा कि टोनी मॉरिसन कहती हैं, '............... और मांस के टुकड़े देती है'।",
       "options": {
@@ -514,6 +610,8 @@
       "section": "Panorama",
       "chapter": "6",
       "chapter_name": "Once Upon a Time",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The author chooses to read the bird as",
       "prashna": "लेखक पक्षी को किस रूप में पढ़ना पसंद करते हैं?",
       "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
@@ -536,6 +634,8 @@
       "section": "Panorama",
       "chapter": "6",
       "chapter_name": "Once Upon a Time",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "One day, the old woman is visited by some ............... people.",
       "prashna": "एक दिन, बूढ़ी औरत के पास कुछ ............... लोग आते हैं।",
       "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
@@ -558,6 +658,8 @@
       "section": "Panorama",
       "chapter": "6",
       "chapter_name": "Once Upon a Time",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The old woman is ............... but wise.",
       "prashna": "बूढ़ी औरत ............... है लेकिन बुद्धिमान है।",
       "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
@@ -580,6 +682,8 @@
       "section": "Panorama",
       "chapter": "6",
       "chapter_name": "Once Upon a Time",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What does the 'bird' and 'woman' signify to the speaker ?",
       "prashna": "वक्ता के लिए 'पक्षी' और 'महिला' क्या दर्शाते हैं?",
       "instructions": "Answer any five of the following questions :"

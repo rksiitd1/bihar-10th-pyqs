@@ -1,4 +1,29 @@
 {
+  "2018": [
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "confidence": 0.59,
+      "raw_choice": "Vyakaran - 2. Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi) (शब्द विचार (तत्सम, तद्भव, देशज, विदेशी))",
+      "question": "निम्नलिखित शब्दों में कौन-सा शब्द शुद्ध है?",
+      "prashna": "निम्नलिखित शब्दों में कौन-सा शब्द शुद्ध है?",
+      "options": {
+        "A": "शोनित",
+        "B": "शोनीत",
+        "C": "शोखणत",
+        "D": "शोणीत"
+      },
+      "vikalpa": {
+        "A": "शोनित",
+        "B": "शोनीत",
+        "C": "शोखणत",
+        "D": "शोणीत"
+      }
+    }
+  ],
   "2019": [
     {
       "id": "obj_21",
@@ -6,6 +31,8 @@
       "section": "Vyakaran",
       "chapter": "2",
       "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "शुद्ध शब्द है –",
       "prashna": "शुद्ध शब्द है –",
       "instructions": "प्रश्न संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से एक सही है। अपने द्वारा चुने गए सही विकल्प को OMR-शीट पर चिन्हित करें। (50×1=50)",
@@ -21,6 +48,56 @@
         "C": "अभिलासा",
         "D": "अभीलासा"
       }
+    },
+    {
+      "id": "obj_35",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "confidence": 0.57,
+      "raw_choice": "Vyakaran - 2. Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi) (शब्द विचार (तत्सम, तद्भव, देशज, विदेशी))",
+      "question": "अशुद्ध शब्द है –",
+      "prashna": "अशुद्ध शब्द है –",
+      "instructions": "प्रश्न संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से एक सही है। अपने द्वारा चुने गए सही विकल्प को OMR-शीट पर चिन्हित करें। (50×1=50)",
+      "options": {
+        "A": "कर्तव्य",
+        "B": "शृंगार",
+        "C": "रोशनी",
+        "D": "दुरात्मा"
+      },
+      "vikalpa": {
+        "A": "कर्तव्य",
+        "B": "शृंगार",
+        "C": "रोशनी",
+        "D": "दुरात्मा"
+      }
+    }
+  ],
+  "2020": [
+    {
+      "id": "obj_56",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "confidence": 0.61,
+      "raw_choice": "Vyakaran - 2. Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi) (शब्द विचार (तत्सम, तद्भव, देशज, विदेशी))",
+      "question": "शुद्ध शब्द है",
+      "prashna": "शुद्ध शब्द है",
+      "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 60 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
+      "options": {
+        "A": "प्रकृति",
+        "B": "प्रकीति",
+        "C": "परकृति",
+        "D": "प्रकिती"
+      },
+      "vikalpa": {
+        "A": "प्रकृति",
+        "B": "प्रकीति",
+        "C": "परकृति",
+        "D": "प्रकिती"
+      }
     }
   ],
   "2021": [
@@ -30,6 +107,8 @@
       "section": "Vyakaran",
       "chapter": "2",
       "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'आग' शब्द है",
       "prashna": "'आग' शब्द है",
       "options": {
@@ -51,6 +130,8 @@
       "section": "Vyakaran",
       "chapter": "2",
       "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "निम्न में शुद्ध शब्द है",
       "prashna": "निम्न में शुद्ध शब्द है",
       "options": {
@@ -72,6 +153,8 @@
       "section": "Vyakaran",
       "chapter": "2",
       "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "शुद्ध शब्द है",
       "prashna": "शुद्ध शब्द है",
       "options": {
@@ -93,6 +176,8 @@
       "section": "Vyakaran",
       "chapter": "2",
       "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'खेत' शब्द है",
       "prashna": "'खेत' शब्द है",
       "options": {
@@ -114,6 +199,8 @@
       "section": "Vyakaran",
       "chapter": "2",
       "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'मोर' शब्द है.",
       "prashna": "'मोर' शब्द है.",
       "options": {
@@ -137,6 +224,8 @@
       "section": "Vyakaran",
       "chapter": "2",
       "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'पंख' शब्द है",
       "prashna": "'पंख' शब्द है",
       "options": {
@@ -158,6 +247,8 @@
       "section": "Vyakaran",
       "chapter": "2",
       "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "निम्न में शुद्ध शब्द कौन है ?",
       "prashna": "निम्न में शुद्ध शब्द कौन है ?",
       "options": {
@@ -179,6 +270,8 @@
       "section": "Vyakaran",
       "chapter": "2",
       "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'भिक्षा' शब्द है",
       "prashna": "'भिक्षा' शब्द है",
       "options": {
@@ -200,6 +293,8 @@
       "section": "Vyakaran",
       "chapter": "2",
       "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "निम्न में शुद्ध शब्द कौन है ?",
       "prashna": "निम्न में शुद्ध शब्द कौन है ?",
       "options": {
@@ -221,6 +316,8 @@
       "section": "Vyakaran",
       "chapter": "2",
       "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "निम्न में शुद्ध शब्द कौन है ?",
       "prashna": "निम्न में शुद्ध शब्द कौन है ?",
       "options": {
@@ -242,6 +339,8 @@
       "section": "Vyakaran",
       "chapter": "2",
       "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "व्युत्पत्ति की दृष्टि से शब्द के कितने भेद हैं ?",
       "prashna": "व्युत्पत्ति की दृष्टि से शब्द के कितने भेद हैं ?",
       "options": {
@@ -263,6 +362,8 @@
       "section": "Vyakaran",
       "chapter": "2",
       "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "निम्न में शुद्ध शब्द कौन है ?",
       "prashna": "निम्न में शुद्ध शब्द कौन है ?",
       "options": {
@@ -284,6 +385,8 @@
       "section": "Vyakaran",
       "chapter": "2",
       "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'पिंजड़ा' शब्द है",
       "prashna": "'पिंजड़ा' शब्द है",
       "options": {
@@ -307,6 +410,8 @@
       "section": "Vyakaran",
       "chapter": "2",
       "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "निम्नलिखित में से शुद्ध शब्द कौन है?",
       "prashna": "निम्नलिखित में से शुद्ध शब्द कौन है?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
@@ -329,6 +434,8 @@
       "section": "Vyakaran",
       "chapter": "2",
       "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'वाष्प' क्या है?",
       "prashna": "'वाष्प' क्या है?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
@@ -351,6 +458,8 @@
       "section": "Vyakaran",
       "chapter": "2",
       "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "ऐसे शब्द, जो यौगिक तो होते हैं, पर अर्थ के विचार से अपने सामान्य अर्थ को छोड़कर किसी परंपरा से विशेष अर्थ के परिचायक हैं, क्या कहलाते हैं?",
       "prashna": "ऐसे शब्द, जो यौगिक तो होते हैं, पर अर्थ के विचार से अपने सामान्य अर्थ को छोड़कर किसी परंपरा से विशेष अर्थ के परिचायक हैं, क्या कहलाते हैं?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
@@ -375,6 +484,8 @@
       "section": "Vyakaran",
       "chapter": "2",
       "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "instructions": "किन्हीं 50 प्रश्नों के उत्तर दें।",
       "question": "निम्नलिखित में कौन शुद्ध शब्द है ?",
       "prashna": "निम्नलिखित में कौन शुद्ध शब्द है ?",
@@ -397,6 +508,8 @@
       "section": "Vyakaran",
       "chapter": "2",
       "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "instructions": "किन्हीं 50 प्रश्नों के उत्तर दें।",
       "question": "'मानवता' किस शब्द का उदाहरण है ?",
       "prashna": "'मानवता' किस शब्द का उदाहरण है ?",
@@ -419,6 +532,8 @@
       "section": "Vyakaran",
       "chapter": "2",
       "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "instructions": "किन्हीं 50 प्रश्नों के उत्तर दें।",
       "question": "'खलिहान' किस शब्द का उदाहरण है ?",
       "prashna": "'खलिहान' किस शब्द का उदाहरण है ?",
@@ -436,11 +551,37 @@
       }
     },
     {
+      "id": "obj_51",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "confidence": 0.64,
+      "raw_choice": "Vyakaran - 2. Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi) (शब्द विचार (तत्सम, तद्भव, देशज, विदेशी))",
+      "instructions": "किन्हीं 50 प्रश्नों के उत्तर दें।",
+      "question": "निम्नलिखित में कौन अशुद्ध शब्द है ?",
+      "prashna": "निम्नलिखित में कौन अशुद्ध शब्द है ?",
+      "options": {
+        "A": "दुस्कर",
+        "B": "संशोधन",
+        "C": "वैदेही",
+        "D": "सीढ़ियाँ"
+      },
+      "vikalpa": {
+        "A": "दुस्कर",
+        "B": "संशोधन",
+        "C": "वैदेही",
+        "D": "सीढ़ियाँ"
+      }
+    },
+    {
       "id": "obj_23",
       "type": "objective",
       "section": "Vyakaran",
       "chapter": "2",
       "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'सूर्य' किस शब्द का उदाहरण है ?",
       "prashna": "'सूर्य' किस शब्द का उदाहरण है ?",
       "options": {
@@ -462,6 +603,8 @@
       "section": "Vyakaran",
       "chapter": "2",
       "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'जलज' किस शब्द का उदाहरण है ?",
       "prashna": "'जलज' किस शब्द का उदाहरण है ?",
       "options": {
@@ -483,6 +626,8 @@
       "section": "Vyakaran",
       "chapter": "2",
       "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "निम्नलिखित में कौन शुद्ध शब्द है ?",
       "prashna": "निम्नलिखित में कौन शुद्ध शब्द है ?",
       "options": {
@@ -504,6 +649,8 @@
       "section": "Vyakaran",
       "chapter": "2",
       "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "निम्नलिखित में कौन अशुद्ध शब्द है ?",
       "prashna": "निम्नलिखित में कौन अशुद्ध शब्द है ?",
       "options": {
@@ -527,6 +674,8 @@
       "section": "Vyakaran",
       "chapter": "2",
       "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "निम्न में कौन तत्सम शब्द है ?",
       "prashna": "निम्न में कौन तत्सम शब्द है ?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -549,6 +698,8 @@
       "section": "Vyakaran",
       "chapter": "2",
       "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "निम्न में कौन देशज शब्द है ?",
       "prashna": "निम्न में कौन देशज शब्द है ?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -571,6 +722,8 @@
       "section": "Vyakaran",
       "chapter": "2",
       "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "निम्न में कौन रूढ़ शब्द है ?",
       "prashna": "निम्न में कौन रूढ़ शब्द है ?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -588,11 +741,37 @@
       }
     },
     {
+      "id": "obj_14",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "2",
+      "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "confidence": 0.77,
+      "raw_choice": "Vyakaran - 2. Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi) (शब्द विचार (तत्सम, तद्भव, देशज, विदेशी))",
+      "question": "निम्न में कौन शुद्ध शब्द है ?",
+      "prashna": "निम्न में कौन शुद्ध शब्द है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
+      "options": {
+        "A": "विभिषीका",
+        "B": "विभीषिका",
+        "C": "विभिषिका",
+        "D": "वीभीषिका"
+      },
+      "vikalpa": {
+        "A": "विभिषीका",
+        "B": "विभीषिका",
+        "C": "विभिषिका",
+        "D": "वीभीषिका"
+      }
+    },
+    {
       "id": "obj_39",
       "type": "objective",
       "section": "Vyakaran",
       "chapter": "2",
       "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "निम्न में कौन तद्भव शब्द है ?",
       "prashna": "निम्न में कौन तद्भव शब्द है ?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -615,6 +794,8 @@
       "section": "Vyakaran",
       "chapter": "2",
       "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "निम्न में कौन देशज शब्द है ?",
       "prashna": "निम्न में कौन देशज शब्द है ?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",

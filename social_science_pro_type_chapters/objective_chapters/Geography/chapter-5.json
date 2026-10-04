@@ -1,4 +1,54 @@
 {
+  "2013": [
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "5",
+      "chapter_name": "Bihar: Agriculture and Forest Resources",
+      "confidence": 0.68,
+      "raw_choice": "Geography - 5. Bihar: Agriculture and Forest Resources (बिहार: कृषि एवं वन संसाधन)",
+      "question": "In which city is the Sanjay Gandhi Biological Park located?",
+      "prashna": "संजय गाँधी जैविक उद्यान किस नगर में स्थित है?",
+      "options": {
+        "A": "Rajgir",
+        "B": "Bodhgaya",
+        "C": "Bihar Sharif",
+        "D": "Patna"
+      },
+      "vikalpa": {
+        "A": "राजगीर",
+        "B": "बोधगया",
+        "C": "बिहार शरीफ",
+        "D": "पटना"
+      }
+    }
+  ],
+  "2014": [
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "5",
+      "chapter_name": "Bihar: Agriculture and Forest Resources",
+      "confidence": 0.57,
+      "raw_choice": "Geography - 5. Bihar: Agriculture and Forest Resources (बिहार: कृषि एवं वन संसाधन)",
+      "question": "In which district is Kanwar Lake located?",
+      "prashna": "काँवर झील किस जिला में स्थित है?",
+      "options": {
+        "A": "In Darbhanga district",
+        "B": "In Bhagalpur district",
+        "C": "In Begusarai district",
+        "D": "In Muzaffarpur district"
+      },
+      "vikalpa": {
+        "A": "दरभंगा जिला में",
+        "B": "भागलपुर जिला में",
+        "C": "बेगूसराय जिला में",
+        "D": "मुजफ्फरपुर जिला में"
+      }
+    }
+  ],
   "2016": [
     {
       "id": "obj_4",
@@ -6,6 +56,8 @@
       "section": "Geography",
       "chapter": "5",
       "chapter_name": "Bihar: Agriculture and Forest Resources",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What geographical area of Bihar is covered with forest ?",
       "prashna": "बिहार के कितने भौगोलिक क्षेत्र पर वन का फैलाव है ?",
       "options": {
@@ -27,6 +79,8 @@
       "section": "Geography",
       "chapter": "5",
       "chapter_name": "Bihar: Agriculture and Forest Resources",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is the extent of forest cover in the geographical area of Bihar?",
       "prashna": "बिहार के कितने भौगोलिक क्षेत्र पर वन का फैलाव है?",
       "options": {
@@ -50,6 +104,8 @@
       "section": "Geography",
       "chapter": "5",
       "chapter_name": "Bihar: Agriculture and Forest Resources",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What type of mineral is Pyrite?",
       "prashna": "पाइराइट किस प्रकार का खनिज है ?",
       "options": {
@@ -71,6 +127,8 @@
       "section": "Geography",
       "chapter": "5",
       "chapter_name": "Bihar: Agriculture and Forest Resources",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What percent of geographical area in Bihar is under forest cover?",
       "prashna": "बिहार के कितने प्रतिशत भौगोलिक क्षेत्र में वन का फैलाव है?",
       "options": {
@@ -94,6 +152,8 @@
       "section": "Geography",
       "chapter": "5",
       "chapter_name": "Bihar: Agriculture and Forest Resources",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Gandak project is in",
       "prashna": "गण्डक परियोजना है",
       "options": {
@@ -115,6 +175,8 @@
       "section": "Geography",
       "chapter": "5",
       "chapter_name": "Bihar: Agriculture and Forest Resources",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Bihar is rich in",
       "prashna": "बिहार सम्पन्न है",
       "options": {
@@ -138,6 +200,8 @@
       "section": "Geography",
       "chapter": "5",
       "chapter_name": "Bihar: Agriculture and Forest Resources",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which district in Bihar is famous for banana production?",
       "prashna": "बिहार में कौन जिला केला उत्पादन के लिए प्रसिद्ध है ?",
       "options": {
@@ -159,6 +223,8 @@
       "section": "Geography",
       "chapter": "5",
       "chapter_name": "Bihar: Agriculture and Forest Resources",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What percentage of area in Bihar is under forest cover?",
       "prashna": "बिहार में कितने प्रतिशत क्षेत्र में वन हैं?",
       "options": {
@@ -180,6 +246,8 @@
       "section": "Geography",
       "chapter": "5",
       "chapter_name": "Bihar: Agriculture and Forest Resources",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What percentage of area in Bihar is agricultural area?",
       "prashna": "बिहार में कितना प्रतिशत कृषि क्षेत्र है?",
       "options": {
@@ -201,6 +269,8 @@
       "section": "Geography",
       "chapter": "5",
       "chapter_name": "Bihar: Agriculture and Forest Resources",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "In which district of Bihar is the Kakolat waterfall located?",
       "prashna": "ककोलत जलप्रपात बिहार के किस जिले में स्थित है ?",
       "options": {
@@ -222,6 +292,8 @@
       "section": "Geography",
       "chapter": "5",
       "chapter_name": "Bihar: Agriculture and Forest Resources",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Gandak Project is in",
       "prashna": "गण्डक परियोजना है",
       "options": {
@@ -245,6 +317,8 @@
       "section": "Geography",
       "chapter": "5",
       "chapter_name": "Bihar: Agriculture and Forest Resources",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The oldest river valley project of Bihar is:",
       "prashna": "बिहार की प्राचीनतम नदी घाटी परियोजना है।",
       "options": {
@@ -266,6 +340,8 @@
       "section": "Geography",
       "chapter": "5",
       "chapter_name": "Bihar: Agriculture and Forest Resources",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "How much area of Bihar is covered with forests?",
       "prashna": "बिहार का कितना क्षेत्र वनों से आच्छादित है ?",
       "options": {
@@ -289,6 +365,8 @@
       "section": "Geography",
       "chapter": "5",
       "chapter_name": "Bihar: Agriculture and Forest Resources",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which district of Bihar is the largest producer of jute?",
       "prashna": "बिहार का कौन जिला जूट का सबसे बड़ा उत्पादक है ?",
       "options": {
@@ -310,6 +388,8 @@
       "section": "Geography",
       "chapter": "5",
       "chapter_name": "Bihar: Agriculture and Forest Resources",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Where is Rohila National Park ?",
       "prashna": "रोहिला राष्ट्रीय उद्यान कहाँ है ?",
       "options": {
@@ -333,6 +413,8 @@
       "section": "Geography",
       "chapter": "5",
       "chapter_name": "Bihar: Agriculture and Forest Resources",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Where is Kusheshwar Sthan Sanctuary located ?",
       "prashna": "कुशेश्वर स्थान अभयारण्य कहाँ स्थित है ?",
       "options": {
@@ -349,11 +431,36 @@
       }
     },
     {
+      "id": "obj_46",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "5",
+      "chapter_name": "Bihar: Agriculture and Forest Resources",
+      "confidence": 0.53,
+      "raw_choice": "Geography - 5. Bihar: Agriculture and Forest Resources (बिहार: कृषि एवं वन संसाधन)",
+      "question": "What is the rank of Bihar in the production of vegetables ?",
+      "prashna": "सब्जी उत्पादन में बिहार का कौन स्थान है ?",
+      "options": {
+        "A": "First",
+        "B": "Second",
+        "C": "Third",
+        "D": "Fourth"
+      },
+      "vikalpa": {
+        "A": "प्रथम",
+        "B": "द्वितीय",
+        "C": "तृतीय",
+        "D": "चतुर्थ"
+      }
+    },
+    {
       "id": "obj_10",
       "type": "objective",
       "section": "Geography",
       "chapter": "5",
       "chapter_name": "Bihar: Agriculture and Forest Resources",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Where is Kusheshwar Sthan Sanctuary located?",
       "prashna": "कुशेश्वर स्थान अभयारण्य कहाँ स्थित है?",
       "options": {
@@ -368,6 +475,29 @@
         "C": "भागलपुर",
         "D": "नन्दन कानन"
       }
+    },
+    {
+      "id": "obj_14",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "5",
+      "chapter_name": "Bihar: Agriculture and Forest Resources",
+      "confidence": 0.57,
+      "raw_choice": "Geography - 5. Bihar: Agriculture and Forest Resources (बिहार: कृषि एवं वन संसाधन)",
+      "question": "What is the rank of Bihar in the production of vegetables?",
+      "prashna": "सब्जी उत्पादन में बिहार का कौन स्थान है?",
+      "options": {
+        "A": "First",
+        "B": "Second",
+        "C": "Third",
+        "D": "Fourth"
+      },
+      "vikalpa": {
+        "A": "प्रथम",
+        "B": "द्वितीय",
+        "C": "तृतीय",
+        "D": "चतुर्थ"
+      }
     }
   ],
   "2026": [
@@ -377,6 +507,8 @@
       "section": "Geography",
       "chapter": "5",
       "chapter_name": "Bihar: Agriculture and Forest Resources",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which state gets benefit from the Gandak River Valley project ?",
       "prashna": "गण्डक नदी घाटी परियोजना से किस राज्य को लाभ मिलता है ?",
       "options": {
@@ -399,6 +531,8 @@
       "section": "Geography",
       "chapter": "5",
       "chapter_name": "Bihar: Agriculture and Forest Resources",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Where is Dalma Wildlife Sanctuary located ?",
       "prashna": "डाल्मा वन्य जीव अभयारण्य कहाँ स्थित है ?",
       "options": {
@@ -421,6 +555,8 @@
       "section": "Geography",
       "chapter": "5",
       "chapter_name": "Bihar: Agriculture and Forest Resources",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which river valley project is not in north Bihar ?",
       "prashna": "कौन नदी घाटी परियोजना उत्तर बिहार में नहीं है ?",
       "options": {
@@ -436,6 +572,53 @@
         "D": "बागमती परियोजना"
       },
       "instructions": "Question Nos. 1 to 80 have four options each, out of which only one is correct. Mark your selected option on the OMR sheet. Answer any 40 questions."
+    },
+    {
+      "id": "obj_67",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "5",
+      "chapter_name": "Bihar: Agriculture and Forest Resources",
+      "confidence": 0.6,
+      "raw_choice": "Geography - 5. Bihar: Agriculture and Forest Resources (बिहार: कृषि एवं वन संसाधन)",
+      "question": "Which of the following Biosphere Reserve Areas is located in Bihar ?",
+      "prashna": "निम्नलिखित जैवमंडल आरक्षित क्षेत्रों में कौन बिहार में स्थित है ?",
+      "options": {
+        "A": "Sundarban",
+        "B": "Manas",
+        "C": "Simlipal",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "सुंदरवन",
+        "B": "मानस",
+        "C": "सिमलीपाल",
+        "D": "इनमें से कोई नहीं"
+      },
+      "instructions": "Question Nos. 1 to 80 have four options each, out of which only one is correct. Mark your selected option on the OMR sheet. Answer any 40 questions."
+    },
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "5",
+      "chapter_name": "Bihar: Agriculture and Forest Resources",
+      "confidence": 0.68,
+      "raw_choice": "Geography - 5. Bihar: Agriculture and Forest Resources (बिहार: कृषि एवं वन संसाधन)",
+      "question": "Which of the following is a type of mica ?",
+      "prashna": "निम्न में कौन अभ्रक का प्रकार है ?",
+      "options": {
+        "A": "Anthracite",
+        "B": "Haematite",
+        "C": "Muscovite",
+        "D": "Dolomite"
+      },
+      "vikalpa": {
+        "A": "एंथ्रासाइट",
+        "B": "हेमेटाइट",
+        "C": "मस्कोवाइट",
+        "D": "डोलोमाइट"
+      }
     }
   ]
 }

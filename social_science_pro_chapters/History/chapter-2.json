@@ -6,6 +6,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Where was Karl Marx born?",
       "prashna": "कार्ल मार्क्स का जन्म कहाँ हुआ था ?",
       "options": {
@@ -27,8 +29,21 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The Russian Revolution influenced the whole world. Explain with any two examples.",
       "prashna": "रूस की क्रांति ने पूरे विश्व को प्रभावित किया। किन्हीं दो उदाहरणों द्वारा स्पष्ट करें।"
+    },
+    {
+      "id": "short_19",
+      "type": "short_answer",
+      "section": "History",
+      "chapter": "2",
+      "chapter_name": "Socialism and Communism",
+      "confidence": 0.58,
+      "raw_choice": "History - 2. Socialism and Communism (समाजवाद एवं साम्यवाद)",
+      "question": "Write three features of economic reforms or the New Economic Policy.",
+      "prashna": "आर्थिक सुधारों या नई आर्थिक नीति की तीन विशेषताएँ लिखें।"
     }
   ],
   "2012": [
@@ -38,6 +53,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "When did the Bolshevik Revolution take place?",
       "prashna": "बोल्शेविक क्रांति कब हुई ?",
       "options": {
@@ -61,6 +78,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Describe any two causes of the Russian Revolution.",
       "prashna": "रूसी क्रांति के किन्हीं दो कारणों का वर्णन करें।"
     }
@@ -72,6 +91,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "How was Communism a new economic and social system?",
       "prashna": "साम्यवाद एक नई आर्थिक और सामाजिक व्यवस्था थी। कैसे?"
     },
@@ -81,6 +102,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Who wrote the book 'War and Peace'?",
       "prashna": "'वार एण्ड पीस' पुस्तक की रचना किसने की ?",
       "options": {
@@ -104,6 +127,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Explain the thoughts of European socialists.",
       "prashna": "यूरोपीय समाजवादियों के विचारों का वर्णन करें।"
     },
@@ -113,6 +138,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Describe the ideas of European Socialists.",
       "prashna": "यूरोपियन समाजवादियों के विचारों का वर्णन करें।"
     }
@@ -124,6 +151,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Describe any two reasons of Russian Revolution.",
       "prashna": "रूसी क्रांति के किन्हीं दो कारणों का वर्णन करें?"
     },
@@ -133,6 +162,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Describe any two causes of the Russian Revolution.",
       "prashna": "रूसी क्रांति के किन्हीं दो कारणों का वर्णन करें।",
       "sub_questions": null,
@@ -146,6 +177,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "When did the Bolshevik Revolution take place?",
       "prashna": "बोलशेविक क्रांति कब हुई ?",
       "options": {
@@ -167,6 +200,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Between which countries, the treaty of Brest Litovsk took place?",
       "prashna": "ब्रेस्ट लिटोव्स्क की संधि किन देशों के बीच हुई थी?",
       "options": {
@@ -188,6 +223,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which class of society was exploited by the capitalist class?",
       "prashna": "पूँजीपति वर्ग के द्वारा किस वर्ग का शोषण हुआ?",
       "options": {
@@ -206,11 +243,36 @@
   ],
   "2019": [
     {
+      "id": "obj_3",
+      "type": "objective",
+      "section": "History",
+      "chapter": "2",
+      "chapter_name": "Socialism and Communism",
+      "confidence": 0.72,
+      "raw_choice": "History - 2. Socialism and Communism (समाजवाद एवं साम्यवाद)",
+      "question": "Who wrote 'War and Peace'?",
+      "prashna": "वार एण्ड पीस किसकी रचना है?",
+      "options": {
+        "A": "Karl Marx",
+        "B": "Leo Tolstoy",
+        "C": "Dostoevsky",
+        "D": "Engels"
+      },
+      "vikalpa": {
+        "A": "कार्ल मार्क्स",
+        "B": "लियो टालस्टॉय",
+        "C": "दोस्तोयवस्की",
+        "D": "एन्जल्स"
+      }
+    },
+    {
       "id": "obj_5",
       "type": "objective",
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which is not included in the new economic policy?",
       "prashna": "नई आर्थिक नीति में किसे सम्मिलित नहीं किया गया है?",
       "options": {
@@ -232,6 +294,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Discuss the causes of Russian Revolution.",
       "prashna": "रूसी क्रांति के कारणों की विवेचना करें।"
     },
@@ -241,6 +305,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Where was Karl Marx born?",
       "prashna": "कार्ल मार्क्स का जन्म कहाँ हुआ था?",
       "options": {
@@ -262,6 +328,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What do you mean by October Revolution?",
       "prashna": "अक्टूबर क्रांति से आप क्या समझते हैं?"
     },
@@ -271,6 +339,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Throw light on the life and achievements of Lenin.",
       "prashna": "लेनिन के जीवन एवं उपलब्धियों पर प्रकाश डालें।"
     }
@@ -282,6 +352,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What was included in the New Economic Policy ?",
       "prashna": "नई आर्थिक नीति में किसे सम्मिलित किया गया ?",
       "options": {
@@ -303,6 +375,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Where was the first experiment of the communist governance started ?",
       "prashna": "साम्यवादी शासन का पहला प्रयोग कहाँ हुआ था ?",
       "options": {
@@ -324,6 +398,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "When did the Bolshevik revolution take place ?",
       "prashna": "बोल्शेविक क्रांति कब हुई ?",
       "options": {
@@ -345,6 +421,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is New Economic Policy ? Discuss.",
       "prashna": "नई आर्थिक नीति क्या है ? विवेचना करें।"
     },
@@ -354,6 +432,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Where was Karl Marx born?",
       "prashna": "कार्ल मार्क्स का जन्म कहाँ हुआ था?",
       "options": {
@@ -375,6 +455,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "In which year was 'Das Kapital' published?",
       "prashna": "'दास कैपिटल' का प्रकाशन किस वर्ष हुआ था?",
       "options": {
@@ -396,6 +478,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "When did Bolshevik revolution take place?",
       "prashna": "बोल्शेविक क्रांति कब हुई?",
       "options": {
@@ -417,8 +501,21 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Give brief introduction of Lenin.",
       "prashna": "लेनिन का संक्षिप्त परिचय दें।"
+    },
+    {
+      "id": "short_4",
+      "type": "short_answer",
+      "section": "History",
+      "chapter": "2",
+      "chapter_name": "Socialism and Communism",
+      "confidence": 0.58,
+      "raw_choice": "History - 2. Socialism and Communism (समाजवाद एवं साम्यवाद)",
+      "question": "What is Bloody Sunday?",
+      "prashna": "खूनी रविवार क्या है?"
     }
   ],
   "2021": [
@@ -428,6 +525,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "When did Lenin die?",
       "prashna": "लेनिन की मृत्यु कब हुई ?",
       "options": {
@@ -449,6 +548,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Describe the ideas of European Socialists.",
       "prashna": "यूरोपियन समाजवादियों के विचारों का वर्णन करें।"
     },
@@ -458,6 +559,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Who led the Bolshevik Revolution in Russia?",
       "prashna": "रूस की बोल्शेविक क्रांति का नेतृत्व किसने किया?",
       "options": {
@@ -479,6 +582,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is called the Bible of Socialists?",
       "prashna": "समाजवादियों की बाइबिल किसे कहा जाता है ?",
       "options": {
@@ -502,6 +607,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Robert Owen belonged to which country?",
       "prashna": "राबर्ट ओवन कहाँ का निवासी था?",
       "options": {
@@ -523,6 +630,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Who led the Bolshevik revolution?",
       "prashna": "बोल्शेविक क्रांति का नेतृत्व किसने किया?",
       "options": {
@@ -544,6 +653,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which was the world's first socialist country?",
       "prashna": "विश्व का पहला समाजवादी देश था",
       "options": {
@@ -565,6 +676,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What was the condition of Russian farmers before the Revolution?",
       "prashna": "क्रांति से पूर्व रूसी किसानों की स्थिति कैसी थी ?"
     }
@@ -576,6 +689,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Who wrote the program 'April Thesis' of the Bolshevik party?",
       "prashna": "बोल्शेविक दल का कार्यक्रम 'अप्रैल थीसिस' किसने लिखा ?",
       "options": {
@@ -597,6 +712,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which is called the 'Bible of Socialists'?",
       "prashna": "'समाजवादियों की बाइबिल' किसे कहते हैं ?",
       "options": {
@@ -618,6 +735,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What was minority party called in Russia?",
       "prashna": "रूस में अल्पमत वाला दल क्या कहलाया ?",
       "options": {
@@ -634,11 +753,36 @@
       }
     },
     {
+      "id": "obj_62",
+      "type": "objective",
+      "section": "History",
+      "chapter": "2",
+      "chapter_name": "Socialism and Communism",
+      "confidence": 0.53,
+      "raw_choice": "History - 2. Socialism and Communism (समाजवाद एवं साम्यवाद)",
+      "question": "Hegel was the philosopher of which country?",
+      "prashna": "हीगेल किस देश का दार्शनिक था ?",
+      "options": {
+        "A": "France",
+        "B": "Italy",
+        "C": "Germany",
+        "D": "Austria"
+      },
+      "vikalpa": {
+        "A": "फ्रांस",
+        "B": "इटली",
+        "C": "जर्मनी",
+        "D": "ऑस्ट्रिया"
+      }
+    },
+    {
       "id": "short_1",
       "type": "short_answer",
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What was the main objective of the government formed under the leadership of Kerensky after the March Revolution?",
       "prashna": "मार्च क्रांति के बाद केरेंसकी के नेतृत्व में बनी सरकार का मुख्य उद्देश्य क्या था ?"
     },
@@ -648,6 +792,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Why was the New Economic Policy announced by Lenin?",
       "prashna": "लेनिन द्वारा नई आर्थिक नीति की घोषणा क्यों की गई ?"
     },
@@ -657,6 +803,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Discuss the impact of the Russian Revolution.",
       "prashna": "रूसी क्रांति के प्रभाव की विवेचना करें।"
     }
@@ -668,6 +816,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "How did the intellectual awakening affect the Russian Revolution?",
       "prashna": "बौद्धिक जागरण ने रूसी क्रांति को किस प्रकार प्रभावित किया ?"
     },
@@ -677,6 +827,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Who founded the Third International in 1919 ?",
       "prashna": "1919 में थर्ड इंटरनेशनल की स्थापना किसने की ?",
       "options": {
@@ -698,6 +850,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "By what name is the first Russian Revolution of 1917 known ?",
       "prashna": "1917 की पहली रूसी क्रांति किस नाम से जानी जाती है ?",
       "options": {
@@ -719,6 +873,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Who implemented the New Economic Policy (NEP) ?",
       "prashna": "नई आर्थिक नीति किसने लागू की ?",
       "options": {
@@ -740,6 +896,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Who succeeded Lenin ?",
       "prashna": "लेनिन का उत्तराधिकारी कौन बना ?",
       "options": {
@@ -761,6 +919,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Between which countries was the treaty of Brest-Litovsk signed ?",
       "prashna": "ब्रेस्ट-लिटोवस्क की संधि किन देशों के बीच हुई थी ?",
       "options": {
@@ -782,6 +942,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is Communism ?",
       "prashna": "साम्यवाद क्या है ?"
     }
@@ -793,6 +955,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Who changed the name of Bolshevik Party to Communist Party ?",
       "prashna": "बोल्शेविक दल का नाम बदलकर साम्यवादी दल किसने किया ?",
       "options": {
@@ -814,6 +978,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Who abolished Serfdom in Russia ?",
       "prashna": "रूस में कृषि दासता को किसने समाप्त किया ?",
       "options": {
@@ -835,6 +1001,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Who is considered the father of scientific socialism ?",
       "prashna": "वैज्ञानिक समाजवाद का जनक किसे माना जाता है ?",
       "options": {
@@ -856,6 +1024,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "When did the Soviet Union disintegrate ?",
       "prashna": "सोवियत संघ का विघटन कब हुआ ?",
       "options": {
@@ -872,13 +1042,61 @@
       }
     },
     {
+      "id": "obj_70",
+      "type": "objective",
+      "section": "History",
+      "chapter": "2",
+      "chapter_name": "Socialism and Communism",
+      "confidence": 0.61,
+      "raw_choice": "History - 2. Socialism and Communism (समाजवाद एवं साम्यवाद)",
+      "question": "Whose contribution is economic planning ?",
+      "prashna": "आर्थिक नियोजन किसकी देन है ?",
+      "options": {
+        "A": "French Revolution",
+        "B": "Russian Revolution",
+        "C": "American Revolution",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "फ्रांसीसी क्रांति",
+        "B": "रूसी क्रांति",
+        "C": "अमेरिकी क्रांति",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
       "id": "short_1",
       "type": "short_answer",
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What do you understand by Historical Materialism ?",
       "prashna": "ऐतिहासिक भौतिकवाद से आप क्या समझते हैं ?"
+    },
+    {
+      "id": "obj_4",
+      "type": "objective",
+      "section": "History",
+      "chapter": "2",
+      "chapter_name": "Socialism and Communism",
+      "confidence": 0.61,
+      "raw_choice": "History - 2. Socialism and Communism (समाजवाद एवं साम्यवाद)",
+      "question": "Whose contribution is economic planning?",
+      "prashna": "आर्थिक नियोजन किसकी देन है?",
+      "options": {
+        "A": "French Revolution",
+        "B": "Russian Revolution",
+        "C": "American Revolution",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "फ्रांसीसी क्रांति",
+        "B": "रूसी क्रांति",
+        "C": "अमेरिकी क्रांति",
+        "D": "इनमें से सभी"
+      }
     },
     {
       "id": "obj_26",
@@ -886,6 +1104,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Who changed the name of Bolshevik Party to Communist Party?",
       "prashna": "बोल्शेविक दल का नाम बदलकर साम्यवादी दल किसने किया?",
       "options": {
@@ -907,6 +1127,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Who abolished Serfdom in Russia?",
       "prashna": "रूस में कृषि दासता को किसने समाप्त किया?",
       "options": {
@@ -928,6 +1150,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Who is considered the father of scientific socialism?",
       "prashna": "वैज्ञानिक समाजवाद का जनक किसे माना जाता है?",
       "options": {
@@ -949,6 +1173,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "When did the Soviet Union disintegrate?",
       "prashna": "सोवियत संघ का विघटन कब हुआ?",
       "options": {
@@ -970,6 +1196,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What do you understand by Historical Materialism?",
       "prashna": "ऐतिहासिक भौतिकवाद से आप क्या समझते हैं?"
     }
@@ -981,6 +1209,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "With whom did Russia sign the Treaty of Brest-Litovsk ?",
       "prashna": "रूस ने ब्रेस्टलिटोवस्क की संधि किससे की ?",
       "options": {
@@ -1003,9 +1233,34 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "How was Russia's new economic policy a compromise with Marxist theory ?",
       "prashna": "रूस की नई आर्थिक नीति मार्क्सवादी सिद्धांतों के साथ किस प्रकार एक समझौता थी ?",
       "instructions": "Question Nos. 7 and 8 are Long Answer Type. Answer any 1 of them. Each question carries 4 marks."
+    },
+    {
+      "id": "obj_17",
+      "type": "objective",
+      "section": "History",
+      "chapter": "2",
+      "chapter_name": "Socialism and Communism",
+      "confidence": 0.56,
+      "raw_choice": "History - 2. Socialism and Communism (समाजवाद एवं साम्यवाद)",
+      "question": "Who founded the Communist Party of India in Tashkent ?",
+      "prashna": "ताशकंद में भारतीय कम्युनिस्ट पार्टी की स्थापना किसने की ?",
+      "options": {
+        "A": "Hardayal Sharma",
+        "B": "Bal Gangadhar Tilak",
+        "C": "M. N. Joshi",
+        "D": "M. N. Roy"
+      },
+      "vikalpa": {
+        "A": "हरदयाल शर्मा",
+        "B": "बाल गंगाधर तिलक",
+        "C": "एम. एन. जोशी",
+        "D": "एम. एन. राय"
+      }
     },
     {
       "id": "obj_20",
@@ -1013,6 +1268,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is called the Bible of Socialism ?",
       "prashna": "निम्नलिखित में से किसे समाजवादियों की बाइबल कहा जाता है ?",
       "options": {
@@ -1034,6 +1291,8 @@
       "section": "History",
       "chapter": "2",
       "chapter_name": "Socialism and Communism",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What was the impact of the Russian Revolution ? Write in detail.",
       "prashna": "रूसी क्रांति का क्या प्रभाव पड़ा ? विस्तार से बताएँ।"
     }

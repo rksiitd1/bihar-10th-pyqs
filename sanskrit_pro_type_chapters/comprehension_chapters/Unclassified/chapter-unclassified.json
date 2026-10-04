@@ -1,48 +1,4 @@
 {
-  "2014": [
-    {
-      "id": "gadyansh_1",
-      "type": "comprehension",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़कर उसपर आधारित प्रश्नों के उत्तर निर्देशानुसार लिखें-",
-      "prashna": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़कर उसपर आधारित प्रश्नों के उत्तर निर्देशानुसार लिखें-",
-      "instructions": "गद्यांश को पढ़कर प्रश्नों के उत्तर दें।",
-      "context": "जना: प्राय: स्वार्थरता: सन्ति । स्वोदरपूर्त्यै एव अहर्निशम् यतन्ते । परेषाम् उपकाराय धनं ते न वितरन्ति । परं प्रकृति सततं परोपकरता तरव: अस्मभ्यं फलानि छायां च यच्छन्ति । मेघा: सरित्च जलं दत्वा अस्मान् उपकुर्वन्ति मेघा: स्वयं क्षारं जलं पीत्वा पृथिव्यै अमृततुल्यं मधुरजलं वर्षन्ति । गावा: तृणानि अपि खादित्वा अस्मभ्यं श्वेतं मधुरं दुग्धं ददति । इत्थं वयं पश्याम: यत् मानवाम् अतिरिच्यप्रकृते: सर्वे पदार्था उपकाराय एव दृढ़ संकल्पा: सन्ति । केवलं विरला सत्पुरुषा एव परोपकारार्थम् जीवन्ति । सतां सम्पत्ति: अपि परेषां दुःख निवारणाय एवं लोक कल्याणाय ते सर्वस्वम् अर्पयन्ति । यदि सर्वे मानवा: परोपकारिण: स्यु: तर्हि धरा सुखसमृद्धि वैभवपूर्णा भवेत्। सत्यम् उक्तम् परोपकाराय हि सतां विभूतय:।",
-      "sub_questions": [
-        {
-          "type": "एकपदेन उत्तरत",
-          "questions": [
-            "(i) प्राचीनजना: कीदृशा: सन्ति?",
-            "(ii) प्रकृति सततं कीदृशी?"
-          ]
-        },
-        {
-          "type": "पूर्णवाक्येन उत्तरत",
-          "questions": [
-            "(i) यदि सर्वे मानवा: परोपकारिण: स्यु: तर्हि किं भवेत्?",
-            "(ii) मेघा: किं पीत्वा पृथिव्यै मधुरजलं वर्षन्ति?"
-          ]
-        },
-        {
-          "type": "निर्देशानुसार उत्तर दें",
-          "questions": [
-            "(i) 'ते सर्वस्वं समर्पयन्ति' अत्र 'ते' इति सर्वनामपदं केभ्य: प्रयुक्तम्?",
-            "(ii) 'सत्पुरुषा' अस्य विशेषणम् किम्?",
-            "(iii) 'अकुर्वन्ति' अस्य विलोमपदं किम्?",
-            "(iv) 'इत्थं वयं पश्याम:' अत्र कर्तृपदं किम्?"
-          ]
-        },
-        {
-          "type": "शीर्षक",
-          "questions": [
-            "(घ) अस्य गद्यांशस्य समुचितं शीर्षकं लिखत।"
-          ]
-        }
-      ]
-    }
-  ],
   "2018": [
     {
       "id": "gadyansh_2",
@@ -50,6 +6,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.46,
+      "raw_choice": "Vyakaran - 13. Unseen Passage (अपठित-अवबोधनम्)",
       "question": "अधोलिखित गद्यांशों को पढ़कर उसपर आधारित प्रश्नों के उत्तर निर्देशानुसार दें-",
       "prashna": "अधोलिखित गद्यांशों को पढ़कर उसपर आधारित प्रश्नों के उत्तर निर्देशानुसार दें-",
       "instructions": "अधोलिखित गद्यांशों को पढ़कर उसपर आधारित प्रश्नों के उत्तर निर्देशानुसार दें-",
@@ -91,6 +49,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.42,
+      "raw_choice": "Piyusham - 5. Bharat-mahima (भारतमहिमा)",
       "context": "India is a country of vast geographical expanse. India is marked by a diversity of physical features such as mountains, plateaus, plains, coasts and islands. In the north, it is bound by the lofty Himalayas. The Northern plains, Great Indian Desert, the Peninsular plateau and the Great Himalayas are the main physical divisions of India. There are seven countries that share land boundaries with India. These countries are – China, Pakistan, Nepal, Bhutan, Bangladesh, Myanmar and Afghanistan.",
       "instructions": "OR",
       "sub_questions": [
@@ -109,134 +69,6 @@
         {
           "question": "(iv) Make sentences with: Island, division",
           "marks": "1"
-        }
-      ]
-    }
-  ],
-  "2020": [
-    {
-      "id": "gadyansh_3",
-      "type": "comprehension",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "(घ) उद्यमी एव सत्यं प्राप्नोति ...",
-      "prashna": "(घ) उद्यमी एव सत्यं प्राप्नोति ...",
-      "instructions": "Answer sub-questions based on the passage.",
-      "context": "(घ) उद्यमी एव सत्यं प्राप्नोति । निरुद्यमी तु सदैव मानसिकं पीडाम् अनुभवति । सफलता उद्यमीपुरुषस्य एव चरणौ स्पृशति । उद्यमेन धनं धनेन च कलियुगे सुखं मिलति । भर्तृहरिणा कठिना अपि कथितम् - 'सर्वे गुणाः काञ्चनम् आश्रयन्ति ।' सर्वैः उद्यमेन धनं प्राप्तव्यं न तु चौर्येण कपटेन उत्कोचग्रहणेन वा ।",
-      "sub_questions": [
-        {
-          "id": "I",
-          "instruction": "एकपदेन उत्तरत -",
-          "questions": [
-            {
-              "id": "क",
-              "text": "कः सत्यं प्राप्नोति ?"
-            },
-            {
-              "id": "ख",
-              "text": "सर्वैः केन धनं प्राप्तव्यम् ?"
-            }
-          ]
-        },
-        {
-          "id": "II",
-          "instruction": "पूर्णवाक्येन उत्तरत -",
-          "questions": [
-            {
-              "id": "क",
-              "text": "भर्तृहरिणा किं कथितम् ?"
-            },
-            {
-              "id": "ख",
-              "text": "सफलता कस्य चरणौ स्पृशति ?"
-            }
-          ]
-        }
-      ]
-    }
-  ],
-  "2025": [
-    {
-      "id": "gadyansh_2",
-      "type": "comprehension",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "instructions": "अथवा (Alternative to Gadyansh 1A)",
-      "context": "रामायणं मम प्रियपुस्तकम् | भगवतो मर्यादापुरुषोत्तमस्य श्रीरामचन्द्रस्य पावनं चरितं रामायणे वर्णितम् अस्ति | अस्य लेखकः महर्षिः वाल्मीकिः आसीत् | तस्य रचना ‘आदिकाव्यम्’ इति विदुषां मतम् | अत एव वाल्मीकिः आदिकविः आसीत् | रामायणम् अनुष्टुप्-छन्दसि लिखितम् | अस्मिन् श्लोकसंख्या चतुर्विंशतिसहस्रम् वर्तते | अस्मात् कारणात् रामायणं महाकाव्यं ‘चतुर्विंशतिसाहस्री-संहिता’ इत्युच्यते विद्वद्भिः |",
-      "sub_questions": [
-        {
-          "type": "एकपदेन उत्तरत",
-          "questions": [
-            {
-              "id": "g2_sq1",
-              "question": "(क) मम प्रियपुस्तकं किम् ?"
-            },
-            {
-              "id": "g2_sq2",
-              "question": "(ख) आदिकविः कः आसीत् ?"
-            }
-          ]
-        },
-        {
-          "type": "पूर्णवाक्येन उत्तरत",
-          "questions": [
-            {
-              "id": "g2_sq3",
-              "question": "(क) रामायणे किं वर्णितम् अस्ति ?"
-            },
-            {
-              "id": "g2_sq4",
-              "question": "(ख) विद्वद्भिः रामायणं किम् उच्यते ?"
-            }
-          ]
-        },
-        {
-          "type": "शीर्षकं लिखत",
-          "questions": [
-            {
-              "id": "g2_sq5",
-              "question": "अस्य गद्यांशस्य एकं समुचितं शीर्षकं लिखत |"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "gadyansh_4",
-      "type": "comprehension",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "instructions": "अथवा (Alternative to Gadyansh 1B)",
-      "context": "कविकुलगुरुः कालिदासः संस्कृतसाहित्याकाशे शशि इव प्रकाशते | सः विक्रमादित्यभूपतेः राजसभायां नवरत्नेषु प्रमुखः आसीत् | कालिदासस्य काव्येषु भाषायाः रमणीयता, मानवीयप्रकृतेः स्वाभाविकं विश्लेषणं प्रकृतिदृश्यानां च सजीवचित्रणं विद्यते | अभिज्ञानशाकुन्तलं तस्य विश्वप्रसिद्धं नाटकमस्ति |",
-      "sub_questions": [
-        {
-          "type": "एकपदेन उत्तरत",
-          "questions": [
-            {
-              "id": "g4_sq1",
-              "question": "(क) कः शशि इव प्रकाशते ?"
-            },
-            {
-              "id": "g4_sq2",
-              "question": "(ख) कालिदासस्य विश्वप्रसिद्धं नाटकं किम् अस्ति ?"
-            }
-          ]
-        },
-        {
-          "type": "पूर्णवाक्येन उत्तरत",
-          "questions": [
-            {
-              "id": "g4_sq3",
-              "question": "(क) कालिदासस्य काव्येषु किं विद्यते ?"
-            },
-            {
-              "id": "g4_sq4",
-              "question": "(ख) कालिदासः केषु प्रमुखः आसीत् ?"
-            }
-          ]
         }
       ]
     }

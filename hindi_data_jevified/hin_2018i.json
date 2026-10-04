@@ -5,6 +5,8 @@
         "section": "Vyakaran",
         "chapter": "6",
         "chapter_name": "Noun",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'बुढ़ापे में इन्सान बिल्कुल बच्चा बन जाता है।' इस वाक्य में 'बुढ़ापे' कौन सी संज्ञा हैं?",
         "prashna": "'बुढ़ापे में इन्सान बिल्कुल बच्चा बन जाता है।' इस वाक्य में 'बुढ़ापे' कौन सी संज्ञा हैं?",
         "options": {
@@ -26,6 +28,8 @@
         "section": "Vyakaran",
         "chapter": "8",
         "chapter_name": "Adjective",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "विशेषण के मुख्यतः कितने भेद हैं?",
         "prashna": "विशेषण के मुख्यतः कितने भेद हैं?",
         "options": {
@@ -47,6 +51,8 @@
         "section": "Vyakaran",
         "chapter": "7",
         "chapter_name": "Pronoun",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'आपने क्या खाया है?' इस वाक्य में 'क्या' कौन-सा सर्वनाम है?",
         "prashna": "'आपने क्या खाया है?' इस वाक्य में 'क्या' कौन-सा सर्वनाम है?",
         "options": {
@@ -68,6 +74,8 @@
         "section": "Vyakaran",
         "chapter": "12",
         "chapter_name": "Tense and Voice",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "भविष्यत्काल के कितने प्रकार हैं?",
         "prashna": "भविष्यत्काल के कितने प्रकार हैं?",
         "options": {
@@ -89,6 +97,8 @@
         "section": "Vyakaran",
         "chapter": "3",
         "chapter_name": "Sandhi",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'दध्योदन' का संधि-विच्छेद क्या है?",
         "prashna": "'दध्योदन' का संधि-विच्छेद क्या है?",
         "options": {
@@ -110,6 +120,8 @@
         "section": "Vyakaran",
         "chapter": "11",
         "chapter_name": "Gender, Number and Case",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'राम ने भिखारी को पैसे दिए।' इस वाक्य में 'को' किस कारक की विभक्ति है?",
         "prashna": "'राम ने भिखारी को पैसे दिए।' इस वाक्य में 'को' किस कारक की विभक्ति है?",
         "options": {
@@ -131,6 +143,8 @@
         "section": "Vyakaran",
         "chapter": "4",
         "chapter_name": "Samas",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'लौहपुरुष' में कौन सा समास है?",
         "prashna": "'लौहपुरुष' में कौन सा समास है?",
         "options": {
@@ -152,6 +166,8 @@
         "section": "Vyakaran",
         "chapter": "5",
         "chapter_name": "Prefix and Suffix",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'निर्जन' में कौन-सा उपसर्ग है?",
         "prashna": "'निर्जन' में कौन-सा उपसर्ग है?",
         "options": {
@@ -170,9 +186,11 @@
     {
         "id": "obj_9",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Vyakaran",
+        "chapter": "2",
+        "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+        "confidence": 0.59,
+        "raw_choice": "Vyakaran - 2. Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi) (शब्द विचार (तत्सम, तद्भव, देशज, विदेशी))",
         "question": "निम्नलिखित शब्दों में कौन-सा शब्द शुद्ध है?",
         "prashna": "निम्नलिखित शब्दों में कौन-सा शब्द शुद्ध है?",
         "options": {
@@ -194,6 +212,8 @@
         "section": "Vyakaran",
         "chapter": "3",
         "chapter_name": "Sandhi",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "यदि 'ए' के बाद कोई भी भिन्न स्वर आए, तो 'ए' किसमें परिवर्तित हो जाता है?",
         "prashna": "यदि 'ए' के बाद कोई भी भिन्न स्वर आए, तो 'ए' किसमें परिवर्तित हो जाता है?",
         "options": {
@@ -215,6 +235,8 @@
         "section": "Vyakaran",
         "chapter": "18",
         "chapter_name": "Sentence Correction",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "निम्नलिखित वाक्यों में कौन-सा वाक्य शुद्ध है?",
         "prashna": "निम्नलिखित वाक्यों में कौन-सा वाक्य शुद्ध है?",
         "options": {
@@ -236,6 +258,8 @@
         "section": "Vyakaran",
         "chapter": "17",
         "chapter_name": "Idioms and Proverbs",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'हाथ साफ करना' मुहावरे का सही अर्थ क्या है?",
         "prashna": "'हाथ साफ करना' मुहावरे का सही अर्थ क्या है?",
         "options": {
@@ -254,9 +278,11 @@
     {
         "id": "obj_13",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Vyakaran",
+        "chapter": "18",
+        "chapter_name": "Sentence Correction",
+        "confidence": 0.52,
+        "raw_choice": "Vyakaran - 18. Sentence Correction (वाक्य शुद्धि)",
         "question": "निम्नलिखित शब्दों में कौन-सा शब्द शुद्ध है?",
         "prashna": "निम्नलिखित शब्दों में कौन-सा शब्द शुद्ध है?",
         "options": {
@@ -278,6 +304,8 @@
         "section": "Vyakaran",
         "chapter": "5",
         "chapter_name": "Prefix and Suffix",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'अंतिम' में कौन-सा प्रत्यय है?",
         "prashna": "'अंतिम' में कौन-सा प्रत्यय है?",
         "options": {
@@ -299,6 +327,8 @@
         "section": "Vyakaran",
         "chapter": "4",
         "chapter_name": "Samas",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'अष्टाध्यायी' में कौन-सा समास है?",
         "prashna": "'अष्टाध्यायी' में कौन-सा समास है?",
         "options": {
@@ -320,6 +350,8 @@
         "section": "Godhuli",
         "chapter": "1",
         "chapter_name": "Shram Vibhajan aur Jati Pratha",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "भारत में बेरोजगारी का एक प्रमुख अप्रत्यक्ष कारण क्या है?",
         "prashna": "भारत में बेरोजगारी का एक प्रमुख अप्रत्यक्ष कारण क्या है?",
         "options": {
@@ -341,6 +373,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.3,
+        "raw_choice": "Godhuli - 20. Ek Vriksha ki Hatya (एक वृक्ष की हत्या)",
         "question": "'पेड़ का कमरा' किसकी रचना है?",
         "prashna": "'पेड़ का कमरा' किसकी रचना है?",
         "options": {
@@ -362,6 +396,8 @@
         "section": "Varnika",
         "chapter": "1",
         "chapter_name": "Dahi Wali Magamma",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "आर० के० नारायण ने किस कहानी का अनुवाद किया है?",
         "prashna": "आर० के० नारायण ने किस कहानी का अनुवाद किया है?",
         "options": {
@@ -383,6 +419,8 @@
         "section": "Godhuli",
         "chapter": "22",
         "chapter_name": "Akshar-Gyan",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "कवयित्री अनामिका का जन्म कब हुआ?",
         "prashna": "कवयित्री अनामिका का जन्म कब हुआ?",
         "options": {
@@ -404,6 +442,8 @@
         "section": "Godhuli",
         "chapter": "15",
         "chapter_name": "Ati Sudho Sneh ko Marag Hai",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "घनानंद की भाषा क्या है?",
         "prashna": "घनानंद की भाषा क्या है?",
         "options": {
@@ -425,6 +465,8 @@
         "section": "Godhuli",
         "chapter": "2",
         "chapter_name": "Vish ke Daant",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "किसके अनुसार सेनों ने सिद्धांतों को भी बदल दिया था?",
         "prashna": "किसके अनुसार सेनों ने सिद्धांतों को भी बदल दिया था?",
         "options": {
@@ -446,6 +488,8 @@
         "section": "Godhuli",
         "chapter": "3",
         "chapter_name": "Bharat se Hum Kya Seekhe",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "दारियस नामक सोने के सिक्कों से भरा घड़ा किसे मिला था?",
         "prashna": "दारियस नामक सोने के सिक्कों से भरा घड़ा किसे मिला था?",
         "options": {
@@ -467,6 +511,8 @@
         "section": "Varnika",
         "chapter": "2",
         "chapter_name": "Dhate Vishwas",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'ढहते विश्वास' किस भाषा से अनुदित है?",
         "prashna": "'ढहते विश्वास' किस भाषा से अनुदित है?",
         "options": {
@@ -488,6 +534,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.38,
+        "raw_choice": "Godhuli - 24. Mere Bina Tum Prabhu (मेरे बिना तुम प्रभु)",
         "question": "दूर- चट्टानों की ठंडी गोद में किस कवि की पंक्ति है?",
         "prashna": "दूर- चट्टानों की ठंडी गोद में किस कवि की पंक्ति है?",
         "options": {
@@ -509,6 +557,8 @@
         "section": "Godhuli",
         "chapter": "23",
         "chapter_name": "Lautkar Aaunga Phir",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "जीवनानंद दास की किस कविता को प्रबुद्ध आलोचकों द्वारा रवीन्द्रोत्तर युग की श्रेष्ठतम प्रेम कविता की संज्ञा दी गई है?",
         "prashna": "जीवनानंद दास की किस कविता को प्रबुद्ध आलोचकों द्वारा रवीन्द्रोत्तर युग की श्रेष्ठतम प्रेम कविता की संज्ञा दी गई है?",
         "options": {
@@ -530,6 +580,8 @@
         "section": "Godhuli",
         "chapter": "12",
         "chapter_name": "Shiksha aur Sanskriti",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "आध्यात्मिक शिक्षा से गांधीजी का क्या अभिप्राय है?",
         "prashna": "आध्यात्मिक शिक्षा से गांधीजी का क्या अभिप्राय है?",
         "options": {
@@ -551,6 +603,8 @@
         "section": "Godhuli",
         "chapter": "9",
         "chapter_name": "Aavinyon",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'आविन्यों' में उन्नीस दिनों के प्रवास के दौरान लेखक ने कितने गद्य की रचना की?",
         "prashna": "'आविन्यों' में उन्नीस दिनों के प्रवास के दौरान लेखक ने कितने गद्य की रचना की?",
         "options": {
@@ -572,6 +626,8 @@
         "section": "Varnika",
         "chapter": "5",
         "chapter_name": "Dharti Kab Tak Ghoomegi",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'धरती कब तक घूमेगी' किस भाषा से अनुदित कहानी है?",
         "prashna": "'धरती कब तक घूमेगी' किस भाषा से अनुदित कहानी है?",
         "options": {
@@ -593,6 +649,8 @@
         "section": "Varnika",
         "chapter": "4",
         "chapter_name": "Nagar",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "पप्पाति को कौन-सा रोग था?",
         "prashna": "पप्पाति को कौन-सा रोग था?",
         "options": {
@@ -614,6 +672,8 @@
         "section": "Godhuli",
         "chapter": "21",
         "chapter_name": "Hamari Neend",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "वीरेन डंगवाल को किस कृति के लिए साहित्य अकादमी पुरस्कार मिला है?",
         "prashna": "वीरेन डंगवाल को किस कृति के लिए साहित्य अकादमी पुरस्कार मिला है?",
         "options": {
@@ -635,6 +695,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.4,
+        "raw_choice": "Godhuli - 16. Swadeshi (स्वदेशी)",
         "question": "परदेश की विद्या पढ़ने का क्या परिणाम हुआ?",
         "prashna": "परदेश की विद्या पढ़ने का क्या परिणाम हुआ?",
         "options": {
@@ -656,6 +718,8 @@
         "section": "Varnika",
         "chapter": "4",
         "chapter_name": "Nagar",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'नगर' कहानी किस लेखक द्वारा रचित है?",
         "prashna": "'नगर' कहानी किस लेखक द्वारा रचित है?",
         "options": {
@@ -677,6 +741,8 @@
         "section": "Godhuli",
         "chapter": "4",
         "chapter_name": "Nakhun Kyon Badhte Hain",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "लेखक के अनुसार मनुष्य के नाखून किसके जीवंत प्रतीक हैं?",
         "prashna": "लेखक के अनुसार मनुष्य के नाखून किसके जीवंत प्रतीक हैं?",
         "options": {
@@ -698,6 +764,8 @@
         "section": "Godhuli",
         "chapter": "4",
         "chapter_name": "Nakhun Kyon Badhte Hain",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "हजारी प्रसाद द्विवेदी का जन्म कब हुआ?",
         "prashna": "हजारी प्रसाद द्विवेदी का जन्म कब हुआ?",
         "options": {
@@ -719,6 +787,8 @@
         "section": "Godhuli",
         "chapter": "13",
         "chapter_name": "Ram Binu Birthe Jagi Janma",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'रहिरास' किसकी रचना है?",
         "prashna": "'रहिरास' किसकी रचना है?",
         "options": {
@@ -740,6 +810,8 @@
         "section": "Varnika",
         "chapter": "2",
         "chapter_name": "Dhate Vishwas",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "लक्ष्मी के बड़े पुत्र का क्या नाम था?",
         "prashna": "लक्ष्मी के बड़े पुत्र का क्या नाम था?",
         "options": {
@@ -761,6 +833,8 @@
         "section": "Godhuli",
         "chapter": "20",
         "chapter_name": "Ek Vriksha ki Hatya",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'एक वृक्ष की हत्या' में कवि शहर को किससे बचाने की बात करता है?",
         "prashna": "'एक वृक्ष की हत्या' में कवि शहर को किससे बचाने की बात करता है?",
         "options": {
@@ -779,9 +853,11 @@
     {
         "id": "obj_38",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Godhuli",
+        "chapter": "12",
+        "chapter_name": "Shiksha aur Sanskriti",
+        "confidence": 0.67,
+        "raw_choice": "Godhuli - 12. Shiksha aur Sanskriti (शिक्षा और संस्कृति)",
         "question": "गांधी जी का दक्षिण अफ्रीका प्रवास कब से कब तक था?",
         "prashna": "गांधी जी का दक्षिण अफ्रीका प्रवास कब से कब तक था?",
         "options": {
@@ -803,6 +879,8 @@
         "section": "Godhuli",
         "chapter": "8",
         "chapter_name": "Jit-Jit Main Nirakhat Hoon",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "जब पं. बिरजू महाराज को संगीत नाटक अकादमी आवार्ड मिला तब उनकी उम्र क्या थी?",
         "prashna": "जब पं. बिरजू महाराज को संगीत नाटक अकादमी आवार्ड मिला तब उनकी उम्र क्या थी?",
         "options": {
@@ -824,6 +902,8 @@
         "section": "Godhuli",
         "chapter": "14",
         "chapter_name": "Prem Ayani Shri Radhika",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "कवि ने माली-मालिन किसे कहा है?",
         "prashna": "कवि ने माली-मालिन किसे कहा है?",
         "options": {
@@ -845,6 +925,8 @@
         "section": "Varnika",
         "chapter": "3",
         "chapter_name": "Maa",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "मंगु के अलावा उसकी माँ की कितनी संतानें थीं?",
         "prashna": "मंगु के अलावा उसकी माँ की कितनी संतानें थीं?",
         "options": {
@@ -866,6 +948,8 @@
         "section": "Godhuli",
         "chapter": "19",
         "chapter_name": "Hiroshima",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "अज्ञेय का जन्म कब हुआ?",
         "prashna": "अज्ञेय का जन्म कब हुआ?",
         "options": {
@@ -887,6 +971,8 @@
         "section": "Godhuli",
         "chapter": "18",
         "chapter_name": "Janatantra ka Janm",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "दिनकर की किस कृति के लिए ज्ञानपीठ पुरस्कार मिला है?",
         "prashna": "दिनकर की किस कृति के लिए ज्ञानपीठ पुरस्कार मिला है?",
         "options": {
@@ -908,6 +994,8 @@
         "section": "Godhuli",
         "chapter": "11",
         "chapter_name": "Naubatkhane mein Ibadat",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'नौबतखाने में इबादत' साहित्य की कौन-सी विधा है?",
         "prashna": "'नौबतखाने में इबादत' साहित्य की कौन-सी विधा है?",
         "options": {
@@ -929,6 +1017,8 @@
         "section": "Godhuli",
         "chapter": "8",
         "chapter_name": "Jit-Jit Main Nirakhat Hoon",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "पंडित बिरजू महाराज लखनऊ घराने की किस पीढ़ी के कलाकार हैं?",
         "prashna": "पंडित बिरजू महाराज लखनऊ घराने की किस पीढ़ी के कलाकार हैं?",
         "options": {
@@ -950,6 +1040,8 @@
         "section": "Varnika",
         "chapter": "5",
         "chapter_name": "Dharti Kab Tak Ghoomegi",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "सीता के बेटों ने सीता को कितने रुपये मासिक खर्च देने का निर्णय लिया?",
         "prashna": "सीता के बेटों ने सीता को कितने रुपये मासिक खर्च देने का निर्णय लिया?",
         "options": {
@@ -971,6 +1063,8 @@
         "section": "Godhuli",
         "chapter": "5",
         "chapter_name": "Nagari Lipi",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "उत्तर भारत से नागरी लिपि के लेख कब से मिलने लगते हैं?",
         "prashna": "उत्तर भारत से नागरी लिपि के लेख कब से मिलने लगते हैं?",
         "options": {
@@ -992,6 +1086,8 @@
         "section": "Godhuli",
         "chapter": "6",
         "chapter_name": "Bahadur",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "बहादुर को कितने रुपये की चोरी का इल्जाम लगा था?",
         "prashna": "बहादुर को कितने रुपये की चोरी का इल्जाम लगा था?",
         "options": {
@@ -1013,6 +1109,8 @@
         "section": "Godhuli",
         "chapter": "17",
         "chapter_name": "Bharat Mata",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'भारतमाता' कविता में भारत का कैसा चित्र प्रस्तुत किया गया है?",
         "prashna": "'भारतमाता' कविता में भारत का कैसा चित्र प्रस्तुत किया गया है?",
         "options": {
@@ -1031,9 +1129,11 @@
     {
         "id": "obj_50",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Godhuli",
+        "chapter": "1",
+        "chapter_name": "Shram Vibhajan aur Jati Pratha",
+        "confidence": 0.56,
+        "raw_choice": "Godhuli - 1. Shram Vibhajan aur Jati Pratha (श्रम विभाजन और जाति प्रथा)",
         "question": "जातीय अस्मिता की दृष्टि से इतिहास का प्रवाह कैसा है?",
         "prashna": "जातीय अस्मिता की दृष्टि से इतिहास का प्रवाह कैसा है?",
         "options": {
@@ -1055,6 +1155,8 @@
         "section": "Vyakaran",
         "chapter": "20",
         "chapter_name": "Essay Writing",
+        "confidence": 0.95,
+        "raw_choice": "",
         "context": "आत्मनिर्भरता का अर्थ है — अपने ऊपर निर्भर रहना, जो व्यक्ति दूसरे के मुँह को नहीं ताकते वे ही आत्मनिर्भर होते हैं। वस्तुतः आत्मविश्वास के बल पर कार्य करते रहना आत्मनिर्भरता है। आत्मनिर्भरता का अर्थ है - समाज, निज तथा राष्ट्र की आवश्यकताओं की पूर्ति करना। व्यक्ति, समाज तथा राष्ट्र में आत्मविश्वास की भावना, आत्मनिर्भरता का प्रतीक है। स्वावलंबन जीवन की सफलता की पहली सीढ़ी है। सफलता प्राप्त करने के लिए व्यक्ति को स्वावलंबी अवश्य होना चाहिए। स्वावलंबन व्यक्ति, समाज राष्ट्र के जीवन में सर्वांगीण सफलता प्राप्ति का महामंत्र है। स्वावलंबन जीवन का अमूल्य आभूषण है, वीरों तथा कर्मयोगियों का इष्टदेव है। सर्वांगीण उन्नति का आधार है। जब व्यक्ति स्वावलंबी होगा, उसमें आत्म-निर्भरता होगी, तो ऐसा कोई कार्य नहीं जिसे वह कर न सके। स्वावलंबी मनुष्य के सामने कोई भी कार्य आ जाए, तो वह अपने दृढ़ विश्वास से, अपने आत्मबल से उसे अवश्य ही संपूर्ण कर लेगा। स्वावलंबी मनुष्य जीवन में कभी भी असफलता का मुँह नहीं देखता। वह जीवन के हर क्षेत्र में निरंतर कामयाब होता जाता है। सफलता तो स्वावलंबी मनुष्य की दासी बनकर रहती है। जिस व्यक्ति का स्वयं अपने आप पर ही विश्वास नहीं वह भला क्या कर पाएगा? परंतु इसके विपरीत जिस व्यक्ति में आत्मनिर्भरता होगी, वह कभी किसी के सामने नहीं झुकेगा। वह जो करेगा सोच-समझकर धैर्य से करेगा। मनुष्य में सबसे बड़ी कमी स्वावलंबन का न होना है। सबसे बड़ा गुण भी मनुष्य की आत्मनिर्भरता ही है।\n\nआत्मनिर्भरता मनुष्य को श्रेष्ठ बनाती है। स्वावलंबी मनुष्य का अपने आप पर विश्वास होता है जिससे वह किसी के भी कहने में नहीं आ सकता। यदि हमें कोई काम सुधारना है तो हमें किसी के अधीन नहीं रहना चाहिए बल्कि उसे स्वयं करना चाहिए। एकलव्य स्वयं के प्रयास से धनुर्विद्या में प्रवीण बना। निपट दरिद्र विद्यार्थी लाल बहादुर शास्त्री भारत के प्रधानमंत्री बने साधारण से परिवार में जन्मे जैल सिंह स्वावलंबन के सहारे ही भारत के राष्ट्रपति बने। जिस प्रकार अलंकार काव्य की शोभा बढ़ाते हैं, सूक्ति भाषा को चमत्कृत करती है, गहने नारी की सौंदर्य बढ़ाते हैं, उसी प्रकार आत्मनिर्भरता मानव में अनेक गुणों की प्रतिष्ठा करती है।",
         "sub_questions": {
             "क": "'आत्मनिर्भरता व्यक्ति' से आप क्या समझते हैं?",
@@ -1074,9 +1176,11 @@
     {
         "id": "gadyansh_2",
         "type": "comprehension",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Godhuli",
+        "chapter": "11",
+        "chapter_name": "Naubatkhane mein Ibadat",
+        "confidence": 0.51,
+        "raw_choice": "Godhuli - 11. Naubatkhane mein Ibadat (नौबतखाने में इबादत)",
         "context": "कविता के मर्मज्ञ और रसिक स्वयं कवि से अधिक महान होते हैं। संगीत के पागल (सुनने वाले) ही स्वयं संगीतकार से अधिक संगीत का रसास्वादन करते हैं। यहाँ पूज्य नहीं, पुजारी ही श्रेष्ठ है। यहाँ सम्मान पाने वाले नहीं सम्मान देने वाले महान हैं। स्वयं पुष्प में कुछ नहीं, पुष्प का सौन्दर्य उसे देखने वाले की दृष्टि में है। दुनिया में कुछ नहीं है; जो कुछ भी है हमारी चाह में, हमारी दृष्टि में है। यह अद्भुत भारतीय व्याख्या अजीब-सी लग सकती है, पर हमारे पूर्वज सदा इसी पथ के पथिक रहे हैं। उत्तम गुरु में जाति-भावना भी नहीं रहती। कितने ही मुसलमान पहलवानों के हिन्दू चेले हैं, और हिन्दू संगीतकारों के मुसलमान शिष्य रहे हैं। यहाँ परख गुण की साधना की और प्रतिभा की देती है भक्ति और श्रद्धा की ही कीमत है, न कि जाति-संप्रदाय, आचार-विचार या धर्म की मुझे पढ़ाया-लिखाया था— एक विद्वान मुसलमान ने ही और आज मैं जिस स्थान पर पहुँचा हूँ, जो सम्मान और प्रतिष्ठा मुझे मिली है उस सबका श्रेय मेरे उन्हीं गुरु का है। बचपन में मेरे मुस्लिम गुरु ने मुझे जो रास्ता दिखाया, मुझे ज्ञान देकर उस रास्ते पर आगे बढ़ने की प्रेरणा दी; आज उसी के परिणामस्वरूप मैं अपनी मंजिल पर पहुँचने में कामयाब हो सका हूँ।",
         "sub_questions": {
             "क": "कवि से अधिक महान कौन होता है?",
@@ -1099,6 +1203,8 @@
         "section": "Vyakaran",
         "chapter": "20",
         "chapter_name": "Essay Writing",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "आतंकवाद",
         "prashna": "आतंकवाद",
         "instructions": "निम्नलिखित में से किसी एक विषय पर दिए गए संकेत-बिंदुओं के आधार पर लगभग 250-300 शब्दों में निबंध लिखें।",
@@ -1116,6 +1222,8 @@
         "section": "Vyakaran",
         "chapter": "20",
         "chapter_name": "Essay Writing",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "राष्ट्रीय एकता",
         "prashna": "राष्ट्रीय एकता",
         "instructions": "निम्नलिखित में से किसी एक विषय पर दिए गए संकेत-बिंदुओं के आधार पर लगभग 250-300 शब्दों में निबंध लिखें।",
@@ -1133,6 +1241,8 @@
         "section": "Vyakaran",
         "chapter": "20",
         "chapter_name": "Essay Writing",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "बेरोजगारी- समस्या और समाधान",
         "prashna": "बेरोजगारी- समस्या और समाधान",
         "instructions": "निम्नलिखित में से किसी एक विषय पर दिए गए संकेत-बिंदुओं के आधार पर लगभग 250-300 शब्दों में निबंध लिखें।",
@@ -1150,6 +1260,8 @@
         "section": "Vyakaran",
         "chapter": "20",
         "chapter_name": "Essay Writing",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "स्वास्थ्य और व्यायाम",
         "prashna": "स्वास्थ्य और व्यायाम",
         "instructions": "निम्नलिखित में से किसी एक विषय पर दिए गए संकेत-बिंदुओं के आधार पर लगभग 250-300 शब्दों में निबंध लिखें।",
@@ -1167,6 +1279,8 @@
         "section": "Vyakaran",
         "chapter": "20",
         "chapter_name": "Essay Writing",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "समाचार पत्र : ज्ञान का सशक्त साधन",
         "prashna": "समाचार पत्र : ज्ञान का सशक्त साधन",
         "instructions": "निम्नलिखित में से किसी एक विषय पर दिए गए संकेत-बिंदुओं के आधार पर लगभग 250-300 शब्दों में निबंध लिखें।",
@@ -1184,6 +1298,8 @@
         "section": "Vyakaran",
         "chapter": "21",
         "chapter_name": "Letter and Application Writing",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "वाद-विवाद प्रतियोगिता में प्रथम स्थान प्राप्त करने पर छोटी बहन को बधाई देते हुए पत्र लिखिए।",
         "prashna": "वाद-विवाद प्रतियोगिता में प्रथम स्थान प्राप्त करने पर छोटी बहन को बधाई देते हुए पत्र लिखिए।"
     },
@@ -1193,6 +1309,8 @@
         "section": "Vyakaran",
         "chapter": "21",
         "chapter_name": "Letter and Application Writing",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "बढ़ती हुई महँगाई पर दो स्त्रियों का संवाद लिखिए।",
         "prashna": "बढ़ती हुई महँगाई पर दो स्त्रियों का संवाद लिखिए।"
     },
@@ -1202,6 +1320,8 @@
         "section": "Godhuli",
         "chapter": "8",
         "chapter_name": "Jit-Jit Main Nirakhat Hoon",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "बिरजू महाराज अपना सबसे बड़ा जज अपनी माँ को क्यों मानते थे?",
         "prashna": "बिरजू महाराज अपना सबसे बड़ा जज अपनी माँ को क्यों मानते थे?",
         "instructions": "निम्नलिखित प्रश्नों में से किन्हीं पाँच प्रश्नों के उत्तर लगभग 20-30 शब्दों में दें।"
@@ -1212,6 +1332,8 @@
         "section": "Godhuli",
         "chapter": "10",
         "chapter_name": "Machhli",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "संतू मछली लेकर क्यों भागा?",
         "prashna": "संतू मछली लेकर क्यों भागा?",
         "instructions": "निम्नलिखित प्रश्नों में से किन्हीं पाँच प्रश्नों के उत्तर लगभग 20-30 शब्दों में दें।"
@@ -1222,6 +1344,8 @@
         "section": "Godhuli",
         "chapter": "12",
         "chapter_name": "Shiksha aur Sanskriti",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "गाँधीजी के अनुसार शिक्षा का जरूरी अंग क्या होना चाहिए?",
         "prashna": "गाँधीजी के अनुसार शिक्षा का जरूरी अंग क्या होना चाहिए?",
         "instructions": "निम्नलिखित प्रश्नों में से किन्हीं पाँच प्रश्नों के उत्तर लगभग 20-30 शब्दों में दें।"
@@ -1232,6 +1356,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.42,
+        "raw_choice": "Godhuli - 18. Janatantra ka Janm (जनतंत्र का जन्म)",
         "question": "कवि ने जनता को 'दूध मुँही' क्यों कहा है?",
         "prashna": "कवि ने जनता को 'दूध मुँही' क्यों कहा है?",
         "instructions": "निम्नलिखित प्रश्नों में से किन्हीं पाँच प्रश्नों के उत्तर लगभग 20-30 शब्दों में दें।"
@@ -1242,6 +1368,8 @@
         "section": "Godhuli",
         "chapter": "21",
         "chapter_name": "Hamari Neend",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'हमारी नींद' कविता किस प्रकार के जीवन का चित्रण करती है?",
         "prashna": "'हमारी नींद' कविता किस प्रकार के जीवन का चित्रण करती है?",
         "instructions": "निम्नलिखित प्रश्नों में से किन्हीं पाँच प्रश्नों के उत्तर लगभग 20-30 शब्दों में दें।"
@@ -1252,6 +1380,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.29,
+        "raw_choice": "Varnika - 5. Dharti Kab Tak Ghoomegi (धरती कब तक घूमेगी)",
         "question": "बेटे के आँसू कब आते हैं और क्यों?",
         "prashna": "बेटे के आँसू कब आते हैं और क्यों?",
         "instructions": "निम्नलिखित प्रश्नों में से किन्हीं पाँच प्रश्नों के उत्तर लगभग 20-30 शब्दों में दें।"
@@ -1262,6 +1392,8 @@
         "section": "Varnika",
         "chapter": "4",
         "chapter_name": "Nagar",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "बड़े डॉक्टर पाप्पाति के बारे में पूछताछ क्यों कर रहे थे?",
         "prashna": "बड़े डॉक्टर पाप्पाति के बारे में पूछताछ क्यों कर रहे थे?",
         "instructions": "निम्नलिखित प्रश्नों में से किन्हीं पाँच प्रश्नों के उत्तर लगभग 20-30 शब्दों में दें।"
@@ -1272,6 +1404,8 @@
         "section": "Varnika",
         "chapter": "5",
         "chapter_name": "Dharti Kab Tak Ghoomegi",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "सीता को अपने घर में घुटन क्यों महसूस होती है?",
         "prashna": "सीता को अपने घर में घुटन क्यों महसूस होती है?",
         "instructions": "निम्नलिखित प्रश्नों में से किन्हीं पाँच प्रश्नों के उत्तर लगभग 20-30 शब्दों में दें।"
@@ -1282,6 +1416,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.27,
+        "raw_choice": "Godhuli - 17. Bharat Mata (भारतमाता)",
         "question": "निम्नलिखित पद्यांश की सप्रसंग व्याख्या कीजिए: स्वर्ण शस्य पर-पद-तल लुंठित धरती-सा सहिष्णु मन कुंठित, क्रन्दन कम्पित अधर मौन स्मित, राहुग्रसित शरदेन्दु हासिनी!",
         "prashna": "निम्नलिखित पद्यांश की सप्रसंग व्याख्या कीजिए: स्वर्ण शस्य पर-पद-तल लुंठित धरती-सा सहिष्णु मन कुंठित, क्रन्दन कम्पित अधर मौन स्मित, राहुग्रसित शरदेन्दु हासिनी!"
     },
@@ -1291,6 +1427,8 @@
         "section": "Godhuli",
         "chapter": "6",
         "chapter_name": "Bahadur",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "कहानी छोटा मुँह बड़ी बात कहती है। इस दृष्टि से 'बहादुर' कहानी पर विचार करें।",
         "prashna": "कहानी छोटा मुँह बड़ी बात कहती है। इस दृष्टि से 'बहादुर' कहानी पर विचार करें।"
     }

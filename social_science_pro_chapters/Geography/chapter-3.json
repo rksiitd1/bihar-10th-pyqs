@@ -6,8 +6,21 @@
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Write the three main factors for the localization of industries.",
       "prashna": "उद्योगों के स्थानीयकरण के तीन मुख्य कारकों को लिखें।"
+    },
+    {
+      "id": "short_10",
+      "type": "short_answer",
+      "section": "Geography",
+      "chapter": "3",
+      "chapter_name": "Manufacturing Industries",
+      "confidence": 0.53,
+      "raw_choice": "Geography - 3. Manufacturing Industries (निर्माण उद्योग)",
+      "question": "Throw light on the use of Manganese.",
+      "prashna": "मैंगनीज के उपयोग पर प्रकाश डालें।"
     }
   ],
   "2013": [
@@ -17,6 +30,8 @@
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Describe the distribution of the iron and steel industry in India.",
       "prashna": "भारत में लौह एवं इस्पात उद्योग के वितरण का वर्णन करें।"
     }
@@ -28,6 +43,8 @@
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which one of the following is a consumer industry?",
       "prashna": "निम्न में से कौन उपभोक्ता उद्योग है?",
       "options": {
@@ -49,6 +66,8 @@
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Describe the distribution of cotton textile industry in India.",
       "prashna": "भारत में सूती वस्त्र उद्योग के वितरण का वर्णन कीजिए।",
       "options": null,
@@ -60,6 +79,8 @@
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is a consumer industry?",
       "prashna": "निम्न में से कौन उपभोक्ता उद्योग है?",
       "options": {
@@ -81,8 +102,34 @@
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Describe the distribution of cotton textile industry in India.",
       "prashna": "भारत में सूती वस्त्र उद्योग के वितरण का वर्णन कीजिए।"
+    }
+  ],
+  "2016": [
+    {
+      "id": "long_2_1",
+      "type": "long_answer",
+      "section": "Geography",
+      "chapter": "3",
+      "chapter_name": "Manufacturing Industries",
+      "confidence": 0.6,
+      "raw_choice": "Geography - 3. Manufacturing Industries (निर्माण उद्योग)",
+      "question": "Describe the contribution of industries on Indian economy in detail.",
+      "prashna": "भारतीय अर्थव्यवस्था में उद्योगों के योगदान का विस्तार पूर्वक वर्णन करें।"
+    },
+    {
+      "id": "long_2",
+      "type": "long_answer",
+      "section": "Geography",
+      "chapter": "3",
+      "chapter_name": "Manufacturing Industries",
+      "confidence": 0.56,
+      "raw_choice": "Geography - 3. Manufacturing Industries (निर्माण उद्योग)",
+      "question": "Describe in detail the contribution of industries to the Indian economy.",
+      "prashna": "भारतीय अर्थव्यवस्था में उद्योगों के योगदान का विस्तारपूर्वक वर्णन करें।"
     }
   ],
   "2017": [
@@ -92,6 +139,8 @@
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which is the most important raw material of cement industry?",
       "prashna": "सीमेंट उद्योग का सबसे प्रमुख कच्चा माल क्या है?",
       "options": {
@@ -113,6 +162,8 @@
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is the most prominent raw material of the cement industry?",
       "prashna": "सीमेंट उद्योग का सबसे प्रमुख माल क्या है?",
       "options": {
@@ -136,6 +187,8 @@
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "How many kilograms of manganese are used to make one ton of steel?",
       "prashna": "एक टन इस्पात बनाने में कितने मैंगनीज का उपयोग होता है?",
       "options": {
@@ -157,6 +210,8 @@
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of these is a consumer industry?",
       "prashna": "इनमें से कौन-सा उपभोक्ता उद्योग है?",
       "options": {
@@ -173,11 +228,24 @@
       }
     },
     {
+      "id": "short_15",
+      "type": "short_answer",
+      "section": "Geography",
+      "chapter": "3",
+      "chapter_name": "Manufacturing Industries",
+      "confidence": 0.56,
+      "raw_choice": "Geography - 3. Manufacturing Industries (निर्माण उद्योग)",
+      "question": "Classify industries on the basis of ownership with examples.",
+      "prashna": "स्वामित्व के आधार पर उद्योगों को सोदाहरण सहित वर्गीकृत कीजिए।"
+    },
+    {
       "id": "obj_15",
       "type": "objective",
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following minerals are used to manufacture aluminium?",
       "prashna": "एल्युमिनियम बनाने के लिए किस खनिज की आवश्यकता पड़ती है?",
       "options": {
@@ -199,6 +267,8 @@
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which one of the following is a small scale industry?",
       "prashna": "निम्नलिखित में से कौन छोटे पैमाने का उद्योग है?",
       "options": {
@@ -220,6 +290,8 @@
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Discuss the Information and Technology industry in India?",
       "prashna": "भारत में सूचना और प्रौद्योगिकी उद्योग का विवरण दीजिए।"
     }
@@ -231,6 +303,8 @@
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following industries is not based on agriculture?",
       "prashna": "निम्नलिखित उद्योगों में से कौन सी कृषि पर आधारित नहीं है?",
       "options": {
@@ -247,11 +321,36 @@
       }
     },
     {
+      "id": "obj_13",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "3",
+      "chapter_name": "Manufacturing Industries",
+      "confidence": 0.51,
+      "raw_choice": "Geography - 3. Manufacturing Industries (निर्माण उद्योग)",
+      "question": "Brass is made of -",
+      "prashna": "पीतल बनाया जाता है -",
+      "options": {
+        "A": "Copper",
+        "B": "Zinc",
+        "C": "Copper and Zinc",
+        "D": "Copper, Zinc and Tin"
+      },
+      "vikalpa": {
+        "A": "ताँबे से",
+        "B": "जस्ते से",
+        "C": "ताँबा और जस्ता दोनों से",
+        "D": "ताँबा, जस्ता और टिन से"
+      }
+    },
+    {
       "id": "obj_15",
       "type": "objective",
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Nepanagar is famous for -",
       "prashna": "नेपानगर प्रसिद्ध है -",
       "options": {
@@ -273,6 +372,8 @@
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which industry in not based on agriculture?",
       "prashna": "निम्नलिखित में से कौन सा उद्योग कृषि पर आधारित नहीं है?",
       "options": {
@@ -294,17 +395,67 @@
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "How does pollution spread from industries?",
       "prashna": "उद्योगों से प्रदूषण कैसे फैलता है?"
     }
   ],
   "2020": [
     {
+      "id": "obj_6",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "3",
+      "chapter_name": "Manufacturing Industries",
+      "confidence": 0.61,
+      "raw_choice": "Geography - 3. Manufacturing Industries (निर्माण उद्योग)",
+      "question": "The first iron and steel producing industry is",
+      "prashna": "भारत का प्रथम लौह-इस्पात उत्पादक उद्योग है",
+      "options": {
+        "A": "Indian Iron and Steel Company (IISCO)",
+        "B": "Tata Iron and Steel Company (TISCO)",
+        "C": "Bokaro Steel City",
+        "D": "Visvesvaraya Iron and Steel Plant"
+      },
+      "vikalpa": {
+        "A": "भारतीय लौह और इस्पात कंपनी (IISCO)",
+        "B": "टाटा लौह और इस्पात कंपनी (TISCO)",
+        "C": "बोकारो स्टील सिटी",
+        "D": "विश्वेश्वरैया लौह और इस्पात प्लान्ट"
+      }
+    },
+    {
+      "id": "obj_37",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "3",
+      "chapter_name": "Manufacturing Industries",
+      "confidence": 0.51,
+      "raw_choice": "Geography - 3. Manufacturing Industries (निर्माण उद्योग)",
+      "question": "In which district is Kanti Thermal Power Project situated ?",
+      "prashna": "काँटी तापीय विद्युत परियोजना किस जिला में स्थापित है ?",
+      "options": {
+        "A": "Purnia",
+        "B": "Siwan",
+        "C": "Muzaffarpur",
+        "D": "East Champaran"
+      },
+      "vikalpa": {
+        "A": "पूर्णिया",
+        "B": "सीवान",
+        "C": "मुजफ्फरपुर",
+        "D": "पूर्वी चंपारण"
+      }
+    },
+    {
       "id": "obj_44",
       "type": "objective",
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The main raw material of cement industry is",
       "prashna": "सीमेन्ट उद्योग का प्रमुख कच्चा माल है",
       "options": {
@@ -326,6 +477,8 @@
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Rourkela iron and steel industry is in",
       "prashna": "राउरकेला लोहा-इस्पात उद्योग है",
       "options": {
@@ -347,6 +500,8 @@
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which mineral is used in manufacturing aluminium?",
       "prashna": "एल्युमिनियम बनाने में किस खनिज का उपयोग होता है?",
       "options": {
@@ -363,11 +518,24 @@
       }
     },
     {
+      "id": "short_21",
+      "type": "short_answer",
+      "section": "Geography",
+      "chapter": "3",
+      "chapter_name": "Manufacturing Industries",
+      "confidence": 0.7,
+      "raw_choice": "Geography - 3. Manufacturing Industries (निर्माण उद्योग)",
+      "question": "What items are made from petroleum?",
+      "prashna": "पेट्रोलियम से किन-किन वस्तुओं का निर्माण होता है?"
+    },
+    {
       "id": "long_26",
       "type": "long_answer",
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Give a brief account of cement industry of India",
       "prashna": "भारत के सीमेंट उद्योग का संक्षिप्त विवरण दें।"
     }
@@ -379,6 +547,8 @@
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Where is the thermal power station located in Bihar?",
       "prashna": "बिहार में ताप विद्युत केन्द्र कहाँ है?",
       "options": {
@@ -400,6 +570,8 @@
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which mineral is used in the aluminum industry?",
       "prashna": "एल्युमिनियम उद्योग में किस खनिज का उपयोग होता है?",
       "options": {
@@ -421,6 +593,8 @@
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which city is known as the Silicon Valley of India?",
       "prashna": "किस नगर को भारत की सिलिकॉन वैली के नाम से जाना जाता है?",
       "options": {
@@ -442,6 +616,8 @@
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Discuss the development and distribution of any one agriculture-based industry in Bihar.",
       "prashna": "बिहार के कृषि आधारित किसी एक उद्योग के विकास एवं वितरण की विवेचना कीजिए।"
     },
@@ -451,6 +627,8 @@
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which mineral is called the 'Mother of Industries'?",
       "prashna": "किस खनिज को 'उद्योगों की जननी' कहा जाता है?",
       "options": {
@@ -465,15 +643,74 @@
         "C": "लोहा",
         "D": "मैंगनीज"
       }
+    },
+    {
+      "id": "obj_78",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "3",
+      "chapter_name": "Manufacturing Industries",
+      "confidence": 0.52,
+      "raw_choice": "Geography - 3. Manufacturing Industries (निर्माण उद्योग)",
+      "question": "Kahalgaon Thermal Power Project is in",
+      "prashna": "कहलगाँव तापीय विद्युत् परियोजना है",
+      "options": {
+        "A": "Bhagalpur district",
+        "B": "Munger district",
+        "C": "Banka district",
+        "D": "Muzaffarpur district"
+      },
+      "vikalpa": {
+        "A": "भागलपुर जिला में",
+        "B": "मुंगेर जिला में",
+        "C": "बाँका जिला में",
+        "D": "मुजफ्फरपुर जिला में"
+      }
+    },
+    {
+      "id": "short_23",
+      "type": "short_answer",
+      "section": "Geography",
+      "chapter": "3",
+      "chapter_name": "Manufacturing Industries",
+      "confidence": 0.51,
+      "raw_choice": "Geography - 3. Manufacturing Industries (निर्माण उद्योग)",
+      "question": "Describe the causes of pollution in Indian rivers.",
+      "prashna": "भारतीय नदियों के प्रदूषण के कारणों का वर्णन करें।"
     }
   ],
   "2022": [
+    {
+      "id": "obj_13",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "3",
+      "chapter_name": "Manufacturing Industries",
+      "confidence": 0.58,
+      "raw_choice": "Geography - 3. Manufacturing Industries (निर्माण उद्योग)",
+      "question": "Where is Kahalgaon Thermal Power project?",
+      "prashna": "कहलगाँव तापीय विद्युत परियोजना कहाँ है?",
+      "options": {
+        "A": "Bhagalpur",
+        "B": "Munger",
+        "C": "Jamui",
+        "D": "Aurangabad"
+      },
+      "vikalpa": {
+        "A": "भागलपुर",
+        "B": "मुंगेर",
+        "C": "जमुई",
+        "D": "औरंगाबाद"
+      }
+    },
     {
       "id": "obj_26",
       "type": "objective",
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is a consumer industry?",
       "prashna": "निम्न में से कौन उपभोक्ता उद्योग है?",
       "options": {
@@ -495,6 +732,8 @@
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is the raw material of cement industry?",
       "prashna": "सीमेंट उद्योग का कच्चा माल क्या है?",
       "options": {
@@ -516,6 +755,8 @@
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "How many public sector oil refining centres are working in India?",
       "prashna": "भारत में कितने सार्वजनिक क्षेत्र के तेल परिष्करण केन्द्र कार्य कर रहे हैं?",
       "options": {
@@ -537,6 +778,8 @@
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Sindri is known for which industry?",
       "prashna": "सिंदरी किस उद्योग के लिए जाना जाता है?",
       "options": {
@@ -558,6 +801,8 @@
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which is famous as 'Silicon city'?",
       "prashna": "'सिलिकॉन शहर' के नाम से कौन प्रसिद्ध है?",
       "options": {
@@ -579,6 +824,8 @@
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is not agro-based?",
       "prashna": "निम्न में से कौन कृषि आधारित नहीं है?",
       "options": {
@@ -597,11 +844,36 @@
   ],
   "2023": [
     {
+      "id": "obj_30",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "3",
+      "chapter_name": "Manufacturing Industries",
+      "confidence": 0.65,
+      "raw_choice": "Geography - 3. Manufacturing Industries (निर्माण उद्योग)",
+      "question": "Where is Kahalgaon thermal power plant?",
+      "prashna": "कहलगाँव तापीय विद्युत परियोजना कहाँ है ?",
+      "options": {
+        "A": "Muzaffarpur",
+        "B": "Barauni",
+        "C": "Bhagalpur",
+        "D": "Katihar"
+      },
+      "vikalpa": {
+        "A": "मुजफ्फरपुर",
+        "B": "बरौनी",
+        "C": "भागलपुर",
+        "D": "कटिहार"
+      }
+    },
+    {
       "id": "obj_40",
       "type": "objective",
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Where was the iron and steel industry built with the help of Britain?",
       "prashna": "ब्रिटेन के सहयोग से कहाँ लौह इस्पात उद्योग बनाया गया ?",
       "options": {
@@ -623,6 +895,8 @@
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The centre of Hooghly industrial region is",
       "prashna": "हुगली औद्योगिक प्रदेश का केन्द्र है",
       "options": {
@@ -644,6 +918,8 @@
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Where was the first cement plant established in India?",
       "prashna": "भारत का पहला सीमेंट संयंत्र कहाँ स्थापित हुआ ?",
       "options": {
@@ -665,6 +941,8 @@
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which city is known as Birmingham of India?",
       "prashna": "भारत का बर्मिंघम किस शहर को कहा जाता है ?",
       "options": {
@@ -688,6 +966,8 @@
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Most of the iron and steel plants were established in which region of India?",
       "prashna": "अधिकांश लौह इस्पात केन्द्र भारत के किस क्षेत्र में स्थापित हुए ?",
       "options": {
@@ -709,6 +989,8 @@
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is leading in the production of cotton textile?",
       "prashna": "निम्न में से कौन सूती वस्त्र उत्पादन में अग्रणी है ?",
       "options": {
@@ -730,8 +1012,33 @@
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Differentiate between agro-based and mineral-based industries.",
       "prashna": "कृषि-आधारित और खनिज-आधारित उद्योगों में अंतर स्पष्ट कीजिए।"
+    },
+    {
+      "id": "obj_16",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "3",
+      "chapter_name": "Manufacturing Industries",
+      "confidence": 0.62,
+      "raw_choice": "Geography - 3. Manufacturing Industries (निर्माण उद्योग)",
+      "question": "Where among the following is the thermal power generation plant located ?",
+      "prashna": "निम्न में से कहाँ तापविद्युत उत्पादन केन्द्र स्थित है ?",
+      "options": {
+        "A": "Barauni",
+        "B": "Kahalgaon",
+        "C": "Kanti",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "बरौनी",
+        "B": "कहलगांव",
+        "C": "काँटी",
+        "D": "इनमें से सभी"
+      }
     },
     {
       "id": "obj_44",
@@ -739,6 +1046,8 @@
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which mineral is needed to make aluminium ?",
       "prashna": "एल्युमिनियम बनाने के लिए किस खनिज की आवश्यकता होती है ?",
       "options": {
@@ -760,6 +1069,8 @@
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Where is Visvesvaraya Iron and Steel Limited located ?",
       "prashna": "विश्वेश्वरैया आयरन एण्ड स्टील लिमिटेड कहाँ स्थित है ?",
       "options": {
@@ -776,11 +1087,36 @@
       }
     },
     {
+      "id": "obj_48",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "3",
+      "chapter_name": "Manufacturing Industries",
+      "confidence": 0.6,
+      "raw_choice": "Geography - 3. Manufacturing Industries (निर्माण उद्योग)",
+      "question": "Which shipyard makes warships for India ?",
+      "prashna": "कौन-सा शिपयार्ड भारत के लिए युद्धपोत बनाता है ?",
+      "options": {
+        "A": "Mazagaon",
+        "B": "Kolkata",
+        "C": "Chennai",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "माझगाँव",
+        "B": "कोलकाता",
+        "C": "चेन्नई",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
       "id": "short_17",
       "type": "short_answer",
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Define thermal pollution.",
       "prashna": "तापीय प्रदूषण को परिभाषित करें।"
     }
@@ -792,6 +1128,8 @@
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "How many public sector oil refineries are functioning in India ?",
       "prashna": "भारत में सार्वजनिक क्षेत्र के कितने तेल परिष्करण केन्द्र कार्य कर रहे हैं ?",
       "options": {
@@ -808,11 +1146,36 @@
       }
     },
     {
+      "id": "obj_30",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "3",
+      "chapter_name": "Manufacturing Industries",
+      "confidence": 0.66,
+      "raw_choice": "Geography - 3. Manufacturing Industries (निर्माण उद्योग)",
+      "question": "Which is the oldest oil refining unit in India ?",
+      "prashna": "भारत की सबसे पुरानी तेल शोधन इकाई कौन है ?",
+      "options": {
+        "A": "Barauni",
+        "B": "Jamnagar",
+        "C": "Dibrugarh",
+        "D": "Bombay High"
+      },
+      "vikalpa": {
+        "A": "बरौनी",
+        "B": "जामनगर",
+        "C": "डिब्रूगढ़",
+        "D": "बम्बई हाई"
+      }
+    },
+    {
       "id": "obj_36",
       "type": "objective",
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "How many public sector oil refineries are functioning in India?",
       "prashna": "भारत में सार्वजनिक क्षेत्र के कितने तेल परिष्करण केन्द्र कार्य कर रहे हैं?",
       "options": {
@@ -827,6 +1190,29 @@
         "C": "23",
         "D": "25"
       }
+    },
+    {
+      "id": "obj_38",
+      "type": "objective",
+      "section": "Geography",
+      "chapter": "3",
+      "chapter_name": "Manufacturing Industries",
+      "confidence": 0.7,
+      "raw_choice": "Geography - 3. Manufacturing Industries (निर्माण उद्योग)",
+      "question": "Which is the oldest oil refining unit in India?",
+      "prashna": "भारत की सबसे पुरानी तेल शोधन इकाई कौन है?",
+      "options": {
+        "A": "Barauni",
+        "B": "Jamnagar",
+        "C": "Dibrugarh",
+        "D": "Bombay High"
+      },
+      "vikalpa": {
+        "A": "बरौनी",
+        "B": "जामनगर",
+        "C": "डिब्रुगढ़",
+        "D": "बम्बई हाई"
+      }
     }
   ],
   "2026": [
@@ -836,6 +1222,8 @@
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which raw material is required for manufacturing cement ?",
       "prashna": "सीमेंट निर्माण के लिए किस कच्चे माल की आवश्यकता होती है ?",
       "options": {
@@ -858,6 +1246,8 @@
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which steel plant was established with the collaboration of Britain ?",
       "prashna": "कौन-सा इस्पात संयंत्र ब्रिटेन के सहयोग से स्थापित हुआ था ?",
       "options": {
@@ -875,11 +1265,25 @@
       "instructions": "Question Nos. 1 to 80 have four options each, out of which only one is correct. Mark your selected option on the OMR sheet. Answer any 40 questions."
     },
     {
+      "id": "short_19",
+      "type": "short_answer",
+      "section": "Geography",
+      "chapter": "3",
+      "chapter_name": "Manufacturing Industries",
+      "confidence": 0.5,
+      "raw_choice": "Geography - 3. Manufacturing Industries (निर्माण उद्योग)",
+      "question": "Write the names of four thermal power plants of Bihar.",
+      "prashna": "बिहार के चार तापीय विद्युत केन्द्रों के नाम लिखें।",
+      "instructions": "Question Nos. 21 to 26 are Short Answer Type. Answer any 3 questions. Each question carries 2 marks."
+    },
+    {
       "id": "obj_15",
       "type": "objective",
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "With whose cooperation was the Rourkela Steel Plant established ?",
       "prashna": "राउरकेला इस्पात संयंत्र किसके सहयोग से स्थापित किया गया था ?",
       "options": {
@@ -896,11 +1300,24 @@
       }
     },
     {
+      "id": "short_17",
+      "type": "short_answer",
+      "section": "Geography",
+      "chapter": "3",
+      "chapter_name": "Manufacturing Industries",
+      "confidence": 0.5,
+      "raw_choice": "Geography - 3. Manufacturing Industries (निर्माण उद्योग)",
+      "question": "What is the economic importance of minerals ?",
+      "prashna": "खनिजों का आर्थिक महत्व क्या है ?"
+    },
+    {
       "id": "short_19",
       "type": "short_answer",
       "section": "Geography",
       "chapter": "3",
       "chapter_name": "Manufacturing Industries",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is footloose industry ?",
       "prashna": "फुटलूज उद्योग किसे कहते हैं ?"
     }

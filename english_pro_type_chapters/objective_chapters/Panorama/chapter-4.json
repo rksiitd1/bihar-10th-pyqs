@@ -6,6 +6,8 @@
       "section": "Panorama",
       "chapter": "4",
       "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "In \"What is wrong with Indian Films? the author compares Indian films with..........films",
       "prashna": "\"भारतीय फिल्मों में क्या गलत है?\" में लेखक भारतीय फिल्मों की तुलना .......... फिल्मों से करता है।",
       "options": {
@@ -27,6 +29,54 @@
       "section": "Panorama",
       "chapter": "4",
       "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.63,
+      "raw_choice": "Panorama - 4. What is Wrong with Indian Films? (भारतीय फिल्मों में क्या खराबी है?)",
+      "question": "The Cinema............ in various measures the function of poetry, music painting drama, architecture and a host of other arts, major and minor",
+      "prashna": "सिनेमा विभिन्न माध्यमों से कविता, संगीत, पेंटिंग, नाटक, वास्तुकला और कई अन्य प्रमुख और लघु कलाओं के कार्यों को ............ है।",
+      "options": {
+        "A": "combines",
+        "B": "destroys",
+        "C": "deletes",
+        "D": "rescues"
+      },
+      "vikalpa": {
+        "A": "जोड़ता है",
+        "B": "नष्ट करता है",
+        "C": "मिटाता है",
+        "D": "बचाता है"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "4",
+      "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.59,
+      "raw_choice": "Panorama - 4. What is Wrong with Indian Films? (भारतीय फिल्मों में क्या खराबी है?)",
+      "question": "The raw material of Cinema is ............ itself.",
+      "prashna": "सिनेमा का कच्चा माल ............ ही है।",
+      "options": {
+        "A": "studio",
+        "B": "camera",
+        "C": "hall",
+        "D": "life"
+      },
+      "vikalpa": {
+        "A": "स्टूडियो",
+        "B": "कैमरा",
+        "C": "हॉल",
+        "D": "जीवन"
+      }
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "4",
+      "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What our Cinema needs about everything else is a style, an idiom, a sort of ............ of cinema which would be uniquely and recognisably Indian.",
       "prashna": "हमारे सिनेमा को सबसे अधिक जिस चीज़ की आवश्यकता है वह है एक शैली, एक मुहावरा, सिनेमा का एक प्रकार का ............ जो अद्वितीय और स्पष्ट रूप से भारतीय हो।",
       "options": {
@@ -50,6 +100,8 @@
       "section": "Panorama",
       "chapter": "4",
       "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'What is Wrong with Indian Films', has been written by -",
       "prashna": "'वॉट इज रॉन्ग विद इंडियन फिल्म्स' किसके द्वारा लिखा गया है -",
       "options": {
@@ -66,11 +118,59 @@
       }
     },
     {
+      "id": "obj_26",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "4",
+      "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.58,
+      "raw_choice": "Panorama - 4. What is Wrong with Indian Films? (भारतीय फिल्मों में क्या खराबी है?)",
+      "question": "The first feature film in India was produced in -",
+      "prashna": "भारत में पहली फीचर फिल्म का निर्माण कब हुआ था -",
+      "options": {
+        "A": "1907",
+        "B": "1909",
+        "C": "1913",
+        "D": "1915"
+      },
+      "vikalpa": {
+        "A": "1907",
+        "B": "1909",
+        "C": "1913",
+        "D": "1915"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "4",
+      "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.64,
+      "raw_choice": "Panorama - 4. What is Wrong with Indian Films? (भारतीय फिल्मों में क्या खराबी है?)",
+      "question": "The first feature film in India was produced in -",
+      "prashna": "भारत में पहली फीचर फिल्म का निर्माण कब हुआ था? -",
+      "options": {
+        "A": "1907",
+        "B": "1909",
+        "C": "1913",
+        "D": "1915"
+      },
+      "vikalpa": {
+        "A": "1907",
+        "B": "1909",
+        "C": "1913",
+        "D": "1915"
+      }
+    },
+    {
       "id": "obj_19",
       "type": "objective",
       "section": "Panorama",
       "chapter": "4",
       "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'What is Wrong with Indian Films', has been written by -",
       "prashna": "'व्हाट इज रॉग विद इंडियन फिल्म्स' किसके द्वारा लिखी गई है? -",
       "options": {
@@ -94,6 +194,8 @@
       "section": "Panorama",
       "chapter": "4",
       "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "An Indian film should steer clear of",
       "prashna": "एक भारतीय फिल्म को किससे दूर रहना चाहिए?",
       "options": {
@@ -108,15 +210,86 @@
         "C": "विवाद",
         "D": "संगीत"
       }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "4",
+      "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.64,
+      "raw_choice": "Panorama - 4. What is Wrong with Indian Films? (भारतीय फिल्मों में क्या खराबी है?)",
+      "question": "The first short film in India was produced in",
+      "prashna": "भारत में पहली छोटी फिल्म का निर्माण हुआ था",
+      "options": {
+        "A": "1913",
+        "B": "1907",
+        "C": "1910",
+        "D": "1915"
+      },
+      "vikalpa": {
+        "A": "1913",
+        "B": "1907",
+        "C": "1910",
+        "D": "1915"
+      }
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "4",
+      "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.66,
+      "raw_choice": "Panorama - 4. What is Wrong with Indian Films? (भारतीय फिल्मों में क्या खराबी है?)",
+      "question": "The raw material of cinema is",
+      "prashna": "सिनेमा का कच्चा माल है",
+      "options": {
+        "A": "painting",
+        "B": "life",
+        "C": "drama",
+        "D": "music"
+      },
+      "vikalpa": {
+        "A": "चित्रकला",
+        "B": "जीवन",
+        "C": "नाटक",
+        "D": "संगीत"
+      }
     }
   ],
   "2021": [
+    {
+      "id": "obj_24",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "4",
+      "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.62,
+      "raw_choice": "Panorama - 4. What is Wrong with Indian Films? (भारतीय फिल्मों में क्या खराबी है?)",
+      "question": "In which year was the first short film produced in India?",
+      "prashna": "भारत में पहली लघु फिल्म किस वर्ष बनाई गई थी?",
+      "options": {
+        "A": "1907",
+        "B": "1919",
+        "C": "1925",
+        "D": "1949"
+      },
+      "vikalpa": {
+        "A": "1907",
+        "B": "1919",
+        "C": "1925",
+        "D": "1949"
+      }
+    },
     {
       "id": "obj_41",
       "type": "objective",
       "section": "Panorama",
       "chapter": "4",
       "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The Indian Films imitate stories mostly from",
       "prashna": "भारतीय फ़िल्में कहानियों की नकल अधिकतर ............ से करती हैं।",
       "options": {
@@ -138,6 +311,8 @@
       "section": "Panorama",
       "chapter": "4",
       "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "If the Indian film makers keep their…………..open, they are sure to make good films.",
       "prashna": "यदि भारतीय फिल्म निर्माता अपनी ............ खुली रखें, तो वे निश्चित रूप से अच्छी फिल्में बनाएंगे।",
       "options": {
@@ -159,6 +334,8 @@
       "section": "Panorama",
       "chapter": "4",
       "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Today, ………...commands the same respect as any other form of creative expression.",
       "prashna": "आज, ………... को रचनात्मक अभिव्यक्ति के किसी भी अन्य रूप के समान ही सम्मान प्राप्त है।",
       "options": {
@@ -175,11 +352,36 @@
       }
     },
     {
+      "id": "obj_7",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "4",
+      "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.61,
+      "raw_choice": "Panorama - 4. What is Wrong with Indian Films? (भारतीय फिल्मों में क्या खराबी है?)",
+      "question": "The raw material of cinema is………….. itself.",
+      "prashna": "सिनेमा की कच्ची सामग्री स्वयं ………….. है।",
+      "options": {
+        "A": "life",
+        "B": "hall",
+        "C": "studio",
+        "D": "camera"
+      },
+      "vikalpa": {
+        "A": "जीवन",
+        "B": "हॉल",
+        "C": "स्टूडियो",
+        "D": "कैमरा"
+      }
+    },
+    {
       "id": "obj_11",
       "type": "objective",
       "section": "Panorama",
       "chapter": "4",
       "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Indian cinema, according to Satyajit Ray, does not need much",
       "prashna": "सत्यजीत रे के अनुसार भारतीय सिनेमा को बहुत अधिक आवश्यकता नहीं है",
       "options": {
@@ -201,6 +403,8 @@
       "section": "Panorama",
       "chapter": "4",
       "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "No Indian cinema can be......... on all counts.",
       "prashna": "कोई भी भारतीय सिनेमा सभी मामलों में ......... नहीं हो सकता।",
       "options": {
@@ -224,6 +428,8 @@
       "section": "Panorama",
       "chapter": "4",
       "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The ... of cinema is life itself.",
       "options": {
         "A": "raw material",
@@ -245,6 +451,8 @@
       "section": "Panorama",
       "chapter": "4",
       "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "... movement gives you a superficial sense of drama.",
       "options": {
         "A": "Rapid",
@@ -266,6 +474,8 @@
       "section": "Panorama",
       "chapter": "4",
       "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "In India, the first ... was produced in 1907.",
       "options": {
         "A": "short film",
@@ -287,6 +497,8 @@
       "section": "Panorama",
       "chapter": "4",
       "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Indian cinema, according to Satyajit Ray, does not need more",
       "options": {
         "A": "music",
@@ -308,6 +520,8 @@
       "section": "Panorama",
       "chapter": "4",
       "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "There should be drastic simplification of style and ............... in Indian cinema.",
       "prashna": "भारतीय सिनेमा में शैली और ............... का भारी सरलीकरण होना चाहिए।",
       "options": {
@@ -329,6 +543,8 @@
       "section": "Panorama",
       "chapter": "4",
       "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Indian music, according to Satyajit Ray, is largely",
       "prashna": "सत्यजीत रे के अनुसार, भारतीय संगीत काफी हद तक ............... है।",
       "options": {
@@ -350,6 +566,8 @@
       "section": "Panorama",
       "chapter": "4",
       "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "India is ............... only to Hollywood in film production.",
       "prashna": "फिल्म निर्माण में भारत केवल हॉलीवुड के बाद ............... स्थान पर है।",
       "options": {
@@ -373,6 +591,8 @@
       "section": "Panorama",
       "chapter": "4",
       "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Hope for the Indian cinema lies in the simplification of………………and content.",
       "prashna": "भारतीय सिनेमा के लिए आशा ............ और सामग्री के सरलीकरण में निहित है।",
       "options": {
@@ -394,6 +614,8 @@
       "section": "Panorama",
       "chapter": "4",
       "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "An Indian film should steer clear of……………",
       "prashna": "एक भारतीय फिल्म को ............ से दूर रहना चाहिए।",
       "options": {
@@ -415,6 +637,8 @@
       "section": "Panorama",
       "chapter": "4",
       "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "No Indian cinema can be………..on all counts.",
       "prashna": "कोई भी भारतीय सिनेमा हर मामले में ............ नहीं हो सकता।",
       "options": {
@@ -433,11 +657,36 @@
   ],
   "2024": [
     {
+      "id": "obj_7",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "4",
+      "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.51,
+      "raw_choice": "Panorama - 4. What is Wrong with Indian Films? (भारतीय फिल्मों में क्या खराबी है?)",
+      "question": "Films today are a significant part of creative",
+      "prashna": "आज फिल्में रचनात्मक ___ का एक महत्वपूर्ण हिस्सा हैं।",
+      "options": {
+        "A": "culture",
+        "B": "expression",
+        "C": "art",
+        "D": "science"
+      },
+      "vikalpa": {
+        "A": "संस्कृति",
+        "B": "अभिव्यक्ति",
+        "C": "कला",
+        "D": "विज्ञान"
+      }
+    },
+    {
       "id": "obj_38",
       "type": "objective",
       "section": "Panorama",
       "chapter": "4",
       "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Film production in India, according to Satyajit Ray, is",
       "prashna": "सत्यजित राय के अनुसार भारत में फिल्म निर्माण ___ है।",
       "options": {
@@ -459,6 +708,8 @@
       "section": "Panorama",
       "chapter": "4",
       "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The ... University had conferred an honorary doctorate on Satyajit Ray.",
       "prashna": "___ विश्वविद्यालय ने सत्यजित राय को मानद डॉक्टरेट प्रदान की थी।",
       "options": {
@@ -480,6 +731,8 @@
       "section": "Panorama",
       "chapter": "4",
       "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Poetry, music, action all together combine and make a",
       "prashna": "कविता, संगीत, क्रिया सब मिलकर एक .................... बनाते हैं।",
       "options": {
@@ -501,6 +754,8 @@
       "section": "Panorama",
       "chapter": "4",
       "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Who was the recipient of international award for films ?",
       "prashna": "फिल्मों के लिए अंतरराष्ट्रीय पुरस्कार प्राप्त करने वाले कौन थे?",
       "options": {
@@ -522,6 +777,8 @@
       "section": "Panorama",
       "chapter": "4",
       "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "According to Satyajit Ray, Indian films should be more",
       "prashna": "सत्यजीत रे के अनुसार, भारतीय फिल्में अधिक .................... होनी चाहिए।",
       "options": {
@@ -538,11 +795,36 @@
       }
     },
     {
+      "id": "obj_35",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "4",
+      "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.67,
+      "raw_choice": "Panorama - 4. What is Wrong with Indian Films? (भारतीय फिल्मों में क्या खराबी है?)",
+      "question": "'Dharti Ke Lal' has a very 'strong simple ............ put over with style'.",
+      "prashna": "'धरती के लाल' में बहुत 'मजबूत सरल ............ स्टाइल के साथ प्रस्तुत किया गया है'।",
+      "options": {
+        "A": "music",
+        "B": "story",
+        "C": "direction",
+        "D": "theme"
+      },
+      "vikalpa": {
+        "A": "संगीत",
+        "B": "कहानी",
+        "C": "निर्देशन",
+        "D": "विषय"
+      }
+    },
+    {
       "id": "obj_47",
       "type": "objective",
       "section": "Panorama",
       "chapter": "4",
       "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The cinema is our age's 'most potent and .................... art form'.",
       "prashna": "सिनेमा हमारे युग का 'सबसे शक्तिशाली और .................... कला रूप' है।",
       "options": {
@@ -566,6 +848,8 @@
       "section": "Panorama",
       "chapter": "4",
       "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Indian cinema lacks________.",
       "prashna": "भारतीय सिनेमा में ________ की कमी है।",
       "options": {
@@ -587,6 +871,8 @@
       "section": "Panorama",
       "chapter": "4",
       "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "____ university conferred an honorary doctorate degree on Satyajit Ray.",
       "prashna": "____ विश्वविद्यालय ने सत्यजीत रे को मानद डॉक्टरेट की उपाधि प्रदान की।",
       "options": {
@@ -603,11 +889,36 @@
       }
     },
     {
+      "id": "obj_59",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "4",
+      "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.52,
+      "raw_choice": "Panorama - 4. What is Wrong with Indian Films? (भारतीय फिल्मों में क्या खराबी है?)",
+      "question": "The raw material of cinema is……. itself",
+      "prashna": "सिनेमा की कच्ची सामग्री ……. स्वयं है।",
+      "options": {
+        "A": "life",
+        "B": "camera",
+        "C": "studio",
+        "D": "hall"
+      },
+      "vikalpa": {
+        "A": "जीवन",
+        "B": "कैमरा",
+        "C": "स्टूडियो",
+        "D": "हॉल"
+      }
+    },
+    {
       "id": "obj_1",
       "type": "objective",
       "section": "Panorama",
       "chapter": "4",
       "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Satyajit Ray is very critical of the ............... of Indian films.",
       "prashna": "सत्यजीत रे भारतीय फिल्मों के ............... के प्रति बहुत आलोचनात्मक हैं।",
       "options": {
@@ -629,6 +940,8 @@
       "section": "Panorama",
       "chapter": "4",
       "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Satyajit Ray says that in Indian films, ............... is equated with melodrama.",
       "prashna": "सत्यजीत रे कहते हैं कि भारतीय फिल्मों में, ............... को मेलोड्रामा (अति-नाटकीयता) के समान माना जाता है।",
       "options": {
@@ -650,6 +963,8 @@
       "section": "Panorama",
       "chapter": "4",
       "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "All other countries, according to Ray, are turning to the ............... for inspiration.",
       "prashna": "रे के अनुसार, अन्य सभी देश प्रेरणा के लिए ............... की ओर रुख कर रहे हैं।",
       "options": {
@@ -673,6 +988,8 @@
       "section": "Panorama",
       "chapter": "4",
       "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Style and ............... in Indian cinema should be simplified.",
       "prashna": "भारतीय सिनेमा में शैली और ............... को सरल बनाया जाना चाहिए।",
       "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
@@ -695,6 +1012,8 @@
       "section": "Panorama",
       "chapter": "4",
       "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "According to Satyajit Ray, what Indian ............... needs today is not gloss.",
       "prashna": "सत्यजीत रे के अनुसार, आज भारतीय ............... को जिसकी ज़रूरत है, वह दिखावा (gloss) नहीं है।",
       "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
@@ -717,6 +1036,8 @@
       "section": "Panorama",
       "chapter": "4",
       "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Satyajit Ray composed ............... for his own films.",
       "prashna": "सत्यजीत रे ने अपनी फिल्मों के लिए खुद ............... की रचना की।",
       "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
@@ -739,6 +1060,8 @@
       "section": "Panorama",
       "chapter": "4",
       "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Starting a ............... without adequate planning leads to the failure of a movie.",
       "prashna": "पर्याप्त योजना के बिना ............... शुरू करने से फिल्म असफल हो जाती है।",
       "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
@@ -761,6 +1084,8 @@
       "section": "Panorama",
       "chapter": "4",
       "chapter_name": "What is Wrong with Indian Films?",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Film production in India, according to Satyajit Ray, is",
       "prashna": "सत्यजीत रे के अनुसार, भारत में फिल्म निर्माण ............... है।",
       "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",

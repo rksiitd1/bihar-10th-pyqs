@@ -1,4 +1,17 @@
 {
+  "2014": [
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "section": "Economics",
+      "chapter": "5",
+      "chapter_name": "Employment and Services",
+      "confidence": 0.66,
+      "raw_choice": "Economics - 5. Employment and Services (रोजगार एवं सेवाएँ)",
+      "question": "What was the impact of the current economic recession on the service sector in India? Write.",
+      "prashna": "वर्तमान आर्थिक मंदी का प्रभाव भारत में सेवा क्षेत्र पर क्या पड़ा? लिखें।"
+    }
+  ],
   "2018": [
     {
       "id": "long_3_1",
@@ -6,6 +19,8 @@
       "section": "Economics",
       "chapter": "5",
       "chapter_name": "Employment and Services",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Explain with example, how non-government organisation (NGO) contributes towards the development of service sector?",
       "prashna": "गैर - सरकारी संस्थाएँ किस प्रकार सेवा क्षेत्र के विकास को सहयोग करती है, उदाहरण के साथ लिखें।"
     }
@@ -17,6 +32,8 @@
       "section": "Economics",
       "chapter": "5",
       "chapter_name": "Employment and Services",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Explain with example how India is known as service provider to the world.",
       "prashna": "विश्व के लिए भारत सेवा प्रदाता के रूप में किस तरह जाना जाता है ? उदाहरण सहित लिखें।"
     }

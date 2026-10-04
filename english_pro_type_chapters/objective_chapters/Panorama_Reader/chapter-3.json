@@ -6,6 +6,31 @@
       "section": "Panorama_Reader",
       "chapter": "3",
       "chapter_name": "The Bet",
+      "confidence": 0.5,
+      "raw_choice": "Panorama_Reader - 3. The Bet (शर्त)",
+      "question": "The banker decided to murder the...…….. .",
+      "prashna": "बैंकर ने ...…….. की हत्या करने का फैसला किया।",
+      "options": {
+        "A": "guard",
+        "B": "servant",
+        "C": "gardener",
+        "D": "lawyer"
+      },
+      "vikalpa": {
+        "A": "गार्ड",
+        "B": "नौकर",
+        "C": "माली",
+        "D": "वकील"
+      }
+    },
+    {
+      "id": "obj_27",
+      "type": "objective",
+      "section": "Panorama_Reader",
+      "chapter": "3",
+      "chapter_name": "The Bet",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The bet was struck between the banker and the ....................",
       "prashna": "शर्त .................... और बैंकर के बीच लगी थी।",
       "options": {
@@ -29,6 +54,8 @@
       "section": "Panorama_Reader",
       "chapter": "3",
       "chapter_name": "The Bet",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The author of 'The Bet', is -",
       "prashna": "'द बेट' के लेखक कौन हैं? -",
       "options": {
@@ -52,6 +79,8 @@
       "section": "Panorama_Reader",
       "chapter": "3",
       "chapter_name": "The Bet",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "According to the bet, the lawyer had to remain in the cell for...... years.",
       "prashna": "शर्त के अनुसार, वकील को कितने वर्षों तक कोठरी में रहना था?",
       "options": {
@@ -73,6 +102,8 @@
       "section": "Panorama_Reader",
       "chapter": "3",
       "chapter_name": "The Bet",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The bet was struck for an amount of million roubles",
       "prashna": "शर्त लगाई गई थी रूबल की राशि में",
       "options": {
@@ -96,6 +127,8 @@
       "section": "Panorama_Reader",
       "chapter": "3",
       "chapter_name": "The Bet",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The lawyer read books with…………themes in his first year of confinement.",
       "prashna": "वकील ने अपने कारावास के पहले वर्ष में ............ विषयों वाली पुस्तकें पढ़ीं।",
       "options": {
@@ -117,6 +150,8 @@
       "section": "Panorama_Reader",
       "chapter": "3",
       "chapter_name": "The Bet",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The banker in 'The Bet' had given a party………….years back.",
       "prashna": "'द बेट' में बैंकर ने ............ साल पहले एक पार्टी दी थी।",
       "options": {
@@ -133,11 +168,36 @@
       }
     },
     {
+      "id": "obj_38",
+      "type": "objective",
+      "section": "Panorama_Reader",
+      "chapter": "3",
+      "chapter_name": "The Bet",
+      "confidence": 0.54,
+      "raw_choice": "Panorama_Reader - 3. The Bet (शर्त)",
+      "question": "The banker decided to murder the",
+      "prashna": "बैंकर ने किसकी हत्या करने का फैसला किया?",
+      "options": {
+        "A": "guard",
+        "B": "servant",
+        "C": "gardener",
+        "D": "lawyer"
+      },
+      "vikalpa": {
+        "A": "गार्ड",
+        "B": "नौकर",
+        "C": "माली",
+        "D": "वकील"
+      }
+    },
+    {
       "id": "obj_46",
       "type": "objective",
       "section": "Panorama_Reader",
       "chapter": "3",
       "chapter_name": "The Bet",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What was the amount of the bet between the banker and the lawyer?",
       "prashna": "बैंकर और वकील के बीच शर्त की राशि क्या थी?",
       "options": {
@@ -159,6 +219,8 @@
       "section": "Panorama_Reader",
       "chapter": "3",
       "chapter_name": "The Bet",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The prisoner asked only for……….in the second year of imprisonment.",
       "prashna": "कैदी ने कारावास के दूसरे वर्ष में केवल ………….. माँगा।",
       "options": {
@@ -177,11 +239,59 @@
   ],
   "2022": [
     {
+      "id": "obj_17",
+      "type": "objective",
+      "section": "Panorama_Reader",
+      "chapter": "3",
+      "chapter_name": "The Bet",
+      "confidence": 0.56,
+      "raw_choice": "Panorama_Reader - 3. The Bet (शर्त)",
+      "question": "To stop rumours, the banker locked the lawyer's ... in his safe.",
+      "options": {
+        "A": "note",
+        "B": "books",
+        "C": "clothes",
+        "D": "piano"
+      },
+      "prashna": "अफवाहें रोकने के लिए, बैंकर ने अपने तिजोरी में वकील के ... बंद कर दिए।",
+      "vikalpa": {
+        "A": "नोट",
+        "B": "किताबें",
+        "C": "कपड़े",
+        "D": "पियानो"
+      }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "section": "Panorama_Reader",
+      "chapter": "3",
+      "chapter_name": "The Bet",
+      "confidence": 0.59,
+      "raw_choice": "Panorama_Reader - 3. The Bet (शर्त)",
+      "question": "According to the lawyer, it is better to ... somehow than not to live at all.",
+      "options": {
+        "A": "die",
+        "B": "kill",
+        "C": "live",
+        "D": "poison"
+      },
+      "prashna": "वकिल के अनुसार, बिल्कुल भी नहीं रहने से बेहतर है ... somehow।",
+      "vikalpa": {
+        "A": "मरना",
+        "B": "मारना",
+        "C": "जीना",
+        "D": "जहर"
+      }
+    },
+    {
       "id": "obj_46",
       "type": "objective",
       "section": "Panorama_Reader",
       "chapter": "3",
       "chapter_name": "The Bet",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The poor ... informed the banker about the lawyer's 'disappearance'.",
       "options": {
         "A": "watchman",
@@ -203,6 +313,8 @@
       "section": "Panorama_Reader",
       "chapter": "3",
       "chapter_name": "The Bet",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "‘Your books gave me wisdom.’ Who said this in ‘The Bet’?",
       "prashna": "'तुम्हारी किताबों ने मुझे ज्ञान दिया।' 'द बेट' में यह किसने कहा?",
       "options": {
@@ -224,6 +336,8 @@
       "section": "Panorama_Reader",
       "chapter": "3",
       "chapter_name": "The Bet",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The lawyer asked only for ............... in the second year of imprisonment.",
       "prashna": "कैद के दूसरे वर्ष में वकील ने केवल ............... माँगे।",
       "options": {
@@ -247,6 +361,8 @@
       "section": "Panorama_Reader",
       "chapter": "3",
       "chapter_name": "The Bet",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "In the fifth year of imprisonment, the lawyer asked for……………",
       "prashna": "कैद के पांचवें वर्ष में, वकील ने क्या माँगा?",
       "options": {
@@ -270,6 +386,8 @@
       "section": "Panorama_Reader",
       "chapter": "3",
       "chapter_name": "The Bet",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The lawyer considered both capital punishment and life imprisonment",
       "prashna": "वकील ने फांसी और आजीवन कारावास दोनों को ___ माना।",
       "options": {
@@ -291,6 +409,8 @@
       "section": "Panorama_Reader",
       "chapter": "3",
       "chapter_name": "The Bet",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Chekhov wrote ... plays.",
       "prashna": "चेखव ने ___ नाटक लिखे।",
       "options": {
@@ -312,6 +432,8 @@
       "section": "Panorama_Reader",
       "chapter": "3",
       "chapter_name": "The Bet",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The lawyer suffered terribly from .................... in his first year of imprisonment.",
       "prashna": "वकील ने अपनी कैद के पहले साल में .................... से भयानक पीड़ा सहन की।",
       "options": {
@@ -333,6 +455,8 @@
       "section": "Panorama_Reader",
       "chapter": "3",
       "chapter_name": "The Bet",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "\"Agreed, you stake two millions, I my freedom, ... .\" — is from",
       "prashna": "\"सहमत, आप दो मिलियन दांव पर लगाते हैं, मैं अपनी स्वतंत्रता...\" — यह किससे लिया गया है?",
       "options": {
@@ -354,6 +478,8 @@
       "section": "Panorama_Reader",
       "chapter": "3",
       "chapter_name": "The Bet",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "\"Five minutes passed and the prisoner never once stirred\" is from",
       "prashna": "\"पांच मिनट बीत गए और कैदी एक बार भी नहीं हिला\" किससे लिया गया है?",
       "options": {
@@ -372,11 +498,59 @@
   ],
   "2025": [
     {
+      "id": "obj_27",
+      "type": "objective",
+      "section": "Panorama_Reader",
+      "chapter": "3",
+      "chapter_name": "The Bet",
+      "confidence": 0.98,
+      "raw_choice": "Panorama_Reader - 3. The Bet (शर्त)",
+      "question": "What did the lawyer prefer?",
+      "prashna": "वकील ने क्या पसंद किया?",
+      "options": {
+        "A": "wine",
+        "B": "money",
+        "C": "death",
+        "D": "life imprisonment"
+      },
+      "vikalpa": {
+        "A": "शराब",
+        "B": "पैसा",
+        "C": "मृत्यु",
+        "D": "आजीवन कारावास"
+      }
+    },
+    {
+      "id": "obj_34",
+      "type": "objective",
+      "section": "Panorama_Reader",
+      "chapter": "3",
+      "chapter_name": "The Bet",
+      "confidence": 0.99,
+      "raw_choice": "Panorama_Reader - 3. The Bet (शर्त)",
+      "question": "The banker was afraid of honouring the bet because____",
+      "prashna": "बैंकर शर्त पूरी करने से डर रहा था क्योंकि____",
+      "options": {
+        "A": "he had become financially weak",
+        "B": "He was very rich",
+        "C": "he was cruel",
+        "D": "he was cunning"
+      },
+      "vikalpa": {
+        "A": "वह आर्थिक रूप से कमजोर हो गया था",
+        "B": "वह बहुत अमीर था",
+        "C": "वह क्रूर था",
+        "D": "वह चालाक था"
+      }
+    },
+    {
       "id": "obj_12",
       "type": "objective",
       "section": "Panorama_Reader",
       "chapter": "3",
       "chapter_name": "The Bet",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "After fifteen years, the rich banker was in ...............",
       "prashna": "पंद्रह साल बाद, अमीर बैंकर ............... में था।",
       "options": {
@@ -398,6 +572,8 @@
       "section": "Panorama_Reader",
       "chapter": "3",
       "chapter_name": "The Bet",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "During the first year of imprisonment, the lawyer played the ...............",
       "prashna": "कैद के पहले वर्ष के दौरान, वकील ने ............... बजाया।",
       "options": {
@@ -419,6 +595,8 @@
       "section": "Panorama_Reader",
       "chapter": "3",
       "chapter_name": "The Bet",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "When the banker peeped into the prisoner's room, he saw a ... burning dimly.",
       "prashna": "जब बैंकर ने कैदी के कमरे में झाँका, तो उसने एक ... को धुंधला जलते हुए देखा।",
       "options": {
@@ -442,6 +620,8 @@
       "section": "Panorama_Reader",
       "chapter": "3",
       "chapter_name": "The Bet",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "To stop rumours, the banker locked the lawyer's ............... in his safe.",
       "prashna": "अफवाहों को रोकने के लिए, बैंकर ने वकील का ............... अपनी तिजोरी में बंद कर दिया।",
       "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
@@ -464,6 +644,8 @@
       "section": "Panorama_Reader",
       "chapter": "3",
       "chapter_name": "The Bet",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The lawyer played the ............... during his first year of imprisonment.",
       "prashna": "वकील ने अपनी कैद के पहले वर्ष के दौरान ............... बजाया।",
       "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
@@ -486,6 +668,8 @@
       "section": "Panorama_Reader",
       "chapter": "3",
       "chapter_name": "The Bet",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Anton Chekhov was a ............... author.",
       "prashna": "एंटोन चेखव एक ............... लेखक थे।",
       "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
@@ -508,6 +692,8 @@
       "section": "Panorama_Reader",
       "chapter": "3",
       "chapter_name": "The Bet",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The banker was ............... when the lawyer escaped before the stipulated time.",
       "prashna": "जब वकील निर्धारित समय से पहले भाग गया तो बैंकर ............... था।",
       "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
@@ -530,6 +716,8 @@
       "section": "Panorama_Reader",
       "chapter": "3",
       "chapter_name": "The Bet",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The terms and conditions of the bet were decided by the banker and the",
       "prashna": "शर्त के नियम और शर्तें बैंकर और ............... द्वारा तय की गई थीं।",
       "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
@@ -552,6 +740,8 @@
       "section": "Panorama_Reader",
       "chapter": "3",
       "chapter_name": "The Bet",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Chekhov wrote ............... plays.",
       "prashna": "चेखव ने ............... नाटक लिखे।",
       "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
@@ -574,6 +764,8 @@
       "section": "Panorama_Reader",
       "chapter": "3",
       "chapter_name": "The Bet",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "To stop rumours, the banker locked the lawyer's ............... in his safe.",
       "prashna": "अफवाहों को रोकने के लिए, बैंकर ने वकील का ............... अपनी तिजोरी में बंद कर दिया।",
       "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
@@ -596,6 +788,8 @@
       "section": "Panorama_Reader",
       "chapter": "3",
       "chapter_name": "The Bet",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The lawyer in the first year rejected",
       "prashna": "वकील ने अपनी कैद के पहले वर्ष में क्या अस्वीकार कर दिया?",
       "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",

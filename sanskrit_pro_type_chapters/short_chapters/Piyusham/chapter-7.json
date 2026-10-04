@@ -6,6 +6,8 @@
       "section": "Piyusham",
       "chapter": "7",
       "chapter_name": "Niti-shlokaha",
+      "confidence": 0.95,
+      "raw_choice": "",
       "instructions": "निम्नलिखित प्रश्नों के उत्तर तीन-तीन वाक्यों में हिन्दी में दें-",
       "question": "“नीति श्लोकाः” पाठ में मूढचेतानराधम किसे कहा गया है ?",
       "prashna": "“नीति श्लोकाः” पाठ में मूढचेतानराधम किसे कहा गया है ?"
@@ -18,6 +20,8 @@
       "section": "Piyusham",
       "chapter": "7",
       "chapter_name": "Niti-shlokaha",
+      "confidence": 0.95,
+      "raw_choice": "",
       "instructions": "हिन्दी में वर्णन करें।",
       "question": "'नीतिश्लोकाः' पाठ के आधार पर मनुष्य के छह दोषों का हिन्दी में वर्णन करें।",
       "prashna": "'नीतिश्लोकाः' पाठ के आधार पर मनुष्य के छह दोषों का हिन्दी में वर्णन करें।"
@@ -42,6 +46,8 @@
       "section": "Piyusham",
       "chapter": "7",
       "chapter_name": "Niti-shlokaha",
+      "confidence": 0.95,
+      "raw_choice": "",
       "instructions": "पठित अवबोधनम् (Short Answer Questions)",
       "question": "नीतिश्लोकाः पाठ में मूढचेता नराधम किसे कहा गया है?",
       "prashna": "नीतिश्लोकाः पाठ में मूढचेता नराधम किसे कहा गया है?"
@@ -54,6 +60,8 @@
       "section": "Piyusham",
       "chapter": "7",
       "chapter_name": "Niti-shlokaha",
+      "confidence": 0.95,
+      "raw_choice": "",
       "instructions": "निम्नलिखित श्लोकों का अनुवाद हिन्दी में करें :",
       "question": "तत्त्वज्ञः सर्वभूतानां योगज्ञः सर्वकर्मणाम् । उपायज्ञो मनुष्याणां नरः पण्डित उच्यते ॥",
       "prashna": "तत्त्वज्ञः सर्वभूतानां योगज्ञः सर्वकर्मणाम् । उपायज्ञो मनुष्याणां नरः पण्डित उच्यते ॥"
@@ -64,6 +72,8 @@
       "section": "Piyusham",
       "chapter": "7",
       "chapter_name": "Niti-shlokaha",
+      "confidence": 0.95,
+      "raw_choice": "",
       "instructions": "निम्नलिखित श्लोकों का अनुवाद हिन्दी में करें :",
       "question": "त्रिविधं नरकस्येदं द्वारं नाशनमात्मनः । कामः क्रोधः तथा लोभः तस्मादेतत् त्रयं त्यजेत् ॥",
       "prashna": "त्रिविधं नरकस्येदं द्वारं नाशनमात्मनः । कामः क्रोधः तथा लोभः तस्मादेतत् त्रयं त्यजेत् ॥"
@@ -74,6 +84,8 @@
       "section": "Piyusham",
       "chapter": "7",
       "chapter_name": "Niti-shlokaha",
+      "confidence": 0.95,
+      "raw_choice": "",
       "instructions": "निम्नलिखित प्रश्नों के उत्तर संस्कृत में लिखें :",
       "question": "विदुरः कः आसीत् ?",
       "prashna": "विदुरः कः आसीत् ?"
@@ -84,6 +96,8 @@
       "section": "Piyusham",
       "chapter": "7",
       "chapter_name": "Niti-shlokaha",
+      "confidence": 0.95,
+      "raw_choice": "",
       "instructions": "निम्नलिखित प्रश्नों के उत्तर संस्कृत में लिखें :",
       "question": "नरकस्य कियद् द्वारं परिगणितम् ?",
       "prashna": "नरकस्य कियद् द्वारं परिगणितम् ?"
@@ -94,6 +108,8 @@
       "section": "Piyusham",
       "chapter": "7",
       "chapter_name": "Niti-shlokaha",
+      "confidence": 0.95,
+      "raw_choice": "",
       "instructions": "पठित पाठ्य के आधार पर वर्णन करें :",
       "question": "छः प्रकार के दोष कौन हैं ?",
       "prashna": "छः प्रकार के दोष कौन हैं ?"
@@ -111,11 +127,25 @@
   ],
   "2017": [
     {
+      "id": "short_25",
+      "type": "short_answer",
+      "section": "Piyusham",
+      "chapter": "7",
+      "chapter_name": "Niti-shlokaha",
+      "confidence": 0.61,
+      "raw_choice": "Piyusham - 7. Niti-shlokaha (नीतिश्लोकाः)",
+      "instructions": "अधोलिखित श्लोकों का अनुवाद करें-",
+      "question": "17. (ख) तत्त्वज्ञः सर्वभूतानां योगज्ञः सर्व कर्मणाम्।\nउपायज्ञो मनुष्याणाम् नरः पण्डित उच्यते।।",
+      "prashna": "17. (ख) तत्त्वज्ञः सर्वभूतानां योगज्ञः सर्व कर्मणाम्।\nउपायज्ञो मनुष्याणाम् नरः पण्डित उच्यते।।"
+    },
+    {
       "id": "short_28",
       "type": "short_answer",
       "section": "Piyusham",
       "chapter": "7",
       "chapter_name": "Niti-shlokaha",
+      "confidence": 0.95,
+      "raw_choice": "",
       "instructions": "अधोलिखित प्रश्नों के उत्तर संस्कृत में लिखें-",
       "question": "18. (ग) के दोषाः हातव्याः?",
       "prashna": "18. (ग) के दोषाः हातव्याः?"
@@ -126,6 +156,8 @@
       "section": "Piyusham",
       "chapter": "7",
       "chapter_name": "Niti-shlokaha",
+      "confidence": 0.95,
+      "raw_choice": "",
       "instructions": "सप्रसंग व्याख्या करें-",
       "question": "19. अनिष्ठादिष्टलाभेऽपि न गतिर्जायते शुभा।\nयत्रास्ते विषसंसर्गोऽमृतं तदपि मृत्यये।।",
       "prashna": "19. अनिष्ठादिष्टलाभेऽपि न गतिर्जायते शुभा।\nयत्रास्ते विषसंसर्गोऽमृतं तदपि मृत्यये।।"
@@ -138,6 +170,8 @@
       "section": "Piyusham",
       "chapter": "7",
       "chapter_name": "Niti-shlokaha",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'नीतिश्लोका:' पाठ के आधार पर पण्डित के लक्षण क्या हैं?",
       "prashna": "'नीतिश्लोका:' पाठ के आधार पर पण्डित के लक्षण क्या हैं?",
       "instructions": "लघुउत्तरीय प्रश्ना: (16 अङ्का:) निम्नलिखित में किन्हीं आठ प्रश्नों के उत्तर दें-"
@@ -150,6 +184,8 @@
       "section": "Piyusham",
       "chapter": "7",
       "chapter_name": "Niti-shlokaha",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "(ङ) 'नीतिश्लोका:' पाठ के आधार पर 'मूढ़चेता नराधम' के लक्षणों को लिखें।",
       "prashna": "(ङ) 'नीतिश्लोका:' पाठ के आधार पर 'मूढ़चेता नराधम' के लक्षणों को लिखें।",
       "instructions": "लघुउत्तरीय प्रश्ना: (16 अङ्का:)। निम्नलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें-"
@@ -160,6 +196,8 @@
       "section": "Piyusham",
       "chapter": "7",
       "chapter_name": "Niti-shlokaha",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "(ढ) 'नीतिश्लोका:' पाठ से किसी एक श्लोक को साफ-साफ शब्दों में लिखें।",
       "prashna": "(ढ) 'नीतिश्लोका:' पाठ से किसी एक श्लोक को साफ-साफ शब्दों में लिखें।",
       "instructions": "लघुउत्तरीय प्रश्ना: (16 अङ्का:)। निम्नलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें-"
@@ -172,6 +210,8 @@
       "section": "Piyusham",
       "chapter": "7",
       "chapter_name": "Niti-shlokaha",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "पंडित किसे कहा गया है ?",
       "prashna": "पंडित किसे कहा गया है ?",
       "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
@@ -182,6 +222,8 @@
       "section": "Piyusham",
       "chapter": "7",
       "chapter_name": "Niti-shlokaha",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'नीतिश्लोका:' पाठ के आधार पर मूर्ख कौन है ?",
       "prashna": "'नीतिश्लोका:' पाठ के आधार पर मूर्ख कौन है ?",
       "instructions": "निम्नलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
@@ -189,11 +231,25 @@
   ],
   "2022": [
     {
+      "id": "short_13",
+      "type": "short_answer",
+      "section": "Piyusham",
+      "chapter": "7",
+      "chapter_name": "Niti-shlokaha",
+      "confidence": 0.67,
+      "raw_choice": "Piyusham - 7. Niti-shlokaha (नीतिश्लोकाः)",
+      "question": "प्राचीन समाज में कौन-कौन से प्रमुख दोष थे ?",
+      "prashna": "प्राचीन समाज में कौन-कौन से प्रमुख दोष थे ?",
+      "instructions": "हिन्दी में उत्तर दें"
+    },
+    {
       "id": "short_11",
       "type": "short_answer",
       "section": "Piyusham",
       "chapter": "7",
       "chapter_name": "Niti-shlokaha",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "पण्डित कौन हैं ?",
       "prashna": "पण्डित कौन हैं ?",
       "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
@@ -206,6 +262,8 @@
       "section": "Piyusham",
       "chapter": "7",
       "chapter_name": "Niti-shlokaha",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "सम्पन्नता चाहने वाले को किन-किन दोषों को छोड़ देना चाहिए ?",
       "prashna": "सम्पन्नता चाहने वाले को किन-किन दोषों को छोड़ देना चाहिए ?",
       "instructions": "लघु उत्तरीय प्रश्न (16 अंक)। निम्नलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
@@ -218,6 +276,8 @@
       "section": "Piyusham",
       "chapter": "7",
       "chapter_name": "Niti-shlokaha",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "पण्डित किसे कहा जाता है ?",
       "prashna": "पण्डित किसे कहा जाता है ?",
       "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
@@ -228,6 +288,8 @@
       "section": "Piyusham",
       "chapter": "7",
       "chapter_name": "Niti-shlokaha",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "अपनी प्रगति चाहने वालों को किन-किन दोषों को त्याग देना चाहिए ?",
       "prashna": "अपनी प्रगति चाहने वालों को किन-किन दोषों को त्याग देना चाहिए ?",
       "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
@@ -240,6 +302,8 @@
       "section": "Piyusham",
       "chapter": "7",
       "chapter_name": "Niti-shlokaha",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'नीतिश्लोकाः' पाठ से किसी एक श्लोक को शुद्ध-शुद्ध लिखें ।",
       "prashna": "(च) 'नीतिश्लोकाः' पाठ से किसी एक श्लोक को शुद्ध-शुद्ध लिखें ।",
       "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
@@ -250,6 +314,8 @@
       "section": "Piyusham",
       "chapter": "7",
       "chapter_name": "Niti-shlokaha",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "नरक के द्वार कौन-कौन से हैं ?",
       "prashna": "(छ) नरक के द्वार कौन-कौन से हैं ?",
       "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
@@ -260,6 +326,8 @@
       "section": "Piyusham",
       "chapter": "7",
       "chapter_name": "Niti-shlokaha",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "‘नीतिश्लोकाः’ पाठ से किसी एक श्लोक को शुद्ध-शुद्ध लिखें |",
       "prashna": "‘नीतिश्लोकाः’ पाठ से किसी एक श्लोक को शुद्ध-शुद्ध लिखें |",
       "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
@@ -270,6 +338,8 @@
       "section": "Piyusham",
       "chapter": "7",
       "chapter_name": "Niti-shlokaha",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "नरक के द्वार कौन-कौन से हैं ?",
       "prashna": "नरक के द्वार कौन-कौन से हैं ?",
       "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
@@ -282,9 +352,23 @@
       "section": "Piyusham",
       "chapter": "7",
       "chapter_name": "Niti-shlokaha",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "पण्डित किसे कहा जाता है ?",
       "prashna": "पण्डित किसे कहा जाता है ?",
       "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
+    },
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "section": "Piyusham",
+      "chapter": "7",
+      "chapter_name": "Niti-shlokaha",
+      "confidence": 0.64,
+      "raw_choice": "Piyusham - 7. Niti-shlokaha (नीतिश्लोकाः)",
+      "question": "प्राचीन समाज में कौन-कौन से प्रमुख दोष थे ?",
+      "prashna": "प्राचीन समाज में कौन-कौन से प्रमुख दोष थे ?",
+      "instructions": "लघु-उत्तरीय प्रश्न (16 अंक). अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
     }
   ]
 }

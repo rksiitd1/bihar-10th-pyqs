@@ -8,5 +8,25 @@
       "question": "Show that every positive odd integer is of the form $6p + 1$ or $6p + 3$ or $6p + 5$, where $p$ is an integer.",
       "prashna": "दिखाएँ कि एक धनात्मक विषम पूर्णांक $6p+1$ या $6p+3$ या $6p+5$ के रूप का है, जहाँ $p$ एक पूर्णांक है।"
     }
+  ],
+  "2018": [
+    {
+      "id": "long_1_2",
+      "type": "long_answer",
+      "chapter": "1",
+      "chapter_name": "Real Numbers",
+      "confidence": 0.54,
+      "raw_choice": "1. Real Numbers (वास्तविक संख्याएँ)",
+      "question": "Answer following sub-questions.",
+      "prashna": "निम्न अनुप्रश्नों के उत्तर दें।",
+      "sub_questions": {
+        "i": "Solve the pair of linear equations $px + qy = p - q$ and $qx - py = p + q$ for $x$ and $y$.",
+        "ii": "Find values of $a$ and $b$ for which the system of linear equations has infinite number of solution $(a + b)x - 2by = (5a + 2b + 1)$ and $3x - y = 14$"
+      },
+      "anuprashna": {
+        "i": "रैखीय समीकरण युग्म $px + qy = p - q$ तथा $qx - py = p + q$ को $x$ तथा $y$ के लिए हल करें।",
+        "ii": "रैखीय समीकरण युग्म $(a + b)x - 2by = (5a + 2b + 1)$ और $3x - y = 14$ के अनगिनत हल के लिए $a$ तथा $b$ का मान निर्धारित करें।"
+      }
+    }
   ]
 }

@@ -5,6 +5,8 @@
         "section": "History",
         "chapter": "3",
         "chapter_name": "Nationalist Movement in Indo-China",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Where is the temple of Angkor Wat located?",
         "prashna": "अंकोरवाट का मंदिर कहाँ स्थित है ?",
         "options": {
@@ -26,6 +28,8 @@
         "section": "History",
         "chapter": "4",
         "chapter_name": "Nationalism in India",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "When was the Rashtriya Swayamsevak Sangh (RSS) established?",
         "prashna": "राष्ट्रीय स्वयंसेवक संघ की स्थापना कब हुई ?",
         "options": {
@@ -47,6 +51,8 @@
         "section": "History",
         "chapter": "2",
         "chapter_name": "Socialism and Communism",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "When did the Bolshevik Revolution take place?",
         "prashna": "बोल्शेविक क्रांति कब हुई ?",
         "options": {
@@ -68,6 +74,8 @@
         "section": "History",
         "chapter": "4",
         "chapter_name": "Nationalism in India",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Mention the contributions of Mahatma Gandhi in the Indian National Movement.",
         "prashna": "भारतीय राष्ट्रीय आंदोलन में महात्मा गाँधी के योगदानों का उल्लेख करें।"
     },
@@ -77,6 +85,8 @@
         "section": "History",
         "chapter": "5",
         "chapter_name": "Economy and Livelihood",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Throw light on the changes occurring as a result of industrialization.",
         "prashna": "औद्योगीकरण के परिणामस्वरूप होने वाले परिवर्तनों पर प्रकाश डालें।"
     },
@@ -86,6 +96,8 @@
         "section": "History",
         "chapter": "4",
         "chapter_name": "Nationalism in India",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "When was the All India National Congress established? Mention its two main objectives.",
         "prashna": "अखिल भारतीय राष्ट्रीय काँग्रेस की स्थापना कब हुई? इसके दो मुख्य उद्देश्यों का उल्लेख करें।"
     },
@@ -95,6 +107,8 @@
         "section": "History",
         "chapter": "8",
         "chapter_name": "Press, Culture and Nationalism",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Describe any three characteristics of the Indian Press.",
         "prashna": "भारतीय प्रेस की किन्हीं तीन विशेषताओं का वर्णन करें।"
     },
@@ -104,6 +118,8 @@
         "section": "History",
         "chapter": "7",
         "chapter_name": "Trade and Globalization",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Mention any two causes of the economic crisis of 1929.",
         "prashna": "सन् 1929 के आर्थिक संकट के किन्हीं दो कारणों का उल्लेख करें।"
     },
@@ -113,6 +129,8 @@
         "section": "History",
         "chapter": "1",
         "chapter_name": "Nationalism in Europe",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Give a brief description of Bismarck's role in the unification of Germany.",
         "prashna": "जर्मनी के एकीकरण में बिस्मार्क की भूमिका का संक्षिप्त विवरण दें।"
     },
@@ -122,15 +140,19 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.49,
+        "raw_choice": "History - 4. Nationalism in India (भारत में राष्ट्रवाद)",
         "question": "When was the Industrial Commission appointed? What were its objectives?",
         "prashna": "औद्योगिक आयोग की नियुक्ति कब हुई? इसके क्या उद्देश्य थे ?"
     },
     {
         "id": "short_6",
         "type": "short_answer",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Civics",
+        "chapter": "2",
+        "chapter_name": "Federalism (Working of Power Sharing)",
+        "confidence": 0.55,
+        "raw_choice": "Civics - 2. Federalism (Working of Power Sharing) (सत्ता में साझेदारी की कार्यप्रणाली (संघवाद))",
         "question": "What are the two main bases of rural and urban systems in the economic and administrative context?",
         "prashna": "आर्थिक तथा प्रशासनिक संदर्भ में ग्रामीण तथा नगरीय व्यवस्था के दो प्रमुख आधार क्या है?"
     },
@@ -140,6 +162,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.34,
+        "raw_choice": "Economics - 1. History of Economy and its Development (अर्थव्यवस्था एवं इसके विकास का इतिहास)",
         "question": "What was the population of Bihar in the year 2001?",
         "prashna": "सन् 2001 में बिहार की जनसंख्या निम्न में से क्या थी?",
         "options": {
@@ -161,6 +185,8 @@
         "section": "Geography",
         "chapter": "1",
         "chapter_name": "India: Resources and Utilization",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which of the following is the main cause of land degradation in Punjab?",
         "prashna": "पंजाब की भूमि निम्नीकरण की मुख्य कारण निम्न में से कौन है?",
         "options": {
@@ -182,6 +208,8 @@
         "section": "Geography",
         "chapter": "4",
         "chapter_name": "Transport, Communication and Trade",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which state stands first in terms of the length of paved roads?",
         "prashna": "पक्की सड़कों की लम्बाई की दृष्टि से प्रथम स्थान पर कौन राज्य है ?",
         "options": {
@@ -203,6 +231,8 @@
         "section": "Geography",
         "chapter": "2",
         "chapter_name": "Agriculture",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which of the following is a Kharif crop?",
         "prashna": "निम्नलिखित में खरीफ फसल कौन है?",
         "options": {
@@ -224,6 +254,8 @@
         "section": "Geography",
         "chapter": "2",
         "chapter_name": "Agriculture",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Mention the suitable geographical conditions for rice crop.",
         "prashna": "चावल की फसल के लिए उपयुक्त भौगोलिक दशाओं का उल्लेख करें।"
     },
@@ -233,6 +265,8 @@
         "section": "Geography",
         "chapter": "3",
         "chapter_name": "Manufacturing Industries",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Write the three main factors for the localization of industries.",
         "prashna": "उद्योगों के स्थानीयकरण के तीन मुख्य कारकों को लिखें।"
     },
@@ -242,15 +276,19 @@
         "section": "Geography",
         "chapter": "1",
         "chapter_name": "India: Resources and Utilization",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Distinguish between Khadar and Bangar soil.",
         "prashna": "खादर और बांगर मिट्टी में अंतर स्पष्ट करें।"
     },
     {
         "id": "short_10",
         "type": "short_answer",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Geography",
+        "chapter": "3",
+        "chapter_name": "Manufacturing Industries",
+        "confidence": 0.53,
+        "raw_choice": "Geography - 3. Manufacturing Industries (निर्माण उद्योग)",
         "question": "Throw light on the use of Manganese.",
         "prashna": "मैंगनीज के उपयोग पर प्रकाश डालें।"
     },
@@ -260,6 +298,8 @@
         "section": "Geography",
         "chapter": "6",
         "chapter_name": "Map Study",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What do you understand by contour lines?",
         "prashna": "समोच्च रेखा से आप क्या समझते हैं?"
     },
@@ -269,6 +309,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.37,
+        "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
         "question": "Explain: \"The population of Bihar is not uniform everywhere.\"",
         "prashna": "\"बिहार की जनसंख्या सभी जगह एकसमान नहीं है।\" स्पष्ट करें।"
     },
@@ -278,6 +320,8 @@
         "section": "Geography",
         "chapter": "4",
         "chapter_name": "Transport, Communication and Trade",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Describe the characteristics of Indian Railway transport.",
         "prashna": "भारतीय रेल परिवहन की विशेषताओं का वर्णन करें।"
     },
@@ -287,6 +331,8 @@
         "section": "Civics",
         "chapter": "2",
         "chapter_name": "Federalism (Working of Power Sharing)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which of the following is not a feature of a federal state?",
         "prashna": "संघ राज्य की विशेषता नहीं है",
         "options": {
@@ -308,6 +354,8 @@
         "section": "Civics",
         "chapter": "4",
         "chapter_name": "Gender, Religion and Caste",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What was the participation of women in the Lok Sabha prior to the $15^{th}$ Lok Sabha elections?",
         "prashna": "$15$वीं लोकसभा चुनाव से पूर्व लोकसभा में महिलाओं की भागीदारी थी",
         "options": {
@@ -329,6 +377,8 @@
         "section": "Civics",
         "chapter": "2",
         "chapter_name": "Federalism (Working of Power Sharing)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Write three functions of the Zila Parishad.",
         "prashna": "जिला परिषद् के तीन कार्य लिखें।"
     },
@@ -338,6 +388,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.48,
+        "raw_choice": "Civics - 1. Power Sharing in Democracy (लोकतंत्र में सत्ता की साझेदारी)",
         "question": "How do political parties share power?",
         "prashna": "राजनीतिक दल किस तरह सत्ता में साझेदारी करते हैं?"
     },
@@ -347,6 +399,8 @@
         "section": "Civics",
         "chapter": "2",
         "chapter_name": "Federalism (Working of Power Sharing)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Describe the functions and powers of Gram Panchayat.",
         "prashna": "ग्राम पंचायत के कार्यों एवं शक्तियों का वर्णन करें।"
     },
@@ -356,15 +410,19 @@
         "section": "Civics",
         "chapter": "5",
         "chapter_name": "Popular Struggles and Movements",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What were the main objectives of the 'Right to Information Movement'?",
         "prashna": "'सूचना के अधिकार आंदोलन' के मुख्य उद्देश्य क्या थे?"
     },
     {
         "id": "short_16",
         "type": "short_answer",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Civics",
+        "chapter": "1",
+        "chapter_name": "Power Sharing in Democracy",
+        "confidence": 0.65,
+        "raw_choice": "Civics - 1. Power Sharing in Democracy (लोकतंत्र में सत्ता की साझेदारी)",
         "question": "What is Language Policy?",
         "prashna": "भाषा नीति क्या है?"
     },
@@ -374,6 +432,8 @@
         "section": "Civics",
         "chapter": "4",
         "chapter_name": "Gender, Religion and Caste",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Mention various aspects of life where women in India face discrimination or are in a weak position.",
         "prashna": "जीवन के विभिन्न पहलुओं का जिक्र करें जिनमें भारत में स्त्रियों के साथ भेद-भाव है या वे कमजोर स्थिति में हैं।"
     },
@@ -383,6 +443,8 @@
         "section": "Civics",
         "chapter": "6",
         "chapter_name": "Political Parties",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Briefly write two main challenges of political parties.",
         "prashna": "राजनीतिक दलों की दो प्रमुख चुनौतियों को संक्षेप में लिखें।"
     },
@@ -392,6 +454,8 @@
         "section": "Economics",
         "chapter": "4",
         "chapter_name": "Our Financial Institutions",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "When did the cooperative movement start in India?",
         "prashna": "भारत में सहकारिता आन्दोलन का प्रारंभ कब हुआ ?",
         "options": {
@@ -413,6 +477,8 @@
         "section": "Economics",
         "chapter": "1",
         "chapter_name": "History of Economy and its Development",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The economic system of India is:",
         "prashna": "भारत की आर्थिक व्यवस्था है।",
         "options": {
@@ -434,6 +500,8 @@
         "section": "Economics",
         "chapter": "6",
         "chapter_name": "Globalization",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What do you understand by privatization?",
         "prashna": "निजीकरण से आप क्या समझते हैं?"
     },
@@ -443,6 +511,8 @@
         "section": "Economics",
         "chapter": "1",
         "chapter_name": "History of Economy and its Development",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is economic development? Tell the difference between economic development and economic growth.",
         "prashna": "आर्थिक विकास क्या है? आर्थिक विकास तथा आर्थिक वृद्धि में अंतर बताइए।"
     },
@@ -452,6 +522,8 @@
         "section": "Economics",
         "chapter": "3",
         "chapter_name": "Money, Savings and Credit",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Describe the difficulties of the Barter system.",
         "prashna": "वस्तु विनिमय प्रणाली की कठिनाइयों का वर्णन करें।"
     },
@@ -461,6 +533,8 @@
         "section": "Economics",
         "chapter": "4",
         "chapter_name": "Our Financial Institutions",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What do you understand by Self Help Groups (SHG)?",
         "prashna": "स्वयं सहायता समूह से आप क्या समझते हैं?"
     },
@@ -470,6 +544,8 @@
         "section": "Economics",
         "chapter": "3",
         "chapter_name": "Money, Savings and Credit",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Write the functions of money.",
         "prashna": "मुद्रा के कार्य लिखें।"
     },
@@ -479,6 +555,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.25,
+        "raw_choice": "Economics - 2. State and National Income (राज्य एवं राष्ट्र की आय)",
         "question": "Write the expanded form of the following-",
         "prashna": "निम्न का विस्तारित रूप लिखें-",
         "sub_questions": {
@@ -496,6 +574,8 @@
         "section": "Economics",
         "chapter": "3",
         "chapter_name": "Money, Savings and Credit",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is ATM?",
         "prashna": "ए०टी० एभ० क्या है ?"
     },
@@ -505,6 +585,8 @@
         "section": "Geography",
         "chapter": "10",
         "chapter_name": "Life Saving Emergency Management",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "In case of burns by fire on the human body, what primary treatment should be given at the burned spot?",
         "prashna": "मानव शरीर में आग से जलने की स्थिति में जले हुए स्थान पर क्या प्राथमिक उपचार करना चाहिए?",
         "options": {
@@ -526,6 +608,8 @@
         "section": "Geography",
         "chapter": "7",
         "chapter_name": "Natural Disaster: An Introduction",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What do you understand by disaster?",
         "prashna": "आपदा से आप क्या समझते हैं?"
     },
@@ -535,6 +619,8 @@
         "section": "Geography",
         "chapter": "11",
         "chapter_name": "Alternative Communication during Disasters",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Throw light on the use of Ham Radio.",
         "prashna": "हैम रेडियो के उपयोग पर प्रकाश डालिए।"
     }

@@ -5,6 +5,8 @@
       "type": "long_answer",
       "chapter": "11",
       "chapter_name": "Constructions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Draw a line $AB = 12$ cm and divide it in a ratio of $3:5$.",
       "prashna": "रेखा $AB = 12$ सेमी खींचें और $3:5$ के अनुपात में बाँटें।",
       "marks": 5
@@ -14,6 +16,8 @@
       "type": "long_answer",
       "chapter": "11",
       "chapter_name": "Constructions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Construct a triangle $ABC$ in which side $BC = 6$ cm, $AB = 5$ cm and $\\angle ABC = 60^\\circ$. Construct a triangle similar to this triangle whose sides are $3/4$th of the corresponding sides of triangle $ABC$.",
       "prashna": "$\triangle ABC$ की रचना करें जिसमें $BC = 6$ सेमी, $AB = 5$ सेमी तथा $\\angle ABC = 60^\\circ$ है। इसके समरूप एक अन्य त्रिभुज बनायें जिसकी भुजाएँ $\triangle ABC$ की संगत भुजाओं का $3/4$ हों।",
       "marks": 5
@@ -25,8 +29,20 @@
       "type": "long_answer",
       "chapter": "11",
       "chapter_name": "Constructions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Construct a circle of $3$ cm radius. Construct an equilateral triangle inside the circle.",
       "prashna": "$3$ सेमी की त्रिज्या का एक वृत्त खींचें। इसके अन्तर्गत एक समबाहु त्रिभुज बनायें।"
+    },
+    {
+      "id": "long_47_2",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "Constructions",
+      "confidence": 0.76,
+      "raw_choice": "11. Constructions (रचनाएँ)",
+      "question": "Draw a circle inside an equilateral triangle of sides $5$ cm which touches the sides of the triangle.",
+      "prashna": "$5$ सेमी भुजा वाले एक समबाहु त्रिभुज के अन्तर्गत एक वृत्त खींचें जो त्रिभुज की भुजाओं को स्पर्श करे।"
     }
   ],
   "2017": [
@@ -35,6 +51,8 @@
       "type": "long_answer",
       "chapter": "11",
       "chapter_name": "Constructions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Draw a circle of radius $3$ cm. Draw a pair of tangents to the circle, which are inclined to each other at an angle of $60^\\circ$",
       "prashna": "$3$ सेमी. त्रिज्या का एक वृत्त खींचे । उस वृत्त पर युग्म स्पर्श रेखा खींचे जो एक दूसरे के साथ $60^\\circ$ कोण बनाती हैं ।"
     },
@@ -43,6 +61,8 @@
       "type": "long_answer",
       "chapter": "11",
       "chapter_name": "Constructions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Construct a triangle whose sides are $5$ cm., $6$ cm and $7$ cm. construct a similar triangle such that each of its side is $5/7$ of the corresponding sides of the triangle.",
       "prashna": "अथवा: $5$ सेमी., $6$ सेमी. और $7$ सेमी. भुजाओं वाले एक त्रिभुज की रचना कीजिए और एक अन्य समरूप त्रिभुज की रचना कीजिए जिसकी भुजाएं दिए हुए त्रिभुज की संगत भुजाओं की $5/7$ गुनी हो ।"
     },
@@ -57,10 +77,22 @@
   ],
   "2020": [
     {
+      "id": "long_35",
+      "type": "long_answer",
+      "chapter": "11",
+      "chapter_name": "Constructions",
+      "confidence": 0.71,
+      "raw_choice": "11. Constructions (रचनाएँ)",
+      "question": "Draw a circle of radius 3.5 cm. Draw two tangents to the circle which are perpendicular to each other.",
+      "prashna": "3.5 cm त्रिज्या का वृत्त खींचिए। इस वृत्त पर ऐसी दो स्पर्शरेखाएँ खींचिए जो परस्पर लंबवत हों।"
+    },
+    {
       "id": "long_6",
       "type": "long_answer",
       "chapter": "11",
       "chapter_name": "Constructions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Draw a triangle $ABC$ in which $AB = 5\text{cm}, BC = 6\text{cm}$ and $\\angle ABC = 60^{\\circ}$. Then construct a triangle whose sides are $\frac{3}, {4}$ times the corresponding sides of $\triangle ABC$.",
       "prashna": "एक त्रिभुज $ABC$ की रचना करें जिसमें $AB = 5\text{cm}, BC = 6\text{cm}$ तथा $\\angle ABC = 60^{\\circ}$ है। फिर, एक त्रिभुज की रचना करें जिसकी भुजाएँ $\triangle ABC$ की संगत भुजाओं की $\frac{3}, {4}$ गुनी हों।"
     }
@@ -71,6 +103,8 @@
       "type": "long_answer",
       "chapter": "11",
       "chapter_name": "Constructions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Draw a circle of radius 6 cm. Construct a pair of tangents to this circle from a point 10 cm away from its centre.",
       "prashna": "6 cm त्रिज्या का एक वृत्त खींचें। इसके केन्द्र से 10 cm दूर एक बिन्दु से इस पर स्पर्श रेखा युग्म की रचना करें।"
     },
@@ -79,6 +113,8 @@
       "type": "long_answer",
       "chapter": "11",
       "chapter_name": "Constructions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Draw a circle of radius $3$ cm. From a point $5$ cm away from its center, draw two tangents to the circle and measure their lengths.",
       "prashna": "$3$ cm त्रिज्या का एक वृत्त खींचें। वृत्त के केन्द्र से $5$ cm की दूरी पर स्थित बिन्दु से वृत्त पर दो स्पर्श रेखाएँ खींचें और उनकी लंबाइयाँ मापें।"
     }
@@ -89,6 +125,8 @@
       "type": "long_answer",
       "chapter": "11",
       "chapter_name": "Constructions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Draw a circle inside an equilateral triangle of side 5 cm which touches the sides of the triangle.",
       "prashna": "5 सेमी भुजा वाले एक समबाहु त्रिभुज के अंतर्गत एक वृत्त खींचें जो त्रिभुज की भुजाओं को स्पर्श करे।"
     },
@@ -97,6 +135,8 @@
       "type": "long_answer",
       "chapter": "11",
       "chapter_name": "Constructions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Construct a triangle $ABC$ in which $BC = 6 \text{ cm}, AB = 5 \text{ cm}$ and $\\angle ABC = 60^\\circ$; then construct a similar triangle whose sides are $\frac{3}, {4}$ times the corresponding sides of $\\Delta ABC$.",
       "prashna": "एक त्रिभुज $ABC$ की रचना करें जिसकी भुजा $BC = 6$ सेमी, $AB = 5$ सेमी एवं $\\angle ABC = 60^\\circ$, फिर एक समरूप त्रिभुज की रचना करें जिसकी भुजाएँ $\\Delta ABC$ की संगत भुजाओं की $\frac{3}, {4}$ है।"
     }
@@ -107,6 +147,8 @@
       "type": "long_answer",
       "chapter": "11",
       "chapter_name": "Constructions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Draw a right angled triangle $ABC$ in which $AB = 6\text{ cm}, BC = 8\text{ cm}$ and $\\angle B = 90^\\circ$, $D$ is the foot of perpendicular $BD$ from $B$ on $AC$. Draw circumcircle of $\\Delta BCD$ and draw a tangent from $A$ on this circle.",
       "prashna": "एक समकोण त्रिभुज $ABC$ खींचें जिसमें $AB = 6\text{ सेमी}, BC = 8\text{ सेमी}$ तथा $\\angle B = 90^\\circ$, $B$ से $AC$ पर लंब $BD$ का पाद $D$ है। $\\Delta BCD$ का परिवृत्त खींचें और $A$ से इस वृत्त पर एक स्पर्शी खींचें।"
     }
@@ -117,6 +159,8 @@
       "type": "long_answer",
       "chapter": "11",
       "chapter_name": "Constructions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Draw a circle of radius 6 cm. From a point 10 cm away from its centre, construct the pair of tangents to the circle and measure their lengths.",
       "prashna": "6 सेमी त्रिज्या का एक वृत्त खींचिए। केन्द्र से 10 सेमी दूर स्थित एक बिन्दु से वृत्त पर स्पर्श रेखा युग्म की रचना करें और उनकी लम्बाइयाँ मापें।"
     }
@@ -127,6 +171,8 @@
       "type": "long_answer",
       "chapter": "11",
       "chapter_name": "Constructions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Draw a line segment of length 7.6 cm and divide it in the ratio $5 : 8$. Measure both parts.",
       "prashna": "7.6 सेमी लंबा एक रेखाखंड खींचें और इसे $5 : 8$ के अनुपात में विभाजित करें। दोनों मापों को मापिए।"
     }
@@ -137,6 +183,8 @@
       "type": "long_answer",
       "chapter": "11",
       "chapter_name": "Constructions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Draw a triangle ABC with side BC = 6 cm, AB = 5 cm and \\angle ABC = 60^{\\circ}. Then construct a triangle whose sides are 5/7 time of the corresponding sides of the triangle ABC.",
       "prashna": "एक त्रिभुज ABC बनाएँ जिसमें BC = 6 सेमी, AB = 5 सेमी और \\angle ABC = 60^{\\circ} हों। फिर एक त्रिभुज की रचना करें, जिसकी भुजाएँ ABC की संगत भुजाओं की 5/7 गुनी है।"
     }

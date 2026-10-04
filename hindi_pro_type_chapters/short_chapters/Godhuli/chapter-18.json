@@ -1,4 +1,30 @@
 {
+  "2016": [
+    {
+      "id": "short_answer_9",
+      "type": "short_answer",
+      "section": "Godhuli",
+      "chapter": "18",
+      "chapter_name": "Janatantra ka Janm",
+      "confidence": 0.59,
+      "raw_choice": "Godhuli - 18. Janatantra ka Janm (जनतंत्र का जन्म)",
+      "instructions": "13. नेताओं के बारे में कवि की क्या राय है ? ( उत्तर 30 शब्दों में दें )",
+      "question": "नेताओं के बारे में कवि की क्या राय है ? ( उत्तर 30 शब्दों में दें )",
+      "prashna": "नेताओं के बारे में कवि की क्या राय है ? ( उत्तर 30 शब्दों में दें )"
+    },
+    {
+      "id": "short_5",
+      "type": "short_answer",
+      "section": "Godhuli",
+      "chapter": "18",
+      "chapter_name": "Janatantra ka Janm",
+      "confidence": 0.59,
+      "raw_choice": "Godhuli - 18. Janatantra ka Janm (जनतंत्र का जन्म)",
+      "instructions": "(उत्तर 30 शब्दों में दें)",
+      "question": "नेताओं के बारे में कवि की क्या राय है?",
+      "prashna": "नेताओं के बारे में कवि की क्या राय है?"
+    }
+  ],
   "2025": [
     {
       "id": "short_4",
@@ -6,6 +32,8 @@
       "section": "Godhuli",
       "chapter": "18",
       "chapter_name": "Janatantra ka Janm",
+      "confidence": 0.95,
+      "raw_choice": "",
       "instructions": "किन्हीं पाँच प्रश्नों के उत्तर दें :",
       "question": "रामधारी सिंह दिनकर की किन्हीं चार रचनाओं के नाम लिखें ।",
       "prashna": "रामधारी सिंह दिनकर की किन्हीं चार रचनाओं के नाम लिखें ।"
@@ -18,6 +46,8 @@
       "section": "Godhuli",
       "chapter": "18",
       "chapter_name": "Janatantra ka Janm",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "रामधारी सिंह 'दिनकर' को प्राप्त किन्हीं दो पुरस्कारों के नाम लिखें ।",
       "prashna": "रामधारी सिंह 'दिनकर' को प्राप्त किन्हीं दो पुरस्कारों के नाम लिखें ।",
       "instructions": "निम्नलिखित प्रश्नों में से किन्हीं पाँच के उत्तर दें : (5 × 2 = 10)"

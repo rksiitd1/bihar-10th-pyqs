@@ -1,4 +1,17 @@
 {
+  "2020": [
+    {
+      "id": "short_2",
+      "type": "short_answer",
+      "section": "Grammar",
+      "chapter": "18",
+      "chapter_name": "Translation",
+      "confidence": 0.6,
+      "raw_choice": "Grammar - 18. Translation (अनुवाद)",
+      "question": "Who is challenging the mountains?",
+      "prashna": "पहाड़ों को चुनौती कौन दे रहा है?"
+    }
+  ],
   "2022": [
     {
       "id": "short_1",
@@ -6,8 +19,21 @@
       "section": "Grammar",
       "chapter": "18",
       "chapter_name": "Translation",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What happened to the ancient civilization?",
       "prashna": "प्राचीन सभ्यता का क्या हुआ?"
+    },
+    {
+      "id": "short_7",
+      "type": "short_answer",
+      "section": "Grammar",
+      "chapter": "18",
+      "chapter_name": "Translation",
+      "confidence": 0.53,
+      "raw_choice": "Grammar - 18. Translation (अनुवाद)",
+      "question": "Who is the proud conqueror of nature?",
+      "prashna": "प्रकृति का गर्वित विजेता कौन है?"
     }
   ],
   "2024": [
@@ -17,17 +43,32 @@
       "section": "Grammar",
       "chapter": "18",
       "chapter_name": "Translation",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What wakes thousand memories in heart?",
       "prashna": "दिल में हज़ारों यादें क्या जगाती हैं?"
     }
   ],
   "2025": [
     {
+      "id": "short_5",
+      "type": "short_answer",
+      "section": "Grammar",
+      "chapter": "18",
+      "chapter_name": "Translation",
+      "confidence": 0.72,
+      "raw_choice": "Grammar - 18. Translation (अनुवाद)",
+      "question": "Who is challenging the mountains?",
+      "prashna": "पहाड़ों को कौन चुनौती दे रहा है?"
+    },
+    {
       "id": "short_8",
       "type": "short_answer",
       "section": "Grammar",
       "chapter": "18",
       "chapter_name": "Translation",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What happens to the shades of mangoes?",
       "prashna": "आम की छाया को क्या होता है?"
     }

@@ -1,36 +1,12 @@
 {
-  "2016": [
-    {
-      "id": "long_47_2",
-      "type": "long_answer",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "Draw a circle inside an equilateral triangle of sides $5$ cm which touches the sides of the triangle.",
-      "prashna": "$5$ सेमी भुजा वाले एक समबाहु त्रिभुज के अन्तर्गत एक वृत्त खींचें जो त्रिभुज की भुजाओं को स्पर्श करे।"
-    }
-  ],
   "2018": [
-    {
-      "id": "long_1_2",
-      "type": "long_answer",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "Answer following sub-questions.",
-      "prashna": "निम्न अनुप्रश्नों के उत्तर दें।",
-      "sub_questions": {
-        "i": "Solve the pair of linear equations $px + qy = p - q$ and $qx - py = p + q$ for $x$ and $y$.",
-        "ii": "Find values of $a$ and $b$ for which the system of linear equations has infinite number of solution $(a + b)x - 2by = (5a + 2b + 1)$ and $3x - y = 14$"
-      },
-      "anuprashna": {
-        "i": "रैखीय समीकरण युग्म $px + qy = p - q$ तथा $qx - py = p + q$ को $x$ तथा $y$ के लिए हल करें।",
-        "ii": "रैखीय समीकरण युग्म $(a + b)x - 2by = (5a + 2b + 1)$ और $3x - y = 14$ के अनगिनत हल के लिए $a$ तथा $b$ का मान निर्धारित करें।"
-      }
-    },
     {
       "id": "long_3_1",
       "type": "long_answer",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.42,
+      "raw_choice": "1. Real Numbers (वास्तविक संख्याएँ)",
       "question": "Prove that -",
       "prashna": "सिद्ध करें -",
       "sub_questions": {
@@ -43,22 +19,14 @@
       }
     }
   ],
-  "2020": [
-    {
-      "id": "long_35",
-      "type": "long_answer",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "Draw a circle of radius 3.5 cm. Draw two tangents to the circle which are perpendicular to each other.",
-      "prashna": "3.5 cm त्रिज्या का वृत्त खींचिए। इस वृत्त पर ऐसी दो स्पर्शरेखाएँ खींचिए जो परस्पर लंबवत हों।"
-    }
-  ],
   "2025": [
     {
       "id": "long_3",
       "type": "long_answer",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.49,
+      "raw_choice": "4. Quadratic Equations (द्विघात समीकरण)",
       "question": "A two digit number is four times of the sum of its digits and twice the product of its digits. Find the number.",
       "prashna": "दो अंकों की एक संख्या अपने अंकों के जोड़ की चार गुनी है एवं अपने अंकों के गुणनफल की दुगुनी है तो संख्या ज्ञात करें।"
     }

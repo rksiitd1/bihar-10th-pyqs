@@ -5,6 +5,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The ratio of the number of atoms of hydrogen and oxygen in water is",
       "prashna": "जल में हाइड्रोजन तथा ऑक्सीजन की परमाणु संख्याओं का अनुपात है",
       "options": {
@@ -27,6 +29,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is not an oxidation reaction?",
       "prashna": "निम्न में कौन ऑक्सीकरण की क्रिया नहीं है?",
       "options": {
@@ -43,10 +47,34 @@
       }
     },
     {
+      "id": "obj_68",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.58,
+      "raw_choice": "1. Chemical Reactions and Equations (रासायनिक अभिक्रियाएं एवं समीकरण)",
+      "question": "The ratio of nitrogen and hydrogen atoms in an ammonia molecule is",
+      "prashna": "अमोनिया के अणु में नाइट्रोजन एवं हाइड्रोजन के परमाणुओं की संख्या का अनुपात है।",
+      "options": {
+        "A": "3:1",
+        "B": "2:1",
+        "C": "1:2",
+        "D": "1:3"
+      },
+      "vikalpa": {
+        "A": "3:1",
+        "B": "2:1",
+        "C": "1:2",
+        "D": "1:3"
+      }
+    },
+    {
       "id": "obj_8",
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following products is obtained on heating Lead Nitrate?",
       "prashna": "निम्नलिखित में से कौन-सा उत्पाद लेड नाइट्रेट को गर्म करने पर प्राप्त होता है?",
       "options": {
@@ -61,6 +89,28 @@
         "C": "$NO_2$ और $N_2$",
         "D": "$NO_2$ और $O_2$"
       }
+    },
+    {
+      "id": "obj_18",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.61,
+      "raw_choice": "1. Chemical Reactions and Equations (रासायनिक अभिक्रियाएं एवं समीकरण)",
+      "question": "What type of reaction is the digestion of food?",
+      "prashna": "भोजन का पचना किस प्रकार की अभिक्रिया है?",
+      "options": {
+        "A": "Oxidation (Upchayan)",
+        "B": "Combination",
+        "C": "Reduction (Apchayan)",
+        "D": "Displacement"
+      },
+      "vikalpa": {
+        "A": "उपचयन",
+        "B": "संयोजन",
+        "C": "अपचयन",
+        "D": "विस्थापन"
+      }
     }
   ],
   "2015": [
@@ -69,6 +119,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is reducing agent?",
       "prashna": "निम्न में से कौन अवकारक है ?",
       "options": {
@@ -89,6 +141,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is not a reducing agent?",
       "prashna": "निम्न में से कौन अकारक नहीं है?",
       "options": {
@@ -111,6 +165,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "$CuO + H_2 \rightarrow Cu + H_2O$ is what type of reaction ?",
       "prashna": "$CuO + H_2 \rightarrow Cu + H_2O$ किस प्रकार की अभिक्रिया है ?",
       "options": {
@@ -153,6 +209,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The above chemical equation $Na_2SO_4(aq) + BaCl_2(aq) \rightarrow BaSO_4(S) + 2 NaCl(aq)$ is -",
       "prashna": "$Na_2SO_4(aq) + BaCl_2(aq) \rightarrow BaSO_4(S) + 2 NaCl(aq)$ उपर्युक्त रासायनिक अभिक्रिया है -",
       "options": {
@@ -173,6 +231,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "$Zn + CuSO_4 \rightarrow ZnSO_4 + Cu$\nThe above reaction is an example of a -",
       "prashna": "$Zn + CuSO_4 \rightarrow ZnSO_4 + Cu$\nऊपर दी गयी रासायनिक अभिक्रिया किस प्रकार की है?",
       "options": {
@@ -193,6 +253,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "When Magnesium ribbon is ignited, the flame produced by it is -",
       "prashna": "जब मैग्नीशियम फीता को जलाया जाता है, तो उत्पन्न आग की लौ होती है -",
       "options": {
@@ -215,6 +277,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The loss of oxygen from a substance during chemical reaction is called -",
       "prashna": "रासायनिक अभिक्रिया के दौरान किसी पदार्थ में ऑक्सीजन का ह्रास कहलाता है -",
       "options": {
@@ -235,6 +299,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The gain of oxygen by a substance during chemical reaction is called -",
       "prashna": "रासायनिक अभिक्रिया के दौरान किसी पदार्थ में ऑक्सीजन का योग कहलाता है?",
       "options": {
@@ -257,6 +323,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "If a substance gains oxygen during a reaction, then it is known as which of the following?",
       "prashna": "जब किसी अभिक्रिया के समय किसी पदार्थ में ऑक्सीजन की वृद्धि होती है, तो निम्नलिखित में से क्या कहा जाता है ?",
       "options": {
@@ -277,6 +345,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The substance which takes part in chemical reaction is called",
       "prashna": "रासायनिक अभिक्रिया में भाग लेने वाले पदार्थ को कहा जाता है",
       "options": {
@@ -297,6 +367,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Equation $2H_2 + O_2 \to 2H_2O$ is a",
       "prashna": "समीकरण $2H_2 + O_2 \to 2H_2O$ है एक",
       "options": {
@@ -319,6 +391,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is not an oxidation reaction?",
       "prashna": "निम्न में कौन ऑक्सीकरण की क्रिया नहीं है?",
       "options": {
@@ -335,10 +409,34 @@
       }
     },
     {
+      "id": "obj_68",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.6,
+      "raw_choice": "1. Chemical Reactions and Equations (रासायनिक अभिक्रियाएं एवं समीकरण)",
+      "question": "The ratio of numbers of Nitrogen and Hydrogen atoms in a molecule of Ammonia is",
+      "prashna": "अमोनिया के अणु में नाइट्रोजन एवं हाइड्रोजन के परमाणुओं की संख्या का अनुपात है।",
+      "options": {
+        "A": "3:1",
+        "B": "2:1",
+        "C": "1:2",
+        "D": "1:3"
+      },
+      "vikalpa": {
+        "A": "3:1",
+        "B": "2:1",
+        "C": "1:2",
+        "D": "1:3"
+      }
+    },
+    {
       "id": "obj_60",
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is an example of a displacement reaction?",
       "prashna": "निम्न में से कौन विस्थापन अभिक्रिया का एक उदाहरण है?",
       "options": {
@@ -359,6 +457,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The color of silver chloride is",
       "prashna": "सिल्वर क्लोराइड का रंग होता है",
       "options": {
@@ -381,6 +481,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The reaction, $CaO + H_2O \rightarrow Ca(OH)_2$ is of which type ?",
       "prashna": "अभिक्रिया, $CaO + H_2O \rightarrow Ca(OH)_2$ किस प्रकार की अभिक्रिया है ?",
       "options": {
@@ -401,6 +503,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is the ratio of number of atoms of hydrogen and oxygen in a molecule water ?",
       "prashna": "जल के एक अणु में हाइड्रोजन एवं ऑक्सीजन के परमाणुओं की संख्या का अनुपात क्या है ?",
       "options": {
@@ -421,6 +525,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is the colour of silver iodide ?",
       "prashna": "सिल्वर आयोडाइड का रंग कैसा होता है ?",
       "options": {
@@ -441,6 +547,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following pairs shows single displacement reaction?",
       "prashna": "ननम्नाॊककत भें कौन-सा मग्ु भ एकर विस्थाऩन अमबकक्रमा प्रदमशथत कयता है ?",
       "options": {
@@ -463,6 +571,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The reaction in which ions are exchanged is called",
       "prashna": "अभिक्रिया, जिसमें आयनों का आदान-प्रदान होता है, कहलाती है",
       "options": {
@@ -483,6 +593,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following equations is not balanced?",
       "prashna": "निम्नलिखित में से कौन समीकरण संतुलित नहीं है?",
       "options": {
@@ -503,6 +615,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which one of the following reactions occurs in the formation of curd from milk?",
       "prashna": "दूध से दही बनने में निम्नाकिंत में से कौन-सी अभिक्रिया होती है ?",
       "options": {
@@ -523,6 +637,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "$Fe_2O_3 + 2Al \rightarrow Al_2O_3 + 2Fe$ is which of the following types reaction?",
       "prashna": "$Fe_2O_3 + 2Al \rightarrow Al_2O_3 + 2Fe$ निम्नलिखित में से किस प्रकार की अभिक्रिया है।",
       "options": {
@@ -545,6 +661,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "$Zn + CuSO_4 \rightarrow ZnSO_4 + Cu$. The above reaction is an example of a",
       "prashna": "$Zn + CuSO_4 \rightarrow ZnSO_4 + Cu$. ऊपर दी गयी रासायनिक अभिक्रिया किस प्रकार की है ?",
       "options": {
@@ -565,6 +683,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "When magnesium ribbon is ignited, the flame produced by it is",
       "prashna": "जब मैग्नीशियम फीता को जलाया जाता है, तो उत्पन्न आग की लौ होती है",
       "options": {
@@ -585,6 +705,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is the colour of silver iodide?",
       "prashna": "सिल्वर आयोडाइड का रंग कैसा होता है ?",
       "options": {
@@ -605,6 +727,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "$CaCO_3(s) \rightarrow CaO(s) + CO_2(g)$ is what type of reaction?",
       "prashna": "$CaCO_3(s) \rightarrow CaO(s) + CO_2(g)$ किस प्रकार की अभिक्रिया है ?",
       "options": {
@@ -625,6 +749,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following equations is balanced?",
       "prashna": "निम्नांकित में कौन समीकरण संतुलित है ?",
       "options": {
@@ -647,6 +773,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following reactions is an example of decomposition reaction?",
       "prashna": "निम्नलिखित अभिक्रियाओं में से कौन अपघटन की अभिक्रिया का एक उदाहरण है ?",
       "options": {
@@ -667,6 +795,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The substances that take part in a reaction are called",
       "prashna": "किसी अभिक्रिया में भाग लेनेवाले पदार्थ कहलाते हैं",
       "options": {
@@ -687,6 +817,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The reaction, in which heat is also generated along with the formation of product, is called",
       "prashna": "वह अभिक्रिया जिसमें उत्पाद के बनने के साथ-साथ ऊष्मा भी उत्पन्न होती है, कहलाती है",
       "options": {
@@ -707,6 +839,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Oxidation is a reaction in which there is",
       "prashna": "उपचयन वह अभिक्रिया है, जिसमें होता है",
       "options": {
@@ -721,6 +855,28 @@
         "C": "ऑक्सीजन का संकलन",
         "D": "इनमें से सभी"
       }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "chapter": "1",
+      "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.65,
+      "raw_choice": "1. Chemical Reactions and Equations (रासायनिक अभिक्रियाएं एवं समीकरण)",
+      "question": "The ratio of nitrogen and hydrogen atoms in one molecule of ammonia is",
+      "prashna": "अमोनिया के एक अणु में नाइट्रोजन एवं हाइड्रोजन के परमाणुओं का अनुपात होता है",
+      "options": {
+        "A": "1 : 3",
+        "B": "3 : 1",
+        "C": "1 : 2",
+        "D": "2 : 1"
+      },
+      "vikalpa": {
+        "A": "1 : 3",
+        "B": "3 : 1",
+        "C": "1 : 2",
+        "D": "2 : 1"
+      }
     }
   ],
   "2026": [
@@ -729,6 +885,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The reaction in which heat is evolved along with the formation of products is called",
       "prashna": "वह अभिक्रिया जिसमें उत्पाद के बनने के साथ-साथ ऊष्मा भी उत्पन्न होती है, कहलाती है",
       "options": {
@@ -749,6 +907,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The reaction $2Cu + O_2 \\longrightarrow 2CuO$ is which type of chemical reaction ?",
       "prashna": "अभिक्रिया $2Cu + O_2 \\longrightarrow 2CuO$ किस प्रकार की रासायनिक अभिक्रिया है ?",
       "options": {
@@ -769,6 +929,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is an oxidant ?",
       "prashna": "निम्नांकित में कौन-सा उपचायक है ?",
       "options": {
@@ -789,6 +951,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "In electrolysis, electrons are liberated at",
       "prashna": "वैद्युत अपघटन में इलेक्ट्रॉन मुक्त होता है",
       "options": {
@@ -809,6 +973,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The chemical reaction, $Na_2SO_4(aq) + BaCl_2(aq) \\longrightarrow BaSO_4(s) + 2NaCl(aq)$ is of which type ?",
       "prashna": "रासायनिक अभिक्रिया, $Na_2SO_4(aq) + BaCl_2(aq) \\longrightarrow BaSO_4(s) + 2NaCl(aq)$ किस प्रकार की है ?",
       "options": {
@@ -829,6 +995,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The addition of oxygen to a substance during a chemical reaction is called",
       "prashna": "रासायनिक अभिक्रिया के दौरान किसी पदार्थ में ऑक्सीजन का योग कहलाता है",
       "options": {
@@ -849,6 +1017,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The ratio of numbers of atoms of hydrogen and oxygen in water is",
       "prashna": "जल में हाइड्रोजन तथा ऑक्सीजन की परमाणुओं की संख्याओं का अनुपात है",
       "options": {
@@ -869,6 +1039,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following reactions takes place in the conversion of milk into curd ?",
       "prashna": "दूध से दही बनने में निम्नांकित में कौन-सी अभिक्रिया होती है ?",
       "options": {
@@ -889,6 +1061,8 @@
       "type": "objective",
       "chapter": "1",
       "chapter_name": "Chemical Reactions and Equations",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Electrons are released in electrolysis at the",
       "prashna": "विद्युत अपघटन में इलेक्ट्रॉन मुक्त होता है",
       "options": {

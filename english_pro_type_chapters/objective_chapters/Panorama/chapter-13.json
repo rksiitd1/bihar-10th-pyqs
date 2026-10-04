@@ -6,6 +6,8 @@
       "section": "Panorama",
       "chapter": "13",
       "chapter_name": "The Empty Heart",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "There was a ............ which had the power to grant wishes.",
       "prashna": "वहाँ एक ............ था जिसमें मनोकामनाएं पूरी करने की शक्ति थी।",
       "options": {
@@ -20,6 +22,29 @@
         "C": "पेड़",
         "D": "मंदिर"
       }
+    },
+    {
+      "id": "obj_21",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "13",
+      "chapter_name": "The Empty Heart",
+      "confidence": 0.63,
+      "raw_choice": "Panorama - 13. The Empty Heart (रिक्त हृदय)",
+      "question": "Greed is ............, but life is not.",
+      "prashna": "लालच ............ है, लेकिन जीवन नहीं है।",
+      "options": {
+        "A": "worthy",
+        "B": "bad",
+        "C": "good",
+        "D": "endless"
+      },
+      "vikalpa": {
+        "A": "योग्य",
+        "B": "बुरा",
+        "C": "अच्छा",
+        "D": "अनंत"
+      }
     }
   ],
   "2019": [
@@ -29,6 +54,8 @@
       "section": "Panorama",
       "chapter": "13",
       "chapter_name": "The Empty Heart",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "In the poem 'The Empty Heart,' the prayer was granted -",
       "prashna": "'द एम्प्टी हार्ट' कविता में प्रार्थना स्वीकार की गई -",
       "options": {
@@ -50,6 +77,8 @@
       "section": "Panorama",
       "chapter": "13",
       "chapter_name": "The Empty Heart",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "In the poem 'The Empty Heart,' the prayer was granted -",
       "prashna": "'द एम्प्टी हार्ट' कविता में, प्रार्थना स्वीकार कर ली गई थी -",
       "options": {
@@ -73,6 +102,8 @@
       "section": "Panorama",
       "chapter": "13",
       "chapter_name": "The Empty Heart",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Who has written the poem, 'The Empty Heart'?",
       "prashna": "'द एम्प्टी हार्ट' कविता किसने लिखी है?",
       "options": {
@@ -96,6 +127,8 @@
       "section": "Panorama",
       "chapter": "13",
       "chapter_name": "The Empty Heart",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What did the pitchers contain?",
       "prashna": "घड़ों में क्या था?",
       "options": {
@@ -117,6 +150,8 @@
       "section": "Panorama",
       "chapter": "13",
       "chapter_name": "The Empty Heart",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "‘The demon Desire now made him mad' is from",
       "prashna": "'द डेमन डिजायर नाउ मेड हिम मैड' कहाँ से लिया गया है?",
       "options": {
@@ -138,6 +173,8 @@
       "section": "Panorama",
       "chapter": "13",
       "chapter_name": "The Empty Heart",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The poem \"The Empty Heart\" highlights man's insatiable",
       "prashna": "कविता \"द एम्प्टी हार्ट\" मनुष्य की अतृप्त ............ को उजागर करती है।",
       "options": {
@@ -154,11 +191,36 @@
       }
     },
     {
+      "id": "obj_40",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "13",
+      "chapter_name": "The Empty Heart",
+      "confidence": 0.69,
+      "raw_choice": "Panorama - 13. The Empty Heart (रिक्त हृदय)",
+      "question": "Greed is……….but life is not.",
+      "prashna": "लालच ………….. है लेकिन जीवन नहीं।",
+      "options": {
+        "A": "worthy",
+        "B": "bad",
+        "C": "good",
+        "D": "endless"
+      },
+      "vikalpa": {
+        "A": "योग्य",
+        "B": "बुरा",
+        "C": "अच्छा",
+        "D": "अंतहीन"
+      }
+    },
+    {
       "id": "obj_44",
       "type": "objective",
       "section": "Panorama",
       "chapter": "13",
       "chapter_name": "The Empty Heart",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "‘The seven full vessels he clean forgot', is from",
       "prashna": "‘सात भरे हुए बर्तन वह पूरी तरह भूल गया', यह कहाँ से है?",
       "options": {
@@ -180,6 +242,8 @@
       "section": "Panorama",
       "chapter": "13",
       "chapter_name": "The Empty Heart",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'Greed is endless, but life is not'-is from",
       "prashna": "'लालच अंतहीन है, लेकिन जीवन नहीं' - यह कहाँ से है?",
       "options": {
@@ -203,6 +267,8 @@
       "section": "Panorama",
       "chapter": "13",
       "chapter_name": "The Empty Heart",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The ... Desire now made him mad.",
       "options": {
         "A": "godly",
@@ -224,6 +290,8 @@
       "section": "Panorama",
       "chapter": "13",
       "chapter_name": "The Empty Heart",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'Greed is endless, but life is not' — is from",
       "options": {
         "A": "The Empty Heart",
@@ -245,6 +313,8 @@
       "section": "Panorama",
       "chapter": "13",
       "chapter_name": "The Empty Heart",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "‘And tried all tricks to gather gold’ is from",
       "prashna": "‘And tried all tricks to gather gold’ (और सोना इकट्ठा करने की सारी तरकीबें आजमाईं) किससे है?",
       "options": {
@@ -266,6 +336,8 @@
       "section": "Panorama",
       "chapter": "13",
       "chapter_name": "The Empty Heart",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Periasami is famous as the editor of",
       "prashna": "पेरियासामी किसके संपादक के रूप में प्रसिद्ध हैं?",
       "options": {
@@ -287,6 +359,8 @@
       "section": "Panorama",
       "chapter": "13",
       "chapter_name": "The Empty Heart",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The rich man died before he could fill the ............... pitcher with gold.",
       "prashna": "अमीर आदमी ............... घड़े को सोने से भरने से पहले ही मर गया।",
       "options": {
@@ -310,6 +384,8 @@
       "section": "Panorama",
       "chapter": "13",
       "chapter_name": "The Empty Heart",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "\"The Empty Heart\" highlights man's insatiable………………",
       "prashna": "\"The Empty Heart\" मनुष्य की अतृप्त .............. पर प्रकाश डालता है।",
       "options": {
@@ -331,6 +407,8 @@
       "section": "Panorama",
       "chapter": "13",
       "chapter_name": "The Empty Heart",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "To gather gold, the rich man tried all…………",
       "prashna": "सोना इकट्ठा करने के लिए अमीर आदमी ने सभी .............. आजमाए।",
       "options": {
@@ -354,6 +432,8 @@
       "section": "Panorama",
       "chapter": "13",
       "chapter_name": "The Empty Heart",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'Puvin Sirippu' is a collection of ... by Periasamy Thooran.",
       "prashna": "'पुवीन सिरिप्पु' पेरियासामी थूरन द्वारा ... का संग्रह है।",
       "options": {
@@ -375,6 +455,8 @@
       "section": "Panorama",
       "chapter": "13",
       "chapter_name": "The Empty Heart",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The rich man died before he could ... the eighth pot.",
       "prashna": "अमीर आदमी ___ से पहले मर गया कि वह आठवें घड़े को ___ सका।",
       "options": {
@@ -396,6 +478,8 @@
       "section": "Panorama",
       "chapter": "13",
       "chapter_name": "The Empty Heart",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": ".................... pitchers of gold were given to the rich man by the Wish-Yielding Tree.",
       "prashna": "इच्छा पूर्ति करने वाले वृक्ष ने अमीर आदमी को .................... सोने के घड़े दिए।",
       "options": {
@@ -417,6 +501,8 @@
       "section": "Panorama",
       "chapter": "13",
       "chapter_name": "The Empty Heart",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "\"The demon desire now made him mad\" — is from",
       "prashna": "\"राक्षस इच्छा ने अब उसे पागल बना दिया\" — यह किससे लिया गया है?",
       "options": {
@@ -438,6 +524,8 @@
       "section": "Panorama",
       "chapter": "13",
       "chapter_name": "The Empty Heart",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The rich man prayed continuously to the",
       "prashna": "अमीर आदमी लगातार .................... से प्रार्थना करता रहा।",
       "options": {
@@ -456,11 +544,36 @@
   ],
   "2025": [
     {
+      "id": "obj_17",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "13",
+      "chapter_name": "The Empty Heart",
+      "confidence": 0.93,
+      "raw_choice": "Panorama - 13. The Empty Heart (रिक्त हृदय)",
+      "question": "____ made the rich man mad.",
+      "prashna": "____ ने अमीर आदमी को पागल कर दिया।",
+      "options": {
+        "A": "Passion",
+        "B": "Desire",
+        "C": "Lust",
+        "D": "Love"
+      },
+      "vikalpa": {
+        "A": "जुनून",
+        "B": "इच्छा",
+        "C": "वासना",
+        "D": "प्रेम"
+      }
+    },
+    {
       "id": "obj_43",
       "type": "objective",
       "section": "Panorama",
       "chapter": "13",
       "chapter_name": "The Empty Heart",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "‘O Kalpaka’, I seek your aid ; All I want is a pot of gold! is from __.",
       "prashna": "'ओ कल्पक', मैं तुम्हारी सहायता चाहता हूँ; मुझे बस एक सोने का घड़ा चाहिए! यह पंक्तियाँ कहाँ से हैं?",
       "options": {
@@ -482,6 +595,8 @@
       "section": "Panorama",
       "chapter": "13",
       "chapter_name": "The Empty Heart",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "There were ‘ ______ silver pitchers’",
       "prashna": "वहां ' ______ चांदी के घड़े' थे।",
       "options": {
@@ -503,6 +618,8 @@
       "section": "Panorama",
       "chapter": "13",
       "chapter_name": "The Empty Heart",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Seven silver pots filled with ............... gold coins were given to the rich man.",
       "prashna": "अमीर आदमी को ............... सोने के सिक्कों से भरे सात चांदी के बर्तन दिए गए।",
       "options": {
@@ -526,6 +643,8 @@
       "section": "Panorama",
       "chapter": "13",
       "chapter_name": "The Empty Heart",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The rich man ruined himself due to his",
       "prashna": "अमीर आदमी ने अपनी किस चीज़ के कारण खुद को बर्बाद कर लिया?",
       "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
@@ -548,6 +667,8 @@
       "section": "Panorama",
       "chapter": "13",
       "chapter_name": "The Empty Heart",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The rich man prayed for one pot of",
       "prashna": "अमीर आदमी ने किस चीज़ के एक घड़े के लिए प्रार्थना की?",
       "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
@@ -570,6 +691,8 @@
       "section": "Panorama",
       "chapter": "13",
       "chapter_name": "The Empty Heart",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Greed destroyed the rich man's",
       "prashna": "लालच ने अमीर आदमी के ............... को नष्ट कर दिया।",
       "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
@@ -592,6 +715,8 @@
       "section": "Panorama",
       "chapter": "13",
       "chapter_name": "The Empty Heart",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Periasamy successfully handled the ............... and sonnets.",
       "prashna": "पेरियासामी ने ............... और सॉनेट को सफलतापूर्वक संभाला।",
       "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
@@ -614,6 +739,8 @@
       "section": "Panorama",
       "chapter": "13",
       "chapter_name": "The Empty Heart",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "‘Greed is endless, but life is not’ — is from",
       "prashna": "‘Greed is endless, but life is not’ — यह पंक्ति किस रचना से है?",
       "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
@@ -636,6 +763,8 @@
       "section": "Panorama",
       "chapter": "13",
       "chapter_name": "The Empty Heart",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What did the man demand from the tree ?",
       "prashna": "उस आदमी ने कल्पवृक्ष से क्या माँगा?",
       "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
@@ -658,6 +787,8 @@
       "section": "Panorama",
       "chapter": "13",
       "chapter_name": "The Empty Heart",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The pitchers were made of",
       "prashna": "घड़े किस धातु के बने थे?",
       "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
@@ -680,6 +811,8 @@
       "section": "Panorama",
       "chapter": "13",
       "chapter_name": "The Empty Heart",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The rich man died before he could ............... the eighth pot.",
       "prashna": "अमीर आदमी आठवें घड़े को ............... करने से पहले ही मर गया।",
       "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",

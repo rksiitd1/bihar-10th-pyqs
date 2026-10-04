@@ -1,11 +1,85 @@
 {
   "2019": [
     {
+      "id": "obj_30",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "10",
+      "chapter_name": "Sentence Correction and Transformation",
+      "confidence": 0.58,
+      "raw_choice": "Vyakaran - 10. Sentence Correction and Transformation (वाक्य-शुद्धि एवं परिवर्तन)",
+      "question": "Naveen says to me, \"I am your friend.\"",
+      "prashna": "Naveen says to me, \"I am your friend.\"",
+      "instructions": "Direction (34 - 36) - Choose the indirect speech of the given sentences :",
+      "options": {
+        "A": "Naveen says to me that I am his friend.",
+        "B": "Naveen tells me that he is my friend.",
+        "C": "Naveen says to me that he was my friend.",
+        "D": "Naveen says to me that I am your friend."
+      },
+      "vikalpa": {
+        "A": "Naveen says to me that I am his friend.",
+        "B": "Naveen tells me that he is my friend.",
+        "C": "Naveen says to me that he was my friend.",
+        "D": "Naveen says to me that I am your friend."
+      }
+    },
+    {
+      "id": "obj_31",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "10",
+      "chapter_name": "Sentence Correction and Transformation",
+      "confidence": 0.52,
+      "raw_choice": "Vyakaran - 10. Sentence Correction and Transformation (वाक्य-शुद्धि एवं परिवर्तन)",
+      "question": "I said to her, \"I am a good player.\"",
+      "prashna": "I said to her, \"I am a good player.\"",
+      "instructions": "Direction (34 - 36) - Choose the indirect speech of the given sentences :",
+      "options": {
+        "A": "I said to her that I am a good player.",
+        "B": "I told her that I am a good player.",
+        "C": "I said to her that I had been a good player.",
+        "D": "I told her that I was a good player."
+      },
+      "vikalpa": {
+        "A": "I said to her that I am a good player.",
+        "B": "I told her that I am a good player.",
+        "C": "I said to her that I had been a good player.",
+        "D": "I told her that I was a good player."
+      }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "10",
+      "chapter_name": "Sentence Correction and Transformation",
+      "confidence": 0.5,
+      "raw_choice": "Vyakaran - 10. Sentence Correction and Transformation (वाक्य-शुद्धि एवं परिवर्तन)",
+      "question": "Early to bed and early to rise ...... a man healthy, wealthy and wise",
+      "prashna": "Early to bed and early to rise ...... a man healthy, wealthy and wise",
+      "instructions": "Direction (37 - 39) - Choose the correct form of verb :",
+      "options": {
+        "A": "make",
+        "B": "made",
+        "C": "makes",
+        "D": "making"
+      },
+      "vikalpa": {
+        "A": "make",
+        "B": "made",
+        "C": "makes",
+        "D": "making"
+      }
+    },
+    {
       "id": "obj_34",
       "type": "objective",
       "section": "Vyakaran",
       "chapter": "10",
       "chapter_name": "Sentence Correction and Transformation",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Neither food nor water ............ given.",
       "prashna": "Neither food nor water ............ given.",
       "instructions": "Direction (37 - 39) - Choose the correct form of verb :",

@@ -1,11 +1,37 @@
 {
   "2014": [
     {
+      "id": "passage_1",
+      "type": "passage",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.52,
+      "raw_choice": "Panorama - 2. Me and the Ecology Bit (मैं और पारिस्थितिकी का अंश)",
+      "question": "Read the following passage carefully and answer the questions given below in your own words:",
+      "prashna": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और नीचे दिए गए प्रश्नों के उत्तर अपने शब्दों में दें:",
+      "context": "The water of river Yamuna in Delhi has become lifeless, The river's water quality is most polluted and has received 'E' grade. This is the lowest grade which indicates the severity of pollution in water. Some fifty years ago the water of the Yamuna was clear and clean.\nMany water plants such as weeds, algae and shrubs grew in the water or along the bank of the river. These plants were the main source of food for aquatic creature. A number of water birds could be seen along the river. With the onset of winter thousands of migratory birds would come here to feed in the Yamuna water. Sadly these water species and birds have vanished or died. What one finds now are red worms, called Chironomids which live in the most unhygienic and polluted water.",
+      "sub_questions": {
+        "1": "Why did the birds migrate to the Yamuna water during winter season.",
+        "2": "What indicates the rich quality of Yamuna water in the past?",
+        "3": "Which word in the passage mean 'disappear'.",
+        "4": "How are the Chironomids different from other birds."
+      },
+      "anuprashna": {
+        "1": "सर्दियों के मौसम में पक्षी यमुना के जल में क्यों प्रवास करते थे?",
+        "2": "अतीत में यमुना के जल की समृद्ध गुणवत्ता क्या दर्शाती है?",
+        "3": "गद्यांश में किस शब्द का अर्थ 'गायब होना' (disappear) है?",
+        "4": "किरोनोमिड्स (Chironomids) अन्य पक्षियों से किस प्रकार भिन्न हैं?"
+      }
+    },
+    {
       "id": "long_answer_1_1",
       "type": "long_answer",
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "\"But any how on Saturday when I collect, I put in a good word an ecology. This is the narrator's way of preserving ecology. How are you contributing to ecological preservation in your surroundings?\"",
       "prashna": "\"लेकिन किसी तरह शनिवार को जब मैं (चंदा) इकट्ठा करता हूँ, तो मैं पारिस्थितिकी (ecology) के बारे में अच्छी बातें कहता हूँ। यह कथावाचक का पारिस्थितिकी को संरक्षित करने का तरीका है। आप अपने परिवेश में पारिस्थितिक संरक्षण में कैसे योगदान दे रहे हैं?\""
     }
@@ -17,6 +43,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Answer any one of the following in about 80 words: i) Did the narrator enjoy talking about Ecology? ii) Mention one feature which Indian Films need. iii) What form of Electricity did the narrator use?",
       "prashna": "निम्नलिखित में से किसी एक प्रश्न का लगभग 80 शब्दों में उत्तर दें: i) क्या वर्णनकर्ता को पारिस्थितिकी के बारे में बात करना पसंद था? ii) भारतीय फिल्मों को क्या एक विशेषता की आवश्यकता है? iii) वर्णनकर्ता ने विद्युत का कौन सा रूप इस्तेमाल किया?"
     }
@@ -28,6 +56,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Jim asked Mr. Greene to keep the old newspapers for the school-going children who............ them?",
       "prashna": "जिम ने मिस्टर ग्रीन से पुराने अखबारों को स्कूल जाने वाले बच्चों के लिए रखने के लिए कहा, जो उन्हें ......... करते थे?",
       "options": {
@@ -49,6 +79,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Jim told Mr. Johnson that it would reduce........... and save ecology if he did not use his car for travelling to short distances",
       "prashna": "जिम ने मिस्टर जॉनसन से कहा कि यदि वह कम दूरी की यात्रा के लिए अपनी कार का उपयोग नहीं करते हैं तो इससे ........... कम होगा और पारिस्थितिकी बचेगी।",
       "options": {
@@ -70,6 +102,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "In \"Me and the Ecology Bit\", the narrator talks about how he advises everybody what they should do to protect the ............",
       "prashna": "\"Me and the Ecology Bit\" में, वर्णनकर्ता बताते हैं कि वह हर किसी को ............ की रक्षा के लिए क्या करना चाहिए, यह सलाह देते हैं।",
       "options": {
@@ -91,6 +125,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The narrator told Mr. Williams not to burn leaves as it is ............ for the air and ecology.",
       "prashna": "वर्णनकर्ता ने श्री विलियम्स को पत्तियाँ न जलाने के लिए कहा क्योंकि यह हवा और पर्यावरण के लिए ............ है।",
       "options": {
@@ -112,6 +148,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What advice does Jim give to his mother? What does she reply?",
       "prashna": "जिम अपनी माँ को क्या सलाह देता है? वह क्या जवाब देती है?"
     }
@@ -123,6 +161,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "In 'Me and the Ecology Bit', the post office was......... from Mr. Johnson's house.",
       "prashna": "'मी एंड द इकोलॉजी बिट' में, पोस्ट ऑफिस मिस्टर जॉनसन के घर से ......... था।",
       "options": {
@@ -144,6 +184,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'Me and the Ecology Bit' is all about -",
       "prashna": "'मी एंड द इकोलॉजी बिट' किसके बारे में है -",
       "options": {
@@ -165,6 +207,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "In 'Me and the Ecology Bit', the post office was......... from Mr. Johnson’s house.",
       "prashna": "'मी एंड द इकोलॉजी बिट' में, पोस्ट ऑफिस श्री जॉनसन के घर से ......... था।",
       "options": {
@@ -186,6 +230,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'Me and the Ecology Bit' is all about -",
       "prashna": "'मी एंड द इकोलॉजी बिट' किसके बारे में है? -",
       "options": {
@@ -209,6 +255,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "According to Jim, who uses electric appliances the most?",
       "prashna": "जिम के अनुसार, बिजली के उपकरणों का सबसे अधिक उपयोग कौन करता है?",
       "options": {
@@ -230,6 +278,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "According to Jim, nobody wants to do anything about",
       "prashna": "जिम के अनुसार, कोई भी किसके बारे में कुछ नहीं करना चाहता?",
       "options": {
@@ -251,6 +301,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "\"Nobody's willing to do anything about ecology\" is said by",
       "prashna": "\"पारिस्थितिकी के बारे में कोई कुछ भी करने को तैयार नहीं है\" किसके द्वारा कहा गया है?",
       "options": {
@@ -272,6 +324,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Who has written 'Me and the Ecology Bit'?",
       "prashna": "'मी एंड द इकोलॉजी बिट' किसने लिखी है?",
       "options": {
@@ -293,6 +347,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Jim found Mr. William burning",
       "prashna": "जिम ने श्री विलियम को जलाते हुए देखा",
       "options": {
@@ -314,6 +370,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which animal messes up Ms. Greene's yard?",
       "prashna": "कौन सा जानवर श्रीमती ग्रीन के आँगन को गंदा कर देता है?"
     }
@@ -325,6 +383,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Jim asked Mrs. Greene to save the old newspapers for the school………",
       "prashna": "जिम ने श्रीमती ग्रीन से पुराने अखबारों को स्कूल ............ के लिए बचाने के लिए कहा।",
       "options": {
@@ -346,6 +406,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Mr. Johnson was asked to use his car less in order to save the",
       "prashna": "मिस्टर जॉनसन से ........... बचाने के लिए अपनी कार का कम उपयोग करने के लिए कहा गया था।",
       "options": {
@@ -367,6 +429,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Preaching about ecology is easy but it is difficult to abide by the rules of",
       "prashna": "पारिस्थितिकी के बारे में उपदेश देना आसान है लेकिन ............ के नियमों का पालन करना कठिन है।",
       "options": {
@@ -388,6 +452,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Jim asks Ms. Greene to save...........so that they can be made into paper.",
       "prashna": "जिम सुश्री ग्रीन से ............ बचाने के लिए कहता है ताकि उनसे कागज बनाया जा सके।",
       "options": {
@@ -409,6 +475,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Mr. Johnson tells Jim that driving his motorbike causes…………pollution.",
       "prashna": "मिस्टर जॉनसन जिम को बताते हैं कि उनकी मोटरबाइक चलाने से ............ प्रदूषण होता है।",
       "options": {
@@ -430,6 +498,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "How do modern appliances affect ecology?",
       "prashna": "आधुनिक उपकरण पारिस्थितिकी को कैसे प्रभावित करते हैं?"
     },
@@ -439,6 +509,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The narrator in 'Me and the Ecology Bit' told Mr. Williams not to burn leaves as it is…………..for the air and ecology.",
       "prashna": "'मी एंड द इकोलॉजी बिट' के कथावाचक ने मिस्टर विलियम्स को पत्तियां न जलाने के लिए कहा क्योंकि यह हवा और पारिस्थितिकी के लिए …………… है।",
       "options": {
@@ -460,6 +532,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The post office in 'Me and the Ecology Bit' is only…………blocks from Mr. Johnson's house.",
       "prashna": "'मी एंड द इकोलॉजी बिट' में डाकघर मिस्टर जॉनसन के घर से केवल ………….. ब्लॉक दूर है।",
       "options": {
@@ -474,6 +548,53 @@
         "C": "चार",
         "D": "एक"
       }
+    },
+    {
+      "id": "obj_32",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.58,
+      "raw_choice": "Panorama - 2. Me and the Ecology Bit (मैं और पारिस्थितिकी का अंश)",
+      "question": "Surely, it is very hard to get people to work for",
+      "prashna": "निश्चित रूप से, लोगों को किसके लिए काम करने के लिए राजी करना बहुत कठिन है?",
+      "options": {
+        "A": "population",
+        "B": "education",
+        "C": "ecology",
+        "D": "cleanliness"
+      },
+      "vikalpa": {
+        "A": "जनसंख्या",
+        "B": "शिक्षा",
+        "C": "पारिस्थितिकी",
+        "D": "स्वच्छता"
+      }
+    },
+    {
+      "id": "passage_2_1",
+      "type": "passage",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.6,
+      "raw_choice": "Panorama - 2. Me and the Ecology Bit (मैं और पारिस्थितिकी का अंश)",
+      "question": "Read the following passage and answer the questions that follow:",
+      "prashna": "निम्नलिखित गद्यांश को पढ़ें और उसके बाद आने वाले प्रश्नों के उत्तर दें:",
+      "context": "The water of river Yamuna in Delhi has become lifeless. The river's water quality is most polluted and has received 'E' grade. This is the lowest grade which indicates the severity of pollution in water. Some fifty years ago, the water of the Yamuna was clear and clean. Many water plants such as weed, algae and shrubs grew in the water. These plants were also the main source of food for aquatic creatures. But what we find now are red worms, which live in the most unhygienic and polluted water.",
+      "sub_questions": {
+        "i": "How is the water of river Yamuna at present?",
+        "ii": "Why did it get 'E' grade?",
+        "iii": "What grew in the water when the Yamuna was clean?",
+        "iv": "What do we find now in its water?"
+      },
+      "anuprashna": {
+        "i": "वर्तमान में यमुना नदी का पानी कैसा है?",
+        "ii": "इसे 'E' ग्रेड क्यों मिला?",
+        "iii": "जब यमुना साफ थी तब पानी में क्या उगता था?",
+        "iv": "अब इसके पानी में हमें क्या मिलता है?"
+      }
     }
   ],
   "2022": [
@@ -483,6 +604,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Ms. Greene goes away on",
       "options": {
         "A": "Thursdays and Fridays",
@@ -504,6 +627,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Mr. William was burning",
       "options": {
         "A": "plastic",
@@ -525,6 +650,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Why does Jim ask Ms. Greene to save paper and aluminium cans?",
       "prashna": "जिम मिस. ग्रीन से कागज और एल्युमीनियम के डिब्बे बचाने के लिए क्यों कहता है?"
     },
@@ -534,6 +661,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Jim advises ............... to walk to the post office.",
       "prashna": "जिम ............... को डाकघर तक पैदल चलने की सलाह देता है।",
       "options": {
@@ -555,6 +684,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The author advises Ms. Greene to save",
       "prashna": "लेखक सुश्री ग्रीन को क्या बचाने की सलाह देते हैं?",
       "options": {
@@ -576,6 +707,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Who makes a run for the car?",
       "prashna": "कार के लिए कौन दौड़ता है?",
       "options": {
@@ -599,6 +732,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Burning the leaves is not good for the……………",
       "prashna": "पत्तियों को जलाना .............. के लिए अच्छा नहीं है।",
       "options": {
@@ -620,6 +755,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "It is hard to get people to work for……………..",
       "prashna": "लोगों को .............. के लिए काम पर लगाना मुश्किल है।",
       "options": {
@@ -641,6 +778,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Jim has a…………….route.",
       "prashna": "जिम का एक .............. मार्ग है।",
       "options": {
@@ -664,6 +803,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Joan Lexau is the writer of",
       "prashna": "जोआन लेक्साउ ___ के लेखक हैं।",
       "options": {
@@ -680,11 +821,59 @@
       }
     },
     {
+      "id": "obj_20",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.56,
+      "raw_choice": "Panorama - 2. Me and the Ecology Bit (मैं और पारिस्थितिकी का अंश)",
+      "question": "... is something which people hardly pay any attention to.",
+      "prashna": "___ एक ऐसी चीज़ है जिस पर लोग शायद ही ध्यान देते हैं।",
+      "options": {
+        "A": "Security",
+        "B": "Education",
+        "C": "Relation",
+        "D": "Ecology"
+      },
+      "vikalpa": {
+        "A": "सुरक्षा",
+        "B": "शिक्षा",
+        "C": "रिश्ता",
+        "D": "पारिस्थितिकी"
+      }
+    },
+    {
+      "id": "obj_22",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.55,
+      "raw_choice": "Panorama - 2. Me and the Ecology Bit (मैं और पारिस्थितिकी का अंश)",
+      "question": "Jim drove his ... round and round the backyard all summer.",
+      "prashna": "जिम ने पूरे गर्मियों में अपने ___ को पिछवाड़े में घुमाया।",
+      "options": {
+        "A": "bicycle",
+        "B": "motorbike",
+        "C": "car",
+        "D": "truck"
+      },
+      "vikalpa": {
+        "A": "साइकिल",
+        "B": "मोटरसाइकिल",
+        "C": "कार",
+        "D": "ट्रक"
+      }
+    },
+    {
       "id": "obj_46",
       "type": "objective",
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Instead of driving a car, Jim advises Mr. Johnson to ... to the post-office.",
       "prashna": "कार चलाने के बजाय, जिम मिस्टर जॉनसन को डाकघर तक ___ जाने की सलाह देते हैं।",
       "options": {
@@ -706,6 +895,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Jim's dog had dug up Ms. Greene's",
       "prashna": "जिम के कुत्ते ने मिस ग्रीन के ___ को खोद दिया था।",
       "options": {
@@ -727,6 +918,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What form of electricity does Jim use?",
       "prashna": "जिम किस प्रकार की बिजली का उपयोग करता है?"
     },
@@ -736,6 +929,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Jim was very angry with .................... for burning leaves.",
       "prashna": "जिम .................... पर पत्तियों को जलाने के लिए बहुत गुस्सा था।",
       "options": {
@@ -759,6 +954,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Jim wanted everybody to contribute a little of their time to save our...",
       "prashna": "जिम चाहता था कि हर कोई हमारे ... को बचाने के लिए अपने समय का थोड़ा योगदान दे।",
       "options": {
@@ -780,6 +977,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Burning of leaves is bad for _____.",
       "prashna": "पत्तियों का जलना _____ के लिए बुरा है।",
       "options": {
@@ -796,11 +995,36 @@
       }
     },
     {
+      "id": "obj_47",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.56,
+      "raw_choice": "Panorama - 2. Me and the Ecology Bit (मैं और पारिस्थितिकी का अंश)",
+      "question": "Jim’s mother told him that he used ______ all the time for watching television.",
+      "prashna": "जिम की माँ ने उसे बताया कि वह टेलीविजन देखने के लिए हर समय ______ का उपयोग करता है।",
+      "options": {
+        "A": "watch",
+        "B": "energy",
+        "C": "time",
+        "D": "electricity"
+      },
+      "vikalpa": {
+        "A": "घड़ी",
+        "B": "ऊर्जा",
+        "C": "समय",
+        "D": "बिजली"
+      }
+    },
+    {
       "id": "passage_2_1",
       "type": "passage",
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "context": "Garbage is a great environmental hazard. It comes from various sources - used paper, tiffin packings, plastic bags, ice-cream wrappers, bottle caps, fallen leaves from trees and many more. Garbage makes the premises ugly, unkempt and breeds diseases. A lot of trash that is thrown away contain material that can be recycled and reused such as paper, metals and glass which can be sent to the nearest recycling centre or disposed of to the junk dealer. It also contains organic matter such as leaves which can enrich soil fertility. A compost pit can be made at a convenient location where the refuse can be placed with layers of soil and an occasional sprinkling of water. This would help decomposition to make valuable fertilizer. This would also prevent pollution that is usually caused by burning such organic waste.",
       "question": "Read the following passage carefully and answer the questions that follow:",
       "prashna": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और नीचे दिए गए प्रश्नों के उत्तर दें:",
@@ -823,6 +1047,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Jim says that women use too many ............... things.",
       "prashna": "जिम का कहना है कि महिलाएं बहुत अधिक ............... चीजों का उपयोग करती हैं।",
       "options": {
@@ -844,6 +1070,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "According to Jim, nobody's willing to do anything about ...............",
       "prashna": "जिम के अनुसार, ............... के बारे में कोई भी कुछ करने को तैयार नहीं है।",
       "options": {
@@ -858,6 +1086,53 @@
         "C": "पर्यावरण",
         "D": "सुरक्षा"
       }
+    },
+    {
+      "id": "obj_46",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.57,
+      "raw_choice": "Panorama - 2. Me and the Ecology Bit (मैं और पारिस्थितिकी का अंश)",
+      "question": "The ............... are on fire.",
+      "prashna": "............... आग पर हैं।",
+      "options": {
+        "A": "leaves",
+        "B": "roses",
+        "C": "trees",
+        "D": "garden"
+      },
+      "vikalpa": {
+        "A": "पत्तियाँ",
+        "B": "गुलाब",
+        "C": "पेड़",
+        "D": "बगीचा"
+      }
+    },
+    {
+      "id": "passage_2_2",
+      "type": "passage",
+      "section": "Panorama",
+      "chapter": "2",
+      "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.55,
+      "raw_choice": "Panorama - 2. Me and the Ecology Bit (मैं और पारिस्थितिकी का अंश)",
+      "question": "OR: Read the following passage carefully and answer the questions that follow :",
+      "prashna": "अथवा: निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और उसके बाद आने वाले प्रश्नों के उत्तर दें :",
+      "context": "The concept of renewable energy has gained significant attention in recent years to reduce the dependence on fossil fuels and combat climate change. Solar, wind, hydroelectric, geothermal and biomass are examples of renewable energy sources. These sources are considered renewable because they can be replenished naturally, unlike fossil fuels, which take millions of years to form and are finite. One of the main advantages of renewable energy is that it is environmentally friendly. Renewable energy sources do not produce greenhouse gases, which contribute to climate change. They also do not produce harmful air pollutants like sulphur dioxide and nitrogen oxide.",
+      "sub_questions": {
+        "1": "What is renewable energy ?",
+        "2": "What are the examples of renewable energy sources ?",
+        "3": "What is the main advantage of renewable energy ?",
+        "4": "Give two examples of harmful air pollutants."
+      },
+      "anuprashna": {
+        "1": "नवीकरणीय ऊर्जा (Renewable energy) क्या है?",
+        "2": "नवीकरणीय ऊर्जा स्रोतों के उदाहरण क्या हैं?",
+        "3": "नवीकरणीय ऊर्जा का मुख्य लाभ क्या है?",
+        "4": "हानिकारक वायु प्रदूषकों के दो उदाहरण दें।"
+      }
     }
   ],
   "2026": [
@@ -867,6 +1142,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Who makes a run for the car ?",
       "prashna": "कार की ओर कौन दौड़ लगाता है?",
       "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
@@ -889,6 +1166,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The author advises Ms. Greene to save",
       "prashna": "लेखक मिस ग्रीन को क्या बचाने की सलाह देते हैं?",
       "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
@@ -911,6 +1190,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Who got tired of trying to get Ms. Greene to do something about ecology ?",
       "prashna": "मिस ग्रीन को पर्यावरण के लिए कुछ करने को कहते-कहते कौन थक गया?",
       "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
@@ -933,6 +1214,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Who complains about Jim's watching television throughout the day ?",
       "prashna": "पूरे दिन जिम के टेलीविजन देखने की शिकायत कौन करता है?",
       "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
@@ -955,6 +1238,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Who pretended not to be home ?",
       "prashna": "किसने घर पर न होने का नाटक किया?",
       "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
@@ -977,6 +1262,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Jim drove his ............... round and round the backyard all summer.",
       "prashna": "जिम ने पूरी गर्मी अपने बाड़े में बार-बार अपनी ............... चलाई।",
       "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
@@ -999,6 +1286,8 @@
       "section": "Panorama",
       "chapter": "2",
       "chapter_name": "Me and the Ecology Bit",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "“Sure it is hard to get people to work for ...............”",
       "prashna": "“निश्चित रूप से लोगों से ............... के लिए काम करवाना कठिन है।”",
       "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",

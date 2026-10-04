@@ -6,8 +6,23 @@
       "section": "Economics",
       "chapter": "5",
       "chapter_name": "Employment and Services",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is outsourcing (Bahyasroti)?",
       "prashna": "बाह्यस्रोती किसे कहते हैं?"
+    }
+  ],
+  "2014": [
+    {
+      "id": "long_6",
+      "type": "long_answer",
+      "section": "Economics",
+      "chapter": "5",
+      "chapter_name": "Employment and Services",
+      "confidence": 0.66,
+      "raw_choice": "Economics - 5. Employment and Services (रोजगार एवं सेवाएँ)",
+      "question": "What was the impact of the current economic recession on the service sector in India? Write.",
+      "prashna": "वर्तमान आर्थिक मंदी का प्रभाव भारत में सेवा क्षेत्र पर क्या पड़ा? लिखें।"
     }
   ],
   "2018": [
@@ -17,6 +32,8 @@
       "section": "Economics",
       "chapter": "5",
       "chapter_name": "Employment and Services",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Explain with example, how non-government organisation (NGO) contributes towards the development of service sector?",
       "prashna": "गैर - सरकारी संस्थाएँ किस प्रकार सेवा क्षेत्र के विकास को सहयोग करती है, उदाहरण के साथ लिखें।"
     }
@@ -28,6 +45,8 @@
       "section": "Economics",
       "chapter": "5",
       "chapter_name": "Employment and Services",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Under NREGA, what is the provision of minimum number of days of employment for rural laborers in a year?",
       "prashna": "नरेगा के अंतर्गत ग्रामीण मजदूरों को साल में कम से कम कितने दिनों के लिए रोजगार देने की व्यवस्था है?",
       "options": {
@@ -42,6 +61,29 @@
         "C": "150 दिनों के लिए",
         "D": "200 दिनों के लिए"
       }
+    },
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "section": "Economics",
+      "chapter": "5",
+      "chapter_name": "Employment and Services",
+      "confidence": 0.63,
+      "raw_choice": "Economics - 5. Employment and Services (रोजगार एवं सेवाएँ)",
+      "question": "Jawahar Rozgar yojana was implemented in -",
+      "prashna": "जवाहर रोजगार योजना लागू हुई –",
+      "options": {
+        "A": "1988",
+        "B": "1989",
+        "C": "1990",
+        "D": "1991"
+      },
+      "vikalpa": {
+        "A": "1988",
+        "B": "1989",
+        "C": "1990",
+        "D": "1991"
+      }
     }
   ],
   "2020": [
@@ -51,6 +93,8 @@
       "section": "Economics",
       "chapter": "5",
       "chapter_name": "Employment and Services",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is a non-government service ?",
       "prashna": "कौन-सी सेवा गैर-सरकारी है ?",
       "options": {
@@ -72,6 +116,8 @@
       "section": "Economics",
       "chapter": "5",
       "chapter_name": "Employment and Services",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Explain with example how India is known as service provider to the world.",
       "prashna": "विश्व के लिए भारत सेवा प्रदाता के रूप में किस तरह जाना जाता है ? उदाहरण सहित लिखें।"
     },
@@ -81,6 +127,8 @@
       "section": "Economics",
       "chapter": "5",
       "chapter_name": "Employment and Services",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is government service?",
       "prashna": "सरकारी सेवा किसे कहते हैं?"
     }
@@ -92,6 +140,8 @@
       "section": "Economics",
       "chapter": "5",
       "chapter_name": "Employment and Services",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Disguised unemployment is found in",
       "prashna": "छिपी बेरोजगारी पाई जाती है",
       "options": {
@@ -113,6 +163,8 @@
       "section": "Economics",
       "chapter": "5",
       "chapter_name": "Employment and Services",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "MGNREGA was started in",
       "prashna": "मनरेगा शुरू हुई थी",
       "options": {
@@ -136,6 +188,8 @@
       "section": "Economics",
       "chapter": "5",
       "chapter_name": "Employment and Services",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "When did Jawahar Rojar Yojana start ?",
       "prashna": "जवाहर रोजगार योजना कब शुरू हुई ?",
       "options": {
@@ -157,6 +211,8 @@
       "section": "Economics",
       "chapter": "5",
       "chapter_name": "Employment and Services",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "When did Jawahar Rojar Yojana start?",
       "prashna": "जवाहर रोजगार योजना कब शुरू हुई?",
       "options": {
@@ -180,6 +236,8 @@
       "section": "Economics",
       "chapter": "5",
       "chapter_name": "Employment and Services",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "How many days of wage employment is guaranteed under MNREGA ?",
       "prashna": "मनरेगा के तहत कितने दिनों की मजदूरी रोजगार की गारंटी है ?",
       "options": {
@@ -202,6 +260,8 @@
       "section": "Economics",
       "chapter": "5",
       "chapter_name": "Employment and Services",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following schemes was started first ?",
       "prashna": "निम्नलिखित योजनाओं में से सबसे पहले किस योजना की शुरुआत हुई ?",
       "options": {

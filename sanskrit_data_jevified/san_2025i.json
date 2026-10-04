@@ -5,6 +5,8 @@
         "section": "Piyusham",
         "chapter": "4",
         "chapter_name": "Sanskrit-sahitye Lekhika:",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "पण्डिता क्षमाराव ने किस पुस्तक की रचना की ?",
         "prashna": "पण्डिता क्षमाराव ने किस पुस्तक की रचना की ?",
         "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -24,9 +26,11 @@
     {
         "id": "obj_2",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Piyusham",
+        "chapter": "4",
+        "chapter_name": "Sanskrit-sahitye Lekhika:",
+        "confidence": 0.57,
+        "raw_choice": "Piyusham - 4. Sanskrit-sahitye Lekhika: (संस्कृतसाहित्ये लेखिकाः)",
         "question": "याज्ञवल्क्य ने आत्मतत्त्व की शिक्षा किसे दिया ?",
         "prashna": "याज्ञवल्क्य ने आत्मतत्त्व की शिक्षा किसे दिया ?",
         "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
@@ -46,9 +50,11 @@
     {
         "id": "obj_3",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Vyakaran",
+        "chapter": "2",
+        "chapter_name": "Sandhi (Joining of Sounds)",
+        "confidence": 0.69,
+        "raw_choice": "Vyakaran - 2. Sandhi (Joining of Sounds) (संधि)",
         "question": "'अ + इ' के मेल से कौन-सा नया वर्ण बनेगा ?",
         "prashna": "'अ + इ' के मेल से कौन-सा नया वर्ण बनेगा ?",
         "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं।",
@@ -71,6 +77,8 @@
         "section": "Vyakaran",
         "chapter": "2",
         "chapter_name": "Sandhi (Joining of Sounds)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'पूर्वरूप संधि' का उदाहरण कौन-सा है ?",
         "prashna": "'पूर्वरूप संधि' का उदाहरण कौन-सा है ?",
         "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं।",
@@ -93,6 +101,8 @@
         "section": "Vyakaran",
         "chapter": "2",
         "chapter_name": "Sandhi (Joining of Sounds)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'खगेशः' का सन्धि-विच्छेद क्या होगा ?",
         "prashna": "'खगेशः' का सन्धि-विच्छेद क्या होगा ?",
         "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं।",
@@ -115,6 +125,8 @@
         "section": "Vyakaran",
         "chapter": "9",
         "chapter_name": "Upasarga and Avyaya",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'व्याकरणम्' में कौन-सा उपसर्ग है ?",
         "prashna": "'व्याकरणम्' में कौन-सा उपसर्ग है ?",
         "options": {
@@ -136,6 +148,8 @@
         "section": "Vyakaran",
         "chapter": "3",
         "chapter_name": "Shabda Rupa (Noun Forms)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'पित्रा' किस विभक्ति का रूप है ?",
         "prashna": "'पित्रा' किस विभक्ति का रूप है ?",
         "options": {
@@ -157,6 +171,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.49,
+        "raw_choice": "Vyakaran - 3. Shabda Rupa (Noun Forms) (शब्द-रूपाणि)",
         "question": "'दातृणाम्' का मूल शब्द क्या होगा ?",
         "prashna": "'दातृणाम्' का मूल शब्द क्या होगा ?",
         "options": {
@@ -178,6 +194,8 @@
         "section": "Vyakaran",
         "chapter": "3",
         "chapter_name": "Shabda Rupa (Noun Forms)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'युष्मद्' शब्द का रूप प्रथमा विभक्ति, एकवचन में क्या होगा ?",
         "prashna": "'युष्मद्' शब्द का रूप प्रथमा विभक्ति, एकवचन में क्या होगा ?",
         "options": {
@@ -199,6 +217,8 @@
         "section": "Vyakaran",
         "chapter": "4",
         "chapter_name": "Dhatu Rupa (Verb Forms)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'लिख्' धातु का रूप लृट् लकार में क्या होगा ?",
         "prashna": "'लिख्' धातु का रूप लृट् लकार में क्या होगा ?",
         "options": {
@@ -220,6 +240,8 @@
         "section": "Piyusham",
         "chapter": "14",
         "chapter_name": "Shastrakarah",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'बृहत्संहिता' के रचनाकार कौन हैं ?",
         "prashna": "'बृहत्संहिता' के रचनाकार कौन हैं ?",
         "options": {
@@ -241,6 +263,8 @@
         "section": "Piyusham",
         "chapter": "14",
         "chapter_name": "Shastrakarah",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "वेदरूपी शास्त्र कैसा होता है ?",
         "prashna": "वेदरूपी शास्त्र कैसा होता है ?",
         "options": {
@@ -262,6 +286,8 @@
         "section": "Piyusham",
         "chapter": "14",
         "chapter_name": "Shastrakarah",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "गौतम ने किस दर्शन की रचना की ?",
         "prashna": "गौतम ने किस दर्शन की रचना की ?",
         "options": {
@@ -283,6 +309,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.48,
+        "raw_choice": "Piyusham - 6. Bharatiya-samskarah (भारतीयसंस्काराः)",
         "question": "प्राचीन संस्कृति की पहचान किससे होती है ?",
         "prashna": "प्राचीन संस्कृति की पहचान किससे होती है ?",
         "options": {
@@ -304,6 +332,8 @@
         "section": "Piyusham",
         "chapter": "6",
         "chapter_name": "Bharatiya-samskarah",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "साहित्य ग्रन्थों में केशान्त संस्कार का नामान्तर क्या है ?",
         "prashna": "साहित्य ग्रन्थों में केशान्त संस्कार का नामान्तर क्या है ?",
         "options": {
@@ -325,6 +355,8 @@
         "section": "Piyusham",
         "chapter": "9",
         "chapter_name": "Swami-Dayanandah",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "स्वामी दयानन्द का परिवार किसका उपासक था ?",
         "prashna": "स्वामी दयानन्द का परिवार किसका उपासक था ?",
         "options": {
@@ -346,6 +378,8 @@
         "section": "Piyusham",
         "chapter": "9",
         "chapter_name": "Swami-Dayanandah",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "स्वामी दयानन्द का निधन कब हुआ ?",
         "prashna": "स्वामी दयानन्द का निधन कब हुआ ?",
         "options": {
@@ -367,6 +401,8 @@
         "section": "Piyusham",
         "chapter": "9",
         "chapter_name": "Swami-Dayanandah",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "कौन प्रसाद को खा रहा था ?",
         "prashna": "कौन प्रसाद को खा रहा था ?",
         "options": {
@@ -388,6 +424,8 @@
         "section": "Piyusham",
         "chapter": "9",
         "chapter_name": "Swami-Dayanandah",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "समाज और शिक्षा के उद्धारक कौन थे ?",
         "prashna": "समाज और शिक्षा के उद्धारक कौन थे ?",
         "options": {
@@ -409,6 +447,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.34,
+        "raw_choice": "Piyusham - 7. Niti-shlokaha (नीतिश्लोकाः)",
         "question": "“वैरेण वैरस्य शमनम् असम्भवम्” यह किसकी उक्ति है ?",
         "prashna": "“वैरेण वैरस्य शमनम् असम्भवम्” यह किसकी उक्ति है ?",
         "options": {
@@ -430,6 +470,8 @@
         "section": "Vyakaran",
         "chapter": "5",
         "chapter_name": "Samas (Compound Words)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'चार्थे द्वन्द्वः' सूत्र का उदाहरण कौन-सा है ?",
         "prashna": "'चार्थे द्वन्द्वः' सूत्र का उदाहरण कौन-सा है ?",
         "options": {
@@ -451,6 +493,8 @@
         "section": "Vyakaran",
         "chapter": "5",
         "chapter_name": "Samas (Compound Words)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'सचिवानाम् आलयः' का समस्त पद क्या होगा ?",
         "prashna": "'सचिवानाम् आलयः' का समस्त पद क्या होगा ?",
         "options": {
@@ -472,6 +516,8 @@
         "section": "Vyakaran",
         "chapter": "5",
         "chapter_name": "Samas (Compound Words)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'मातापितरौ' कौन-सा समास होगा ?",
         "prashna": "'मातापितरौ' कौन-सा समास होगा ?",
         "options": {
@@ -493,6 +539,8 @@
         "section": "Vyakaran",
         "chapter": "3",
         "chapter_name": "Shabda Rupa (Noun Forms)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'युष्माकम्' का मूल शब्द क्या है ?",
         "prashna": "'युष्माकम्' का मूल शब्द क्या है ?",
         "options": {
@@ -514,6 +562,8 @@
         "section": "Vyakaran",
         "chapter": "3",
         "chapter_name": "Shabda Rupa (Noun Forms)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'चत्वारः' का मूल शब्द क्या है ?",
         "prashna": "'चत्वारः' का मूल शब्द क्या है ?",
         "options": {
@@ -535,6 +585,8 @@
         "section": "Vyakaran",
         "chapter": "4",
         "chapter_name": "Dhatu Rupa (Verb Forms)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'अस्' धातु लोट् लकार, प्रथम पुरुष, बहुवचन रूप क्या होगा ?",
         "prashna": "'अस्' धातु लोट् लकार, प्रथम पुरुष, बहुवचन रूप क्या होगा ?",
         "options": {
@@ -556,6 +608,8 @@
         "section": "Vyakaran",
         "chapter": "4",
         "chapter_name": "Dhatu Rupa (Verb Forms)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'पठेयम्' पद में कौन-सी धातु है ?",
         "prashna": "'पठेयम्' पद में कौन-सी धातु है ?",
         "options": {
@@ -577,6 +631,8 @@
         "section": "Vyakaran",
         "chapter": "7",
         "chapter_name": "Pratyaya (Suffixes)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'वि + ज्ञा + ल्यप्' के मेल से कौन-सा पद बनेगा ?",
         "prashna": "'वि + ज्ञा + ल्यप्' के मेल से कौन-सा पद बनेगा ?",
         "options": {
@@ -598,6 +654,8 @@
         "section": "Vyakaran",
         "chapter": "7",
         "chapter_name": "Pratyaya (Suffixes)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'रोगः' में कौन-सा प्रत्यय है ?",
         "prashna": "'रोगः' में कौन-सा प्रत्यय है ?",
         "options": {
@@ -619,6 +677,8 @@
         "section": "Vyakaran",
         "chapter": "7",
         "chapter_name": "Pratyaya (Suffixes)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'कृ + क्तवतु' के योग से कौन-सा पद बनेगा ?",
         "prashna": "'कृ + क्तवतु' के योग से कौन-सा पद बनेगा ?",
         "options": {
@@ -640,6 +700,8 @@
         "section": "Vyakaran",
         "chapter": "4",
         "chapter_name": "Dhatu Rupa (Verb Forms)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'नमति' किस लकार का रूप है ?",
         "prashna": "'नमति' किस लकार का रूप है ?",
         "options": {
@@ -661,6 +723,8 @@
         "section": "Vyakaran",
         "chapter": "4",
         "chapter_name": "Dhatu Rupa (Verb Forms)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'भू' धातु का लोट् लकार, मध्यम पुरुष, एकवचन का रूप कौन-सा होगा ?",
         "prashna": "'भू' धातु का लोट् लकार, मध्यम पुरुष, एकवचन का रूप कौन-सा होगा ?",
         "options": {
@@ -682,6 +746,8 @@
         "section": "Vyakaran",
         "chapter": "7",
         "chapter_name": "Pratyaya (Suffixes)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'शान्तिः' पद में कौन-सा प्रत्यय है ?",
         "prashna": "'शान्तिः' पद में कौन-सा प्रत्यय है ?",
         "options": {
@@ -703,6 +769,8 @@
         "section": "Vyakaran",
         "chapter": "7",
         "chapter_name": "Pratyaya (Suffixes)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'गम् + तुमुन्' के योग से कौन-सा अव्यय बनेगा ?",
         "prashna": "'गम् + तुमुन्' के योग से कौन-सा अव्यय बनेगा ?",
         "options": {
@@ -724,6 +792,8 @@
         "section": "Vyakaran",
         "chapter": "7",
         "chapter_name": "Pratyaya (Suffixes)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'पठनम्' पद में कौन-सा प्रत्यय है ?",
         "prashna": "'पठनम्' पद में कौन-सा प्रत्यय है ?",
         "options": {
@@ -745,6 +815,8 @@
         "section": "Piyusham",
         "chapter": "10",
         "chapter_name": "Mandakini-varnanam",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "राम 'मन्दाकिनी' की शोभा किसे दिखा रहे हैं ?",
         "prashna": "राम 'मन्दाकिनी' की शोभा किसे दिखा रहे हैं ?",
         "options": {
@@ -763,9 +835,11 @@
     {
         "id": "obj_37",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Piyusham",
+        "chapter": "14",
+        "chapter_name": "Shastrakarah",
+        "confidence": 0.65,
+        "raw_choice": "Piyusham - 14. Shastrakarah (शास्त्रकाराः)",
         "question": "'रघुवंश' महाकाव्य के रचनाकार कौन हैं ?",
         "prashna": "'रघुवंश' महाकाव्य के रचनाकार कौन हैं ?",
         "options": {
@@ -787,6 +861,8 @@
         "section": "Piyusham",
         "chapter": "10",
         "chapter_name": "Mandakini-varnanam",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "विशाल नेत्रोंवाली कौन हैं ?",
         "prashna": "विशाल नेत्रोंवाली कौन हैं ?",
         "options": {
@@ -808,6 +884,8 @@
         "section": "Piyusham",
         "chapter": "10",
         "chapter_name": "Mandakini-varnanam",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "हंस-सारस द्वारा सेवित नदी कौन-सी है ?",
         "prashna": "हंस-सारस द्वारा सेवित नदी कौन-सी है ?",
         "options": {
@@ -829,6 +907,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.26,
+        "raw_choice": "Vyakaran - 13. Unseen Passage (अपठित-अवबोधनम्)",
         "question": "कौन नृत्य कर रहा है ?",
         "prashna": "कौन नृत्य कर रहा है ?",
         "options": {
@@ -850,6 +930,8 @@
         "section": "Piyusham",
         "chapter": "1",
         "chapter_name": "Mangalam",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'सत्य' से किसका मार्ग प्रशस्त होता है ?",
         "prashna": "'सत्य' से किसका मार्ग प्रशस्त होता है ?",
         "options": {
@@ -871,6 +953,8 @@
         "section": "Piyusham",
         "chapter": "1",
         "chapter_name": "Mangalam",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'हिरण्मयेन पात्रेण ............. दृष्टये ।।' मंत्र किस उपनिषद् से संकलित है ?",
         "prashna": "'हिरण्मयेन पात्रेण ............. दृष्टये ।।' मंत्र किस उपनिषद् से संकलित है ?",
         "options": {
@@ -892,6 +976,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.4,
+        "raw_choice": "Vyakaran - 9. Upasarga and Avyaya (उपसर्ग एवं अव्यय)",
         "question": "'अपावृणु' पद का क्या अर्थ है ?",
         "prashna": "'अपावृणु' पद का क्या अर्थ है ?",
         "options": {
@@ -913,6 +999,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.21,
+        "raw_choice": "Vyakaran - 10. Sentence Correction and Transformation (वाक्य-शुद्धि एवं परिवर्तन)",
         "question": "'अरे वाचाल ! कितना बोलते हो ?' किस पुरुष का कथन है ?",
         "prashna": "'अरे वाचाल ! कितना बोलते हो ?' किस पुरुष का कथन है ?",
         "options": {
@@ -934,6 +1022,8 @@
         "section": "Piyusham",
         "chapter": "3",
         "chapter_name": "Alasa-katha",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'अलसकथा' पाठ में 'अहो कथमयं कोलाहलः ?' किसकी उक्ति है ?",
         "prashna": "'अलसकथा' पाठ में 'अहो कथमयं कोलाहलः ?' किसकी उक्ति है ?",
         "options": {
@@ -955,6 +1045,8 @@
         "section": "Piyusham",
         "chapter": "7",
         "chapter_name": "Niti-shlokaha",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "सबसे बड़ा शत्रु कौन है ?",
         "prashna": "सबसे बड़ा शत्रु कौन है ?",
         "options": {
@@ -976,6 +1068,8 @@
         "section": "Piyusham",
         "chapter": "12",
         "chapter_name": "Karnasya-danavirata",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'भवन्तमहमेष नमस्करोमि' किसका कथन है ?",
         "prashna": "'भवन्तमहमेष नमस्करोमि' किसका कथन है ?",
         "options": {
@@ -997,6 +1091,8 @@
         "section": "Piyusham",
         "chapter": "12",
         "chapter_name": "Karnasya-danavirata",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'महत्तरां भिक्षां याचे' यह उक्ति किसकी है ?",
         "prashna": "'महत्तरां भिक्षां याचे' यह उक्ति किसकी है ?",
         "options": {
@@ -1018,6 +1114,8 @@
         "section": "Piyusham",
         "chapter": "12",
         "chapter_name": "Karnasya-danavirata",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "इन्द्र ने कर्ण से छल क्यों किया ?",
         "prashna": "इन्द्र ने कर्ण से छल क्यों किया ?",
         "options": {
@@ -1039,6 +1137,8 @@
         "section": "Piyusham",
         "chapter": "2",
         "chapter_name": "Patliputra-vaibhavam",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'कौमुदी महोत्सव' जैसा दृश्य किस अवसर पर दिखाई पड़ता है ?",
         "prashna": "'कौमुदी महोत्सव' जैसा दृश्य किस अवसर पर दिखाई पड़ता है ?",
         "options": {
@@ -1060,6 +1160,8 @@
         "section": "Piyusham",
         "chapter": "13",
         "chapter_name": "Vishwa-shantih",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "“यह मेरा है, यह तुम्हारा है।” ऐसी भावना कौन रखते हैं ?",
         "prashna": "“यह मेरा है, यह तुम्हारा है।” ऐसी भावना कौन रखते हैं ?",
         "options": {
@@ -1081,6 +1183,8 @@
         "section": "Piyusham",
         "chapter": "11",
         "chapter_name": "Vyaghra-pathika-katha",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'हितोपदेश' की कहानियाँ किससे सम्बन्धित हैं ?",
         "prashna": "'हितोपदेश' की कहानियाँ किससे सम्बन्धित हैं ?",
         "options": {
@@ -1102,6 +1206,8 @@
         "section": "Piyusham",
         "chapter": "11",
         "chapter_name": "Vyaghra-pathika-katha",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "कौन कीचड़ में फँस गया ?",
         "prashna": "कौन कीचड़ में फँस गया ?",
         "options": {
@@ -1123,6 +1229,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.26,
+        "raw_choice": "Piyusham - 7. Niti-shlokaha (नीतिश्लोकाः)",
         "question": "“............ भारः क्रियां विना |” रिक्त स्थान में उचित विकल्प क्या होगा ?",
         "prashna": "“............ भारः क्रियां विना |” रिक्त स्थान में उचित विकल्प क्या होगा ?",
         "options": {
@@ -1144,6 +1252,8 @@
         "section": "Vyakaran",
         "chapter": "2",
         "chapter_name": "Sandhi (Joining of Sounds)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'पवित्रम्' किस संधि का उदाहरण है ?",
         "prashna": "'पवित्रम्' किस संधि का उदाहरण है ?",
         "options": {
@@ -1165,6 +1275,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.45,
+        "raw_choice": "Vyakaran - 5. Samas (Compound Words) (समास)",
         "question": "'सत्येषा' का सही विच्छेद क्या होगा ?",
         "prashna": "'सत्येषा' का सही विच्छेद क्या होगा ?",
         "options": {
@@ -1183,9 +1295,11 @@
     {
         "id": "obj_57",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Vyakaran",
+        "chapter": "6",
+        "chapter_name": "Karak and Vibhakti",
+        "confidence": 0.55,
+        "raw_choice": "Vyakaran - 6. Karak and Vibhakti (कारक एवं विभक्ति)",
         "question": "'भुवः प्रभवः' का उदाहरण है",
         "prashna": "'भुवः प्रभवः' का उदाहरण है",
         "options": {
@@ -1207,6 +1321,8 @@
         "section": "Vyakaran",
         "chapter": "6",
         "chapter_name": "Karak and Vibhakti",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'हेतु' शब्द के अर्थ में कौन-सी विभक्ति होती है ?",
         "prashna": "'हेतु' शब्द के अर्थ में कौन-सी विभक्ति होती है ?",
         "options": {
@@ -1228,6 +1344,8 @@
         "section": "Vyakaran",
         "chapter": "6",
         "chapter_name": "Karak and Vibhakti",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'सतः मासेन व्याकरणम् अधीते ।' यह किस सूत्र का उदाहरण है ?",
         "prashna": "'सतः मासेन व्याकरणम् अधीते ।' यह किस सूत्र का उदाहरण है ?",
         "options": {
@@ -1249,6 +1367,8 @@
         "section": "Vyakaran",
         "chapter": "6",
         "chapter_name": "Karak and Vibhakti",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'मह्यम् मिष्टान्नं रोचते' किस सूत्र का उदाहरण है ?",
         "prashna": "'मह्यम् मिष्टान्नं रोचते' किस सूत्र का उदाहरण है ?",
         "options": {
@@ -1270,6 +1390,8 @@
         "section": "Piyusham",
         "chapter": "14",
         "chapter_name": "Shastrakarah",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'योगसूत्र' के रचनाकार कौन हैं ?",
         "prashna": "'योगसूत्र' के रचनाकार कौन हैं ?",
         "options": {
@@ -1291,6 +1413,8 @@
         "section": "Piyusham",
         "chapter": "14",
         "chapter_name": "Shastrakarah",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'कृषिविज्ञान' के रचयिता निम्न में से कौन हैं ?",
         "prashna": "'कृषिविज्ञान' के रचयिता निम्न में से कौन हैं ?",
         "options": {
@@ -1312,6 +1436,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.28,
+        "raw_choice": "Piyusham - 13. Vishwa-shantih (विश्वशांतिः)",
         "question": "'वसुधा' किसका पर्याय है ?",
         "prashna": "'वसुधा' किसका पर्याय है ?",
         "options": {
@@ -1333,6 +1459,8 @@
         "section": "Piyusham",
         "chapter": "2",
         "chapter_name": "Patliputra-vaibhavam",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'पटनदेवी' किस नगर में अवस्थित है ?",
         "prashna": "'पटनदेवी' किस नगर में अवस्थित है ?",
         "options": {
@@ -1354,6 +1482,8 @@
         "section": "Piyusham",
         "chapter": "2",
         "chapter_name": "Patliputra-vaibhavam",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "यूनान का राजदूत कौन था ?",
         "prashna": "यूनान का राजदूत कौन था ?",
         "options": {
@@ -1375,6 +1505,8 @@
         "section": "Vyakaran",
         "chapter": "2",
         "chapter_name": "Sandhi (Joining of Sounds)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'रावणः' पद का संधि-विच्छेद क्या होगा ?",
         "prashna": "'रावणः' पद का संधि-विच्छेद क्या होगा ?",
         "options": {
@@ -1393,9 +1525,11 @@
     {
         "id": "obj_67",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Vyakaran",
+        "chapter": "1",
+        "chapter_name": "Letters and Pronunciation",
+        "confidence": 0.55,
+        "raw_choice": "Vyakaran - 1. Letters and Pronunciation (वर्ण-विचार एवं उच्चारण)",
         "question": "'ऋ + अ' के मेल से कौन-सा नया वर्ण बनेगा ?",
         "prashna": "'ऋ + अ' के मेल से कौन-सा नया वर्ण बनेगा ?",
         "options": {
@@ -1417,6 +1551,8 @@
         "section": "Vyakaran",
         "chapter": "2",
         "chapter_name": "Sandhi (Joining of Sounds)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'तस्य + इति' पद की संधि क्या होगी ?",
         "prashna": "'तस्य + इति' पद की संधि क्या होगी ?",
         "options": {
@@ -1438,6 +1574,8 @@
         "section": "Vyakaran",
         "chapter": "9",
         "chapter_name": "Upasarga and Avyaya",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "किस पद में 'वि' उपसर्ग नहीं है ?",
         "prashna": "किस पद में 'वि' उपसर्ग नहीं है ?",
         "options": {
@@ -1459,6 +1597,8 @@
         "section": "Vyakaran",
         "chapter": "9",
         "chapter_name": "Upasarga and Avyaya",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'दुर्गमम्' पद में कौन-सा उपसर्ग है ?",
         "prashna": "'दुर्गमम्' पद में कौन-सा उपसर्ग है ?",
         "options": {
@@ -1480,6 +1620,8 @@
         "section": "Piyusham",
         "chapter": "5",
         "chapter_name": "Bharat-mahima",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "कौन-सी भूमि पवित्र और ममतामयी है ?",
         "prashna": "कौन-सी भूमि पवित्र और ममतामयी है ?",
         "options": {
@@ -1498,9 +1640,11 @@
     {
         "id": "obj_72",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Piyusham",
+        "chapter": "5",
+        "chapter_name": "Bharat-mahima",
+        "confidence": 0.5,
+        "raw_choice": "Piyusham - 5. Bharat-mahima (भारतमहिमा)",
         "question": "अयं निर्मला ............ वहन्तो वसन्ति ।। श्लोकांश किस पाठ से उद्धृत है ?",
         "prashna": "अयं निर्मला ............ वहन्तो वसन्ति ।। श्लोकांश किस पाठ से उद्धृत है ?",
         "options": {
@@ -1522,6 +1666,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.28,
+        "raw_choice": "Piyusham - 5. Bharat-mahima (भारतमहिमा)",
         "question": "देवगण क्या गाते हैं ?",
         "prashna": "देवगण क्या गाते हैं ?",
         "options": {
@@ -1543,6 +1689,8 @@
         "section": "Piyusham",
         "chapter": "7",
         "chapter_name": "Niti-shlokaha",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "विदुरनीति के रचनाकार कौन हैं ?",
         "prashna": "विदुरनीति के रचनाकार कौन हैं ?",
         "options": {
@@ -1564,6 +1712,8 @@
         "section": "Piyusham",
         "chapter": "7",
         "chapter_name": "Niti-shlokaha",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "काम, क्रोध और लोभ किसके द्वार हैं ?",
         "prashna": "काम, क्रोध और लोभ किसके द्वार हैं ?",
         "options": {
@@ -1585,6 +1735,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.28,
+        "raw_choice": "Piyusham - 7. Niti-shlokaha (नीतिश्लोकाः)",
         "question": "'सुखावहा' क्या है ?",
         "prashna": "'सुखावहा' क्या है ?",
         "options": {
@@ -1606,6 +1758,8 @@
         "section": "Piyusham",
         "chapter": "8",
         "chapter_name": "Karmaveer-katha",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "शिक्षक दलित बालक को कहाँ ले गये ?",
         "prashna": "शिक्षक दलित बालक को कहाँ ले गये ?",
         "options": {
@@ -1627,6 +1781,8 @@
         "section": "Piyusham",
         "chapter": "8",
         "chapter_name": "Karmaveer-katha",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "रामप्रवेश राम ने किस परीक्षा में विश्वविद्यालय में प्रथम स्थान प्राप्त किया ?",
         "prashna": "रामप्रवेश राम ने किस परीक्षा में विश्वविद्यालय में प्रथम स्थान प्राप्त किया ?",
         "options": {
@@ -1648,6 +1804,8 @@
         "section": "Piyusham",
         "chapter": "8",
         "chapter_name": "Karmaveer-katha",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "दलित बालक का नाम क्या था ?",
         "prashna": "दलित बालक का नाम क्या था ?",
         "options": {
@@ -1669,6 +1827,8 @@
         "section": "Piyusham",
         "chapter": "4",
         "chapter_name": "Sanskrit-sahitye Lekhika:",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "मैत्रेयी कौन थी ?",
         "prashna": "मैत्रेयी कौन थी ?",
         "options": {
@@ -1690,6 +1850,8 @@
         "section": "Vyakaran",
         "chapter": "7",
         "chapter_name": "Pratyaya (Suffixes)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'राधेयः' में कौन-सा प्रत्यय होगा ?",
         "prashna": "'राधेयः' में कौन-सा प्रत्यय होगा ?",
         "options": {
@@ -1711,6 +1873,8 @@
         "section": "Vyakaran",
         "chapter": "4",
         "chapter_name": "Dhatu Rupa (Verb Forms)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'वद' किस लकार का रूप है ?",
         "prashna": "'वद' किस लकार का रूप है ?",
         "options": {
@@ -1732,6 +1896,8 @@
         "section": "Piyusham",
         "chapter": "6",
         "chapter_name": "Bharatiya-samskarah",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "भारतीय संस्कृति में कितने संस्कार होते हैं ?",
         "prashna": "भारतीय संस्कृति में कितने संस्कार होते हैं ?",
         "options": {
@@ -1753,6 +1919,8 @@
         "section": "Piyusham",
         "chapter": "6",
         "chapter_name": "Bharatiya-samskarah",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "जन्म से पूर्व कितने संस्कार होते हैं ?",
         "prashna": "जन्म से पूर्व कितने संस्कार होते हैं ?",
         "options": {
@@ -1774,6 +1942,8 @@
         "section": "Piyusham",
         "chapter": "11",
         "chapter_name": "Vyaghra-pathika-katha",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "पथिक किसके द्वारा पकड़कर खाया गया ?",
         "prashna": "पथिक किसके द्वारा पकड़कर खाया गया ?",
         "options": {
@@ -1795,6 +1965,8 @@
         "section": "Piyusham",
         "chapter": "11",
         "chapter_name": "Vyaghra-pathika-katha",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'व्याघ्रपथिक कथा' पाठ में अविश्वासी पात्र किसे कहा गया है ?",
         "prashna": "'व्याघ्रपथिक कथा' पाठ में अविश्वासी पात्र किसे कहा गया है ?",
         "options": {
@@ -1816,6 +1988,8 @@
         "section": "Piyusham",
         "chapter": "11",
         "chapter_name": "Vyaghra-pathika-katha",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "बाघ कैसा था ?",
         "prashna": "बाघ कैसा था ?",
         "options": {
@@ -1837,6 +2011,8 @@
         "section": "Piyusham",
         "chapter": "10",
         "chapter_name": "Mandakini-varnanam",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "सीता को 'विशालाक्षि' किसने संबोधित किया है ?",
         "prashna": "सीता को 'विशालाक्षि' किसने संबोधित किया है ?",
         "options": {
@@ -1858,6 +2034,8 @@
         "section": "Piyusham",
         "chapter": "9",
         "chapter_name": "Swami-Dayanandah",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "स्वामी दयानन्द के बचपन का नाम क्या था ?",
         "prashna": "स्वामी दयानन्द के बचपन का नाम क्या था ?",
         "options": {
@@ -1879,6 +2057,8 @@
         "section": "Piyusham",
         "chapter": "10",
         "chapter_name": "Mandakini-varnanam",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "महर्षि वाल्मीकि ने 'मन्दाकिनीवर्णनम्' पाठ में प्रकृति का वर्णन किस छन्द में किया है ?",
         "prashna": "महर्षि वाल्मीकि ने 'मन्दाकिनीवर्णनम्' पाठ में प्रकृति का वर्णन किस छन्द में किया है ?",
         "options": {
@@ -1900,6 +2080,8 @@
         "section": "Vyakaran",
         "chapter": "9",
         "chapter_name": "Upasarga and Avyaya",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'आदाय' अव्यय में कौन-सा उपसर्ग है ?",
         "prashna": "'आदाय' अव्यय में कौन-सा उपसर्ग है ?",
         "options": {
@@ -1921,6 +2103,8 @@
         "section": "Vyakaran",
         "chapter": "6",
         "chapter_name": "Karak and Vibhakti",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'बहिः' के योग में किस विभक्ति का प्रयोग होता है ?",
         "prashna": "'बहिः' के योग में किस विभक्ति का प्रयोग होता है ?",
         "options": {
@@ -1942,6 +2126,8 @@
         "section": "Vyakaran",
         "chapter": "6",
         "chapter_name": "Karak and Vibhakti",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'सम्प्रदान कारक' में किस विभक्ति का प्रयोग किया जाता है ?",
         "prashna": "'सम्प्रदान कारक' में किस विभक्ति का प्रयोग किया जाता है ?",
         "options": {
@@ -1963,6 +2149,8 @@
         "section": "Vyakaran",
         "chapter": "3",
         "chapter_name": "Shabda Rupa (Noun Forms)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'भवत्' शब्द का सप्तमी विभक्ति, बहुवचन का रूप कौन-सा है ?",
         "prashna": "'भवत्' शब्द का सप्तमी विभक्ति, बहुवचन का रूप कौन-सा है ?",
         "options": {
@@ -1984,6 +2172,8 @@
         "section": "Vyakaran",
         "chapter": "5",
         "chapter_name": "Samas (Compound Words)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "किस समास का पहला पद अव्यय होता है ?",
         "prashna": "किस समास का पहला पद अव्यय होता है ?",
         "options": {
@@ -2005,6 +2195,8 @@
         "section": "Vyakaran",
         "chapter": "5",
         "chapter_name": "Samas (Compound Words)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "विग्रह करने में 'च' का प्रयोग किस समास में होता है ?",
         "prashna": "विग्रह करने में 'च' का प्रयोग किस समास में होता है ?",
         "options": {
@@ -2026,6 +2218,8 @@
         "section": "Vyakaran",
         "chapter": "5",
         "chapter_name": "Samas (Compound Words)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'विशेषणं विशेष्येण बहुलम्' सूत्र का उदाहरण क्या होगा ?",
         "prashna": "'विशेषणं विशेष्येण बहुलम्' सूत्र का उदाहरण क्या होगा ?",
         "options": {
@@ -2047,6 +2241,8 @@
         "section": "Vyakaran",
         "chapter": "3",
         "chapter_name": "Shabda Rupa (Noun Forms)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'मुनि' शब्द पञ्चमी विभक्ति, एकवचन में क्या होगा ?",
         "prashna": "'मुनि' शब्द पञ्चमी विभक्ति, एकवचन में क्या होगा ?",
         "options": {
@@ -2065,9 +2261,11 @@
     {
         "id": "obj_99",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Vyakaran",
+        "chapter": "6",
+        "chapter_name": "Karak and Vibhakti",
+        "confidence": 0.51,
+        "raw_choice": "Vyakaran - 6. Karak and Vibhakti (कारक एवं विभक्ति)",
         "question": "'राजसु' में कौन-सी विभक्ति है ?",
         "prashna": "'राजसु' में कौन-सी विभक्ति है ?",
         "options": {
@@ -2089,6 +2287,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.44,
+        "raw_choice": "Vyakaran - 3. Shabda Rupa (Noun Forms) (शब्द-रूपाणि)",
         "question": "'गङ्गायाम्' इस पद का मूल है",
         "prashna": "'गङ्गायाम्' इस पद का मूल है",
         "options": {
@@ -2110,6 +2310,8 @@
         "section": "Vyakaran",
         "chapter": "13",
         "chapter_name": "Unseen Passage",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "अधोलिखित गद्यांशों को ध्यानपूर्वक पढ़कर उस पर आधारित प्रश्नों के उत्तर निर्देशानुसार दें :",
         "prashna": "अधोलिखित गद्यांशों को ध्यानपूर्वक पढ़कर उस पर आधारित प्रश्नों के उत्तर निर्देशानुसार दें :",
         "instructions": "Answer based on the passage provided.",
@@ -2141,6 +2343,8 @@
         "section": "Vyakaran",
         "chapter": "13",
         "chapter_name": "Unseen Passage",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "अथवा (Alternative to Gadyansh 1अ)",
         "prashna": "अथवा",
         "instructions": "Answer based on the passage provided.",
@@ -2172,6 +2376,8 @@
         "section": "Vyakaran",
         "chapter": "13",
         "chapter_name": "Unseen Passage",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "(ब) 'विद्या' शब्दस्य अर्थ: 'ज्ञानम्' अस्ति । एषा विद्या महता प्रयत्नेन लभ्यते । विद्यावानं नर: एव सर्वत्र सम्मानं लभते । विद्या मानवस्य सर्वश्रेष्ठम् आभूषणं वर्तते । एषा कुरूपम् अपि सुरूपं करोति । विदेशे बन्धुवत् साहाय्यं करोति । अनया एव मानव: कीर्तिं धनम्-सुखं च लभते । अत: सर्वै: जनै: स्वजीवने सुखं समृद्धिं च प्राप्तुं विद्या-प्राप्तये प्रयत्न: करणीय: ।",
         "prashna": "(ब)",
         "instructions": "Answer based on the passage provided.",
@@ -2198,6 +2404,8 @@
         "section": "Vyakaran",
         "chapter": "13",
         "chapter_name": "Unseen Passage",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "अथवा (Alternative to Gadyansh 1ब)",
         "prashna": "अथवा",
         "instructions": "Answer based on the passage provided.",
@@ -2225,6 +2433,8 @@
         "section": "Vyakaran",
         "chapter": "12",
         "chapter_name": "Letter Writing",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "अपने उत्तम परीक्षाफल का विवरण देते हुए पिताजी को संस्कृत में पत्र लिखें ।",
         "prashna": "(i) अपने उत्तम परीक्षाफल का विवरण देते हुए पिताजी को संस्कृत में पत्र लिखें ।",
         "instructions": "निम्नलिखित में से किन्हीं दो प्रश्नों के उत्तर लिखें :"
@@ -2235,6 +2445,8 @@
         "section": "Vyakaran",
         "chapter": "12",
         "chapter_name": "Letter Writing",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "विद्यालय में वृक्षारोपण कार्यक्रम आयोजन हेतु प्रधानाध्यापक को संस्कृत में आवेदन पत्र लिखें ।",
         "prashna": "(ii) विद्यालय में वृक्षारोपण कार्यक्रम आयोजन हेतु प्रधानाध्यापक को संस्कृत में आवेदन पत्र लिखें ।",
         "instructions": "निम्नलिखित में से किन्हीं दो प्रश्नों के उत्तर लिखें :"
@@ -2245,6 +2457,8 @@
         "section": "Vyakaran",
         "chapter": "12",
         "chapter_name": "Letter Writing",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "जन्मदिवस की बधाई देते हुए अपने अनुज को संस्कृत में पत्र लिखें ।",
         "prashna": "(iii) जन्मदिवस की बधाई देते हुए अपने अनुज को संस्कृत में पत्र लिखें ।",
         "instructions": "निम्नलिखित में से किन्हीं दो प्रश्नों के उत्तर लिखें :"
@@ -2255,6 +2469,8 @@
         "section": "Vyakaran",
         "chapter": "12",
         "chapter_name": "Letter Writing",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "विद्यालय परित्याग प्रमाण पत्र निर्गत करने के लिए प्रधानाध्यापक को एक आवेदन पत्र संस्कृत में लिखें ।",
         "prashna": "(iv) विद्यालय परित्याग प्रमाण पत्र निर्गत करने के लिए प्रधानाध्यापक को एक आवेदन पत्र संस्कृत में लिखें ।",
         "instructions": "निम्नलिखित में से किन्हीं दो प्रश्नों के उत्तर लिखें :"
@@ -2265,6 +2481,8 @@
         "section": "Vyakaran",
         "chapter": "14",
         "chapter_name": "Paragraph and Picture Description",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "पुस्तकालय:",
         "prashna": "(क) पुस्तकालय:",
         "instructions": "अधोलिखित में से किसी एक विषय पर सात वाक्यों में एक अनुच्छेद संस्कृत में लिखें :"
@@ -2275,6 +2493,8 @@
         "section": "Vyakaran",
         "chapter": "14",
         "chapter_name": "Paragraph and Picture Description",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "देववाणी संस्कृतभाषा",
         "prashna": "(ख) देववाणी संस्कृतभाषा",
         "instructions": "अधोलिखित में से किसी एक विषय पर सात वाक्यों में एक अनुच्छेद संस्कृत में लिखें :"
@@ -2285,6 +2505,8 @@
         "section": "Vyakaran",
         "chapter": "14",
         "chapter_name": "Paragraph and Picture Description",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "वृक्षारोपणम्",
         "prashna": "(ग) वृक्षारोपणम्",
         "instructions": "अधोलिखित में से किसी एक विषय पर सात वाक्यों में एक अनुच्छेद संस्कृत में लिखें :"
@@ -2295,6 +2517,8 @@
         "section": "Vyakaran",
         "chapter": "14",
         "chapter_name": "Paragraph and Picture Description",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "सरस्वतीपूजा",
         "prashna": "(घ) सरस्वतीपूजा",
         "instructions": "अधोलिखित में से किसी एक विषय पर सात वाक्यों में एक अनुच्छेद संस्कृत में लिखें :"
@@ -2305,6 +2529,8 @@
         "section": "Vyakaran",
         "chapter": "14",
         "chapter_name": "Paragraph and Picture Description",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "वसन्तोत्सव:",
         "prashna": "(ङ) वसन्तोत्सव:",
         "instructions": "अधोलिखित में से किसी एक विषय पर सात वाक्यों में एक अनुच्छेद संस्कृत में लिखें :"
@@ -2315,6 +2541,8 @@
         "section": "Vyakaran",
         "chapter": "11",
         "chapter_name": "Translation (Sanskrit to Hindi/English)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "आलस्य मनुष्य का शत्रु है ।",
         "prashna": "(क) आलस्य मनुष्य का शत्रु है ।",
         "instructions": "निम्नलिखित में से किन्हीं छह वाक्यों का अनुवाद संस्कृत में करें :"
@@ -2325,6 +2553,8 @@
         "section": "Vyakaran",
         "chapter": "11",
         "chapter_name": "Translation (Sanskrit to Hindi/English)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "आम मीठा होता है ।",
         "prashna": "(ख) आम मीठा होता है ।",
         "instructions": "निम्नलिखित में से किन्हीं छह वाक्यों का अनुवाद संस्कृत में करें :"
@@ -2335,6 +2565,8 @@
         "section": "Vyakaran",
         "chapter": "11",
         "chapter_name": "Translation (Sanskrit to Hindi/English)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "वह स्वभाव से सज्जन है ।",
         "prashna": "(ग) वह स्वभाव से सज्जन है ।",
         "instructions": "निम्नलिखित में से किन्हीं छह वाक्यों का अनुवाद संस्कृत में करें :"
@@ -2345,6 +2577,8 @@
         "section": "Vyakaran",
         "chapter": "11",
         "chapter_name": "Translation (Sanskrit to Hindi/English)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "मेरा मित्र पटना में रहता है ।",
         "prashna": "(घ) मेरा मित्र पटना में रहता है ।",
         "instructions": "निम्नलिखित में से किन्हीं छह वाक्यों का अनुवाद संस्कृत में करें :"
@@ -2355,6 +2589,8 @@
         "section": "Vyakaran",
         "chapter": "11",
         "chapter_name": "Translation (Sanskrit to Hindi/English)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "तालाब में कमल खिलते हैं ।",
         "prashna": "(ङ) तालाब में कमल खिलते हैं ।",
         "instructions": "निम्नलिखित में से किन्हीं छह वाक्यों का अनुवाद संस्कृत में करें :"
@@ -2365,6 +2601,8 @@
         "section": "Vyakaran",
         "chapter": "11",
         "chapter_name": "Translation (Sanskrit to Hindi/English)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "तुम चलो, मैं आता हूँ ।",
         "prashna": "(च) तुम चलो, मैं आता हूँ ।",
         "instructions": "निम्नलिखित में से किन्हीं छह वाक्यों का अनुवाद संस्कृत में करें :"
@@ -2375,6 +2613,8 @@
         "section": "Vyakaran",
         "chapter": "11",
         "chapter_name": "Translation (Sanskrit to Hindi/English)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "रोहन का भाई मोहन है ।",
         "prashna": "(छ) रोहन का भाई मोहन है ।",
         "instructions": "निम्नलिखित में से किन्हीं छह वाक्यों का अनुवाद संस्कृत में करें :"
@@ -2385,6 +2625,8 @@
         "section": "Vyakaran",
         "chapter": "11",
         "chapter_name": "Translation (Sanskrit to Hindi/English)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "परिश्रम के बिना विद्या नहीं ।",
         "prashna": "(ज) परिश्रम के बिना विद्या नहीं ।",
         "instructions": "निम्नलिखित में से किन्हीं छह वाक्यों का अनुवाद संस्कृत में करें :"
@@ -2395,6 +2637,8 @@
         "section": "Vyakaran",
         "chapter": "11",
         "chapter_name": "Translation (Sanskrit to Hindi/English)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "मैं मन से पढ़ता हूँ ।",
         "prashna": "(झ) मैं मन से पढ़ता हूँ ।",
         "instructions": "निम्नलिखित में से किन्हीं छह वाक्यों का अनुवाद संस्कृत में करें :"
@@ -2405,6 +2649,8 @@
         "section": "Vyakaran",
         "chapter": "11",
         "chapter_name": "Translation (Sanskrit to Hindi/English)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "तुम कौन हो ?",
         "prashna": "(ञ) तुम कौन हो ?",
         "instructions": "निम्नलिखित में से किन्हीं छह वाक्यों का अनुवाद संस्कृत में करें :"
@@ -2415,6 +2661,8 @@
         "section": "Vyakaran",
         "chapter": "11",
         "chapter_name": "Translation (Sanskrit to Hindi/English)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "तुम्हारे पिताजी कब आएँगे ?",
         "prashna": "(ट) तुम्हारे पिताजी कब आएँगे ?",
         "instructions": "निम्नलिखित में से किन्हीं छह वाक्यों का अनुवाद संस्कृत में करें :"
@@ -2425,6 +2673,8 @@
         "section": "Vyakaran",
         "chapter": "11",
         "chapter_name": "Translation (Sanskrit to Hindi/English)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "सभी भाइयों में राम श्रेष्ठ थे ।",
         "prashna": "(ठ) सभी भाइयों में राम श्रेष्ठ थे ।",
         "instructions": "निम्नलिखित में से किन्हीं छह वाक्यों का अनुवाद संस्कृत में करें :"
@@ -2435,6 +2685,8 @@
         "section": "Piyusham",
         "chapter": "1",
         "chapter_name": "Mangalam",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "आत्मा के स्वरूप का वर्णन करें ।",
         "prashna": "(क) आत्मा के स्वरूप का वर्णन करें ।",
         "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
@@ -2445,6 +2697,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.39,
+        "raw_choice": "Piyusham - 1. Mangalam (मङ्गलम्)",
         "question": "महान लोग संसाररूपी सागर को कैसे पार करते हैं ?",
         "prashna": "(ख) महान लोग संसाररूपी सागर को कैसे पार करते हैं ?",
         "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
@@ -2455,6 +2709,8 @@
         "section": "Piyusham",
         "chapter": "3",
         "chapter_name": "Alasa-katha",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "मंत्री वीरेश्वर की चारित्रिक विशेषताओं का वर्णन करें ।",
         "prashna": "(ग) मंत्री वीरेश्वर की चारित्रिक विशेषताओं का वर्णन करें ।",
         "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
@@ -2465,6 +2721,8 @@
         "section": "Piyusham",
         "chapter": "5",
         "chapter_name": "Bharat-mahima",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'भारतमहिमा' पाठ का उद्देश्य क्या है ?",
         "prashna": "(घ) 'भारतमहिमा' पाठ का उद्देश्य क्या है ?",
         "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
@@ -2475,6 +2733,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.39,
+        "raw_choice": "Piyusham - 5. Bharat-mahima (भारतमहिमा)",
         "question": "देवगण किसका गुणगान करते हैं और क्यों ?",
         "prashna": "(ङ) देवगण किसका गुणगान करते हैं और क्यों ?",
         "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
@@ -2485,6 +2745,8 @@
         "section": "Piyusham",
         "chapter": "7",
         "chapter_name": "Niti-shlokaha",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'नीतिश्लोकाः' पाठ से किसी एक श्लोक को शुद्ध-शुद्ध लिखें ।",
         "prashna": "(च) 'नीतिश्लोकाः' पाठ से किसी एक श्लोक को शुद्ध-शुद्ध लिखें ।",
         "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
@@ -2495,6 +2757,8 @@
         "section": "Piyusham",
         "chapter": "7",
         "chapter_name": "Niti-shlokaha",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "नरक के द्वार कौन-कौन से हैं ?",
         "prashna": "(छ) नरक के द्वार कौन-कौन से हैं ?",
         "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
@@ -2505,6 +2769,8 @@
         "section": "Piyusham",
         "chapter": "3",
         "chapter_name": "Alasa-katha",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "अलसकथा पाठ का संदेश क्या है ?",
         "prashna": "(ज) अलसकथा पाठ का संदेश क्या है ?",
         "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
@@ -2515,6 +2781,8 @@
         "section": "Piyusham",
         "chapter": "8",
         "chapter_name": "Karmaveer-katha",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'कर्मवीर कथा' पाठ के आधार पर रामप्रवेश राम के परिवार का वर्णन करें ।",
         "prashna": "(झ) 'कर्मवीर कथा' पाठ के आधार पर रामप्रवेश राम के परिवार का वर्णन करें ।",
         "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
@@ -2525,6 +2793,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.32,
+        "raw_choice": "Piyusham - 7. Niti-shlokaha (नीतिश्लोकाः)",
         "question": "अनिष्ट से इष्टप्राप्ति का परिणाम कैसे बुरा होता है ?",
         "prashna": "(ञ) अनिष्ट से इष्टप्राप्ति का परिणाम कैसे बुरा होता है ?",
         "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
@@ -2535,6 +2805,8 @@
         "section": "Piyusham",
         "chapter": "12",
         "chapter_name": "Karnasya-danavirata",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "दानवीर कर्ण का चरित्र-चित्रण करें ।",
         "prashna": "(ट) दानवीर कर्ण का चरित्र-चित्रण करें ।",
         "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
@@ -2545,6 +2817,8 @@
         "section": "Piyusham",
         "chapter": "4",
         "chapter_name": "Sanskrit-sahitye Lekhika:",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "अथर्ववेद में किन पाँच ऋषिकाओं का वर्णन है ?",
         "prashna": "(ठ) अथर्ववेद में किन पाँच ऋषिकाओं का वर्णन है ?",
         "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
@@ -2555,6 +2829,8 @@
         "section": "Piyusham",
         "chapter": "2",
         "chapter_name": "Patliputra-vaibhavam",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "पटना के विभिन्न नामों का उल्लेख करें ।",
         "prashna": "(ड) पटना के विभिन्न नामों का उल्लेख करें ।",
         "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
@@ -2565,6 +2841,8 @@
         "section": "Piyusham",
         "chapter": "6",
         "chapter_name": "Bharatiya-samskarah",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "जन्मपूर्व कितने संस्कार होते हैं ? उल्लेख करें ।",
         "prashna": "(ढ) जन्मपूर्व कितने संस्कार होते हैं ? उल्लेख करें ।",
         "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
@@ -2575,6 +2853,8 @@
         "section": "Piyusham",
         "chapter": "13",
         "chapter_name": "Vishwa-shantih",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'विश्वशान्तिः' पाठ के आधार पर शान्ति स्थापित करने के उपायों को लिखें ।",
         "prashna": "(ण) 'विश्वशान्तिः' पाठ के आधार पर शान्ति स्थापित करने के उपायों को लिखें ।",
         "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"
@@ -2585,6 +2865,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.18,
+        "raw_choice": "Vyakaran - 14. Paragraph and Picture Description (अनुच्छेद एवं चित्र-वर्णनम्)",
         "question": "मध्यकाल में भारतीय समाज में व्याप्त कुरीतियों के विषय में लिखें ।",
         "prashna": "(त) मध्यकाल में भारतीय समाज में व्याप्त कुरीतियों के विषय में लिखें ।",
         "instructions": "अधोलिखित में से किन्हीं आठ प्रश्नों के उत्तर दें :"

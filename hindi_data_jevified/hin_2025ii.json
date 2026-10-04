@@ -5,6 +5,8 @@
         "section": "Godhuli",
         "chapter": "18",
         "chapter_name": "Janatantra ka Janm",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "रामधारी सिंह 'दिनकर' किस वाद के प्रमुख कवि हैं ?",
         "prashna": "रामधारी सिंह 'दिनकर' किस वाद के प्रमुख कवि हैं ?",
         "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -27,6 +29,8 @@
         "section": "Godhuli",
         "chapter": "19",
         "chapter_name": "Hiroshima",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "सच्चिदानंद हीरानंद वात्स्यायन 'अज्ञेय' ने कितने कवियों का चयन कर 'तार सप्तक' को पेश किया ?",
         "prashna": "सच्चिदानंद हीरानंद वात्स्यायन 'अज्ञेय' ने कितने कवियों का चयन कर 'तार सप्तक' को पेश किया ?",
         "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -49,6 +53,8 @@
         "section": "Godhuli",
         "chapter": "21",
         "chapter_name": "Hamari Neend",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "वीरेन डंगवाल की किस कृति पर 'रघुवीर सहाय स्मृति पुरस्कार' प्राप्त हुआ ?",
         "prashna": "वीरेन डंगवाल की किस कृति पर 'रघुवीर सहाय स्मृति पुरस्कार' प्राप्त हुआ ?",
         "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -71,6 +77,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.46,
+        "raw_choice": "Vyakaran - 15. Vocabulary (Synonyms, Antonyms, etc.) (शब्द भंडार (पर्यायवाची, विलोम, आदि))",
         "question": "'रस्क' शब्द का अर्थ है",
         "prashna": "'रस्क' शब्द का अर्थ है",
         "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -93,6 +101,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.37,
+        "raw_choice": "Vyakaran - 16. One Word Substitution (अनेक शब्दों के लिए एक शब्द)",
         "question": "सींग का बना वाद्ययंत्र क्या कहलाता है ?",
         "prashna": "सींग का बना वाद्ययंत्र क्या कहलाता है ?",
         "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -112,9 +122,11 @@
     {
         "id": "obj_6",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Vyakaran",
+        "chapter": "15",
+        "chapter_name": "Vocabulary (Synonyms, Antonyms, etc.)",
+        "confidence": 0.57,
+        "raw_choice": "Vyakaran - 15. Vocabulary (Synonyms, Antonyms, etc.) (शब्द भंडार (पर्यायवाची, विलोम, आदि))",
         "question": "'परसौ' शब्द का अर्थ है",
         "prashna": "'परसौ' शब्द का अर्थ है",
         "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -137,6 +149,8 @@
         "section": "Godhuli",
         "chapter": "15",
         "chapter_name": "Ati Sudho Sneh ko Marag Hai",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "विराग होने पर कवि घनानंद कहाँ चले गये ?",
         "prashna": "विराग होने पर कवि घनानंद कहाँ चले गये ?",
         "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -159,6 +173,8 @@
         "section": "Godhuli",
         "chapter": "17",
         "chapter_name": "Bharat Mata",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "कवि सुमित्रानंदन पंत समाजवाद से किस दर्शन की ओर प्रवृत्त हुए ?",
         "prashna": "कवि सुमित्रानंदन पंत समाजवाद से किस दर्शन की ओर प्रवृत्त हुए ?",
         "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -181,6 +197,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.29,
+        "raw_choice": "Vyakaran - 2. Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi) (शब्द विचार (तत्सम, तद्भव, देशज, विदेशी))",
         "question": "'साफा' क्या है ?",
         "prashna": "'साफा' क्या है ?",
         "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -203,6 +221,8 @@
         "section": "Vyakaran",
         "chapter": "15",
         "chapter_name": "Vocabulary (Synonyms, Antonyms, etc.)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'आदिम' शब्द का अर्थ है",
         "prashna": "'आदिम' शब्द का अर्थ है",
         "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -225,6 +245,8 @@
         "section": "Vyakaran",
         "chapter": "8",
         "chapter_name": "Adjective",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'राघव बहुत तेज लड़का है' - यह किस विशेषण का उदाहरण है ?",
         "prashna": "'राघव बहुत तेज लड़का है' - यह किस विशेषण का उदाहरण है ?",
         "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -247,6 +269,8 @@
         "section": "Vyakaran",
         "chapter": "8",
         "chapter_name": "Adjective",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'धनी व्यक्ति' - यह किस विशेषण का उदाहरण है ?",
         "prashna": "'धनी व्यक्ति' - यह किस विशेषण का उदाहरण है ?",
         "options": {
@@ -269,6 +293,8 @@
         "section": "Vyakaran",
         "chapter": "12",
         "chapter_name": "Tense and Voice",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'उसने हरीश को मारा था' - यह किस भूतकाल का उदाहरण है ?",
         "prashna": "'उसने हरीश को मारा था' - यह किस भूतकाल का उदाहरण है ?",
         "options": {
@@ -290,6 +316,8 @@
         "section": "Vyakaran",
         "chapter": "9",
         "chapter_name": "Verb",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "निम्न में कौन वाक्य सकर्मक क्रिया का उदाहरण है ?",
         "prashna": "निम्न में कौन वाक्य सकर्मक क्रिया का उदाहरण है ?",
         "options": {
@@ -311,6 +339,8 @@
         "section": "Vyakaran",
         "chapter": "11",
         "chapter_name": "Gender, Number and Case",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'माया जाड़े से काँप रही है' - इस वाक्य में कौन कारक है ?",
         "prashna": "'माया जाड़े से काँप रही है' - इस वाक्य में कौन कारक है ?",
         "options": {
@@ -332,6 +362,8 @@
         "section": "Vyakaran",
         "chapter": "24",
         "chapter_name": "Chhand",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "किस मात्रिक छंद के पहले और तीसरे चरण में 13-13 तथा दूसरे और चौथे चरण में 11-11 मात्राएँ होती हैं ?",
         "prashna": "किस मात्रिक छंद के पहले और तीसरे चरण में 13-13 तथा दूसरे और चौथे चरण में 11-11 मात्राएँ होती हैं ?",
         "options": {
@@ -353,6 +385,8 @@
         "section": "Vyakaran",
         "chapter": "25",
         "chapter_name": "Alankar",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'रहिमन पानी राखिए, बिन पानी सब सून। पानी गए न ऊबरै, मोती मानुस चून ।।' - किस अलंकार का उदाहरण है ?",
         "prashna": "'रहिमन पानी राखिए, बिन पानी सब सून। पानी गए न ऊबरै, मोती मानुस चून ।।' - किस अलंकार का उदाहरण है ?",
         "options": {
@@ -374,6 +408,8 @@
         "section": "Vyakaran",
         "chapter": "1",
         "chapter_name": "Alphabet and Phonetics",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "स्पर्श व्यंजनों की संख्या कितनी है ?",
         "prashna": "स्पर्श व्यंजनों की संख्या कितनी है ?",
         "options": {
@@ -395,6 +431,8 @@
         "section": "Vyakaran",
         "chapter": "1",
         "chapter_name": "Alphabet and Phonetics",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "निम्न में कौन वर्ण अल्पप्राण है ?",
         "prashna": "निम्न में कौन वर्ण अल्पप्राण है ?",
         "options": {
@@ -416,6 +454,8 @@
         "section": "Vyakaran",
         "chapter": "1",
         "chapter_name": "Alphabet and Phonetics",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "निम्न में कौन महाप्राण व्यंजन है ?",
         "prashna": "निम्न में कौन महाप्राण व्यंजन है ?",
         "options": {
@@ -437,6 +477,8 @@
         "section": "Vyakaran",
         "chapter": "5",
         "chapter_name": "Prefix and Suffix",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'देवरानी' शब्द में कौन प्रत्यय है ?",
         "prashna": "'देवरानी' शब्द में कौन प्रत्यय है ?",
         "options": {
@@ -458,6 +500,8 @@
         "section": "Vyakaran",
         "chapter": "5",
         "chapter_name": "Prefix and Suffix",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'चढ़़ाई' शब्द में कौन प्रत्यय है ?",
         "prashna": "'चढ़़ाई' शब्द में कौन प्रत्यय है ?",
         "options": {
@@ -479,6 +523,8 @@
         "section": "Vyakaran",
         "chapter": "2",
         "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'सूर्य' किस शब्द का उदाहरण है ?",
         "prashna": "'सूर्य' किस शब्द का उदाहरण है ?",
         "options": {
@@ -500,6 +546,8 @@
         "section": "Vyakaran",
         "chapter": "2",
         "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'जलज' किस शब्द का उदाहरण है ?",
         "prashna": "'जलज' किस शब्द का उदाहरण है ?",
         "options": {
@@ -521,6 +569,8 @@
         "section": "Vyakaran",
         "chapter": "6",
         "chapter_name": "Noun",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'सेना' किस संज्ञा का उदाहरण है ?",
         "prashna": "'सेना' किस संज्ञा का उदाहरण है ?",
         "options": {
@@ -542,6 +592,8 @@
         "section": "Vyakaran",
         "chapter": "6",
         "chapter_name": "Noun",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'लोहा' किस संज्ञा का उदाहरण है ?",
         "prashna": "'लोहा' किस संज्ञा का उदाहरण है ?",
         "options": {
@@ -563,6 +615,8 @@
         "section": "Vyakaran",
         "chapter": "11",
         "chapter_name": "Gender, Number and Case",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'सेठ' शब्द का स्त्रीलिंग रूप है",
         "prashna": "'सेठ' शब्द का स्त्रीलिंग रूप है",
         "options": {
@@ -584,6 +638,8 @@
         "section": "Vyakaran",
         "chapter": "11",
         "chapter_name": "Gender, Number and Case",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "निम्न में कौन शब्द पुल्लिंग है ?",
         "prashna": "निम्न में कौन शब्द पुल्लिंग है ?",
         "options": {
@@ -605,6 +661,8 @@
         "section": "Vyakaran",
         "chapter": "7",
         "chapter_name": "Pronoun",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'मैं स्वयं देख लूँगा' - किस सर्वनाम का उदाहरण है ?",
         "prashna": "'मैं स्वयं देख लूँगा' - किस सर्वनाम का उदाहरण है ?",
         "options": {
@@ -626,6 +684,8 @@
         "section": "Vyakaran",
         "chapter": "7",
         "chapter_name": "Pronoun",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "सर्वनाम के कितने भेद होते हैं ?",
         "prashna": "सर्वनाम के कितने भेद होते हैं ?",
         "options": {
@@ -647,6 +707,8 @@
         "section": "Godhuli",
         "chapter": "10",
         "chapter_name": "Machhli",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'मछली' शीर्षक पाठ में कौन मछली को काटा करता था ?",
         "prashna": "'मछली' शीर्षक पाठ में कौन मछली को काटा करता था ?",
         "options": {
@@ -668,6 +730,8 @@
         "section": "Godhuli",
         "chapter": "9",
         "chapter_name": "Aavinyon",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'आविान्यों' शीर्षक पाठ के लेखक हैं",
         "prashna": "'आविान्यों' शीर्षक पाठ के लेखक हैं",
         "options": {
@@ -689,6 +753,8 @@
         "section": "Godhuli",
         "chapter": "8",
         "chapter_name": "Jit-Jit Main Nirakhat Hoon",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "बिरजू महाराज अपना सबसे बड़ा जज किसको मानते थे ?",
         "prashna": "बिरजू महाराज अपना सबसे बड़ा जज किसको मानते थे ?",
         "options": {
@@ -710,6 +776,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.2,
+        "raw_choice": "Godhuli - 3. Bharat se Hum Kya Seekhe (भारत से हम क्या सीखें)",
         "question": "“यदि मनुष्य परिस्थितियों का नियामक नहीं है तो परिस्थितियाँ भी मनुष्य की नियामक नहीं हैं।” यह कथन किस लेखक का है ?",
         "prashna": "“यदि मनुष्य परिस्थितियों का नियामक नहीं है तो परिस्थितियाँ भी मनुष्य की नियामक नहीं हैं।” यह कथन किस लेखक का है ?",
         "options": {
@@ -731,6 +799,8 @@
         "section": "Godhuli",
         "chapter": "6",
         "chapter_name": "Bahadur",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "बहादुर पर कड़ा अनुशासन कौन रखता था ?",
         "prashna": "बहादुर पर कड़ा अनुशासन कौन रखता था ?",
         "options": {
@@ -752,6 +822,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.31,
+        "raw_choice": "Godhuli - 3. Bharat se Hum Kya Seekhe (भारत से हम क्या सीखें)",
         "question": "बादशाह अकबर ने जो सिक्का चलाया था उस पर कौन शब्द अंकित है ?",
         "prashna": "बादशाह अकबर ने जो सिक्का चलाया था उस पर कौन शब्द अंकित है ?",
         "options": {
@@ -773,6 +845,8 @@
         "section": "Godhuli",
         "chapter": "4",
         "chapter_name": "Nakhun Kyon Badhte Hain",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "कालिदास ने क्या कहा था ? 'नाखून क्यों बढ़ते हैं' शीर्षक पाठ के आधार पर उत्तर दें।",
         "prashna": "कालिदास ने क्या कहा था ? 'नाखून क्यों बढ़ते हैं' शीर्षक पाठ के आधार पर उत्तर दें।",
         "options": {
@@ -791,9 +865,11 @@
     {
         "id": "obj_38",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Godhuli",
+        "chapter": "3",
+        "chapter_name": "Bharat se Hum Kya Seekhe",
+        "confidence": 0.64,
+        "raw_choice": "Godhuli - 3. Bharat se Hum Kya Seekhe (भारत से हम क्या सीखें)",
         "question": "स्वामी विवेकानंद ने 'वेदांतियों का भी वेदांती' किसे कहा है ?",
         "prashna": "स्वामी विवेकानंद ने 'वेदांतियों का भी वेदांती' किसे कहा है ?",
         "options": {
@@ -815,6 +891,8 @@
         "section": "Godhuli",
         "chapter": "2",
         "chapter_name": "Vish ke Daant",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "मदन पड़ोसियों के आवारागर्द छोकरों के साथ क्या कर रहा था ?",
         "prashna": "मदन पड़ोसियों के आवारागर्द छोकरों के साथ क्या कर रहा था ?",
         "options": {
@@ -836,6 +914,8 @@
         "section": "Varnika",
         "chapter": "5",
         "chapter_name": "Dharti Kab Tak Ghoomegi",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "राजस्थानी भाषा के सफल कहानीकार कौन हैं ?",
         "prashna": "राजस्थानी भाषा के सफल कहानीकार कौन हैं ?",
         "options": {
@@ -857,6 +937,8 @@
         "section": "Vyakaran",
         "chapter": "2",
         "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "निम्नलिखित में कौन शुद्ध शब्द है ?",
         "prashna": "निम्नलिखित में कौन शुद्ध शब्द है ?",
         "options": {
@@ -875,9 +957,11 @@
     {
         "id": "obj_42",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Vyakaran",
+        "chapter": "8",
+        "chapter_name": "Adjective",
+        "confidence": 0.68,
+        "raw_choice": "Vyakaran - 8. Adjective (विशेषण)",
         "question": "'पीड़ा' शब्द का विशेषण है",
         "prashna": "'पीड़ा' शब्द का विशेषण है",
         "options": {
@@ -899,6 +983,8 @@
         "section": "Vyakaran",
         "chapter": "8",
         "chapter_name": "Adjective",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'मोह' शब्द का विशेषण है",
         "prashna": "'मोह' शब्द का विशेषण है",
         "options": {
@@ -917,9 +1003,11 @@
     {
         "id": "obj_44",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Vyakaran",
+        "chapter": "8",
+        "chapter_name": "Adjective",
+        "confidence": 0.51,
+        "raw_choice": "Vyakaran - 8. Adjective (विशेषण)",
         "question": "'बुद्ध' शब्द का विशेषण है",
         "prashna": "'बुद्ध' शब्द का विशेषण है",
         "options": {
@@ -941,6 +1029,8 @@
         "section": "Vyakaran",
         "chapter": "13",
         "chapter_name": "Sentence and Structure",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "‘अमरजीत आज दिल्ली नहीं गया क्योंकि पानी बरस रहा था’ - यह किस वाक्य का उदाहरण है ?",
         "prashna": "‘अमरजीत आज दिल्ली नहीं गया क्योंकि पानी बरस रहा था’ - यह किस वाक्य का उदाहरण है ?",
         "options": {
@@ -962,6 +1052,8 @@
         "section": "Vyakaran",
         "chapter": "12",
         "chapter_name": "Tense and Voice",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "निम्न में कौन वाक्य कर्मवाच्य का उदाहरण है ?",
         "prashna": "निम्न में कौन वाक्य कर्मवाच्य का उदाहरण है ?",
         "options": {
@@ -983,6 +1075,8 @@
         "section": "Vyakaran",
         "chapter": "5",
         "chapter_name": "Prefix and Suffix",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'अवगत' शब्द में कौन उपसर्ग है ?",
         "prashna": "'अवगत' शब्द में कौन उपसर्ग है ?",
         "options": {
@@ -1004,6 +1098,8 @@
         "section": "Vyakaran",
         "chapter": "5",
         "chapter_name": "Prefix and Suffix",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'कुख्यात' शब्द में कौन उपसर्ग है ?",
         "prashna": "'कुख्यात' शब्द में कौन उपसर्ग है ?",
         "options": {
@@ -1025,6 +1121,8 @@
         "section": "Vyakaran",
         "chapter": "5",
         "chapter_name": "Prefix and Suffix",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'उपवाक्य' शब्द में कौन उपसर्ग है ?",
         "prashna": "'उपवाक्य' शब्द में कौन उपसर्ग है ?",
         "options": {
@@ -1046,6 +1144,8 @@
         "section": "Vyakaran",
         "chapter": "5",
         "chapter_name": "Prefix and Suffix",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'वेदना' शब्द में कौन प्रत्यय है ?",
         "prashna": "'वेदना' शब्द में कौन प्रत्यय है ?",
         "options": {
@@ -1067,6 +1167,8 @@
         "section": "Vyakaran",
         "chapter": "3",
         "chapter_name": "Sandhi",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'पुरोहित' शब्द का संधि-विच्छेद है",
         "prashna": "'पुरोहित' शब्द का संधि-विच्छेद है",
         "options": {
@@ -1088,6 +1190,8 @@
         "section": "Vyakaran",
         "chapter": "3",
         "chapter_name": "Sandhi",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'मध्यालय' शब्द का संधि-विच्छेद है",
         "prashna": "'मध्यालय' शब्द का संधि-विच्छेद है",
         "options": {
@@ -1109,6 +1213,8 @@
         "section": "Vyakaran",
         "chapter": "3",
         "chapter_name": "Sandhi",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'पावन' शब्द का संधि-विच्छेद है",
         "prashna": "'पावन' शब्द का संधि-विच्छेद है",
         "options": {
@@ -1130,6 +1236,8 @@
         "section": "Vyakaran",
         "chapter": "3",
         "chapter_name": "Sandhi",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "निम्नलिखित में कौन शब्द व्यंजन संधि का उदाहरण है ?",
         "prashna": "निम्नलिखित में कौन शब्द व्यंजन संधि का उदाहरण है ?",
         "options": {
@@ -1151,6 +1259,8 @@
         "section": "Vyakaran",
         "chapter": "4",
         "chapter_name": "Samas",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "निम्नलिखित में कौन शब्द कर्मधारय समास का उदाहरण है ?",
         "prashna": "निम्नलिखित में कौन शब्द कर्मधारय समास का उदाहरण है ?",
         "options": {
@@ -1172,6 +1282,8 @@
         "section": "Vyakaran",
         "chapter": "4",
         "chapter_name": "Samas",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'पुत्रशोक' शब्द का समास-विग्रह क्या होगा ?",
         "prashna": "'पुत्रशोक' शब्द का समास-विग्रह क्या होगा ?",
         "options": {
@@ -1193,6 +1305,8 @@
         "section": "Vyakaran",
         "chapter": "4",
         "chapter_name": "Samas",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'प्रत्युपकार' शब्द किस समास का उदाहरण है ?",
         "prashna": "'प्रत्युपकार' शब्द किस समास का उदाहरण है ?",
         "options": {
@@ -1214,6 +1328,8 @@
         "section": "Vyakaran",
         "chapter": "4",
         "chapter_name": "Samas",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'गगनचुंबी' शब्द किस तत्पुरुष समास का उदाहरण है ?",
         "prashna": "'गगनचुंबी' शब्द किस तत्पुरुष समास का उदाहरण है ?",
         "options": {
@@ -1235,6 +1351,8 @@
         "section": "Vyakaran",
         "chapter": "17",
         "chapter_name": "Idioms and Proverbs",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'गुड़ खाकर गुलगुले से परहेज' लोकोक्ति का अर्थ है",
         "prashna": "'गुड़ खाकर गुलगुले से परहेज' लोकोक्ति का अर्थ है",
         "options": {
@@ -1256,6 +1374,8 @@
         "section": "Vyakaran",
         "chapter": "17",
         "chapter_name": "Idioms and Proverbs",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'सिर पर भूत सवार होना' मुहावरे का अर्थ है",
         "prashna": "'सिर पर भूत सवार होना' मुहावरे का अर्थ है",
         "options": {
@@ -1277,6 +1397,8 @@
         "section": "Vyakaran",
         "chapter": "1",
         "chapter_name": "Alphabet and Phonetics",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "हिन्दी में अनुनासिक वर्णों की कितनी संख्या है ?",
         "prashna": "हिन्दी में अनुनासिक वर्णों की कितनी संख्या है ?",
         "options": {
@@ -1298,6 +1420,8 @@
         "section": "Vyakaran",
         "chapter": "1",
         "chapter_name": "Alphabet and Phonetics",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'क्ष' किन वर्णों के मेल से बना है ?",
         "prashna": "'क्ष' किन वर्णों के मेल से बना है ?",
         "options": {
@@ -1319,6 +1443,8 @@
         "section": "Vyakaran",
         "chapter": "1",
         "chapter_name": "Alphabet and Phonetics",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'ऋ' का उच्चारण-स्थान है",
         "prashna": "'ऋ' का उच्चारण-स्थान है",
         "options": {
@@ -1340,6 +1466,8 @@
         "section": "Vyakaran",
         "chapter": "1",
         "chapter_name": "Alphabet and Phonetics",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "निम्न में कौन मूल स्वर है ?",
         "prashna": "निम्न में कौन मूल स्वर है ?",
         "options": {
@@ -1361,6 +1489,8 @@
         "section": "Vyakaran",
         "chapter": "1",
         "chapter_name": "Alphabet and Phonetics",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "निम्न में कौन ऊष्म व्यंजन है ?",
         "prashna": "निम्न में कौन ऊष्म व्यंजन है ?",
         "options": {
@@ -1382,6 +1512,8 @@
         "section": "Godhuli",
         "chapter": "13",
         "chapter_name": "Ram Binu Birthe Jagi Janma",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "गुरु नानक किस धारा के प्रमुख कवि हैं ?",
         "prashna": "गुरु नानक किस धारा के प्रमुख कवि हैं ?",
         "options": {
@@ -1403,6 +1535,8 @@
         "section": "Godhuli",
         "chapter": "14",
         "chapter_name": "Prem Ayani Shri Radhika",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'प्रेमवाटिका' किसकी रचना है ?",
         "prashna": "'प्रेमवाटिका' किसकी रचना है ?",
         "options": {
@@ -1424,6 +1558,8 @@
         "section": "Godhuli",
         "chapter": "16",
         "chapter_name": "Swadeshi",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'स्वदेशी' शीर्षक कविता किससे संकलित है ?",
         "prashna": "'स्वदेशी' शीर्षक कविता किससे संकलित है ?",
         "options": {
@@ -1445,6 +1581,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.42,
+        "raw_choice": "Godhuli - 14. Prem Ayani Shri Radhika (प्रेम अयनि श्री राधिका)",
         "question": "निम्न में कौन 'प्रेम की पीर' के कवि हैं ?",
         "prashna": "निम्न में कौन 'प्रेम की पीर' के कवि हैं ?",
         "options": {
@@ -1466,6 +1604,8 @@
         "section": "Godhuli",
         "chapter": "17",
         "chapter_name": "Bharat Mata",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "सुमित्रानंदन पंत का जन्म किस राज्य में हुआ था ?",
         "prashna": "सुमित्रानंदन पंत का जन्म किस राज्य में हुआ था ?",
         "options": {
@@ -1487,6 +1627,8 @@
         "section": "Godhuli",
         "chapter": "18",
         "chapter_name": "Janatantra ka Janm",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "रामधारी सिंह 'दिनकर' का जन्म कब हुआ था ?",
         "prashna": "रामधारी सिंह 'दिनकर' का जन्म कब हुआ था ?",
         "options": {
@@ -1508,6 +1650,8 @@
         "section": "Godhuli",
         "chapter": "19",
         "chapter_name": "Hiroshima",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'अज्ञेय' का पूरा नाम क्या है ?",
         "prashna": "'अज्ञेय' का पूरा नाम क्या है ?",
         "options": {
@@ -1526,9 +1670,11 @@
     {
         "id": "obj_73",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Godhuli",
+        "chapter": "20",
+        "chapter_name": "Ek Vriksha ki Hatya",
+        "confidence": 0.55,
+        "raw_choice": "Godhuli - 20. Ek Vriksha ki Hatya (एक वृक्ष की हत्या)",
         "question": "पर्यावरण, मनुष्य और सभ्यता के विनाश की कथा व्यक्त करती कविता निम्न में कौन है ?",
         "prashna": "पर्यावरण, मनुष्य और सभ्यता के विनाश की कथा व्यक्त करती कविता निम्न में कौन है ?",
         "options": {
@@ -1550,6 +1696,8 @@
         "section": "Godhuli",
         "chapter": "23",
         "chapter_name": "Lautkar Aaunga Phir",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "‘खेत हैं जहाँ धान के, बहती नदी’ - किस कविता की पंक्ति है ?",
         "prashna": "‘खेत हैं जहाँ धान के, बहती नदी’ - किस कविता की पंक्ति है ?",
         "options": {
@@ -1571,6 +1719,8 @@
         "section": "Godhuli",
         "chapter": "22",
         "chapter_name": "Akshar-Gyan",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'अक्षर-ज्ञान' शीर्षक कविता में बेटे का 'क' कहाँ नहीं अंटता ?",
         "prashna": "'अक्षर-ज्ञान' शीर्षक कविता में बेटे का 'क' कहाँ नहीं अंटता ?",
         "options": {
@@ -1592,6 +1742,8 @@
         "section": "Godhuli",
         "chapter": "24",
         "chapter_name": "Mere Bina Tum Prabhu",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "रेनर मारिया रिल्के के पिता का नाम क्या था ?",
         "prashna": "रेनर मारिया रिल्के के पिता का नाम क्या था ?",
         "options": {
@@ -1613,6 +1765,8 @@
         "section": "Vyakaran",
         "chapter": "15",
         "chapter_name": "Vocabulary (Synonyms, Antonyms, etc.)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'निसंक' शब्द का अर्थ है",
         "prashna": "'निसंक' शब्द का अर्थ है",
         "options": {
@@ -1634,6 +1788,8 @@
         "section": "Godhuli",
         "chapter": "1",
         "chapter_name": "Shram Vibhajan aur Jati Pratha",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "भीमराव अंबेडकर किनके प्रोत्साहन पर उच्च शिक्षा के लिए अमेरिका और लंदन गए ?",
         "prashna": "भीमराव अंबेडकर किनके प्रोत्साहन पर उच्च शिक्षा के लिए अमेरिका और लंदन गए ?",
         "options": {
@@ -1652,9 +1808,11 @@
     {
         "id": "obj_79",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Godhuli",
+        "chapter": "12",
+        "chapter_name": "Shiksha aur Sanskriti",
+        "confidence": 0.63,
+        "raw_choice": "Godhuli - 12. Shiksha aur Sanskriti (शिक्षा और संस्कृति)",
         "question": "'आध्यात्मिक शिक्षा से मेरा मतलब ............ है।' रिक्त स्थान में क्या होगा ?",
         "prashna": "'आध्यात्मिक शिक्षा से मेरा मतलब ............ है।' रिक्त स्थान में क्या होगा ?",
         "options": {
@@ -1676,6 +1834,8 @@
         "section": "Godhuli",
         "chapter": "11",
         "chapter_name": "Naubatkhane mein Ibadat",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "अमीरुद्दीन व शम्सुद्दीन के मामाद्वय कौन थे ?",
         "prashna": "अमीरुद्दीन व शम्सुद्दीन के मामाद्वय कौन थे ?",
         "options": {
@@ -1697,6 +1857,8 @@
         "section": "Vyakaran",
         "chapter": "16",
         "chapter_name": "One Word Substitution",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'लाभ की इच्छा' वाक्यखंड के लिए एक शब्द है",
         "prashna": "'लाभ की इच्छा' वाक्यखंड के लिए एक शब्द है",
         "options": {
@@ -1718,6 +1880,8 @@
         "section": "Vyakaran",
         "chapter": "16",
         "chapter_name": "One Word Substitution",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'जहाँ तक सध सके' वाक्यखंड के लिए एक शब्द है",
         "prashna": "'जहाँ तक सध सके' वाक्यखंड के लिए एक शब्द है",
         "options": {
@@ -1739,6 +1903,8 @@
         "section": "Vyakaran",
         "chapter": "15",
         "chapter_name": "Vocabulary (Synonyms, Antonyms, etc.)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'ज्येष्ठ' शब्द का विलोम है",
         "prashna": "'ज्येष्ठ' शब्द का विलोम है",
         "options": {
@@ -1760,6 +1926,8 @@
         "section": "Vyakaran",
         "chapter": "15",
         "chapter_name": "Vocabulary (Synonyms, Antonyms, etc.)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'गौरव' शब्द का विलोम है",
         "prashna": "'गौरव' शब्द का विलोम है",
         "options": {
@@ -1781,6 +1949,8 @@
         "section": "Vyakaran",
         "chapter": "15",
         "chapter_name": "Vocabulary (Synonyms, Antonyms, etc.)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'जातीय' शब्द का विलोम है",
         "prashna": "'जातीय' शब्द का विलोम है",
         "options": {
@@ -1802,6 +1972,8 @@
         "section": "Vyakaran",
         "chapter": "15",
         "chapter_name": "Vocabulary (Synonyms, Antonyms, etc.)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'ब्रह्मा' का पर्यायवाची शब्द है",
         "prashna": "'ब्रह्मा' का पर्यायवाची शब्द है",
         "options": {
@@ -1823,6 +1995,8 @@
         "section": "Vyakaran",
         "chapter": "15",
         "chapter_name": "Vocabulary (Synonyms, Antonyms, etc.)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'राजा' का पर्यायवाची शब्द है",
         "prashna": "'राजा' का पर्यायवाची शब्द है",
         "options": {
@@ -1844,6 +2018,8 @@
         "section": "Vyakaran",
         "chapter": "15",
         "chapter_name": "Vocabulary (Synonyms, Antonyms, etc.)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'सोना' का पर्यायवाची शब्द है",
         "prashna": "'सोना' का पर्यायवाची शब्द है",
         "options": {
@@ -1865,6 +2041,8 @@
         "section": "Vyakaran",
         "chapter": "18",
         "chapter_name": "Sentence Correction",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "निम्नलिखित में कौन शुद्ध वाक्य है ?",
         "prashna": "निम्नलिखित में कौन शुद्ध वाक्य है ?",
         "options": {
@@ -1886,6 +2064,8 @@
         "section": "Vyakaran",
         "chapter": "2",
         "chapter_name": "Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "निम्नलिखित में कौन अशुद्ध शब्द है ?",
         "prashna": "निम्नलिखित में कौन अशुद्ध शब्द है ?",
         "options": {
@@ -1907,6 +2087,8 @@
         "section": "Varnika",
         "chapter": "4",
         "chapter_name": "Nagar",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "बल्लि अम्माल किस शीर्षक कहानी की पात्रा है ?",
         "prashna": "बल्लि अम्माल किस शीर्षक कहानी की पात्रा है ?",
         "options": {
@@ -1928,6 +2110,8 @@
         "section": "Varnika",
         "chapter": "3",
         "chapter_name": "Maa",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "ईश्वर पेटलीकर किस भाषा के लोकप्रिय कथाकार हैं ?",
         "prashna": "ईश्वर पेटलीकर किस भाषा के लोकप्रिय कथाकार हैं ?",
         "options": {
@@ -1949,6 +2133,8 @@
         "section": "Varnika",
         "chapter": "2",
         "chapter_name": "Dhate Vishwas",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'ढहते विश्वास' में किस बाँध के टूटने का प्रसंग आया है ?",
         "prashna": "'ढहते विश्वास' में किस बाँध के टूटने का प्रसंग आया है ?",
         "options": {
@@ -1970,6 +2156,8 @@
         "section": "Varnika",
         "chapter": "1",
         "chapter_name": "Dahi Wali Magamma",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "मंगम्मा को किसके साथ विवाद था ?",
         "prashna": "मंगम्मा को किसके साथ विवाद था ?",
         "options": {
@@ -1991,6 +2179,8 @@
         "section": "Godhuli",
         "chapter": "10",
         "chapter_name": "Machhli",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "संतू मछली लेकर क्यों भागा ?",
         "prashna": "संतू मछली लेकर क्यों भागा ?",
         "options": {
@@ -2012,6 +2202,8 @@
         "section": "Godhuli",
         "chapter": "11",
         "chapter_name": "Naubatkhane mein Ibadat",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "अमीरुद्दीन का जन्म कहाँ हुआ था ?",
         "prashna": "अमीरुद्दीन का जन्म कहाँ हुआ था ?",
         "options": {
@@ -2033,6 +2225,8 @@
         "section": "Godhuli",
         "chapter": "10",
         "chapter_name": "Machhli",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "विनोद कुमार शुक्ल के उपन्यास का नाम है",
         "prashna": "विनोद कुमार शुक्ल के उपन्यास का नाम है",
         "options": {
@@ -2054,6 +2248,8 @@
         "section": "Godhuli",
         "chapter": "9",
         "chapter_name": "Aavinyon",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "अशोक वाजपेयी के माता-पिता का नाम क्या था ?",
         "prashna": "अशोक वाजपेयी के माता-पिता का नाम क्या था ?",
         "options": {
@@ -2075,6 +2271,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.14,
+        "raw_choice": "Godhuli - 15. Ati Sudho Sneh ko Marag Hai (अति सूधो सनेह को मारग है)",
         "question": "सुलोचना कौन थी ?",
         "prashna": "सुलोचना कौन थी ?",
         "options": {
@@ -2093,9 +2291,11 @@
     {
         "id": "obj_100",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Godhuli",
+        "chapter": "5",
+        "chapter_name": "Nagari Lipi",
+        "confidence": 0.57,
+        "raw_choice": "Godhuli - 5. Nagari Lipi (नागरी लिपि)",
         "question": "“एक भाषा बोलनेवाली जाति की तरह अनेक भाषाएँ बोलनेवाले राष्ट्र की भी अस्मिता होती है।” यह किस शीर्षक पाठ की पंक्ति है ?",
         "prashna": "“एक भाषा बोलनेवाली जाति की तरह अनेक भाषाएँ बोलनेवाले राष्ट्र की भी अस्मिता होती है।” यह किस शीर्षक पाठ की पंक्ति है ?",
         "options": {
@@ -2117,6 +2317,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.42,
+        "raw_choice": "Vyakaran - 20. Essay Writing (निबंध लेखन)",
         "instructions": "निम्नलिखित गद्यांशों में से किसी एक गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें। प्रत्येक प्रश्न दो अंकों का है।",
         "context": "(क) उद्योग का सामान्य अर्थ है प्राथमिक उत्पाद को गौण उत्पाद में परिवर्तित करना । औद्योगिक विकास देश की आर्थिक सम्पन्नता का मापदण्ड होता है । विश्व के प्राय: सभी उन्नत देश जैसे - संयुक्त राज्य अमेरिका, जापान, ब्रिटेन, रूस आदि औद्योगिक दृष्टि से सम्पन्न राष्ट्र हैं । भारत में औद्योगिक विकास का इतिहास अति प्राचीन है, लेकिन विकास की गति काफी धीमी रही है । आधुनिक उद्योगों की स्थापना मुख्यत: औपनिवेशिक काल में प्रारम्भ हुई, परन्तु इस समय उद्योग का स्थानीयकरण कुछ ही केन्द्रों पर सिमट कर रहा गया है । लघु और कुटीर उद्योगों का भारत के औद्योगिक उत्पादन में विशेष महत्त्व है, इसलिए इसके विकास पर भी विशेष ध्यान दिया गया । भारत ने उपलब्ध संसाधनों और औद्योगिक आवश्यकताओं को देखते हुए औद्योगिक विकास की नीतियां बनाई हैं ।",
         "sub_questions": {
@@ -2140,6 +2342,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.39,
+        "raw_choice": "Godhuli - 7. Parampara ka Mulyankan (परंपरा का मूल्यांकन)",
         "instructions": "निम्नलिखित गद्यांशों में से किसी एक गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें। प्रत्येक प्रश्न दो अंकों का है।",
         "context": "(ख) हिन्दी साहित्य को गद्य-पद्य और चम्पू तीन भागों में बाँटा गया है। गद्य और पद्य ही मुख्य रूप से हिन्दी साहित्य का आधार है। इन्हीं दो रूपों में हिन्दी साहित्य ने कई कीर्तिमान स्थापित किये हैं । संस्कृत साहित्य में चंपू का विशिष्ट स्थान रहा है; किन्तु हिन्दी साहित्य में इसकी उपस्थिति न के बराबर है । हिन्दी साहित्य में जयशंकर प्रसाद रचित 'उर्वशी' चंपू रचना है। आधुनिक युग में गद्य साहित्य का विकास तेज़ी से होने के कारण इस युग को गद्यकाल के नाम से भी जाना जाता है। गद्य में विचारों की प्रधानता होती है जबकि पद्य में भावों की। गद्य और पद्य मिश्रित रचना को ही चंपू कहते हैं।",
         "sub_questions": {
@@ -2160,9 +2364,11 @@
     {
         "id": "gadyansh_2_1",
         "type": "comprehension",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Godhuli",
+        "chapter": "6",
+        "chapter_name": "Bahadur",
+        "confidence": 0.57,
+        "raw_choice": "Godhuli - 6. Bahadur (बहादुर)",
         "instructions": "निम्नलिखित गद्यांशों में से किसी एक गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें। प्रत्येक प्रश्न दो अंकों का है।",
         "context": "(क) नेपाल, भारत के उत्तर में स्थित एक पड़ोसी देश है । इसका पूर्व-पश्चिम विस्तार अधिक है तथा उत्तर-दक्षिण विस्तार कम है । नेपाल के तीन ओर भारत के राज्य हैं । नेपाल के पूर्व में सिक्किम एवं पश्चिम बंगाल, पश्चिम में उत्तराखण्ड तथा दक्षिण में बिहार एवं उत्तर प्रदेश राज्य स्थित हैं । नेपाल की संरचना एवं स्थलाकृति को हिमालय की उत्पत्ति ने काफी प्रभावित किया है । नेपाल के उत्तरी भाग में अनेक ऊँचे-ऊँचे पर्वत शिखर हैं । विश्व का सर्वोच्च शिखर माउण्ट एवरेस्ट नेपाल में ही स्थित है । नेपाल में माउण्ट एवरेस्ट को सागरमाथा के नाम से पुकारा जाता है ।",
         "sub_questions": {
@@ -2183,9 +2389,11 @@
     {
         "id": "gadyansh_2_2",
         "type": "comprehension",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Godhuli",
+        "chapter": "11",
+        "chapter_name": "Naubatkhane mein Ibadat",
+        "confidence": 0.59,
+        "raw_choice": "Godhuli - 11. Naubatkhane mein Ibadat (नौबतखाने में इबादत)",
         "instructions": "निम्नलिखित गद्यांशों में से किसी एक गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें। प्रत्येक प्रश्न दो अंकों का है।",
         "context": "(ख) डॉ० राजेन्द्र प्रसाद भारत के प्रथम राष्ट्रपति थे। इनका जन्म बिहार में हुआ था। इनके पिता का नाम महादेव सहाय तथा माता का नाम कमलेश्वरी देवी था। महादेव सहाय संस्कृत एवं फारसी के विद्वान थे। डॉ० राजेन्द्र प्रसाद भारतीय संविधान सभा के अध्यक्ष थे। कुशल राजनीतिज्ञ होने के साथ-साथ डॉ० राजेन्द्र प्रसाद प्रतिभा सम्पन्न साहित्यकार भी थे। उन्होंने 'बापू के कदमों में' एवं 'चम्पारण में महात्मा गांधी' आदि महत्त्वपूर्ण पुस्तकें लिखीं। डॉ० राजेन्द्र प्रसाद की साहित्यिक भाषा सरल, सहज एवं प्रभावोत्पादक है। एक समय में डॉ० राजेन्द्र प्रसाद सफल अधिवक्ता भी रहे हैं। देश के लिए उनका त्याग और समर्पण देश के युवाओं के लिए अनुकरणीय है ।",
         "sub_questions": {
@@ -2209,6 +2417,8 @@
         "section": "Vyakaran",
         "chapter": "20",
         "chapter_name": "Essay Writing",
+        "confidence": 0.95,
+        "raw_choice": "",
         "instructions": "निम्नलिखित में से किसी एक विषय पर दिए गए संकेत बिंदुओं के आधार पर लगभग 250 - 300 शब्दों में निबंध लिखें :",
         "question": "विषय: (क) हमारा राष्ट्रीय ध्वज (i) प्रस्तावना (ii) भारतीय राष्ट्रीय ध्वज का इतिहास (iii) भारतीय राष्ट्रीय ध्वज का महत्त्व (iv) उपसंहार; (ख) गंगा नदी (i) परिचय (ii) धार्मिक दृष्टि से महत्त्व (iii) प्रदूषण की समस्या (iv) सफाई के लिए अभियान (v) निष्कर्ष; (ग) मेरे प्रिय कवि सूरदास (i) जीवन परिचय (ii) साहित्यिक परिचय (iii) हिन्दी साहित्य में महत्त्वपूर्ण स्थान (iv) उपसंहार; (घ) आदर्श अध्यापक (i) भूमिका (ii) अध्ययनशीलता (iii) चरित्रवान (iv) वर्तमान में अध्यापकों की स्थिति (v) उपसंहार; (ङ) दीपावली (i) प्रस्तावना (ii) दीपावली कब और क्यों मनाते हैं ? (iii) लाभ-हानि (iv) निष्कर्ष",
         "prashna": "विषय: (क) हमारा राष्ट्रीय ध्वज (i) प्रस्तावना (ii) भारतीय राष्ट्रीय ध्वज का इतिहास (iii) भारतीय राष्ट्रीय ध्वज का महत्त्व (iv) उपसंहार; (ख) गंगा नदी (i) परिचय (ii) धार्मिक दृष्टि से महत्त्व (iii) प्रदूषण की समस्या (iv) सफाई के लिए अभियान (v) निष्कर्ष; (ग) मेरे प्रिय कवि सूरदास (i) जीवन परिचय (ii) साहित्यिक परिचय (iii) हिन्दी साहित्य में महत्त्वपूर्ण स्थान (iv) उपसंहार; (घ) आदर्श अध्यापक (i) भूमिका (ii) अध्ययनशीलता (iii) चरित्रवान (iv) वर्तमान में अध्यापकों की स्थिति (v) उपसंहार; (ङ) दीपावली (i) प्रस्तावना (ii) दीपावली कब और क्यों मनाते हैं ? (iii) लाभ-हानि (iv) निष्कर्ष"
@@ -2219,6 +2429,8 @@
         "section": "Vyakaran",
         "chapter": "21",
         "chapter_name": "Letter and Application Writing",
+        "confidence": 0.95,
+        "raw_choice": "",
         "instructions": "4. अपने प्रखंड के प्रमुख के पास एक पत्र लिखें जिसमें सड़क बनवाने का अनुरोध हो। अथवा मित्रता के महत्त्व पर दो छात्रों के बीच होनेवाले संवाद को लिखें।",
         "question": "अपने प्रखंड के प्रमुख के पास एक पत्र लिखें जिसमें सड़क बनवाने का अनुरोध हो।",
         "prashna": "अपने प्रखंड के प्रमुख के पास एक पत्र लिखें जिसमें सड़क बनवाने का अनुरोध हो।"
@@ -2229,6 +2441,8 @@
         "section": "Vyakaran",
         "chapter": "21",
         "chapter_name": "Letter and Application Writing",
+        "confidence": 0.95,
+        "raw_choice": "",
         "instructions": "4. अपने प्रखंड के प्रमुख के पास एक पत्र लिखें जिसमें सड़क बनवाने का अनुरोध हो। अथवा मित्रता के महत्त्व पर दो छात्रों के बीच होनेवाले संवाद को लिखें।",
         "question": "मित्रता के महत्त्व पर दो छात्रों के बीच होनेवाले संवाद को लिखें।",
         "prashna": "मित्रता के महत्त्व पर दो छात्रों के बीच होनेवाले संवाद को लिखें।"
@@ -2239,6 +2453,8 @@
         "section": "Godhuli",
         "chapter": "17",
         "chapter_name": "Bharat Mata",
+        "confidence": 0.95,
+        "raw_choice": "",
         "instructions": "निम्नलिखित प्रश्नों में से किन्हीं पाँच प्रश्नों के उत्तर दें : (5 x 2 = 10)",
         "question": "'तरुतल निवासिनी' के माध्यम से कवि सुमित्रानंदन पंत क्या कहना चाहते हैं ?",
         "prashna": "'तरुतल निवासिनी' के माध्यम से कवि सुमित्रानंदन पंत क्या कहना चाहते हैं ?"
@@ -2249,6 +2465,8 @@
         "section": "Godhuli",
         "chapter": "15",
         "chapter_name": "Ati Sudho Sneh ko Marag Hai",
+        "confidence": 0.95,
+        "raw_choice": "",
         "instructions": "निम्नलिखित प्रश्नों में से किन्हीं पाँच प्रश्नों के उत्तर दें : (5 x 2 = 10)",
         "question": "कवि घनानंद अपने आँसुओं को कहाँ पहुँचाना चाहते हैं और क्यों ?",
         "prashna": "कवि घनानंद अपने आँसुओं को कहाँ पहुँचाना चाहते हैं और क्यों ?"
@@ -2259,6 +2477,8 @@
         "section": "Godhuli",
         "chapter": "24",
         "chapter_name": "Mere Bina Tum Prabhu",
+        "confidence": 0.95,
+        "raw_choice": "",
         "instructions": "निम्नलिखित प्रश्नों में से किन्हीं पाँच प्रश्नों के उत्तर दें : (5 x 2 = 10)",
         "question": "'मेरे बिना तुम प्रभु' शीर्षक कविता का प्रतिपाद्य क्या है ?",
         "prashna": "'मेरे बिना तुम प्रभु' शीर्षक कविता का प्रतिपाद्य क्या है ?"
@@ -2269,6 +2489,8 @@
         "section": "Godhuli",
         "chapter": "19",
         "chapter_name": "Hiroshima",
+        "confidence": 0.95,
+        "raw_choice": "",
         "instructions": "निम्नलिखित प्रश्नों में से किन्हीं पाँच प्रश्नों के उत्तर दें : (5 x 2 = 10)",
         "question": "'प्रज्ज्वलित क्षण की दुपहरी' से कवि का आशय क्या है ?",
         "prashna": "'प्रज्ज्वलित क्षण की दुपहरी' से कवि का आशय क्या है ?"
@@ -2279,6 +2501,8 @@
         "section": "Varnika",
         "chapter": "2",
         "chapter_name": "Dhate Vishwas",
+        "confidence": 0.95,
+        "raw_choice": "",
         "instructions": "निम्नलिखित प्रश्नों में से किन्हीं पाँच प्रश्नों के उत्तर दें : (5 x 2 = 10)",
         "question": "बाढ़ आने के पहले लक्ष्मी ने क्या किया ?",
         "prashna": "बाढ़ आने के पहले लक्ष्मी ने क्या किया ?"
@@ -2289,6 +2513,8 @@
         "section": "Varnika",
         "chapter": "5",
         "chapter_name": "Dharti Kab Tak Ghoomegi",
+        "confidence": 0.95,
+        "raw_choice": "",
         "instructions": "निम्नलिखित प्रश्नों में से किन्हीं पाँच प्रश्नों के उत्तर दें : (5 x 2 = 10)",
         "question": "बहुओं की आपसी लड़ाई पर सीता (माँ) की कैसी प्रतिक्रिया होती है ?",
         "prashna": "बहुओं की आपसी लड़ाई पर सीता (माँ) की कैसी प्रतिक्रिया होती है ?"
@@ -2299,6 +2525,8 @@
         "section": "Godhuli",
         "chapter": "12",
         "chapter_name": "Shiksha aur Sanskriti",
+        "confidence": 0.95,
+        "raw_choice": "",
         "instructions": "निम्नलिखित प्रश्नों में से किन्हीं पाँच प्रश्नों के उत्तर दें : (5 x 2 = 10)",
         "question": "गाँधीजी के अनुसार, शिक्षा का जरूरी अंग क्या होना चाहिए ?",
         "prashna": "गाँधीजी के अनुसार, शिक्षा का जरूरी अंग क्या होना चाहिए ?"
@@ -2309,6 +2537,8 @@
         "section": "Godhuli",
         "chapter": "1",
         "chapter_name": "Shram Vibhajan aur Jati Pratha",
+        "confidence": 0.95,
+        "raw_choice": "",
         "instructions": "निम्नलिखित प्रश्नों में से किन्हीं पाँच प्रश्नों के उत्तर दें : (5 x 2 = 10)",
         "question": "डॉ० भीमराव अंबेडकर के अनुसार किसी कार्य में दक्षता प्राप्त करने के लिए क्या अनिवार्य है ?",
         "prashna": "डॉ० भीमराव अंबेडकर के अनुसार किसी कार्य में दक्षता प्राप्त करने के लिए क्या अनिवार्य है ?"
@@ -2319,6 +2549,8 @@
         "section": "Godhuli",
         "chapter": "4",
         "chapter_name": "Nakhun Kyon Badhte Hain",
+        "confidence": 0.95,
+        "raw_choice": "",
         "instructions": "निम्नलिखित प्रश्नों में से किन्हीं पाँच प्रश्नों के उत्तर दें : (5 x 2 = 10)",
         "question": "नाखून क्यों बढ़ते हैं ? यह प्रश्न लेखक के सामने कैसे उपस्थित हुआ ?",
         "prashna": "नाखून क्यों बढ़ते हैं ? यह प्रश्न लेखक के सामने कैसे उपस्थित हुआ ?"
@@ -2329,6 +2561,8 @@
         "section": "Vyakaran",
         "chapter": "24",
         "chapter_name": "Chhand",
+        "confidence": 0.95,
+        "raw_choice": "",
         "instructions": "निम्नलिखित प्रश्नों में से किन्हीं पाँच प्रश्नों के उत्तर दें : (5 x 2 = 10)",
         "question": "छंद किसे कहते हैं और छंद के कितने प्रकार होते हैं ?",
         "prashna": "छंद किसे कहते हैं और छंद के कितने प्रकार होते हैं ?"
@@ -2339,6 +2573,8 @@
         "section": "Godhuli",
         "chapter": "3",
         "chapter_name": "Bharat se Hum Kya Seekhe",
+        "confidence": 0.95,
+        "raw_choice": "",
         "instructions": "निम्नलिखित प्रश्नों में से किसी एक प्रश्न का उत्तर लिखें (शब्द सीमा लगभग 100) : (1 x 5 = 5)",
         "question": "संस्कृत और दूसरी भारतीय भाषाओं के अध्ययन से पाश्चात्य जगत् को प्रमुख लाभ क्या-क्या हुए ?",
         "prashna": "संस्कृत और दूसरी भारतीय भाषाओं के अध्ययन से पाश्चात्य जगत् को प्रमुख लाभ क्या-क्या हुए ?"
@@ -2349,6 +2585,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.35,
+        "raw_choice": "Godhuli - 17. Bharat Mata (भारतमाता)",
         "instructions": "निम्नलिखित प्रश्नों में से किसी एक प्रश्न का उत्तर लिखें (शब्द सीमा लगभग 100) : (1 x 5 = 5)",
         "question": "सप्रसंग व्याख्या करें : 'देवता कहीं सड़कों पर गिट्टी तोड़ रहे, देवता मिलेंगे खेतों में, खलिहानों में ।'",
         "prashna": "सप्रसंग व्याख्या करें : 'देवता कहीं सड़कों पर गिट्टी तोड़ रहे, देवता मिलेंगे खेतों में, खलिहानों में ।'"

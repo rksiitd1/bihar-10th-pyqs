@@ -6,6 +6,8 @@
       "section": "Economics",
       "chapter": "4",
       "chapter_name": "Our Financial Institutions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "When was the Reserve Bank of India established?",
       "prashna": "भारतीय रिजर्व बैंक की स्थापना कब हुई ?",
       "options": {
@@ -29,6 +31,8 @@
       "section": "Economics",
       "chapter": "4",
       "chapter_name": "Our Financial Institutions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "When did the cooperative movement start in India?",
       "prashna": "भारत में सहकारिता आन्दोलन का प्रारंभ कब हुआ ?",
       "options": {
@@ -52,6 +56,31 @@
       "section": "Economics",
       "chapter": "4",
       "chapter_name": "Our Financial Institutions",
+      "confidence": 0.56,
+      "raw_choice": "Economics - 4. Our Financial Institutions (हमारी वित्तीय संस्थाएँ)",
+      "question": "When did nationalisation of commercial banks take place ?",
+      "prashna": "वाणिज्यिक बैंकों का राष्ट्रीयकरण कब हुआ था ?",
+      "options": {
+        "A": "$1966$",
+        "B": "$1969$",
+        "C": "$1980$",
+        "D": "$1975$"
+      },
+      "vikalpa": {
+        "A": "$1966$ में",
+        "B": "$1969$ में",
+        "C": "$1980$ में",
+        "D": "$1975$ में"
+      }
+    },
+    {
+      "id": "obj_8",
+      "type": "objective",
+      "section": "Economics",
+      "chapter": "4",
+      "chapter_name": "Our Financial Institutions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "When were commercial banks nationalized?",
       "prashna": "वाणिज्यिक बैंकों का राष्ट्रीयकरण कब हुआ था ?",
       "options": {
@@ -75,6 +104,8 @@
       "section": "Economics",
       "chapter": "4",
       "chapter_name": "Our Financial Institutions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The regulatory body of the stock market is:",
       "prashna": "शेयर बाजार की नियामक संस्था है।",
       "options": {
@@ -96,6 +127,8 @@
       "section": "Economics",
       "chapter": "4",
       "chapter_name": "Our Financial Institutions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of these is a source of institutional finance?",
       "prashna": "इनमें से कौन संस्थागत वित्त का साधन है?",
       "options": {
@@ -117,6 +150,8 @@
       "section": "Economics",
       "chapter": "4",
       "chapter_name": "Our Financial Institutions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which is the Central Bank of India?",
       "prashna": "भारत का केन्द्रीय बैंक कौन सा है?",
       "options": {
@@ -138,6 +173,8 @@
       "section": "Economics",
       "chapter": "4",
       "chapter_name": "Our Financial Institutions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "When commercial banks were first nationalised?",
       "prashna": "व्यावसायिक बैंकों का सर्वप्रथम राष्ट्रीयकरण कब किया गया?",
       "options": {
@@ -161,6 +198,8 @@
       "section": "Economics",
       "chapter": "4",
       "chapter_name": "Our Financial Institutions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is the source of institutional finance?",
       "prashna": "इनमें से कौन सा संस्थागत वित्त का साधन है?",
       "options": {
@@ -182,6 +221,8 @@
       "section": "Economics",
       "chapter": "4",
       "chapter_name": "Our Financial Institutions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "How many Nationalized banks are there in India?",
       "prashna": "भारत में कितने राष्ट्रीयकृत बैंक हैं?",
       "options": {
@@ -203,6 +244,8 @@
       "section": "Economics",
       "chapter": "4",
       "chapter_name": "Our Financial Institutions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Bangladeshi economist honoured with Nobel Prize is-",
       "prashna": "नोबेल पुरस्कार से सम्मानित बांग्लादेशी अर्थशास्त्री हैं –",
       "options": {
@@ -221,11 +264,59 @@
   ],
   "2020": [
     {
+      "id": "obj_17",
+      "type": "objective",
+      "section": "Economics",
+      "chapter": "4",
+      "chapter_name": "Our Financial Institutions",
+      "confidence": 0.73,
+      "raw_choice": "Economics - 4. Our Financial Institutions (हमारी वित्तीय संस्थाएँ)",
+      "question": "Which institution promotes long term loans ?",
+      "prashna": "दीर्घकालीन ऋण प्रदान करने वाली संस्था कौन-सी है ?",
+      "options": {
+        "A": "Agricultural lenders",
+        "B": "Land Development Bank",
+        "C": "Primary Agricultural Credit Society",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "कृषक महाजन",
+        "B": "भूमि विकास बैंक",
+        "C": "प्राथमिक कृषि साख समिति",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_5",
+      "type": "objective",
+      "section": "Economics",
+      "chapter": "4",
+      "chapter_name": "Our Financial Institutions",
+      "confidence": 0.52,
+      "raw_choice": "Economics - 4. Our Financial Institutions (हमारी वित्तीय संस्थाएँ)",
+      "question": "Which of the following resources is authorized to issue currency in India?",
+      "prashna": "निम्नलिखित में से कौन-सा संस्थान भारत में मुद्रा जारी करने के लिए अधिकृत है?",
+      "options": {
+        "A": "Reserve Bank of India",
+        "B": "State Bank of India",
+        "C": "Parliament",
+        "D": "President"
+      },
+      "vikalpa": {
+        "A": "रिजर्व बैंक ऑफ इण्डिया",
+        "B": "स्टेट बैंक ऑफ इण्डिया",
+        "C": "संसद",
+        "D": "राष्ट्रपति"
+      }
+    },
+    {
       "id": "obj_15",
       "type": "objective",
       "section": "Economics",
       "chapter": "4",
       "chapter_name": "Our Financial Institutions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which is the central bank of India?",
       "prashna": "भारत का केन्द्रीय बैंक कौन है?",
       "options": {
@@ -247,6 +338,8 @@
       "section": "Economics",
       "chapter": "4",
       "chapter_name": "Our Financial Institutions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "When were the commercial banks nationalized?",
       "prashna": "व्यावसायिक बैंकों का राष्ट्रीयकरण कब किया गया?",
       "options": {
@@ -270,6 +363,8 @@
       "section": "Economics",
       "chapter": "4",
       "chapter_name": "Our Financial Institutions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Central Cooperative Banks are formed at the",
       "prashna": "केन्द्रीय सहकारी बैंकों का गठन होता है",
       "options": {
@@ -291,6 +386,8 @@
       "section": "Economics",
       "chapter": "4",
       "chapter_name": "Our Financial Institutions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "In which year was the Regional Rural Bank established?",
       "prashna": "क्षेत्रीय ग्रामीण बैंक की स्थापना किस वर्ष हुई?",
       "options": {
@@ -312,6 +409,8 @@
       "section": "Economics",
       "chapter": "4",
       "chapter_name": "Our Financial Institutions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which institution provides long-term loans?",
       "prashna": "दीर्घकालीन ऋण प्रदान करने वाली संस्था कौन-सी है?",
       "options": {
@@ -333,6 +432,8 @@
       "section": "Economics",
       "chapter": "4",
       "chapter_name": "Our Financial Institutions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which is the central bank of India?",
       "prashna": "भारत का केन्द्रीय बैंक कौन है?",
       "options": {
@@ -354,6 +455,8 @@
       "section": "Economics",
       "chapter": "4",
       "chapter_name": "Our Financial Institutions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "When was the Reserve Bank of India established?",
       "prashna": "रिजर्व बैंक ऑफ इण्डिया की स्थापना कब हुई ?",
       "options": {
@@ -377,6 +480,8 @@
       "section": "Economics",
       "chapter": "4",
       "chapter_name": "Our Financial Institutions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Who is the founder of Grameen Bank?",
       "prashna": "ग्रामीण बैंक के संस्थापक कौन हैं?",
       "options": {
@@ -398,6 +503,8 @@
       "section": "Economics",
       "chapter": "4",
       "chapter_name": "Our Financial Institutions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which is the apex institution for refinancing rural and agricultural development?",
       "prashna": "कृषि तथा ग्रामीण विकास के लिए पुनर्वित्त करने वाली शीर्ष संस्था कौन है?",
       "options": {
@@ -419,6 +526,8 @@
       "section": "Economics",
       "chapter": "4",
       "chapter_name": "Our Financial Institutions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The Reserve Bank of India was established in",
       "prashna": "भारतीय रिजर्व बैंक की स्थापना हुई थी",
       "options": {
@@ -442,6 +551,8 @@
       "section": "Economics",
       "chapter": "4",
       "chapter_name": "Our Financial Institutions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "When was the first Regional Rural Bank established in Bihar?",
       "prashna": "बिहार में पहला क्षेत्रीय ग्रामीण बैंक कब स्थापित हुआ ?",
       "options": {
@@ -463,6 +574,8 @@
       "section": "Economics",
       "chapter": "4",
       "chapter_name": "Our Financial Institutions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "At what level does the Central Cooperative Bank work?",
       "prashna": "केन्द्रीय सहकारी बैंक किस स्तर पर काम करता है ?",
       "options": {
@@ -477,6 +590,29 @@
         "C": "राज्य स्तर",
         "D": "राष्ट्रीय स्तर"
       }
+    },
+    {
+      "id": "obj_68",
+      "type": "objective",
+      "section": "Economics",
+      "chapter": "4",
+      "chapter_name": "Our Financial Institutions",
+      "confidence": 0.54,
+      "raw_choice": "Economics - 4. Our Financial Institutions (हमारी वित्तीय संस्थाएँ)",
+      "question": "What type of loan is provided to the farmers by the Primary Agricultural Credit Society?",
+      "prashna": "प्राथमिक कृषि साख समिति कृषकों को किस प्रकार का ऋण प्रदान करती है ?",
+      "options": {
+        "A": "Short term",
+        "B": "Medium term",
+        "C": "Long term",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "अल्पकालीन",
+        "B": "मध्यकालीन",
+        "C": "दीर्घकालीन",
+        "D": "इनमें से सभी"
+      }
     }
   ],
   "2024": [
@@ -486,6 +622,8 @@
       "section": "Economics",
       "chapter": "4",
       "chapter_name": "Our Financial Institutions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following banks was established first?",
       "prashna": "निम्न में से किस बैंक की स्थापना पहले हुई ?",
       "options": {
@@ -502,11 +640,59 @@
       }
     },
     {
+      "id": "obj_73",
+      "type": "objective",
+      "section": "Economics",
+      "chapter": "4",
+      "chapter_name": "Our Financial Institutions",
+      "confidence": 0.62,
+      "raw_choice": "Economics - 4. Our Financial Institutions (हमारी वित्तीय संस्थाएँ)",
+      "question": "Which of the following is a part of capital market?",
+      "prashna": "निम्न में से कौन पूँजी बाजार का अंग है ?",
+      "options": {
+        "A": "Securities market",
+        "B": "Industrial market",
+        "C": "Development financial institution",
+        "D": "All of these"
+      },
+      "vikalpa": {
+        "A": "प्रतिभूति बाजार",
+        "B": "औद्योगिक बाजार",
+        "C": "विकास वित्त संस्थान",
+        "D": "इनमें से सभी"
+      }
+    },
+    {
+      "id": "obj_74",
+      "type": "objective",
+      "section": "Economics",
+      "chapter": "4",
+      "chapter_name": "Our Financial Institutions",
+      "confidence": 0.5,
+      "raw_choice": "Economics - 4. Our Financial Institutions (हमारी वित्तीय संस्थाएँ)",
+      "question": "When was the Cooperative Credit Society Act passed?",
+      "prashna": "सहकारिता साख समिति विधान कब पारित हुआ ?",
+      "options": {
+        "A": "1904",
+        "B": "1912",
+        "C": "1914",
+        "D": "1919"
+      },
+      "vikalpa": {
+        "A": "$1904$",
+        "B": "$1912$",
+        "C": "$1914$",
+        "D": "$1919$"
+      }
+    },
+    {
       "id": "obj_78",
       "type": "objective",
       "section": "Economics",
       "chapter": "4",
       "chapter_name": "Our Financial Institutions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which is the agency function of commercial bank?",
       "prashna": "व्यापारिक बैंक का एजेंसी कार्य क्या है ?",
       "options": {
@@ -528,6 +714,8 @@
       "section": "Economics",
       "chapter": "4",
       "chapter_name": "Our Financial Institutions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is the basic element of cooperative?",
       "prashna": "सहकारिता का मूल तत्व क्या है ?",
       "options": {
@@ -549,6 +737,8 @@
       "section": "Economics",
       "chapter": "4",
       "chapter_name": "Our Financial Institutions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "By what name was the Land Development Bank earlier known ?",
       "prashna": "भूमि विकास बैंक को पहले किस नाम से जाना जाता था ?",
       "options": {
@@ -570,6 +760,8 @@
       "section": "Economics",
       "chapter": "4",
       "chapter_name": "Our Financial Institutions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Micro-financial institutions started from which country ?",
       "prashna": "सूक्ष्म वित्तीय संस्थाओं की शुरुआत किस देश से हुई ?",
       "options": {
@@ -586,6 +778,54 @@
       }
     }
   ],
+  "2025": [
+    {
+      "id": "obj_36",
+      "type": "objective",
+      "section": "Economics",
+      "chapter": "4",
+      "chapter_name": "Our Financial Institutions",
+      "confidence": 0.51,
+      "raw_choice": "Economics - 4. Our Financial Institutions (हमारी वित्तीय संस्थाएँ)",
+      "question": "Which of the following provides long term loans ?",
+      "prashna": "निम्न में कौन दीर्घकालीन ऋण प्रदान करता है ?",
+      "options": {
+        "A": "Primary Agricultural Credit Society",
+        "B": "Land Development Bank",
+        "C": "Commercial Bank",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "प्राथमिक कृषि साख समिति",
+        "B": "भूमि विकास बैंक",
+        "C": "वाणिज्यिक बैंक",
+        "D": "इनमें से कोई नहीं"
+      }
+    },
+    {
+      "id": "obj_44",
+      "type": "objective",
+      "section": "Economics",
+      "chapter": "4",
+      "chapter_name": "Our Financial Institutions",
+      "confidence": 0.61,
+      "raw_choice": "Economics - 4. Our Financial Institutions (हमारी वित्तीय संस्थाएँ)",
+      "question": "Which of the following provides long term loans?",
+      "prashna": "निम्न में कौन दीर्घकालीन ऋण प्रदान करता है?",
+      "options": {
+        "A": "Primary Agricultural Credit Society",
+        "B": "Land Development Bank",
+        "C": "Commercial Bank",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "प्राथमिक कृषि साख समिति",
+        "B": "भूमि विकास बैंक",
+        "C": "वाणिज्यिक बैंक",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ],
   "2026": [
     {
       "id": "obj_29",
@@ -593,6 +833,8 @@
       "section": "Economics",
       "chapter": "4",
       "chapter_name": "Our Financial Institutions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Regional Rural Banks were established to meet the needs of which of the following ?",
       "prashna": "निम्न में से किसकी जरूरतों को पूरा करने के लिए क्षेत्रीय ग्रामीण बैंक की स्थापना की गई ?",
       "options": {
@@ -615,6 +857,8 @@
       "section": "Economics",
       "chapter": "4",
       "chapter_name": "Our Financial Institutions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is the source of non-institutional finance ?",
       "prashna": "निम्न में से क्या गैर-संस्थागत वित्त का स्रोत है ?",
       "options": {
@@ -637,6 +881,8 @@
       "section": "Economics",
       "chapter": "4",
       "chapter_name": "Our Financial Institutions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following banks was established first ?",
       "prashna": "निम्नलिखित में से किस बैंक की स्थापना सबसे पहले हुई ?",
       "options": {
@@ -659,6 +905,8 @@
       "section": "Economics",
       "chapter": "4",
       "chapter_name": "Our Financial Institutions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "At what level does the Central Co-operative Bank function ?",
       "prashna": "केन्द्रीय सहकारी बैंक किस स्तर पर कार्य करता है ?",
       "options": {
@@ -680,6 +928,8 @@
       "section": "Economics",
       "chapter": "4",
       "chapter_name": "Our Financial Institutions",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "By which name is Land Mortgage Bank now known ?",
       "prashna": "भूमि बंधक बैंक को अब किस नाम से जाना जाता है ?",
       "options": {

@@ -5,6 +5,8 @@
         "section": "Geography",
         "chapter": "8",
         "chapter_name": "Natural Disaster Management: Flood and Drought",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which river is known as the 'Sorrow of Bengal'?",
         "prashna": "कौन-सी नदी 'बंगाल के शोक' के रूप में जानी जाती है ?",
         "options": {
@@ -26,6 +28,8 @@
         "section": "Geography",
         "chapter": "9",
         "chapter_name": "Natural Disaster Management: Earthquake and Tsunami",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The tremor of the ocean bottom is related to",
         "prashna": "महासागर तल के कम्पन का सम्बन्ध है",
         "options": {
@@ -44,9 +48,11 @@
     {
         "id": "obj_3",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Civics",
+        "chapter": "2",
+        "chapter_name": "Federalism (Working of Power Sharing)",
+        "confidence": 0.67,
+        "raw_choice": "Civics - 2. Federalism (Working of Power Sharing) (सत्ता में साझेदारी की कार्यप्रणाली (संघवाद))",
         "question": "From which state was Meghalaya carved out ?",
         "prashna": "मेघालय किस राज्य को काट कर बनाया गया ?",
         "options": {
@@ -68,6 +74,8 @@
         "section": "Civics",
         "chapter": "2",
         "chapter_name": "Federalism (Working of Power Sharing)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Who has the right to make laws on the subjects of the concurrent list ?",
         "prashna": "समवर्ती सूची के विषयों पर कानून बनाने का अधिकार किसे प्राप्त है ?",
         "options": {
@@ -89,6 +97,8 @@
         "section": "Civics",
         "chapter": "2",
         "chapter_name": "Federalism (Working of Power Sharing)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Who is the head of village court ?",
         "prashna": "ग्राम कचहरी का प्रधान कौन होता है ?",
         "options": {
@@ -107,9 +117,11 @@
     {
         "id": "obj_6",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Civics",
+        "chapter": "1",
+        "chapter_name": "Power Sharing in Democracy",
+        "confidence": 0.52,
+        "raw_choice": "Civics - 1. Power Sharing in Democracy (लोकतंत्र में सत्ता की साझेदारी)",
         "question": "The government based on public opinion is",
         "prashna": "जनमत पर आधारित शासन है",
         "options": {
@@ -131,6 +143,8 @@
         "section": "Civics",
         "chapter": "2",
         "chapter_name": "Federalism (Working of Power Sharing)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Who elects the Sarpanch ?",
         "prashna": "सरपंच का निर्वाचन कौन करता है ?",
         "options": {
@@ -152,6 +166,8 @@
         "section": "Civics",
         "chapter": "5",
         "chapter_name": "Popular Struggles and Movements",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Where was the seven-party alliance formed ?",
         "prashna": "संसदीय गठबंधन कहाँ बना ?",
         "options": {
@@ -173,6 +189,8 @@
         "section": "Geography",
         "chapter": "1",
         "chapter_name": "India: Resources and Utilization",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which of the following is an abiotic resource ?",
         "prashna": "निम्न में से कौन अजैविक संसाधन है ?",
         "options": {
@@ -194,6 +212,8 @@
         "section": "Geography",
         "chapter": "1",
         "chapter_name": "India: Resources and Utilization",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is regur called ?",
         "prashna": "रेगुर किसे कहते हैं ?",
         "options": {
@@ -212,9 +232,11 @@
     {
         "id": "obj_11",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Geography",
+        "chapter": "1",
+        "chapter_name": "India: Resources and Utilization",
+        "confidence": 0.56,
+        "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
         "question": "Where is the Sharavati River Valley Project located ?",
         "prashna": "शरावती नदीघाटी परियोजना कहाँ अवस्थित है ?",
         "options": {
@@ -236,6 +258,8 @@
         "section": "Geography",
         "chapter": "1",
         "chapter_name": "India: Resources and Utilization",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What percentage of India is covered by forest ?",
         "prashna": "भारत का कितना प्रतिशत भाग वनों से ढँका है ?",
         "options": {
@@ -254,9 +278,11 @@
     {
         "id": "obj_13",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Geography",
+        "chapter": "1",
+        "chapter_name": "India: Resources and Utilization",
+        "confidence": 0.67,
+        "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
         "question": "Where is Naharkatia oil field located ?",
         "prashna": "नहरकटिया तेल क्षेत्र कहाँ स्थित है ?",
         "options": {
@@ -275,9 +301,11 @@
     {
         "id": "obj_14",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Geography",
+        "chapter": "1",
+        "chapter_name": "India: Resources and Utilization",
+        "confidence": 0.51,
+        "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
         "question": "When was the first National Water Policy adopted ?",
         "prashna": "प्रथम राष्ट्रीय जल नीति कब अपनाई गई थी ?",
         "options": {
@@ -299,6 +327,8 @@
         "section": "Geography",
         "chapter": "9",
         "chapter_name": "Natural Disaster Management: Earthquake and Tsunami",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "In which year did the most severe earthquake occur in Bihar ?",
         "prashna": "बिहार में किस वर्ष सबसे भयंकर भूकम्प आया ?",
         "options": {
@@ -317,9 +347,11 @@
     {
         "id": "obj_16",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Geography",
+        "chapter": "3",
+        "chapter_name": "Manufacturing Industries",
+        "confidence": 0.62,
+        "raw_choice": "Geography - 3. Manufacturing Industries (निर्माण उद्योग)",
         "question": "Where among the following is the thermal power generation plant located ?",
         "prashna": "निम्न में से कहाँ तापविद्युत उत्पादन केन्द्र स्थित है ?",
         "options": {
@@ -341,6 +373,8 @@
         "section": "Economics",
         "chapter": "1",
         "chapter_name": "History of Economy and its Development",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which economic activity is predominant in rural areas ?",
         "prashna": "कौन-सी आर्थिक क्रिया ग्रामीण क्षेत्रों में प्रमुख है ?",
         "options": {
@@ -362,6 +396,8 @@
         "section": "Economics",
         "chapter": "6",
         "chapter_name": "Globalization",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which sector has benefited the least by the policy of globalization ?",
         "prashna": "वैश्वीकरण की नीति से किस क्षेत्र को सबसे कम लाभ हुआ है ?",
         "options": {
@@ -383,6 +419,8 @@
         "section": "Economics",
         "chapter": "3",
         "chapter_name": "Money, Savings and Credit",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Dinar is the currency of which country ?",
         "prashna": "दिनार किस देश की मुद्रा है ?",
         "options": {
@@ -404,6 +442,8 @@
         "section": "Economics",
         "chapter": "1",
         "chapter_name": "History of Economy and its Development",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is the duration of eleventh five-year plan ?",
         "prashna": "ग्यारहवीं पंचवर्षीय योजना की अवधि क्या है ?",
         "options": {
@@ -425,6 +465,8 @@
         "section": "Economics",
         "chapter": "1",
         "chapter_name": "History of Economy and its Development",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Gas and electricity productions are placed in which sector ?",
         "prashna": "गैस और बिजली उत्पादन को किस क्षेत्र में रखते हैं ?",
         "options": {
@@ -446,6 +488,8 @@
         "section": "Economics",
         "chapter": "1",
         "chapter_name": "History of Economy and its Development",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The process of economic development which raises the standard of living of all the sections of the society is called",
         "prashna": "आर्थिक विकास की जिस प्रक्रिया से समाज के सभी वर्गों का जीवन स्तर ऊँचा हो जाए, कहलाती है",
         "options": {
@@ -467,6 +511,8 @@
         "section": "Economics",
         "chapter": "1",
         "chapter_name": "History of Economy and its Development",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Who prepared India's first Human Development Report ?",
         "prashna": "भारत की पहली मानव विकास रिपोर्ट किसने तैयार की ?",
         "options": {
@@ -488,6 +534,8 @@
         "section": "Economics",
         "chapter": "1",
         "chapter_name": "History of Economy and its Development",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The secondary sector is also known as",
         "prashna": "द्वितीयक क्षेत्र को ............ नाम से भी जाना जाता है।",
         "options": {
@@ -509,6 +557,8 @@
         "section": "History",
         "chapter": "1",
         "chapter_name": "Nationalism in Europe",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Who was the king of Sardinia ?",
         "prashna": "सार्डिनिया का राजा कौन था ?",
         "options": {
@@ -530,6 +580,8 @@
         "section": "History",
         "chapter": "2",
         "chapter_name": "Socialism and Communism",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Who founded the Third International in 1919 ?",
         "prashna": "1919 में थर्ड इंटरनेशनल की स्थापना किसने की ?",
         "options": {
@@ -551,6 +603,8 @@
         "section": "History",
         "chapter": "1",
         "chapter_name": "Nationalism in Europe",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Who was the chief hero of the unification of Italy ?",
         "prashna": "इटली के एकीकरण का प्रमुख नायक कौन था ?",
         "options": {
@@ -572,6 +626,8 @@
         "section": "History",
         "chapter": "2",
         "chapter_name": "Socialism and Communism",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "By what name is the first Russian Revolution of 1917 known ?",
         "prashna": "1917 की पहली रूसी क्रांति किस नाम से जानी जाती है ?",
         "options": {
@@ -593,6 +649,8 @@
         "section": "History",
         "chapter": "4",
         "chapter_name": "Nationalism in India",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which of the following is not a liberal leader ?",
         "prashna": "निम्न में से कौन उदारवादी नेता नहीं हैं ?",
         "options": {
@@ -614,6 +672,8 @@
         "section": "History",
         "chapter": "4",
         "chapter_name": "Nationalism in India",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which of the following proposed separate electorate for Muslims for the first time ?",
         "prashna": "निम्नलिखित में से किसने पहली बार मुसलमानों के लिए अलग निर्वाचन का प्रस्ताव रखा ?",
         "options": {
@@ -635,6 +695,8 @@
         "section": "History",
         "chapter": "5",
         "chapter_name": "Economy and Livelihood",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Where was the first textile mill established in India ?",
         "prashna": "भारत में पहली कपड़ा मिल कहाँ स्थापित की गई ?",
         "options": {
@@ -656,6 +718,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.47,
+        "raw_choice": "History - 5. Economy and Livelihood (अर्थव्यवस्था और आजीविका)",
         "question": "In which country was the 'corn law' passed ?",
         "prashna": "'कॉर्न लॉ' किस देश में पारित किया गया था ?",
         "options": {
@@ -677,6 +741,8 @@
         "section": "Economics",
         "chapter": "7",
         "chapter_name": "Consumer Awareness and Protection",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is COPRA ?",
         "prashna": "कोपरा (COPRA) क्या है ?",
         "options": {
@@ -698,6 +764,8 @@
         "section": "Economics",
         "chapter": "4",
         "chapter_name": "Our Financial Institutions",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "By what name was the Land Development Bank earlier known ?",
         "prashna": "भूमि विकास बैंक को पहले किस नाम से जाना जाता था ?",
         "options": {
@@ -716,9 +784,11 @@
     {
         "id": "obj_35",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Geography",
+        "chapter": "4",
+        "chapter_name": "Transport, Communication and Trade",
+        "confidence": 0.54,
+        "raw_choice": "Geography - 4. Transport, Communication and Trade (परिवहन, संचार एवं व्यापार)",
         "question": "Railways were started in India during whose reign ?",
         "prashna": "भारत में रेलवे की शुरुआत किसके शासनकाल के दौरान हुई ?",
         "options": {
@@ -740,6 +810,8 @@
         "section": "History",
         "chapter": "1",
         "chapter_name": "Nationalism in Europe",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "When was Louis Sixteen hanged ?",
         "prashna": "लुई सोलहवें को फाँसी कब दी गई ?",
         "options": {
@@ -761,6 +833,8 @@
         "section": "History",
         "chapter": "2",
         "chapter_name": "Socialism and Communism",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Who implemented the New Economic Policy (NEP) ?",
         "prashna": "नई आर्थिक नीति किसने लागू की ?",
         "options": {
@@ -782,6 +856,8 @@
         "section": "History",
         "chapter": "2",
         "chapter_name": "Socialism and Communism",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Who succeeded Lenin ?",
         "prashna": "लेनिन का उत्तराधिकारी कौन बना ?",
         "options": {
@@ -800,9 +876,11 @@
     {
         "id": "obj_39",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "History",
+        "chapter": "4",
+        "chapter_name": "Nationalism in India",
+        "confidence": 0.56,
+        "raw_choice": "History - 4. Nationalism in India (भारत में राष्ट्रवाद)",
         "question": "Who surrendered after the declaration of Potsdam ?",
         "prashna": "पोट्सडम की घोषणा के बाद किसने आत्मसमर्पण किया ?",
         "options": {
@@ -824,6 +902,8 @@
         "section": "History",
         "chapter": "4",
         "chapter_name": "Nationalism in India",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Who was the first President of Swaraj Dal ?",
         "prashna": "स्वराज दल के प्रथम अध्यक्ष कौन थे ?",
         "options": {
@@ -842,9 +922,11 @@
     {
         "id": "obj_41",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Geography",
+        "chapter": "1",
+        "chapter_name": "India: Resources and Utilization",
+        "confidence": 0.54,
+        "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
         "question": "In which state is the Indira Gandhi canal located ?",
         "prashna": "इंदिरा गांधी नहर किस राज्य में स्थित है ?",
         "options": {
@@ -866,6 +948,8 @@
         "section": "Geography",
         "chapter": "5",
         "chapter_name": "Bihar: Agriculture and Forest Resources",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Where is Rohila National Park ?",
         "prashna": "रोहिला राष्ट्रीय उद्यान कहाँ है ?",
         "options": {
@@ -887,6 +971,8 @@
         "section": "Geography",
         "chapter": "1",
         "chapter_name": "India: Resources and Utilization",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "India is the leading producer of which mineral in the world ?",
         "prashna": "भारत किस खनिज के उत्पादन में विश्व में अग्रणी है ?",
         "options": {
@@ -908,6 +994,8 @@
         "section": "Geography",
         "chapter": "3",
         "chapter_name": "Manufacturing Industries",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which mineral is needed to make aluminium ?",
         "prashna": "एल्युमिनियम बनाने के लिए किस खनिज की आवश्यकता होती है ?",
         "options": {
@@ -929,6 +1017,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.29,
+        "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
         "question": "In which state is Damodar Valley Project located ?",
         "prashna": "दामोदर घाटी परियोजना किस राज्य में स्थित है ?",
         "options": {
@@ -950,6 +1040,8 @@
         "section": "Geography",
         "chapter": "2",
         "chapter_name": "Agriculture",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which is the largest sugarcane producing state in South India ?",
         "prashna": "दक्षिण भारत में सर्वाधिक गन्ना उत्पादक राज्य कौन है ?",
         "options": {
@@ -971,6 +1063,8 @@
         "section": "Geography",
         "chapter": "3",
         "chapter_name": "Manufacturing Industries",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Where is Visvesvaraya Iron and Steel Limited located ?",
         "prashna": "विश्वेश्वरैया आयरन एण्ड स्टील लिमिटेड कहाँ स्थित है ?",
         "options": {
@@ -989,9 +1083,11 @@
     {
         "id": "obj_48",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Geography",
+        "chapter": "3",
+        "chapter_name": "Manufacturing Industries",
+        "confidence": 0.6,
+        "raw_choice": "Geography - 3. Manufacturing Industries (निर्माण उद्योग)",
         "question": "Which shipyard makes warships for India ?",
         "prashna": "कौन-सा शिपयार्ड भारत के लिए युद्धपोत बनाता है ?",
         "options": {
@@ -1013,6 +1109,8 @@
         "section": "Geography",
         "chapter": "4",
         "chapter_name": "Transport, Communication and Trade",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which of the following is the headquarters of North Central Railways ?",
         "prashna": "उत्तर मध्य रेलवे का मुख्यालय निम्न में से कौन है ?",
         "options": {
@@ -1034,6 +1132,8 @@
         "section": "Geography",
         "chapter": "4",
         "chapter_name": "Transport, Communication and Trade",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "When did All India Radio start ?",
         "prashna": "ऑल इंडिया रेडियो की शुरुआत कब हुई ?",
         "options": {
@@ -1055,6 +1155,8 @@
         "section": "Geography",
         "chapter": "4",
         "chapter_name": "Transport, Communication and Trade",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which state has the first position in terms of length of roads in India ?",
         "prashna": "भारत में सड़कों की लम्बाई की दृष्टि से प्रथम स्थान किस राज्य का है ?",
         "options": {
@@ -1076,6 +1178,8 @@
         "section": "Geography",
         "chapter": "7",
         "chapter_name": "Natural Disaster: An Introduction",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which of the following states is most affected by cyclonic storms ?",
         "prashna": "निम्नलिखित में से कौन राज्य चक्रवातीय तूफान से सर्वाधिक प्रभावित है ?",
         "options": {
@@ -1097,6 +1201,8 @@
         "section": "Geography",
         "chapter": "10",
         "chapter_name": "Life Saving Emergency Management",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which of the following is a first-aid equipment ?",
         "prashna": "निम्न में से कौन प्राथमिक उपचार का उपकरण है ?",
         "options": {
@@ -1118,6 +1224,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.39,
+        "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
         "question": "Aswan Dam is built on which river ?",
         "prashna": "आस्वान बाँध किस नदी पर बना है ?",
         "options": {
@@ -1139,6 +1247,8 @@
         "section": "Geography",
         "chapter": "9",
         "chapter_name": "Natural Disaster Management: Earthquake and Tsunami",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Richter scale is used in which disaster ?",
         "prashna": "रिक्टर पैमाना का उपयोग किस आपदा में होता है ?",
         "options": {
@@ -1160,6 +1270,8 @@
         "section": "Geography",
         "chapter": "8",
         "chapter_name": "Natural Disaster Management: Flood and Drought",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Eastern Bihar is prone to which calamity ?",
         "prashna": "पूर्वी बिहार प्रायः किस आपदा से ग्रसित रहता है ?",
         "options": {
@@ -1181,6 +1293,8 @@
         "section": "Civics",
         "chapter": "2",
         "chapter_name": "Federalism (Working of Power Sharing)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Who among the following suggested democratic decentralization ?",
         "prashna": "लोकतांत्रिक विकेन्द्रीकरण का सुझाव निम्न में से किसने दिया ?",
         "options": {
@@ -1202,6 +1316,8 @@
         "section": "Civics",
         "chapter": "2",
         "chapter_name": "Federalism (Working of Power Sharing)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which constitutional amendment is related to urban local self government ?",
         "prashna": "कौन-सा संवैधानिक संशोधन नगरीय स्थानीय स्वशासन से संबंधित है ?",
         "options": {
@@ -1223,6 +1339,8 @@
         "section": "Civics",
         "chapter": "5",
         "chapter_name": "Popular Struggles and Movements",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Chipko movement was started from which state ?",
         "prashna": "चिपको आंदोलन का प्रारंभ किस राज्य से हुआ ?",
         "options": {
@@ -1244,6 +1362,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.47,
+        "raw_choice": "Civics - 2. Federalism (Working of Power Sharing) (सत्ता में साझेदारी की कार्यप्रणाली (संघवाद))",
         "question": "Who declares emergency ?",
         "prashna": "आपातकाल की घोषणा कौन करता है ?",
         "options": {
@@ -1265,6 +1385,8 @@
         "section": "Civics",
         "chapter": "2",
         "chapter_name": "Federalism (Working of Power Sharing)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which country does not have a federal system of governance ?",
         "prashna": "किस देश में संघात्मक शासन व्यवस्था नहीं है ?",
         "options": {
@@ -1286,6 +1408,8 @@
         "section": "Civics",
         "chapter": "6",
         "chapter_name": "Political Parties",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which is the oldest political party in India ?",
         "prashna": "भारत का सबसे पुराना राजनीतिक दल कौन-सा है ?",
         "options": {
@@ -1307,6 +1431,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.44,
+        "raw_choice": "Civics - 1. Power Sharing in Democracy (लोकतंत्र में सत्ता की साझेदारी)",
         "question": "In which of the following countries is direct democracy found ?",
         "prashna": "निम्न में से किस देश में प्रत्यक्ष लोकतंत्र पाया जाता है ?",
         "options": {
@@ -1328,6 +1454,8 @@
         "section": "Civics",
         "chapter": "7",
         "chapter_name": "Outcomes of Democracy",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Due to which quality democracy is considered better than other forms of government ?",
         "prashna": "किस गुण के कारण लोकतंत्र को अन्य शासन प्रणालियों से बेहतर माना जाता है ?",
         "options": {
@@ -1349,6 +1477,8 @@
         "section": "Economics",
         "chapter": "2",
         "chapter_name": "State and National Income",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "When was the national income estimated for the first time in India ?",
         "prashna": "भारत में सर्वप्रथम राष्ट्रीय आय का अनुमान कब लगाया गया ?",
         "options": {
@@ -1370,6 +1500,8 @@
         "section": "Economics",
         "chapter": "2",
         "chapter_name": "State and National Income",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Circular flow is related to which of the following ?",
         "prashna": "चक्रीय प्रवाह का संबंध निम्न में से किससे है ?",
         "options": {
@@ -1391,6 +1523,8 @@
         "section": "Economics",
         "chapter": "3",
         "chapter_name": "Money, Savings and Credit",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is the difference between income and consumption called ?",
         "prashna": "आय और उपभोग का अंतर क्या कहलाता है ?",
         "options": {
@@ -1412,6 +1546,8 @@
         "section": "Economics",
         "chapter": "4",
         "chapter_name": "Our Financial Institutions",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Micro-financial institutions started from which country ?",
         "prashna": "सूक्ष्म वित्तीय संस्थाओं की शुरुआत किस देश से हुई ?",
         "options": {
@@ -1430,9 +1566,11 @@
     {
         "id": "obj_69",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Economics",
+        "chapter": "2",
+        "chapter_name": "State and National Income",
+        "confidence": 0.52,
+        "raw_choice": "Economics - 2. State and National Income (राज्य एवं राष्ट्र की आय)",
         "question": "Which sector has the least contribution to Gross Domestic Product (GDP) ?",
         "prashna": "सकल घरेलू उत्पाद (GDP) में सबसे कम योगदान किस क्षेत्र का है ?",
         "options": {
@@ -1451,9 +1589,11 @@
     {
         "id": "obj_70",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Economics",
+        "chapter": "1",
+        "chapter_name": "History of Economy and its Development",
+        "confidence": 0.68,
+        "raw_choice": "Economics - 1. History of Economy and its Development (अर्थव्यवस्था एवं इसके विकास का इतिहास)",
         "question": "Which of the following is a part of economic infrastructure ?",
         "prashna": "निम्न में से क्या आर्थिक आधारभूत संरचना का अंग है ?",
         "options": {
@@ -1475,6 +1615,8 @@
         "section": "Economics",
         "chapter": "6",
         "chapter_name": "Globalization",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Where is the headquarters of World Trade Organization situated ?",
         "prashna": "विश्व व्यापार संगठन का मुख्यालय कहाँ स्थित है ?",
         "options": {
@@ -1496,6 +1638,8 @@
         "section": "Economics",
         "chapter": "2",
         "chapter_name": "State and National Income",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The meaning of National income is",
         "prashna": "राष्ट्रीय आय का अर्थ है",
         "options": {
@@ -1517,6 +1661,8 @@
         "section": "History",
         "chapter": "4",
         "chapter_name": "Nationalism in India",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Who was the political guru of Gandhiji ?",
         "prashna": "गाँधीजी के राजनीतिक गुरु कौन थे ?",
         "options": {
@@ -1535,9 +1681,11 @@
     {
         "id": "obj_74",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "History",
+        "chapter": "4",
+        "chapter_name": "Nationalism in India",
+        "confidence": 0.51,
+        "raw_choice": "History - 4. Nationalism in India (भारत में राष्ट्रवाद)",
         "question": "Which of the following was not a part of allied powers ?",
         "prashna": "निम्न में से कौन मित्र राष्ट्रों के गुट में शामिल नहीं था ?",
         "options": {
@@ -1559,6 +1707,8 @@
         "section": "History",
         "chapter": "8",
         "chapter_name": "Press, Culture and Nationalism",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "In which language was 'Samvad Kaumudi' published ?",
         "prashna": "'संवाद कौमुदी' का प्रकाशन किस भाषा में हुआ ?",
         "options": {
@@ -1580,6 +1730,8 @@
         "section": "History",
         "chapter": "8",
         "chapter_name": "Press, Culture and Nationalism",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Who is famous as the liberator of Indian newspapers ?",
         "prashna": "भारतीय समाचारपत्रों के मुक्तिदाता के रूप में कौन विख्यात है ?",
         "options": {
@@ -1601,6 +1753,8 @@
         "section": "History",
         "chapter": "1",
         "chapter_name": "Nationalism in Europe",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "With whom is the policy of 'Blood and Iron' related ?",
         "prashna": "'रक्त और लौह' की नीति का संबंध किससे है ?",
         "options": {
@@ -1622,6 +1776,8 @@
         "section": "History",
         "chapter": "1",
         "chapter_name": "Nationalism in Europe",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Bohemia was under which of the following countries ?",
         "prashna": "बोहेमिया निम्न में से किस देश के अधीन था ?",
         "options": {
@@ -1643,6 +1799,8 @@
         "section": "History",
         "chapter": "2",
         "chapter_name": "Socialism and Communism",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Between which countries was the treaty of Brest-Litovsk signed ?",
         "prashna": "ब्रेस्ट-लिटोवस्क की संधि किन देशों के बीच हुई थी ?",
         "options": {
@@ -1664,6 +1822,8 @@
         "section": "History",
         "chapter": "1",
         "chapter_name": "Nationalism in Europe",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Where did William I become the emperor in 1871 ?",
         "prashna": "1871 में विलियम प्रथम कहाँ का सम्राट बना ?",
         "options": {
@@ -1685,6 +1845,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.46,
+        "raw_choice": "History - 2. Socialism and Communism (समाजवाद एवं साम्यवाद)",
         "question": "Write in brief about Cold War.",
         "prashna": "शीत युद्ध के विषय में संक्षेप में लिखिए।"
     },
@@ -1694,15 +1856,19 @@
         "section": "History",
         "chapter": "1",
         "chapter_name": "Nationalism in Europe",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What were the causes of the French Revolution of 1848 ?",
         "prashna": "1848 की फ्रांसीसी क्रांति के कारण क्या थे ?"
     },
     {
         "id": "short_3",
         "type": "short_answer",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "History",
+        "chapter": "5",
+        "chapter_name": "Economy and Livelihood",
+        "confidence": 0.64,
+        "raw_choice": "History - 5. Economy and Livelihood (अर्थव्यवस्था और आजीविका)",
         "question": "Why was the All India Trade Union Congress established ?",
         "prashna": "ऑल इंडिया ट्रेड यूनियन कांग्रेस की स्थापना क्यों हुई थी ?"
     },
@@ -1712,6 +1878,8 @@
         "section": "History",
         "chapter": "5",
         "chapter_name": "Economy and Livelihood",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "How did industrialization affect the livelihood of the labourers ?",
         "prashna": "औद्योगिकीकरण ने मजदूरों की आजीविका को किस प्रकार प्रभावित किया ?"
     },
@@ -1721,6 +1889,8 @@
         "section": "History",
         "chapter": "2",
         "chapter_name": "Socialism and Communism",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is Communism ?",
         "prashna": "साम्यवाद क्या है ?"
     },
@@ -1730,6 +1900,8 @@
         "section": "History",
         "chapter": "3",
         "chapter_name": "Nationalist Movement in Indo-China",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What was the purpose of the Hoa Hao movement ?",
         "prashna": "होआ-हाओ आंदोलन का क्या उद्देश्य था ?"
     },
@@ -1739,6 +1911,8 @@
         "section": "Civics",
         "chapter": "5",
         "chapter_name": "Popular Struggles and Movements",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "How is right to information the saviour of democracy ?",
         "prashna": "सूचना का अधिकार किस प्रकार लोकतंत्र का रखवाला है ?"
     },
@@ -1748,6 +1922,8 @@
         "section": "Civics",
         "chapter": "2",
         "chapter_name": "Federalism (Working of Power Sharing)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Mention any four features of Indian Federal System.",
         "prashna": "भारतीय संघीय व्यवस्था की कोई चार विशेषताएँ बताइए।"
     },
@@ -1757,6 +1933,8 @@
         "section": "Civics",
         "chapter": "6",
         "chapter_name": "Political Parties",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Why has India adopted multi-party system ?",
         "prashna": "भारत में बहुदलीय व्यवस्था क्यों अपनाई गई है ?"
     },
@@ -1766,6 +1944,8 @@
         "section": "Civics",
         "chapter": "5",
         "chapter_name": "Popular Struggles and Movements",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What were the main demands of the Indian Farmer's Union ?",
         "prashna": "भारतीय किसान यूनियन की मुख्य माँगें क्या थीं ?"
     },
@@ -1775,6 +1955,8 @@
         "section": "Economics",
         "chapter": "1",
         "chapter_name": "History of Economy and its Development",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is mixed economy ?",
         "prashna": "मिश्रित अर्थव्यवस्था क्या है ?"
     },
@@ -1784,6 +1966,8 @@
         "section": "Economics",
         "chapter": "6",
         "chapter_name": "Globalization",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Mention four positive effects of globalization.",
         "prashna": "वैश्वीकरण के चार सकारात्मक प्रभाव बताइए।"
     },
@@ -1793,6 +1977,8 @@
         "section": "Economics",
         "chapter": "4",
         "chapter_name": "Our Financial Institutions",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is the function of financial institutions ?",
         "prashna": "वित्तीय संस्थाओं का क्या कार्य है ?"
     },
@@ -1802,24 +1988,30 @@
         "section": "Economics",
         "chapter": "4",
         "chapter_name": "Our Financial Institutions",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is the role of self-help group in women empowerment ?",
         "prashna": "महिला सशक्तिकरण में स्वयं सहायता समूह की क्या भूमिका है ?"
     },
     {
         "id": "short_15",
         "type": "short_answer",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Geography",
+        "chapter": "1",
+        "chapter_name": "India: Resources and Utilization",
+        "confidence": 0.66,
+        "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
         "question": "Nuclear power is obtained from which minerals ?",
         "prashna": "परमाणु शक्ति किन खनिजों से प्राप्त होती है ?"
     },
     {
         "id": "short_16",
         "type": "short_answer",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Geography",
+        "chapter": "1",
+        "chapter_name": "India: Resources and Utilization",
+        "confidence": 0.56,
+        "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
         "question": "What is the utility of manganese ?",
         "prashna": "मैंगनीज की क्या उपयोगिता है ?"
     },
@@ -1829,6 +2021,8 @@
         "section": "Geography",
         "chapter": "3",
         "chapter_name": "Manufacturing Industries",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Define thermal pollution.",
         "prashna": "तापीय प्रदूषण को परिभाषित करें।"
     },
@@ -1838,6 +2032,8 @@
         "section": "Geography",
         "chapter": "5",
         "chapter_name": "Bihar: Agriculture and Forest Resources",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Mention the problems related to the development of canals in Bihar.",
         "prashna": "बिहार में नहरों के विकास से संबंधित समस्याओं का उल्लेख कीजिए।"
     },
@@ -1847,15 +2043,19 @@
         "section": "Geography",
         "chapter": "1",
         "chapter_name": "India: Resources and Utilization",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Write the features of mangrove forest.",
         "prashna": "मैंग्रोव वन की विशेषताएँ लिखिए।"
     },
     {
         "id": "short_20",
         "type": "short_answer",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Geography",
+        "chapter": "1",
+        "chapter_name": "India: Resources and Utilization",
+        "confidence": 0.67,
+        "raw_choice": "Geography - 1. India: Resources and Utilization (भारत: संसाधन एवं उपयोग)",
         "question": "Name two coal fields of Jharkhand.",
         "prashna": "झारखण्ड के दो कोयला क्षेत्रों के नाम लिखिए।"
     },
@@ -1865,6 +2065,8 @@
         "section": "Geography",
         "chapter": "8",
         "chapter_name": "Natural Disaster Management: Flood and Drought",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is the difference between dam and embankment ?",
         "prashna": "बाँध एवं तटबंध में क्या अंतर है ?"
     },
@@ -1874,15 +2076,19 @@
         "section": "Geography",
         "chapter": "9",
         "chapter_name": "Natural Disaster Management: Earthquake and Tsunami",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Write two measures to reduce the effects of earthquake.",
         "prashna": "भूकंप के प्रभावों को कम करने वाले दो उपायों को लिखिए।"
     },
     {
         "id": "short_23",
         "type": "short_answer",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Geography",
+        "chapter": "4",
+        "chapter_name": "Transport, Communication and Trade",
+        "confidence": 0.5,
+        "raw_choice": "Geography - 4. Transport, Communication and Trade (परिवहन, संचार एवं व्यापार)",
         "question": "Define satellite communication.",
         "prashna": "उपग्रह संचार को परिभाषित करें।"
     },
@@ -1892,6 +2098,8 @@
         "section": "Geography",
         "chapter": "7",
         "chapter_name": "Natural Disaster: An Introduction",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Why is disaster management needed ?",
         "prashna": "आपदा प्रबंधन की आवश्यकता क्यों है ?"
     },
@@ -1901,6 +2109,8 @@
         "section": "History",
         "chapter": "8",
         "chapter_name": "Press, Culture and Nationalism",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "How did print revolution assist the growth of Nationalism in India ?",
         "prashna": "मुद्रण क्रांति ने भारत में राष्ट्रवाद के विकास में किस प्रकार सहायता की ?"
     },
@@ -1910,15 +2120,19 @@
         "section": "History",
         "chapter": "5",
         "chapter_name": "Economy and Livelihood",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "How the series of inventions of machines paved the way for industrial revolution ?",
         "prashna": "मशीनों के आविष्कारों की श्रृंखला ने औद्योगिक क्रांति का मार्ग किस प्रकार प्रशस्त किया ?"
     },
     {
         "id": "long_3",
         "type": "long_answer",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Civics",
+        "chapter": "1",
+        "chapter_name": "Power Sharing in Democracy",
+        "confidence": 0.61,
+        "raw_choice": "Civics - 1. Power Sharing in Democracy (लोकतंत्र में सत्ता की साझेदारी)",
         "question": "Discuss the role of judiciary in federal system.",
         "prashna": "संघीय व्यवस्था में न्यायपालिका की भूमिका की विवेचना कीजिए।"
     },
@@ -1928,6 +2142,8 @@
         "section": "Civics",
         "chapter": "7",
         "chapter_name": "Outcomes of Democracy",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What factors are responsible for the success of democracy ?",
         "prashna": "लोकतंत्र की सफलता के लिए जिम्मेदार कारक क्या हैं ?"
     },
@@ -1937,6 +2153,8 @@
         "section": "Economics",
         "chapter": "7",
         "chapter_name": "Consumer Awareness and Protection",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Discuss the rights given to the consumers under the Consumer Protection Act.",
         "prashna": "उपभोक्ता संरक्षण अधिनियम के तहत उपभोक्ताओं को दिए गए अधिकारों की चर्चा करें।"
     },
@@ -1946,6 +2164,8 @@
         "section": "Economics",
         "chapter": "3",
         "chapter_name": "Money, Savings and Credit",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Discuss the economic importance of money.",
         "prashna": "मुद्रा के आर्थिक महत्व की विवेचना करें।"
     },
@@ -1955,6 +2175,8 @@
         "section": "Geography",
         "chapter": "8",
         "chapter_name": "Natural Disaster Management: Flood and Drought",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Describe the methods of rainwater harvesting and recycling.",
         "prashna": "वर्षा जल संग्रहण एवं पुनःचक्रण की विधियों का वर्णन कीजिए।"
     },
@@ -1964,6 +2186,8 @@
         "section": "Geography",
         "chapter": "1",
         "chapter_name": "India: Resources and Utilization",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Give a brief account of the characteristics of alluvial soil.",
         "prashna": "जलोढ़ मृदा की विशेषताओं का एक संक्षिप्त विवरण दीजिए।"
     }

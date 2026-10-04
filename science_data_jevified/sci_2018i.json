@@ -4,6 +4,8 @@
         "type": "objective",
         "chapter": "10",
         "chapter_name": "Light – Reflection and Refraction",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which mirror do the dentists use to see large images of the teeth of patients?",
         "prashna": "दंत विशेषज्ञ किस दर्पण का उपयोग मरीजों के दाँतों का बड़ा प्रतिबिंब देखने के लिए करता है?",
         "options": {
@@ -24,6 +26,8 @@
         "type": "objective",
         "chapter": "10",
         "chapter_name": "Light – Reflection and Refraction",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which lens is also called diverging lens?",
         "prashna": "कौन सा लेंस अपसारी लेंस भी कहलाता है?",
         "options": {
@@ -44,6 +48,8 @@
         "type": "objective",
         "chapter": "11",
         "chapter_name": "The Human Eye and the Colourful World",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Who controls pupil's size?",
         "prashna": "पुतली के साइज को कौन नियंत्रित करता है?",
         "options": {
@@ -64,6 +70,8 @@
         "type": "objective",
         "chapter": "11",
         "chapter_name": "The Human Eye and the Colourful World",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which eye defect can be corrected by using 'bi-focal lens' consisting of both concave and convex lens?",
         "prashna": "किस दृष्टि दोष को अवतल और उत्तल दोनों लेंसों से बने द्विफोकसी लेंस द्वारा संशोधित किया जा सकता है?",
         "options": {
@@ -84,6 +92,8 @@
         "type": "objective",
         "chapter": "10",
         "chapter_name": "Light – Reflection and Refraction",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "In an experiment, the image of an object formed by a concave mirror is obtained on a screen. To determine the focal length of the mirror, the experimenter needs to measure the distance between the:",
         "prashna": "एक प्रयोग में अवतल दर्पण द्वारा किसी बिंब का प्रतिबिंब एक पर्दे पर प्राप्त किया जाता है। दर्पण की फोकस दूरी को निर्धारित करने के लिए प्रयोगकर्ता को मापने की जरूरत है -",
         "options": {
@@ -104,6 +114,8 @@
         "type": "objective",
         "chapter": "10",
         "chapter_name": "Light – Reflection and Refraction",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which of the following lenses would you prefer to use while reading small letters found in a dictionary?",
         "prashna": "शब्दकोष के छोटे अक्षरों को पढ़ने के लिए आप किस लेंस का उपयोग करना पसंद करेंगे?",
         "options": {
@@ -124,6 +136,8 @@
         "type": "objective",
         "chapter": "12",
         "chapter_name": "Electricity",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which of the following is SI unit of electric potential difference?",
         "prashna": "निम्नलिखित में से कौन विद्युत विभवान्तर का SI मात्रक है?",
         "options": {
@@ -144,6 +158,8 @@
         "type": "objective",
         "chapter": "13",
         "chapter_name": "Magnetic Effects of Electric Current",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "At the time of short circuiting, the current in the circuit -",
         "prashna": "लघुपथन (शॉर्ट सर्किट) के समय परिपथ में विद्युत धारा का मान -",
         "options": {
@@ -164,6 +180,8 @@
         "type": "objective",
         "chapter": "13",
         "chapter_name": "Magnetic Effects of Electric Current",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "A positively - charged particle (alpha - particle) projected towards west is deflected towards north by a magnetic field. The direction of the magnetic field is:",
         "prashna": "पश्चिम की ओर प्रक्षेपित कोई धनावेशित कण (अल्फा कण) किसी चुंबकीय क्षेत्र द्वारा उत्तर की ओर विक्षेपित हो जाता है। चुंबकीय क्षेत्र की दिशा क्या है?",
         "options": {
@@ -184,6 +202,8 @@
         "type": "objective",
         "chapter": "13",
         "chapter_name": "Magnetic Effects of Electric Current",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "A rectangular coil of copper wire is being rotated in a magnetic field. The direction of the induced current in the coil changes once in each.",
         "prashna": "ताँबे के तार की एक आयताकार कुंडली किसी चुंबकीय क्षेत्र में घूर्णी गति कर रही है। इस कुंडली में प्रेरित विद्युत धारा की दिशा में कितने परिभ्रमण के पश्चात् परिवर्तन होता है?",
         "options": {
@@ -204,6 +224,8 @@
         "type": "objective",
         "chapter": "13",
         "chapter_name": "Magnetic Effects of Electric Current",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The magnetic field inside a long straight solenoid- carrying current -",
         "prashna": "किसी विद्युत धारावाही सीधी लंबी परिनालिका के भीतर चुंबकीय क्षेत्र -",
         "options": {
@@ -222,8 +244,10 @@
     {
         "id": "obj_12",
         "type": "objective",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "chapter": "10",
+        "chapter_name": "Light – Reflection and Refraction",
+        "confidence": 0.57,
+        "raw_choice": "10. Light – Reflection and Refraction (प्रकाश – परावर्तन तथा अपवर्तन)",
         "question": "What kind of mirror would be most suited for a solar cooker?",
         "prashna": "सौर कुकर के लिए कौन सा दर्पण सर्वाधिक उपयुक्त होता है?",
         "options": {
@@ -244,6 +268,8 @@
         "type": "objective",
         "chapter": "16",
         "chapter_name": "Our Environment",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The main aim of 'Chipko Movement' was to conserve -",
         "prashna": "'चिपको आन्दोलन' का मुख्य उद्देश्य संरक्षित करना था -",
         "options": {
@@ -264,6 +290,8 @@
         "type": "objective",
         "chapter": "2",
         "chapter_name": "Acids, Bases and Salts",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which of the following solutions is used for white washing walls?",
         "prashna": "निम्नलिखित में किस विलयन का उपयोग दीवारों की सफेदी करने के लिए किया जाता है?",
         "options": {
@@ -284,6 +312,8 @@
         "type": "objective",
         "chapter": "1",
         "chapter_name": "Chemical Reactions and Equations",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The above chemical equation $Na_2SO_4(aq) + BaCl_2(aq) \rightarrow BaSO_4(S) + 2 NaCl(aq)$ is -",
         "prashna": "$Na_2SO_4(aq) + BaCl_2(aq) \rightarrow BaSO_4(S) + 2 NaCl(aq)$ उपर्युक्त रासायनिक अभिक्रिया है -",
         "options": {
@@ -304,6 +334,8 @@
         "type": "objective",
         "chapter": "2",
         "chapter_name": "Acids, Bases and Salts",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which one of the following is slaked lime?",
         "prashna": "निम्नलिखित में से कौन सा बुझा हुआ चूना है?",
         "options": {
@@ -324,6 +356,8 @@
         "type": "objective",
         "chapter": "2",
         "chapter_name": "Acids, Bases and Salts",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "pH of aqueous solution of salt $Na_2CO_3$ is -",
         "prashna": "लवण $Na_2CO_3$ का जलीय विलयन का pH है -",
         "options": {
@@ -344,6 +378,8 @@
         "type": "objective",
         "chapter": "3",
         "chapter_name": "Metals and Non-metals",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Of which metal, the 'Bauxite' is an important ore?",
         "prashna": "बॉक्साइट किस धातु का महत्वपूर्ण अयस्क है?",
         "options": {
@@ -364,6 +400,8 @@
         "type": "objective",
         "chapter": "3",
         "chapter_name": "Metals and Non-metals",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Of which metal, the thin layer is coated over iron and steel to protect them from rusting?",
         "prashna": "लोहा एवं इस्पात को जंग से सुरक्षित रखने के लिए उन पर किस धातु की पतली परत चढ़ायी जाती है?",
         "options": {
@@ -384,6 +422,8 @@
         "type": "objective",
         "chapter": "2",
         "chapter_name": "Acids, Bases and Salts",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which chemical compound on heating becomes 'Plaster of Paris'?",
         "prashna": "किस रासायनिक यौगिक को गर्म करने पर 'प्लास्टर ऑफ पेरिस' (Plaster of Paris) प्राप्त किया जा सकता है?",
         "options": {
@@ -404,6 +444,8 @@
         "type": "objective",
         "chapter": "4",
         "chapter_name": "Carbon and its Compounds",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The functional group present in propanone is-",
         "prashna": "प्रोपोनोन में उपस्थित प्रकार्यात्मक समूह है -",
         "options": {
@@ -424,6 +466,8 @@
         "type": "objective",
         "chapter": "4",
         "chapter_name": "Carbon and its Compounds",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The IUPAC name of acetic acid is -",
         "prashna": "ऐसेटिक अम्ल का IUPAC नाम है-",
         "options": {
@@ -444,6 +488,8 @@
         "type": "objective",
         "chapter": "3",
         "chapter_name": "Metals and Non-metals",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "In electrolytic refining, impure metal is taken as:",
         "prashna": "विद्युत अपघटनी परिष्करण में अशुद्ध धातु को बनाया जाता है -",
         "options": {
@@ -464,6 +510,8 @@
         "type": "objective",
         "chapter": "5",
         "chapter_name": "Periodic Classification of Elements",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Who established 'Laws of Octaves'?",
         "prashna": "'अष्टक सिद्धांत' को किसने स्थापित किया?",
         "options": {
@@ -484,6 +532,8 @@
         "type": "objective",
         "chapter": "5",
         "chapter_name": "Periodic Classification of Elements",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "According to 'Modern periodic law' properties of elements are a periodic function of their -",
         "prashna": "आधुनिक आवर्त नियम के अनुसार, तत्वों का गुण धर्म -",
         "options": {
@@ -504,6 +554,8 @@
         "type": "objective",
         "chapter": "2",
         "chapter_name": "Acids, Bases and Salts",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which of the following ions can turn red litmus solution blue?",
         "prashna": "निम्नलिखित में कौन सा आयन लाल लिटमस विलयन को नीला कर सकता है?",
         "options": {
@@ -524,6 +576,8 @@
         "type": "objective",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The Xylem in plants are responsible for -",
         "prashna": "पादप में जाइलम उत्तरदायी है -",
         "options": {
@@ -544,6 +598,8 @@
         "type": "objective",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which of the following is known as 'energy currency' of cells?",
         "prashna": "निम्नलिखित में किसे कोशिका का 'ऊर्जा मुद्रा' के रूप में जाना जाता है?",
         "options": {
@@ -564,6 +620,8 @@
         "type": "objective",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Where does the exchange of gases take place in leaves?",
         "prashna": "पत्तियों में गैसों का आदान-प्रदान कहाँ होता है?",
         "options": {
@@ -584,6 +642,8 @@
         "type": "objective",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The blood is pumped from heart to the entire body by the -",
         "prashna": "हृदय से रक्त (रूधिर) को सम्पूर्ण शरीर में पंप किया जाता है -",
         "options": {
@@ -604,6 +664,8 @@
         "type": "objective",
         "chapter": "7",
         "chapter_name": "Control and Coordination",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which plant hormone is responsible for wilting of leaves?",
         "prashna": "कौन सा पादप हार्मोन पत्तियों के मुरझाने के लिए उत्तरदायी है?",
         "options": {
@@ -624,6 +686,8 @@
         "type": "objective",
         "chapter": "7",
         "chapter_name": "Control and Coordination",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Downward growth of root is -",
         "prashna": "जड़ का अधोगामी वृद्धि है -",
         "options": {
@@ -644,6 +708,8 @@
         "type": "objective",
         "chapter": "7",
         "chapter_name": "Control and Coordination",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Pons, medulla and cerebellum are parts of -",
         "prashna": "पॉन्स, मेडुला और अनुमस्तिष्क -",
         "options": {
@@ -664,6 +730,8 @@
         "type": "objective",
         "chapter": "7",
         "chapter_name": "Control and Coordination",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which of the following is not an involuntary action?",
         "prashna": "निम्नलिखित कौन सी अनैच्छिक क्रिया नहीं है?",
         "options": {
@@ -684,6 +752,8 @@
         "type": "objective",
         "chapter": "8",
         "chapter_name": "How do Organisms Reproduce?",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Asexual reproduction takes place through budding in -",
         "prashna": "अलैंगिक जनन मुकुलन द्वारा होता है -",
         "options": {
@@ -704,6 +774,8 @@
         "type": "objective",
         "chapter": "8",
         "chapter_name": "How do Organisms Reproduce?",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The formation of sperms takes place in -",
         "prashna": "शुक्राणु का निर्माण होता है -",
         "options": {
@@ -724,6 +796,8 @@
         "type": "objective",
         "chapter": "8",
         "chapter_name": "How do Organisms Reproduce?",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which part of a flower becomes fruit?",
         "prashna": "पुष्प का कौन सा भाग फल बनता है?",
         "options": {
@@ -744,6 +818,8 @@
         "type": "objective",
         "chapter": "9",
         "chapter_name": "Heredity and Evolution",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The perfect pair of sex chromosomes are found in -",
         "prashna": "लिंग गुण-सूत्र का पूर्ण जोड़ा पाया जाता है -",
         "options": {
@@ -764,6 +840,8 @@
         "type": "objective",
         "chapter": "9",
         "chapter_name": "Heredity and Evolution",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "How many pairs of Chromosome are found in a normal cell of human body?",
         "prashna": "मानव शरीर के किसी सामान्य कोशिका में गुणसूत्रों के किनते युग्म होते हैं?",
         "options": {
@@ -784,6 +862,8 @@
         "type": "objective",
         "chapter": "16",
         "chapter_name": "Our Environment",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which of the following groups contains only biodegradable items?",
         "prashna": "निम्न में से कौन -से समूहों में केवल जैव निम्नीकरणीय पदार्थ हैं -",
         "options": {
@@ -804,6 +884,8 @@
         "type": "short_answer",
         "chapter": "10",
         "chapter_name": "Light – Reflection and Refraction",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Illustrate the new Cartesian sign convention for reflection by spherical mirrors.",
         "prashna": "गोलीय दर्पणों द्वारा परावर्तन के लिए नयी कार्तीय चिन्ह परिपाटी दर्शायें।"
     },
@@ -812,6 +894,8 @@
         "type": "short_answer",
         "chapter": "10",
         "chapter_name": "Light – Reflection and Refraction",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Draw a ray diagram for image of an object placed at centre of curvature of a convex lens. Write the nature, position, and size of the image formed by the lens.",
         "prashna": "उत्तल लेंस के वक्रता केन्द्र पर रखे बिंब के प्रतिबिंब के लिए एक किरण आरेख खींचें और उस प्रतिबिंब की प्रकृति, आकार (साइज) एवं स्थान को लिखें।"
     },
@@ -820,6 +904,8 @@
         "type": "short_answer",
         "chapter": "12",
         "chapter_name": "Electricity",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Why an ammeter and a voltmeter are connected in an electric circuit in series and in parallel respectively?",
         "prashna": "ऐमीटर और वोल्टमीटर को विद्युत परिपथ के साथ क्रमश: श्रेणी एवं समांतर क्रम में क्यों जोड़ा जाता है?"
     },
@@ -828,6 +914,8 @@
         "type": "short_answer",
         "chapter": "13",
         "chapter_name": "Magnetic Effects of Electric Current",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Answer the following:\n(a) Draw magnetic field lines around a bar magnet.\n(b) A current through a horizontal transmission wire flows in east to west direction. What is the direction of magnetic field at a point directly below it?",
         "prashna": "उत्तर दें:\n(अ) किसी छड़ चुंबक के चारों ओर चुंबकीय क्षेत्र रेखाएँ खींचिए।\n(ब) किसी क्षैतिज संचरण तार (पावर लाइन) में पूर्व से पश्चिम दिशा की ओर विद्युत धारा प्रवाहित हो रही है, इसके ठीक नीचे के किसी बिन्दु पर चुंबकीय क्षेत्र की दिशा क्या है?",
         "sub_questions": {
@@ -844,6 +932,8 @@
         "type": "short_answer",
         "chapter": "12",
         "chapter_name": "Electricity",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Two lamps, one rated $100W$ at $220V$ and the other $60W$ at $220V$, are connected in parallel to electric mains supply. What current is drawn from the main line if the supply voltage is $220V$?",
         "prashna": "दो विद्युत लैंप जिनमें से एक का अनुमतांक $100W, 220V$ तथा दूसरे का $60W, 220V$ है, विद्युत मेंस के साथ पार्श्वक्रम में संयोजित है। यदि विद्युत आपूर्ति की वोल्टता $220V$ है तो विद्युत मेंस से कितनी धारा ली जाती है?"
     },
@@ -852,6 +942,8 @@
         "type": "short_answer",
         "chapter": "14",
         "chapter_name": "Sources of Energy",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What are the disadvantages of fossil fuels?",
         "prashna": "जीवाश्मी ईंधन की क्या हानियाँ हैं?"
     },
@@ -860,6 +952,8 @@
         "type": "long_answer",
         "chapter": "11",
         "chapter_name": "The Human Eye and the Colourful World",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "State types of defects of vision. Write these eye defects and their correction in brief. The far point of a myopic person is $80cm$ in front of the eye. What is the nature and power of the lens required to correct the problem?",
         "prashna": "दृष्टि दोष के प्रकार लिखें। इन दोषों तथा उनके संशोधन के बारे में संक्षेप में लिखें। किसी निकट दृष्टि से पीड़ित व्यक्ति का दूर बिन्दु नेत्र के सामने $80 cm$ दूरी पर है। इस दोष को संशोधित करने के लिए आवश्यक लेंस की प्रकृति तथा क्षमता क्या होगी?",
         "sub_questions": {
@@ -878,6 +972,8 @@
         "type": "long_answer",
         "chapter": "12",
         "chapter_name": "Electricity",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Draw a circuit diagram for studying Ohm's law. State Ohm's law. Draw V-I graph that verifies Ohm's law. State the nature of the V-I graph.",
         "prashna": "ओम के नियम के अध्ययन के लिए एक विद्युत परिपथ खींचे। ओम का नियम लिखें। ओम के नियम को सत्यापित करने वाले V-I ग्राफ को खींचे और उस ग्राफ की प्रकृति को लिखें।",
         "sub_questions": {
@@ -896,6 +992,8 @@
         "type": "short_answer",
         "chapter": "1",
         "chapter_name": "Chemical Reactions and Equations",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What does one mean by exothermic and endothermic reactions? Give examples.",
         "prashna": "ऊष्माक्षेपी एवं ऊष्माशोषी अभिक्रिया क्या है? उदाहरण दीजिए।"
     },
@@ -904,6 +1002,8 @@
         "type": "short_answer",
         "chapter": "2",
         "chapter_name": "Acids, Bases and Salts",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is a neutralisation reaction? Give two examples.",
         "prashna": "उदासीनीकरण अभिक्रिया क्या है? दो उदाहरण दीजिए।"
     },
@@ -912,6 +1012,8 @@
         "type": "short_answer",
         "chapter": "3",
         "chapter_name": "Metals and Non-metals",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Give reasons:\n(a) Sodium, Potassium and Lithium are stored under oil.\n(b) Aluminium is a highly reactive metal. Yet it is used to make utensils for cooking.",
         "prashna": "कारण बताइए -\n(अ) सोडियम, पोटेशियम एवं लीथियम तेल के अंदर संग्रहीत किया जाता है।\n(ब) ऐल्युमिनियम अत्यंत अभिक्रियाशील धातु है, फिर भी इसका उपयोग खाना बनाने वाले बर्तन बनाने के लिए किया जाता है।",
         "sub_questions": {
@@ -928,6 +1030,8 @@
         "type": "short_answer",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.32,
+        "raw_choice": "3. Metals and Non-metals (धातु एवं अधातु)",
         "question": "Draw the electron dot structure for - (a) $H_2S$, (b) $F_2$",
         "prashna": "इलेक्ट्रॉन बिंदु संरचना बनाइए: (a) $H_2S$, (b) $F_2$",
         "sub_questions": {
@@ -944,6 +1048,8 @@
         "type": "short_answer",
         "chapter": "4",
         "chapter_name": "Carbon and its Compounds",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Why is the conversion of ethanol to ethanoic acid an oxidation reaction?",
         "prashna": "एथनॉल से एथेनॉइक अम्ल में परिवर्तन को ऑक्सीकरण अभिक्रिया क्यों कहते हैं?"
     },
@@ -952,6 +1058,8 @@
         "type": "short_answer",
         "chapter": "5",
         "chapter_name": "Periodic Classification of Elements",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Write the electronic configuration of Nitrogen (atomic number 7) and Phosphorus (atomic number 15). Which of these will be more electronegative?",
         "prashna": "नाइट्रोजन (परमाणु संख्या 7) तथा फॉस्फोरस (परमाणु संख्या 15) का इलेक्ट्रॉनिक विन्यास लिखें। इनमें से कौन सा तत्व अधिक विद्युत ऋणात्मक होगा?"
     },
@@ -960,6 +1068,8 @@
         "type": "long_answer",
         "chapter": "4",
         "chapter_name": "Carbon and its Compounds",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Draw the structure for the following compounds:\n(i) Bromopropane\n(ii) Propanal\n(iii) Propene\n(iv) Benzene\n(v) Hexane",
         "prashna": "निम्नलिखित यौगिकों की संरचनाएँ चित्रित कीजिए।\n(i) ब्रोमोप्रोपेन\n(ii) प्रोपेनैल\n(iii) प्रोपीन\n(iv) बेन्जीन\n(v) हेक्सेन",
         "sub_questions": {
@@ -982,6 +1092,8 @@
         "type": "long_answer",
         "chapter": "1",
         "chapter_name": "Chemical Reactions and Equations",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What are the following reactions?\n(i) Combination reaction\n(ii) Decomposition reaction\n(iii) Displacement reaction\n(iv) Double displacement reaction",
         "prashna": "निम्नलिखित अभिक्रियाएँ क्या है?\n(i) संयोजन अभिक्रिया\n(ii) वियोजन अभिक्रिया\n(iii) विस्थापन अभिक्रिया\n(iv) द्विविस्थापन अभिक्रिया",
         "sub_questions": {
@@ -1002,6 +1114,8 @@
         "type": "short_answer",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What are the differences between aerobic and anaerobic respiration? Name some organisms that use the anaerobic mode of respiration.",
         "prashna": "वायवीय तथा अवायवीय श्वसन में क्या अंतर है? कुछ जीवों के नाम लिखिए जिसमें अवायवीय श्वसन होता है।"
     },
@@ -1010,6 +1124,8 @@
         "type": "short_answer",
         "chapter": "7",
         "chapter_name": "Control and Coordination",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Why does the nervous tissue act?",
         "prashna": "तंत्रिका उत्तक कैसे क्रिया करता है?"
     },
@@ -1018,6 +1134,8 @@
         "type": "short_answer",
         "chapter": "8",
         "chapter_name": "How do Organisms Reproduce?",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Why does menstruation occur?",
         "prashna": "ऋतुस्राव क्यों होता है?"
     },
@@ -1026,6 +1144,8 @@
         "type": "short_answer",
         "chapter": "8",
         "chapter_name": "How do Organisms Reproduce?",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is the difference in mode of reproduction between unicellular and multicellular organisms?",
         "prashna": "एक -कोशिक एवं बहुकोशिक जीवों की जनन पद्धति में क्या अंतर है?"
     },
@@ -1034,6 +1154,8 @@
         "type": "short_answer",
         "chapter": "16",
         "chapter_name": "Our Environment",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What are trophic levels? Give an example of a food chain.",
         "prashna": "पोषी स्तर क्या है? एक आहार श्रृंखला का उदाहरण दीजिए।"
     },
@@ -1042,6 +1164,8 @@
         "type": "short_answer",
         "chapter": "16",
         "chapter_name": "Our Environment",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Why should we conserve forests and wildlife?",
         "prashna": "हमें वन एवं वन्य जीवन का संरक्षण क्यों करना चाहिए?"
     },
@@ -1050,6 +1174,8 @@
         "type": "long_answer",
         "chapter": "8",
         "chapter_name": "How do Organisms Reproduce?",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Explain the modes of reproduction in single organism.",
         "prashna": "एकल जीवों में प्रजनन की विधि की व्याख्या करें।"
     },
@@ -1058,6 +1184,8 @@
         "type": "long_answer",
         "chapter": "8",
         "chapter_name": "How do Organisms Reproduce?",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Draw labelled diagram of male reproductive system and explain its functions.",
         "prashna": "नर जनन तंत्र का नामांकित चित्र बनाएँ एवं उसके कार्यों का वर्णन करें।"
     }

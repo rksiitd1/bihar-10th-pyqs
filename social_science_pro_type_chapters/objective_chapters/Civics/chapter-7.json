@@ -1,11 +1,61 @@
 {
+  "2019": [
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "7",
+      "chapter_name": "Outcomes of Democracy",
+      "confidence": 0.66,
+      "raw_choice": "Civics - 7. Outcomes of Democracy (लोकतंत्र के परिणाम)",
+      "question": "In Article-$19$ of the Indian Constitution which of the fundamental right has been given to all citizens of India?",
+      "prashna": "भारतीय संविधान के अनुच्छेद-$19$ में देश के सभी नागरिकों को कौन सा मूल अधिकार दिया गया है?",
+      "options": {
+        "A": "Right to Freedom",
+        "B": "Right to Equality",
+        "C": "Right to Constitutional remedy",
+        "D": "None of these"
+      },
+      "vikalpa": {
+        "A": "स्वतंत्रता का अधिकार",
+        "B": "समानता का अधिकार",
+        "C": "संवैधानिक उपचार का अधिकार",
+        "D": "इनमें से कोई नहीं"
+      }
+    }
+  ],
   "2020": [
+    {
+      "id": "obj_9",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "7",
+      "chapter_name": "Outcomes of Democracy",
+      "confidence": 0.5,
+      "raw_choice": "Civics - 7. Outcomes of Democracy (लोकतंत्र के परिणाम)",
+      "question": "Which one of the following is not according to the democratic system ?",
+      "prashna": "निम्न में से कौन-सी एक बात लोकतांत्रिक व्यवस्थाओं के अनुरूप नहीं है ?",
+      "options": {
+        "A": "Equality before law",
+        "B": "Free and fair election",
+        "C": "Responsible ruling system",
+        "D": "Rule of majority"
+      },
+      "vikalpa": {
+        "A": "कानून के समक्ष समानता",
+        "B": "स्वतंत्र एवं निष्पक्ष चुनाव",
+        "C": "उत्तरदायी शासन व्यवस्था",
+        "D": "बहुसंख्यकों का शासन"
+      }
+    },
     {
       "id": "obj_28",
       "type": "objective",
       "section": "Civics",
       "chapter": "7",
       "chapter_name": "Outcomes of Democracy",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "On which of the following points did democratic system get success ?",
       "prashna": "लोकतांत्रिक व्यवस्थाओं ने निम्नांकित किन मुद्दे पर सफलता पाई है ?",
       "options": {
@@ -27,6 +77,8 @@
       "section": "Civics",
       "chapter": "7",
       "chapter_name": "Outcomes of Democracy",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is the most helpful in the achievements of Democracy?",
       "prashna": "लोकतंत्र की उपलब्धियों में सबसे अधिक सहायक क्या है?",
       "options": {
@@ -50,6 +102,8 @@
       "section": "Civics",
       "chapter": "7",
       "chapter_name": "Outcomes of Democracy",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Due to which quality democracy is considered better than other forms of government ?",
       "prashna": "किस गुण के कारण लोकतंत्र को अन्य शासन प्रणालियों से बेहतर माना जाता है ?",
       "options": {
@@ -73,6 +127,8 @@
       "section": "Civics",
       "chapter": "7",
       "chapter_name": "Outcomes of Democracy",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is the most fundamental outcome of democracy ?",
       "prashna": "लोकतंत्र का सबसे बुनियादी परिणाम क्या है ?",
       "options": {
@@ -88,6 +144,29 @@
         "D": "जवाबदेह सरकार"
       },
       "instructions": "Question Nos. 1 to 80 have four options each, out of which only one is correct. Mark your selected option on the OMR sheet. Answer any 40 questions."
+    },
+    {
+      "id": "obj_25",
+      "type": "objective",
+      "section": "Civics",
+      "chapter": "7",
+      "chapter_name": "Outcomes of Democracy",
+      "confidence": 0.63,
+      "raw_choice": "Civics - 7. Outcomes of Democracy (लोकतंत्र के परिणाम)",
+      "question": "Article 19 of the Constitution is related to which of the following ?",
+      "prashna": "संविधान का अनुच्छेद 19 निम्नलिखित में से किससे संबंधित है ?",
+      "options": {
+        "A": "Right to Equality",
+        "B": "Right to Education",
+        "C": "Fundamental Duties",
+        "D": "Right to Freedom"
+      },
+      "vikalpa": {
+        "A": "समानता का अधिकार",
+        "B": "शिक्षा का अधिकार",
+        "C": "मौलिक कर्त्तव्य",
+        "D": "स्वतंत्रता का अधिकार"
+      }
     }
   ]
 }

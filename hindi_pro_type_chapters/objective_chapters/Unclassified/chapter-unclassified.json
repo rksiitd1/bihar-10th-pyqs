@@ -1,53 +1,13 @@
 {
   "2018": [
     {
-      "id": "obj_9",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "निम्नलिखित शब्दों में कौन-सा शब्द शुद्ध है?",
-      "prashna": "निम्नलिखित शब्दों में कौन-सा शब्द शुद्ध है?",
-      "options": {
-        "A": "शोनित",
-        "B": "शोनीत",
-        "C": "शोखणत",
-        "D": "शोणीत"
-      },
-      "vikalpa": {
-        "A": "शोनित",
-        "B": "शोनीत",
-        "C": "शोखणत",
-        "D": "शोणीत"
-      }
-    },
-    {
-      "id": "obj_13",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "निम्नलिखित शब्दों में कौन-सा शब्द शुद्ध है?",
-      "prashna": "निम्नलिखित शब्दों में कौन-सा शब्द शुद्ध है?",
-      "options": {
-        "A": "हितैसी",
-        "B": "हितैशी",
-        "C": "हितैषी",
-        "D": "हितैवष"
-      },
-      "vikalpa": {
-        "A": "हितैसी",
-        "B": "हितैशी",
-        "C": "हितैषी",
-        "D": "हितैवष"
-      }
-    },
-    {
       "id": "obj_17",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.3,
+      "raw_choice": "Godhuli - 20. Ek Vriksha ki Hatya (एक वृक्ष की हत्या)",
       "question": "'पेड़ का कमरा' किसकी रचना है?",
       "prashna": "'पेड़ का कमरा' किसकी रचना है?",
       "options": {
@@ -69,6 +29,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.38,
+      "raw_choice": "Godhuli - 24. Mere Bina Tum Prabhu (मेरे बिना तुम प्रभु)",
       "question": "दूर- चट्टानों की ठंडी गोद में किस कवि की पंक्ति है?",
       "prashna": "दूर- चट्टानों की ठंडी गोद में किस कवि की पंक्ति है?",
       "options": {
@@ -90,6 +52,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.4,
+      "raw_choice": "Godhuli - 16. Swadeshi (स्वदेशी)",
       "question": "परदेश की विद्या पढ़ने का क्या परिणाम हुआ?",
       "prashna": "परदेश की विद्या पढ़ने का क्या परिणाम हुआ?",
       "options": {
@@ -104,48 +68,6 @@
         "C": "सबकी बुद्धि आध्यात्मिक हो गई",
         "D": "उपर्युक्त सभी"
       }
-    },
-    {
-      "id": "obj_38",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "गांधी जी का दक्षिण अफ्रीका प्रवास कब से कब तक था?",
-      "prashna": "गांधी जी का दक्षिण अफ्रीका प्रवास कब से कब तक था?",
-      "options": {
-        "A": "1893 ई० से 1914 ई. तक",
-        "B": "1892 ई० से 1913 ई० तक",
-        "C": "1894 ई० से 1914 ई. तक",
-        "D": "1893 ई० से 1913 ई० तक"
-      },
-      "vikalpa": {
-        "A": "1893 ई० से 1914 ई. तक",
-        "B": "1892 ई० से 1913 ई० तक",
-        "C": "1894 ई० से 1914 ई. तक",
-        "D": "1893 ई० से 1913 ई० तक"
-      }
-    },
-    {
-      "id": "obj_50",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "जातीय अस्मिता की दृष्टि से इतिहास का प्रवाह कैसा है?",
-      "prashna": "जातीय अस्मिता की दृष्टि से इतिहास का प्रवाह कैसा है?",
-      "options": {
-        "A": "विच्छिन्न",
-        "B": "अविच्छिन्न",
-        "C": "विच्छिन्न और अविच्छिन्न दोनों",
-        "D": "इनमें से कोई नहीं"
-      },
-      "vikalpa": {
-        "A": "विच्छिन्न",
-        "B": "अविच्छिन्न",
-        "C": "विच्छिन्न और अविच्छिन्न दोनों",
-        "D": "इनमें से कोई नहीं"
-      }
     }
   ],
   "2019": [
@@ -155,6 +77,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.45,
+      "raw_choice": "Vyakaran - 20. Essay Writing (निबंध लेखन)",
       "question": "भारत में बेरोजगारी का मुख्य कारण है –",
       "prashna": "भारत में बेरोजगारी का मुख्य कारण है –",
       "instructions": "प्रश्न संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से एक सही है। अपने द्वारा चुने गए सही विकल्प को OMR-शीट पर चिन्हित करें। (50×1=50)",
@@ -177,6 +101,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.18,
+      "raw_choice": "Vyakaran - 15. Vocabulary (Synonyms, Antonyms, etc.) (शब्द भंडार (पर्यायवाची, विलोम, आदि))",
       "question": "'सरहपाद' की कृति है –",
       "prashna": "'सरहपाद' की कृति है –",
       "instructions": "प्रश्न संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से एक सही है। अपने द्वारा चुने गए सही विकल्प को OMR-शीट पर चिन्हित करें। (50×1=50)",
@@ -194,77 +120,13 @@
       }
     },
     {
-      "id": "obj_18",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "स्वामी विवेकानंद ने 'वेदान्तियों का वेदान्ती' किसे कहा है?",
-      "prashna": "स्वामी विवेकानंद ने 'वेदान्तियों का वेदान्ती' किसे कहा है?",
-      "instructions": "प्रश्न संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से एक सही है। अपने द्वारा चुने गए सही विकल्प को OMR-शीट पर चिन्हित करें। (50×1=50)",
-      "options": {
-        "A": "टी. एस. इलियट को",
-        "B": "दयानंद सरस्वती को",
-        "C": "मैक्स मूलर को",
-        "D": "राजा राममोहन राय को"
-      },
-      "vikalpa": {
-        "A": "टी. एस. इलियट को",
-        "B": "दयानंद सरस्वती को",
-        "C": "मैक्स मूलर को",
-        "D": "राजा राममोहन राय को"
-      }
-    },
-    {
-      "id": "obj_29",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "साहित्य के निर्माण में प्रतिभाशाली मनुष्यों की....................भूमिका है।",
-      "prashna": "साहित्य के निर्माण में प्रतिभाशाली मनुष्यों की....................भूमिका है।",
-      "instructions": "प्रश्न संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से एक सही है। अपने द्वारा चुने गए सही विकल्प को OMR-शीट पर चिन्हित करें। (50×1=50)",
-      "options": {
-        "A": "नगण्य",
-        "B": "निर्णायक",
-        "C": "नकारात्मक",
-        "D": "इनमें से कोई नहीं"
-      },
-      "vikalpa": {
-        "A": "नगण्य",
-        "B": "निर्णायक",
-        "C": "नकारात्मक",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_35",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "अशुद्ध शब्द है –",
-      "prashna": "अशुद्ध शब्द है –",
-      "instructions": "प्रश्न संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से एक सही है। अपने द्वारा चुने गए सही विकल्प को OMR-शीट पर चिन्हित करें। (50×1=50)",
-      "options": {
-        "A": "कर्तव्य",
-        "B": "शृंगार",
-        "C": "रोशनी",
-        "D": "दुरात्मा"
-      },
-      "vikalpa": {
-        "A": "कर्तव्य",
-        "B": "शृंगार",
-        "C": "रोशनी",
-        "D": "दुरात्मा"
-      }
-    },
-    {
       "id": "obj_39",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.47,
+      "raw_choice": "Godhuli - 11. Naubatkhane mein Ibadat (नौबतखाने में इबादत)",
       "question": "कविता नहीं है –",
       "prashna": "कविता नहीं है –",
       "instructions": "प्रश्न संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से एक सही है। अपने द्वारा चुने गए सही विकल्प को OMR-शीट पर चिन्हित करें। (50×1=50)",
@@ -287,6 +149,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.25,
+      "raw_choice": "Godhuli - 18. Janatantra ka Janm (जनतंत्र का जन्म)",
       "question": "जारशाही....................में थी।",
       "prashna": "जारशाही....................में थी।",
       "instructions": "प्रश्न संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से एक सही है। अपने द्वारा चुने गए सही विकल्प को OMR-शीट पर चिन्हित करें। (50×1=50)",
@@ -309,6 +173,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.34,
+      "raw_choice": "Vyakaran - 19. Poetic Elements (Introduction) (काव्य-तत्त्व (सामान्य परिचय))",
       "question": "हिन्दी के आदि कवि हैं –",
       "prashna": "हिन्दी के आदि कवि हैं –",
       "instructions": "प्रश्न संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से एक सही है। अपने द्वारा चुने गए सही विकल्प को OMR-शीट पर चिन्हित करें। (50×1=50)",
@@ -331,6 +197,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.25,
+      "raw_choice": "Vyakaran - 19. Poetic Elements (Introduction) (काव्य-तत्त्व (सामान्य परिचय))",
       "question": "'तार – सप्तक' का संपादन किया –",
       "prashna": "'तार – सप्तक' का संपादन किया –",
       "instructions": "प्रश्न संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से एक सही है। अपने द्वारा चुने गए सही विकल्प को OMR-शीट पर चिन्हित करें। (50×1=50)",
@@ -355,6 +223,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.17,
+      "raw_choice": "Godhuli - 18. Janatantra ka Janm (जनतंत्र का जन्म)",
       "question": "'जारशाही' कहाँ थी ?",
       "prashna": "'जारशाही' कहाँ थी ?",
       "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 60 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -377,6 +247,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.29,
+      "raw_choice": "Vyakaran - 24. Chhand (छंद)",
       "question": "'दोहा-कोश' किसकी रचना है ?",
       "prashna": "'दोहा-कोश' किसकी रचना है ?",
       "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 60 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -399,6 +271,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.1,
+      "raw_choice": "Vyakaran - 15. Vocabulary (Synonyms, Antonyms, etc.) (शब्द भंडार (पर्यायवाची, विलोम, आदि))",
       "question": "दधीचि की हड्डी से क्या बना था ?",
       "prashna": "दधीचि की हड्डी से क्या बना था ?",
       "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 60 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -421,6 +295,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.46,
+      "raw_choice": "Godhuli - 3. Bharat se Hum Kya Seekhe (भारत से हम क्या सीखें)",
       "question": "'मेघदूत' का जर्मन में अनुवाद किसने किया ?",
       "prashna": "'मेघदूत' का जर्मन में अनुवाद किसने किया ?",
       "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 60 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -438,77 +314,13 @@
       }
     },
     {
-      "id": "obj_40",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "दक्षिण अफ्रीका से गाँधी जी भारत कब लौटे ?",
-      "prashna": "दक्षिण अफ्रीका से गाँधी जी भारत कब लौटे ?",
-      "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 60 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
-      "options": {
-        "A": "1914 ई० में",
-        "B": "1915 ई० में",
-        "C": "1918 ई० में",
-        "D": "1916 ई० में"
-      },
-      "vikalpa": {
-        "A": "1914 ई० में",
-        "B": "1915 ई० में",
-        "C": "1918 ई० में",
-        "D": "1916 ई० में"
-      }
-    },
-    {
-      "id": "obj_45",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "किसने कहा था कि 'सब पुराने अच्छे नहीं होते, सब नए खराब ही नहीं होते' ?",
-      "prashna": "किसने कहा था कि 'सब पुराने अच्छे नहीं होते, सब नए खराब ही नहीं होते' ?",
-      "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 60 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
-      "options": {
-        "A": "मैक्स मूलर",
-        "B": "हजारी प्रसाद द्विवेदी",
-        "C": "स्वामी विवेकानन्द",
-        "D": "कालिदास"
-      },
-      "vikalpa": {
-        "A": "मैक्स मूलर",
-        "B": "हजारी प्रसाद द्विवेदी",
-        "C": "स्वामी विवेकानन्द",
-        "D": "कालिदास"
-      }
-    },
-    {
-      "id": "obj_46",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "महात्मा गाँधी के पिता का क्या नाम था ?",
-      "prashna": "महात्मा गाँधी के पिता का क्या नाम था ?",
-      "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 60 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
-      "options": {
-        "A": "धरमचंद गाँधी",
-        "B": "मीरचंद गाँधी",
-        "C": "हरचंद गाँधी",
-        "D": "करमचंद गाँधी"
-      },
-      "vikalpa": {
-        "A": "धरमचंद गाँधी",
-        "B": "मीरचंद गाँधी",
-        "C": "हरचंद गाँधी",
-        "D": "करमचंद गाँधी"
-      }
-    },
-    {
       "id": "obj_51",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.41,
+      "raw_choice": "Godhuli - 16. Swadeshi (स्वदेशी)",
       "question": "‘हिन्दुस्तानी नाम सुनि, अब ये सकुचि लजात’ - पंक्ति किस कविता से उद्धृत है ?",
       "prashna": "‘हिन्दुस्तानी नाम सुनि, अब ये सकुचि लजात’ - पंक्ति किस कविता से उद्धृत है ?",
       "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 60 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -526,33 +338,13 @@
       }
     },
     {
-      "id": "obj_56",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "शुद्ध शब्द है",
-      "prashna": "शुद्ध शब्द है",
-      "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 60 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
-      "options": {
-        "A": "प्रकृति",
-        "B": "प्रकीति",
-        "C": "परकृति",
-        "D": "प्रकिती"
-      },
-      "vikalpa": {
-        "A": "प्रकृति",
-        "B": "प्रकीति",
-        "C": "परकृति",
-        "D": "प्रकिती"
-      }
-    },
-    {
       "id": "obj_2",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.42,
+      "raw_choice": "Godhuli - 7. Parampara ka Mulyankan (परंपरा का मूल्यांकन)",
       "question": "'रामायण' की रचना किस भाषा में है ?",
       "prashna": "'रामायण' की रचना किस भाषा में है ?",
       "options": {
@@ -574,6 +366,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.38,
+      "raw_choice": "Varnika - 4. Nagar (नगर)",
       "question": "\"आइ वांट दैट गर्ल एडमिटेड नाउ\" किसने कहा ?",
       "prashna": "\"आइ वांट दैट गर्ल एडमिटेड नाउ\" किसने कहा ?",
       "options": {
@@ -595,6 +389,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.34,
+      "raw_choice": "Godhuli - 5. Nagari Lipi (नागरी लिपि)",
       "question": "निम्नांकित में कौन शब्द शुद्ध है ?",
       "prashna": "निम्नांकित में कौन शब्द शुद्ध है ?",
       "options": {
@@ -616,6 +412,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.43,
+      "raw_choice": "Vyakaran - 15. Vocabulary (Synonyms, Antonyms, etc.) (शब्द भंडार (पर्यायवाची, विलोम, आदि))",
       "question": "'हलकारे' का अर्थ होता है",
       "prashna": "'हलकारे' का अर्थ होता है",
       "options": {
@@ -637,6 +435,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.48,
+      "raw_choice": "Godhuli - 15. Ati Sudho Sneh ko Marag Hai (अति सूधो सनेह को मारग है)",
       "question": "'सुजान रसखान' किनकी रचना है ?",
       "prashna": "'सुजान रसखान' किनकी रचना है ?",
       "options": {
@@ -658,6 +458,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.46,
+      "raw_choice": "Godhuli - 11. Naubatkhane mein Ibadat (नौबतखाने में इबादत)",
       "question": "काशी किसकी पाठशाला है ?",
       "prashna": "काशी किसकी पाठशाला है ?",
       "options": {
@@ -674,32 +476,13 @@
       }
     },
     {
-      "id": "obj_29",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "प्लेटो और कान्ट थे महान",
-      "prashna": "प्लेटो और कान्ट थे महान",
-      "options": {
-        "A": "वीर",
-        "B": "दार्शनिक",
-        "C": "नाविक",
-        "D": "सैनिक"
-      },
-      "vikalpa": {
-        "A": "वीर",
-        "B": "दार्शनिक",
-        "C": "नाविक",
-        "D": "सैनिक"
-      }
-    },
-    {
       "id": "obj_30",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.15,
+      "raw_choice": "Varnika - 4. Nagar (नगर)",
       "question": "तमिल, मलयालम, तेलुगु, कन्नड़ भाषाएँ हैं",
       "prashna": "तमिल, मलयालम, तेलुगु, कन्नड़ भाषाएँ हैं",
       "options": {
@@ -716,53 +499,13 @@
       }
     },
     {
-      "id": "obj_37",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "निबंध के लेखक हैं",
-      "prashna": "निबंध के लेखक हैं",
-      "options": {
-        "A": "गुणाकार मुले",
-        "B": "अज्ञेय",
-        "C": "पंत",
-        "D": "प्रसाद"
-      },
-      "vikalpa": {
-        "A": "गुणाकार मुले",
-        "B": "अज्ञेय",
-        "C": "पंत",
-        "D": "प्रसाद"
-      }
-    },
-    {
-      "id": "obj_38",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "'तार सप्तक' के सम्पादक थे प्रयोगवादी कवि",
-      "prashna": "'तार सप्तक' के सम्पादक थे प्रयोगवादी कवि",
-      "options": {
-        "A": "सूरदास",
-        "B": "केशवदास",
-        "C": "तुलसीदास",
-        "D": "अज्ञेय"
-      },
-      "vikalpa": {
-        "A": "सूरदास",
-        "B": "केशवदास",
-        "C": "तुलसीदास",
-        "D": "अज्ञेय"
-      }
-    },
-    {
       "id": "obj_40",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.48,
+      "raw_choice": "Godhuli - 20. Ek Vriksha ki Hatya (एक वृक्ष की हत्या)",
       "question": "\"दूर से ही ललकारता,\" कौन ? मैं जवाब देता, \"दोस्त\" ! पंक्ति किस पाठ से है ?",
       "prashna": "\"दूर से ही ललकारता,\" कौन ? मैं जवाब देता, \"दोस्त\" ! पंक्ति किस पाठ से है ?",
       "options": {
@@ -784,6 +527,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.27,
+      "raw_choice": "Godhuli - 11. Naubatkhane mein Ibadat (नौबतखाने में इबादत)",
       "question": "कुमार गन्धर्व क्या हैं ?",
       "prashna": "कुमार गन्धर्व क्या हैं ?",
       "options": {
@@ -800,53 +545,13 @@
       }
     },
     {
-      "id": "obj_47",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "निम्न में से कौन पदबंध का भेद नहीं है ?",
-      "prashna": "निम्न में से कौन पदबंध का भेद नहीं है ?",
-      "options": {
-        "A": "संज्ञा पदबंध",
-        "B": "विशेषण पदबंध",
-        "C": "क्रियाविशेषण पदबंध",
-        "D": "कर्म पदबंध"
-      },
-      "vikalpa": {
-        "A": "संज्ञा पदबंध",
-        "B": "विशेषण पदबंध",
-        "C": "क्रियाविशेषण पदबंध",
-        "D": "कर्म पदबंध"
-      }
-    },
-    {
-      "id": "obj_51",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "कौन चाहते थे कि सभी देशों की संस्कृति की हवा उनके घर के पास बहती रहे ?",
-      "prashna": "कौन चाहते थे कि सभी देशों की संस्कृति की हवा उनके घर के पास बहती रहे ?",
-      "options": {
-        "A": "राजेन्द्र प्रसाद",
-        "B": "नेहरू",
-        "C": "महात्मा गाँधी",
-        "D": "सरदार पटेल"
-      },
-      "vikalpa": {
-        "A": "राजेन्द्र प्रसाद",
-        "B": "नेहरू",
-        "C": "महात्मा गाँधी",
-        "D": "सरदार पटेल"
-      }
-    },
-    {
       "id": "obj_55",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.15,
+      "raw_choice": "Godhuli - 8. Jit-Jit Main Nirakhat Hoon (जित-जित मैं निरखत हूँ)",
       "question": "रसूलनबाई थी",
       "prashna": "रसूलनबाई थी",
       "options": {
@@ -868,6 +573,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.39,
+      "raw_choice": "Varnika - 1. Dahi Wali Magamma (दही वाली मगम्मा)",
       "question": "\"क्यों री राक्षसी, इस छोटे से बच्चे को क्यों पीट रही है ?\" किसने कहा ?",
       "prashna": "\"क्यों री राक्षसी, इस छोटे से बच्चे को क्यों पीट रही है ?\" किसने कहा ?",
       "options": {
@@ -889,6 +596,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.32,
+      "raw_choice": "Varnika - 1. Dahi Wali Magamma (दही वाली मगम्मा)",
       "question": "एस० रंगराजन वास्तविक नाम है",
       "prashna": "एस० रंगराजन वास्तविक नाम है",
       "options": {
@@ -912,6 +621,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.26,
+      "raw_choice": "Godhuli - 7. Parampara ka Mulyankan (परंपरा का मूल्यांकन)",
       "question": "'पुराने का मोह सब समय वाँछनीय ही नहीं होता'-यह पंक्ति किस शीर्षक पाठ की है?",
       "prashna": "'पुराने का मोह सब समय वाँछनीय ही नहीं होता'-यह पंक्ति किस शीर्षक पाठ की है?",
       "options": {
@@ -933,6 +644,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.36,
+      "raw_choice": "Godhuli - 11. Naubatkhane mein Ibadat (नौबतखाने में इबादत)",
       "question": "'मेरा धर्म कैदखाने का धर्म नहीं है।' यह पंक्ति किस शीर्षक पाठ की है?",
       "prashna": "'मेरा धर्म कैदखाने का धर्म नहीं है।' यह पंक्ति किस शीर्षक पाठ की है?",
       "options": {
@@ -954,6 +667,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.44,
+      "raw_choice": "Vyakaran - 2. Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi) (शब्द विचार (तत्सम, तद्भव, देशज, विदेशी))",
       "question": "निम्न में शुद्ध शब्द कौन है?",
       "prashna": "निम्न में शुद्ध शब्द कौन है?",
       "options": {
@@ -970,53 +685,13 @@
       }
     },
     {
-      "id": "obj_14",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "'मानव मुक्ति के पुरोधा' किसे कहा गया है?",
-      "prashna": "'मानव मुक्ति के पुरोधा' किसे कहा गया है?",
-      "options": {
-        "A": "नलिन विलोचन शर्मा",
-        "B": "यतीन्द्र मिश्र",
-        "C": "भीमराव अंबेदकर",
-        "D": "अमरकांत"
-      },
-      "vikalpa": {
-        "A": "नलिन विलोचन शर्मा",
-        "B": "यतीन्द्र मिश्र",
-        "C": "भीमराव अंबेदकर",
-        "D": "अमरकांत"
-      }
-    },
-    {
-      "id": "obj_17",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "'नृवंश विद्या' का संबंध किससे है?",
-      "prashna": "'नृवंश विद्या' का संबंध किससे है?",
-      "options": {
-        "A": "खगोल विज्ञान से",
-        "B": "मानव विज्ञान से",
-        "C": "वनस्पति विज्ञान से",
-        "D": "भूगर्भ विज्ञान से"
-      },
-      "vikalpa": {
-        "A": "खगोल विज्ञान से",
-        "B": "मानव विज्ञान से",
-        "C": "वनस्पति विज्ञान से",
-        "D": "भूगर्भ विज्ञान से"
-      }
-    },
-    {
       "id": "obj_19",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.32,
+      "raw_choice": "Vyakaran - 15. Vocabulary (Synonyms, Antonyms, etc.) (शब्द भंडार (पर्यायवाची, विलोम, आदि))",
       "question": "'सूर्य' नामक पुस्तक किनकी रचना है?",
       "prashna": "'सूर्य' नामक पुस्तक किनकी रचना है?",
       "options": {
@@ -1038,6 +713,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.22,
+      "raw_choice": "Godhuli - 20. Ek Vriksha ki Hatya (एक वृक्ष की हत्या)",
       "question": "‘नदी के द्वीप’ किस कवि की रचना है?",
       "prashna": "‘नदी के द्वीप’ किस कवि की रचना है?",
       "options": {
@@ -1059,6 +736,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.38,
+      "raw_choice": "Godhuli - 5. Nagari Lipi (नागरी लिपि)",
       "question": "'जिंदगी और जोक' किस लेखक की रचना है?",
       "prashna": "'जिंदगी और जोक' किस लेखक की रचना है?",
       "options": {
@@ -1080,6 +759,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.34,
+      "raw_choice": "Godhuli - 7. Parampara ka Mulyankan (परंपरा का मूल्यांकन)",
       "question": "भौतिकवाद का अर्थ भाग्यवाद नहीं है- किस निबंध की पंक्ति है?",
       "prashna": "भौतिकवाद का अर्थ भाग्यवाद नहीं है- किस निबंध की पंक्ति है?",
       "options": {
@@ -1096,95 +777,13 @@
       }
     },
     {
-      "id": "obj_49",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "रुचि शब्द का विशेषण है।",
-      "prashna": "रुचि शब्द का विशेषण है।",
-      "options": {
-        "A": "रुचिकर",
-        "B": "रुचिक",
-        "C": "रुचि",
-        "D": "रुचना"
-      },
-      "vikalpa": {
-        "A": "रुचिकर",
-        "B": "रुचिक",
-        "C": "रुचि",
-        "D": "रुचना"
-      }
-    },
-    {
-      "id": "obj_55",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "'आसादीवार' किस कवि की रचना है?",
-      "prashna": "'आसादीवार' किस कवि की रचना है?",
-      "options": {
-        "A": "रसखान",
-        "B": "कुँवर नारायण",
-        "C": "रामधारी सिंह दिनकर",
-        "D": "गुरु नानक"
-      },
-      "vikalpa": {
-        "A": "रसखान",
-        "B": "कुँवर नारायण",
-        "C": "रामधारी सिंह दिनकर",
-        "D": "गुरु नानक"
-      }
-    },
-    {
-      "id": "obj_56",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "किनके जन्म दिवस को अहिंसा दिवस के रूप में मनाया जाता है?",
-      "prashna": "किनके जन्म दिवस को अहिंसा दिवस के रूप में मनाया जाता है?",
-      "options": {
-        "A": "महात्मा गाँधी",
-        "B": "डॉ० राजेन्द्र प्रसाद",
-        "C": "जवाहरलाल नेहरू",
-        "D": "बाल गंगाधर तिलक"
-      },
-      "vikalpa": {
-        "A": "महात्मा गाँधी",
-        "B": "डॉ० राजेन्द्र प्रसाद",
-        "C": "जवाहरलाल नेहरू",
-        "D": "बाल गंगाधर तिलक"
-      }
-    },
-    {
-      "id": "obj_60",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "वियोग में सच्चा प्रेमी जो वेदना सहता है, उसके चित्त में जो विभिन्न तरंगें उठती हैं-का चित्रण किया है",
-      "prashna": "वियोग में सच्चा प्रेमी जो वेदना सहता है, उसके चित्त में जो विभिन्न तरंगें उठती हैं-का चित्रण किया है",
-      "options": {
-        "A": "घनानंद ने",
-        "B": "अनामिका ने",
-        "C": "रेनर मारिया रिल्के ने",
-        "D": "वीरेन डंगवाल ने"
-      },
-      "vikalpa": {
-        "A": "घनानंद ने",
-        "B": "अनामिका ने",
-        "C": "रेनर मारिया रिल्के ने",
-        "D": "वीरेन डंगवाल ने"
-      }
-    },
-    {
       "id": "obj_73",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.45,
+      "raw_choice": "Vyakaran - 4. Samas (समास)",
       "question": "'भारत के प्रधानमंत्री - किस पदबंध का उदाहरण है?",
       "prashna": "'भारत के प्रधानमंत्री - किस पदबंध का उदाहरण है?",
       "options": {
@@ -1201,53 +800,13 @@
       }
     },
     {
-      "id": "obj_82",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "'उगते हुए सूरज का देश' किसे कहा जाता है?",
-      "prashna": "'उगते हुए सूरज का देश' किसे कहा जाता है?",
-      "options": {
-        "A": "जापान को",
-        "B": "नेपाल को",
-        "C": "भूटान को",
-        "D": "ईरान को"
-      },
-      "vikalpa": {
-        "A": "जापान को",
-        "B": "नेपाल को",
-        "C": "भूटान को",
-        "D": "ईरान को"
-      }
-    },
-    {
-      "id": "obj_85",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "कौन-सा महीना 'माँ' के लिए आराध्यदेव बन गया था?",
-      "prashna": "कौन-सा महीना 'माँ' के लिए आराध्यदेव बन गया था?",
-      "options": {
-        "A": "चैत",
-        "B": "अगहन",
-        "C": "ज्येष्ठ",
-        "D": "आषाढ़"
-      },
-      "vikalpa": {
-        "A": "चैत",
-        "B": "अगहन",
-        "C": "ज्येष्ठ",
-        "D": "आषाढ़"
-      }
-    },
-    {
       "id": "obj_89",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.2,
+      "raw_choice": "Godhuli - 3. Bharat se Hum Kya Seekhe (भारत से हम क्या सीखें)",
       "question": "'तुलनात्मक व्याकरण' किसकी रचना है?",
       "prashna": "'तुलनात्मक व्याकरण' किसकी रचना है?",
       "options": {
@@ -1264,32 +823,13 @@
       }
     },
     {
-      "id": "obj_91",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "'सुजान सागर' किनकी रचना है?",
-      "prashna": "'सुजान सागर' किनकी रचना है?",
-      "options": {
-        "A": "गुरु नानक की",
-        "B": "प्रेमघन की",
-        "C": "रसखान की",
-        "D": "घनानंद की"
-      },
-      "vikalpa": {
-        "A": "गुरु नानक की",
-        "B": "प्रेमघन की",
-        "C": "रसखान की",
-        "D": "घनानंद की"
-      }
-    },
-    {
       "id": "obj_94",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.28,
+      "raw_choice": "Godhuli - 16. Swadeshi (स्वदेशी)",
       "question": "'जीर्ण जनपद' किस कवि की रचना है?",
       "prashna": "'जीर्ण जनपद' किस कवि की रचना है?",
       "options": {
@@ -1311,6 +851,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.21,
+      "raw_choice": "Varnika - 3. Maa (माँ)",
       "question": "‘काला पानी’ किसका लोकप्रिय उपन्यास है?",
       "prashna": "‘काला पानी’ किसका लोकप्रिय उपन्यास है?",
       "options": {
@@ -1332,6 +874,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.42,
+      "raw_choice": "Varnika - 4. Nagar (नगर)",
       "question": "'अंदर किसी को देखने जाने का नियम नहीं है'- यह किसने कहा?",
       "prashna": "'अंदर किसी को देखने जाने का नियम नहीं है'- यह किसने कहा?",
       "options": {
@@ -1353,6 +897,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.41,
+      "raw_choice": "Varnika - 5. Dharti Kab Tak Ghoomegi (धरती कब तक घूमेगी)",
       "question": "किस दिन सीता को लगा कि 'लायसी' बिलकुल फीकी है?",
       "prashna": "किस दिन सीता को लगा कि 'लायसी' बिलकुल फीकी है?",
       "options": {
@@ -1374,6 +920,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.44,
+      "raw_choice": "Vyakaran - 18. Sentence Correction (वाक्य शुद्धि)",
       "question": "निम्न में शुद्ध है",
       "prashna": "निम्न में शुद्ध है",
       "options": {
@@ -1395,6 +943,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.29,
+      "raw_choice": "Godhuli - 11. Naubatkhane mein Ibadat (नौबतखाने में इबादत)",
       "question": "'अनामदास का पोथा' उपन्यास किस लेखक की कृति है?",
       "prashna": "'अनामदास का पोथा' उपन्यास किस लेखक की कृति है?",
       "options": {
@@ -1411,32 +961,13 @@
       }
     },
     {
-      "id": "obj_52",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "'सफल आज उसका तप संयम, पिला अहिंसा स्तन्य सुधोपम प्रस्तुत पंक्ति किस कविता की है?",
-      "prashna": "'सफल आज उसका तप संयम, पिला अहिंसा स्तन्य सुधोपम प्रस्तुत पंक्ति किस कविता की है?",
-      "options": {
-        "A": "स्वदेशी",
-        "B": "भारतमाता",
-        "C": "जनतंत्र का जन्म",
-        "D": "हिरोशिमा"
-      },
-      "vikalpa": {
-        "A": "स्वदेशी",
-        "B": "भारतमाता",
-        "C": "जनतंत्र का जन्म",
-        "D": "हिरोशिमा"
-      }
-    },
-    {
       "id": "obj_59",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.25,
+      "raw_choice": "Varnika - 4. Nagar (नगर)",
       "question": "एस. रंगराजन किस लेखक का पूरा नाम है?",
       "prashna": "एस. रंगराजन किस लेखक का पूरा नाम है?",
       "options": {
@@ -1458,6 +989,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.42,
+      "raw_choice": "Godhuli - 14. Prem Ayani Shri Radhika (प्रेम अयनि श्री राधिका)",
       "question": "\"इन मुसलमान हरिजनन पै, कोटिन हिन्दू वारिये।\" किसने कहा था?",
       "prashna": "\"इन मुसलमान हरिजनन पै, कोटिन हिन्दू वारिये।\" किसने कहा था?",
       "options": {
@@ -1479,6 +1012,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.19,
+      "raw_choice": "Godhuli - 16. Swadeshi (स्वदेशी)",
       "question": "मीरमुंशी ने किस कवि का वध किया था?",
       "prashna": "मीरमुंशी ने किस कवि का वध किया था?",
       "options": {
@@ -1500,6 +1035,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.41,
+      "raw_choice": "Godhuli - 16. Swadeshi (स्वदेशी)",
       "question": "'भारत सौभाग्य' किनका प्रसिद्ध नाटक है?",
       "prashna": "'भारत सौभाग्य' किनका प्रसिद्ध नाटक है?",
       "options": {
@@ -1516,32 +1053,13 @@
       }
     },
     {
-      "id": "obj_79",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "'सनेह को मारग' रेखांकित शब्द कौन कारक है?",
-      "prashna": "'सनेह को मारग' रेखांकित शब्द कौन कारक है?",
-      "options": {
-        "A": "कर्त्ता",
-        "B": "कर्म",
-        "C": "करण",
-        "D": "सम्बन्ध"
-      },
-      "vikalpa": {
-        "A": "कर्त्ता",
-        "B": "कर्म",
-        "C": "करण",
-        "D": "सम्बन्ध"
-      }
-    },
-    {
       "id": "obj_92",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.49,
+      "raw_choice": "Vyakaran - 5. Prefix and Suffix (उपसर्ग और प्रत्यय)",
       "question": "'निम्न में 'नरक' शब्द का विशेषण कौन है?",
       "prashna": "'निम्न में 'नरक' शब्द का विशेषण कौन है?",
       "options": {
@@ -1556,58 +1074,17 @@
         "C": "नरकत",
         "D": "नरकुय"
       }
-    },
-    {
-      "id": "obj_96",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "महात्मा गाँधी के पिता का नाम क्या था?",
-      "prashna": "महात्मा गाँधी के पिता का नाम क्या था?",
-      "options": {
-        "A": "करमचंद गाँधी",
-        "B": "धरमचंद गाँधी",
-        "C": "जयशंकर गाँधी",
-        "D": "विद्याशंकर गाँधी"
-      },
-      "vikalpa": {
-        "A": "करमचंद गाँधी",
-        "B": "धरमचंद गाँधी",
-        "C": "जयशंकर गाँधी",
-        "D": "विद्याशंकर गाँधी"
-      }
     }
   ],
   "2022": [
-    {
-      "id": "obj_6",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "instructions": "किन्हीं 50 प्रश्नों के उत्तर दें।",
-      "question": "पागलों के अस्पताल में उपद्रवी मरीजों को कैसे रखा जाता था ?",
-      "prashna": "पागलों के अस्पताल में उपद्रवी मरीजों को कैसे रखा जाता था ?",
-      "options": {
-        "A": "बाँधकर",
-        "B": "स्वतंत्र",
-        "C": "कमरे में बंदकर",
-        "D": "ऊँचे स्थान पर"
-      },
-      "vikalpa": {
-        "A": "बाँधकर",
-        "B": "स्वतंत्र",
-        "C": "कमरे में बंदकर",
-        "D": "ऊँचे स्थान पर"
-      }
-    },
     {
       "id": "obj_12",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.34,
+      "raw_choice": "Godhuli - 13. Ram Binu Birthe Jagi Janma (राम बिनु बिरथे जगि जनमा)",
       "question": "वाणी कब विष के समान हो जाती है ?",
       "prashna": "वाणी कब विष के समान हो जाती है ?",
       "options": {
@@ -1629,6 +1106,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.42,
+      "raw_choice": "Godhuli - 15. Ati Sudho Sneh ko Marag Hai (अति सूधो सनेह को मारग है)",
       "question": "'विरहलीला' किनकी रचना है ?",
       "prashna": "'विरहलीला' किनकी रचना है ?",
       "options": {
@@ -1650,6 +1129,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.44,
+      "raw_choice": "Godhuli - 18. Janatantra ka Janm (जनतंत्र का जन्म)",
       "question": "'युगवाणी' किसकी काव्यकृति है ?",
       "prashna": "'युगवाणी' किसकी काव्यकृति है ?",
       "options": {
@@ -1671,6 +1152,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.47,
+      "raw_choice": "Godhuli - 1. Shram Vibhajan aur Jati Pratha (श्रम विभाजन और जाति प्रथा)",
       "question": "'भारतीय संविधान' का निर्माता किसे कहा जाता है ?",
       "prashna": "'भारतीय संविधान' का निर्माता किसे कहा जाता है ?",
       "options": {
@@ -1692,6 +1175,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.32,
+      "raw_choice": "Godhuli - 2. Vish ke Daant (विष के दाँत)",
       "question": "'मित्र-मिलन' शीर्षक कहानी संग्रह किसकी रचना है ?",
       "prashna": "'मित्र-मिलन' शीर्षक कहानी संग्रह किसकी रचना है ?",
       "options": {
@@ -1713,6 +1198,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.36,
+      "raw_choice": "Godhuli - 6. Bahadur (बहादुर)",
       "question": "लेखक की पत्नी के रिश्तेदार किस दिन आए थे ?",
       "prashna": "लेखक की पत्नी के रिश्तेदार किस दिन आए थे ?",
       "options": {
@@ -1729,32 +1216,13 @@
       }
     },
     {
-      "id": "obj_62",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "धूप बरसी पर अन्तरिक्ष से नहीं फटी",
-      "prashna": "धूप बरसी पर अन्तरिक्ष से नहीं फटी",
-      "options": {
-        "A": "कुआँ से",
-        "B": "दसों दिशाओं से",
-        "C": "मिट्टी से",
-        "D": "आसमान से"
-      },
-      "vikalpa": {
-        "A": "कुआँ से",
-        "B": "दसों दिशाओं से",
-        "C": "मिट्टी से",
-        "D": "आसमान से"
-      }
-    },
-    {
       "id": "obj_63",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.24,
+      "raw_choice": "Godhuli - 21. Hamari Neend (हमारी नींद)",
       "question": "'चक्रव्यूह' किनकी रचना है ?",
       "prashna": "'चक्रव्यूह' किनकी रचना है ?",
       "options": {
@@ -1776,6 +1244,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.16,
+      "raw_choice": "Vyakaran - 19. Poetic Elements (Introduction) (काव्य-तत्त्व (सामान्य परिचय))",
       "question": "'ड्योढ़ी पर आलाप' शीर्षक काव्य-संग्रह किसकी रचना है ?",
       "prashna": "'ड्योढ़ी पर आलाप' शीर्षक काव्य-संग्रह किसकी रचना है ?",
       "options": {
@@ -1797,6 +1267,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.34,
+      "raw_choice": "Vyakaran - 16. One Word Substitution (अनेक शब्दों के लिए एक शब्द)",
       "question": "अरब देश में फूँककर बजाए जाने वाले वाद्य यंत्र, जिसमें नाड़ी (रीड) होती है, को क्या कहते हैं ?",
       "prashna": "अरब देश में फूँककर बजाए जाने वाले वाद्य यंत्र, जिसमें नाड़ी (रीड) होती है, को क्या कहते हैं ?",
       "options": {
@@ -1818,6 +1290,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.49,
+      "raw_choice": "Godhuli - 12. Shiksha aur Sanskriti (शिक्षा और संस्कृति)",
       "question": "गाँधीजी की स्मृति में पूरा राष्ट्र किस तारीख को उनकी जयंती मनाता है ?",
       "prashna": "गाँधीजी की स्मृति में पूरा राष्ट्र किस तारीख को उनकी जयंती मनाता है ?",
       "options": {
@@ -1834,53 +1308,13 @@
       }
     },
     {
-      "id": "obj_88",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "'काशी' में मरण भी माना गया है",
-      "prashna": "'काशी' में मरण भी माना गया है",
-      "options": {
-        "A": "अमंगल",
-        "B": "कठिन",
-        "C": "अशुभ",
-        "D": "मंगल"
-      },
-      "vikalpa": {
-        "A": "अमंगल",
-        "B": "कठिन",
-        "C": "अशुभ",
-        "D": "मंगल"
-      }
-    },
-    {
-      "id": "obj_91",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "'उदय' शब्द का विशेषण है",
-      "prashna": "'उदय' शब्द का विशेषण है",
-      "options": {
-        "A": "उदयी",
-        "B": "उदया",
-        "C": "उदिया",
-        "D": "उदित"
-      },
-      "vikalpa": {
-        "A": "उदयी",
-        "B": "उदया",
-        "C": "उदिया",
-        "D": "उदित"
-      }
-    },
-    {
       "id": "obj_98",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.35,
+      "raw_choice": "Varnika - 2. Dhate Vishwas (ढहते विश्वास)",
       "question": "“तुरई के फूल की तरह खिल-खिलाकर हँसते लोग सहसा मुरझा गये” - यह पंक्ति किस कहानी की है ?",
       "prashna": "“तुरई के फूल की तरह खिल-खिलाकर हँसते लोग सहसा मुरझा गये” - यह पंक्ति किस कहानी की है ?",
       "options": {
@@ -1902,6 +1336,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.24,
+      "raw_choice": "Godhuli - 19. Hiroshima (हिरोशिमा)",
       "question": "'शेखर : एक जीवनी' उपन्यास किसकी रचना है ?",
       "prashna": "'शेखर : एक जीवनी' उपन्यास किसकी रचना है ?",
       "options": {
@@ -1923,6 +1359,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.19,
+      "raw_choice": "Vyakaran - 19. Poetic Elements (Introduction) (काव्य-तत्त्व (सामान्य परिचय))",
       "question": "'बीजाबार' शीर्षक काव्य संकलन किसकी रचना है ?",
       "prashna": "'बीजाबार' शीर्षक काव्य संकलन किसकी रचना है ?",
       "options": {
@@ -1939,53 +1377,13 @@
       }
     },
     {
-      "id": "obj_29",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "'ग्राम' शब्द का विशेषण है",
-      "prashna": "'ग्राम' शब्द का विशेषण है",
-      "options": {
-        "A": "ग्रामण",
-        "B": "ग्रामीण",
-        "C": "ग्रामणी",
-        "D": "ग्रामीणी"
-      },
-      "vikalpa": {
-        "A": "ग्रामण",
-        "B": "ग्रामीण",
-        "C": "ग्रामणी",
-        "D": "ग्रामीणी"
-      }
-    },
-    {
-      "id": "obj_47",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "घर पर दो लड़कियों और सालभर के लड़के को लेकर कौन अकेली है ?",
-      "prashna": "घर पर दो लड़कियों और सालभर के लड़के को लेकर कौन अकेली है ?",
-      "options": {
-        "A": "पड़ोसिन",
-        "B": "लक्ष्मी",
-        "C": "शंकर की बहन",
-        "D": "गुणनिधि की माँ"
-      },
-      "vikalpa": {
-        "A": "पड़ोसिन",
-        "B": "लक्ष्मी",
-        "C": "शंकर की बहन",
-        "D": "गुणनिधि की माँ"
-      }
-    },
-    {
       "id": "obj_48",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.41,
+      "raw_choice": "Varnika - 5. Dharti Kab Tak Ghoomegi (धरती कब तक घूमेगी)",
       "question": "माँ को कितनी पुत्रियाँ थीं ?",
       "prashna": "माँ को कितनी पुत्रियाँ थीं ?",
       "options": {
@@ -2007,6 +1405,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.39,
+      "raw_choice": "Godhuli - 16. Swadeshi (स्वदेशी)",
       "question": "'प्रयाग रामागमन' शीर्षक नाटक किसकी रचना है ?",
       "prashna": "'प्रयाग रामागमन' शीर्षक नाटक किसकी रचना है ?",
       "options": {
@@ -2028,6 +1428,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.2,
+      "raw_choice": "Vyakaran - 19. Poetic Elements (Introduction) (काव्य-तत्त्व (सामान्य परिचय))",
       "question": "हिंदी के आदिकवि कौन हैं ?",
       "prashna": "हिंदी के आदिकवि कौन हैं ?",
       "options": {
@@ -2049,6 +1451,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.15,
+      "raw_choice": "Vyakaran - 15. Vocabulary (Synonyms, Antonyms, etc.) (शब्द भंडार (पर्यायवाची, विलोम, आदि))",
       "question": "मनुष्य और परिस्थिति का सम्बन्ध है",
       "prashna": "मनुष्य और परिस्थिति का सम्बन्ध है",
       "options": {
@@ -2065,32 +1469,13 @@
       }
     },
     {
-      "id": "obj_63",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "जारशाही रूस के सांवितय समाज में पढ़े जाने वाले लोकप्रिय साहित्यकार कौन हैं ?",
-      "prashna": "जारशाही रूस के सांवितय समाज में पढ़े जाने वाले लोकप्रिय साहित्यकार कौन हैं ?",
-      "options": {
-        "A": "तोल्स्तोय",
-        "B": "ऑलीवर",
-        "C": "थॉमस हार्डी",
-        "D": "वाल्टर स्कॉट"
-      },
-      "vikalpa": {
-        "A": "तोल्स्तोय",
-        "B": "ऑलीवर",
-        "C": "थॉमस हार्डी",
-        "D": "वाल्टर स्कॉट"
-      }
-    },
-    {
       "id": "obj_73",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.38,
+      "raw_choice": "Godhuli - 21. Hamari Neend (हमारी नींद)",
       "question": "'रात में रोशनी जलती रहने से इसे नींद नहीं आती' - यह किसने कहा ?",
       "prashna": "'रात में रोशनी जलती रहने से इसे नींद नहीं आती' - यह किसने कहा ?",
       "options": {
@@ -2112,6 +1497,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.48,
+      "raw_choice": "Varnika - 2. Dhate Vishwas (ढहते विश्वास)",
       "question": "हल किराये पर लेकर बीघे भर जमीन में खेती कौन करवायी थी ?",
       "prashna": "हल किराये पर लेकर बीघे भर जमीन में खेती कौन करवायी थी ?",
       "options": {
@@ -2128,32 +1515,13 @@
       }
     },
     {
-      "id": "obj_79",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "माँ जी किसे गोशालाओं की उम्मा देती थी ?",
-      "prashna": "माँ जी किसे गोशालाओं की उम्मा देती थी ?",
-      "options": {
-        "A": "घर को",
-        "B": "अस्पताल को",
-        "C": "विद्यालय को",
-        "D": "मंदिर को"
-      },
-      "vikalpa": {
-        "A": "घर को",
-        "B": "अस्पताल को",
-        "C": "विद्यालय को",
-        "D": "मंदिर को"
-      }
-    },
-    {
       "id": "obj_80",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.46,
+      "raw_choice": "Varnika - 3. Maa (माँ)",
       "question": "कौन महीना माँ जी का आशा-भरा महीना था ?",
       "prashna": "कौन महीना माँ जी का आशा-भरा महीना था ?",
       "options": {
@@ -2175,6 +1543,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.38,
+      "raw_choice": "Vyakaran - 4. Samas (समास)",
       "question": "'परिश्रम न करनेवाले छात्र अच्छे अंक नहीं पाते ।' - रेखांकित शब्द क्या है ?",
       "prashna": "'परिश्रम न करनेवाले छात्र अच्छे अंक नहीं पाते ।' - रेखांकित शब्द क्या है ?",
       "options": {
@@ -2196,6 +1566,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.27,
+      "raw_choice": "Vyakaran - 16. One Word Substitution (अनेक शब्दों के लिए एक शब्द)",
       "question": "हड़प्पा क्या थे ?",
       "prashna": "हड़प्पा क्या थे ?",
       "options": {
@@ -2217,6 +1589,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.24,
+      "raw_choice": "Godhuli - 4. Nakhun Kyon Badhte Hain (नाखून क्यों बढ़ते हैं)",
       "question": "'सहजात वृत्ति' किनका नाम है ?",
       "prashna": "'सहजात वृत्ति' किनका नाम है ?",
       "options": {
@@ -2231,80 +1605,17 @@
         "C": "अनजानी स्मृतियों का",
         "D": "पुरानी स्मृतियों का"
       }
-    },
-    {
-      "id": "obj_99",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "परमार शासक भोज कहाँ के रहने वाले थे ?",
-      "prashna": "परमार शासक भोज कहाँ के रहने वाले थे ?",
-      "options": {
-        "A": "धारा नगरी के",
-        "B": "मेवाड़ के",
-        "C": "कन्नौज के",
-        "D": "अजमेर के"
-      },
-      "vikalpa": {
-        "A": "धारा नगरी के",
-        "B": "मेवाड़ के",
-        "C": "कन्नौज के",
-        "D": "अजमेर के"
-      }
     }
   ],
   "2023": [
-    {
-      "id": "obj_5",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "'मुक्ताक्षर' की अंतिम ध्वनि क्या होती है?",
-      "prashna": "'मुक्ताक्षर' की अंतिम ध्वनि क्या होती है?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
-      "options": {
-        "A": "व्यंजन",
-        "B": "स्वर",
-        "C": "संयुक्त स्वर",
-        "D": "क्रिया"
-      },
-      "vikalpa": {
-        "A": "व्यंजन",
-        "B": "स्वर",
-        "C": "संयुक्त स्वर",
-        "D": "क्रिया"
-      }
-    },
-    {
-      "id": "obj_28",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "भारत किसकी भूमि है?",
-      "prashna": "भारत किसकी भूमि है?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
-      "options": {
-        "A": "पाश्चात्य संस्कृति की",
-        "B": "ब्राह्मण या वैदिक धर्म की",
-        "C": "लैटिन संस्कृति की",
-        "D": "सीरियाई संस्कृति की"
-      },
-      "vikalpa": {
-        "A": "पाश्चात्य संस्कृति की",
-        "B": "ब्राह्मण या वैदिक धर्म की",
-        "C": "लैटिन संस्कृति की",
-        "D": "सीरियाई संस्कृति की"
-      }
-    },
     {
       "id": "obj_30",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.34,
+      "raw_choice": "Vyakaran - 15. Vocabulary (Synonyms, Antonyms, etc.) (शब्द भंडार (पर्यायवाची, विलोम, आदि))",
       "question": "'प्रत्न मानव' का अर्थ क्या है?",
       "prashna": "'प्रत्न मानव' का अर्थ क्या है?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
@@ -2327,6 +1638,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.23,
+      "raw_choice": "Godhuli - 5. Nagari Lipi (नागरी लिपि)",
       "question": "चन्द्रगुप्त (द्वितीय) विक्रमादित्य का व्यक्तिगत नाम क्या था?",
       "prashna": "चन्द्रगुप्त (द्वितीय) विक्रमादित्य का व्यक्तिगत नाम क्या था?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
@@ -2349,6 +1662,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.13,
+      "raw_choice": "Godhuli - 5. Nagari Lipi (नागरी लिपि)",
       "question": "कर्नाटक प्रदेश का श्रवणबेलगोल स्थान किसका प्रसिद्ध तीर्थस्थल है?",
       "prashna": "कर्नाटक प्रदेश का श्रवणबेलगोल स्थान किसका प्रसिद्ध तीर्थस्थल है?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
@@ -2371,6 +1686,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.18,
+      "raw_choice": "Godhuli - 11. Naubatkhane mein Ibadat (नौबतखाने में इबादत)",
       "question": "'बड़े भाई' किस लेखक की रचना है?",
       "prashna": "'बड़े भाई' किस लेखक की रचना है?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
@@ -2388,55 +1705,13 @@
       }
     },
     {
-      "id": "obj_41",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "गाँधीजी को 'महात्मा' की उपाधि किसने दी थी?",
-      "prashna": "गाँधीजी को 'महात्मा' की उपाधि किसने दी थी?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
-      "options": {
-        "A": "राजा राममोहन राय ने",
-        "B": "विवेकानन्द ने",
-        "C": "रवीन्द्रनाथ टैगोर ने",
-        "D": "ईश्वरचंद्र विद्यासागर ने"
-      },
-      "vikalpa": {
-        "A": "राजा राममोहन राय ने",
-        "B": "विवेकानन्द ने",
-        "C": "रवीन्द्रनाथ टैगोर ने",
-        "D": "ईश्वरचंद्र विद्यासागर ने"
-      }
-    },
-    {
-      "id": "obj_47",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "'मेघदूत' का जर्मन पद्यानुवाद किसने किया?",
-      "prashna": "'मेघदूत' का जर्मन पद्यानुवाद किसने किया?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
-      "options": {
-        "A": "मैक्स मूलर ने",
-        "B": "महात्मा गाँधी ने",
-        "C": "यतीन्द्र मिश्र ने",
-        "D": "अमरकांत ने"
-      },
-      "vikalpa": {
-        "A": "मैक्स मूलर ने",
-        "B": "महात्मा गाँधी ने",
-        "C": "यतीन्द्र मिश्र ने",
-        "D": "अमरकांत ने"
-      }
-    },
-    {
       "id": "obj_52",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.38,
+      "raw_choice": "Vyakaran - 5. Prefix and Suffix (उपसर्ग और प्रत्यय)",
       "question": "'तालु' शब्द का विशेषण क्या होगा?",
       "prashna": "'तालु' शब्द का विशेषण क्या होगा?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
@@ -2459,6 +1734,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.28,
+      "raw_choice": "Godhuli - 16. Swadeshi (स्वदेशी)",
       "question": "\"इन मुसलमान हरिजनन पै, कोटिन हिन्दू वारिये ।\" - यह किस कवि का कथन है?",
       "prashna": "\"इन मुसलमान हरिजनन पै, कोटिन हिन्दू वारिये ।\" - यह किस कवि का कथन है?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
@@ -2481,6 +1758,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.32,
+      "raw_choice": "Godhuli - 21. Hamari Neend (हमारी नींद)",
       "question": "'युगपथ' किस कवि की रचना है?",
       "prashna": "'युगपथ' किस कवि की रचना है?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
@@ -2498,33 +1777,13 @@
       }
     },
     {
-      "id": "obj_76",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "ग्रामीण जीवन का यथार्थवादी चित्रण 'प्रेमघन' रचित किस काव्य में है?",
-      "prashna": "ग्रामीण जीवन का यथार्थवादी चित्रण 'प्रेमघन' रचित किस काव्य में है?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
-      "options": {
-        "A": "प्रयाग रामगमन में",
-        "B": "भारत सौभाग्य में",
-        "C": "जीर्ण जनपद में",
-        "D": "इनमें से कोई नहीं"
-      },
-      "vikalpa": {
-        "A": "प्रयाग रामगमन में",
-        "B": "भारत सौभाग्य में",
-        "C": "जीर्ण जनपद में",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
       "id": "obj_77",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.17,
+      "raw_choice": "Godhuli - 15. Ati Sudho Sneh ko Marag Hai (अति सूधो सनेह को मारग है)",
       "question": "मीर मुंशी ने किस कवि का वध किया था?",
       "prashna": "मीर मुंशी ने किस कवि का वध किया था?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
@@ -2542,55 +1801,13 @@
       }
     },
     {
-      "id": "obj_80",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "'एक बूँद सहसा उछली' किसकी रचना है?",
-      "prashna": "'एक बूँद सहसा उछली' किसकी रचना है?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
-      "options": {
-        "A": "अज्ञेय",
-        "B": "गुरु नानक",
-        "C": "अनामिका",
-        "D": "वीरेन डंगवाल"
-      },
-      "vikalpa": {
-        "A": "अज्ञेय",
-        "B": "गुरु नानक",
-        "C": "अनामिका",
-        "D": "वीरेन डंगवाल"
-      }
-    },
-    {
-      "id": "obj_83",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "सम्प्रदायमुक्त कृष्णभक्त कवि कौन थे?",
-      "prashna": "सम्प्रदायमुक्त कृष्णभक्त कवि कौन थे?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
-      "options": {
-        "A": "गुरु नानक",
-        "B": "प्रेमघन",
-        "C": "घनानंद",
-        "D": "रसखान"
-      },
-      "vikalpa": {
-        "A": "गुरु नानक",
-        "B": "प्रेमघन",
-        "C": "घनानंद",
-        "D": "रसखान"
-      }
-    },
-    {
       "id": "obj_85",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.17,
+      "raw_choice": "Godhuli - 23. Lautkar Aaunga Phir (लौटकर आऊँगा फिर)",
       "question": "तुर्की के महाकवि नाजिम हिकात की कविताओं के अनुवाद किस कवि ने 'पहल पुस्तिका' के रूप में किया?",
       "prashna": "तुर्की के महाकवि नाजिम हिकात की कविताओं के अनुवाद किस कवि ने 'पहल पुस्तिका' के रूप में किया?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
@@ -2608,55 +1825,13 @@
       }
     },
     {
-      "id": "obj_87",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "\"पंक्ति से उतर जाता है उसका 'रव' \"- किस कविता की पंक्ति है?",
-      "prashna": "\"पंक्ति से उतर जाता है उसका 'रव' \"- किस कविता की पंक्ति है?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
-      "options": {
-        "A": "भारतमाता",
-        "B": "स्वदेशी",
-        "C": "हमारी नींद",
-        "D": "अक्षर-ज्ञान"
-      },
-      "vikalpa": {
-        "A": "भारतमाता",
-        "B": "स्वदेशी",
-        "C": "हमारी नींद",
-        "D": "अक्षर-ज्ञान"
-      }
-    },
-    {
-      "id": "obj_88",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "किसके बिना प्राणी को मुक्ति नहीं मिलती?",
-      "prashna": "किसके बिना प्राणी को मुक्ति नहीं मिलती?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
-      "options": {
-        "A": "गुरु ज्ञान के बिना",
-        "B": "कीर्तन के बिना",
-        "C": "भजन के बिना",
-        "D": "दान के बिना"
-      },
-      "vikalpa": {
-        "A": "गुरु ज्ञान के बिना",
-        "B": "कीर्तन के बिना",
-        "C": "भजन के बिना",
-        "D": "दान के बिना"
-      }
-    },
-    {
       "id": "obj_99",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.27,
+      "raw_choice": "Varnika - 5. Dharti Kab Tak Ghoomegi (धरती कब तक घूमेगी)",
       "question": "'खून की सगाई' किनकी प्रसिद्ध कहानी है?",
       "prashna": "'खून की सगाई' किनकी प्रसिद्ध कहानी है?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
@@ -2676,55 +1851,13 @@
   ],
   "2024": [
     {
-      "id": "obj_1",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
-      "question": "“मदुरै पांडिय लोगों की दूसरी राजधानी है।” - यह कहाँ लिखा हुआ है ?",
-      "prashna": "“मदुरै पांडिय लोगों की दूसरी राजधानी है।” - यह कहाँ लिखा हुआ है ?",
-      "options": {
-        "A": "हिन्दी काव्य में",
-        "B": "अंग्रेजी नाटक में",
-        "C": "तुलनात्मक व्याकरण में",
-        "D": "तमिल उपन्यास में"
-      },
-      "vikalpa": {
-        "A": "हिन्दी काव्य में",
-        "B": "अंग्रेजी नाटक में",
-        "C": "तुलनात्मक व्याकरण में",
-        "D": "तमिल उपन्यास में"
-      }
-    },
-    {
-      "id": "obj_5",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
-      "question": "‘सोहिला’ किनकी रचना है ?",
-      "prashna": "‘सोहिला’ किनकी रचना है ?",
-      "options": {
-        "A": "अनामिका की",
-        "B": "जीवनानंद दास की",
-        "C": "गुरु नानक की",
-        "D": "घनानंद की"
-      },
-      "vikalpa": {
-        "A": "अनामिका की",
-        "B": "जीवनानंद दास की",
-        "C": "गुरु नानक की",
-        "D": "घनानंद की"
-      }
-    },
-    {
       "id": "obj_10",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.46,
+      "raw_choice": "Godhuli - 14. Prem Ayani Shri Radhika (प्रेम अयनि श्री राधिका)",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
       "question": "निम्न में से कौन कवि पठान राजवंश में उत्पन्न हुए थे ?",
       "prashna": "निम्न में से कौन कवि पठान राजवंश में उत्पन्न हुए थे ?",
@@ -2744,33 +1877,13 @@
   ],
   "2025": [
     {
-      "id": "obj_14",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "instructions": "किन्हीं 50 प्रश्नों के उत्तर दें।",
-      "question": "'\"अरे कहावत है, 'दवा करने से तो मशान ही जगता है' ।\" - यह कथन है",
-      "prashna": "'\"अरे कहावत है, 'दवा करने से तो मशान ही जगता है' ।\" - यह कथन है",
-      "options": {
-        "A": "मंगम्मा का",
-        "B": "माँ जी का",
-        "C": "नंजम्मा का",
-        "D": "रंगप्पा का"
-      },
-      "vikalpa": {
-        "A": "मंगम्मा का",
-        "B": "माँ जी का",
-        "C": "नंजम्मा का",
-        "D": "रंगप्पा का"
-      }
-    },
-    {
       "id": "obj_15",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.19,
+      "raw_choice": "Godhuli - 11. Naubatkhane mein Ibadat (नौबतखाने में इबादत)",
       "instructions": "किन्हीं 50 प्रश्नों के उत्तर दें।",
       "question": "रसूलनबाई कौन थी ?",
       "prashna": "रसूलनबाई कौन थी ?",
@@ -2793,6 +1906,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.37,
+      "raw_choice": "Vyakaran - 11. Gender, Number and Case (लिंग, वचन और कारक)",
       "instructions": "किन्हीं 50 प्रश्नों के उत्तर दें।",
       "question": "'बहुवचन' पत्रिका के संपादक कौन थे ?",
       "prashna": "'बहुवचन' पत्रिका के संपादक कौन थे ?",
@@ -2815,6 +1930,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.24,
+      "raw_choice": "Godhuli - 9. Aavinyon (आविन्यों)",
       "instructions": "किन्हीं 50 प्रश्नों के उत्तर दें।",
       "question": "'शहर अब भी संभावना है' किसकी रचना है ?",
       "prashna": "'शहर अब भी संभावना है' किसकी रचना है ?",
@@ -2832,33 +1949,13 @@
       }
     },
     {
-      "id": "obj_31",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "instructions": "किन्हीं 50 प्रश्नों के उत्तर दें।",
-      "question": "'नौकर की कमीज' किसकी रचना है ?",
-      "prashna": "'नौकर की कमीज' किसकी रचना है ?",
-      "options": {
-        "A": "यतीन्द्र मिश्र की",
-        "B": "अशोक वाजपेयी की",
-        "C": "अमरकांत की",
-        "D": "विनोद कुमार शुक्ल की"
-      },
-      "vikalpa": {
-        "A": "यतीन्द्र मिश्र की",
-        "B": "अशोक वाजपेयी की",
-        "C": "अमरकांत की",
-        "D": "विनोद कुमार शुक्ल की"
-      }
-    },
-    {
       "id": "obj_36",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.45,
+      "raw_choice": "Godhuli - 3. Bharat se Hum Kya Seekhe (भारत से हम क्या सीखें)",
       "instructions": "किन्हीं 50 प्रश्नों के उत्तर दें।",
       "question": "बादशाह अकबर ने जो सिक्का चलाया था उस पर किनकी आकृति अंकित है ?",
       "prashna": "बादशाह अकबर ने जो सिक्का चलाया था उस पर किनकी आकृति अंकित है ?",
@@ -2881,6 +1978,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.18,
+      "raw_choice": "Godhuli - 19. Hiroshima (हिरोशिमा)",
       "instructions": "किन्हीं 50 प्रश्नों के उत्तर दें।",
       "question": "किनके पिता एक प्रख्यात पुरातत्त्ववेत्ता थे ?",
       "prashna": "किनके पिता एक प्रख्यात पुरातत्त्ववेत्ता थे ?",
@@ -2898,121 +1997,13 @@
       }
     },
     {
-      "id": "obj_47",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "instructions": "किन्हीं 50 प्रश्नों के उत्तर दें।",
-      "question": "'जिजीविषा' शब्द का अर्थ है",
-      "prashna": "'जिजीविषा' शब्द का अर्थ है",
-      "options": {
-        "A": "जीने की लालसा",
-        "B": "जिंदगी से हार मानना",
-        "C": "घूमने की इच्छा",
-        "D": "जिंदगी से लापरवाही"
-      },
-      "vikalpa": {
-        "A": "जीने की लालसा",
-        "B": "जिंदगी से हार मानना",
-        "C": "घूमने की इच्छा",
-        "D": "जिंदगी से लापरवाही"
-      }
-    },
-    {
-      "id": "obj_49",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "instructions": "किन्हीं 50 प्रश्नों के उत्तर दें।",
-      "question": "महात्मा गाँधी का निधन कब हुआ था ?",
-      "prashna": "महात्मा गाँधी का निधन कब हुआ था ?",
-      "options": {
-        "A": "30 जनवरी, 1948 ई० में",
-        "B": "20 फरवरी, 1948 ई० में",
-        "C": "19 जनवरी, 1948 ई० में",
-        "D": "28 फरवरी, 1948 ई० में"
-      },
-      "vikalpa": {
-        "A": "30 जनवरी, 1948 ई० में",
-        "B": "20 फरवरी, 1948 ई० में",
-        "C": "19 जनवरी, 1948 ई० में",
-        "D": "28 फरवरी, 1948 ई० में"
-      }
-    },
-    {
-      "id": "obj_51",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "instructions": "किन्हीं 50 प्रश्नों के उत्तर दें।",
-      "question": "निम्नलिखित में कौन अशुद्ध शब्द है ?",
-      "prashna": "निम्नलिखित में कौन अशुद्ध शब्द है ?",
-      "options": {
-        "A": "दुस्कर",
-        "B": "संशोधन",
-        "C": "वैदेही",
-        "D": "सीढ़ियाँ"
-      },
-      "vikalpa": {
-        "A": "दुस्कर",
-        "B": "संशोधन",
-        "C": "वैदेही",
-        "D": "सीढ़ियाँ"
-      }
-    },
-    {
-      "id": "obj_52",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "instructions": "किन्हीं 50 प्रश्नों के उत्तर दें।",
-      "question": "'दोष' शब्द का विशेषण है",
-      "prashna": "'दोष' शब्द का विशेषण है",
-      "options": {
-        "A": "दूषित",
-        "B": "दोषिल",
-        "C": "दोषियालु",
-        "D": "दोषांत"
-      },
-      "vikalpa": {
-        "A": "दूषित",
-        "B": "दोषिल",
-        "C": "दोषियालु",
-        "D": "दोषांत"
-      }
-    },
-    {
-      "id": "obj_53",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "instructions": "किन्हीं 50 प्रश्नों के उत्तर दें।",
-      "question": "'नेह' शब्द का विशेषण है",
-      "prashna": "'नेह' शब्द का विशेषण है",
-      "options": {
-        "A": "नाहक",
-        "B": "नास्तिक",
-        "C": "नेही",
-        "D": "नाशक"
-      },
-      "vikalpa": {
-        "A": "नाहक",
-        "B": "नास्तिक",
-        "C": "नेही",
-        "D": "नाशक"
-      }
-    },
-    {
       "id": "obj_63",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.27,
+      "raw_choice": "Godhuli - 21. Hamari Neend (हमारी नींद)",
       "instructions": "किन्हीं 50 प्रश्नों के उत्तर दें।",
       "question": "निम्न में कौन कवि आदिवासी लोक कविताओं के भी अनुवादक हैं ?",
       "prashna": "निम्न में कौन कवि आदिवासी लोक कविताओं के भी अनुवादक हैं ?",
@@ -3030,77 +2021,13 @@
       }
     },
     {
-      "id": "obj_64",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "instructions": "किन्हीं 50 प्रश्नों के उत्तर दें।",
-      "question": "'नेमत' शब्द का अर्थ है",
-      "prashna": "'नेमत' शब्द का अर्थ है",
-      "options": {
-        "A": "न्योता",
-        "B": "नामी",
-        "C": "ईश्वर की देन",
-        "D": "नियंत्रण"
-      },
-      "vikalpa": {
-        "A": "न्योता",
-        "B": "नामी",
-        "C": "ईश्वर की देन",
-        "D": "नियंत्रण"
-      }
-    },
-    {
-      "id": "obj_69",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "instructions": "किन्हीं 50 प्रश्नों के उत्तर दें।",
-      "question": "'हस्तलिपि' किसे कहते हैं ?",
-      "prashna": "'हस्तलिपि' किसे कहते हैं ?",
-      "options": {
-        "A": "हाथ की मेहंदी को",
-        "B": "हाथ से बनी मूर्ति को",
-        "C": "हाथ से बने व्यंजन को",
-        "D": "हाथ की लिखावट को"
-      },
-      "vikalpa": {
-        "A": "हाथ की मेहंदी को",
-        "B": "हाथ से बनी मूर्ति को",
-        "C": "हाथ से बने व्यंजन को",
-        "D": "हाथ की लिखावट को"
-      }
-    },
-    {
-      "id": "obj_70",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "instructions": "किन्हीं 50 प्रश्नों के उत्तर दें।",
-      "question": "'साखी ( साक्षी )' शब्द का अर्थ है",
-      "prashna": "'साखी ( साक्षी )' शब्द का अर्थ है",
-      "options": {
-        "A": "असत्य",
-        "B": "सत्य",
-        "C": "गवाही",
-        "D": "सवेरा"
-      },
-      "vikalpa": {
-        "A": "असत्य",
-        "B": "सत्य",
-        "C": "गवाही",
-        "D": "सवेरा"
-      }
-    },
-    {
       "id": "obj_78",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.25,
+      "raw_choice": "Godhuli - 17. Bharat Mata (भारतमाता)",
       "instructions": "किन्हीं 50 प्रश्नों के उत्तर दें।",
       "question": "किसने 'जीर्ण जनपद' नामक एक काव्य लिखा, जिसमें ग्रामीण जीवन का यथार्थवादी चित्रण है ?",
       "prashna": "किसने 'जीर्ण जनपद' नामक एक काव्य लिखा, जिसमें ग्रामीण जीवन का यथार्थवादी चित्रण है ?",
@@ -3118,33 +2045,13 @@
       }
     },
     {
-      "id": "obj_84",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "instructions": "किन्हीं 50 प्रश्नों के उत्तर दें।",
-      "question": "'तद्धित' शब्द का संधि-विच्छेद है",
-      "prashna": "'तद्धित' शब्द का संधि-विच्छेद है",
-      "options": {
-        "A": "तत् + हित",
-        "B": "तत् + उद्धित",
-        "C": "तत् + ईत",
-        "D": "तः + धृत"
-      },
-      "vikalpa": {
-        "A": "तत् + हित",
-        "B": "तत् + उद्धित",
-        "C": "तत् + ईत",
-        "D": "तः + धृत"
-      }
-    },
-    {
       "id": "obj_4",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.46,
+      "raw_choice": "Vyakaran - 15. Vocabulary (Synonyms, Antonyms, etc.) (शब्द भंडार (पर्यायवाची, विलोम, आदि))",
       "question": "'रस्क' शब्द का अर्थ है",
       "prashna": "'रस्क' शब्द का अर्थ है",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -3167,6 +2074,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.37,
+      "raw_choice": "Vyakaran - 16. One Word Substitution (अनेक शब्दों के लिए एक शब्द)",
       "question": "सींग का बना वाद्ययंत्र क्या कहलाता है ?",
       "prashna": "सींग का बना वाद्ययंत्र क्या कहलाता है ?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -3184,33 +2093,13 @@
       }
     },
     {
-      "id": "obj_6",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "'परसौ' शब्द का अर्थ है",
-      "prashna": "'परसौ' शब्द का अर्थ है",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
-      "options": {
-        "A": "रस बरसाओ",
-        "B": "स्पर्श करो",
-        "C": "कल के बाद आना",
-        "D": "खाना परोसना"
-      },
-      "vikalpa": {
-        "A": "रस बरसाओ",
-        "B": "स्पर्श करो",
-        "C": "कल के बाद आना",
-        "D": "खाना परोसना"
-      }
-    },
-    {
       "id": "obj_9",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.29,
+      "raw_choice": "Vyakaran - 2. Word Analysis (Tatsam, Tadbhav, Deshaj, Videshi) (शब्द विचार (तत्सम, तद्भव, देशज, विदेशी))",
       "question": "'साफा' क्या है ?",
       "prashna": "'साफा' क्या है ?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -3233,6 +2122,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.2,
+      "raw_choice": "Godhuli - 3. Bharat se Hum Kya Seekhe (भारत से हम क्या सीखें)",
       "question": "“यदि मनुष्य परिस्थितियों का नियामक नहीं है तो परिस्थितियाँ भी मनुष्य की नियामक नहीं हैं।” यह कथन किस लेखक का है ?",
       "prashna": "“यदि मनुष्य परिस्थितियों का नियामक नहीं है तो परिस्थितियाँ भी मनुष्य की नियामक नहीं हैं।” यह कथन किस लेखक का है ?",
       "options": {
@@ -3254,6 +2145,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.31,
+      "raw_choice": "Godhuli - 3. Bharat se Hum Kya Seekhe (भारत से हम क्या सीखें)",
       "question": "बादशाह अकबर ने जो सिक्का चलाया था उस पर कौन शब्द अंकित है ?",
       "prashna": "बादशाह अकबर ने जो सिक्का चलाया था उस पर कौन शब्द अंकित है ?",
       "options": {
@@ -3270,74 +2163,13 @@
       }
     },
     {
-      "id": "obj_38",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "स्वामी विवेकानंद ने 'वेदांतियों का भी वेदांती' किसे कहा है ?",
-      "prashna": "स्वामी विवेकानंद ने 'वेदांतियों का भी वेदांती' किसे कहा है ?",
-      "options": {
-        "A": "मैक्स मूलर को",
-        "B": "गुणाकर मुले को",
-        "C": "कालिदास को",
-        "D": "विलियम जोन्स को"
-      },
-      "vikalpa": {
-        "A": "मैक्स मूलर को",
-        "B": "गुणाकर मुले को",
-        "C": "कालिदास को",
-        "D": "विलियम जोन्स को"
-      }
-    },
-    {
-      "id": "obj_42",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "'पीड़ा' शब्द का विशेषण है",
-      "prashna": "'पीड़ा' शब्द का विशेषण है",
-      "options": {
-        "A": "पीड़ाकु",
-        "B": "पीड़ितांक",
-        "C": "पीड़ित",
-        "D": "पीिड़त"
-      },
-      "vikalpa": {
-        "A": "पीड़ाकु",
-        "B": "पीड़ितांक",
-        "C": "पीड़ित",
-        "D": "पीिड़त"
-      }
-    },
-    {
-      "id": "obj_44",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "'बुद्ध' शब्द का विशेषण है",
-      "prashna": "'बुद्ध' शब्द का विशेषण है",
-      "options": {
-        "A": "बौद्ध",
-        "B": "बुद्धायी",
-        "C": "बुद्धिनाई",
-        "D": "बाधित"
-      },
-      "vikalpa": {
-        "A": "बौद्ध",
-        "B": "बुद्धायी",
-        "C": "बुद्धिनाई",
-        "D": "बाधित"
-      }
-    },
-    {
       "id": "obj_69",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.42,
+      "raw_choice": "Godhuli - 14. Prem Ayani Shri Radhika (प्रेम अयनि श्री राधिका)",
       "question": "निम्न में कौन 'प्रेम की पीर' के कवि हैं ?",
       "prashna": "निम्न में कौन 'प्रेम की पीर' के कवि हैं ?",
       "options": {
@@ -3354,53 +2186,13 @@
       }
     },
     {
-      "id": "obj_73",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "पर्यावरण, मनुष्य और सभ्यता के विनाश की कथा व्यक्त करती कविता निम्न में कौन है ?",
-      "prashna": "पर्यावरण, मनुष्य और सभ्यता के विनाश की कथा व्यक्त करती कविता निम्न में कौन है ?",
-      "options": {
-        "A": "अक्षर-ज्ञान",
-        "B": "लौटकर आऊँगा फिर",
-        "C": "एक वृक्ष की हत्या",
-        "D": "इनमें से कोई नहीं"
-      },
-      "vikalpa": {
-        "A": "अक्षर-ज्ञान",
-        "B": "लौटकर आऊँगा फिर",
-        "C": "एक वृक्ष की हत्या",
-        "D": "इनमें से कोई नहीं"
-      }
-    },
-    {
-      "id": "obj_79",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "'आध्यात्मिक शिक्षा से मेरा मतलब ............ है।' रिक्त स्थान में क्या होगा ?",
-      "prashna": "'आध्यात्मिक शिक्षा से मेरा मतलब ............ है।' रिक्त स्थान में क्या होगा ?",
-      "options": {
-        "A": "व्यावसायिक शिक्षा",
-        "B": "रूढ़िवादी शिक्षा",
-        "C": "हृदय की शिक्षा",
-        "D": "वैज्ञानिक शिक्षा"
-      },
-      "vikalpa": {
-        "A": "व्यावसायिक शिक्षा",
-        "B": "रूढ़िवादी शिक्षा",
-        "C": "हृदय की शिक्षा",
-        "D": "वैज्ञानिक शिक्षा"
-      }
-    },
-    {
       "id": "obj_99",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.14,
+      "raw_choice": "Godhuli - 15. Ati Sudho Sneh ko Marag Hai (अति सूधो सनेह को मारग है)",
       "question": "सुलोचना कौन थी ?",
       "prashna": "सुलोचना कौन थी ?",
       "options": {
@@ -3415,58 +2207,17 @@
         "C": "अभिनेत्री",
         "D": "हलवाइन"
       }
-    },
-    {
-      "id": "obj_100",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "“एक भाषा बोलनेवाली जाति की तरह अनेक भाषाएँ बोलनेवाले राष्ट्र की भी अस्मिता होती है।” यह किस शीर्षक पाठ की पंक्ति है ?",
-      "prashna": "“एक भाषा बोलनेवाली जाति की तरह अनेक भाषाएँ बोलनेवाले राष्ट्र की भी अस्मिता होती है।” यह किस शीर्षक पाठ की पंक्ति है ?",
-      "options": {
-        "A": "भारत से हम क्या सीखें",
-        "B": "नाखून क्यों बढ़ते हैं",
-        "C": "नागरी लिपि",
-        "D": "परंपरा का मूल्यांकन"
-      },
-      "vikalpa": {
-        "A": "भारत से हम क्या सीखें",
-        "B": "नाखून क्यों बढ़ते हैं",
-        "C": "नागरी लिपि",
-        "D": "परंपरा का मूल्यांकन"
-      }
     }
   ],
   "2026": [
-    {
-      "id": "obj_14",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "'द नोटबुक्स ऑफ माल्टे लॉरिड्स ब्रिज' उपन्यास के लेखक हैं",
-      "prashna": "'द नोटबुक्स ऑफ माल्टे लॉरिड्स ब्रिज' उपन्यास के लेखक हैं",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
-      "options": {
-        "A": "रेनर मारिया रिल्के",
-        "B": "धर्मवीर भारती",
-        "C": "जोसेफ रिल्के",
-        "D": "जीवनानंद दास"
-      },
-      "vikalpa": {
-        "A": "रेनर मारिया रिल्के",
-        "B": "धर्मवीर भारती",
-        "C": "जोसेफ रिल्के",
-        "D": "जीवनानंद दास"
-      }
-    },
     {
       "id": "obj_15",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.2,
+      "raw_choice": "Godhuli - 23. Lautkar Aaunga Phir (लौटकर आऊँगा फिर)",
       "question": "'वनलता सेन' नामक कृति को 1952 में श्रेष्ठ काव्यग्रंथ का पुरस्कार किसके द्वारा प्रदान किया गया था ?",
       "prashna": "'वनलता सेन' नामक कृति को 1952 में श्रेष्ठ काव्यग्रंथ का पुरस्कार किसके द्वारा प्रदान किया गया था ?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -3489,6 +2240,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.46,
+      "raw_choice": "Godhuli - 19. Hiroshima (हिरोशिमा)",
       "question": "कविताओं की चर्चित श्रृंखला 'कवि ने कहा' से निम्न में कौन शीर्षक कविता ली गई है ?",
       "prashna": "कविताओं की चर्चित श्रृंखला 'कवि ने कहा' से निम्न में कौन शीर्षक कविता ली गई है ?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -3511,6 +2264,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.35,
+      "raw_choice": "Vyakaran - 15. Vocabulary (Synonyms, Antonyms, etc.) (शब्द भंडार (पर्यायवाची, विलोम, आदि))",
       "question": "'शोफर' किसको कहते हैं ?",
       "prashna": "'शोफर' किसको कहते हैं ?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -3528,77 +2283,13 @@
       }
     },
     {
-      "id": "obj_30",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "बाँग्ला भाषा में 'खोखा' किसको कहते हैं ?",
-      "prashna": "बाँग्ला भाषा में 'खोखा' किसको कहते हैं ?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
-      "options": {
-        "A": "बच्चा को",
-        "B": "बच्ची को",
-        "C": "नौकर को",
-        "D": "पिता को"
-      },
-      "vikalpa": {
-        "A": "बच्चा को",
-        "B": "बच्ची को",
-        "C": "नौकर को",
-        "D": "पिता को"
-      }
-    },
-    {
-      "id": "obj_32",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "'मेरे अध्यापक बहुत भले हैं' - इस वाक्य में प्रयुक्त 'बहुत भले' किस पदबंध का उदाहरण है ?",
-      "prashna": "'मेरे अध्यापक बहुत भले हैं' - इस वाक्य में प्रयुक्त 'बहुत भले' किस पदबंध का उदाहरण है ?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
-      "options": {
-        "A": "संज्ञा पदबंध",
-        "B": "विशेषण पदबंध",
-        "C": "क्रिया पदबंध",
-        "D": "सर्वनाम पदबंध"
-      },
-      "vikalpa": {
-        "A": "संज्ञा पदबंध",
-        "B": "विशेषण पदबंध",
-        "C": "क्रिया पदबंध",
-        "D": "सर्वनाम पदबंध"
-      }
-    },
-    {
-      "id": "obj_55",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "'हरष सोक तें रहै नियारो, नाहि मान अपमाना ।।' - किस कविता से उद्धृत है ?",
-      "prashna": "'हरष सोक तें रहै नियारो, नाहि मान अपमाना ।।' - किस कविता से उद्धृत है ?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
-      "options": {
-        "A": "राम नाम बिनु बिरथे जगि जनमा",
-        "B": "करील के कुंजन ऊपर वारौं",
-        "C": "जो नर दुख में दुख नहिं मानै",
-        "D": "प्रेम-अयनि श्री राधिका"
-      },
-      "vikalpa": {
-        "A": "राम नाम बिनु बिरथे जगि जनमा",
-        "B": "करील के कुंजन ऊपर वारौं",
-        "C": "जो नर दुख में दुख नहिं मानै",
-        "D": "प्रेम-अयनि श्री राधिका"
-      }
-    },
-    {
       "id": "obj_58",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.1,
+      "raw_choice": "Godhuli - 20. Ek Vriksha ki Hatya (एक वृक्ष की हत्या)",
       "question": "'वह आदमी नया गरम कोट पहिनकर चला गया विचार की तरह' कविता संग्रह के कवि हैं",
       "prashna": "'वह आदमी नया गरम कोट पहिनकर चला गया विचार की तरह' कविता संग्रह के कवि हैं",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -3621,6 +2312,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.47,
+      "raw_choice": "Vyakaran - 4. Samas (समास)",
       "question": "जब एक व्यंजन अपने समान अन्य व्यंजन से मिलता है, तब उसे क्या कहते हैं ?",
       "prashna": "जब एक व्यंजन अपने समान अन्य व्यंजन से मिलता है, तब उसे क्या कहते हैं ?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -3643,6 +2336,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.34,
+      "raw_choice": "Vyakaran - 15. Vocabulary (Synonyms, Antonyms, etc.) (शब्द भंडार (पर्यायवाची, विलोम, आदि))",
       "question": "'सहजात वृत्ति' का अर्थ है",
       "prashna": "'सहजात वृत्ति' का अर्थ है",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -3660,33 +2355,13 @@
       }
     },
     {
-      "id": "obj_84",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "'आद्यलेख' का अर्थ है",
-      "prashna": "'आद्यलेख' का अर्थ है",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
-      "options": {
-        "A": "अत्यंत प्राचीन प्रारंभिक लेख",
-        "B": "हाथ की लिखावट",
-        "C": "पहचान, सत्ता",
-        "D": "ध्वनियों के लिखित चिह्न"
-      },
-      "vikalpa": {
-        "A": "अत्यंत प्राचीन प्रारंभिक लेख",
-        "B": "हाथ की लिखावट",
-        "C": "पहचान, सत्ता",
-        "D": "ध्वनियों के लिखित चिह्न"
-      }
-    },
-    {
       "id": "obj_85",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.22,
+      "raw_choice": "Godhuli - 18. Janatantra ka Janm (जनतंत्र का जन्म)",
       "question": "'उर्वशी' के रचनाकार हैं",
       "prashna": "'उर्वशी' के रचनाकार हैं",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -3704,55 +2379,13 @@
       }
     },
     {
-      "id": "obj_96",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "'पर्वत' विशेष्य का विशेषण है",
-      "prashna": "'पर्वत' विशेष्य का विशेषण है",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
-      "options": {
-        "A": "प्रान्तीय",
-        "B": "पर्वतीय",
-        "C": "पठित",
-        "D": "परीक्षित"
-      },
-      "vikalpa": {
-        "A": "प्रान्तीय",
-        "B": "पर्वतीय",
-        "C": "पठित",
-        "D": "परीक्षित"
-      }
-    },
-    {
-      "id": "obj_14",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "निम्न में कौन शुद्ध शब्द है ?",
-      "prashna": "निम्न में कौन शुद्ध शब्द है ?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
-      "options": {
-        "A": "विभिषीका",
-        "B": "विभीषिका",
-        "C": "विभिषिका",
-        "D": "वीभीषिका"
-      },
-      "vikalpa": {
-        "A": "विभिषीका",
-        "B": "विभीषिका",
-        "C": "विभिषिका",
-        "D": "वीभीषिका"
-      }
-    },
-    {
       "id": "obj_43",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.3,
+      "raw_choice": "Vyakaran - 19. Poetic Elements (Introduction) (काव्य-तत्त्व (सामान्य परिचय))",
       "question": "'एक पतंग अनंत में' काव्य-संग्रह के रचनाकार हैं",
       "prashna": "'एक पतंग अनंत में' काव्य-संग्रह के रचनाकार हैं",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -3775,6 +2408,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.28,
+      "raw_choice": "Godhuli - 2. Vish ke Daant (विष के दाँत)",
       "question": "'महाविद्यालय' किसका कहानी-संग्रह है ?",
       "prashna": "'महाविद्यालय' किसका कहानी-संग्रह है ?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -3792,33 +2427,13 @@
       }
     },
     {
-      "id": "obj_47",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "'रसकेलि बल्ली' के रचनाकार हैं",
-      "prashna": "'रसकेलि बल्ली' के रचनाकार हैं",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
-      "options": {
-        "A": "गुरु नानक",
-        "B": "घनानंद",
-        "C": "प्रेमघन",
-        "D": "रसखान"
-      },
-      "vikalpa": {
-        "A": "गुरु नानक",
-        "B": "घनानंद",
-        "C": "प्रेमघन",
-        "D": "रसखान"
-      }
-    },
-    {
       "id": "obj_49",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.36,
+      "raw_choice": "Godhuli - 18. Janatantra ka Janm (जनतंत्र का जन्म)",
       "question": "निम्न में कौन साहित्यकार राज्यसभा के सांसद भी रहे हैं ?",
       "prashna": "निम्न में कौन साहित्यकार राज्यसभा के सांसद भी रहे हैं ?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -3841,6 +2456,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.29,
+      "raw_choice": "Godhuli - 19. Hiroshima (हिरोशिमा)",
       "question": "'आँगन के पार द्वार' के रचनाकार हैं",
       "prashna": "'आँगन के पार द्वार' के रचनाकार हैं",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -3858,77 +2475,13 @@
       }
     },
     {
-      "id": "obj_54",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "'संधि' का विलोम शब्द है",
-      "prashna": "'संधि' का विलोम शब्द है",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
-      "options": {
-        "A": "जोड़",
-        "B": "विग्रह",
-        "C": "व्यास",
-        "D": "संहार"
-      },
-      "vikalpa": {
-        "A": "जोड़",
-        "B": "विग्रह",
-        "C": "व्यास",
-        "D": "संहार"
-      }
-    },
-    {
-      "id": "obj_65",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "'भारत को पहचान सकनेवाली दृष्टि की आवश्यकता है।' - यह कथन है",
-      "prashna": "'भारत को पहचान सकनेवाली दृष्टि की आवश्यकता है।' - यह कथन है",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
-      "options": {
-        "A": "मैक्स मूलर का",
-        "B": "गुणाकर मुले का",
-        "C": "महात्मा गाँधी का",
-        "D": "अमरकांत का"
-      },
-      "vikalpa": {
-        "A": "मैक्स मूलर का",
-        "B": "गुणाकर मुले का",
-        "C": "महात्मा गाँधी का",
-        "D": "अमरकांत का"
-      }
-    },
-    {
-      "id": "obj_67",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "किन राजाओं के शासनकाल में पहले-पहल वेदों को लिपिबद्ध किया गया था ?",
-      "prashna": "किन राजाओं के शासनकाल में पहले-पहल वेदों को लिपिबद्ध किया गया था ?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
-      "options": {
-        "A": "विजयनगर के राजाओं के शासनकाल में",
-        "B": "चोल राजाओं के शासनकाल में",
-        "C": "गुप्त राजाओं के शासनकाल में",
-        "D": "मौर्य राजाओं के शासनकाल में"
-      },
-      "vikalpa": {
-        "A": "विजयनगर के राजाओं के शासनकाल में",
-        "B": "चोल राजाओं के शासनकाल में",
-        "C": "गुप्त राजाओं के शासनकाल में",
-        "D": "मौर्य राजाओं के शासनकाल में"
-      }
-    },
-    {
       "id": "obj_69",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.34,
+      "raw_choice": "Godhuli - 7. Parampara ka Mulyankan (परंपरा का मूल्यांकन)",
       "question": "19 वीं सदी में किसने अपनी स्वाधीनता के लिए लड़नेवाले यूनानियों को प्राचीन संस्कृति से उनकी एकात्मकता की पहचान कराने में बड़ा परिश्रम किया ?",
       "prashna": "19 वीं सदी में किसने अपनी स्वाधीनता के लिए लड़नेवाले यूनानियों को प्राचीन संस्कृति से उनकी एकात्मकता की पहचान कराने में बड़ा परिश्रम किया ?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -3946,55 +2499,13 @@
       }
     },
     {
-      "id": "obj_80",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "काल्डवेल के 'तुलनात्मक व्याकरण' के अनुसार मदुरै पांडिय लोगों की क्या है ?",
-      "prashna": "काल्डवेल के 'तुलनात्मक व्याकरण' के अनुसार मदुरै पांडिय लोगों की क्या है ?",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
-      "options": {
-        "A": "पहली राजधानी",
-        "B": "दूसरी राजधानी",
-        "C": "तीसरी राजधानी",
-        "D": "चौथी राजधानी"
-      },
-      "vikalpa": {
-        "A": "पहली राजधानी",
-        "B": "दूसरी राजधानी",
-        "C": "तीसरी राजधानी",
-        "D": "चौथी राजधानी"
-      }
-    },
-    {
-      "id": "obj_81",
-      "type": "objective",
-      "section": "UNCLASSIFIED",
-      "chapter": "UNCLASSIFIED",
-      "chapter_name": "UNCLASSIFIED",
-      "question": "'सवांग' का अर्थ है",
-      "prashna": "'सवांग' का अर्थ है",
-      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
-      "options": {
-        "A": "नाचने वाली घिरनी",
-        "B": "सगा, परिवार का सदस्य",
-        "C": "नगण्य क्षुद्र",
-        "D": "जिम्मेदारी"
-      },
-      "vikalpa": {
-        "A": "नाचने वाली घिरनी",
-        "B": "सगा, परिवार का सदस्य",
-        "C": "नगण्य क्षुद्र",
-        "D": "जिम्मेदारी"
-      }
-    },
-    {
       "id": "obj_82",
       "type": "objective",
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.36,
+      "raw_choice": "Vyakaran - 16. One Word Substitution (अनेक शब्दों के लिए एक शब्द)",
       "question": "'अल्पज्ञ' का अर्थ है",
       "prashna": "'अल्पज्ञ' का अर्थ है",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -4017,6 +2528,8 @@
       "section": "UNCLASSIFIED",
       "chapter": "UNCLASSIFIED",
       "chapter_name": "UNCLASSIFIED",
+      "confidence": 0.17,
+      "raw_choice": "Vyakaran - 19. Poetic Elements (Introduction) (काव्य-तत्त्व (सामान्य परिचय))",
       "question": "निम्न में कौन कवि मोहम्मद शाह रंगीले के यहाँ मीरमुंशी का काम करते थे ?",
       "prashna": "निम्न में कौन कवि मोहम्मद शाह रंगीले के यहाँ मीरमुंशी का काम करते थे ?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के उत्तर अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",

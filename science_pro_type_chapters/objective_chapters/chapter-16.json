@@ -5,6 +5,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "In what kind of water does the dengue-causing mosquito breed?",
       "prashna": "डेंगू उत्पन्न करनेवाला मच्छर किस तरह के जल में लगता है?",
       "options": {
@@ -21,12 +23,38 @@
       }
     }
   ],
+  "2012": [
+    {
+      "id": "obj_15",
+      "type": "objective",
+      "chapter": "16",
+      "chapter_name": "Our Environment",
+      "confidence": 0.68,
+      "raw_choice": "16. Our Environment (हमारा पर्यावरण)",
+      "question": "The number of oxygen atoms in a molecule of ozone is",
+      "prashna": "ओजोन के अणु में ऑक्सीजन के परमाणु की संख्या होती है।",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      }
+    }
+  ],
   "2013": [
     {
       "id": "obj_10",
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The gas responsible for global warming is",
       "prashna": "ग्लोबल वार्मिंग के लिए उत्तरदायी गैस है।",
       "options": {
@@ -49,6 +77,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The source of energy in an ecosystem is",
       "prashna": "पारिस्थितिकी तंत्र में ऊर्जा का स्रोत है",
       "options": {
@@ -69,6 +99,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Green plants are called",
       "prashna": "हरे पौधे कहलाते हैं",
       "options": {
@@ -89,6 +121,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Ozone layer is found in",
       "prashna": "ओजोन परत पायी जाती है",
       "options": {
@@ -109,6 +143,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Green plants are called",
       "prashna": "हरे पौधे कहलाते हैं",
       "options": {
@@ -123,6 +159,28 @@
         "C": "उपभोक्ता",
         "D": "आहार शृंखला"
       }
+    },
+    {
+      "id": "obj_20",
+      "type": "objective",
+      "chapter": "16",
+      "chapter_name": "Our Environment",
+      "confidence": 0.5,
+      "raw_choice": "16. Our Environment (हमारा पर्यावरण)",
+      "question": "Which of the following is an example of 'ground water'?",
+      "prashna": "निम्नलिखित में से कौन एक 'भूमिगत जल' का उदाहरण है?",
+      "options": {
+        "A": "River",
+        "B": "Well",
+        "C": "Pond",
+        "D": "Sea"
+      },
+      "vikalpa": {
+        "A": "नदी",
+        "B": "कुआँ",
+        "C": "तालाब",
+        "D": "समुद्र"
+      }
     }
   ],
   "2015": [
@@ -131,6 +189,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Ozone layer is found in",
       "prashna": "ओजोन परत पाई जाती है",
       "options": {
@@ -151,6 +211,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The ozone layer is found in:",
       "prashna": "ओजोन परत पायी जाती है।",
       "options": {
@@ -173,6 +235,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The presence of $CO_2$ gas in atmosphere is",
       "prashna": "वायुमंडल में $CO_2$ गैस की उपस्थिति है",
       "options": {
@@ -215,6 +279,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The main aim of 'Chipko Movement' was to conserve -",
       "prashna": "'चिपको आन्दोलन' का मुख्य उद्देश्य संरक्षित करना था -",
       "options": {
@@ -235,6 +301,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following groups contains only biodegradable items?",
       "prashna": "निम्न में से कौन -से समूहों में केवल जैव निम्नीकरणीय पदार्थ हैं -",
       "options": {
@@ -255,6 +323,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following constitutes a Food chain?",
       "prashna": "निम्न में कौन आहार श्रृंखला का निर्माण करता है?",
       "options": {
@@ -277,6 +347,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which gas is responsible for the global warming?",
       "prashna": "कौन-सी गैस वैश्विक ऊष्मण के लिए उत्तरदायी है?",
       "options": {
@@ -297,6 +369,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which is not responsible for Ganga's pollution?",
       "prashna": "निम्न में कौन गंगा-प्रदूषण के लिए उत्तरदायी नहीं है?",
       "options": {
@@ -317,6 +391,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following constitutes a food chain?",
       "prashna": "निम्न में से कौन आहार श्रृंखला का निर्माण करता है?",
       "options": {
@@ -337,6 +413,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which is a non-biodegradable waste?",
       "prashna": "कौन सा अजैव निम्नीकरणीय कचरा है?",
       "options": {
@@ -357,6 +435,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Hot spots of biodiversity is -",
       "prashna": "जैव विविधता के विशिष्ट स्थल (Hot spots) हैं -",
       "options": {
@@ -377,6 +457,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The earth is shielded by ozone layer from which harmful radiation?",
       "prashna": "ओजोन परत किस हानिकारक विकिरण से पृथ्वी को सुरक्षा प्रदान करती है?",
       "options": {
@@ -399,6 +481,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'Chipko movement' is related to",
       "prashna": "'चिपको आंदोलन' किससे संबंधित है ?",
       "options": {
@@ -419,6 +503,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following causes acid rain ?",
       "prashna": "निम्नलिखित में किसके कारण अम्ल वर्षा होती है ?",
       "options": {
@@ -439,6 +525,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is not a natural resource ?",
       "prashna": "निम्नलिखित में कौन प्राकृतिक संसाधन नहीं है ?",
       "options": {
@@ -459,6 +547,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "In which direction does energy flow in an ecosystem ?",
       "prashna": "पारिस्थितिकी तंत्र में ऊर्जा का प्रवाह किस दिशा में होता है ?",
       "options": {
@@ -479,6 +569,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The ozone layer is found",
       "prashna": "ओजोन परत पाया जाता है",
       "options": {
@@ -501,6 +593,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The source of energy in an ecosystem is",
       "prashna": "पारिस्थितिकी तंत्र में ऊर्जा का स्रोत है",
       "options": {
@@ -521,6 +615,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Green plants are called",
       "prashna": "हरे पौधे कहलाते हैं",
       "options": {
@@ -541,6 +637,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The ozone layer is found in",
       "prashna": "ओजोन परत पायी जाती है",
       "options": {
@@ -555,6 +653,28 @@
         "C": "आयनोस्फियर में",
         "D": "ट्रोपोस्फियर में"
       }
+    },
+    {
+      "id": "obj_28",
+      "type": "objective",
+      "chapter": "16",
+      "chapter_name": "Our Environment",
+      "confidence": 0.7,
+      "raw_choice": "16. Our Environment (हमारा पर्यावरण)",
+      "question": "What is the number of atoms of oxygen in a molecule of ozone?",
+      "prashna": "ओजोन के एक अणु में आक्सीजन के परमाणुओं की संख्या कितनी होती है?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "vikalpa": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      }
     }
   ],
   "2022": [
@@ -563,6 +683,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The source of energy in the ecosystem is",
       "prashna": "पारिस्थितिक तंत्र में ऊर्जा का स्रोत है",
       "options": {
@@ -583,6 +705,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is the main cause of depletion of ozone layer ?",
       "prashna": "ओजोन परत का ह्रास मुख्यतः किसके द्वारा होता है ?",
       "options": {
@@ -603,6 +727,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The molecular formula of ozone is",
       "prashna": "ओजोन का आणविक सूत्र है",
       "options": {
@@ -623,6 +749,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "BS-IV is associated with",
       "prashna": "BS-IV का सम्बन्ध है",
       "options": {
@@ -643,6 +771,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which type of ecosystem is a pond ?",
       "prashna": "तालाब किस प्रकार का पारिस्थितिक तंत्र है ?",
       "options": {
@@ -663,6 +793,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following are present in maximum number in an ecosystem ?",
       "prashna": "निम्न में कौन पारिस्थितिक तंत्र में अधिकतम संख्या में मौजूद होते हैं ?",
       "options": {
@@ -679,10 +811,34 @@
       }
     },
     {
+      "id": "obj_57",
+      "type": "objective",
+      "chapter": "16",
+      "chapter_name": "Our Environment",
+      "confidence": 0.59,
+      "raw_choice": "16. Our Environment (हमारा पर्यावरण)",
+      "question": "The amount of nitrogen in the atmosphere is",
+      "prashna": "िामभु ॊडर भें नाइट्रोजन की भात्रा है",
+      "options": {
+        "A": "20%",
+        "B": "50%",
+        "C": "78%",
+        "D": "0.3%"
+      },
+      "vikalpa": {
+        "A": "20%",
+        "B": "50%",
+        "C": "78%",
+        "D": "0.3%"
+      }
+    },
+    {
       "id": "obj_60",
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The number of oxygen atoms in a molecule of ozone is",
       "prashna": "ओजोन के अर्ु भें ऑक्सीजन की ऩयभार्ु की सॊख्मा होती है।",
       "options": {
@@ -703,6 +859,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "In a food chain, who always remains at the third trophic level?",
       "prashna": "एक खाद्म शॊखृ रा भें, तीसये ऩोषी स्तय ऩय हभेशा कौन यहता है?",
       "options": {
@@ -723,6 +881,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following groups contains only biodegradable substances?",
       "prashna": "ननम्न भें से कौन-से सभहू ों भें केिर जैि ननम्नीकयर्ीम ऩदाथथ है ?",
       "options": {
@@ -745,6 +905,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Euro-II is related to",
       "prashna": "यूरो-II का संबंध है",
       "options": {
@@ -765,6 +927,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which is an example of a decomposer?",
       "prashna": "अपघटक का उदाहरण है",
       "options": {
@@ -785,6 +949,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is/are a part of environment?",
       "prashna": "निम्नलिखित में से कौन पर्यावरण का हिस्सा है?",
       "options": {
@@ -805,6 +971,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "How many trophic levels are there in a forest ecosystem?",
       "prashna": "एक वन पारिस्थितिक तंत्र में कितने पोषी स्तर होते हैं?",
       "options": {
@@ -825,6 +993,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The molecular formula of ozone is",
       "prashna": "ओजोन का आण्विक सूत्र है",
       "options": {
@@ -845,6 +1015,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The flow of energy in an ecosystem is",
       "prashna": "पारिस्थितिक तंत्र में ऊर्जा का प्रवाह होता है",
       "options": {
@@ -865,6 +1037,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The tiger is a consumer of",
       "prashna": "बाघ उपभोक्ता है",
       "options": {
@@ -887,6 +1061,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Depletion of ozone layer is due to",
       "prashna": "ओजोन परत का अवक्षय करता है",
       "options": {
@@ -907,6 +1083,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The tiger is a consumer of",
       "prashna": "बाघ उपभोक्ता है",
       "options": {
@@ -927,6 +1105,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Ozone layer protects earth from which harmful radiation?",
       "prashna": "ओजोन परत किस हानिकारक विकिरण से पृथ्वी को सुरक्षा प्रदान करती है ?",
       "options": {
@@ -947,6 +1127,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following causes acid rain in industrial areas?",
       "prashna": "निम्नलिखित में से किसके द्वारा औद्योगिक क्षेत्र में अम्ल वर्षा होती है ?",
       "options": {
@@ -969,6 +1151,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which gas is responsible for global warming?",
       "prashna": "कौन-सी गैस वैश्विक ऊष्मण के लिए उत्तरदायी है ?",
       "options": {
@@ -989,6 +1173,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The chemical which shows biomagnification is",
       "prashna": "जैव आवर्धन प्रदर्शित करने वाला रसायन है",
       "options": {
@@ -1009,6 +1195,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Primary consumers are called",
       "prashna": "प्राथमिक उपभोक्ता कहलाते हैं",
       "options": {
@@ -1029,6 +1217,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "CFC is widely used in",
       "prashna": "CFC का व्यापक उपयोग होता है",
       "options": {
@@ -1049,6 +1239,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What is the new concept of waste management?",
       "prashna": "अपशिष्ट प्रबंधन की नई अवधारणा क्या है ?",
       "options": {
@@ -1069,6 +1261,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is an artificial ecosystem ?",
       "prashna": "निम्न में कृत्रिम पारिस्थितिक तंत्र कौन है ?",
       "options": {
@@ -1089,6 +1283,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which substance cannot be decomposed in the environment ?",
       "prashna": "कौन-से पदार्थ का अपघटन पर्यावरण में नहीं हो सकता है ?",
       "options": {
@@ -1109,6 +1305,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The correct food chain is",
       "prashna": "सही आहार श्रृंखला है",
       "options": {
@@ -1129,6 +1327,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The substances which get decomposed by biological process are",
       "prashna": "जो पदार्थ जैविक प्रक्रम द्वारा अपघटित हो जाते हैं, वह है",
       "options": {
@@ -1149,6 +1349,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Waste can be managed by which of the following ?",
       "prashna": "कचरे का प्रबंधन निम्नलिखित में किसके द्वारा हो सकता है ?",
       "options": {
@@ -1169,6 +1371,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which disease can be caused in humans by the ultraviolet rays of the sun ?",
       "prashna": "सूर्य की पराबैंगनी किरणों से मनुष्य में कौन-सी बीमारी हो सकती है ?",
       "options": {
@@ -1189,6 +1393,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The molecular formula of ozone is",
       "prashna": "ओजोन का आण्विक सूत्र है",
       "options": {
@@ -1209,6 +1415,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is responsible for the depletion of ozone layer ?",
       "prashna": "ओजोन परत के अवक्षय के लिए निम्नांकित में कौन उत्तरदायी है ?",
       "options": {
@@ -1229,6 +1437,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is a natural resource ?",
       "prashna": "निम्नांकित में कौन प्राकृतिक संसाधन है ?",
       "options": {
@@ -1249,6 +1459,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is a forest based industry ?",
       "prashna": "निम्नांकित में वनों पर आधारित उद्योग कौन है ?",
       "options": {
@@ -1271,6 +1483,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which gas is responsible for global warming ?",
       "prashna": "ग्लोबल वार्मिंग के लिए कौन गैस उत्तरदायी है ?",
       "options": {
@@ -1291,6 +1505,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Under whose leadership was the 'Chipko Movement' started ?",
       "prashna": "'चिषको आंदोलन' किसके नेतृत्व में प्रारंभ किया गया था ?",
       "options": {
@@ -1311,6 +1527,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is a non-biodegradable substance ?",
       "prashna": "निम्नांकित में कौन एक जैव अनिम्नीकरणीय पदार्थ है ?",
       "options": {
@@ -1331,6 +1549,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Tiger is a consumer of",
       "prashna": "बाघ उपभोक्ता है",
       "options": {
@@ -1351,6 +1571,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is a decomposer ?",
       "prashna": "निम्नलिखित में कौन एक अपघटक है ?",
       "options": {
@@ -1371,6 +1593,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following causes acid rain ?",
       "prashna": "निम्नलिखित में किसके कारण अम्ल वर्षा होती है ?",
       "options": {
@@ -1391,6 +1615,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Which of the following is responsible for imbalance in environment ?",
       "prashna": "निम्नलिखित में किसके कारण पर्यावरण का संतुलन बिगड़ जाता है ?",
       "options": {
@@ -1411,6 +1637,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The chemical which shows biomagnification is",
       "prashna": "जैव आवर्धन प्रदर्शित करने वाला रसायन है",
       "options": {
@@ -1431,6 +1659,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The molecular formula of ozone is",
       "prashna": "ओजोन का आण्विक सूत्र है",
       "options": {
@@ -1451,6 +1681,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Bacteria are called",
       "prashna": "जीवाणु कहलाते हैं",
       "options": {
@@ -1471,6 +1703,8 @@
       "type": "objective",
       "chapter": "16",
       "chapter_name": "Our Environment",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "What type of ecosystem is a pond ?",
       "prashna": "तालाब किस प्रकार का पारिस्थितिकी तंत्र है ?",
       "options": {

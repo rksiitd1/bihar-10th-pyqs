@@ -4,6 +4,8 @@
         "type": "objective",
         "chapter": "12",
         "chapter_name": "Electricity",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "$1\text{ mA}$ is equal to",
         "prashna": "$1\text{ mA}$ बराबर होता है",
         "options": {
@@ -24,6 +26,8 @@
         "type": "objective",
         "chapter": "14",
         "chapter_name": "Sources of Energy",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Diesel is used in",
         "prashna": "डीजल का उपयोग होता है।",
         "options": {
@@ -44,6 +48,8 @@
         "type": "objective",
         "chapter": "14",
         "chapter_name": "Sources of Energy",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Solar cells convert solar energy into",
         "prashna": "सौर सेल सौर ऊर्जा को रूपान्तरित करते है",
         "options": {
@@ -64,6 +70,8 @@
         "type": "objective",
         "chapter": "5",
         "chapter_name": "Periodic Classification of Elements",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The atomic number of gold is",
         "prashna": "सोना की परमाणु संख्या है",
         "options": {
@@ -84,6 +92,8 @@
         "type": "objective",
         "chapter": "1",
         "chapter_name": "Chemical Reactions and Equations",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which of the following is not an oxidation reaction?",
         "prashna": "निम्न में कौन ऑक्सीकरण की क्रिया नहीं है?",
         "options": {
@@ -104,6 +114,8 @@
         "type": "objective",
         "chapter": "5",
         "chapter_name": "Periodic Classification of Elements",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The valency of Oxygen is",
         "prashna": "आक्सीजन की संयोजकता है",
         "options": {
@@ -122,8 +134,10 @@
     {
         "id": "obj_7",
         "type": "objective",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "chapter": "2",
+        "chapter_name": "Acids, Bases and Salts",
+        "confidence": 0.64,
+        "raw_choice": "2. Acids, Bases and Salts (अम्ल, क्षारक एवं लवण)",
         "question": "The pH value of acid rain water should be",
         "prashna": "अम्लीय वर्षा के जल का pH मान होना चाहिए",
         "options": {
@@ -144,6 +158,8 @@
         "type": "objective",
         "chapter": "2",
         "chapter_name": "Acids, Bases and Salts",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which acid is found in the sting of an ant?",
         "prashna": "चींटी के डंक में कौन-सा अम्ल पाया जाता है",
         "options": {
@@ -164,6 +180,8 @@
         "type": "objective",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which of the following is vascular tissue?",
         "prashna": "निम्नलिखित में कौन-सा संवहन ऊतक",
         "options": {
@@ -184,6 +202,8 @@
         "type": "objective",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "How does protozoa excrete waste products?",
         "prashna": "प्रोटोजोआ उत्सर्जी पदार्थों का निष्कासन कैसे करता है",
         "options": {
@@ -204,6 +224,8 @@
         "type": "objective",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The largest gland of the human body is",
         "prashna": "मनुष्य के शरीर की सबसे बड़ी ग्रन्थि है",
         "options": {
@@ -224,6 +246,8 @@
         "type": "objective",
         "chapter": "7",
         "chapter_name": "Control and Coordination",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "It maintains the balance of the body.",
         "prashna": "शरीर का संतुलन बनाए रखता है।",
         "options": {
@@ -244,6 +268,8 @@
         "type": "objective",
         "chapter": "7",
         "chapter_name": "Control and Coordination",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The reason for physical changes occurring in adolescence is",
         "prashna": "किशोरावस्था में होने वाले शारीरिक परिवर्तन का कारण है",
         "options": {
@@ -264,6 +290,8 @@
         "type": "objective",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "How many chambers are there in the human heart?",
         "prashna": "मानव हृदय में कितने कोष्ठ होते हैं",
         "options": {
@@ -284,6 +312,8 @@
         "type": "objective",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is blood?",
         "prashna": "रक्त क्या है",
         "options": {
@@ -304,6 +334,8 @@
         "type": "objective",
         "chapter": "9",
         "chapter_name": "Heredity and Evolution",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Who presented the word 'Gene'?",
         "prashna": "'जीन' शब्द किसने प्रस्तुत किया ?",
         "options": {
@@ -324,6 +356,8 @@
         "type": "objective",
         "chapter": "13",
         "chapter_name": "Magnetic Effects of Electric Current",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which material rod is used to make electromagnets?",
         "prashna": "विद्युत चुंबक बनाने के लिए किस पदार्थ के छड़ का उपयोग होता है",
         "options": {
@@ -344,6 +378,8 @@
         "type": "objective",
         "chapter": "12",
         "chapter_name": "Electricity",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "When an electric current flows through a conducting wire, what is the moving particle?",
         "prashna": "जब किसी चालक तार विद्युत धारा प्रवाहित होती है तो गतिशील कण क्या है?",
         "options": {
@@ -364,6 +400,8 @@
         "type": "objective",
         "chapter": "12",
         "chapter_name": "Electricity",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Ohm's law is",
         "prashna": "ओम का नियम है",
         "options": {
@@ -384,6 +422,8 @@
         "type": "objective",
         "chapter": "12",
         "chapter_name": "Electricity",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is the S.I. unit of potential difference?",
         "prashna": "विभवान्तर का S.I. मात्रक क्या है",
         "options": {
@@ -404,6 +444,8 @@
         "type": "objective",
         "chapter": "12",
         "chapter_name": "Electricity",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The resistance of an ammeter is",
         "prashna": "आम्मीटर का प्रतिरोध होता है।",
         "options": {
@@ -424,6 +466,8 @@
         "type": "objective",
         "chapter": "12",
         "chapter_name": "Electricity",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Filament of an electric bulb is made of which of the following metals?",
         "prashna": "विद्युत बल्ब का फिलामेंट निम्न में से किस धातु का बना होता है ?",
         "options": {
@@ -444,6 +488,8 @@
         "type": "objective",
         "chapter": "12",
         "chapter_name": "Electricity",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is the purpose of a rheostat?",
         "prashna": "रिओस्टेट का उद्देश्य क्या है ?",
         "options": {
@@ -464,6 +510,8 @@
         "type": "objective",
         "chapter": "12",
         "chapter_name": "Electricity",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The S.I. unit of electric charge is",
         "prashna": "विद्युत आवेश का S.I. मात्रक होता है",
         "options": {
@@ -484,6 +532,8 @@
         "type": "objective",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "End products of respiration are",
         "prashna": "श्वसन के अंतिम उत्पाद हैं",
         "options": {
@@ -504,6 +554,8 @@
         "type": "objective",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The uppermost layer of a tooth is",
         "prashna": "दाँत की सबसे ऊपरी परत है",
         "options": {
@@ -524,6 +576,8 @@
         "type": "objective",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The longest part of the human alimentary canal is",
         "prashna": "मानव आहार नाल का सबसे लम्बा भाग है",
         "options": {
@@ -544,6 +598,8 @@
         "type": "objective",
         "chapter": "8",
         "chapter_name": "How do Organisms Reproduce?",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Pollen grains are formed inside which of the following?",
         "prashna": "परागकण निम्न में से किसके अंदर बनते हैं",
         "options": {
@@ -564,6 +620,8 @@
         "type": "objective",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Sieve tubes are found in",
         "prashna": "चालनी नलिकाएँ पायी जाती हैं",
         "options": {
@@ -584,6 +642,8 @@
         "type": "objective",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Life-span of R.B.C. is",
         "prashna": "R.B.C. की जीवन-अवधि होती है",
         "options": {
@@ -604,6 +664,8 @@
         "type": "objective",
         "chapter": "7",
         "chapter_name": "Control and Coordination",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The longest cell of the human body is",
         "prashna": "मानव शरीर की सबसे लम्बी कोशिका है।",
         "options": {
@@ -624,6 +686,8 @@
         "type": "objective",
         "chapter": "8",
         "chapter_name": "How do Organisms Reproduce?",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Ovum is fertilized in",
         "prashna": "अंडाणु निषेचित होता है",
         "options": {
@@ -644,6 +708,8 @@
         "type": "objective",
         "chapter": "7",
         "chapter_name": "Control and Coordination",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which of the following is not a plant hormone?",
         "prashna": "निम्नांकित में कौन पादप हॉर्मोन नहीं है?",
         "options": {
@@ -664,6 +730,8 @@
         "type": "objective",
         "chapter": "8",
         "chapter_name": "How do Organisms Reproduce?",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Male reproductive organ in a flower is",
         "prashna": "फूल में नर-प्रजनन अंग है।",
         "options": {
@@ -684,6 +752,8 @@
         "type": "objective",
         "chapter": "8",
         "chapter_name": "How do Organisms Reproduce?",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Binary fission does not occur in which of the following?",
         "prashna": "निम्नलिखित में किसमें द्विखंडन नहीं होता",
         "options": {
@@ -704,6 +774,8 @@
         "type": "objective",
         "chapter": "16",
         "chapter_name": "Our Environment",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The source of energy in an ecosystem is",
         "prashna": "पारिस्थितिकी तंत्र में ऊर्जा का स्रोत है",
         "options": {
@@ -724,6 +796,8 @@
         "type": "objective",
         "chapter": "9",
         "chapter_name": "Heredity and Evolution",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which of the following is called 'Father of Genetics'?",
         "prashna": "निम्नलिखित में से किसे 'आनुवंशिकी का पिता' कहा जाता है?",
         "options": {
@@ -744,6 +818,8 @@
         "type": "objective",
         "chapter": "16",
         "chapter_name": "Our Environment",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Green plants are called",
         "prashna": "हरे पौधे कहलाते हैं",
         "options": {
@@ -764,6 +840,8 @@
         "type": "objective",
         "chapter": "9",
         "chapter_name": "Heredity and Evolution",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The number of chromosomes in male gamete is",
         "prashna": "नर- युग्मक में गुणसूत्र की संख्या होती है",
         "options": {
@@ -784,6 +862,8 @@
         "type": "objective",
         "chapter": "16",
         "chapter_name": "Our Environment",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Ozone layer is found in",
         "prashna": "ओजोन परत पायी जाती है",
         "options": {
@@ -804,6 +884,8 @@
         "type": "objective",
         "chapter": "3",
         "chapter_name": "Metals and Non-metals",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Elements that form positive ions by losing electrons are called",
         "prashna": "ऐसे तत्व जो इलेक्ट्रॉनों को त्यागकर धनात्मक आयन बनाते हैं, कहे जाते है",
         "options": {
@@ -824,6 +906,8 @@
         "type": "objective",
         "chapter": "3",
         "chapter_name": "Metals and Non-metals",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The process of coating zinc on iron is called",
         "prashna": "लोहा पर जिंक लेपित करने की क्रिया को कहते हैं",
         "options": {
@@ -842,8 +926,10 @@
     {
         "id": "obj_43",
         "type": "objective",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "chapter": "4",
+        "chapter_name": "Carbon and its Compounds",
+        "confidence": 0.72,
+        "raw_choice": "4. Carbon and its Compounds (कार्बन एवं उसके यौगिक)",
         "question": "Which of the following is a covalent compound?",
         "prashna": "निम्न में कौन सहसंयोजी यौगिक है?",
         "options": {
@@ -864,6 +950,8 @@
         "type": "objective",
         "chapter": "3",
         "chapter_name": "Metals and Non-metals",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Gold used for making jewelry is",
         "prashna": "आभूषण बनने वाला सोना होता है",
         "options": {
@@ -884,6 +972,8 @@
         "type": "objective",
         "chapter": "5",
         "chapter_name": "Periodic Classification of Elements",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which of the following is a noble element?",
         "prashna": "निम्न में कौन-सा उत्कृष्ट तत्व है।",
         "options": {
@@ -904,6 +994,8 @@
         "type": "objective",
         "chapter": "3",
         "chapter_name": "Metals and Non-metals",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The alloy of copper and tin is called",
         "prashna": "ताम्र एवं टीन के मिश्रधातु को कहते है",
         "options": {
@@ -924,6 +1016,8 @@
         "type": "objective",
         "chapter": "2",
         "chapter_name": "Acids, Bases and Salts",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The chemical formula of Plaster of Paris is",
         "prashna": "प्लास्टर ऑफ पेरिस का रासायनिक सूत्र है।",
         "options": {
@@ -944,6 +1038,8 @@
         "type": "objective",
         "chapter": "2",
         "chapter_name": "Acids, Bases and Salts",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Acid and base react with each other to form",
         "prashna": "अम्ल और क्षार आपस में अभिक्रिया कर बनाते हैं",
         "options": {
@@ -964,6 +1060,8 @@
         "type": "objective",
         "chapter": "2",
         "chapter_name": "Acids, Bases and Salts",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Slaked lime is",
         "prashna": "बुझा हुआ चूना है।",
         "options": {
@@ -984,6 +1082,8 @@
         "type": "objective",
         "chapter": "2",
         "chapter_name": "Acids, Bases and Salts",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which of the following is not a base?",
         "prashna": "निम्न में कौन भस्म नहीं है?",
         "options": {
@@ -1004,6 +1104,8 @@
         "type": "objective",
         "chapter": "3",
         "chapter_name": "Metals and Non-metals",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The ore of zinc is",
         "prashna": "जस्ता का अयस्क है।",
         "options": {
@@ -1022,8 +1124,10 @@
     {
         "id": "obj_52",
         "type": "objective",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "chapter": "5",
+        "chapter_name": "Periodic Classification of Elements",
+        "confidence": 0.6,
+        "raw_choice": "5. Periodic Classification of Elements (तत्वों का आवर्त वर्गीकरण)",
         "question": "Silicon is a/an",
         "prashna": "सिलिकन है एक",
         "options": {
@@ -1044,6 +1148,8 @@
         "type": "objective",
         "chapter": "4",
         "chapter_name": "Carbon and its Compounds",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which element is present in alcohol?",
         "prashna": "एल्कोहोल में कौन-सा तत्त्व उपस्थित है?",
         "options": {
@@ -1064,6 +1170,8 @@
         "type": "objective",
         "chapter": "4",
         "chapter_name": "Carbon and its Compounds",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Common name of methanoic acid is",
         "prashna": "मेथनॉइक अम्ल का सामान्य नाम है",
         "options": {
@@ -1084,6 +1192,8 @@
         "type": "objective",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Essential for autotrophic nutrition is",
         "prashna": "स्वपोषी पोषण के लिए आवश्यक है",
         "options": {
@@ -1104,6 +1214,8 @@
         "type": "objective",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Magnesium is found in",
         "prashna": "मैग्नीशियम पाया जाता है",
         "options": {
@@ -1124,6 +1236,8 @@
         "type": "objective",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.25,
+        "raw_choice": "10. Light – Reflection and Refraction (प्रकाश – परावर्तन तथा अपवर्तन)",
         "question": "Oily paper is",
         "prashna": "तैलीय कागज होता है",
         "options": {
@@ -1144,6 +1258,8 @@
         "type": "objective",
         "chapter": "10",
         "chapter_name": "Light – Reflection and Refraction",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is the S.I. unit of magnification produced by a lens?",
         "prashna": "लेंस द्वारा उत्पन्न आवर्धन की S.I. इकाई क्या है?",
         "options": {
@@ -1164,6 +1280,8 @@
         "type": "objective",
         "chapter": "10",
         "chapter_name": "Light – Reflection and Refraction",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Speed of light in different media is",
         "prashna": "प्रकाश की चाल विभिन्न माध्यमों में",
         "options": {
@@ -1184,6 +1302,8 @@
         "type": "objective",
         "chapter": "10",
         "chapter_name": "Light – Reflection and Refraction",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Speed of light in air compared to vacuum is",
         "prashna": "वायु में प्रकाश की चाल निर्वात की अपेक्षा होती है",
         "options": {
@@ -1204,6 +1324,8 @@
         "type": "objective",
         "chapter": "10",
         "chapter_name": "Light – Reflection and Refraction",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The number of principal foci in a lens is",
         "prashna": "लेंस में मुख्य फोकस की संख्या होती है",
         "options": {
@@ -1224,6 +1346,8 @@
         "type": "objective",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.49,
+        "raw_choice": "3. Metals and Non-metals (धातु एवं अधातु)",
         "question": "A good conductor of electricity is",
         "prashna": "विद्युत का अच्छा चालक है",
         "options": {
@@ -1244,6 +1368,8 @@
         "type": "objective",
         "chapter": "12",
         "chapter_name": "Electricity",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Negative electrode in a dry cell is made of",
         "prashna": "शुष्क सेल में ऋण इलेक्ट्रोड बना होता है",
         "options": {
@@ -1262,8 +1388,10 @@
     {
         "id": "obj_64",
         "type": "objective",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "chapter": "12",
+        "chapter_name": "Electricity",
+        "confidence": 0.69,
+        "raw_choice": "12. Electricity (विद्युत)",
         "question": "The value of 1 Joule is",
         "prashna": "1 जूल का मान होता है",
         "options": {
@@ -1284,6 +1412,8 @@
         "type": "objective",
         "chapter": "4",
         "chapter_name": "Carbon and its Compounds",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Vegetable oils contain",
         "prashna": "वनस्पति तेलों में होती है",
         "options": {
@@ -1304,6 +1434,8 @@
         "type": "objective",
         "chapter": "4",
         "chapter_name": "Carbon and its Compounds",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "How many isomers of butane are possible?",
         "prashna": "ब्यूटेन के कितने समावयवी संभव हैं?",
         "options": {
@@ -1324,6 +1456,8 @@
         "type": "objective",
         "chapter": "5",
         "chapter_name": "Periodic Classification of Elements",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is the basis of element classification in Mendeleev's periodic law?",
         "prashna": "मेंडलीफ के आवर्त नियम में तत्व वर्गीकरण का आधार क्या है?",
         "options": {
@@ -1342,8 +1476,10 @@
     {
         "id": "obj_68",
         "type": "objective",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "chapter": "1",
+        "chapter_name": "Chemical Reactions and Equations",
+        "confidence": 0.58,
+        "raw_choice": "1. Chemical Reactions and Equations (रासायनिक अभिक्रियाएं एवं समीकरण)",
         "question": "The ratio of nitrogen and hydrogen atoms in an ammonia molecule is",
         "prashna": "अमोनिया के अणु में नाइट्रोजन एवं हाइड्रोजन के परमाणुओं की संख्या का अनुपात है।",
         "options": {
@@ -1364,6 +1500,8 @@
         "type": "objective",
         "chapter": "4",
         "chapter_name": "Carbon and its Compounds",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which of the following is liquid at room temperature?",
         "prashna": "निम्न में कौन कमरे के तापक्रम पर द्रव है",
         "options": {
@@ -1382,8 +1520,10 @@
     {
         "id": "obj_70",
         "type": "objective",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "chapter": "2",
+        "chapter_name": "Acids, Bases and Salts",
+        "confidence": 0.54,
+        "raw_choice": "2. Acids, Bases and Salts (अम्ल, क्षारक एवं लवण)",
         "question": "Which of the following acids is found in vinegar?",
         "prashna": "सिरका में निम्न में कौन-सा अम्ल पाया जाता है?",
         "options": {
@@ -1404,6 +1544,8 @@
         "type": "objective",
         "chapter": "4",
         "chapter_name": "Carbon and its Compounds",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which of the following are allotropes of carbon?",
         "prashna": "निम्न में कौन कार्बन के अपररूप हैं?",
         "options": {
@@ -1424,6 +1566,8 @@
         "type": "objective",
         "chapter": "4",
         "chapter_name": "Carbon and its Compounds",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Compounds having same molecular formula but different structural formula are called",
         "prashna": "एक अणुसूत्र परन्तु विभिन्न सूत्र वाले यौगिक कहलाते हैं।",
         "options": {
@@ -1444,6 +1588,8 @@
         "type": "objective",
         "chapter": "10",
         "chapter_name": "Light – Reflection and Refraction",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Which mirror is used for shaving?",
         "prashna": "दाढ़ी बनाने के लिए कौन-सा दर्पण प्रयुक्त होता है",
         "options": {
@@ -1464,6 +1610,8 @@
         "type": "objective",
         "chapter": "11",
         "chapter_name": "The Human Eye and the Colourful World",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "In white light spectrum, which color ray has maximum deviation?",
         "prashna": "श्वेत प्रकाश वर्णक्रम में किस रंग की किरण का विचलन अधिक होता है?",
         "options": {
@@ -1484,6 +1632,8 @@
         "type": "objective",
         "chapter": "10",
         "chapter_name": "Light – Reflection and Refraction",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Focal length of a plane mirror is",
         "prashna": "समतल दर्पण की फोकस दूरी होती है",
         "options": {
@@ -1504,6 +1654,8 @@
         "type": "objective",
         "chapter": "10",
         "chapter_name": "Light – Reflection and Refraction",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Where should an object be placed in front of a concave mirror so that the image formed is inverted, real and of same size?",
         "prashna": "अवतल दर्पण के सामने वस्तु को कहाँ रखा जाय ताकि प्रतिबिम्ब उल्टा, वास्तविक और समान आकार बने ?",
         "options": {
@@ -1524,6 +1676,8 @@
         "type": "objective",
         "chapter": "11",
         "chapter_name": "The Human Eye and the Colourful World",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Twinkling of stars is due to",
         "prashna": "तारे के टिमटिमाने का कारण है।",
         "options": {
@@ -1544,6 +1698,8 @@
         "type": "objective",
         "chapter": "11",
         "chapter_name": "The Human Eye and the Colourful World",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The persistence of vision for human eye is",
         "prashna": "मानव नेत्र के लिए दृष्टि का स्थायित्व होता है।",
         "options": {
@@ -1564,6 +1720,8 @@
         "type": "objective",
         "chapter": "10",
         "chapter_name": "Light – Reflection and Refraction",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Virtual image formed by a convex mirror is",
         "prashna": "उत्तर दर्पण से बना काल्पनिक प्रतिबिम्ब होता है",
         "options": {
@@ -1584,6 +1742,8 @@
         "type": "objective",
         "chapter": "10",
         "chapter_name": "Light – Reflection and Refraction",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Magnification (m) of a concave lens is equal to",
         "prashna": "अवतल लेंस का आवर्धन (m) बराबर होता है",
         "options": {
@@ -1604,6 +1764,8 @@
         "type": "short_answer",
         "chapter": "10",
         "chapter_name": "Light – Reflection and Refraction",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Where should an object be placed in a convex lens to get a virtual and magnified image? Explain with a diagram.",
         "prashna": "उत्तर लेंस में वस्तु का आभासी एवं आवर्धित प्रतिबिंब हेतु वस्तु की स्थिति कहाँ होनी चाहिए? सचित्र बताएँ।"
     },
@@ -1612,6 +1774,8 @@
         "type": "short_answer",
         "chapter": "10",
         "chapter_name": "Light – Reflection and Refraction",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Why does a coin kept in water appear raised?",
         "prashna": "पानी में रखा सिक्का उठा हुआ दिखता है। क्यों?"
     },
@@ -1620,6 +1784,8 @@
         "type": "short_answer",
         "chapter": "11",
         "chapter_name": "The Human Eye and the Colourful World",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is defect of vision in the human eye? How many types are there?",
         "prashna": "मानव आँख में दृष्टि दोष क्या है? यह कितने प्रकार के होते हैं?"
     },
@@ -1628,6 +1794,8 @@
         "type": "short_answer",
         "chapter": "12",
         "chapter_name": "Electricity",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "If the resistance of the filament of an electric bulb is $1200\\Omega$, how much current will the bulb draw from a $220\text{ V}$ source?",
         "prashna": "यदि किसी विद्युत बल्ब के तंतु का प्रतिरोध $1200\\Omega$ है तो बल्ब $220\text{ V}$ स्रोत से कितनी विद्युत धारा लेगा?"
     },
@@ -1636,6 +1804,8 @@
         "type": "short_answer",
         "chapter": "13",
         "chapter_name": "Magnetic Effects of Electric Current",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Write the 'Right-hand thumb rule' related to the magnetic effect of electric current.",
         "prashna": "विद्युत धारा के चुंबकीय प्रभाव से संबंधित 'दक्षिण हस्त-अंगूठा' के नियम को लिखें।"
     },
@@ -1644,6 +1814,8 @@
         "type": "short_answer",
         "chapter": "13",
         "chapter_name": "Magnetic Effects of Electric Current",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What are two disadvantages/drawbacks in alternating current?",
         "prashna": "प्रत्यावर्ती धारा में कौन-सी दो कमियाँ होती हैं ?"
     },
@@ -1652,6 +1824,8 @@
         "type": "short_answer",
         "chapter": "12",
         "chapter_name": "Electricity",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Give the definition of the strength of electric current.",
         "prashna": "विद्युत धारा की प्रबलता की परिभाषा दें।"
     },
@@ -1660,6 +1834,8 @@
         "type": "short_answer",
         "chapter": "13",
         "chapter_name": "Magnetic Effects of Electric Current",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Write three main characteristics of a fuse wire.",
         "prashna": "फ्यूज के तार की तीन प्रमुख विशेषताएँ लिखें।"
     },
@@ -1668,6 +1844,8 @@
         "type": "long_answer",
         "chapter": "10",
         "chapter_name": "Light – Reflection and Refraction",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The radius of curvature of a convex mirror used for rear view in an automobile is $5\text{ metres}$. If a bus is located at $5\text{ m}$ from this mirror, find the position, nature, and size of the image.",
         "prashna": "किसी ऑटोमोबाइल में पीछे का दृश्य देखने के लिए उपयोग होने वाले उत्तर दर्पण की वक्रता त्रिज्या $5$ मीटर है। यदि एक बस इस दर्पण से $5$ मी की दूरी पर स्थित है तो प्रतिबिंब की स्थिति, प्रकृति तथा आकार ज्ञात करें।"
     },
@@ -1676,6 +1854,8 @@
         "type": "long_answer",
         "chapter": "12",
         "chapter_name": "Electricity",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is called parallel combination of resistors? Obtain the expression for equivalent resistance when resistors $R_1, R_2$ and $R_3$ are connected in parallel.",
         "prashna": "प्रतिरोधों का पार्श्वक्रम संयोजन किसे कहते हैं? प्रतिरोध $R_1, R_2$ तथा $R_3$ को पार्श्वक्रम में संयोजित करने पर समतुल्य प्रतिरोध का व्यंजक प्राप्त करें।"
     },
@@ -1684,6 +1864,8 @@
         "type": "short_answer",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.43,
+        "raw_choice": "2. Acids, Bases and Salts (अम्ल, क्षारक एवं लवण)",
         "question": "What happens when $\text{CO}_2$ (gas) is passed through lime water: (i) In limited quantity (ii) In excess quantity?",
         "prashna": "क्या होता है जब $\text{CO}_2$ (गैस) चूना जल में प्रवाहित किया जाता है (i) कम मात्रा में (ii) ज्यादा मात्रा में?"
     },
@@ -1692,6 +1874,8 @@
         "type": "short_answer",
         "chapter": "2",
         "chapter_name": "Acids, Bases and Salts",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is neutralization reaction? Give one example.",
         "prashna": "उदासीनीकरण अभिक्रिया क्या है? एक उदाहरण दें।"
     },
@@ -1700,6 +1884,8 @@
         "type": "short_answer",
         "chapter": "3",
         "chapter_name": "Metals and Non-metals",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is called ductility?",
         "prashna": "तन्यता किसे कहते हैं?"
     },
@@ -1708,6 +1894,8 @@
         "type": "short_answer",
         "chapter": "4",
         "chapter_name": "Carbon and its Compounds",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Write the structural formula of ethyl alcohol.",
         "prashna": "एथाइल एल्कोहल का संरचना सूत्र लिखे।"
     },
@@ -1716,6 +1904,8 @@
         "type": "short_answer",
         "chapter": "4",
         "chapter_name": "Carbon and its Compounds",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Write the structural formulas of butanone and ethanoic acid.",
         "prashna": "ब्यूटेनोन एवं एथेनोइक अम्ल के संरचना सूत्र लिखें।"
     },
@@ -1724,6 +1914,8 @@
         "type": "short_answer",
         "chapter": "3",
         "chapter_name": "Metals and Non-metals",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Why is the galvanization of iron objects done?",
         "prashna": "लोहा की वस्तुओं का जस्तीकरण क्यों किया जाता है?"
     },
@@ -1732,6 +1924,8 @@
         "type": "short_answer",
         "chapter": "2",
         "chapter_name": "Acids, Bases and Salts",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is baking powder?",
         "prashna": "बेकिंग पाउडर क्या है?"
     },
@@ -1740,6 +1934,8 @@
         "type": "short_answer",
         "chapter": "1",
         "chapter_name": "Chemical Reactions and Equations",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is a combination reaction?",
         "prashna": "संयोजन अभिक्रिया क्या है?"
     },
@@ -1748,6 +1944,8 @@
         "type": "long_answer",
         "chapter": "4",
         "chapter_name": "Carbon and its Compounds",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Describe the method of preparing methane gas in the laboratory and write its chemical reaction with chlorine.",
         "prashna": "प्रयोगशाला में मिथेन गैस बनाने की विधि एवं क्लोरीन के साथ उसकी रासायनिक अभिक्रिया को लिखें।"
     },
@@ -1756,6 +1954,8 @@
         "type": "long_answer",
         "chapter": "3",
         "chapter_name": "Metals and Non-metals",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "How is aluminum metal extracted from its ore?",
         "prashna": "एल्युमिनियम धातु का निष्कर्षण उसके अयस्क से कैसे किया जाता है?"
     },
@@ -1764,6 +1964,8 @@
         "type": "short_answer",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is bile? What is its importance in human digestion?",
         "prashna": "पित्त क्या है? मनुष्य के पाचन में इसका क्या महत्व है?"
     },
@@ -1772,6 +1974,8 @@
         "type": "short_answer",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is lymph? Describe its functions.",
         "prashna": "लसीका क्या है? इसके कार्यों का वर्णन करें।"
     },
@@ -1780,6 +1984,8 @@
         "type": "short_answer",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Write four main characteristics of living beings.",
         "prashna": "सजीवों के मुख्य चार लक्षण लिखें।"
     },
@@ -1788,6 +1994,8 @@
         "type": "short_answer",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "How many types of teeth are there in humans? Write their names and functions.",
         "prashna": "मनुष्य में कितने प्रकार के दाँत होते हैं? उनके नाम तथा कार्य लिखें।"
     },
@@ -1796,6 +2004,8 @@
         "type": "short_answer",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Write the difference between transpiration and translocation.",
         "prashna": "वाष्पोत्सर्जन एवं स्थानांतरण में अंतर लिखें।"
     },
@@ -1804,6 +2014,8 @@
         "type": "short_answer",
         "chapter": "8",
         "chapter_name": "How do Organisms Reproduce?",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is the importance of sexual reproduction?",
         "prashna": "लैंगिक जनन का क्या महत्व है?"
     },
@@ -1812,6 +2024,8 @@
         "type": "short_answer",
         "chapter": "8",
         "chapter_name": "How do Organisms Reproduce?",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Tell about contraceptive pills.",
         "prashna": "गर्भनिरोधक गोलियों के बारे में बताएँ।"
     },
@@ -1820,6 +2034,8 @@
         "type": "short_answer",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is the role of acid in our stomach?",
         "prashna": "हमारे आमाशय में अम्ल की भूमिका क्या है?"
     },
@@ -1828,6 +2044,8 @@
         "type": "long_answer",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Describe the process of photosynthesis in plants with diagram and labeling.",
         "prashna": "पौधों में प्रकाश संश्लेषण की प्रक्रिया का सचित्र वर्णन नामांकन के साथ करें।"
     },
@@ -1836,6 +2054,8 @@
         "type": "long_answer",
         "chapter": "6",
         "chapter_name": "Life Processes",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "How are oxygen and carbon dioxide transported in humans?",
         "prashna": "मनुष्य में ऑक्सीजन तथा कार्बन डाइऑक्साइड का परिवहन कैसे होता है?"
     }

@@ -1,11 +1,63 @@
 {
+  "2016": [
+    {
+      "id": "objective_7",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "3",
+      "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.67,
+      "raw_choice": "Vyakaran - 3. Shabda Rupa (Noun Forms) (शब्द-रूपाणि)",
+      "instructions": "निर्देशानुसार उत्तर दें :",
+      "question": "'वत्स' का स्त्रीलिंग रूप क्या होगा ?",
+      "prashna": "'वत्स' का स्त्रीलिंग रूप क्या होगा ?",
+      "options": {
+        "A": "वत्सी",
+        "B": "वत्सा",
+        "C": "वात्सी",
+        "D": "वत्सिनी"
+      },
+      "vikalpa": {
+        "A": "वत्सी",
+        "B": "वत्सा",
+        "C": "वात्सी",
+        "D": "वत्सिनी"
+      }
+    }
+  ],
   "2017": [
+    {
+      "id": "obj_3",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "3",
+      "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.58,
+      "raw_choice": "Vyakaran - 3. Shabda Rupa (Noun Forms) (शब्द-रूपाणि)",
+      "instructions": "सही विकल्प चुनें-",
+      "question": "6. (क) 'लतायै' किस विभक्ति का रूप है?",
+      "prashna": "6. (क) 'लतायै' किस विभक्ति का रूप है?",
+      "options": {
+        "A": "तृतीया",
+        "B": "सप्तमी",
+        "C": "चतुर्थी",
+        "D": "पञ्चमी"
+      },
+      "vikalpa": {
+        "A": "तृतीया",
+        "B": "सप्तमी",
+        "C": "चतुर्थी",
+        "D": "पञ्चमी"
+      }
+    },
     {
       "id": "obj_4",
       "type": "objective",
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "instructions": "सही विकल्प चुनें-",
       "question": "6. (ख) 'राज्ञः' किस शब्द का रूप है?",
       "prashna": "6. (ख) 'राज्ञः' किस शब्द का रूप है?",
@@ -25,11 +77,37 @@
   ],
   "2018": [
     {
+      "id": "obj_42",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "3",
+      "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.54,
+      "raw_choice": "Vyakaran - 3. Shabda Rupa (Noun Forms) (शब्द-रूपाणि)",
+      "question": "'लतायै' में कौन सी विभक्ति है?",
+      "prashna": "'लतायै' में कौन सी विभक्ति है?",
+      "instructions": "प्रश्न- संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिये गये हैं, जिनमें से एक सही है। अपनी द्वारा चुने गये सही विकल्प को OMR शीट पर चिन्हित करें।",
+      "options": {
+        "A": "तृतीया",
+        "B": "चतुर्थी",
+        "C": "पञ्चमी",
+        "D": "सप्तमी"
+      },
+      "vikalpa": {
+        "A": "तृतीया",
+        "B": "चतुर्थी",
+        "C": "पञ्चमी",
+        "D": "सप्तमी"
+      }
+    },
+    {
       "id": "obj_43",
       "type": "objective",
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'पिता' किस शब्द का रूप है ?",
       "prashna": "'पिता' किस शब्द का रूप है ?",
       "instructions": "प्रश्न- संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिये गये हैं, जिनमें से एक सही है। अपनी द्वारा चुने गये सही विकल्प को OMR शीट पर चिन्हित करें।",
@@ -52,6 +130,8 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'साधु' शब्द के सप्तमी एक वचन का रूप कौन है ?",
       "prashna": "'साधु' शब्द के सप्तमी एक वचन का रूप कौन है ?",
       "instructions": "प्रश्न- संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिये गये हैं, जिनमें से एक सही है। अपनी द्वारा चुने गये सही विकल्प को OMR शीट पर चिन्हित करें।",
@@ -74,6 +154,8 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "instructions": "प्रश्न-संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिये गये हैं, जिनमें से एक सही है। अपनी द्वारा चुने गये सही विकल्प को OMR शीट पर चिन्हित करें।",
       "question": "'नदी' शब्द के तृतीया एक वचन का रूप कौन है?",
       "prashna": "'नदी' शब्द के तृतीया एक वचन का रूप कौन है?",
@@ -96,6 +178,8 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "instructions": "प्रश्न-संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिये गये हैं, जिनमें से एक सही है। अपनी द्वारा चुने गये सही विकल्प को OMR शीट पर चिन्हित करें।",
       "question": "'पितरि' किस विभक्ति का रूप है?",
       "prashna": "'पितरि' किस विभक्ति का रूप है?",
@@ -118,6 +202,8 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "instructions": "प्रश्न-संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिये गये हैं, जिनमें से एक सही है। अपनी द्वारा चुने गये सही विकल्प को OMR शीट पर चिन्हित करें।",
       "question": "'गोषु' किस शब्द का रूप है ?",
       "prashna": "'गोषु' किस शब्द का रूप है ?",
@@ -137,11 +223,37 @@
   ],
   "2019": [
     {
+      "id": "obj_43",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "3",
+      "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.66,
+      "raw_choice": "Vyakaran - 3. Shabda Rupa (Noun Forms) (शब्द-रूपाणि)",
+      "question": "43. 'भवति' किस सर्वनाम शब्द का रूप है ?",
+      "prashna": "43. 'भवति' किस सर्वनाम शब्द का रूप है ?",
+      "instructions": "प्रश्न-संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिये गये हैं, जिनमें से एक सही है। अपनी द्वारा चुने गये सही विकल्प को OMR शीट पर चिन्हित करें।",
+      "options": {
+        "A": "भव",
+        "B": "भवान्",
+        "C": "भवत्",
+        "D": "तत्"
+      },
+      "vikalpa": {
+        "A": "भव",
+        "B": "भवान्",
+        "C": "भवत्",
+        "D": "तत्"
+      }
+    },
+    {
       "id": "obj_44",
       "type": "objective",
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "44. राजन् शब्द के षष्ठी बहुवचन का रूप कौन-सा है ?",
       "prashna": "44. राजन् शब्द के षष्ठी बहुवचन का रूप कौन-सा है ?",
       "instructions": "प्रश्न-संख्या 1 से 50 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिये गये हैं, जिनमें से एक सही है। अपनी द्वारा चुने गये सही विकल्प को OMR शीट पर चिन्हित करें।",
@@ -166,6 +278,8 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'लता' शब्द के तृतीया बहुवचन का रूप कौन-सा है ?",
       "prashna": "'लता' शब्द के तृतीया बहुवचन का रूप कौन-सा है ?",
       "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
@@ -188,6 +302,8 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "त्रयः ............... चरन्ति ।' खाली स्थान में उचित विकल्प क्या होगा ?",
       "prashna": "त्रयः ............... चरन्ति ।' खाली स्थान में उचित विकल्प क्या होगा ?",
       "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
@@ -210,6 +326,8 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'कः' किस शब्द का रूप है ?",
       "prashna": "'कः' किस शब्द का रूप है ?",
       "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
@@ -232,6 +350,8 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'साधु' शब्द के सप्तमी एकवचन का रूप कौन है ?",
       "prashna": "'साधु' शब्द के सप्तमी एकवचन का रूप कौन है ?",
       "instructions": "प्रश्न संख्या 1 से 60 तक के प्रत्येक प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
@@ -256,6 +376,8 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'भवत्' शब्द के सप्तमी विभक्ति का रूप कौन-सा है?",
       "prashna": "'भवत्' शब्द के सप्तमी विभक्ति का रूप कौन-सा है?",
       "instructions": "प्रश्न-संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
@@ -278,6 +400,8 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'सखा' पद का मूलरूप क्या है ?",
       "prashna": "'सखा' पद का मूलरूप क्या है ?",
       "instructions": "प्रश्न-संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
@@ -300,94 +424,8 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
-      "question": "'स:' पद का मूलरूप क्या है?",
-      "prashna": "'स:' पद का मूलरूप क्या है?",
-      "instructions": "प्रश्न-संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
-      "options": {
-        "A": "एतत्",
-        "B": "तत्",
-        "C": "यत्",
-        "D": "अदस्"
-      },
-      "vikalpa": {
-        "A": "एतत्",
-        "B": "तत्",
-        "C": "यत्",
-        "D": "अदस्"
-      }
-    },
-    {
-      "id": "obj_73",
-      "type": "objective",
-      "section": "Vyakaran",
-      "chapter": "3",
-      "chapter_name": "Shabda Rupa (Noun Forms)",
-      "question": "'यत्' सर्वनाम के प्रथमा विभक्ति एकवचन का रूप कौन सा है ?",
-      "prashna": "'यत्' सर्वनाम के प्रथमा विभक्ति एकवचन का रूप कौन सा है ?",
-      "instructions": "प्रश्न-संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
-      "options": {
-        "A": "य:",
-        "B": "येन",
-        "C": "यस्मै",
-        "D": "यम्"
-      },
-      "vikalpa": {
-        "A": "य:",
-        "B": "येन",
-        "C": "यस्मै",
-        "D": "यम्"
-      }
-    },
-    {
-      "id": "obj_6",
-      "type": "objective",
-      "section": "Vyakaran",
-      "chapter": "3",
-      "chapter_name": "Shabda Rupa (Noun Forms)",
-      "question": "'भवत्' शब्द के सप्तमी विभक्ति का रूप कौन-सा है?",
-      "prashna": "'भवत्' शब्द के सप्तमी विभक्ति का रूप कौन-सा है?",
-      "instructions": "प्रश्न-संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
-      "options": {
-        "A": "भवता",
-        "B": "भवत्सु",
-        "C": "भवताम्",
-        "D": "भवत:"
-      },
-      "vikalpa": {
-        "A": "भवता",
-        "B": "भवत्सु",
-        "C": "भवताम्",
-        "D": "भवत:"
-      }
-    },
-    {
-      "id": "obj_7",
-      "type": "objective",
-      "section": "Vyakaran",
-      "chapter": "3",
-      "chapter_name": "Shabda Rupa (Noun Forms)",
-      "question": "'सखा' पद का मूलरूप क्या है ?",
-      "prashna": "'सखा' पद का मूलरूप क्या है ?",
-      "instructions": "प्रश्न-संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
-      "options": {
-        "A": "मित्रम्",
-        "B": "सखा",
-        "C": "सखि",
-        "D": "सखिन्"
-      },
-      "vikalpa": {
-        "A": "मित्रम्",
-        "B": "सखा",
-        "C": "सखि",
-        "D": "सखिन्"
-      }
-    },
-    {
-      "id": "obj_29",
-      "type": "objective",
-      "section": "Vyakaran",
-      "chapter": "3",
-      "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'स:' पद का मूलरूप क्या है?",
       "prashna": "'स:' पद का मूलरूप क्या है?",
       "instructions": "प्रश्न-संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
@@ -410,6 +448,8 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.69,
+      "raw_choice": "Vyakaran - 3. Shabda Rupa (Noun Forms) (शब्द-रूपाणि)",
       "question": "'पतीन्' पति शब्द के किस विभक्ति का रूप है ?",
       "prashna": "'पतीन्' पति शब्द के किस विभक्ति का रूप है ?",
       "instructions": "प्रश्न-संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
@@ -432,6 +472,128 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
+      "question": "'यत्' सर्वनाम के प्रथमा विभक्ति एकवचन का रूप कौन सा है ?",
+      "prashna": "'यत्' सर्वनाम के प्रथमा विभक्ति एकवचन का रूप कौन सा है ?",
+      "instructions": "प्रश्न-संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "य:",
+        "B": "येन",
+        "C": "यस्मै",
+        "D": "यम्"
+      },
+      "vikalpa": {
+        "A": "य:",
+        "B": "येन",
+        "C": "यस्मै",
+        "D": "यम्"
+      }
+    },
+    {
+      "id": "obj_6",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "3",
+      "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
+      "question": "'भवत्' शब्द के सप्तमी विभक्ति का रूप कौन-सा है?",
+      "prashna": "'भवत्' शब्द के सप्तमी विभक्ति का रूप कौन-सा है?",
+      "instructions": "प्रश्न-संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "भवता",
+        "B": "भवत्सु",
+        "C": "भवताम्",
+        "D": "भवत:"
+      },
+      "vikalpa": {
+        "A": "भवता",
+        "B": "भवत्सु",
+        "C": "भवताम्",
+        "D": "भवत:"
+      }
+    },
+    {
+      "id": "obj_7",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "3",
+      "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
+      "question": "'सखा' पद का मूलरूप क्या है ?",
+      "prashna": "'सखा' पद का मूलरूप क्या है ?",
+      "instructions": "प्रश्न-संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "मित्रम्",
+        "B": "सखा",
+        "C": "सखि",
+        "D": "सखिन्"
+      },
+      "vikalpa": {
+        "A": "मित्रम्",
+        "B": "सखा",
+        "C": "सखि",
+        "D": "सखिन्"
+      }
+    },
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "3",
+      "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
+      "question": "'स:' पद का मूलरूप क्या है?",
+      "prashna": "'स:' पद का मूलरूप क्या है?",
+      "instructions": "प्रश्न-संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "एतत्",
+        "B": "तत्",
+        "C": "यत्",
+        "D": "अदस्"
+      },
+      "vikalpa": {
+        "A": "एतत्",
+        "B": "तत्",
+        "C": "यत्",
+        "D": "अदस्"
+      }
+    },
+    {
+      "id": "obj_52",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "3",
+      "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
+      "question": "'पतीन्' पति शब्द के किस विभक्ति का रूप है ?",
+      "prashna": "'पतीन्' पति शब्द के किस विभक्ति का रूप है ?",
+      "instructions": "प्रश्न-संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "चतुर्थी",
+        "B": "द्वितीया",
+        "C": "प्रथमा",
+        "D": "सप्तमी"
+      },
+      "vikalpa": {
+        "A": "चतुर्थी",
+        "B": "द्वितीया",
+        "C": "प्रथमा",
+        "D": "सप्तमी"
+      }
+    },
+    {
+      "id": "obj_73",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "3",
+      "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'यत्' सर्वनाम के प्रथमा विभक्ति एकवचन का रूप कौन सा है ?",
       "prashna": "'यत्' सर्वनाम के प्रथमा विभक्ति एकवचन का रूप कौन सा है ?",
       "instructions": "प्रश्न-संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
@@ -451,11 +613,37 @@
   ],
   "2022": [
     {
+      "id": "obj_59",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "3",
+      "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.57,
+      "raw_choice": "Vyakaran - 3. Shabda Rupa (Noun Forms) (शब्द-रूपाणि)",
+      "question": "'धनुषा' में मूल शब्द क्या है ?",
+      "prashna": "'धनुषा' में मूल शब्द क्या है ?",
+      "instructions": "सही विकल्प चुनें।",
+      "options": {
+        "A": "धनु",
+        "B": "धनुष्",
+        "C": "धनुष",
+        "D": "धनुषः"
+      },
+      "vikalpa": {
+        "A": "धनु",
+        "B": "धनुष्",
+        "C": "धनुष",
+        "D": "धनुषः"
+      }
+    },
+    {
       "id": "obj_61",
       "type": "objective",
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'तस्मिन्' पद का मूलरूप है",
       "prashna": "'तस्मिन्' पद का मूलरूप है",
       "instructions": "सही विकल्प चुनें।",
@@ -478,6 +666,8 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'भवत्' शब्द के षष्ठी बहुवचन का रूप क्या होगा ?",
       "prashna": "'भवत्' शब्द के षष्ठी बहुवचन का रूप क्या होगा ?",
       "instructions": "सही विकल्प चुनें।",
@@ -500,6 +690,8 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "साधु का स्त्रीलिंग रूप क्या होगा ?",
       "prashna": "साधु का स्त्रीलिंग रूप क्या होगा ?",
       "instructions": "सही विकल्प चुनें।",
@@ -522,6 +714,8 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "किस शब्द का रूप तीनों लिंगों में एक समान होता है ?",
       "prashna": "किस शब्द का रूप तीनों लिंगों में एक समान होता है ?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है ।",
@@ -544,6 +738,8 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "‘दधि’ शब्द का रूप किसके समान चलेगा ?",
       "prashna": "‘दधि’ शब्द का रूप किसके समान चलेगा ?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है ।",
@@ -566,6 +762,8 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "माता पद का मूलरूप क्या है ?",
       "prashna": "माता पद का मूलरूप क्या है ?",
       "options": {
@@ -587,6 +785,8 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "‘अस्मद्’ शब्द के प्रथमा विभक्ति एकवचन का रूप कौन-सा है ?",
       "prashna": "‘अस्मद्’ शब्द के प्रथमा विभक्ति एकवचन का रूप कौन-सा है ?",
       "options": {
@@ -608,6 +808,8 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "‘बालक’ शब्द के समान किस शब्द का रूप चलेगा ?",
       "prashna": "‘बालक’ शब्द के समान किस शब्द का रूप चलेगा ?",
       "options": {
@@ -631,6 +833,8 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "वेदाः............सन्ति। रिक्त स्थान की पूर्ति उचित विशेषण से करें।",
       "prashna": "वेदाः............सन्ति। रिक्त स्थान की पूर्ति उचित विशेषण से करें।",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
@@ -653,6 +857,8 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'नदी' शब्द का तृतीया विभक्ति एकवचन में रूप क्या होगा ?",
       "prashna": "'नदी' शब्द का तृतीया विभक्ति एकवचन में रूप क्या होगा ?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
@@ -675,6 +881,8 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "‘त्वयि' युष्मद् शब्द के किस विभक्ति का रूप है ?",
       "prashna": "‘त्वयि' युष्मद् शब्द के किस विभक्ति का रूप है ?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
@@ -697,6 +905,8 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'साधु' शब्द का तृतीया विभक्ति, एकवचन का रूप निम्न में से कौन-सा है ?",
       "prashna": "'साधु' शब्द का तृतीया विभक्ति, एकवचन का रूप निम्न में से कौन-सा है ?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
@@ -719,6 +929,8 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'मातरि' किस शब्द का रूप है ?",
       "prashna": "'मातरि' किस शब्द का रूप है ?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
@@ -734,15 +946,89 @@
         "C": "मात्रा",
         "D": "मातर्"
       }
+    },
+    {
+      "id": "obj_93",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "3",
+      "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.63,
+      "raw_choice": "Vyakaran - 3. Shabda Rupa (Noun Forms) (शब्द-रूपाणि)",
+      "question": "'राजन्' शब्द का स्त्रीलिंग रूप निम्न में से कौन-सा है ?",
+      "prashna": "'राजन्' शब्द का स्त्रीलिंग रूप निम्न में से कौन-सा है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "रानी",
+        "B": "राजकुमारी",
+        "C": "राज्ञी",
+        "D": "राजपत्नी"
+      },
+      "vikalpa": {
+        "A": "रानी",
+        "B": "राजकुमारी",
+        "C": "राज्ञी",
+        "D": "राजपत्नी"
+      }
     }
   ],
   "2024": [
+    {
+      "id": "obj_29",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "3",
+      "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.61,
+      "raw_choice": "Vyakaran - 3. Shabda Rupa (Noun Forms) (शब्द-रूपाणि)",
+      "question": "'राज्ञा' राजन् शब्द के किस विभक्ति का रूप है ?",
+      "prashna": "'राज्ञा' राजन् शब्द के किस विभक्ति का रूप है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
+      "options": {
+        "A": "पंचमी",
+        "B": "षष्ठी",
+        "C": "तृतीया",
+        "D": "सप्तमी"
+      },
+      "vikalpa": {
+        "A": "पंचमी",
+        "B": "षष्ठी",
+        "C": "तृतीया",
+        "D": "सप्तमी"
+      }
+    },
+    {
+      "id": "obj_50",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "3",
+      "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.53,
+      "raw_choice": "Vyakaran - 3. Shabda Rupa (Noun Forms) (शब्द-रूपाणि)",
+      "question": "'लतया' पद में कौन-सी विभक्ति है ?",
+      "prashna": "'लतया' पद में कौन-सी विभक्ति है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
+      "options": {
+        "A": "सप्तमी",
+        "B": "तृतीया",
+        "C": "द्वितीया",
+        "D": "प्रथमा"
+      },
+      "vikalpa": {
+        "A": "सप्तमी",
+        "B": "तृतीया",
+        "C": "द्वितीया",
+        "D": "प्रथमा"
+      }
+    },
     {
       "id": "obj_59",
       "type": "objective",
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'नदी' शब्द का रूप चतुर्थी विभक्ति, एकवचन में क्या होगा ?",
       "prashna": "'नदी' शब्द का रूप चतुर्थी विभक्ति, एकवचन में क्या होगा ?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -765,6 +1051,8 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'युवाम्' पद का मूल रूप निम्न में से कौन है ?",
       "prashna": "'युवाम्' पद का मूल रूप निम्न में से कौन है ?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -782,11 +1070,37 @@
       }
     },
     {
+      "id": "obj_74",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "3",
+      "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.52,
+      "raw_choice": "Vyakaran - 3. Shabda Rupa (Noun Forms) (शब्द-रूपाणि)",
+      "question": "'कवि' शब्द का रूप चतुर्थी विभक्ति, एकवचन में क्या होगा ?",
+      "prashna": "'कवि' शब्द का रूप चतुर्थी विभक्ति, एकवचन में क्या होगा ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
+      "options": {
+        "A": "कविम्",
+        "B": "कविना",
+        "C": "कवये",
+        "D": "कविषु"
+      },
+      "vikalpa": {
+        "A": "कविम्",
+        "B": "कविना",
+        "C": "कवये",
+        "D": "कविषु"
+      }
+    },
+    {
       "id": "obj_90",
       "type": "objective",
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'सप्ताहे ......... दिनानि भवन्ति' - रिक्त स्थान की पूर्ति उचित विकल्प से करें।",
       "prashna": "'सप्ताहे ......... दिनानि भवन्ति' - रिक्त स्थान की पूर्ति उचित विकल्प से करें।",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है। इन 100 प्रश्नों में से किन्हीं 50 प्रश्नों के अपने द्वारा चुने गए सही विकल्प को OMR उत्तर-पत्रक पर चिह्नित करें।",
@@ -811,6 +1125,8 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'पित्रा' किस विभक्ति का रूप है ?",
       "prashna": "'पित्रा' किस विभक्ति का रूप है ?",
       "options": {
@@ -832,6 +1148,8 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'युष्मद्' शब्द का रूप प्रथमा विभक्ति, एकवचन में क्या होगा ?",
       "prashna": "'युष्मद्' शब्द का रूप प्रथमा विभक्ति, एकवचन में क्या होगा ?",
       "options": {
@@ -853,6 +1171,8 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'युष्माकम्' का मूल शब्द क्या है ?",
       "prashna": "'युष्माकम्' का मूल शब्द क्या है ?",
       "options": {
@@ -874,6 +1194,8 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'चत्वारः' का मूल शब्द क्या है ?",
       "prashna": "'चत्वारः' का मूल शब्द क्या है ?",
       "options": {
@@ -895,6 +1217,8 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'भवत्' शब्द का सप्तमी विभक्ति, बहुवचन का रूप कौन-सा है ?",
       "prashna": "'भवत्' शब्द का सप्तमी विभक्ति, बहुवचन का रूप कौन-सा है ?",
       "options": {
@@ -916,6 +1240,8 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'मुनि' शब्द पञ्चमी विभक्ति, एकवचन में क्या होगा ?",
       "prashna": "'मुनि' शब्द पञ्चमी विभक्ति, एकवचन में क्या होगा ?",
       "options": {
@@ -937,6 +1263,8 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "‘पित्रा’ किस विभक्ति का रूप है ?",
       "prashna": "‘पित्रा’ किस विभक्ति का रूप है ?",
       "options": {
@@ -958,6 +1286,8 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "‘युष्मद्’ शब्द का रूप प्रथमा विभक्ति, एकवचन में क्या होगा ?",
       "prashna": "‘युष्मद्’ शब्द का रूप प्रथमा विभक्ति, एकवचन में क्या होगा ?",
       "options": {
@@ -979,6 +1309,8 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "‘युष्माकम्’ का मूल शब्द क्या है ?",
       "prashna": "‘युष्माकम्’ का मूल शब्द क्या है ?",
       "options": {
@@ -1000,6 +1332,8 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "‘चत्वारः’ का मूल शब्द क्या है ?",
       "prashna": "‘चत्वारः’ का मूल शब्द क्या है ?",
       "options": {
@@ -1021,6 +1355,8 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "‘भवत्’ शब्द का सप्तमी विभक्ति, बहुवचन का रूप कौन-सा है ?",
       "prashna": "‘भवत्’ शब्द का सप्तमी विभक्ति, बहुवचन का रूप कौन-सा है ?",
       "options": {
@@ -1042,6 +1378,8 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "‘मुनि’ शब्द पञ्चमी विभक्ति, एकवचन में क्या होगा ?",
       "prashna": "‘मुनि’ शब्द पञ्चमी विभक्ति, एकवचन में क्या होगा ?",
       "options": {
@@ -1060,11 +1398,37 @@
   ],
   "2026": [
     {
+      "id": "obj_5",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "3",
+      "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.58,
+      "raw_choice": "Vyakaran - 3. Shabda Rupa (Noun Forms) (शब्द-रूपाणि)",
+      "question": "'पथिन्' शब्द के सप्तमी विभक्ति, एकवचन का रूप निम्न में कौन-सा है ?",
+      "prashna": "'पथिन्' शब्द के सप्तमी विभक्ति, एकवचन का रूप निम्न में कौन-सा है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "पथः",
+        "B": "पथे",
+        "C": "पथि",
+        "D": "पथोः"
+      },
+      "vikalpa": {
+        "A": "पथः",
+        "B": "पथे",
+        "C": "पथि",
+        "D": "पथोः"
+      }
+    },
+    {
       "id": "obj_6",
       "type": "objective",
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'अस्मद्' शब्द के पंचमी विभक्ति, एकवचन का रूप निम्न में कौन-सा है ?",
       "prashna": "'अस्मद्' शब्द के पंचमी विभक्ति, एकवचन का रूप निम्न में कौन-सा है ?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
@@ -1082,11 +1446,109 @@
       }
     },
     {
+      "id": "obj_23",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "3",
+      "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.51,
+      "raw_choice": "Vyakaran - 3. Shabda Rupa (Noun Forms) (शब्द-रूपाणि)",
+      "question": "'नद्या' पद में कौन-सी विभक्ति प्रयुक्त है ?",
+      "prashna": "'नद्या' पद में कौन-सी विभक्ति प्रयुक्त है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "तृतीया",
+        "B": "षष्ठी",
+        "C": "सप्तमी",
+        "D": "प्रथमा"
+      },
+      "vikalpa": {
+        "A": "तृतीया",
+        "B": "षष्ठी",
+        "C": "सप्तमी",
+        "D": "प्रथमा"
+      }
+    },
+    {
+      "id": "obj_43",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "3",
+      "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.55,
+      "raw_choice": "Vyakaran - 3. Shabda Rupa (Noun Forms) (शब्द-रूपाणि)",
+      "question": "'गो' शब्द के सप्तमी विभक्ति, एकवचन का रूप निम्न में कौन-सा है ?",
+      "prashna": "'गो' शब्द के सप्तमी विभक्ति, एकवचन का रूप निम्न में कौन-सा है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "गवोः",
+        "B": "गवा",
+        "C": "गवि",
+        "D": "गवे"
+      },
+      "vikalpa": {
+        "A": "गवोः",
+        "B": "गवा",
+        "C": "गवि",
+        "D": "गवे"
+      }
+    },
+    {
+      "id": "obj_44",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "3",
+      "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.51,
+      "raw_choice": "Vyakaran - 3. Shabda Rupa (Noun Forms) (शब्द-रूपाणि)",
+      "question": "'मात्रोः' पद में कौन-सी विभक्ति प्रयुक्त है ?",
+      "prashna": "'मात्रोः' पद में कौन-सी विभक्ति प्रयुक्त है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "षष्ठी",
+        "B": "प्रथमा",
+        "C": "द्वितीया",
+        "D": "सप्तमी"
+      },
+      "vikalpa": {
+        "A": "षष्ठी",
+        "B": "प्रथमा",
+        "C": "द्वितीया",
+        "D": "सप्तमी"
+      }
+    },
+    {
+      "id": "obj_64",
+      "type": "objective",
+      "section": "Vyakaran",
+      "chapter": "3",
+      "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.61,
+      "raw_choice": "Vyakaran - 3. Shabda Rupa (Noun Forms) (शब्द-रूपाणि)",
+      "question": "'मधुना' पद का मूल रूप निम्न में कौन-सा है ?",
+      "prashna": "'मधुना' पद का मूल रूप निम्न में कौन-सा है ?",
+      "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
+      "options": {
+        "A": "मधु",
+        "B": "मधू",
+        "C": "मधुन्",
+        "D": "मधुनः"
+      },
+      "vikalpa": {
+        "A": "मधु",
+        "B": "मधू",
+        "C": "मधुन्",
+        "D": "मधुनः"
+      }
+    },
+    {
       "id": "obj_89",
       "type": "objective",
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "'श्वशुरः' का स्त्रीलिंग रूप क्या होगा ?",
       "prashna": "'श्वशुरः' का स्त्रीलिंग रूप क्या होगा ?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",
@@ -1109,6 +1571,8 @@
       "section": "Vyakaran",
       "chapter": "3",
       "chapter_name": "Shabda Rupa (Noun Forms)",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "‘अस्माकम्’ का मूल शब्द क्या है ?",
       "prashna": "‘अस्माकम्’ का मूल शब्द क्या है ?",
       "instructions": "प्रश्न संख्या 1 से 100 तक के प्रत्येक वस्तुनिष्ठ प्रश्न के साथ चार विकल्प दिए गए हैं, जिनमें से कोई एक सही है।",

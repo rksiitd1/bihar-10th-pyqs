@@ -6,6 +6,8 @@
       "section": "Panorama",
       "chapter": "1",
       "chapter_name": "The Pace for Living",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The main character in \"Pace for Living\", which the author saw was a/an .......corn merchant",
       "prashna": "\"पेस फॉर लिविंग\" में मुख्य पात्र, जिसे लेखक ने देखा था, वह एक ....... मकई का व्यापारी था।",
       "options": {
@@ -27,6 +29,8 @@
       "section": "Panorama",
       "chapter": "1",
       "chapter_name": "The Pace for Living",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The author admits that quick travel does not give the traveller the……….real of travel",
       "prashna": "लेखक स्वीकार करता है कि तेज़ यात्रा यात्री को यात्रा का असली ………. नहीं देती है।",
       "options": {
@@ -48,6 +52,8 @@
       "section": "Panorama",
       "chapter": "1",
       "chapter_name": "The Pace for Living",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "\"The Pace for Living\" is written by ............",
       "prashna": "\"The Pace for Living\" किसके द्वारा लिखा गया है ............",
       "options": {
@@ -69,6 +75,8 @@
       "section": "Panorama",
       "chapter": "1",
       "chapter_name": "The Pace for Living",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "In \"The Pace for Living\", the writer captures the agony of ............ man.",
       "prashna": "\"The Pace for Living\" में, लेखक ............ व्यक्ति की पीड़ा को व्यक्त करते हैं।",
       "options": {
@@ -92,6 +100,8 @@
       "section": "Panorama",
       "chapter": "1",
       "chapter_name": "The Pace for Living",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "In 'The pace for Living,' R. C. Hutchinson discusses -",
       "prashna": "'द पेस फॉर लिविंग' में, आर. सी. हचिंसन चर्चा करते हैं -",
       "options": {
@@ -113,6 +123,8 @@
       "section": "Panorama",
       "chapter": "1",
       "chapter_name": "The Pace for Living",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "In 'The pace for Living,' the author saw a play in -",
       "prashna": "'द पेस फॉर लिविंग' में, लेखक ने कहाँ एक नाटक देखा था -",
       "options": {
@@ -134,6 +146,8 @@
       "section": "Panorama",
       "chapter": "1",
       "chapter_name": "The Pace for Living",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "In 'The pace for Living,' the author saw a play in -",
       "prashna": "'द पेस फॉर लिविंग' में, लेखक ने एक नाटक कहाँ देखा था? -",
       "options": {
@@ -155,6 +169,8 @@
       "section": "Panorama",
       "chapter": "1",
       "chapter_name": "The Pace for Living",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "In 'The pace for Living,' R. C. Hutchinson discusses -",
       "prashna": "'द पेस फॉर लिविंग' में, आर. सी. हचिंसन किसकी चर्चा करते हैं? -",
       "options": {
@@ -178,6 +194,8 @@
       "section": "Panorama",
       "chapter": "1",
       "chapter_name": "The Pace for Living",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Rapid movement gives you a superficial sense of",
       "prashna": "तेज़ गति आपको किसका सतही अहसास देती है?",
       "options": {
@@ -199,6 +217,8 @@
       "section": "Panorama",
       "chapter": "1",
       "chapter_name": "The Pace for Living",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "R.C. Hutchinson wrote that he watched a play in",
       "prashna": "आर.सी. हचिंसन ने लिखा कि उन्होंने कहाँ एक नाटक देखा?",
       "options": {
@@ -215,11 +235,36 @@
       }
     },
     {
+      "id": "obj_30",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "1",
+      "chapter_name": "The Pace for Living",
+      "confidence": 0.63,
+      "raw_choice": "Panorama - 1. The Pace for Living (जीवन की गति)",
+      "question": "The author finds himself in a hopeless situation when he goes to watch the",
+      "prashna": "लेखक खुद को एक निराशाजनक स्थिति में पाता है जब वह क्या देखने जाता है?",
+      "options": {
+        "A": "cinema",
+        "B": "theatre",
+        "C": "dance programme",
+        "D": "singing competition"
+      },
+      "vikalpa": {
+        "A": "सिनेमा",
+        "B": "थिएटर",
+        "C": "नृत्य कार्यक्रम",
+        "D": "गायन प्रतियोगिता"
+      }
+    },
+    {
       "id": "obj_12",
       "type": "objective",
       "section": "Panorama",
       "chapter": "1",
       "chapter_name": "The Pace for Living",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "In 'The Pace for Living', the author discusses",
       "prashna": "'द पेस फॉर लिविंग' में लेखक चर्चा करता है",
       "options": {
@@ -236,11 +281,36 @@
       }
     },
     {
+      "id": "obj_24",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "1",
+      "chapter_name": "The Pace for Living",
+      "confidence": 0.57,
+      "raw_choice": "Panorama - 1. The Pace for Living (जीवन की गति)",
+      "question": "People nowadays think ... than ancient times.",
+      "prashna": "आजकल के लोग प्राचीन समय की तुलना में ... सोचते हैं।",
+      "options": {
+        "A": "deeper",
+        "B": "faster",
+        "C": "longer",
+        "D": "slower"
+      },
+      "vikalpa": {
+        "A": "गहरा",
+        "B": "तेज़",
+        "C": "लंबा",
+        "D": "धीमा"
+      }
+    },
+    {
       "id": "obj_28",
       "type": "objective",
       "section": "Panorama",
       "chapter": "1",
       "chapter_name": "The Pace for Living",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Mental activities of our time tend to follow the pace of",
       "prashna": "हमारे समय की मानसिक गतिविधियाँ का पालन करती हैं",
       "options": {
@@ -264,6 +334,8 @@
       "section": "Panorama",
       "chapter": "1",
       "chapter_name": "The Pace for Living",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The main character in the play which the author saw in 'The Pace For Living' was a/an.......... man.",
       "prashna": "'द पेस फॉर लिविंग' में लेखक ने जिस नाटक को देखा उसका मुख्य पात्र एक ......... व्यक्ति था।",
       "options": {
@@ -285,6 +357,8 @@
       "section": "Panorama",
       "chapter": "1",
       "chapter_name": "The Pace for Living",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The author admits that quick travel does not give the traveller the real............ of travel",
       "prashna": "लेखक स्वीकार करता है कि त्वरित यात्रा यात्री को यात्रा का वास्तविक ............ नहीं देती है",
       "options": {
@@ -306,6 +380,8 @@
       "section": "Panorama",
       "chapter": "1",
       "chapter_name": "The Pace for Living",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The corn-merchant was getting…………..by his nephew in ‘The Pace for living’.",
       "prashna": "'द पेस फॉर लिविंग' में अनाज व्यापारी को उसके भतीजे द्वारा ............ जा रहा था।",
       "options": {
@@ -327,6 +403,8 @@
       "section": "Panorama",
       "chapter": "1",
       "chapter_name": "The Pace for Living",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "How many girls were there in the film 'The Pace for Living'?",
       "prashna": "फिल्म 'द पेस फॉर लिविंग' में कितनी लड़कियां थीं?",
       "options": {
@@ -348,6 +426,8 @@
       "section": "Panorama",
       "chapter": "1",
       "chapter_name": "The Pace for Living",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "In ‘The Pace for Living'. The writer captures the agony of........man.",
       "prashna": "'द पेस फॉर लिविंग' में, लेखक ........ मनुष्य की पीड़ा को दर्शाता है।",
       "options": {
@@ -369,6 +449,8 @@
       "section": "Panorama",
       "chapter": "1",
       "chapter_name": "The Pace for Living",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "In 'The Pace for Living', the author says that………….are designed to test the mental speed of a person.",
       "prashna": "'द पेस फॉर लिविंग' में लेखक कहते हैं कि ………… व्यक्ति की मानसिक गति का परीक्षण करने के लिए डिज़ाइन किए गए हैं।",
       "options": {
@@ -390,6 +472,8 @@
       "section": "Panorama",
       "chapter": "1",
       "chapter_name": "The Pace for Living",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The author in 'The Pace for living' enjoys",
       "prashna": "'द पेस फॉर लिविंग' में लेखक किसका आनंद लेते हैं?",
       "options": {
@@ -413,6 +497,8 @@
       "section": "Panorama",
       "chapter": "1",
       "chapter_name": "The Pace for Living",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The people now think faster than people did",
       "options": {
         "A": "150 years from now",
@@ -434,6 +520,8 @@
       "section": "Panorama",
       "chapter": "1",
       "chapter_name": "The Pace for Living",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Mental activities of our time, according to the narrator in 'The Pace for Living', tend to follow the pace of",
       "prashna": "'द पेस फॉर लिविंग' के कथावाचक के अनुसार, हमारे समय की मानसिक गतिविधियाँ किसकी गति का अनुसरण करती हैं?",
       "options": {
@@ -455,6 +543,8 @@
       "section": "Panorama",
       "chapter": "1",
       "chapter_name": "The Pace for Living",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The author of ‘The Pace for Living’ wants to dine in London and lunch in",
       "prashna": "'द पेस फॉर लिविंग' के लेखक लंदन में रात का खाना और ............... में दोपहर का खाना खाना चाहते हैं।",
       "options": {
@@ -473,11 +563,36 @@
   ],
   "2023": [
     {
+      "id": "obj_14",
+      "type": "objective",
+      "section": "Panorama",
+      "chapter": "1",
+      "chapter_name": "The Pace for Living",
+      "confidence": 0.52,
+      "raw_choice": "Panorama - 1. The Pace for Living (जीवन की गति)",
+      "question": "People nowadays think............than ancient times.",
+      "prashna": "आजकल के लोग प्राचीन काल की तुलना में ............ सोचते हैं।",
+      "options": {
+        "A": "deeper",
+        "B": "faster",
+        "C": "longer",
+        "D": "slower"
+      },
+      "vikalpa": {
+        "A": "गहराई से",
+        "B": "तेजी से",
+        "C": "देर तक",
+        "D": "धीरे"
+      }
+    },
+    {
       "id": "obj_35",
       "type": "objective",
       "section": "Panorama",
       "chapter": "1",
       "chapter_name": "The Pace for Living",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Slow thinkers are handicapped in the business of getting a……………….",
       "prashna": "धीमी गति से सोचने वाले लोग ............ प्राप्त करने के व्यवसाय में पिछड़ जाते हैं।",
       "options": {
@@ -499,6 +614,8 @@
       "section": "Panorama",
       "chapter": "1",
       "chapter_name": "The Pace for Living",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "One of the most significant phenomena of our time has been the development of…………",
       "prashna": "हमारे समय की सबसे महत्वपूर्ण घटनाओं में से एक ............ का विकास रहा है।",
       "options": {
@@ -522,6 +639,8 @@
       "section": "Panorama",
       "chapter": "1",
       "chapter_name": "The Pace for Living",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The corn-merchant was unable to handle the ... of life.",
       "prashna": "अनाज व्यापारी जीवन की ___ को संभालने में असमर्थ था।",
       "options": {
@@ -543,6 +662,8 @@
       "section": "Panorama",
       "chapter": "1",
       "chapter_name": "The Pace for Living",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The hero in the movie, as described in 'The Pace For Living', took off his ... when he came indoors.",
       "prashna": "'द पेस फॉर लिविंग' में वर्णित फिल्म के नायक अंदर आने पर ___ उतार देता था।",
       "options": {
@@ -564,6 +685,8 @@
       "section": "Panorama",
       "chapter": "1",
       "chapter_name": "The Pace for Living",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "... are handicapped in finding a living for themselves.",
       "prashna": "___ अपने लिए जीवनयापन ढूँढने में असमर्थ होते हैं।",
       "options": {
@@ -585,6 +708,8 @@
       "section": "Panorama",
       "chapter": "1",
       "chapter_name": "The Pace for Living",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "We slow thinkers, according to Hutchinson, are terribly",
       "prashna": "हचिन्सन के अनुसार, हम धीमे सोचने वाले बहुत .................... हैं।",
       "options": {
@@ -606,6 +731,8 @@
       "section": "Panorama",
       "chapter": "1",
       "chapter_name": "The Pace for Living",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Hutchinson says that when he goes to the cinema he finds himself in a .................... fog.",
       "prashna": "हचिन्सन कहते हैं कि जब वे सिनेमा जाते हैं तो खुद को .................... कोहरे में पाते हैं।",
       "options": {
@@ -629,6 +756,8 @@
       "section": "Panorama",
       "chapter": "1",
       "chapter_name": "The Pace for Living",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The slow thinkers are unable to....",
       "prashna": "धीमे सोचने वाले किसमें असमर्थ होते हैं?",
       "options": {
@@ -650,6 +779,8 @@
       "section": "Panorama",
       "chapter": "1",
       "chapter_name": "The Pace for Living",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The writer classifies himself as a ________thinker in ‘The Pace of Living’.",
       "prashna": "लेखक ‘द पेस ऑफ लिविंग’ में खुद को एक ________ विचारक के रूप में वर्गीकृत करता है।",
       "options": {
@@ -671,6 +802,8 @@
       "section": "Panorama",
       "chapter": "1",
       "chapter_name": "The Pace for Living",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The corn merchant was upset because his ____ was cheating him.",
       "prashna": "अनाज व्यापारी परेशान था क्योंकि उसका ____ उसे धोखा दे रहा था।",
       "options": {
@@ -692,6 +825,8 @@
       "section": "Panorama",
       "chapter": "1",
       "chapter_name": "The Pace for Living",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Katherine Mansfield was inspired by",
       "prashna": "कैथरीन मैन्सफील्ड किससे प्रेरित थीं?",
       "options": {
@@ -713,6 +848,8 @@
       "section": "Panorama",
       "chapter": "1",
       "chapter_name": "The Pace for Living",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "R. C. Hutchinson in 'The Pace for Living' describes the ............... of modern man.",
       "prashna": "आर. सी. हचिंसन 'द पेस फॉर लिविंग' में आधुनिक व्यक्ति की ............... का वर्णन करते हैं।",
       "options": {
@@ -734,6 +871,8 @@
       "section": "Panorama",
       "chapter": "1",
       "chapter_name": "The Pace for Living",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The author enjoys travelling fast in a ............... if it is not his own.",
       "prashna": "लेखक को ............... में तेजी से यात्रा करने में आनंद आता है यदि वह उसका अपना न हो।",
       "options": {
@@ -757,6 +896,8 @@
       "section": "Panorama",
       "chapter": "1",
       "chapter_name": "The Pace for Living",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Whose wife was a spendthrift ?",
       "prashna": "किसकी पत्नी फिजूलखर्च थी?",
       "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
@@ -779,6 +920,8 @@
       "section": "Panorama",
       "chapter": "1",
       "chapter_name": "The Pace for Living",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "The author of “The Pace for Living” says one must develop the art of",
       "prashna": "“द पेस फॉर लिविंग” के लेखक कहते हैं कि व्यक्ति को ............... की कला विकसित करनी चाहिए।",
       "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",
@@ -801,6 +944,8 @@
       "section": "Panorama",
       "chapter": "1",
       "chapter_name": "The Pace for Living",
+      "confidence": 0.95,
+      "raw_choice": "",
       "question": "Where did the author see a play ?",
       "prashna": "लेखक ने नाटक कहाँ देखा था?",
       "instructions": "Question Nos. 1 to 60 are based on prescribed texts.",

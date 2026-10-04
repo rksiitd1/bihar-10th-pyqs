@@ -5,6 +5,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.18,
+        "raw_choice": "Panorama - 9. God Made the Country (ईश्वर ने देहात बनाया)",
         "question": "There only minds like yours can do no harm. — is from",
         "prashna": "वहाँ केवल आपके जैसे दिमाग ही कोई हानि नहीं पहुंचा सकते। — यह पंक्ति किससे है?",
         "options": {
@@ -26,6 +28,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.29,
+        "raw_choice": "Panorama - 11. Polythene Bag (पॉलिथीन बैग)",
         "question": "'Sawarani' and 'Rays' are prominent works of",
         "prashna": "'सवारानी' और 'रेज़' किसकी प्रमुख रचनाएँ हैं?",
         "options": {
@@ -47,6 +51,8 @@
         "section": "Panorama",
         "chapter": "14",
         "chapter_name": "Koel",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'The roses are on fire which winds and waters catch!' is from",
         "prashna": "'गुलाब आग पकड़ रहे हैं, जिन्हें हवाएँ और पानी पकड़ते हैं!' यह पंक्ति किससे है?",
         "options": {
@@ -68,6 +74,8 @@
         "section": "Panorama",
         "chapter": "13",
         "chapter_name": "The Empty Heart",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'Puvin Sirippu' is a collection of ... by Periasamy Thooran.",
         "prashna": "'पुवीन सिरिप्पु' पेरियासामी थूरन द्वारा ... का संग्रह है।",
         "options": {
@@ -89,6 +97,8 @@
         "section": "Panorama",
         "chapter": "14",
         "chapter_name": "Koel",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'I am restless! Where is my beloved?' — is from",
         "prashna": "'मैं बेचैन हूँ! मेरा प्रिय कहाँ है?' — यह पंक्ति किससे है?",
         "options": {
@@ -110,6 +120,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.19,
+        "raw_choice": "Grammar - 14. Synonyms and Antonyms (पर्यायवाची और विलोम)",
         "question": "The scared and offended nightingale is",
         "prashna": "डरी और अपमानित बुलबुल है",
         "options": {
@@ -128,9 +140,11 @@
     {
         "id": "obj_7",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Panorama",
+        "chapter": "4",
+        "chapter_name": "What is Wrong with Indian Films?",
+        "confidence": 0.51,
+        "raw_choice": "Panorama - 4. What is Wrong with Indian Films? (भारतीय फिल्मों में क्या खराबी है?)",
         "question": "Films today are a significant part of creative",
         "prashna": "आज फिल्में रचनात्मक ___ का एक महत्वपूर्ण हिस्सा हैं।",
         "options": {
@@ -152,6 +166,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.39,
+        "raw_choice": "Grammar - 18. Translation (अनुवाद)",
         "question": "It is shameful to know that the Buddhist monks are",
         "prashna": "यह शर्मनाक है कि बौद्ध भिक्षुओं को ___ गया।",
         "options": {
@@ -173,6 +189,8 @@
         "section": "Panorama",
         "chapter": "6",
         "chapter_name": "Once Upon a Time",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The old woman is never ashamed of being the daughter of black ... slaves.",
         "prashna": "बूढ़ी महिला कभी काले ___ गुलामों की बेटी होने पर शर्मिंदा नहीं होती।",
         "options": {
@@ -194,6 +212,8 @@
         "section": "Panorama",
         "chapter": "7",
         "chapter_name": "The Unity of Indian Culture",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The Greek invaders were followed by",
         "prashna": "यूनानी आक्रमणकारियों के बाद ___ आए।",
         "options": {
@@ -215,6 +235,8 @@
         "section": "Panorama",
         "chapter": "2",
         "chapter_name": "Me and the Ecology Bit",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Joan Lexau is the writer of",
         "prashna": "जोआन लेक्साउ ___ के लेखक हैं।",
         "options": {
@@ -236,6 +258,8 @@
         "section": "Panorama",
         "chapter": "3",
         "chapter_name": "Gillu",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Mahadevi Verma sometimes put Gillu in a / an",
         "prashna": "महादेवी वर्मा कभी-कभी गिल्लू को ___ में रखती थीं।",
         "options": {
@@ -254,9 +278,11 @@
     {
         "id": "obj_13",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Grammar",
+        "chapter": "18",
+        "chapter_name": "Translation",
+        "confidence": 0.59,
+        "raw_choice": "Grammar - 18. Translation (अनुवाद)",
         "question": "The daughter had worked hard to",
         "prashna": "बेटी ने कड़ी मेहनत की ___।",
         "options": {
@@ -278,6 +304,8 @@
         "section": "Panorama_Reader",
         "chapter": "2",
         "chapter_name": "Allergy",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "... are capable of producing allergy.",
         "prashna": "___ एलर्जी पैदा करने में सक्षम हैं।",
         "options": {
@@ -299,6 +327,8 @@
         "section": "Panorama_Reader",
         "chapter": "1",
         "chapter_name": "January Night",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Jabra gave a loud bark and ran towards the",
         "prashna": "जabra ने जोर से भौंकने के बाद ___ की ओर दौड़ा।",
         "options": {
@@ -320,6 +350,8 @@
         "section": "Panorama_Reader",
         "chapter": "2",
         "chapter_name": "Allergy",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Dr. Rana S. P. Singh has written a number of articles on",
         "prashna": "डॉ. राणा एस. पी. सिंह ने ___ पर कई लेख लिखे हैं।",
         "options": {
@@ -341,6 +373,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.39,
+        "raw_choice": "Panorama_Reader - 3. The Bet (शर्त)",
         "question": "The old banker had given the party ... years ago.",
         "prashna": "बूढ़े बैंकर ने ___ साल पहले पार्टी दी थी।",
         "options": {
@@ -362,6 +396,8 @@
         "section": "Panorama_Reader",
         "chapter": "4",
         "chapter_name": "Quality",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Mr. Gessler was a ... shoemaker settled in London.",
         "prashna": "मिस्टर गेसलर लंदन में बसने वाले ___ जूता बनाने वाले थे।",
         "options": {
@@ -383,6 +419,8 @@
         "section": "Panorama",
         "chapter": "7",
         "chapter_name": "The Unity of Indian Culture",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "A spirit of underlying ... is a remarkable feature of Indian culture.",
         "prashna": "भारतीय संस्कृति की एक उल्लेखनीय विशेषता ___ की अंतर्निहित भावना है।",
         "options": {
@@ -401,9 +439,11 @@
     {
         "id": "obj_20",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Panorama",
+        "chapter": "2",
+        "chapter_name": "Me and the Ecology Bit",
+        "confidence": 0.56,
+        "raw_choice": "Panorama - 2. Me and the Ecology Bit (मैं और पारिस्थितिकी का अंश)",
         "question": "... is something which people hardly pay any attention to.",
         "prashna": "___ एक ऐसी चीज़ है जिस पर लोग शायद ही ध्यान देते हैं।",
         "options": {
@@ -425,6 +465,8 @@
         "section": "Panorama",
         "chapter": "1",
         "chapter_name": "The Pace for Living",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The corn-merchant was unable to handle the ... of life.",
         "prashna": "अनाज व्यापारी जीवन की ___ को संभालने में असमर्थ था।",
         "options": {
@@ -443,9 +485,11 @@
     {
         "id": "obj_22",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Panorama",
+        "chapter": "2",
+        "chapter_name": "Me and the Ecology Bit",
+        "confidence": 0.55,
+        "raw_choice": "Panorama - 2. Me and the Ecology Bit (मैं और पारिस्थितिकी का अंश)",
         "question": "Jim drove his ... round and round the backyard all summer.",
         "prashna": "जिम ने पूरे गर्मियों में अपने ___ को पिछवाड़े में घुमाया।",
         "options": {
@@ -467,6 +511,8 @@
         "section": "Panorama",
         "chapter": "8",
         "chapter_name": "Little Girls Wiser than Men",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Akoulya's grandmother wanted the people to ... instead of fighting.",
         "prashna": "अकौल्या की दादी चाहती थीं कि लोग लड़ने के बजाय ___।",
         "options": {
@@ -485,9 +531,11 @@
     {
         "id": "obj_24",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Panorama",
+        "chapter": "3",
+        "chapter_name": "Gillu",
+        "confidence": 0.52,
+        "raw_choice": "Panorama - 3. Gillu (गिल्लू)",
         "question": "Mahadevi Verma was injured in a",
         "prashna": "महादेवी वर्मा ___ दुर्घटना में घायल हो गई थीं।",
         "options": {
@@ -506,9 +554,11 @@
     {
         "id": "obj_25",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Grammar",
+        "chapter": "18",
+        "chapter_name": "Translation",
+        "confidence": 0.6,
+        "raw_choice": "Grammar - 18. Translation (अनुवाद)",
         "question": "The daughter always tries to follow her ... advice.",
         "prashna": "बेटी हमेशा ___ की सलाह का पालन करने की कोशिश करती है।",
         "options": {
@@ -530,6 +580,8 @@
         "section": "Panorama_Reader",
         "chapter": "7",
         "chapter_name": "Love Defiled",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The girlfriend's ... had not rubbed off on the narrator in 'Love Defiled'.",
         "prashna": "'लव डिफाइल्ड' में प्रेमी की ___ ने वर्णनकर्ता पर असर नहीं छोड़ा।",
         "options": {
@@ -551,6 +603,8 @@
         "section": "Panorama_Reader",
         "chapter": "1",
         "chapter_name": "January Night",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Munni blamed Halku for the destruction of the",
         "prashna": "मुन्नी ने ___ के विनाश के लिए हल्कू को दोषी ठहराया।",
         "options": {
@@ -572,6 +626,8 @@
         "section": "Panorama_Reader",
         "chapter": "3",
         "chapter_name": "The Bet",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The lawyer considered both capital punishment and life imprisonment",
         "prashna": "वकील ने फांसी और आजीवन कारावास दोनों को ___ माना।",
         "options": {
@@ -593,6 +649,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.31,
+        "raw_choice": "Grammar - 18. Translation (अनुवाद)",
         "question": "The flower pots looked like",
         "prashna": "फूलदानी ___ जैसी दिखती थीं।",
         "options": {
@@ -611,9 +669,11 @@
     {
         "id": "obj_30",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Panorama_Reader",
+        "chapter": "5",
+        "chapter_name": "Sun and Moon",
+        "confidence": 0.62,
+        "raw_choice": "Panorama_Reader - 5. Sun and Moon (सन एंड मून)",
         "question": "There was ... to look after Sun and Moon.",
         "prashna": "सूरज और चाँद की देखभाल करने के लिए ___ था।",
         "options": {
@@ -635,6 +695,8 @@
         "section": "Panorama",
         "chapter": "15",
         "chapter_name": "The Sleeping Porter",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The porter's heart twitters like a",
         "prashna": "कुली का दिल ___ की तरह काँपता है।",
         "options": {
@@ -656,6 +718,8 @@
         "section": "Panorama",
         "chapter": "14",
         "chapter_name": "Koel",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The ... burns the Koel's heart.",
         "prashna": "___ कोयल के दिल को जलाता है।",
         "options": {
@@ -677,6 +741,8 @@
         "section": "Panorama",
         "chapter": "15",
         "chapter_name": "The Sleeping Porter",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'He is challenging the mountain.' — Who is 'he' in this line?",
         "prashna": "'वह पहाड़ को चुनौती दे रहा है।' — इस पंक्ति में 'वह' कौन है?",
         "options": {
@@ -698,6 +764,8 @@
         "section": "Panorama",
         "chapter": "14",
         "chapter_name": "Koel",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Who wrote the poem 'Koel'?",
         "prashna": "'कोयल' कविता के लेखक कौन हैं?",
         "options": {
@@ -719,6 +787,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.39,
+        "raw_choice": "Panorama - 10. Ode on Solitude (एकांत पर एक गीत)",
         "question": "The trees owned by a ... gives him shade in summer.",
         "prashna": "गर्मियों में ___ वाले व्यक्ति को पेड़ छाया देते हैं।",
         "options": {
@@ -740,6 +810,8 @@
         "section": "Panorama",
         "chapter": "14",
         "chapter_name": "Koel",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The ... has burnt the wings of the Koel.",
         "prashna": "___ ने कोयल के पंख जलाए हैं।",
         "options": {
@@ -761,6 +833,8 @@
         "section": "Panorama",
         "chapter": "3",
         "chapter_name": "Gillu",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Gillu had discovered a new method to tackle the",
         "prashna": "गिल्लू ने ___ का सामना करने के लिए एक नई विधि खोजी थी।",
         "options": {
@@ -782,6 +856,8 @@
         "section": "Panorama",
         "chapter": "4",
         "chapter_name": "What is Wrong with Indian Films?",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Film production in India, according to Satyajit Ray, is",
         "prashna": "सत्यजित राय के अनुसार भारत में फिल्म निर्माण ___ है।",
         "options": {
@@ -803,6 +879,8 @@
         "section": "Panorama",
         "chapter": "7",
         "chapter_name": "The Unity of Indian Culture",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The Indian society has the capacity for",
         "prashna": "भारतीय समाज में ___ की क्षमता है।",
         "options": {
@@ -824,6 +902,8 @@
         "section": "Panorama",
         "chapter": "1",
         "chapter_name": "The Pace for Living",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The hero in the movie, as described in 'The Pace For Living', took off his ... when he came indoors.",
         "prashna": "'द पेस फॉर लिविंग' में वर्णित फिल्म के नायक अंदर आने पर ___ उतार देता था।",
         "options": {
@@ -845,6 +925,8 @@
         "section": "Panorama",
         "chapter": "10",
         "chapter_name": "Ode on Solitude",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "A man, according to Alexander Pope, is said to be blessed when he has no",
         "prashna": "अलेक्जेंडर पोप के अनुसार, मनुष्य को धन्य कहा जाता है जब उसकी ___ नहीं होती।",
         "options": {
@@ -866,6 +948,8 @@
         "section": "Panorama",
         "chapter": "12",
         "chapter_name": "Thinner Than a Crescent",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Radha is growing thinner than a",
         "prashna": "राधा ___ से पतली हो रही है।",
         "options": {
@@ -887,6 +971,8 @@
         "section": "Panorama",
         "chapter": "5",
         "chapter_name": "Acceptance Speech",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The ... of the Burmese people was indeed pathetic.",
         "prashna": "बर्मी लोगों की ___ वास्तव में दयनीय थी।",
         "options": {
@@ -905,9 +991,11 @@
     {
         "id": "obj_44",
         "type": "objective",
-        "section": "UNCLASSIFIED",
-        "chapter": "UNCLASSIFIED",
-        "chapter_name": "UNCLASSIFIED",
+        "section": "Panorama",
+        "chapter": "3",
+        "chapter_name": "Gillu",
+        "confidence": 0.54,
+        "raw_choice": "Panorama - 3. Gillu (गिल्लू)",
         "question": "The crows were engaged in poking their ... at the flowerpots.",
         "prashna": "कौए फूलदानियों में अपनी ___ घुसाए हुए थे।",
         "options": {
@@ -929,6 +1017,8 @@
         "section": "Panorama",
         "chapter": "1",
         "chapter_name": "The Pace for Living",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "... are handicapped in finding a living for themselves.",
         "prashna": "___ अपने लिए जीवनयापन ढूँढने में असमर्थ होते हैं।",
         "options": {
@@ -950,6 +1040,8 @@
         "section": "Panorama",
         "chapter": "2",
         "chapter_name": "Me and the Ecology Bit",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Instead of driving a car, Jim advises Mr. Johnson to ... to the post-office.",
         "prashna": "कार चलाने के बजाय, जिम मिस्टर जॉनसन को डाकघर तक ___ जाने की सलाह देते हैं।",
         "options": {
@@ -971,6 +1063,8 @@
         "section": "Panorama",
         "chapter": "4",
         "chapter_name": "What is Wrong with Indian Films?",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The ... University had conferred an honorary doctorate on Satyajit Ray.",
         "prashna": "___ विश्वविद्यालय ने सत्यजित राय को मानद डॉक्टरेट प्रदान की थी।",
         "options": {
@@ -992,6 +1086,8 @@
         "section": "Panorama",
         "chapter": "5",
         "chapter_name": "Acceptance Speech",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Aung San Suu Kyi got the Nobel Peace Prize on the",
         "prashna": "आंग सान सू की को ___ पर नोबेल शांति पुरस्कार मिला।",
         "options": {
@@ -1013,6 +1109,8 @@
         "section": "Panorama",
         "chapter": "13",
         "chapter_name": "The Empty Heart",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The rich man died before he could ... the eighth pot.",
         "prashna": "अमीर आदमी ___ से पहले मर गया कि वह आठवें घड़े को ___ सका।",
         "options": {
@@ -1034,6 +1132,8 @@
         "section": "Panorama",
         "chapter": "12",
         "chapter_name": "Thinner Than a Crescent",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Vidyapati's poems usually deal with",
         "prashna": "विद्यापति की कविताएँ आमतौर पर ___ से संबंधित होती हैं।",
         "options": {
@@ -1055,6 +1155,8 @@
         "section": "Panorama",
         "chapter": "15",
         "chapter_name": "The Sleeping Porter",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "The porter is challenging the",
         "prashna": "कुली ___ को चुनौती दे रहा है।",
         "options": {
@@ -1076,6 +1178,8 @@
         "section": "Panorama",
         "chapter": "11",
         "chapter_name": "Polythene Bag",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Durga Prasad Panda is primarily a",
         "prashna": "दुर्गा प्रसाद पांडा मुख्य रूप से ___ हैं।",
         "options": {
@@ -1097,6 +1201,8 @@
         "section": "Panorama",
         "chapter": "16",
         "chapter_name": "Martha",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Walter de la Mare creates an atmosphere of ... in his poems.",
         "prashna": "वॉल्टर डे ला मेयर अपनी कविताओं में ___ का माहौल बनाते हैं।",
         "options": {
@@ -1118,6 +1224,8 @@
         "section": "Panorama",
         "chapter": "11",
         "chapter_name": "Polythene Bag",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "'When touched it makes a squeaky noise' — is from",
         "prashna": "'जब छुआ जाता है तो यह एक चरमराहट की आवाज करता है' — यह पंक्ति किससे है?",
         "options": {
@@ -1139,6 +1247,8 @@
         "section": "Panorama",
         "chapter": "16",
         "chapter_name": "Martha",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "While Martha told her stories, the children used to stare at her with",
         "prashna": "जब मार्था अपनी कहानियाँ सुनाती थीं, तो बच्चे उसे ___ से देखते थे।",
         "options": {
@@ -1160,6 +1270,8 @@
         "section": "Panorama",
         "chapter": "2",
         "chapter_name": "Me and the Ecology Bit",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Jim's dog had dug up Ms. Greene's",
         "prashna": "जिम के कुत्ते ने मिस ग्रीन के ___ को खोद दिया था।",
         "options": {
@@ -1181,6 +1293,8 @@
         "section": "Panorama_Reader",
         "chapter": "1",
         "chapter_name": "January Night",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "... is the main character in 'January Night'.",
         "prashna": "'जनवरी नाइट' में ___ मुख्य पात्र है।",
         "options": {
@@ -1202,6 +1316,8 @@
         "section": "Panorama_Reader",
         "chapter": "2",
         "chapter_name": "Allergy",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Allergy causes a ... reaction against normally harmless substances in our environment.",
         "prashna": "एलर्जी हमारे पर्यावरण में सामान्य रूप से हानिरहित पदार्थों के खिलाफ ___ प्रतिक्रिया पैदा करती है।",
         "options": {
@@ -1223,6 +1339,8 @@
         "section": "Panorama_Reader",
         "chapter": "3",
         "chapter_name": "The Bet",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Chekhov wrote ... plays.",
         "prashna": "चेखव ने ___ नाटक लिखे।",
         "options": {
@@ -1244,6 +1362,8 @@
         "section": "Panorama_Reader",
         "chapter": "4",
         "chapter_name": "Quality",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Mr. Gessler's shop was like entering a",
         "prashna": "मिस्टर गेसलर की दुकान ___ में प्रवेश करने जैसी थी।",
         "options": {
@@ -1265,6 +1385,8 @@
         "section": "Grammar",
         "chapter": "13",
         "chapter_name": "Punctuation and Spelling",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Choose the correct spelt word:",
         "prashna": "सही वर्तनी वाले शब्द का चयन करें:",
         "options": {
@@ -1286,6 +1408,8 @@
         "section": "Grammar",
         "chapter": "13",
         "chapter_name": "Punctuation and Spelling",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Choose the correct spelt word:",
         "prashna": "सही वर्तनी वाले शब्द का चयन करें:",
         "options": {
@@ -1307,6 +1431,8 @@
         "section": "Grammar",
         "chapter": "13",
         "chapter_name": "Punctuation and Spelling",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Choose the correct spelt word:",
         "prashna": "सही वर्तनी वाले शब्द का चयन करें:",
         "options": {
@@ -1328,6 +1454,8 @@
         "section": "Grammar",
         "chapter": "13",
         "chapter_name": "Punctuation and Spelling",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Choose the correct spelt word:",
         "prashna": "सही वर्तनी वाले शब्द का चयन करें:",
         "options": {
@@ -1349,6 +1477,8 @@
         "section": "Grammar",
         "chapter": "13",
         "chapter_name": "Punctuation and Spelling",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Choose the correct spelt word:",
         "prashna": "सही वर्तनी वाले शब्द का चयन करें:",
         "options": {
@@ -1370,6 +1500,8 @@
         "section": "Grammar",
         "chapter": "13",
         "chapter_name": "Punctuation and Spelling",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Choose the correct spelt word:",
         "prashna": "सही वर्तनी वाले शब्द का चयन करें:",
         "options": {
@@ -1391,6 +1523,8 @@
         "section": "Grammar",
         "chapter": "13",
         "chapter_name": "Punctuation and Spelling",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Choose the correct spelt word:",
         "prashna": "सही वर्तनी वाले शब्द का चयन करें:",
         "options": {
@@ -1412,6 +1546,8 @@
         "section": "Grammar",
         "chapter": "6",
         "chapter_name": "Narration (Direct and Indirect)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Direct speech of: She exclaimed with delight that it was a very beautiful voice.",
         "prashna": "प्रत्यक्ष भाषण: उसने खुशी से कहा कि यह बहुत सुंदर आवाज थी।",
         "options": {
@@ -1433,6 +1569,8 @@
         "section": "Grammar",
         "chapter": "6",
         "chapter_name": "Narration (Direct and Indirect)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Direct speech of: Suresh asked me if I had seen his keys.",
         "prashna": "प्रत्यक्ष भाषण: सुरेश ने मुझसे पूछा कि मैंने उसकी चाबियाँ देखी थीं।",
         "options": {
@@ -1454,6 +1592,8 @@
         "section": "Grammar",
         "chapter": "6",
         "chapter_name": "Narration (Direct and Indirect)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Direct speech of: Smita asked Kavita what she was doing there.",
         "prashna": "प्रत्यक्ष भाषण: स्मिता ने कविता से पूछा कि वह वहाँ क्या कर रही थी।",
         "options": {
@@ -1475,6 +1615,8 @@
         "section": "Grammar",
         "chapter": "6",
         "chapter_name": "Narration (Direct and Indirect)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Indirect speech of: Ramesh said to me, 'Thank you!'",
         "prashna": "अप्रत्यक्ष भाषण: रामेश ने मुझसे कहा, 'धन्यवाद!'",
         "options": {
@@ -1496,6 +1638,8 @@
         "section": "Grammar",
         "chapter": "6",
         "chapter_name": "Narration (Direct and Indirect)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Indirect speech of: Chotu said to Vishal, 'Work hard.'",
         "prashna": "अप्रत्यक्ष भाषण: छोटू ने विशाल से कहा, 'कड़ी मेहनत करो।'",
         "options": {
@@ -1517,6 +1661,8 @@
         "section": "Grammar",
         "chapter": "6",
         "chapter_name": "Narration (Direct and Indirect)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Indirect speech of: He said to Veenu, 'Are you tired?'",
         "prashna": "अप्रत्यक्ष भाषण: उसने वीनू से कहा, 'क्या तुम थक गई हो?'",
         "options": {
@@ -1538,6 +1684,8 @@
         "section": "Grammar",
         "chapter": "8",
         "chapter_name": "Prepositions",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Choose the most suitable preposition: Atul agreed ... my suggestion.",
         "prashna": "उचित पूर्वसर्ग चुनें: अतुल ने मेरी सलाह ___ सहमति जताई।",
         "options": {
@@ -1559,6 +1707,8 @@
         "section": "Grammar",
         "chapter": "8",
         "chapter_name": "Prepositions",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Choose the most suitable preposition: The Principal is known ... me.",
         "prashna": "उचित पूर्वसर्ग चुनें: प्रिंसिपल ___ मुझे जाने जाते हैं।",
         "options": {
@@ -1580,6 +1730,8 @@
         "section": "Grammar",
         "chapter": "8",
         "chapter_name": "Prepositions",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Choose the most suitable preposition: My house is ... the road.",
         "prashna": "उचित पूर्वसर्ग चुनें: मेरा घर ___ सड़क है।",
         "options": {
@@ -1601,6 +1753,8 @@
         "section": "Grammar",
         "chapter": "8",
         "chapter_name": "Prepositions",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Choose the most suitable preposition: The teacher shouted ... the top of her voice.",
         "prashna": "उचित पूर्वसर्ग चुनें: अध्यापिका ने ___ अपनी आवाज के शीर्ष पर चिल्लाया।",
         "options": {
@@ -1622,6 +1776,8 @@
         "section": "Grammar",
         "chapter": "8",
         "chapter_name": "Prepositions",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Choose the most suitable preposition: She saved him ... falling down.",
         "prashna": "उचित पूर्वसर्ग चुनें: उसने उसे ___ गिरने से बचाया।",
         "options": {
@@ -1643,6 +1799,8 @@
         "section": "Grammar",
         "chapter": "8",
         "chapter_name": "Prepositions",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Choose the most suitable preposition: The guests were invited ... lunch.",
         "prashna": "उचित पूर्वसर्ग चुनें: मेहमानों को ___ लंच के लिए आमंत्रित किया गया।",
         "options": {
@@ -1664,6 +1822,8 @@
         "section": "Grammar",
         "chapter": "8",
         "chapter_name": "Prepositions",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Choose the most suitable preposition: Most people are afraid ... ghosts.",
         "prashna": "उचित पूर्वसर्ग चुनें: अधिकांश लोग ___ भूतों से डरते हैं।",
         "options": {
@@ -1685,6 +1845,8 @@
         "section": "Grammar",
         "chapter": "3",
         "chapter_name": "Tenses",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Choose the correct form of verb: She ... her knitting before I reached her house.",
         "prashna": "सही क्रिया रूप चुनें: मैंने उसके घर पहुँचने से पहले वह ___ बुनाई कर चुकी थी।",
         "options": {
@@ -1706,6 +1868,8 @@
         "section": "Grammar",
         "chapter": "4",
         "chapter_name": "Subject-Verb Agreement",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Choose the correct form of verb: Ramesh and Radha ... good friends.",
         "prashna": "सही क्रिया रूप चुनें: रामेश और राधा ___ अच्छे दोस्त हैं।",
         "options": {
@@ -1727,6 +1891,8 @@
         "section": "Grammar",
         "chapter": "7",
         "chapter_name": "Modals",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Choose the correct form of verb: Suman ... know the answer.",
         "prashna": "सही क्रिया रूप चुनें: सुमन ___ उत्तर जानता है।",
         "options": {
@@ -1748,6 +1914,8 @@
         "section": "Grammar",
         "chapter": "4",
         "chapter_name": "Subject-Verb Agreement",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Choose the correct form of verb: Lots of fruits ... needed for the function.",
         "prashna": "सही क्रिया रूप चुनें: समारोह के लिए ___ फल चाहिए।",
         "options": {
@@ -1769,6 +1937,8 @@
         "section": "Grammar",
         "chapter": "4",
         "chapter_name": "Subject-Verb Agreement",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Choose the correct form of verb: Each of the poor students ... given a dress.",
         "prashna": "सही क्रिया रूप चुनें: प्रत्येक गरीब छात्र को ___ एक पोशाक दी गई।",
         "options": {
@@ -1790,6 +1960,8 @@
         "section": "Grammar",
         "chapter": "4",
         "chapter_name": "Subject-Verb Agreement",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Choose the correct form of verb: Oil and water ... not mix.",
         "prashna": "सही क्रिया रूप चुनें: तेल और पानी ___ नहीं मिलते।",
         "options": {
@@ -1811,6 +1983,8 @@
         "section": "Grammar",
         "chapter": "4",
         "chapter_name": "Subject-Verb Agreement",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Choose the correct form of verb: The rest of the students ... absent.",
         "prashna": "सही क्रिया रूप चुनें: शेष छात्र ___ अनुपस्थित थे।",
         "options": {
@@ -1832,6 +2006,8 @@
         "section": "Grammar",
         "chapter": "14",
         "chapter_name": "Synonyms and Antonyms",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Choose the correct antonym of 'Notorious' —",
         "prashna": "'कुकर्मी' का सही विलोम चुनें —",
         "options": {
@@ -1853,6 +2029,8 @@
         "section": "Grammar",
         "chapter": "14",
         "chapter_name": "Synonyms and Antonyms",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Choose the correct antonym of 'Modern' —",
         "prashna": "'आधुनिक' का सही विलोम चुनें —",
         "options": {
@@ -1874,6 +2052,8 @@
         "section": "Grammar",
         "chapter": "14",
         "chapter_name": "Synonyms and Antonyms",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Choose the correct synonym of 'Ask' —",
         "prashna": "'पूछना' का सही पर्यायवाची चुनें —",
         "options": {
@@ -1895,6 +2075,8 @@
         "section": "Grammar",
         "chapter": "14",
         "chapter_name": "Synonyms and Antonyms",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Choose the correct synonym of 'Possibility' —",
         "prashna": "'संभावना' का सही पर्यायवाची चुनें —",
         "options": {
@@ -1916,6 +2098,8 @@
         "section": "Grammar",
         "chapter": "5",
         "chapter_name": "Voice (Active and Passive)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Active voice of: I was given this gift by Uma.",
         "prashna": "सक्रिय वाच्य: मुझे यह उपहार उमा द्वारा दिया गया था।",
         "options": {
@@ -1937,6 +2121,8 @@
         "section": "Grammar",
         "chapter": "5",
         "chapter_name": "Voice (Active and Passive)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Active voice of: The environment has to be saved by people.",
         "prashna": "सक्रिय वाच्य: पर्यावरण को लोगों द्वारा बचाया जाना चाहिए।",
         "options": {
@@ -1958,6 +2144,8 @@
         "section": "Grammar",
         "chapter": "5",
         "chapter_name": "Voice (Active and Passive)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Passive voice of: A surgeon should see him.",
         "prashna": "निष्क्रिय वाच्य: एक सर्जन को उसे देखना चाहिए।",
         "options": {
@@ -1979,6 +2167,8 @@
         "section": "Grammar",
         "chapter": "5",
         "chapter_name": "Voice (Active and Passive)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Passive voice of: When do you drink coffee?",
         "prashna": "निष्क्रिय वाच्य: आप कॉफी कब पीते हैं?",
         "options": {
@@ -2000,6 +2190,8 @@
         "section": "Grammar",
         "chapter": "5",
         "chapter_name": "Voice (Active and Passive)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Active voice of: Chicken is to be eaten by Suchi.",
         "prashna": "सक्रिय वाच्य: चिकन सुचि द्वारा खाया जाना है।",
         "options": {
@@ -2021,6 +2213,8 @@
         "section": "Grammar",
         "chapter": "5",
         "chapter_name": "Voice (Active and Passive)",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Passive voice of: Sinha likes his subordinates to flatter him.",
         "prashna": "निष्क्रिय वाच्य: सिंहा को अपने अधीनस्थों द्वारा चापलूसी पसंद है।",
         "options": {
@@ -2042,6 +2236,8 @@
         "section": "Grammar",
         "chapter": "18",
         "chapter_name": "Translation",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Choose the most suitable translation: मैं दौड़ना जानती हूँ।",
         "prashna": "सही अनुवाद चुनें: मैं दौड़ना जानती हूँ।",
         "options": {
@@ -2063,6 +2259,8 @@
         "section": "Grammar",
         "chapter": "18",
         "chapter_name": "Translation",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Choose the most suitable translation: रमेश जगदीश का भाई है।",
         "prashna": "सही अनुवाद चुनें: रमेश जगदीश का भाई है।",
         "options": {
@@ -2084,6 +2282,8 @@
         "section": "Grammar",
         "chapter": "18",
         "chapter_name": "Translation",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Choose the most suitable translation: भारत में प्रजातंत्र है।",
         "prashna": "सही अनुवाद चुनें: भारत में प्रजातंत्र है।",
         "options": {
@@ -2105,6 +2305,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.32,
+        "raw_choice": "Grammar - 18. Translation (अनुवाद)",
         "context": "Children must be brought up without pressure and then should enter adulthood free from the damaging effects of tradition and fear. Children must be given freedom of expression of thought. A boy once asked Krishnamurthy, 'Is it your hobby to give lectures? Don’t you get tired of talking? Why are you doing this?' Krishnamurthy answered, 'I’m glad you asked the question. You know, if you love something, you never get tired of it. I mean, love in which there is no desire to want something from it. You are talking and you are getting something like money, reward, sense of your importance, then there is tiredness, then there is no meaning because it is only self-realization, but if there is love in your hearts, it is like a spring that always gives fresh water.'",
         "prashna": "बच्चों को दबाव के बिना पाला जाना चाहिए और फिर उन्हें परंपरा और डर के हानिकारक प्रभावों से मुक्त होकर वयस्कता में प्रवेश करना चाहिए। बच्चों को विचार व्यक्त करने की स्वतंत्रता दी जानी चाहिए। एक लड़के ने एक बार कृष्णमूर्ति से पूछा, 'क्या व्याख्यान देना आपका शौक है? क्या आपको बात करने से थकान नहीं होती? आप यह क्यों कर रहे हैं?' कृष्णमूर्ति ने उत्तर दिया, 'मैं खुश हूँ कि तुमने यह सवाल पूछा। तुम जानते हो, अगर तुम किसी चीज़ से प्रेम करते हो, तो तुम कभी थकते नहीं हो। मेरा मतलब है, प्रेम जिसमें उसमें से कुछ चाहते होने की इच्छा नहीं होती। तुम बात कर रहे हो और तुम कुछ प्राप्त कर रहे हो जैसे पैसा, पुरस्कार, अपने महत्व की भावना, तो थकान होती है, तो इसका कोई अर्थ नहीं होता क्योंकि यह केवल आत्म-साक्षात्कार है, लेकिन अगर तुम्हारे दिल में प्रेम है, तो यह एक ऐसा झरना है जो हमेशा ताज़ा पानी देता है।'",
         "sub_questions": {
@@ -2126,6 +2328,8 @@
         "section": "Grammar",
         "chapter": "18",
         "chapter_name": "Translation",
+        "confidence": 0.95,
+        "raw_choice": "",
         "context": "The Civil Rights Movement was a social and political movement that took place in the United States in the 1950s and 1960s. The movement sought to end racial segregation and discrimination against African Americans and to achieve equal rights and opportunities for all people. The Civil Rights Movement was led by prominent figures such as Martin Luther King, Jr., Rose Parks, and Malcolm X. It involved protests, boycotts and civil disobedience. The movement was successful in achieving many important victories, including the Civil Rights Act of 1964 and the Voting Rights Act of 1965, which ended segregation and ensured voting rights for African Americans.",
         "prashna": "नागरिक अधिकार आंदोलन 1950 और 1960 के दशक में संयुक्त राज्य अमेरिका में हुआ एक सामाजिक और राजनीतिक आंदोलन था। इस आंदोलन का उद्देश्य अफ्रीकी अमेरिकियों के खिलाफ नस्ली भेदभाव और भेदभाव को समाप्त करना और सभी लोगों के लिए समान अधिकार और अवसर प्राप्त करना था। नागरिक अधिकार आंदोलन के प्रमुख नेता मार्टिन लूथर किंग जूनियर, रोजा पार्क्स और माल्कम एक्स थे। इसमें प्रदर्शन, बहिष्कार और सिविल अवज्ञा शामिल थी। इस आंदोलन ने कई महत्वपूर्ण जीत हासिल की, जिसमें 1964 का नागरिक अधिकार अधिनियम और 1965 का मताधिकार अधिनियम शामिल हैं, जिन्होंने भेदभाव को समाप्त किया और अफ्रीकी अमेरिकियों के लिए मताधिकार सुनिश्चित किया।",
         "sub_questions": {
@@ -2147,6 +2351,8 @@
         "section": "Grammar",
         "chapter": "18",
         "chapter_name": "Translation",
+        "confidence": 0.95,
+        "raw_choice": "",
         "context": "Neeraj and his family planned a trip to the mountains. They packed their bags and set off early in the morning. The scenic beauty of the hills amazed Neeraj. During their trek, they encountered a waterfall that formed a small pool at the bottom. Neeraj couldn't resist taking a dip in it. The water was cold but refreshing. As he swam, Neeraj noticed colourful fish swimming alongside him. He felt grateful to be surrounded by nature's wonders.",
         "prashna": "नीरज और उसके परिवार ने पहाड़ों की यात्रा की योजना बनाई। उन्होंने अपने बैग पैक किए और सुबह जल्दी निकल पड़े। पहाड़ियों की प्राकृतिक सुंदरता ने नीरज को हैरान कर दिया। उनके ट्रेक के दौरान, उन्होंने एक झरना देखा जो नीचे एक छोटा तालाब बनाता था। नीरज इसे छोड़ नहीं सका और इसमें डुबकी लगाई। पानी ठंडा लेकिन ताज़ा था। जैसे ही वह तैरता, नीरज ने रंग-बिरंगी मछलियों को अपने साथ तैरते देखा। वह प्रकृति के चमत्कारों से घिरा होने पर आभारी महसूस करता था।",
         "sub_questions": {
@@ -2168,6 +2374,8 @@
         "section": "Grammar",
         "chapter": "18",
         "chapter_name": "Translation",
+        "confidence": 0.95,
+        "raw_choice": "",
         "context": "The Golden Gate Bridge is a famous bridge located in San Francisco, California. It is a suspension bridge that spans the Golden Gate Strait, connecting the city of San Francisco with Marin County. The Golden Gate Bridge was completed in 1937 and was the longest suspension bridge in the world at the time. It is an iconic symbol of San Francisco and a popular tourist attraction with millions of people coming each year to walk or cycle across the bridge or enjoy the views of the city and the bay.",
         "prashna": "गोल्डन गेट ब्रिज सं फ्रांसिस्को, कैलिफोर्निया में स्थित एक प्रसिद्ध पुल है। यह एक निलंबन पुल है जो गोल्डन गेट जलडमरूमध्य को पार करता है, जो सं फ्रांसिस्को शहर को मारिन काउंटी से जोड़ता है। गोल्डन गेट ब्रिज 1937 में पूरा हुआ था और उस समय दुनिया का सबसे लंबा निलंबन पुल था। यह सं फ्रांसिस्को का एक प्रतीकात्मक चिह्न है और एक लोकप्रिय पर्यटन स्थल है, जहां हर साल लाखों लोग पुल पर चलने या साइकिल चलाने के लिए या शहर और खाड़ी के दृश्यों का आनंद लेने के लिए आते हैं।",
         "sub_questions": {
@@ -2189,6 +2397,8 @@
         "section": "Grammar",
         "chapter": "18",
         "chapter_name": "Translation",
+        "confidence": 0.95,
+        "raw_choice": "",
         "context": "I have a rabbit habit,\nI like to crunch and chew\nOn celery logs and carrot sticks,\nAnd apple wedges, too.\n\nI have a rabbit habit,\nI like to chomp and munch\nOn crispy green and juicy grapes,\nMmmn ... rabbit food for lunch!",
         "prashna": "मुझे खरगोश की आदत है,\nमुझे क्रंच और चबाना पसंद है\nसेलेरी के लट्ठे और गाजर की छड़ियाँ,\nऔर सेब के टुकड़े भी।\n\nमुझे खरगोश की आदत है,\nमुझे चबाना और चबाना पसंद है\nकरारे हरे और रसदार अंगूर,\nम्म्म... खरगोश का खाना दोपहर के भोजन के लिए!",
         "sub_questions": {
@@ -2208,6 +2418,8 @@
         "section": "Grammar",
         "chapter": "18",
         "chapter_name": "Translation",
+        "confidence": 0.95,
+        "raw_choice": "",
         "context": "Some people are like caterpillars,\nSome people are like butterflies\nPeople who are insecure,\nPeople who think they are fat.\nPeople who think they are ugly.\nPeople who are scared of their flaws\nAre the caterpillars.\n\nPeople who have accepted that no matter how hard you try,\nYou will never be perfect.\nPeople who are dreamers,\nPeople who believe anything can happen as long as you try,\nAre the butterflies.",
         "prashna": "कुछ लोग इलायची के कीड़े जैसे होते हैं,\nकुछ लोग तितलियों जैसे होते हैं\nजो लोग असुरक्षित होते हैं,\nजो लोग खुद को मोटा समझते हैं।\nजो लोग खुद को बदसूरत समझते हैं।\nजो लोग अपनी कमियों से डरते हैं\nवो इलायची के कीड़े हैं।\n\nजो लोग स्वीकार कर चुके हैं कि चाहे तुम कितनी भी मेहनत कर लो,\nतुम कभी परफेक्ट नहीं हो सकते।\nजो लोग सपने देखते हैं,\nजो लोग विश्वास करते हैं कि कुछ भी हो सकता है जब तक तुम कोशिश करते हो,\nवो तितलियाँ हैं।",
         "sub_questions": {
@@ -2227,6 +2439,8 @@
         "section": "Panorama",
         "chapter": "7",
         "chapter_name": "The Unity of Indian Culture",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What is, according to Humayun Kabir, preferable to fanatic devotion?",
         "prashna": "हुमायूँ कबीर के अनुसार, कट्टर भक्ति से क्या बेहतर है?"
     },
@@ -2236,6 +2450,8 @@
         "section": "Panorama",
         "chapter": "6",
         "chapter_name": "Once Upon a Time",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Why are the young visitors in ‘Once Upon A Time’ reprimanded?",
         "prashna": "'एक समय था' में युवा आगंतुकों को क्यों फटकार लगाई जाती है?"
     },
@@ -2245,6 +2461,8 @@
         "section": "Panorama",
         "chapter": "3",
         "chapter_name": "Gillu",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "How would Gillu indicate that he was hungry?",
         "prashna": "गिल्लू कैसे इशारा करेगा कि उसे भूख लगी है?"
     },
@@ -2254,6 +2472,8 @@
         "section": "Panorama",
         "chapter": "2",
         "chapter_name": "Me and the Ecology Bit",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What form of electricity does Jim use?",
         "prashna": "जिम किस प्रकार की बिजली का उपयोग करता है?"
     },
@@ -2263,6 +2483,8 @@
         "section": "UNCLASSIFIED",
         "chapter": "UNCLASSIFIED",
         "chapter_name": "UNCLASSIFIED",
+        "confidence": 0.37,
+        "raw_choice": "Grammar - 15. Idioms and Phrases (मुहावरे और वाक्यांश)",
         "question": "What do you mean by ‘slide soft away’?",
         "prashna": "'स्लाइड सॉफ्ट अवे' से आपका क्या मतलब है?"
     },
@@ -2272,6 +2494,8 @@
         "section": "Panorama",
         "chapter": "9",
         "chapter_name": "God Made the Country",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Why is the nightingale, according to William Cowper, mute in a town?",
         "prashna": "विलियम काउपर के अनुसार, शहर में बुलबुल क्यों मूक होती है?"
     },
@@ -2281,6 +2505,8 @@
         "section": "Grammar",
         "chapter": "18",
         "chapter_name": "Translation",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What wakes thousand memories in heart?",
         "prashna": "दिल में हज़ारों यादें क्या जगाती हैं?"
     },
@@ -2290,6 +2516,8 @@
         "section": "Panorama",
         "chapter": "16",
         "chapter_name": "Martha",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "How do the children sit to listen to Martha’s story?",
         "prashna": "मार्था की कहानी सुनने के लिए बच्चे कैसे बैठते हैं?"
     },
@@ -2299,6 +2527,8 @@
         "section": "Panorama_Reader",
         "chapter": "2",
         "chapter_name": "Allergy",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Suggest a few possible ways to avoid allergy.",
         "prashna": "एलर्जी से बचने के कुछ संभव तरीके सुझाएं।"
     },
@@ -2308,6 +2538,8 @@
         "section": "Panorama_Reader",
         "chapter": "4",
         "chapter_name": "Quality",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "What was the author’s opinion about Mr. Gessler as a shoemaker?",
         "prashna": "मिस्टर गेसलर के बारे में लेखक की क्या राय थी?"
     },
@@ -2317,6 +2549,8 @@
         "section": "Grammar",
         "chapter": "20",
         "chapter_name": "Paragraph and Essay Writing",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Write a paragraph on any one of the following in about 60-70 words: i) Education of Girl Child ii) The role of Social Media iii) Use of Mobile Phones iv) Importance of Yoga in Modern Age v) Work is worship.",
         "prashna": "निम्नलिखित में से किसी एक विषय पर लगभग 60-70 शब्दों में एक अनुच्छेद लिखें: i) बालिका शिक्षा ii) सामाजिक मीडिया की भूमिका iii) मोबाइल फोन का उपयोग iv) आधुनिक युग में योग का महत्व v) काम ही पूजा है।"
     },
@@ -2326,6 +2560,8 @@
         "section": "Grammar",
         "chapter": "19",
         "chapter_name": "Letter and Application Writing",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "You are Aman, the President of the Cultural Club in your school. Write a notice in about 60 - 70 words inviting entry for inter-class music competition.",
         "prashna": "आप अपने स्कूल में सांस्कृतिक क्लब के अध्यक्ष अमन हैं। अंतर-कक्षा संगीत प्रतियोगिता के लिए प्रविष्टि आमंत्रित करते हुए लगभग 60-70 शब्दों में एक नोटिस लिखें।"
     },
@@ -2335,6 +2571,8 @@
         "section": "Grammar",
         "chapter": "20",
         "chapter_name": "Paragraph and Essay Writing",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Write a report on noise pollution during Dussehra Puja.",
         "prashna": "दशहरा पूजा के दौरान शोर प्रदूषण पर एक रिपोर्ट लिखें।"
     },
@@ -2344,6 +2582,8 @@
         "section": "Grammar",
         "chapter": "19",
         "chapter_name": "Letter and Application Writing",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Write an application to your Headmaster requesting him to let the students use the library for one hour after school.",
         "prashna": "अपने प्रधानाध्यापक को एक आवेदन लिखें जिसमें छात्रों को स्कूल के बाद एक घंटे के लिए पुस्तकालय का उपयोग करने की अनुमति देने का अनुरोध करें।"
     },
@@ -2353,6 +2593,8 @@
         "section": "Grammar",
         "chapter": "19",
         "chapter_name": "Letter and Application Writing",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "Write a letter to your friend asking him to visit your native place during Diwali holidays.",
         "prashna": "अपने मित्र को एक पत्र लिखें जिसमें उसे दीवाली की छुट्टियों के दौरान आपके गृहनगर आने का अनुरोध करें।"
     },
@@ -2362,6 +2604,8 @@
         "section": "Grammar",
         "chapter": "20",
         "chapter_name": "Paragraph and Essay Writing",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "You are Umesh. Write a speech in about 60 - 70 words on 'Population Control'.",
         "prashna": "आप उमेश हैं। 'जनसंख्या नियंत्रण' पर लगभग 60-70 शब्दों में एक भाषण लिखें।"
     },
@@ -2371,6 +2615,8 @@
         "section": "Grammar",
         "chapter": "19",
         "chapter_name": "Letter and Application Writing",
+        "confidence": 0.95,
+        "raw_choice": "",
         "question": "You are Tribhuvan. Write a message in about 30 - 40 words to your friend inviting him to your place for combined study.",
         "prashna": "आप त्रिभुवन हैं। अपने मित्र को संयुक्त अध्ययन के लिए अपने स्थान पर आमंत्रित करते हुए लगभग 30-40 शब्दों में एक संदेश लिखें।"
     }
