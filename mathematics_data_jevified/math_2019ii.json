@@ -12,13 +12,13 @@
             "A": "$(x + 2)^3 = x(x^2 - 1)$",
             "B": "$(x + 1)^2 = 2(x - 3)$",
             "C": "$(x - 2)(x + 2) = 5$",
-            "D": "$x^2 + \frac{1}, {x^2} = 2$"
+            "D": "$x^2 + \\frac{1}{x^2} = 2$"
         },
         "vikalpa": {
             "A": "$(x + 2)^3 = x(x^2 - 1)$",
             "B": "$(x + 1)^2 = 2(x - 3)$",
             "C": "$(x - 2)(x + 2) = 5$",
-            "D": "$x^2 + \frac{1}, {x^2} = 2$"
+            "D": "$x^2 + \\frac{1}{x^2} = 2$"
         }
     },
     {
@@ -581,15 +581,15 @@
         "question": "The radius and height of a cone are $r$ and $h$ respectively, then its volume is -",
         "prashna": "एक शंकु की त्रिज्या तथा ऊँचाई क्रमशः $r$ और $h$ हैं, तो उसका आयतन है -",
         "options": {
-            "A": "$\frac{1}, {2}\\pi r^2 h$",
-            "B": "$\frac{4}, {3}\\pi r^2 h$",
-            "C": "$\frac{1}, {3}\\pi r^2 h$",
+            "A": "$\\frac{1}{2}\\pi r^2 h$",
+            "B": "$\\frac{4}{3}\\pi r^2 h$",
+            "C": "$\\frac{1}{3}\\pi r^2 h$",
             "D": "$\\pi r^2 h$"
         },
         "vikalpa": {
-            "A": "$\frac{1}, {2}\\pi r^2 h$",
-            "B": "$\frac{4}, {3}\\pi r^2 h$",
-            "C": "$\frac{1}, {3}\\pi r^2 h$",
+            "A": "$\\frac{1}{2}\\pi r^2 h$",
+            "B": "$\\frac{4}{3}\\pi r^2 h$",
+            "C": "$\\frac{1}{3}\\pi r^2 h$",
             "D": "$\\pi r^2 h$"
         }
     },
@@ -757,16 +757,16 @@
         "question": "One card is drawn at random from a well shuffled deck of playing cards, then the probability of getting an ace is -",
         "prashna": "ताश के पत्तों की एक गड्डी को अच्छी तरह से फेंटा गया है। एक पत्ती यादृच्छया निकाली जाती है, तो इसके इक्का होने की संभावना है -",
         "options": {
-            "A": "$\frac{1}, {4}$",
-            "B": "$\frac{1}, {26}$",
-            "C": "$\frac{1}, {13}$",
-            "D": "$\frac{4}, {13}$"
+            "A": "$\\frac{1}{4}$",
+            "B": "$\\frac{1}{26}$",
+            "C": "$\\frac{1}{13}$",
+            "D": "$\\frac{4}{13}$"
         },
         "vikalpa": {
-            "A": "$\frac{1}, {4}$",
-            "B": "$\frac{1}, {26}$",
-            "C": "$\frac{1}, {13}$",
-            "D": "$\frac{4}, {13}$"
+            "A": "$\\frac{1}{4}$",
+            "B": "$\\frac{1}{26}$",
+            "C": "$\\frac{1}{13}$",
+            "D": "$\\frac{4}{13}$"
         }
     },
     {
@@ -779,16 +779,16 @@
         "question": "Which of the following is equal to $\\cot \theta$?",
         "prashna": "निम्न में से कौन $\\cot \theta$ के बराबर है?",
         "options": {
-            "A": "$\frac{\\sin \theta}, {\\cos \theta}$",
-            "B": "$\frac{\\cos \theta}, {\\sin \theta}$",
-            "C": "$\frac{1}, {\\sec \theta}$",
-            "D": "$\frac{1}, {\\sin \theta}$"
+            "A": "$\\frac{\\sin \theta}{\\cos \theta}$",
+            "B": "$\\frac{\\cos \theta}{\\sin \theta}$",
+            "C": "$\\frac{1}{\\sec \theta}$",
+            "D": "$\\frac{1}{\\sin \theta}$"
         },
         "vikalpa": {
-            "A": "$\frac{\\sin \theta}, {\\cos \theta}$",
-            "B": "$\frac{\\cos \theta}, {\\sin \theta}$",
-            "C": "$\frac{1}, {\\sec \theta}$",
-            "D": "$\frac{1}, {\\sin \theta}$"
+            "A": "$\\frac{\\sin \theta}{\\cos \theta}$",
+            "B": "$\\frac{\\cos \theta}{\\sin \theta}$",
+            "C": "$\\frac{1}{\\sec \theta}$",
+            "D": "$\\frac{1}{\\sin \theta}$"
         }
     },
     {
@@ -798,8 +798,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "$\frac{\\sin 18^\\circ}, {\\cos 72^\\circ} =$",
-        "prashna": "$\frac{\\sin 18^\\circ}, {\\cos 72^\\circ} =$",
+        "question": "$\\frac{\\sin 18^\\circ}{\\cos 72^\\circ} =$",
+        "prashna": "$\\frac{\\sin 18^\\circ}{\\cos 72^\\circ} =$",
         "options": {
             "A": "0",
             "B": "1",
@@ -952,19 +952,19 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\tan \theta = \frac{3}, {4}$, then the value of $\\sin \theta$ is -",
-        "prashna": "यदि $\tan \theta = \frac{3}, {4}$ हो, तो $\\sin \theta$ का मान है -",
+        "question": "If $\tan \theta = \\frac{3}{4}$, then the value of $\\sin \theta$ is -",
+        "prashna": "यदि $\tan \theta = \\frac{3}{4}$ हो, तो $\\sin \theta$ का मान है -",
         "options": {
-            "A": "$\frac{4}, {5}$",
-            "B": "$\frac{2}, {3}$",
-            "C": "$\frac{4}, {3}$",
-            "D": "$\frac{3}, {5}$"
+            "A": "$\\frac{4}{5}$",
+            "B": "$\\frac{2}{3}$",
+            "C": "$\\frac{4}{3}$",
+            "D": "$\\frac{3}{5}$"
         },
         "vikalpa": {
-            "A": "$\frac{4}, {5}$",
-            "B": "$\frac{2}, {3}$",
-            "C": "$\frac{4}, {3}$",
-            "D": "$\frac{3}, {5}$"
+            "A": "$\\frac{4}{5}$",
+            "B": "$\\frac{2}{3}$",
+            "C": "$\\frac{4}{3}$",
+            "D": "$\\frac{3}{5}$"
         }
     },
     {
@@ -1045,14 +1045,14 @@
         "options": {
             "A": "1",
             "B": "3",
-            "C": "$\frac{1}, {\\sqrt{3}}$",
-            "D": "$\frac{1}, {3}$"
+            "C": "$\\frac{1}{\\sqrt{3}}$",
+            "D": "$\\frac{1}{3}$"
         },
         "vikalpa": {
             "A": "1",
             "B": "3",
-            "C": "$\frac{1}, {\\sqrt{3}}$",
-            "D": "$\frac{1}, {3}$"
+            "C": "$\\frac{1}{\\sqrt{3}}$",
+            "D": "$\\frac{1}{3}$"
         }
     },
     {
@@ -1084,19 +1084,19 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $A, B, C$ are angles of a triangle, then $\\sin\\left(\frac{B+C}, {2}\right)$ is equal to -",
-        "prashna": "यदि $A, B, C$ किसी त्रिभुज के कोण हों, तो $\\sin\\left(\frac{B+C}, {2}\right)$ बराबर है -",
+        "question": "If $A, B, C$ are angles of a triangle, then $\\sin\\left(\\frac{B+C}{2}\right)$ is equal to -",
+        "prashna": "यदि $A, B, C$ किसी त्रिभुज के कोण हों, तो $\\sin\\left(\\frac{B+C}{2}\right)$ बराबर है -",
         "options": {
-            "A": "$\tan \frac{A}, {2}$",
-            "B": "$\\sin \frac{A}, {2}$",
-            "C": "$\\cos \frac{A}, {2}$",
-            "D": "$\\sec \frac{A}, {2}$"
+            "A": "$\tan \\frac{A}{2}$",
+            "B": "$\\sin \\frac{A}{2}$",
+            "C": "$\\cos \\frac{A}{2}$",
+            "D": "$\\sec \\frac{A}{2}$"
         },
         "vikalpa": {
-            "A": "$\tan \frac{A}, {2}$",
-            "B": "$\\sin \frac{A}, {2}$",
-            "C": "$\\cos \frac{A}, {2}$",
-            "D": "$\\sec \frac{A}, {2}$"
+            "A": "$\tan \\frac{A}{2}$",
+            "B": "$\\sin \\frac{A}{2}$",
+            "C": "$\\cos \\frac{A}{2}$",
+            "D": "$\\sec \\frac{A}{2}$"
         }
     },
     {
@@ -1106,8 +1106,8 @@
         "chapter_name": "Real Numbers",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "Convert $2.\\overline{47}$ in the form of $\frac{p}, {q}$.",
-        "prashna": "$2.\\overline{47}$ को $\frac{p}, {q}$ के रूप में बदलें।"
+        "question": "Convert $2.\\overline{47}$ in the form of $\\frac{p}{q}$.",
+        "prashna": "$2.\\overline{47}$ को $\\frac{p}{q}$ के रूप में बदलें।"
     },
     {
         "id": "short_2",
@@ -1176,8 +1176,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\tan \theta = \frac{4}, {3}$, then find the value of $\frac{3\\sin \theta + 2\\cos \theta}, {3\\sin \theta - 2\\cos \theta}$.",
-        "prashna": "यदि $\tan \theta = \frac{4}, {3}$, तो $\frac{3\\sin \theta + 2\\cos \theta}, {3\\sin \theta - 2\\cos \theta}$ का मान ज्ञात करें।"
+        "question": "If $\tan \theta = \\frac{4}{3}$, then find the value of $\\frac{3\\sin \theta + 2\\cos \theta}{3\\sin \theta - 2\\cos \theta}$.",
+        "prashna": "यदि $\tan \theta = \\frac{4}{3}$, तो $\\frac{3\\sin \theta + 2\\cos \theta}{3\\sin \theta - 2\\cos \theta}$ का मान ज्ञात करें।"
     },
     {
         "id": "short_9",
@@ -1216,8 +1216,8 @@
         "chapter_name": "Polynomials",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\\alpha, \beta$ are the zeros of the quadratic polynomial $4x^2 - 4x + 1$, then find the value of $\frac{\\alpha}, {\beta} + \frac{\beta}, {\\alpha}$.",
-        "prashna": "यदि $\\alpha, \beta$ किसी द्विघात बहुपद $4x^2 - 4x + 1$ के मूल हों, तो $\frac{\\alpha}, {\beta} + \frac{\beta}, {\\alpha}$ का मान ज्ञात करें।"
+        "question": "If $\\alpha, \\beta$ are the zeros of the quadratic polynomial $4x^2 - 4x + 1$, then find the value of $\\frac{\\alpha}{\\beta} + \\frac{\\beta}{\\alpha}$.",
+        "prashna": "यदि $\\alpha, \\beta$ किसी द्विघात बहुपद $4x^2 - 4x + 1$ के मूल हों, तो $\\frac{\\alpha}{\\beta} + \\frac{\\beta}{\\alpha}$ का मान ज्ञात करें।"
     },
     {
         "id": "short_13",
@@ -1236,8 +1236,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "Prove that - $\frac{\\sec \theta + \tan \theta}, {\\sec \theta - \tan \theta} = \\left(\frac{1 + \\sin \theta}, {\\cos \theta}\right)^2$",
-        "prashna": "सिद्ध करें कि - $\frac{\\sec \theta + \tan \theta}, {\\sec \theta - \tan \theta} = \\left(\frac{1 + \\sin \theta}, {\\cos \theta}\right)^2$"
+        "question": "Prove that - $\\frac{\\sec \theta + \tan \theta}{\\sec \theta - \tan \theta} = \\left(\\frac{1 + \\sin \theta}{\\cos \theta}\right)^2$",
+        "prashna": "सिद्ध करें कि - $\\frac{\\sec \theta + \tan \theta}{\\sec \theta - \tan \theta} = \\left(\\frac{1 + \\sin \theta}{\\cos \theta}\right)^2$"
     },
     {
         "id": "short_15",
@@ -1276,8 +1276,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "Evaluate the following - $\frac{5\\sin^2 30^\\circ + \\cos^2 45^\\circ + 4\tan^2 60^\\circ}, {2\\sin 30^\\circ \\cos 60^\\circ + \tan 45^\\circ}$",
-        "prashna": "निम्न का मान ज्ञात करें - $\frac{5\\sin^2 30^\\circ + \\cos^2 45^\\circ + 4\tan^2 60^\\circ}, {2\\sin 30^\\circ \\cos 60^\\circ + \tan 45^\\circ}$"
+        "question": "Evaluate the following - $\\frac{5\\sin^2 30^\\circ + \\cos^2 45^\\circ + 4\tan^2 60^\\circ}{2\\sin 30^\\circ \\cos 60^\\circ + \tan 45^\\circ}$",
+        "prashna": "निम्न का मान ज्ञात करें - $\\frac{5\\sin^2 30^\\circ + \\cos^2 45^\\circ + 4\tan^2 60^\\circ}{2\\sin 30^\\circ \\cos 60^\\circ + \tan 45^\\circ}$"
     },
     {
         "id": "short_19",

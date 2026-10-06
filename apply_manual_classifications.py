@@ -1,13 +1,15 @@
 """
 Apply manual classifications exported from manual_review.html back into {subject}_data_jevified/
-and optionally re-run run_final_merge_split.py.
+and automatically re-run run_final_merge_split.py.
 
 Usage:
-    python apply_manual_classifications.py <path_to_export.json> [--no-split]
+    python apply_manual_classifications.py [path_to_export.json] [--no-split]
+    (If no path is provided, automatically uses manual_classifications.json)
 """
 
 import os
 import sys
+import glob
 import json
 import argparse
 import subprocess
@@ -16,19 +18,35 @@ sys.stdout.reconfigure(encoding='utf-8')
 sys.stderr.reconfigure(encoding='utf-8')
 
 import chapter_config
+from jev_utils import apply_hindi_forced_chapter, apply_english_forced_chapter
+
+
+def find_default_file():
+    # 1. Check exact manual_classifications.json
+    if os.path.exists("manual_classifications.json"):
+        return "manual_classifications.json"
+    # 2. Check latest manual_classifications_*.json
+    pattern = sorted(glob.glob("manual_classifications_*.json"))
+    if pattern:
+        return pattern[-1]
+    return None
 
 
 def main():
     parser = argparse.ArgumentParser(description="Apply manual classifications to jevified files.")
-    parser.add_argument("export_file", help="Path to exported manual classifications JSON file")
+    parser.add_argument("export_file", nargs="?", default=None, help="Path to exported manual classifications JSON file (optional)")
     parser.add_argument("--no-split", action="store_true", help="Skip running run_final_merge_split.py")
     args = parser.parse_args()
 
-    if not os.path.exists(args.export_file):
-        print(f"❌ File not found: {args.export_file}")
+    export_path = args.export_file or find_default_file()
+
+    if not export_path or not os.path.exists(export_path):
+        print(f"❌ No classification file found! Expected 'manual_classifications.json' or specify file path.")
         sys.exit(1)
 
-    with open(args.export_file, "r", encoding="utf-8") as f:
+    print(f"📖 Reading classifications from: {export_path}")
+
+    with open(export_path, "r", encoding="utf-8") as f:
         export_data = json.load(f)
 
     classifications = export_data.get("classifications", [])
@@ -86,6 +104,12 @@ def main():
             q["chapter_name"] = new_chapter_name or "UNCLASSIFIED"
             q["confidence"] = 1.0  # Manually verified
             q["raw_choice"] = f"manual_review::{new_chapter_name}"
+
+            # Hard rules for composition type chapters
+            if subj == "hindi":
+                apply_hindi_forced_chapter(q)
+            elif subj == "english":
+                apply_english_forced_chapter(q)
 
             applied_count += 1
 

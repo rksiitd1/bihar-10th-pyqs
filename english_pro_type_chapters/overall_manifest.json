@@ -274,7 +274,7 @@
   },
   {
     "type": "short",
-    "total_chapters": 32,
+    "total_chapters": 30,
     "total_items": 176,
     "chapters": [
       {
@@ -318,20 +318,6 @@
         "file": "Grammar/chapter-18.json",
         "total_items": 6,
         "years": 4
-      },
-      {
-        "section": "Grammar",
-        "chapter": "19",
-        "file": "Grammar/chapter-19.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "section": "Grammar",
-        "chapter": "20",
-        "file": "Grammar/chapter-20.json",
-        "total_items": 15,
-        "years": 7
       },
       {
         "section": "Panorama",
@@ -498,30 +484,16 @@
         "section": "Unclassified",
         "chapter": "UNCLASSIFIED",
         "file": "Unclassified/chapter-unclassified.json",
-        "total_items": 33,
-        "years": 14
+        "total_items": 49,
+        "years": 15
       }
     ]
   },
   {
     "type": "long",
-    "total_chapters": 11,
+    "total_chapters": 9,
     "total_items": 49,
     "chapters": [
-      {
-        "section": "Grammar",
-        "chapter": "19",
-        "file": "Grammar/chapter-19.json",
-        "total_items": 8,
-        "years": 4
-      },
-      {
-        "section": "Grammar",
-        "chapter": "20",
-        "file": "Grammar/chapter-20.json",
-        "total_items": 24,
-        "years": 8
-      },
       {
         "section": "Panorama",
         "chapter": "2",
@@ -582,63 +554,35 @@
         "section": "Unclassified",
         "chapter": "UNCLASSIFIED",
         "file": "Unclassified/chapter-unclassified.json",
-        "total_items": 4,
-        "years": 3
+        "total_items": 36,
+        "years": 8
       }
     ]
   },
   {
-    "type": "comprehension",
-    "total_chapters": 15,
-    "total_items": 128,
+    "type": "passage",
+    "total_chapters": 1,
+    "total_items": 92,
+    "chapters": [
+      {
+        "section": "Grammar",
+        "chapter": "21",
+        "file": "Grammar/chapter-21.json",
+        "total_items": 92,
+        "years": 15
+      }
+    ]
+  },
+  {
+    "type": "poem",
+    "total_chapters": 7,
+    "total_items": 36,
     "chapters": [
       {
         "section": "Grammar",
         "chapter": "18",
         "file": "Grammar/chapter-18.json",
-        "total_items": 5,
-        "years": 1
-      },
-      {
-        "section": "Grammar",
-        "chapter": "20",
-        "file": "Grammar/chapter-20.json",
-        "total_items": 24,
-        "years": 13
-      },
-      {
-        "section": "Panorama",
-        "chapter": "1",
-        "file": "Panorama/chapter-1.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "section": "Panorama",
-        "chapter": "2",
-        "file": "Panorama/chapter-2.json",
-        "total_items": 4,
-        "years": 3
-      },
-      {
-        "section": "Panorama",
-        "chapter": "3",
-        "file": "Panorama/chapter-3.json",
         "total_items": 2,
-        "years": 1
-      },
-      {
-        "section": "Panorama",
-        "chapter": "5",
-        "file": "Panorama/chapter-5.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "section": "Panorama",
-        "chapter": "6",
-        "file": "Panorama/chapter-6.json",
-        "total_items": 1,
         "years": 1
       },
       {
@@ -677,74 +621,39 @@
         "years": 1
       },
       {
-        "section": "Panorama_Reader",
-        "chapter": "1",
-        "file": "Panorama_Reader/chapter-1.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "section": "Panorama_Reader",
-        "chapter": "2",
-        "file": "Panorama_Reader/chapter-2.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
         "section": "Unclassified",
         "chapter": "UNCLASSIFIED",
         "file": "Unclassified/chapter-unclassified.json",
-        "total_items": 76,
-        "years": 14
+        "total_items": 22,
+        "years": 8
       }
     ]
   },
   {
     "type": "letter_writing",
-    "total_chapters": 2,
-    "total_items": 106,
+    "total_chapters": 1,
+    "total_items": 107,
     "chapters": [
       {
         "section": "Grammar",
         "chapter": "19",
         "file": "Grammar/chapter-19.json",
-        "total_items": 83,
+        "total_items": 107,
         "years": 15
-      },
-      {
-        "section": "Grammar",
-        "chapter": "20",
-        "file": "Grammar/chapter-20.json",
-        "total_items": 23,
-        "years": 11
       }
     ]
   },
   {
     "type": "essay",
-    "total_chapters": 3,
+    "total_chapters": 1,
     "total_items": 42,
     "chapters": [
       {
         "section": "Grammar",
-        "chapter": "19",
-        "file": "Grammar/chapter-19.json",
-        "total_items": 1,
-        "years": 1
-      },
-      {
-        "section": "Grammar",
         "chapter": "20",
         "file": "Grammar/chapter-20.json",
-        "total_items": 40,
+        "total_items": 42,
         "years": 14
-      },
-      {
-        "section": "Unclassified",
-        "chapter": "UNCLASSIFIED",
-        "file": "Unclassified/chapter-unclassified.json",
-        "total_items": 1,
-        "years": 1
       }
     ]
   },

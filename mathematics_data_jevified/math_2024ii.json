@@ -188,13 +188,13 @@
             "A": "0.5",
             "B": "1.9",
             "C": "80\\%",
-            "D": "\frac{3}, {4}"
+            "D": "\\frac{3}{4}"
         },
         "vikalpa": {
             "A": "0.5",
             "B": "1.9",
             "C": "80\\%",
-            "D": "\frac{3}, {4}"
+            "D": "\\frac{3}{4}"
         }
     },
     {
@@ -207,16 +207,16 @@
         "question": "In a throw of one die the probability of occurrence of a number 5 or less than 5 is",
         "prashna": "एक पासे की एक फेंक में 5 या 5 से कम अंक प्राप्त होने की प्रायिकता है",
         "options": {
-            "A": "\frac{1}, {6}",
-            "B": "\frac{1}, {5}",
-            "C": "\frac{5}, {6}",
-            "D": "\frac{1}, {2}"
+            "A": "\\frac{1}{6}",
+            "B": "\\frac{1}{5}",
+            "C": "\\frac{5}{6}",
+            "D": "\\frac{1}{2}"
         },
         "vikalpa": {
-            "A": "\frac{1}, {6}",
-            "B": "\frac{1}, {5}",
-            "C": "\frac{5}, {6}",
-            "D": "\frac{1}, {2}"
+            "A": "\\frac{1}{6}",
+            "B": "\\frac{1}{5}",
+            "C": "\\frac{5}{6}",
+            "D": "\\frac{1}{2}"
         }
     },
     {
@@ -468,8 +468,8 @@
         "chapter_name": "Pair of Linear Equations in Two Variables",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "The pair of linear equations $\frac{3}, {2}x + \frac{5}, {3}y = 7$ and $9x - 10y = 14$ is",
-        "prashna": "रैखिक समीकरण युग्म $\frac{3}, {2}x + \frac{5}, {3}y = 7$ एवं $9x - 10y = 14$ हैं",
+        "question": "The pair of linear equations $\\frac{3}{2}x + \\frac{5}{3}y = 7$ and $9x - 10y = 14$ is",
+        "prashna": "रैखिक समीकरण युग्म $\\frac{3}{2}x + \\frac{5}{3}y = 7$ एवं $9x - 10y = 14$ हैं",
         "options": {
             "A": "consistent",
             "B": "inconsistent",
@@ -537,13 +537,13 @@
         "question": "If straight lines $4x + py = 16$ and $2x + 9y = 15$ are parallel then what is the value of $p$ ?",
         "prashna": "यदि सरल रेखाएँ $4x + py = 16$ तथा $2x + 9y = 15$ समांतर हैं तो $p$ का मान क्या होगा ?",
         "options": {
-            "A": "\frac{1}, {3}",
+            "A": "\\frac{1}{3}",
             "B": "3",
             "C": "18",
             "D": "-3"
         },
         "vikalpa": {
-            "A": "\frac{1}, {3}",
+            "A": "\\frac{1}{3}",
             "B": "3",
             "C": "18",
             "D": "-3"
@@ -559,14 +559,14 @@
         "question": "Which of the following is not an A.P. ?",
         "prashna": "निम्नांकित में कौन समांतर श्रेढ़ी नहीं है ?",
         "options": {
-            "A": "5, 4\frac{1}, {2}, 4, 3\frac{1}, {2}, ...",
-            "B": "-1, \frac{-5}, {6}, \frac{-2}, {3}, \frac{-1}, {2}, ...",
+            "A": "5, 4\\frac{1}{2}, 4, 3\\frac{1}{2}, ...",
+            "B": "-1, \\frac{-5}{6}, \\frac{-2}{3}, \\frac{-1}{2}, ...",
             "C": "8, 14, 20, 26, ...",
             "D": "4, 10, 15, 20, ..."
         },
         "vikalpa": {
-            "A": "5, 4\frac{1}, {2}, 4, 3\frac{1}, {2}, ...",
-            "B": "-1, \frac{-5}, {6}, \frac{-2}, {3}, \frac{-1}, {2}, ...",
+            "A": "5, 4\\frac{1}{2}, 4, 3\\frac{1}{2}, ...",
+            "B": "-1, \\frac{-5}{6}, \\frac{-2}{3}, \\frac{-1}{2}, ...",
             "C": "8, 14, 20, 26, ...",
             "D": "4, 10, 15, 20, ..."
         }
@@ -693,13 +693,13 @@
         "options": {
             "A": "1",
             "B": "\\sqrt{3}",
-            "C": "\frac{1}, {\\sqrt{3}}",
+            "C": "\\frac{1}{\\sqrt{3}}",
             "D": "3"
         },
         "vikalpa": {
             "A": "1",
             "B": "\\sqrt{3}",
-            "C": "\frac{1}, {\\sqrt{3}}",
+            "C": "\\frac{1}{\\sqrt{3}}",
             "D": "3"
         }
     },
@@ -735,16 +735,16 @@
         "question": "If $\\sin \theta = \\sqrt{2} \\cos \theta$ then the value of $\\sec \theta$ is",
         "prashna": "यदि $\\sin \theta = \\sqrt{2} \\cos \theta$ तो $\\sec \theta$ का मान है",
         "options": {
-            "A": "\frac{1}, {\\sqrt{3}}",
+            "A": "\\frac{1}{\\sqrt{3}}",
             "B": "\\sqrt{3}",
-            "C": "\frac{\\sqrt{3}}, {2}",
-            "D": "\frac{2}, {\\sqrt{3}}"
+            "C": "\\frac{\\sqrt{3}}, {2}",
+            "D": "\\frac{2}{\\sqrt{3}}"
         },
         "vikalpa": {
-            "A": "\frac{1}, {\\sqrt{3}}",
+            "A": "\\frac{1}{\\sqrt{3}}",
             "B": "\\sqrt{3}",
-            "C": "\frac{\\sqrt{3}}, {2}",
-            "D": "\frac{2}, {\\sqrt{3}}"
+            "C": "\\frac{\\sqrt{3}}, {2}",
+            "D": "\\frac{2}{\\sqrt{3}}"
         }
     },
     {
@@ -760,13 +760,13 @@
             "A": "3",
             "B": "1",
             "C": "9",
-            "D": "\frac{1}, {3}"
+            "D": "\\frac{1}{3}"
         },
         "vikalpa": {
             "A": "3",
             "B": "1",
             "C": "9",
-            "D": "\frac{1}, {3}"
+            "D": "\\frac{1}{3}"
         }
     },
     {
@@ -776,19 +776,19 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If A, B, C are angles of a triangle ABC, then the value of $\\csc \\left(\frac{A+B}, {2}\right)$ is",
-        "prashna": "यदि A, B, C किसी त्रिभुज ABC के कोण हों तो $\\csc \\left(\frac{A+B}, {2}\right)$ का मान है",
+        "question": "If A, B, C are angles of a triangle ABC, then the value of $\\csc \\left(\\frac{A+B}{2}\right)$ is",
+        "prashna": "यदि A, B, C किसी त्रिभुज ABC के कोण हों तो $\\csc \\left(\\frac{A+B}{2}\right)$ का मान है",
         "options": {
-            "A": "\tan \frac{C}, {2}",
-            "B": "\\sec \frac{C}, {2}",
-            "C": "\\cot \frac{C}, {2}",
-            "D": "\\sin \frac{C}, {2}"
+            "A": "\tan \\frac{C}{2}",
+            "B": "\\sec \\frac{C}{2}",
+            "C": "\\cot \\frac{C}{2}",
+            "D": "\\sin \\frac{C}{2}"
         },
         "vikalpa": {
-            "A": "\tan \frac{C}, {2}",
-            "B": "\\sec \frac{C}, {2}",
-            "C": "\\cot \frac{C}, {2}",
-            "D": "\\sin \frac{C}, {2}"
+            "A": "\tan \\frac{C}{2}",
+            "B": "\\sec \\frac{C}{2}",
+            "C": "\\cot \\frac{C}{2}",
+            "D": "\\sin \\frac{C}{2}"
         }
     },
     {
@@ -886,8 +886,8 @@
         "chapter_name": "Polynomials",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $p(y) = (y+1)(y^3+2)(y^4+6)$ and $g(y) = y^2 - 3y + 1$ then the degree of $\frac{p(y)}, {g(y)}$ is",
-        "prashna": "यदि $p(y) = (y+1)(y^3+2)(y^4+6)$ एवं $g(y) = y^2 - 3y + 1$ तो $\frac{p(y)}, {g(y)}$ का घात होगा",
+        "question": "If $p(y) = (y+1)(y^3+2)(y^4+6)$ and $g(y) = y^2 - 3y + 1$ then the degree of $\\frac{p(y)}{g(y)}$ is",
+        "prashna": "यदि $p(y) = (y+1)(y^3+2)(y^4+6)$ एवं $g(y) = y^2 - 3y + 1$ तो $\\frac{p(y)}{g(y)}$ का घात होगा",
         "options": {
             "A": "6",
             "B": "3",
@@ -913,13 +913,13 @@
         "options": {
             "A": "(x+1)(x-1) = x^2 - 4x^3",
             "B": "(x+4)^2 = 3x+4",
-            "C": "4x + \frac{1}, {2x} = 8x^2",
+            "C": "4x + \\frac{1}{2x} = 8x^2",
             "D": "(2x^2+4) = (5+x)(2x-3)"
         },
         "vikalpa": {
             "A": "(x+1)(x-1) = x^2 - 4x^3",
             "B": "(x+4)^2 = 3x+4",
-            "C": "4x + \frac{1}, {2x} = 8x^2",
+            "C": "4x + \\frac{1}{2x} = 8x^2",
             "D": "(2x^2+4) = (5+x)(2x-3)"
         }
     },
@@ -996,8 +996,8 @@
         "chapter_name": "Quadratic Equations",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "What is the nature of the roots of the quadratic equation $\frac{4}, {3}x^2 - 2x + \frac{3}, {4} = 0$ ?",
-        "prashna": "द्विघात समीकरण $\frac{4}, {3}x^2 - 2x + \frac{3}, {4} = 0$ के मूलों की प्रकृति क्या होगी ?",
+        "question": "What is the nature of the roots of the quadratic equation $\\frac{4}{3}x^2 - 2x + \\frac{3}{4} = 0$ ?",
+        "prashna": "द्विघात समीकरण $\\frac{4}{3}x^2 - 2x + \\frac{3}{4} = 0$ के मूलों की प्रकृति क्या होगी ?",
         "options": {
             "A": "Real and unequal",
             "B": "Real and equal",
@@ -1040,8 +1040,8 @@
         "chapter_name": "Polynomials",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\\alpha$ and $\beta$ are the roots of the quadratic equation $x^2 - 8x + 5 = 0$ then the value of $\\alpha^2 + \beta^2$ is",
-        "prashna": "यदि द्विघात समीकरण $x^2 - 8x + 5 = 0$ के मूल $\\alpha$ एवं $\beta$ हों तो $\\alpha^2 + \beta^2$ का मान होगा",
+        "question": "If $\\alpha$ and $\\beta$ are the roots of the quadratic equation $x^2 - 8x + 5 = 0$ then the value of $\\alpha^2 + \\beta^2$ is",
+        "prashna": "यदि द्विघात समीकरण $x^2 - 8x + 5 = 0$ के मूल $\\alpha$ एवं $\\beta$ हों तो $\\alpha^2 + \\beta^2$ का मान होगा",
         "options": {
             "A": "44",
             "B": "54",
@@ -1065,16 +1065,16 @@
         "question": "The roots of the quadratic equation $ax^2 - bx - c = 0, a \neq 0$ are",
         "prashna": "द्विघात समीकरण $ax^2 - bx - c = 0, a \neq 0$ के मूल हैं",
         "options": {
-            "A": "\frac{-b \\pm \\sqrt{b^2 - 4ac}}, {2a}",
-            "B": "\frac{b \\pm \\sqrt{b^2 + 4ac}}, {2a}",
-            "C": "\frac{-b \\pm \\sqrt{b^2 + 4ac}}, {2a}",
-            "D": "\frac{b \\pm \\sqrt{b^2 - 4ac}}, {2a}"
+            "A": "\\frac{-b \\pm \\sqrt{b^2 - 4ac}}, {2a}",
+            "B": "\\frac{b \\pm \\sqrt{b^2 + 4ac}}, {2a}",
+            "C": "\\frac{-b \\pm \\sqrt{b^2 + 4ac}}, {2a}",
+            "D": "\\frac{b \\pm \\sqrt{b^2 - 4ac}}, {2a}"
         },
         "vikalpa": {
-            "A": "\frac{-b \\pm \\sqrt{b^2 - 4ac}}, {2a}",
-            "B": "\frac{b \\pm \\sqrt{b^2 + 4ac}}, {2a}",
-            "C": "\frac{-b \\pm \\sqrt{b^2 + 4ac}}, {2a}",
-            "D": "\frac{b \\pm \\sqrt{b^2 - 4ac}}, {2a}"
+            "A": "\\frac{-b \\pm \\sqrt{b^2 - 4ac}}, {2a}",
+            "B": "\\frac{b \\pm \\sqrt{b^2 + 4ac}}, {2a}",
+            "C": "\\frac{-b \\pm \\sqrt{b^2 + 4ac}}, {2a}",
+            "D": "\\frac{b \\pm \\sqrt{b^2 - 4ac}}, {2a}"
         }
     },
     {
@@ -1153,16 +1153,16 @@
         "question": "The simplest form of $0.\\overline{57}$ is",
         "prashna": "$0.\\overline{57}$ का सरलतम रूप है",
         "options": {
-            "A": "\frac{19}, {33}",
-            "B": "\frac{57}, {50}",
-            "C": "\frac{57}, {100}",
-            "D": "\frac{19}, {32}"
+            "A": "\\frac{19}{33}",
+            "B": "\\frac{57}{50}",
+            "C": "\\frac{57}{100}",
+            "D": "\\frac{19}{32}"
         },
         "vikalpa": {
-            "A": "\frac{19}, {33}",
-            "B": "\frac{57}, {50}",
-            "C": "\frac{57}, {100}",
-            "D": "\frac{19}, {32}"
+            "A": "\\frac{19}{33}",
+            "B": "\\frac{57}{50}",
+            "C": "\\frac{57}{100}",
+            "D": "\\frac{19}{32}"
         }
     },
     {
@@ -1216,8 +1216,8 @@
         "chapter_name": "Real Numbers",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "In $\frac{p}, {q}$ form of $0.375$, the form of $q$ is",
-        "prashna": "$0.375$ के $\frac{p}, {q}$ रूप में $q$ का रूप है",
+        "question": "In $\\frac{p}{q}$ form of $0.375$, the form of $q$ is",
+        "prashna": "$0.375$ के $\\frac{p}{q}$ रूप में $q$ का रूप है",
         "options": {
             "A": "2^3 \times 5^0",
             "B": "2^3 \times 5^2",
@@ -1307,16 +1307,16 @@
         "question": "Which of the following has terminating decimal expansion ?",
         "prashna": "निम्नलिखित में किसका दशमलव प्रसार शांत है ?",
         "options": {
-            "A": "\frac{11}, {700}",
-            "B": "\frac{91}, {2100}",
-            "C": "\frac{343}, {2^3 \times 5^3 \times 7^3}",
-            "D": "\frac{15}, {2^5 \times 3^2}"
+            "A": "\\frac{11}{700}",
+            "B": "\\frac{91}{2100}",
+            "C": "\\frac{343}{2^3 \times 5^3 \times 7^3}",
+            "D": "\\frac{15}{2^5 \times 3^2}"
         },
         "vikalpa": {
-            "A": "\frac{11}, {700}",
-            "B": "\frac{91}, {2100}",
-            "C": "\frac{343}, {2^3 \times 5^3 \times 7^3}",
-            "D": "\frac{15}, {2^5 \times 3^2}"
+            "A": "\\frac{11}{700}",
+            "B": "\\frac{91}{2100}",
+            "C": "\\frac{343}{2^3 \times 5^3 \times 7^3}",
+            "D": "\\frac{15}{2^5 \times 3^2}"
         }
     },
     {
@@ -1414,8 +1414,8 @@
         "chapter_name": "Triangles",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "In triangle ABC, DE $\\parallel$ BC such that $\frac{AD}, {DB} = \frac{4}, {x-4}$ and $\frac{AE}, {EC} = \frac{8}, {3x-19}$ then the value of $x$ is",
-        "prashna": "त्रिभुज ABC में DE $\\parallel$ BC इस प्रकार है कि $\frac{AD}, {DB} = \frac{4}, {x-4}$ तथा $\frac{AE}, {EC} = \frac{8}, {3x-19}$ तो $x$ का मान है",
+        "question": "In triangle ABC, DE $\\parallel$ BC such that $\\frac{AD}{DB} = \\frac{4}{x-4}$ and $\\frac{AE}{EC} = \\frac{8}{3x-19}$ then the value of $x$ is",
+        "prashna": "त्रिभुज ABC में DE $\\parallel$ BC इस प्रकार है कि $\\frac{AD}{DB} = \\frac{4}{x-4}$ तथा $\\frac{AE}{EC} = \\frac{8}{3x-19}$ तो $x$ का मान है",
         "options": {
             "A": "9",
             "B": "10",
@@ -1480,8 +1480,8 @@
         "chapter_name": "Triangles",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If in $\\Delta ABC$ and $\\Delta DEF$, $\frac{AB}, {DE} = \frac{BC}, {EF} = \frac{AC}, {DF} = \frac{5}, {7}$, then the ratio of the areas of $\\Delta ABC$ and $\\Delta DEF$ is",
-        "prashna": "यदि $\\Delta ABC$ तथा $\\Delta DEF$ में, $\frac{AB}, {DE} = \frac{BC}, {EF} = \frac{AC}, {DF} = \frac{5}, {7}$ हो तो $\\Delta ABC$ तथा $\\Delta DEF$ के क्षेत्रफलों का अनुपात होगा",
+        "question": "If in $\\Delta ABC$ and $\\Delta DEF$, $\\frac{AB}{DE} = \\frac{BC}{EF} = \\frac{AC}{DF} = \\frac{5}{7}$, then the ratio of the areas of $\\Delta ABC$ and $\\Delta DEF$ is",
+        "prashna": "यदि $\\Delta ABC$ तथा $\\Delta DEF$ में, $\\frac{AB}{DE} = \\frac{BC}{EF} = \\frac{AC}{DF} = \\frac{5}{7}$ हो तो $\\Delta ABC$ तथा $\\Delta DEF$ के क्षेत्रफलों का अनुपात होगा",
         "options": {
             "A": "5 : 7",
             "B": "25 : 49",
@@ -1502,8 +1502,8 @@
         "chapter_name": "Triangles",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "$\\Delta ABC$ and $\\Delta PQR$ are similar triangles. If AD and PS are bisectors of $\\angle A$ and $\\angle P$ respectively and AD = 6.5 cm, PS = 5.2 cm then $\frac{\text{area }(\\Delta ABC)}, {\text{area }(\\Delta PQR)} =$",
-        "prashna": "$\\Delta ABC$ एवं $\\Delta PQR$ समरूप त्रिभुज हैं। यदि AD और PS क्रमशः $\\angle A$ एवं $\\angle P$ के अर्द्धक हैं तथा AD = 6.5 सेमी एवं PS = 5.2 सेमी तो $\frac{\text{क्षेत्रफल }(\\Delta ABC)}, {\text{क्षेत्रफल }(\\Delta PQR)} =$",
+        "question": "$\\Delta ABC$ and $\\Delta PQR$ are similar triangles. If AD and PS are bisectors of $\\angle A$ and $\\angle P$ respectively and AD = 6.5 cm, PS = 5.2 cm then $\\frac{\text{area }(\\Delta ABC)}, {\text{area }(\\Delta PQR)} =$",
+        "prashna": "$\\Delta ABC$ एवं $\\Delta PQR$ समरूप त्रिभुज हैं। यदि AD और PS क्रमशः $\\angle A$ एवं $\\angle P$ के अर्द्धक हैं तथा AD = 6.5 सेमी एवं PS = 5.2 सेमी तो $\\frac{\text{क्षेत्रफल }(\\Delta ABC)}, {\text{क्षेत्रफल }(\\Delta PQR)} =$",
         "options": {
             "A": "49 : 16",
             "B": "25 : 16",
@@ -1528,15 +1528,15 @@
         "prashna": "एक समबाहु त्रिभुज की एक भुजा $a$ है तो इसकी ऊँचाई होगी",
         "options": {
             "A": "a\\sqrt{3}",
-            "B": "\frac{a}, {2}\\sqrt{3}",
+            "B": "\\frac{a}{2}\\sqrt{3}",
             "C": "2a\\sqrt{3}",
-            "D": "\frac{a}, {\\sqrt{3}}"
+            "D": "\\frac{a}{\\sqrt{3}}"
         },
         "vikalpa": {
             "A": "a\\sqrt{3}",
-            "B": "\frac{a}, {2}\\sqrt{3}",
+            "B": "\\frac{a}{2}\\sqrt{3}",
             "C": "2a\\sqrt{3}",
-            "D": "\frac{a}, {\\sqrt{3}}"
+            "D": "\\frac{a}{\\sqrt{3}}"
         }
     },
     {
@@ -1656,8 +1656,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\\sin \theta = \frac{\\sqrt{3}}, {2}, 0 < \theta < 90^\\circ$ then $\tan^2 \theta - 1 =$",
-        "prashna": "यदि $\\sin \theta = \frac{\\sqrt{3}}, {2}, 0 < \theta < 90^\\circ$ तो $\tan^2 \theta - 1 =$",
+        "question": "If $\\sin \theta = \\frac{\\sqrt{3}}, {2}, 0 < \theta < 90^\\circ$ then $\tan^2 \theta - 1 =$",
+        "prashna": "यदि $\\sin \theta = \\frac{\\sqrt{3}}, {2}, 0 < \theta < 90^\\circ$ तो $\tan^2 \theta - 1 =$",
         "options": {
             "A": "1",
             "B": "0",
@@ -1683,13 +1683,13 @@
         "options": {
             "A": "9",
             "B": "10",
-            "C": "\frac{1}, {9}",
+            "C": "\\frac{1}{9}",
             "D": "0"
         },
         "vikalpa": {
             "A": "9",
             "B": "10",
-            "C": "\frac{1}, {9}",
+            "C": "\\frac{1}{9}",
             "D": "0"
         }
     },
@@ -1700,19 +1700,19 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\\sin \theta = \frac{a}, {b}$ then the value of $\\cos \theta$ is",
-        "prashna": "यदि $\\sin \theta = \frac{a}, {b}$ तो $\\cos \theta$ का मान है",
+        "question": "If $\\sin \theta = \\frac{a}{b}$ then the value of $\\cos \theta$ is",
+        "prashna": "यदि $\\sin \theta = \\frac{a}{b}$ तो $\\cos \theta$ का मान है",
         "options": {
-            "A": "\frac{b}, {\\sqrt{b^2 - a^2}}",
-            "B": "\frac{\\sqrt{b^2 - a^2}}, {b}",
-            "C": "\frac{a}, {\\sqrt{b^2 - a^2}}",
-            "D": "\frac{b}, {a}"
+            "A": "\\frac{b}{\\sqrt{b^2 - a^2}}",
+            "B": "\\frac{\\sqrt{b^2 - a^2}}, {b}",
+            "C": "\\frac{a}{\\sqrt{b^2 - a^2}}",
+            "D": "\\frac{b}{a}"
         },
         "vikalpa": {
-            "A": "\frac{b}, {\\sqrt{b^2 - a^2}}",
-            "B": "\frac{\\sqrt{b^2 - a^2}}, {b}",
-            "C": "\frac{a}, {\\sqrt{b^2 - a^2}}",
-            "D": "\frac{b}, {a}"
+            "A": "\\frac{b}{\\sqrt{b^2 - a^2}}",
+            "B": "\\frac{\\sqrt{b^2 - a^2}}, {b}",
+            "C": "\\frac{a}{\\sqrt{b^2 - a^2}}",
+            "D": "\\frac{b}{a}"
         }
     },
     {
@@ -1722,19 +1722,19 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\\sec \theta = \frac{13}, {12}$ then $\\cot \theta =$",
-        "prashna": "यदि $\\sec \theta = \frac{13}, {12}$ तो $\\cot \theta =$",
+        "question": "If $\\sec \theta = \\frac{13}{12}$ then $\\cot \theta =$",
+        "prashna": "यदि $\\sec \theta = \\frac{13}{12}$ तो $\\cot \theta =$",
         "options": {
-            "A": "\frac{5}, {12}",
-            "B": "\frac{5}, {13}",
-            "C": "\frac{12}, {5}",
-            "D": "\frac{13}, {5}"
+            "A": "\\frac{5}{12}",
+            "B": "\\frac{5}{13}",
+            "C": "\\frac{12}{5}",
+            "D": "\\frac{13}{5}"
         },
         "vikalpa": {
-            "A": "\frac{5}, {12}",
-            "B": "\frac{5}, {13}",
-            "C": "\frac{12}, {5}",
-            "D": "\frac{13}, {5}"
+            "A": "\\frac{5}{12}",
+            "B": "\\frac{5}{13}",
+            "C": "\\frac{12}{5}",
+            "D": "\\frac{13}{5}"
         }
     },
     {
@@ -1772,13 +1772,13 @@
             "A": "\\sqrt{3}x^2 - 5\\sqrt{2}x + 3",
             "B": "3x^2 - 4x + \\sqrt{5}",
             "C": "x + 2\\sqrt{x}",
-            "D": "\frac{1}, {5}x^3 - 3x^2 + 2"
+            "D": "\\frac{1}{5}x^3 - 3x^2 + 2"
         },
         "vikalpa": {
             "A": "\\sqrt{3}x^2 - 5\\sqrt{2}x + 3",
             "B": "3x^2 - 4x + \\sqrt{5}",
             "C": "x + 2\\sqrt{x}",
-            "D": "\frac{1}, {5}x^3 - 3x^2 + 2"
+            "D": "\\frac{1}{5}x^3 - 3x^2 + 2"
         }
     },
     {
@@ -1876,8 +1876,8 @@
         "chapter_name": "Polynomials",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "Which of the following quadratic polynomials has zeroes $\frac{3}, {5}$ and $-\frac{1}, {2}$ ?",
-        "prashna": "निम्नलिखित में किस द्विघात बहुपद के शून्यक $\frac{3}, {5}$ एवं $-\frac{1}, {2}$ हैं ?",
+        "question": "Which of the following quadratic polynomials has zeroes $\\frac{3}{5}$ and $-\\frac{1}{2}$ ?",
+        "prashna": "निम्नलिखित में किस द्विघात बहुपद के शून्यक $\\frac{3}{5}$ एवं $-\\frac{1}{2}$ हैं ?",
         "options": {
             "A": "10x^2 + x + 3",
             "B": "10x^2 + x - 3",
@@ -1898,8 +1898,8 @@
         "chapter_name": "Polynomials",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\\alpha$ and $\beta$ are the zeroes of the polynomial $p(x) = x^2 - 3x - 4$ then the value of $\frac{4}, {3}(\\alpha + \beta)$ is",
-        "prashna": "यदि बहुपद $p(x) = x^2 - 3x - 4$ के शून्यक $\\alpha$ एवं $\beta$ हों तो $\frac{4}, {3}(\\alpha + \beta)$ का मान होगा",
+        "question": "If $\\alpha$ and $\\beta$ are the zeroes of the polynomial $p(x) = x^2 - 3x - 4$ then the value of $\\frac{4}{3}(\\alpha + \\beta)$ is",
+        "prashna": "यदि बहुपद $p(x) = x^2 - 3x - 4$ के शून्यक $\\alpha$ एवं $\\beta$ हों तो $\\frac{4}{3}(\\alpha + \\beta)$ का मान होगा",
         "options": {
             "A": "4",
             "B": "3",
@@ -1925,14 +1925,14 @@
         "options": {
             "A": "x - 5",
             "B": "x + 5",
-            "C": "\frac{1}, {x-5}",
-            "D": "\frac{1}, {x+5}"
+            "C": "\\frac{1}{x-5}",
+            "D": "\\frac{1}{x+5}"
         },
         "vikalpa": {
             "A": "x - 5",
             "B": "x + 5",
-            "C": "\frac{1}, {x-5}",
-            "D": "\frac{1}, {x+5}"
+            "C": "\\frac{1}{x-5}",
+            "D": "\\frac{1}{x+5}"
         }
     },
     {
@@ -1964,8 +1964,8 @@
         "chapter_name": "Polynomials",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\\alpha$ and $\beta$ are the zeroes of the polynomial $x^2 + 5x + 8$ then the value of $\\alpha^2 + \beta^2 + 2\\alpha\beta$ is",
-        "prashna": "यदि बहुपद $x^2 + 5x + 8$ के शून्यक $\\alpha$ एवं $\beta$ हों तो $\\alpha^2 + \beta^2 + 2\\alpha\beta$ का मान होगा",
+        "question": "If $\\alpha$ and $\\beta$ are the zeroes of the polynomial $x^2 + 5x + 8$ then the value of $\\alpha^2 + \\beta^2 + 2\\alpha\\beta$ is",
+        "prashna": "यदि बहुपद $x^2 + 5x + 8$ के शून्यक $\\alpha$ एवं $\\beta$ हों तो $\\alpha^2 + \\beta^2 + 2\\alpha\\beta$ का मान होगा",
         "options": {
             "A": "25",
             "B": "5",
@@ -2099,16 +2099,16 @@
         "question": "If O is the centre and R is the radius of a circle and $\\angle AOB = \theta$ then the length of arc AB is",
         "prashna": "यदि केन्द्र O और त्रिज्या R वाले वृत्त में $\\angle AOB = \theta$ तो चाप AB की लम्बाई होगी",
         "options": {
-            "A": "\frac{2\\pi R \theta}, {180}",
-            "B": "\frac{2\\pi R \theta}, {360}",
-            "C": "\frac{\\pi R^2 \theta}, {180}",
-            "D": "\frac{\\pi R^2 \theta}, {360}"
+            "A": "\\frac{2\\pi R \theta}{180}",
+            "B": "\\frac{2\\pi R \theta}{360}",
+            "C": "\\frac{\\pi R^2 \theta}{180}",
+            "D": "\\frac{\\pi R^2 \theta}{360}"
         },
         "vikalpa": {
-            "A": "\frac{2\\pi R \theta}, {180}",
-            "B": "\frac{2\\pi R \theta}, {360}",
-            "C": "\frac{\\pi R^2 \theta}, {180}",
-            "D": "\frac{\\pi R^2 \theta}, {360}"
+            "A": "\\frac{2\\pi R \theta}{180}",
+            "B": "\\frac{2\\pi R \theta}{360}",
+            "C": "\\frac{\\pi R^2 \theta}{180}",
+            "D": "\\frac{\\pi R^2 \theta}{360}"
         }
     },
     {
@@ -2256,8 +2256,8 @@
         "chapter_name": "Quadratic Equations",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "Find the roots of the equation $\frac{1}, {x} - \frac{1}, {x-2} = 3, x \neq 0, 2$.",
-        "prashna": "समीकरण $\frac{1}, {x} - \frac{1}, {x-2} = 3, x \neq 0, 2$ के मूलों को ज्ञात करें।"
+        "question": "Find the roots of the equation $\\frac{1}{x} - \\frac{1}{x-2} = 3, x \neq 0, 2$.",
+        "prashna": "समीकरण $\\frac{1}{x} - \\frac{1}{x-2} = 3, x \neq 0, 2$ के मूलों को ज्ञात करें।"
     },
     {
         "id": "short_7",
@@ -2306,8 +2306,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "Evaluate :\n$\frac{\\sec(90^\\circ - \theta) \\csc \theta - \tan(90^\\circ - \theta) \\ cot \theta + \\cos^2 25^\\circ + \\cos^2 65^\\circ}, {3 \tan 27^\\circ \tan 63^\\circ}$",
-        "prashna": "मान निकालें :\n$\frac{\\sec(90^\\circ - \theta) \\csc \theta - \tan(90^\\circ - \theta) \\cot \theta + \\cos^2 25^\\circ + \\cos^2 65^\\circ}, {3 \tan 27^\\circ \tan 63^\\circ}$"
+        "question": "Evaluate :\n$\\frac{\\sec(90^\\circ - \theta) \\csc \theta - \tan(90^\\circ - \theta) \\ cot \theta + \\cos^2 25^\\circ + \\cos^2 65^\\circ}{3 \tan 27^\\circ \tan 63^\\circ}$",
+        "prashna": "मान निकालें :\n$\\frac{\\sec(90^\\circ - \theta) \\csc \theta - \tan(90^\\circ - \theta) \\cot \theta + \\cos^2 25^\\circ + \\cos^2 65^\\circ}{3 \tan 27^\\circ \tan 63^\\circ}$"
     },
     {
         "id": "short_12",
@@ -2316,8 +2316,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "Prove that $\frac{\\sec \theta + \tan \theta}, {\\sec \theta - \tan \theta} = \\left(\frac{1 + \\sin \theta}, {\\cos \theta}\right)^2$.",
-        "prashna": "सिद्ध करें कि $\frac{\\sec \theta + \tan \theta}, {\\sec \theta - \tan \theta} = \\left(\frac{1 + \\sin \theta}, {\\cos \theta}\right)^2$."
+        "question": "Prove that $\\frac{\\sec \theta + \tan \theta}{\\sec \theta - \tan \theta} = \\left(\\frac{1 + \\sin \theta}{\\cos \theta}\right)^2$.",
+        "prashna": "सिद्ध करें कि $\\frac{\\sec \theta + \tan \theta}{\\sec \theta - \tan \theta} = \\left(\\frac{1 + \\sin \theta}{\\cos \theta}\right)^2$."
     },
     {
         "id": "short_13",
@@ -2406,8 +2406,8 @@
         "chapter_name": "Triangles",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "In triangle PQR, two points S and T are on sides PQ and PR such that $\frac{PS}, {SQ} = \frac{PT}, {TR}$ and $\\angle PST = \\angle PRQ$ then prove that $\\Delta PQR$ is an isosceles triangle.",
-        "prashna": "किसी त्रिभुज PQR में दो बिन्दु S तथा T भुजाओं PQ तथा PR पर इस प्रकार हैं कि $\frac{PS}, {SQ} = \frac{PT}, {TR}$ तथा $\\angle PST = \\angle PRQ$ तो सिद्ध करें कि $\\Delta PQR$ एक समद्विबाहु त्रिभुज है।"
+        "question": "In triangle PQR, two points S and T are on sides PQ and PR such that $\\frac{PS}{SQ} = \\frac{PT}{TR}$ and $\\angle PST = \\angle PRQ$ then prove that $\\Delta PQR$ is an isosceles triangle.",
+        "prashna": "किसी त्रिभुज PQR में दो बिन्दु S तथा T भुजाओं PQ तथा PR पर इस प्रकार हैं कि $\\frac{PS}{SQ} = \\frac{PT}{TR}$ तथा $\\angle PST = \\angle PRQ$ तो सिद्ध करें कि $\\Delta PQR$ एक समद्विबाहु त्रिभुज है।"
     },
     {
         "id": "short_22",
@@ -2426,8 +2426,8 @@
         "chapter_name": "Pair of Linear Equations in Two Variables",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "On adding 1 to the numerator of a fraction it becomes $\frac{1}, {2}$ and on adding 1 to the denominator it becomes $\frac{1}, {3}$. Write the equation for this statement.",
-        "prashna": "किसी भिन्न के अंश के साथ 1 जोड़ने पर वह $\frac{1}, {2}$ बन जाता है और हर के साथ 1 जोड़ने पर वह $\frac{1}, {3}$ बन जाता है। इस कथन का समीकरण लिखें।"
+        "question": "On adding 1 to the numerator of a fraction it becomes $\\frac{1}{2}$ and on adding 1 to the denominator it becomes $\\frac{1}{3}$. Write the equation for this statement.",
+        "prashna": "किसी भिन्न के अंश के साथ 1 जोड़ने पर वह $\\frac{1}{2}$ बन जाता है और हर के साथ 1 जोड़ने पर वह $\\frac{1}{3}$ बन जाता है। इस कथन का समीकरण लिखें।"
     },
     {
         "id": "short_24",
@@ -2446,8 +2446,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "Prove that $\\left(\frac{\\sin A}, {1 + \\cos A} + \frac{1 + \\cos A}, {\\sin A}\right)\\left(\frac{\\sin A}, {1 - \\cos A} - \frac{1 - \\cos A}, {\\sin A}\right) = 4 \\csc A \\cot A$.",
-        "prashna": "सिद्ध करें कि $\\left(\frac{\\sin A}, {1 + \\cos A} + \frac{1 + \\cos A}, {\\sin A}\right)\\left(\frac{\\sin A}, {1 - \\cos A} - \frac{1 - \\cos A}, {\\sin A}\right) = 4 \\csc A \\cot A$."
+        "question": "Prove that $\\left(\\frac{\\sin A}{1 + \\cos A} + \\frac{1 + \\cos A}{\\sin A}\right)\\left(\\frac{\\sin A}{1 - \\cos A} - \\frac{1 - \\cos A}{\\sin A}\right) = 4 \\csc A \\cot A$.",
+        "prashna": "सिद्ध करें कि $\\left(\\frac{\\sin A}{1 + \\cos A} + \\frac{1 + \\cos A}{\\sin A}\right)\\left(\\frac{\\sin A}{1 - \\cos A} - \\frac{1 - \\cos A}{\\sin A}\right) = 4 \\csc A \\cot A$."
     },
     {
         "id": "long_2",

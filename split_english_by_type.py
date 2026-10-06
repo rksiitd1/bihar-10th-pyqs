@@ -15,9 +15,11 @@ def normalize_type(type_value: str) -> str:
         return "short"
     elif type_lower in ["long", "long answer", "long_answer", "la", "descriptive"]:
         return "long"
-    elif type_lower in ["comprehension", "passage", "gadyansh", "poem", "poetry"]:
-        return "comprehension"
-    elif type_lower in ["letter_writing", "letter", "patra_lekhan", "patra"]:
+    elif type_lower in ["passage", "comprehension", "gadyansh"]:
+        return "passage"
+    elif type_lower in ["poem", "poetry"]:
+        return "poem"
+    elif type_lower in ["letter_writing", "letter", "application", "patra_lekhan", "patra"]:
         return "letter_writing"
     elif type_lower in ["essay", "nibandh", "anuched", "paragraph"]:
         return "essay"

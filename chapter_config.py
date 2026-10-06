@@ -450,7 +450,8 @@ CHAPTERS = {
                 {"number": "17", "name_en": "Phrasal Verbs", "name_hi": "फ्रेज़ल वर्ब्स", "desc": "Verb plus preposition combinations like look after, give up, break down, call off, put out"},
                 {"number": "18", "name_en": "Translation", "name_hi": "अनुवाद", "desc": "Translating Hindi sentences into English or English sentences into Hindi"},
                 {"number": "19", "name_en": "Letter and Application Writing", "name_hi": "पत्र और आवेदन लेखन", "desc": "Formal letters, application to Principal/Headmaster, informal letters to friends/parents, structure and format"},
-                {"number": "20", "name_en": "Paragraph and Essay Writing", "name_hi": "पैराग्राफ और निबंध लेखन", "desc": "Short essay or paragraph composition on topics like My Hobby, Pollution, Discipline, Mobile Phone, Reading comprehensions"}
+                {"number": "20", "name_en": "Paragraph and Essay Writing", "name_hi": "पैराग्राफ और निबंध लेखन", "desc": "Paragraph and essay composition on topics like My Hobby, Pollution, Discipline, and Mobile Phone"},
+                {"number": "21", "name_en": "Unseen Passage", "name_hi": "अपठित गद्यांश", "desc": "Reading an unseen passage and answering questions based on its content; excludes paragraph or passage composition"}
             ],
             "Panorama": [
                 {"number": "1", "name_en": "The Pace for Living", "name_hi": "जीवन की गति", "desc": "Prose by R. C. Hutchinson; fast-paced modern life, Irish corn merchant of Dublin, cinema play, slow thinkers, mind working in slow gear"},
@@ -542,7 +543,8 @@ CHAPTERS = {
                 {"number": "22", "name_en": "Adverbs", "name_hi": "क्रिया-विशेषण", "desc": "रीतिवाचक, कालवाचक, स्थानवाचक, परिमाणवाचक क्रिया-विशेषण के उदाहरण और पहचान"},
                 {"number": "23", "name_en": "Ras", "name_hi": "रस", "desc": "रस के चार अंग (स्थायी भाव, विभाव, अनुभाव, संचारी भाव), प्रमुख रस: श्रृंगार, हास्य, करुण, वीर, शांत, रौद्र रस"},
                 {"number": "24", "name_en": "Chhand", "name_hi": "छंद", "desc": "मात्रिक और वर्णिक छंद, दोहा, चौपाई, सोरठा, रोला छंद के लक्षण और मात्रा गणना"},
-                {"number": "25", "name_en": "Alankar", "name_hi": "अलंकार", "desc": "शब्दालंकार (अनुप्रास, यमक, श्लेष) और अर्थालंकार (उपमा, रूपक, उत्प्रेक्षा, अतिशयोक्ति, मानवीकरण) की पहचान"}
+                {"number": "25", "name_en": "Alankar", "name_hi": "अलंकार", "desc": "शब्दालंकार (अनुप्रास, यमक, श्लेष) और अर्थालंकार (उपमा, रूपक, उत्प्रेक्षा, अतिशयोक्ति, मानवीकरण) की पहचान"},
+                {"number": "26", "name_en": "Unseen Passage (Gadyansh)", "name_hi": "अपठित गद्यांश", "desc": "अपठित गद्यांश पढ़कर शीर्षक देना, भावार्थ लिखना, तथ्य आधारित एवं अनुमान आधारित प्रश्नों के उत्तर देना"}
             ]
         }
     },

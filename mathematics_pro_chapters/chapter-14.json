@@ -85,8 +85,8 @@
       "chapter_name": "Statistics",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Class mark = $\frac{\text{upper limit} + \text{lower limit}}, {2}$",
-      "prashna": "वर्ग चिह्न = $\frac{\text{ऊपरी वर्ग सीमा} + \text{निम्न वर्ग सीमा}}, {2}$"
+      "question": "Class mark = $\\frac{\text{upper limit} + \text{lower limit}}, {2}$",
+      "prashna": "वर्ग चिह्न = $\\frac{\text{ऊपरी वर्ग सीमा} + \text{निम्न वर्ग सीमा}}, {2}$"
     },
     {
       "id": "short_41",
@@ -862,15 +862,15 @@
       "question": "The arithmetic mean of $a$ and $b$ is",
       "prashna": "$a$ और $b$ का समांतर माध्य है",
       "options": {
-        "A": "$\frac{ab}, {2}$",
-        "B": "$\frac{a+b}, {2}$",
-        "C": "$\frac{a-b}, {2}$",
+        "A": "$\\frac{ab}{2}$",
+        "B": "$\\frac{a+b}{2}$",
+        "C": "$\\frac{a-b}{2}$",
         "D": "none of these"
       },
       "vikalpa": {
-        "A": "$\frac{ab}, {2}$",
-        "B": "$\frac{a+b}, {2}$",
-        "C": "$\frac{a-b}, {2}$",
+        "A": "$\\frac{ab}{2}$",
+        "B": "$\\frac{a+b}{2}$",
+        "C": "$\\frac{a-b}{2}$",
         "D": "इनमें से कोई नहीं"
       }
     },
@@ -1009,19 +1009,19 @@
       "chapter_name": "Statistics",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "The relationship between mean $(\bar{x})$, median $(y)$ and mode $(z)$ is",
-      "prashna": "माध्य $(\bar{x})$, माध्यिका $(y)$ और बहुलक $(z)$ के बीच संबंध है",
+      "question": "The relationship between mean $(\\bar{x})$, median $(y)$ and mode $(z)$ is",
+      "prashna": "माध्य $(\\bar{x})$, माध्यिका $(y)$ और बहुलक $(z)$ के बीच संबंध है",
       "options": {
-        "A": "$\bar{x} - z = 3(\bar{x} - y)$",
-        "B": "$\bar{x} - y = 3(z - y)$",
-        "C": "$3(\bar{x} - z) = \bar{x} - y$",
-        "D": "$\bar{x} - y = z - y$"
+        "A": "$\\bar{x} - z = 3(\\bar{x} - y)$",
+        "B": "$\\bar{x} - y = 3(z - y)$",
+        "C": "$3(\\bar{x} - z) = \\bar{x} - y$",
+        "D": "$\\bar{x} - y = z - y$"
       },
       "vikalpa": {
-        "A": "$\bar{x} - z = 3(\bar{x} - y)$",
-        "B": "$\bar{x} - y = 3(z - y)$",
-        "C": "$3(\bar{x} - z) = \bar{x} - y$",
-        "D": "$\bar{x} - y = z - y$"
+        "A": "$\\bar{x} - z = 3(\\bar{x} - y)$",
+        "B": "$\\bar{x} - y = 3(z - y)$",
+        "C": "$3(\\bar{x} - z) = \\bar{x} - y$",
+        "D": "$\\bar{x} - y = z - y$"
       }
     },
     {

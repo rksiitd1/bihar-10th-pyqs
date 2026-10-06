@@ -32,15 +32,15 @@
         "prashna": "महत्तम समापवर्त्तक $(p, q) \times$ लघुत्तम समापवर्त्य $(p, q)$ बराबर है",
         "options": {
             "A": "$(p \times q)$",
-            "B": "$\frac{p}, {q}$",
+            "B": "$\\frac{p}{q}$",
             "C": "$p^2 q^2$",
-            "D": "$\frac{q}, {p}$"
+            "D": "$\\frac{q}{p}$"
         },
         "vikalpa": {
             "A": "$(p \times q)$",
-            "B": "$\frac{p}, {q}$",
+            "B": "$\\frac{p}{q}$",
             "C": "$p^2 q^2$",
-            "D": "$\frac{q}, {p}$"
+            "D": "$\\frac{q}{p}$"
         }
     },
     {
@@ -165,14 +165,14 @@
         "options": {
             "A": "2",
             "B": "-2",
-            "C": "$\frac{1}, {2}$",
-            "D": "$-\frac{1}, {2}$"
+            "C": "$\\frac{1}{2}$",
+            "D": "$-\\frac{1}{2}$"
         },
         "vikalpa": {
             "A": "2",
             "B": "-2",
-            "C": "$\frac{1}, {2}$",
-            "D": "$-\frac{1}, {2}$"
+            "C": "$\\frac{1}{2}$",
+            "D": "$-\\frac{1}{2}$"
         }
     },
     {
@@ -246,8 +246,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "Prove that $(\frac{1 + \tan A}, {1 + \\cot A})^2 = \tan^2 A$.",
-        "prashna": "सिद्ध करें कि $(\frac{1 + \tan A}, {1 + \\cot A})^2 = \tan^2 A$।"
+        "question": "Prove that $(\\frac{1 + \tan A}{1 + \\cot A})^2 = \tan^2 A$.",
+        "prashna": "सिद्ध करें कि $(\\frac{1 + \tan A}{1 + \\cot A})^2 = \tan^2 A$।"
     },
     {
         "id": "short_4",
@@ -266,8 +266,8 @@
         "chapter_name": "Quadratic Equations",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If the sum of a number and its reciprocal is $\frac{10}, {3}$, then find the number.",
-        "prashna": "यदि किसी संख्या और उसके व्युत्क्रम का योग $\frac{10}, {3}$ है, तो संख्या ज्ञात करें।"
+        "question": "If the sum of a number and its reciprocal is $\\frac{10}{3}$, then find the number.",
+        "prashna": "यदि किसी संख्या और उसके व्युत्क्रम का योग $\\frac{10}{3}$ है, तो संख्या ज्ञात करें।"
     },
     {
         "id": "short_6",
@@ -306,8 +306,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "Prove that $\frac{1 + \\cos \theta}, {\\sin \theta} + \frac{\\sin \theta}, {1 + \\cos \theta} = 2\text{cosec }\theta$.",
-        "prashna": "सिद्ध करें कि $\frac{1 + \\cos \theta}, {\\sin \theta} + \frac{\\sin \theta}, {1 + \\cos \theta} = 2\text{cosec }\theta$।"
+        "question": "Prove that $\\frac{1 + \\cos \theta}{\\sin \theta} + \\frac{\\sin \theta}{1 + \\cos \theta} = 2\text{cosec }\theta$.",
+        "prashna": "सिद्ध करें कि $\\frac{1 + \\cos \theta}{\\sin \theta} + \\frac{\\sin \theta}{1 + \\cos \theta} = 2\text{cosec }\theta$।"
     },
     {
         "id": "short_10",
@@ -366,8 +366,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "Prove that $\frac{\\sin \theta - \\cos \theta + 1}, {\\sin \theta + \\cos \theta - 1} = \frac{1}, {\\sec \theta - \tan \theta}$.",
-        "prashna": "सिद्ध करें कि $\frac{\\sin \theta - \\cos \theta + 1}, {\\sin \theta + \\cos \theta - 1} = \frac{1}, {\\sec \theta - \tan \theta}$।"
+        "question": "Prove that $\\frac{\\sin \theta - \\cos \theta + 1}{\\sin \theta + \\cos \theta - 1} = \\frac{1}{\\sec \theta - \tan \theta}$.",
+        "prashna": "सिद्ध करें कि $\\frac{\\sin \theta - \\cos \theta + 1}{\\sin \theta + \\cos \theta - 1} = \\frac{1}{\\sec \theta - \tan \theta}$।"
     },
     {
         "id": "long_4",

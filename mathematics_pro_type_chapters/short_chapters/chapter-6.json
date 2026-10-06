@@ -18,8 +18,8 @@
       "chapter_name": "Triangles",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Each side of an equilateral triangle $ABC$ is $a$ units. Prove that the altitude of the triangle will be $\frac{\\sqrt{3}}, {2}a$.",
-      "prashna": "समबाहु $\triangle ABC$ की प्रत्येक भुजा $a$ इकाई है तो सिद्ध करें कि त्रिभुज का शीर्षलम्ब $\frac{\\sqrt{3}}, {2}a$ होगा।",
+      "question": "Each side of an equilateral triangle $ABC$ is $a$ units. Prove that the altitude of the triangle will be $\\frac{\\sqrt{3}}, {2}a$.",
+      "prashna": "समबाहु $\triangle ABC$ की प्रत्येक भुजा $a$ इकाई है तो सिद्ध करें कि त्रिभुज का शीर्षलम्ब $\\frac{\\sqrt{3}}, {2}a$ होगा।",
       "marks": 3
     }
   ],
@@ -83,8 +83,8 @@
       "chapter_name": "Triangles",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Each side of an equilateral triangle ABC is $a$ units. Prove that the altitude of the triangle will be $\frac{\\sqrt{3}}, {2}a$.",
-      "prashna": "समबाहु $\\Delta ABC$ की प्रत्येक भुजा $a$ इकाई है तो सिद्ध करें कि त्रिभुज का शीर्ष लम्ब $\frac{\\sqrt{3}}, {2}a$ होगा ।"
+      "question": "Each side of an equilateral triangle ABC is $a$ units. Prove that the altitude of the triangle will be $\\frac{\\sqrt{3}}, {2}a$.",
+      "prashna": "समबाहु $\\Delta ABC$ की प्रत्येक भुजा $a$ इकाई है तो सिद्ध करें कि त्रिभुज का शीर्ष लम्ब $\\frac{\\sqrt{3}}, {2}a$ होगा ।"
     },
     {
       "id": "short_7",
@@ -99,8 +99,8 @@
       "type": "short_answer",
       "chapter": "6",
       "chapter_name": "Triangles",
-      "question": "$AD$ and $PM$ are medians of triangles $ABC$ and $PQR$ respectively, where $\triangle ABC \\sim \triangle PQR$. Prove that $\frac{AB}, {PQ} = \frac{AD}, {PM}$.",
-      "prashna": "$AD$ और $PM$ त्रिभुजों $ABC$ और $PQR$ की क्रमशः माध्यिकाएँ हैं, जबकि $\triangle ABC \\sim \triangle PQR$ है। साबित करें कि $\frac{AB}, {PQ} = \frac{AD}, {PM}$ है।"
+      "question": "$AD$ and $PM$ are medians of triangles $ABC$ and $PQR$ respectively, where $\triangle ABC \\sim \triangle PQR$. Prove that $\\frac{AB}{PQ} = \\frac{AD}{PM}$.",
+      "prashna": "$AD$ और $PM$ त्रिभुजों $ABC$ और $PQR$ की क्रमशः माध्यिकाएँ हैं, जबकि $\triangle ABC \\sim \triangle PQR$ है। साबित करें कि $\\frac{AB}{PQ} = \\frac{AD}{PM}$ है।"
     }
   ],
   "2018": [
@@ -289,8 +289,8 @@
       "chapter_name": "Triangles",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Prove that in an equilateral triangle of side $a$, area of triangle is $\frac{\\sqrt{3}}, {4}a^2$.",
-      "prashna": "भुजा $a$ वाले समबाहु त्रिभुज में सिद्ध करें कि त्रिभुज का क्षेत्रफल $\frac{\\sqrt{3}}, {4}a^2$ है।"
+      "question": "Prove that in an equilateral triangle of side $a$, area of triangle is $\\frac{\\sqrt{3}}, {4}a^2$.",
+      "prashna": "भुजा $a$ वाले समबाहु त्रिभुज में सिद्ध करें कि त्रिभुज का क्षेत्रफल $\\frac{\\sqrt{3}}, {4}a^2$ है।"
     },
     {
       "id": "short_16",
@@ -299,8 +299,8 @@
       "chapter_name": "Triangles",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If in a triangle $ABC, D$ is a point on side $BC$ such that $\\angle ADC = \\angle BAC$ then prove that $\frac{CA}, {CD} = \frac{CB}, {CA}$.",
-      "prashna": "यदि किसी त्रिभुज $ABC$ की भुजा $BC$ पर $D$ एक ऐसा बिन्दु है कि $\\angle ADC = \\angle BAC$ तो सिद्ध करें कि $\frac{CA}, {CD} = \frac{CB}, {CA}$।"
+      "question": "If in a triangle $ABC, D$ is a point on side $BC$ such that $\\angle ADC = \\angle BAC$ then prove that $\\frac{CA}{CD} = \\frac{CB}{CA}$.",
+      "prashna": "यदि किसी त्रिभुज $ABC$ की भुजा $BC$ पर $D$ एक ऐसा बिन्दु है कि $\\angle ADC = \\angle BAC$ तो सिद्ध करें कि $\\frac{CA}{CD} = \\frac{CB}{CA}$।"
     }
   ],
   "2023": [
@@ -343,8 +343,8 @@
       "chapter_name": "Triangles",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "In triangle PQR, two points S and T are on sides PQ and PR such that $\frac{PS}, {SQ} = \frac{PT}, {TR}$ and $\\angle PST = \\angle PRQ$ then prove that $\\Delta PQR$ is an isosceles triangle.",
-      "prashna": "किसी त्रिभुज PQR में दो बिन्दु S तथा T भुजाओं PQ तथा PR पर इस प्रकार हैं कि $\frac{PS}, {SQ} = \frac{PT}, {TR}$ तथा $\\angle PST = \\angle PRQ$ तो सिद्ध करें कि $\\Delta PQR$ एक समद्विबाहु त्रिभुज है।"
+      "question": "In triangle PQR, two points S and T are on sides PQ and PR such that $\\frac{PS}{SQ} = \\frac{PT}{TR}$ and $\\angle PST = \\angle PRQ$ then prove that $\\Delta PQR$ is an isosceles triangle.",
+      "prashna": "किसी त्रिभुज PQR में दो बिन्दु S तथा T भुजाओं PQ तथा PR पर इस प्रकार हैं कि $\\frac{PS}{SQ} = \\frac{PT}{TR}$ तथा $\\angle PST = \\angle PRQ$ तो सिद्ध करें कि $\\Delta PQR$ एक समद्विबाहु त्रिभुज है।"
     }
   ],
   "2025": [
@@ -405,8 +405,8 @@
       "chapter_name": "Triangles",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "In a triangle $PQR$, two points $S$ and $T$ are on the sides $PQ$ and $PR$ respectively such that $\frac{PS}, {SQ} = \frac{PT}, {TR}$ and $\\angle PST = \\angle PRQ$, then prove that $\triangle PQR$ is an isosceles triangle.",
-      "prashna": "किसी त्रिभुज $PQR$ में दो बिन्दु $S$ और $T$ भुजाओं $PQ$ तथा $PR$ पर क्रमशः इस प्रकार हैं कि $\frac{PS}, {SQ} = \frac{PT}, {TR}$ तथा $\\angle PST = \\angle PRQ$, तो सिद्ध करें कि $\triangle PQR$ एक समद्विबाहु त्रिभुज है।"
+      "question": "In a triangle $PQR$, two points $S$ and $T$ are on the sides $PQ$ and $PR$ respectively such that $\\frac{PS}{SQ} = \\frac{PT}{TR}$ and $\\angle PST = \\angle PRQ$, then prove that $\triangle PQR$ is an isosceles triangle.",
+      "prashna": "किसी त्रिभुज $PQR$ में दो बिन्दु $S$ और $T$ भुजाओं $PQ$ तथा $PR$ पर क्रमशः इस प्रकार हैं कि $\\frac{PS}{SQ} = \\frac{PT}{TR}$ तथा $\\angle PST = \\angle PRQ$, तो सिद्ध करें कि $\triangle PQR$ एक समद्विबाहु त्रिभुज है।"
     }
   ],
   "2026": [

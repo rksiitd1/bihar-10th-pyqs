@@ -367,13 +367,13 @@
         "A": "3a",
         "B": "$\\sqrt{3} a$",
         "C": "$\\sqrt{3} a^2$",
-        "D": "$\frac{\\sqrt{3}}, {2} a$"
+        "D": "$\\frac{\\sqrt{3}}, {2} a$"
       },
       "vikalpa": {
         "A": "3a",
         "B": "$\\sqrt{3} a$",
         "C": "$\\sqrt{3} a^2$",
-        "D": "$\frac{\\sqrt{3}}, {2} a$"
+        "D": "$\\frac{\\sqrt{3}}, {2} a$"
       }
     },
     {
@@ -608,16 +608,16 @@
       "question": "If an isosceles triangle has base $b$ and equal sides $a$, then its area will be",
       "prashna": "यदि किसी समद्विबाहु त्रिभुज का आधार $b$ और बराबर भुजा $a$ हो, तो उसका क्षेत्रफल होगा",
       "options": {
-        "A": "$\frac{\\sqrt{3}}, {4} a^2$",
-        "B": "$\frac{a+b+c}, {2}$",
-        "C": "$\frac{1}, {2} \\sqrt{4a^2 - b^2}$",
-        "D": "$\frac{b \\sqrt{4a^2 - b^2}}, {4}$"
+        "A": "$\\frac{\\sqrt{3}}, {4} a^2$",
+        "B": "$\\frac{a+b+c}{2}$",
+        "C": "$\\frac{1}{2} \\sqrt{4a^2 - b^2}$",
+        "D": "$\\frac{b \\sqrt{4a^2 - b^2}}, {4}$"
       },
       "vikalpa": {
-        "A": "$\frac{\\sqrt{3}}, {4} a^2$",
-        "B": "$\frac{a+b+c}, {2}$",
-        "C": "$\frac{1}, {2} \\sqrt{4a^2 - b^2}$",
-        "D": "$\frac{b \\sqrt{4a^2 - b^2}}, {4}$"
+        "A": "$\\frac{\\sqrt{3}}, {4} a^2$",
+        "B": "$\\frac{a+b+c}{2}$",
+        "C": "$\\frac{1}{2} \\sqrt{4a^2 - b^2}$",
+        "D": "$\\frac{b \\sqrt{4a^2 - b^2}}, {4}$"
       }
     },
     {
@@ -649,8 +649,8 @@
       "chapter_name": "Triangles",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "In $\triangle ABC$ and $\triangle DEF$, both of these triangles will be similar if $\frac{AB}, {DE} = \frac{BC}, {DF} = $",
-      "prashna": "$\triangle ABC$ तथा $\triangle DEF$ में $\frac{AB}, {DE} = \frac{BC}, {DF}$, ये दोनों त्रिभुज समरूप होंगे, यदि",
+      "question": "In $\triangle ABC$ and $\triangle DEF$, both of these triangles will be similar if $\\frac{AB}{DE} = \\frac{BC}{DF} = $",
+      "prashna": "$\triangle ABC$ तथा $\triangle DEF$ में $\\frac{AB}{DE} = \\frac{BC}{DF}$, ये दोनों त्रिभुज समरूप होंगे, यदि",
       "options": {
         "A": "$\\angle B = \\angle E$",
         "B": "$\\angle A = \\angle D$",
@@ -673,8 +673,8 @@
       "chapter_name": "Triangles",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "In similar $\\Delta ABC$ and $\\Delta DEF$ it is given that $\frac{AB}, {DE} = \frac{BC}, {FD}$, then",
-      "prashna": "समरूप $\\Delta ABC$ एवं $\\Delta DEF$ में दिया है $\frac{AB}, {DE} = \frac{BC}, {FD}$, तब",
+      "question": "In similar $\\Delta ABC$ and $\\Delta DEF$ it is given that $\\frac{AB}{DE} = \\frac{BC}{FD}$, then",
+      "prashna": "समरूप $\\Delta ABC$ एवं $\\Delta DEF$ में दिया है $\\frac{AB}{DE} = \\frac{BC}{FD}$, तब",
       "options": {
         "A": "$\\angle B = \\angle E$",
         "B": "$\\angle A = \\angle D$",
@@ -893,8 +893,8 @@
       "chapter_name": "Triangles",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "In $\triangle ABC$, points $D$ and $E$ are on sides $AB$ and $AC$ respectively such that $DE \\parallel BC$. If $\frac{AD}, {DB} = \frac{1}, {2}$ and $AC = 27$ cm, then $EC =$",
-      "prashna": "$\triangle ABC$ में बिन्दु $D$ और $E$ क्रमशः भुजाओं $AB$ और $AC$ पर इस प्रकार है कि $DE \\parallel BC$ यदि $\frac{AD}, {DB} = \frac{1}, {2}$ और $AC = 27$ cm तो $EC =$",
+      "question": "In $\triangle ABC$, points $D$ and $E$ are on sides $AB$ and $AC$ respectively such that $DE \\parallel BC$. If $\\frac{AD}{DB} = \\frac{1}{2}$ and $AC = 27$ cm, then $EC =$",
+      "prashna": "$\triangle ABC$ में बिन्दु $D$ और $E$ क्रमशः भुजाओं $AB$ और $AC$ पर इस प्रकार है कि $DE \\parallel BC$ यदि $\\frac{AD}{DB} = \\frac{1}{2}$ और $AC = 27$ cm तो $EC =$",
       "options": {
         "A": "$9$ cm",
         "B": "$18$ cm",
@@ -1230,16 +1230,16 @@
       "question": "A side of an equilateral triangle $ABC$ is $a$. Its area is",
       "prashna": "एक समबाहु त्रिभुज $ABC$ की एक भुजा $a$ है। इसका क्षेत्रफल होगा",
       "options": {
-        "A": "$\frac{\\sqrt{3}}, {4} a$",
-        "B": "$\frac{\\sqrt{3}}, {4} a^2$",
-        "C": "$\frac{4}, {\\sqrt{3}} a^2$",
-        "D": "$\frac{1}, {\\sqrt{3}} a^2$"
+        "A": "$\\frac{\\sqrt{3}}, {4} a$",
+        "B": "$\\frac{\\sqrt{3}}, {4} a^2$",
+        "C": "$\\frac{4}{\\sqrt{3}} a^2$",
+        "D": "$\\frac{1}{\\sqrt{3}} a^2$"
       },
       "vikalpa": {
-        "A": "$\frac{\\sqrt{3}}, {4} a$",
-        "B": "$\frac{\\sqrt{3}}, {4} a^2$",
-        "C": "$\frac{4}, {\\sqrt{3}} a^2$",
-        "D": "$\frac{1}, {\\sqrt{3}} a^2$"
+        "A": "$\\frac{\\sqrt{3}}, {4} a$",
+        "B": "$\\frac{\\sqrt{3}}, {4} a^2$",
+        "C": "$\\frac{4}{\\sqrt{3}} a^2$",
+        "D": "$\\frac{1}{\\sqrt{3}} a^2$"
       }
     },
     {
@@ -1295,8 +1295,8 @@
       "chapter_name": "Triangles",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "In $\triangle ABC$, $DE \\parallel BC$ such that $\frac{AD}, {DB} = \frac{3}, {5}$. If $AC = 5.6$ cm then $AE = ?$",
-      "prashna": "त्रिभुज $ABC$ में $DE \\parallel BC$ इस प्रकार है कि $\frac{AD}, {DB} = \frac{3}, {5}$। यदि $AC = 5.6$ सेमी तो $AE = ?$",
+      "question": "In $\triangle ABC$, $DE \\parallel BC$ such that $\\frac{AD}{DB} = \\frac{3}{5}$. If $AC = 5.6$ cm then $AE = ?$",
+      "prashna": "त्रिभुज $ABC$ में $DE \\parallel BC$ इस प्रकार है कि $\\frac{AD}{DB} = \\frac{3}{5}$। यदि $AC = 5.6$ सेमी तो $AE = ?$",
       "options": {
         "A": "4.2 cm",
         "B": "3.1 cm",
@@ -1361,8 +1361,8 @@
       "chapter_name": "Triangles",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If one side of an equilateral triangle $ABC$ is 12 cm and one side of equilateral triangle $DEF$ is 6 cm then $\frac{\text{area }(\triangle ABC)}, {\text{area }(\triangle DEF)} = $",
-      "prashna": "यदि समबाहु त्रिभुज $ABC$ की एक भुजा 12 सेमी तथा समबाहु त्रिभुज $DEF$ की एक भुजा 6 सेमी हों तो $\frac{\text{क्षेत्रफल }(\triangle ABC)}, {\text{क्षेत्रफल }(\triangle DEF)} = $",
+      "question": "If one side of an equilateral triangle $ABC$ is 12 cm and one side of equilateral triangle $DEF$ is 6 cm then $\\frac{\text{area }(\triangle ABC)}, {\text{area }(\triangle DEF)} = $",
+      "prashna": "यदि समबाहु त्रिभुज $ABC$ की एक भुजा 12 सेमी तथा समबाहु त्रिभुज $DEF$ की एक भुजा 6 सेमी हों तो $\\frac{\text{क्षेत्रफल }(\triangle ABC)}, {\text{क्षेत्रफल }(\triangle DEF)} = $",
       "options": {
         "A": "2 : 1",
         "B": "1 : 2",
@@ -1449,8 +1449,8 @@
       "chapter_name": "Triangles",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "In triangle ABC, DE $\\parallel$ BC such that $\frac{AD}, {DB} = \frac{4}, {x-4}$ and $\frac{AE}, {EC} = \frac{8}, {3x-19}$ then the value of $x$ is",
-      "prashna": "त्रिभुज ABC में DE $\\parallel$ BC इस प्रकार है कि $\frac{AD}, {DB} = \frac{4}, {x-4}$ तथा $\frac{AE}, {EC} = \frac{8}, {3x-19}$ तो $x$ का मान है",
+      "question": "In triangle ABC, DE $\\parallel$ BC such that $\\frac{AD}{DB} = \\frac{4}{x-4}$ and $\\frac{AE}{EC} = \\frac{8}{3x-19}$ then the value of $x$ is",
+      "prashna": "त्रिभुज ABC में DE $\\parallel$ BC इस प्रकार है कि $\\frac{AD}{DB} = \\frac{4}{x-4}$ तथा $\\frac{AE}{EC} = \\frac{8}{3x-19}$ तो $x$ का मान है",
       "options": {
         "A": "9",
         "B": "10",
@@ -1515,8 +1515,8 @@
       "chapter_name": "Triangles",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If in $\\Delta ABC$ and $\\Delta DEF$, $\frac{AB}, {DE} = \frac{BC}, {EF} = \frac{AC}, {DF} = \frac{5}, {7}$, then the ratio of the areas of $\\Delta ABC$ and $\\Delta DEF$ is",
-      "prashna": "यदि $\\Delta ABC$ तथा $\\Delta DEF$ में, $\frac{AB}, {DE} = \frac{BC}, {EF} = \frac{AC}, {DF} = \frac{5}, {7}$ हो तो $\\Delta ABC$ तथा $\\Delta DEF$ के क्षेत्रफलों का अनुपात होगा",
+      "question": "If in $\\Delta ABC$ and $\\Delta DEF$, $\\frac{AB}{DE} = \\frac{BC}{EF} = \\frac{AC}{DF} = \\frac{5}{7}$, then the ratio of the areas of $\\Delta ABC$ and $\\Delta DEF$ is",
+      "prashna": "यदि $\\Delta ABC$ तथा $\\Delta DEF$ में, $\\frac{AB}{DE} = \\frac{BC}{EF} = \\frac{AC}{DF} = \\frac{5}{7}$ हो तो $\\Delta ABC$ तथा $\\Delta DEF$ के क्षेत्रफलों का अनुपात होगा",
       "options": {
         "A": "5 : 7",
         "B": "25 : 49",
@@ -1537,8 +1537,8 @@
       "chapter_name": "Triangles",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "$\\Delta ABC$ and $\\Delta PQR$ are similar triangles. If AD and PS are bisectors of $\\angle A$ and $\\angle P$ respectively and AD = 6.5 cm, PS = 5.2 cm then $\frac{\text{area }(\\Delta ABC)}, {\text{area }(\\Delta PQR)} =$",
-      "prashna": "$\\Delta ABC$ एवं $\\Delta PQR$ समरूप त्रिभुज हैं। यदि AD और PS क्रमशः $\\angle A$ एवं $\\angle P$ के अर्द्धक हैं तथा AD = 6.5 सेमी एवं PS = 5.2 सेमी तो $\frac{\text{क्षेत्रफल }(\\Delta ABC)}, {\text{क्षेत्रफल }(\\Delta PQR)} =$",
+      "question": "$\\Delta ABC$ and $\\Delta PQR$ are similar triangles. If AD and PS are bisectors of $\\angle A$ and $\\angle P$ respectively and AD = 6.5 cm, PS = 5.2 cm then $\\frac{\text{area }(\\Delta ABC)}, {\text{area }(\\Delta PQR)} =$",
+      "prashna": "$\\Delta ABC$ एवं $\\Delta PQR$ समरूप त्रिभुज हैं। यदि AD और PS क्रमशः $\\angle A$ एवं $\\angle P$ के अर्द्धक हैं तथा AD = 6.5 सेमी एवं PS = 5.2 सेमी तो $\\frac{\text{क्षेत्रफल }(\\Delta ABC)}, {\text{क्षेत्रफल }(\\Delta PQR)} =$",
       "options": {
         "A": "49 : 16",
         "B": "25 : 16",
@@ -1563,15 +1563,15 @@
       "prashna": "एक समबाहु त्रिभुज की एक भुजा $a$ है तो इसकी ऊँचाई होगी",
       "options": {
         "A": "a\\sqrt{3}",
-        "B": "\frac{a}, {2}\\sqrt{3}",
+        "B": "\\frac{a}{2}\\sqrt{3}",
         "C": "2a\\sqrt{3}",
-        "D": "\frac{a}, {\\sqrt{3}}"
+        "D": "\\frac{a}{\\sqrt{3}}"
       },
       "vikalpa": {
         "A": "a\\sqrt{3}",
-        "B": "\frac{a}, {2}\\sqrt{3}",
+        "B": "\\frac{a}{2}\\sqrt{3}",
         "C": "2a\\sqrt{3}",
-        "D": "\frac{a}, {\\sqrt{3}}"
+        "D": "\\frac{a}{\\sqrt{3}}"
       }
     }
   ],
@@ -1693,8 +1693,8 @@
       "chapter_name": "Triangles",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "$\triangle ABC$ and $\triangle DEF$ are such that $\frac{AB}, {DE} = \frac{BC}, {EF} = \frac{CA}, {DF}$ and $\\angle A = 40^\\circ, \\angle B = 80^\\circ$; then the measure of $\\angle F$ is",
-      "prashna": "$\triangle ABC$ एवं $\triangle DEF$ इस प्रकार हैं कि $\frac{AB}, {DE} = \frac{BC}, {EF} = \frac{CA}, {DF}$ एवं $\\angle A = 40^\\circ, \\angle B = 80^\\circ$ तो $\\angle F$ की माप है",
+      "question": "$\triangle ABC$ and $\triangle DEF$ are such that $\\frac{AB}{DE} = \\frac{BC}{EF} = \\frac{CA}{DF}$ and $\\angle A = 40^\\circ, \\angle B = 80^\\circ$; then the measure of $\\angle F$ is",
+      "prashna": "$\triangle ABC$ एवं $\triangle DEF$ इस प्रकार हैं कि $\\frac{AB}{DE} = \\frac{BC}{EF} = \\frac{CA}{DF}$ एवं $\\angle A = 40^\\circ, \\angle B = 80^\\circ$ तो $\\angle F$ की माप है",
       "options": {
         "A": "$30^\\circ$",
         "B": "$45^\\circ$",
@@ -1816,16 +1816,16 @@
       "question": "$\triangle ABC \\sim \triangle DEF$; then which of the following is true ?",
       "prashna": "$\triangle ABC \\sim \triangle DEF$ हो तो निम्नलिखित में कौन सत्य है ?",
       "options": {
-        "A": "$\frac{AB}, {DE} = \frac{AC}, {EF}$",
-        "B": "$\frac{AB}, {EF} = \frac{BC}, {DE}$",
-        "C": "$\frac{AB}, {DE} = \frac{BC}, {EF}$",
-        "D": "$\frac{AB}, {DF} = \frac{BC}, {DE}$"
+        "A": "$\\frac{AB}{DE} = \\frac{AC}{EF}$",
+        "B": "$\\frac{AB}{EF} = \\frac{BC}{DE}$",
+        "C": "$\\frac{AB}{DE} = \\frac{BC}{EF}$",
+        "D": "$\\frac{AB}{DF} = \\frac{BC}{DE}$"
       },
       "vikalpa": {
-        "A": "$\frac{AB}, {DE} = \frac{AC}, {EF}$",
-        "B": "$\frac{AB}, {EF} = \frac{BC}, {DE}$",
-        "C": "$\frac{AB}, {DE} = \frac{BC}, {EF}$",
-        "D": "$\frac{AB}, {DF} = \frac{BC}, {DE}$"
+        "A": "$\\frac{AB}{DE} = \\frac{AC}{EF}$",
+        "B": "$\\frac{AB}{EF} = \\frac{BC}{DE}$",
+        "C": "$\\frac{AB}{DE} = \\frac{BC}{EF}$",
+        "D": "$\\frac{AB}{DF} = \\frac{BC}{DE}$"
       }
     },
     {
@@ -1833,8 +1833,8 @@
       "type": "objective",
       "chapter": "6",
       "chapter_name": "Triangles",
-      "question": "$\triangle PQR$ and $\triangle XYZ$ are such that $\frac{PQ}, {XY} = \frac{QR}, {YZ} = \frac{RP}, {ZX}$ and $\\angle P = 60^\\circ$, $\\angle Q = 80^\\circ$, then the measure of $\\angle Z$ is",
-      "prashna": "$\triangle PQR$ एवं $\triangle XYZ$ इस प्रकार हैं कि $\frac{PQ}, {XY} = \frac{QR}, {YZ} = \frac{RP}, {ZX}$ एवं $\\angle P = 60^\\circ$, $\\angle Q = 80^\\circ$, तो $\\angle Z$ की माप है",
+      "question": "$\triangle PQR$ and $\triangle XYZ$ are such that $\\frac{PQ}{XY} = \\frac{QR}{YZ} = \\frac{RP}{ZX}$ and $\\angle P = 60^\\circ$, $\\angle Q = 80^\\circ$, then the measure of $\\angle Z$ is",
+      "prashna": "$\triangle PQR$ एवं $\triangle XYZ$ इस प्रकार हैं कि $\\frac{PQ}{XY} = \\frac{QR}{YZ} = \\frac{RP}{ZX}$ एवं $\\angle P = 60^\\circ$, $\\angle Q = 80^\\circ$, तो $\\angle Z$ की माप है",
       "options": {
         "A": "$20^\\circ$",
         "B": "$30^\\circ$",

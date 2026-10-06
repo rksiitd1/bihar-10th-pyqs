@@ -141,8 +141,8 @@
       "chapter_name": "Some Applications of Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If two towers of height $h_1$ and $h_2$ subtend angle $60^\\circ$ and $30^\\circ$ at the midpoint of line joining their bases of towers, then $\frac{h_1}, {h_2}$ is -",
-      "prashna": "यदि दो मीनार ऊँचाई $h_1$ तथा $h_2$ के पादों को मिलाने वाली रेखा के मध्य-बिन्दु पर मीनारों द्वारा बनाये जाने वाले कोण का मान क्रमशः $60^\\circ$ तथा $30^\\circ$ है तो $\frac{h_1}, {h_2}$ बराबर होगा -",
+      "question": "If two towers of height $h_1$ and $h_2$ subtend angle $60^\\circ$ and $30^\\circ$ at the midpoint of line joining their bases of towers, then $\\frac{h_1}{h_2}$ is -",
+      "prashna": "यदि दो मीनार ऊँचाई $h_1$ तथा $h_2$ के पादों को मिलाने वाली रेखा के मध्य-बिन्दु पर मीनारों द्वारा बनाये जाने वाले कोण का मान क्रमशः $60^\\circ$ तथा $30^\\circ$ है तो $\\frac{h_1}{h_2}$ बराबर होगा -",
       "options": {
         "A": "$3:1$",
         "B": "$1:2$",
@@ -198,16 +198,16 @@
       "question": "The angle of elevation of the Sun, when length of shadow of a vertical pole is equal to its height is -",
       "prashna": "सूर्य का उन्नयन कोण, जब किसी सीधे खड़े खम्भे की छाया और उसकी लम्बाई (ऊँचाई) बराबर हो -",
       "options": {
-        "A": "$\frac{\\pi}, {2}$",
-        "B": "$\frac{\\pi}, {3}$",
-        "C": "$\frac{\\pi}, {4}$",
-        "D": "$\frac{\\pi}, {6}$"
+        "A": "$\\frac{\\pi}{2}$",
+        "B": "$\\frac{\\pi}{3}$",
+        "C": "$\\frac{\\pi}{4}$",
+        "D": "$\\frac{\\pi}{6}$"
       },
       "vikalpa": {
-        "A": "$\frac{\\pi}, {2}$",
-        "B": "$\frac{\\pi}, {3}$",
-        "C": "$\frac{\\pi}, {4}$",
-        "D": "$\frac{\\pi}, {6}$"
+        "A": "$\\frac{\\pi}{2}$",
+        "B": "$\\frac{\\pi}{3}$",
+        "C": "$\\frac{\\pi}{4}$",
+        "D": "$\\frac{\\pi}{6}$"
       }
     },
     {
@@ -366,13 +366,13 @@
       "options": {
         "A": "100 m",
         "B": "$100\\sqrt{2}$ m",
-        "C": "$\frac{200}, {\\sqrt{3}}$ m",
+        "C": "$\\frac{200}{\\sqrt{3}}$ m",
         "D": "200 m"
       },
       "vikalpa": {
         "A": "100 m",
         "B": "$100\\sqrt{2}$ m",
-        "C": "$\frac{200}, {\\sqrt{3}}$ m",
+        "C": "$\\frac{200}{\\sqrt{3}}$ m",
         "D": "200 m"
       }
     },
@@ -562,13 +562,13 @@
       "question": "If the angle of elevation of the sun is $60^\\circ$, then the height of the vertical tower that casts $30\text{ m}$ long shadow is",
       "prashna": "यदि सूर्य का उन्नयन कोण $60^\\circ$ है, तो $30\text{ मी}$ की लंबी छाया को बनानेवाली उदग्र मीनार की ऊँचाई है",
       "options": {
-        "A": "$\frac{30}, {\\sqrt{3}}\text{ m}$",
+        "A": "$\\frac{30}{\\sqrt{3}}\text{ m}$",
         "B": "$15\\sqrt{3}\text{ m}$",
         "C": "$30\\sqrt{3}\text{ m}$",
         "D": "$15\text{ m}$"
       },
       "vikalpa": {
-        "A": "$\frac{30}, {\\sqrt{3}}\text{ मी}$",
+        "A": "$\\frac{30}{\\sqrt{3}}\text{ मी}$",
         "B": "$15\\sqrt{3}\text{ मी}$",
         "C": "$30\\sqrt{3}\text{ मी}$",
         "D": "$15\text{ मी}$"

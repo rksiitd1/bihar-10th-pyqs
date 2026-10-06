@@ -68,8 +68,8 @@
       "type": "short_answer",
       "chapter": "3",
       "chapter_name": "Pair of Linear Equations in Two Variables",
-      "question": "Solve: $\frac{x}, {2} + \frac{2y}, {3} + 1 = 0$, $x - \frac{y}, {3} - 3 = 0$.",
-      "prashna": "हल करें: $\frac{x}, {2} + \frac{2y}, {3} + 1 = 0$, $x - \frac{y}, {3} - 3 = 0$."
+      "question": "Solve: $\\frac{x}{2} + \\frac{2y}{3} + 1 = 0$, $x - \\frac{y}{3} - 3 = 0$.",
+      "prashna": "हल करें: $\\frac{x}{2} + \\frac{2y}{3} + 1 = 0$, $x - \\frac{y}{3} - 3 = 0$."
     },
     {
       "id": "long_1",
@@ -84,8 +84,8 @@
       "type": "long_answer",
       "chapter": "3",
       "chapter_name": "Pair of Linear Equations in Two Variables",
-      "question": "A fraction becomes $\frac{1}, {3}$ when $1$ is subtracted from the numerator and it becomes $\frac{1}, {4}$ when $8$ is added to its denominator. Find the fraction.",
-      "prashna": "किसी भिन्न के अंश से $1$ घटाने पर $\frac{1}, {3}$ हो जाता है तथा इसके हर में $8$ जोड़ने पर $\frac{1}, {4}$ हो जाता है। भिन्न ज्ञात करें।"
+      "question": "A fraction becomes $\\frac{1}{3}$ when $1$ is subtracted from the numerator and it becomes $\\frac{1}{4}$ when $8$ is added to its denominator. Find the fraction.",
+      "prashna": "किसी भिन्न के अंश से $1$ घटाने पर $\\frac{1}{3}$ हो जाता है तथा इसके हर में $8$ जोड़ने पर $\\frac{1}{4}$ हो जाता है। भिन्न ज्ञात करें।"
     }
   ],
   "2018": [
@@ -900,8 +900,8 @@
       "chapter_name": "Pair of Linear Equations in Two Variables",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If 2 is added to both numerator and denominator of a fraction it becomes $\frac{9}, {11}$ and if 3 is added to its numerator and denominator it becomes $\frac{5}, {6}$. Find the fraction.",
-      "prashna": "यदि किसी भिन्न के अंश और हर दोनों में 2 जोड़ दिया जाए, तो वह $\frac{9}, {11}$ हो जाती है। यदि अंश और हर दोनों में 3 जोड़ दिया जाए, तो वह $\frac{5}, {6}$ हो जाती है। वह भिन्न ज्ञात करें।"
+      "question": "If 2 is added to both numerator and denominator of a fraction it becomes $\\frac{9}{11}$ and if 3 is added to its numerator and denominator it becomes $\\frac{5}{6}$. Find the fraction.",
+      "prashna": "यदि किसी भिन्न के अंश और हर दोनों में 2 जोड़ दिया जाए, तो वह $\\frac{9}{11}$ हो जाती है। यदि अंश और हर दोनों में 3 जोड़ दिया जाए, तो वह $\\frac{5}{6}$ हो जाती है। वह भिन्न ज्ञात करें।"
     },
     {
       "id": "long_8",
@@ -925,14 +925,14 @@
       "options": {
         "A": "$2$",
         "B": "$-2$",
-        "C": "$\frac{1}, {2}$",
-        "D": "$-\frac{1}, {2}$"
+        "C": "$\\frac{1}{2}$",
+        "D": "$-\\frac{1}{2}$"
       },
       "vikalpa": {
         "A": "$2$",
         "B": "$-2$",
-        "C": "$\frac{1}, {2}$",
-        "D": "$-\frac{1}, {2}$"
+        "C": "$\\frac{1}{2}$",
+        "D": "$-\\frac{1}{2}$"
       }
     },
     {
@@ -1006,8 +1006,8 @@
       "chapter_name": "Pair of Linear Equations in Two Variables",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $2$ is added to both numerator and denominator of a fraction, it becomes $\frac{1}, {2}$. If $7$ is subtracted from both numerator and denominator, it becomes $\frac{1}, {3}$. Find that fraction.",
-      "prashna": "यदि किसी भिन्न के अंश और हर दोनों में $2$ जोड़ दिया जाए, तो वह $\frac{1}, {2}$ हो जाती है। यदि अंश और हर दोनों में $7$ घटा दिया जाए, तो वह $\frac{1}, {3}$ हो जाती है। वह भिन्न ज्ञात करें।"
+      "question": "If $2$ is added to both numerator and denominator of a fraction, it becomes $\\frac{1}{2}$. If $7$ is subtracted from both numerator and denominator, it becomes $\\frac{1}{3}$. Find that fraction.",
+      "prashna": "यदि किसी भिन्न के अंश और हर दोनों में $2$ जोड़ दिया जाए, तो वह $\\frac{1}{2}$ हो जाती है। यदि अंश और हर दोनों में $7$ घटा दिया जाए, तो वह $\\frac{1}{3}$ हो जाती है। वह भिन्न ज्ञात करें।"
     }
   ],
   "2022": [
@@ -1151,16 +1151,16 @@
       "question": "The system of a pair of linear equations $a_1x + b_1y = c_1, a_2x + b_2y = c_2$ has infinitely many solutions if",
       "prashna": "युगपत रैखिक समीकरणों के निकाय $a_1x + b_1y = c_1, a_2x + b_2y = c_2$ के अनगिनत हल प्राप्त होते हैं यदि",
       "options": {
-        "A": "$\frac{a_1}, {a_2} = \frac{b_1}, {b_2} \neq \frac{c_1}, {c_2}$",
-        "B": "$\frac{a_1}, {a_2} \neq \frac{b_1}, {b_2} = \frac{c_1}, {c_2}$",
-        "C": "$\frac{a_1}, {a_2} \neq \frac{b_1}, {b_2} \neq \frac{c_1}, {c_2}$",
-        "D": "$\frac{a_1}, {a_2} = \frac{b_1}, {b_2} = \frac{c_1}, {c_2}$"
+        "A": "$\\frac{a_1}{a_2} = \\frac{b_1}{b_2} \neq \\frac{c_1}{c_2}$",
+        "B": "$\\frac{a_1}{a_2} \neq \\frac{b_1}{b_2} = \\frac{c_1}{c_2}$",
+        "C": "$\\frac{a_1}{a_2} \neq \\frac{b_1}{b_2} \neq \\frac{c_1}{c_2}$",
+        "D": "$\\frac{a_1}{a_2} = \\frac{b_1}{b_2} = \\frac{c_1}{c_2}$"
       },
       "vikalpa": {
-        "A": "$\frac{a_1}, {a_2} = \frac{b_1}, {b_2} \neq \frac{c_1}, {c_2}$",
-        "B": "$\frac{a_1}, {a_2} \neq \frac{b_1}, {b_2} = \frac{c_1}, {c_2}$",
-        "C": "$\frac{a_1}, {a_2} \neq \frac{b_1}, {b_2} \neq \frac{c_1}, {c_2}$",
-        "D": "$\frac{a_1}, {a_2} = \frac{b_1}, {b_2} = \frac{c_1}, {c_2}$"
+        "A": "$\\frac{a_1}{a_2} = \\frac{b_1}{b_2} \neq \\frac{c_1}{c_2}$",
+        "B": "$\\frac{a_1}{a_2} \neq \\frac{b_1}{b_2} = \\frac{c_1}{c_2}$",
+        "C": "$\\frac{a_1}{a_2} \neq \\frac{b_1}{b_2} \neq \\frac{c_1}{c_2}$",
+        "D": "$\\frac{a_1}{a_2} = \\frac{b_1}{b_2} = \\frac{c_1}{c_2}$"
       }
     },
     {
@@ -1344,8 +1344,8 @@
       "chapter_name": "Pair of Linear Equations in Two Variables",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "By comparing the ratios $\frac{a_1}, {a_2}$, $\frac{b_1}, {b_2}$ and $\frac{c_1}, {c_2}$, find out that the following pair $3x + 12y = 5, 2x + 8y = 7$ is inconsistent.",
-      "prashna": "अनुपातों $\frac{a_1}, {a_2}, \frac{b_1}, {b_2}$ एवं $\frac{c_1}, {c_2}$ की तुलना कर ज्ञात करें कि निम्नांकित युग्म $3x + 12y = 5, 2x + 8y = 7$ असंगत है।"
+      "question": "By comparing the ratios $\\frac{a_1}{a_2}$, $\\frac{b_1}{b_2}$ and $\\frac{c_1}{c_2}$, find out that the following pair $3x + 12y = 5, 2x + 8y = 7$ is inconsistent.",
+      "prashna": "अनुपातों $\\frac{a_1}{a_2}, \\frac{b_1}{b_2}$ एवं $\\frac{c_1}{c_2}$ की तुलना कर ज्ञात करें कि निम्नांकित युग्म $3x + 12y = 5, 2x + 8y = 7$ असंगत है।"
     },
     {
       "id": "long_1",
@@ -1398,8 +1398,8 @@
       "chapter_name": "Pair of Linear Equations in Two Variables",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "The pair of linear equations $\frac{3}, {2}x + \frac{5}, {3}y = 7$ and $9x - 10y = 14$ is",
-      "prashna": "रैखिक समीकरण युग्म $\frac{3}, {2}x + \frac{5}, {3}y = 7$ एवं $9x - 10y = 14$ हैं",
+      "question": "The pair of linear equations $\\frac{3}{2}x + \\frac{5}{3}y = 7$ and $9x - 10y = 14$ is",
+      "prashna": "रैखिक समीकरण युग्म $\\frac{3}{2}x + \\frac{5}{3}y = 7$ एवं $9x - 10y = 14$ हैं",
       "options": {
         "A": "consistent",
         "B": "inconsistent",
@@ -1467,13 +1467,13 @@
       "question": "If straight lines $4x + py = 16$ and $2x + 9y = 15$ are parallel then what is the value of $p$ ?",
       "prashna": "यदि सरल रेखाएँ $4x + py = 16$ तथा $2x + 9y = 15$ समांतर हैं तो $p$ का मान क्या होगा ?",
       "options": {
-        "A": "\frac{1}, {3}",
+        "A": "\\frac{1}{3}",
         "B": "3",
         "C": "18",
         "D": "-3"
       },
       "vikalpa": {
-        "A": "\frac{1}, {3}",
+        "A": "\\frac{1}{3}",
         "B": "3",
         "C": "18",
         "D": "-3"
@@ -1506,8 +1506,8 @@
       "chapter_name": "Pair of Linear Equations in Two Variables",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "On adding 1 to the numerator of a fraction it becomes $\frac{1}, {2}$ and on adding 1 to the denominator it becomes $\frac{1}, {3}$. Write the equation for this statement.",
-      "prashna": "किसी भिन्न के अंश के साथ 1 जोड़ने पर वह $\frac{1}, {2}$ बन जाता है और हर के साथ 1 जोड़ने पर वह $\frac{1}, {3}$ बन जाता है। इस कथन का समीकरण लिखें।"
+      "question": "On adding 1 to the numerator of a fraction it becomes $\\frac{1}{2}$ and on adding 1 to the denominator it becomes $\\frac{1}{3}$. Write the equation for this statement.",
+      "prashna": "किसी भिन्न के अंश के साथ 1 जोड़ने पर वह $\\frac{1}{2}$ बन जाता है और हर के साथ 1 जोड़ने पर वह $\\frac{1}{3}$ बन जाता है। इस कथन का समीकरण लिखें।"
     },
     {
       "id": "short_24",
@@ -1594,8 +1594,8 @@
       "chapter_name": "Pair of Linear Equations in Two Variables",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "The sum of two numbers is 50 and one number is $\frac{7}, {3}$ times of the other; then find the numbers.",
-      "prashna": "दो संख्याओं का योगफल 50 है एवं उसमें से एक संख्या दूसरी की $\frac{7}, {3}$ गुनी है; तो संख्याएँ ज्ञात करें।"
+      "question": "The sum of two numbers is 50 and one number is $\\frac{7}{3}$ times of the other; then find the numbers.",
+      "prashna": "दो संख्याओं का योगफल 50 है एवं उसमें से एक संख्या दूसरी की $\\frac{7}{3}$ गुनी है; तो संख्याएँ ज्ञात करें।"
     },
     {
       "id": "long_1",

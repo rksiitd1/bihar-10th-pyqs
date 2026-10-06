@@ -6,8 +6,8 @@
         "chapter_name": "Coordinate Geometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $P\\left(\frac{a}, {2}, 4\right)$ is the mid-point of the line segment joining the points $A(-6, 5)$ and $B(-2, 3)$, then the value of $a$ is",
-        "prashna": "यदि $P\\left(\frac{a}, {2}, 4\right)$, बिन्दुओं $A(-6, 5)$ एवं $B(-2, 3)$ को जोड़ने वाले रेखाखंड का मध्यबिन्दु है, तो $a$ का मान होगा",
+        "question": "If $P\\left(\\frac{a}{2}, 4\right)$ is the mid-point of the line segment joining the points $A(-6, 5)$ and $B(-2, 3)$, then the value of $a$ is",
+        "prashna": "यदि $P\\left(\\frac{a}{2}, 4\right)$, बिन्दुओं $A(-6, 5)$ एवं $B(-2, 3)$ को जोड़ने वाले रेखाखंड का मध्यबिन्दु है, तो $a$ का मान होगा",
         "options": {
             "A": "-8",
             "B": "3",
@@ -94,8 +94,8 @@
         "chapter_name": "Triangles",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "In $\triangle ABC$, $DE \\parallel BC$ such that $\frac{AD}, {DB} = \frac{3}, {5}$. If $AC = 5.6$ cm then $AE = ?$",
-        "prashna": "त्रिभुज $ABC$ में $DE \\parallel BC$ इस प्रकार है कि $\frac{AD}, {DB} = \frac{3}, {5}$। यदि $AC = 5.6$ सेमी तो $AE = ?$",
+        "question": "In $\triangle ABC$, $DE \\parallel BC$ such that $\\frac{AD}{DB} = \\frac{3}{5}$. If $AC = 5.6$ cm then $AE = ?$",
+        "prashna": "त्रिभुज $ABC$ में $DE \\parallel BC$ इस प्रकार है कि $\\frac{AD}{DB} = \\frac{3}{5}$। यदि $AC = 5.6$ सेमी तो $AE = ?$",
         "options": {
             "A": "4.2 cm",
             "B": "3.1 cm",
@@ -160,8 +160,8 @@
         "chapter_name": "Triangles",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If one side of an equilateral triangle $ABC$ is 12 cm and one side of equilateral triangle $DEF$ is 6 cm then $\frac{\text{area }(\triangle ABC)}, {\text{area }(\triangle DEF)} = $",
-        "prashna": "यदि समबाहु त्रिभुज $ABC$ की एक भुजा 12 सेमी तथा समबाहु त्रिभुज $DEF$ की एक भुजा 6 सेमी हों तो $\frac{\text{क्षेत्रफल }(\triangle ABC)}, {\text{क्षेत्रफल }(\triangle DEF)} = $",
+        "question": "If one side of an equilateral triangle $ABC$ is 12 cm and one side of equilateral triangle $DEF$ is 6 cm then $\\frac{\text{area }(\triangle ABC)}, {\text{area }(\triangle DEF)} = $",
+        "prashna": "यदि समबाहु त्रिभुज $ABC$ की एक भुजा 12 सेमी तथा समबाहु त्रिभुज $DEF$ की एक भुजा 6 सेमी हों तो $\\frac{\text{क्षेत्रफल }(\triangle ABC)}, {\text{क्षेत्रफल }(\triangle DEF)} = $",
         "options": {
             "A": "2 : 1",
             "B": "1 : 2",
@@ -296,13 +296,13 @@
         "prashna": "यदि 3 सेमी त्रिज्या वाले एक वृत्त पर खींची गई स्पर्शरेखाएँ परस्पर 60° के कोण पर झुकी हों तो प्रत्येक स्पर्शरेखा की लंबाई है",
         "options": {
             "A": "2\\sqrt{3} cm",
-            "B": "\frac{3\\sqrt{3}}, {2} cm",
+            "B": "\\frac{3\\sqrt{3}}, {2} cm",
             "C": "3\\sqrt{3} cm",
             "D": "4 cm"
         },
         "vikalpa": {
             "A": "2\\sqrt{3} सेमी",
-            "B": "\frac{3\\sqrt{3}}, {2} सेमी",
+            "B": "\\frac{3\\sqrt{3}}, {2} सेमी",
             "C": "3\\sqrt{3} सेमी",
             "D": "4 सेमी"
         }
@@ -424,8 +424,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "$\\sqrt{\frac{1 + \\cos A}, {1 - \\cos A}} = $",
-        "prashna": "$\\sqrt{\frac{1 + \\cos A}, {1 - \\cos A}} = $",
+        "question": "$\\sqrt{\\frac{1 + \\cos A}{1 - \\cos A}} = $",
+        "prashna": "$\\sqrt{\\frac{1 + \\cos A}{1 - \\cos A}} = $",
         "options": {
             "A": "\text{cosec } A - \\cot A",
             "B": "\text{cosec } A + \\cot A",
@@ -490,8 +490,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "$\frac{\text{cosec } 42°}, {\\sec 48°} \times \frac{\\cos 37°}, {\\sin 53°} = $",
-        "prashna": "$\frac{\text{cosec } 42°}, {\\sec 48°} \times \frac{\\cos 37°}, {\\sin 53°} = $",
+        "question": "$\\frac{\text{cosec } 42°}, {\\sec 48°} \times \\frac{\\cos 37°}{\\sin 53°} = $",
+        "prashna": "$\\frac{\text{cosec } 42°}, {\\sec 48°} \times \\frac{\\cos 37°}{\\sin 53°} = $",
         "options": {
             "A": "0",
             "B": "1/2",
@@ -512,8 +512,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\tan(\\alpha + \beta) = \\sqrt{3}$ and $\tan \\alpha = 1/\\sqrt{3}$ then the value of $\tan \beta$ is",
-        "prashna": "यदि $\tan(\\alpha + \beta) = \\sqrt{3}$ और $\tan \\alpha = 1/\\sqrt{3}$ तो $\tan \beta$ का मान है",
+        "question": "If $\tan(\\alpha + \\beta) = \\sqrt{3}$ and $\tan \\alpha = 1/\\sqrt{3}$ then the value of $\tan \\beta$ is",
+        "prashna": "यदि $\tan(\\alpha + \\beta) = \\sqrt{3}$ और $\tan \\alpha = 1/\\sqrt{3}$ तो $\tan \\beta$ का मान है",
         "options": {
             "A": "1/6",
             "B": "1/7",
@@ -534,8 +534,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "$\\sqrt{2}\\left(\\sin \frac{\\pi}, {4} + \\cos \frac{\\pi}, {4}\right) = $",
-        "prashna": "$\\sqrt{2}\\left(\\sin \frac{\\pi}, {4} + \\cos \frac{\\pi}, {4}\right) = $",
+        "question": "$\\sqrt{2}\\left(\\sin \\frac{\\pi}{4} + \\cos \\frac{\\pi}{4}\right) = $",
+        "prashna": "$\\sqrt{2}\\left(\\sin \\frac{\\pi}{4} + \\cos \\frac{\\pi}{4}\right) = $",
         "options": {
             "A": "\\sqrt{2}",
             "B": "2",
@@ -666,8 +666,8 @@
         "chapter_name": "Polynomials",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $p(x) = x^4 - 5x + 6$ and $q(x) = 2 - x^2$, then the degree of $\frac{p(x)}, {q(x)}$ is",
-        "prashna": "यदि $p(x) = x^4 - 5x + 6$ एवं $q(x) = 2 - x^2$ हो तो $\frac{p(x)}, {q(x)}$ का घात होगा",
+        "question": "If $p(x) = x^4 - 5x + 6$ and $q(x) = 2 - x^2$, then the degree of $\\frac{p(x)}{q(x)}$ is",
+        "prashna": "यदि $p(x) = x^4 - 5x + 6$ एवं $q(x) = 2 - x^2$ हो तो $\\frac{p(x)}{q(x)}$ का घात होगा",
         "options": {
             "A": "2",
             "B": "4",
@@ -820,8 +820,8 @@
         "chapter_name": "Polynomials",
         "confidence": 0.67,
         "raw_choice": "2. Polynomials (बहुपद)",
-        "question": "If $\\alpha$ and $\beta$ are the roots of the quadratic equation $x^2 + 6x + 5 = 0$ then the value of $\\alpha^2 + \beta^2$ is",
-        "prashna": "यदि द्विघात समीकरण $x^2 + 6x + 5 = 0$ के मूल $\\alpha$ एवं $\beta$ हों तो $\\alpha^2 + \beta^2$ का मान होगा",
+        "question": "If $\\alpha$ and $\\beta$ are the roots of the quadratic equation $x^2 + 6x + 5 = 0$ then the value of $\\alpha^2 + \\beta^2$ is",
+        "prashna": "यदि द्विघात समीकरण $x^2 + 6x + 5 = 0$ के मूल $\\alpha$ एवं $\\beta$ हों तो $\\alpha^2 + \\beta^2$ का मान होगा",
         "options": {
             "A": "30",
             "B": "16",
@@ -845,16 +845,16 @@
         "question": "The roots of the quadratic equation $px^2 - qx + r = 0, p \neq 0$ are",
         "prashna": "द्विघात समीकरण $px^2 - qx + r = 0, p \neq 0$ के मूल हैं",
         "options": {
-            "A": "\frac{q \\pm \\sqrt{q^2 - 4pr}}, {2p}",
-            "B": "\frac{q \\pm \\sqrt{q^2 + 4pr}}, {2p}",
-            "C": "\frac{-q \\pm \\sqrt{q^2 - 4pr}}, {2p}",
-            "D": "\frac{-q \\pm \\sqrt{q^2 + 4pr}}, {2p}"
+            "A": "\\frac{q \\pm \\sqrt{q^2 - 4pr}}, {2p}",
+            "B": "\\frac{q \\pm \\sqrt{q^2 + 4pr}}, {2p}",
+            "C": "\\frac{-q \\pm \\sqrt{q^2 - 4pr}}, {2p}",
+            "D": "\\frac{-q \\pm \\sqrt{q^2 + 4pr}}, {2p}"
         },
         "vikalpa": {
-            "A": "\frac{q \\pm \\sqrt{q^2 - 4pr}}, {2p}",
-            "B": "\frac{q \\pm \\sqrt{q^2 + 4pr}}, {2p}",
-            "C": "\frac{-q \\pm \\sqrt{q^2 - 4pr}}, {2p}",
-            "D": "\frac{-q \\pm \\sqrt{q^2 + 4pr}}, {2p}"
+            "A": "\\frac{q \\pm \\sqrt{q^2 - 4pr}}, {2p}",
+            "B": "\\frac{q \\pm \\sqrt{q^2 + 4pr}}, {2p}",
+            "C": "\\frac{-q \\pm \\sqrt{q^2 - 4pr}}, {2p}",
+            "D": "\\frac{-q \\pm \\sqrt{q^2 + 4pr}}, {2p}"
         }
     },
     {
@@ -976,8 +976,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "Prove that $\frac{\\sec^3 \theta}, {\\sec^2 \theta - 1} + \frac{\text{cosec}^3 \theta}, {\text{cosec}^2 \theta - 1} = \\sec \theta \text{cosec } \theta (\\sec \theta + \text{cosec } \theta)$.",
-        "prashna": "सिद्ध करें कि $\frac{\\sec^3 \theta}, {\\sec^2 \theta - 1} + \frac{\text{cosec}^3 \theta}, {\text{cosec}^2 \theta - 1} = \\sec \theta \text{cosec } \theta (\\sec \theta + \text{cosec } \theta)$।"
+        "question": "Prove that $\\frac{\\sec^3 \theta}{\\sec^2 \theta - 1} + \\frac{\text{cosec}^3 \theta}, {\text{cosec}^2 \theta - 1} = \\sec \theta \text{cosec } \theta (\\sec \theta + \text{cosec } \theta)$.",
+        "prashna": "सिद्ध करें कि $\\frac{\\sec^3 \theta}{\\sec^2 \theta - 1} + \\frac{\text{cosec}^3 \theta}, {\text{cosec}^2 \theta - 1} = \\sec \theta \text{cosec } \theta (\\sec \theta + \text{cosec } \theta)$।"
     },
     {
         "id": "long_8",

@@ -224,8 +224,8 @@
       "chapter_name": "Circles",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "The in-circle of a triangle ABC touches the sides BC, CA and AB at D, E and F respectively. Prove that: $AF + BD + CE = AE + CD + BF = \frac{1}, {2}(\text{Perimeter of } \triangle ABC)$",
-      "prashna": "$\triangle ABC$ का अन्तःवृत भुजाओं $BC, CA$ तथा $AB$ को क्रमशः $D, E$ तथा $F$ पर स्पर्श करता है। सिद्ध कीजिए कि - $AF + BD + CE = AE + CD + BF = \frac{1}, {2}(\triangle ABC \text{ का परिमाप})$"
+      "question": "The in-circle of a triangle ABC touches the sides BC, CA and AB at D, E and F respectively. Prove that: $AF + BD + CE = AE + CD + BF = \\frac{1}{2}(\text{Perimeter of } \triangle ABC)$",
+      "prashna": "$\triangle ABC$ का अन्तःवृत भुजाओं $BC, CA$ तथा $AB$ को क्रमशः $D, E$ तथा $F$ पर स्पर्श करता है। सिद्ध कीजिए कि - $AF + BD + CE = AE + CD + BF = \\frac{1}{2}(\triangle ABC \text{ का परिमाप})$"
     },
     {
       "id": "obj_38",
@@ -320,8 +320,8 @@
       "chapter_name": "Circles",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "The in-circle of a triangle ABC touches the sides BC, CA and AB at D, E and F respectively. Prove that: $AF + BD + CE = AE + CD + BF = \frac{1}, {2}(\text{Perimeter of } \triangle ABC)$.",
-      "prashna": "$\triangle ABC$ का अन्तः वृत्त भुजाओं BC, CA तथा AB को क्रमशः D, E तथा F पर स्पर्श करता है। सिद्ध कीजिए कि - $AF + BD + CE = AE + CD + BF = \frac{1}, {2}(\triangle ABC \text{ का परिमाप})$."
+      "question": "The in-circle of a triangle ABC touches the sides BC, CA and AB at D, E and F respectively. Prove that: $AF + BD + CE = AE + CD + BF = \\frac{1}{2}(\text{Perimeter of } \triangle ABC)$.",
+      "prashna": "$\triangle ABC$ का अन्तः वृत्त भुजाओं BC, CA तथा AB को क्रमशः D, E तथा F पर स्पर्श करता है। सिद्ध कीजिए कि - $AF + BD + CE = AE + CD + BF = \\frac{1}{2}(\triangle ABC \text{ का परिमाप})$."
     }
   ],
   "2019": [
@@ -552,13 +552,13 @@
       "prashna": "यदि 3 cm त्रिज्या वाले एक वृत्त पर खींची गई दो स्पर्श रेखाएँ परस्पर $60^\\circ$ के कोण पर झुकी हों, तो प्रत्येक स्पर्श रेखा की लंबाई है",
       "options": {
         "A": "$2\\sqrt{3}$ cm",
-        "B": "$\frac{3\\sqrt{3}}, {2}$ cm",
+        "B": "$\\frac{3\\sqrt{3}}, {2}$ cm",
         "C": "$3\\sqrt{3}$ cm",
         "D": "6 cm"
       },
       "vikalpa": {
         "A": "$2\\sqrt{3}$ cm",
-        "B": "$\frac{3\\sqrt{3}}, {2}$ cm",
+        "B": "$\\frac{3\\sqrt{3}}, {2}$ cm",
         "C": "$3\\sqrt{3}$ cm",
         "D": "6 cm"
       }
@@ -592,8 +592,8 @@
       "chapter_name": "Circles",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "A circle is touching the side BC of $\triangle ABC$ at P and touching AB and AC produced at Q and R respectively. Prove that $AQ = \frac{1}, {2}(\text{Perimeter of } \triangle ABC)$.",
-      "prashna": "एक वृत्त $\triangle ABC$ की भुजा BC को P बिन्दु पर स्पर्श करता है तथा भुजाओं AB और AC को बढ़ाने पर क्रमशः Q तथा R पर स्पर्श करता है। सिद्ध कीजिए कि $AQ = \frac{1}, {2}(\triangle ABC \text{ का परिमाप})$।"
+      "question": "A circle is touching the side BC of $\triangle ABC$ at P and touching AB and AC produced at Q and R respectively. Prove that $AQ = \\frac{1}{2}(\text{Perimeter of } \triangle ABC)$.",
+      "prashna": "एक वृत्त $\triangle ABC$ की भुजा BC को P बिन्दु पर स्पर्श करता है तथा भुजाओं AB और AC को बढ़ाने पर क्रमशः Q तथा R पर स्पर्श करता है। सिद्ध कीजिए कि $AQ = \\frac{1}{2}(\triangle ABC \text{ का परिमाप})$।"
     },
     {
       "id": "long_30",
@@ -1206,13 +1206,13 @@
       "prashna": "यदि 3 सेमी त्रिज्या वाले एक वृत्त पर खींची गई स्पर्शरेखाएँ परस्पर 60° के कोण पर झुकी हों तो प्रत्येक स्पर्शरेखा की लंबाई है",
       "options": {
         "A": "2\\sqrt{3} cm",
-        "B": "\frac{3\\sqrt{3}}, {2} cm",
+        "B": "\\frac{3\\sqrt{3}}, {2} cm",
         "C": "3\\sqrt{3} cm",
         "D": "4 cm"
       },
       "vikalpa": {
         "A": "2\\sqrt{3} सेमी",
-        "B": "\frac{3\\sqrt{3}}, {2} सेमी",
+        "B": "\\frac{3\\sqrt{3}}, {2} सेमी",
         "C": "3\\sqrt{3} सेमी",
         "D": "4 सेमी"
       }
@@ -1738,13 +1738,13 @@
       "prashna": "यदि 3 सेमी त्रिज्या वाले एक वृत्त पर खींची गई दो स्पर्श रेखाएँ परस्पर 60^{\\circ} के कोण पर झुकी हों तो प्रत्येक स्पर्श रेखा की लंबाई है",
       "options": {
         "A": "4 cm",
-        "B": "\frac{3\\sqrt{3}}, {2} cm",
+        "B": "\\frac{3\\sqrt{3}}, {2} cm",
         "C": "3\\sqrt{3} cm",
         "D": "2\\sqrt{3} cm"
       },
       "vikalpa": {
         "A": "4 सेमी",
-        "B": "\frac{3\\sqrt{3}}, {2} सेमी",
+        "B": "\\frac{3\\sqrt{3}}, {2} सेमी",
         "C": "3\\sqrt{3} सेमी",
         "D": "2\\sqrt{3} सेमी"
       }

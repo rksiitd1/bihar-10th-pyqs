@@ -75,16 +75,16 @@
         "question": "$\tan 30^\\circ \times \\sin 30^\\circ \times \\sec 60^\\circ =$",
         "prashna": "$\tan 30^\\circ \times \\sin 30^\\circ \times \\sec 60^\\circ =$",
         "options": {
-            "A": "$\frac{1}, {\\sqrt{3}}$",
+            "A": "$\\frac{1}{\\sqrt{3}}$",
             "B": "$\\sqrt{3}$",
-            "C": "$\frac{2}, {\\sqrt{3}}$",
-            "D": "$\frac{2}, {3}$"
+            "C": "$\\frac{2}{\\sqrt{3}}$",
+            "D": "$\\frac{2}{3}$"
         },
         "vikalpa": {
-            "A": "$\frac{1}, {\\sqrt{3}}$",
+            "A": "$\\frac{1}{\\sqrt{3}}$",
             "B": "$\\sqrt{3}$",
-            "C": "$\frac{2}, {\\sqrt{3}}$",
-            "D": "$\frac{2}, {3}$"
+            "C": "$\\frac{2}{\\sqrt{3}}$",
+            "D": "$\\frac{2}{3}$"
         }
     },
     {
@@ -97,16 +97,16 @@
         "question": "The length of the arc corresponding to the sector having radius $r$ and angle $\theta$ is",
         "prashna": "$r$ त्रिज्या तथा कोण $\theta$ वाले त्रिज्यखण्ड के संगत चाप की लंबाई है",
         "options": {
-            "A": "$\frac{\theta}, {360} \times \\pi r^2$",
-            "B": "$\frac{\theta}, {360} \times 2\\pi r$",
-            "C": "$\frac{\theta}, {180} \times 2\\pi r$",
-            "D": "$\frac{\theta}, {180} \times \\pi r^2$"
+            "A": "$\\frac{\theta}{360} \times \\pi r^2$",
+            "B": "$\\frac{\theta}{360} \times 2\\pi r$",
+            "C": "$\\frac{\theta}{180} \times 2\\pi r$",
+            "D": "$\\frac{\theta}{180} \times \\pi r^2$"
         },
         "vikalpa": {
-            "A": "$\frac{\theta}, {360} \times \\pi r^2$",
-            "B": "$\frac{\theta}, {360} \times 2\\pi r$",
-            "C": "$\frac{\theta}, {180} \times 2\\pi r$",
-            "D": "$\frac{\theta}, {180} \times \\pi r^2$"
+            "A": "$\\frac{\theta}{360} \times \\pi r^2$",
+            "B": "$\\frac{\theta}{360} \times 2\\pi r$",
+            "C": "$\\frac{\theta}{180} \times 2\\pi r$",
+            "D": "$\\frac{\theta}{180} \times \\pi r^2$"
         }
     },
     {
@@ -273,15 +273,15 @@
         "question": "If $\tan \theta = \\sqrt{3}$, then the value of $\\sec \theta$ is",
         "prashna": "यदि $\tan \theta = \\sqrt{3}$ हो, तो $\\sec \theta$ का मान है",
         "options": {
-            "A": "$\frac{2}, {\\sqrt{3}}$",
-            "B": "$\frac{\\sqrt{3}}, {2}$",
-            "C": "$\frac{1}, {2}$",
+            "A": "$\\frac{2}{\\sqrt{3}}$",
+            "B": "$\\frac{\\sqrt{3}}, {2}$",
+            "C": "$\\frac{1}{2}$",
             "D": "2"
         },
         "vikalpa": {
-            "A": "$\frac{2}, {\\sqrt{3}}$",
-            "B": "$\frac{\\sqrt{3}}, {2}$",
-            "C": "$\frac{1}, {2}$",
+            "A": "$\\frac{2}{\\sqrt{3}}$",
+            "B": "$\\frac{\\sqrt{3}}, {2}$",
+            "C": "$\\frac{1}{2}$",
             "D": "2"
         }
     },
@@ -292,19 +292,19 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\\cos \theta + \\sec \theta = \frac{5}, {2}$, then the value of $\\cos^2 \theta + \\sec^2 \theta$ is",
-        "prashna": "यदि $\\cos \theta + \\sec \theta = \frac{5}, {2}$ हो, तो $\\cos^2 \theta + \\sec^2 \theta$ का मान है",
+        "question": "If $\\cos \theta + \\sec \theta = \\frac{5}{2}$, then the value of $\\cos^2 \theta + \\sec^2 \theta$ is",
+        "prashna": "यदि $\\cos \theta + \\sec \theta = \\frac{5}{2}$ हो, तो $\\cos^2 \theta + \\sec^2 \theta$ का मान है",
         "options": {
-            "A": "$\frac{21}, {4}$",
-            "B": "$\frac{17}, {4}$",
-            "C": "$\frac{29}, {4}$",
-            "D": "$\frac{33}, {4}$"
+            "A": "$\\frac{21}{4}$",
+            "B": "$\\frac{17}{4}$",
+            "C": "$\\frac{29}{4}$",
+            "D": "$\\frac{33}{4}$"
         },
         "vikalpa": {
-            "A": "$\frac{21}, {4}$",
-            "B": "$\frac{17}, {4}$",
-            "C": "$\frac{29}, {4}$",
-            "D": "$\frac{33}, {4}$"
+            "A": "$\\frac{21}{4}$",
+            "B": "$\\frac{17}{4}$",
+            "C": "$\\frac{29}{4}$",
+            "D": "$\\frac{33}{4}$"
         }
     },
     {
@@ -363,13 +363,13 @@
         "options": {
             "A": "0",
             "B": "1",
-            "C": "$\frac{\\sqrt{3}}, {2}$",
+            "C": "$\\frac{\\sqrt{3}}, {2}$",
             "D": "-1"
         },
         "vikalpa": {
             "A": "0",
             "B": "1",
-            "C": "$\frac{\\sqrt{3}}, {2}$",
+            "C": "$\\frac{\\sqrt{3}}, {2}$",
             "D": "-1"
         }
     },
@@ -383,16 +383,16 @@
         "question": "If three coins are tossed simultaneously then the probability of getting the same outcomes in all three coins is",
         "prashna": "यदि तीन सिक्कों को एक साथ उछाला जाता है तो तीनों पर एक ही परिणाम आने की प्रायिकता है",
         "options": {
-            "A": "$\frac{1}, {2}$",
-            "B": "$\frac{1}, {4}$",
-            "C": "$\frac{1}, {3}$",
-            "D": "$\frac{3}, {8}$"
+            "A": "$\\frac{1}{2}$",
+            "B": "$\\frac{1}{4}$",
+            "C": "$\\frac{1}{3}$",
+            "D": "$\\frac{3}{8}$"
         },
         "vikalpa": {
-            "A": "$\frac{1}, {2}$",
-            "B": "$\frac{1}, {4}$",
-            "C": "$\frac{1}, {3}$",
-            "D": "$\frac{3}, {8}$"
+            "A": "$\\frac{1}{2}$",
+            "B": "$\\frac{1}{4}$",
+            "C": "$\\frac{1}{3}$",
+            "D": "$\\frac{3}{8}$"
         }
     },
     {
@@ -424,8 +424,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "$\frac{\\sin^2 \theta - 1}, {\\cos^2 \theta} =$",
-        "prashna": "$\frac{\\sin^2 \theta - 1}, {\\cos^2 \theta} =$",
+        "question": "$\\frac{\\sin^2 \theta - 1}{\\cos^2 \theta} =$",
+        "prashna": "$\\frac{\\sin^2 \theta - 1}{\\cos^2 \theta} =$",
         "options": {
             "A": "$\\sec^2 \theta$",
             "B": "$\tan^2 \theta$",
@@ -666,19 +666,19 @@
         "chapter_name": "Real Numbers",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "$0.\\overline{49}$ can be expressed in the form $\frac{p}, {q}$ (where $p, q$ are integers $q \neq 0$) as",
-        "prashna": "$0.\\overline{49}$ को $\frac{p}, {q}$ के रूप में लिखा जा सकता है (जहाँ $p, q$ पूर्णांक है $q \neq 0$)",
+        "question": "$0.\\overline{49}$ can be expressed in the form $\\frac{p}{q}$ (where $p, q$ are integers $q \neq 0$) as",
+        "prashna": "$0.\\overline{49}$ को $\\frac{p}{q}$ के रूप में लिखा जा सकता है (जहाँ $p, q$ पूर्णांक है $q \neq 0$)",
         "options": {
-            "A": "$\frac{49}, {100}$",
-            "B": "$\frac{49}, {99}$",
-            "C": "$\frac{49}, {90}$",
-            "D": "$\frac{49}, {9}$"
+            "A": "$\\frac{49}{100}$",
+            "B": "$\\frac{49}{99}$",
+            "C": "$\\frac{49}{90}$",
+            "D": "$\\frac{49}{9}$"
         },
         "vikalpa": {
-            "A": "$\frac{49}, {100}$",
-            "B": "$\frac{49}, {99}$",
-            "C": "$\frac{49}, {90}$",
-            "D": "$\frac{49}, {9}$"
+            "A": "$\\frac{49}{100}$",
+            "B": "$\\frac{49}{99}$",
+            "C": "$\\frac{49}{90}$",
+            "D": "$\\frac{49}{9}$"
         }
     },
     {
@@ -713,16 +713,16 @@
         "question": "The zero of the polynomial $10x - 25$ is",
         "prashna": "बहुपद $10x - 25$ का शून्यक है",
         "options": {
-            "A": "$\frac{5}, {2}$",
-            "B": "$-\frac{5}, {2}$",
-            "C": "$\frac{1}, {2}$",
-            "D": "$\frac{5}, {4}$"
+            "A": "$\\frac{5}{2}$",
+            "B": "$-\\frac{5}{2}$",
+            "C": "$\\frac{1}{2}$",
+            "D": "$\\frac{5}{4}$"
         },
         "vikalpa": {
-            "A": "$\frac{5}, {2}$",
-            "B": "$-\frac{5}, {2}$",
-            "C": "$\frac{1}, {2}$",
-            "D": "$\frac{5}, {4}$"
+            "A": "$\\frac{5}{2}$",
+            "B": "$-\\frac{5}{2}$",
+            "C": "$\\frac{1}{2}$",
+            "D": "$\\frac{5}{4}$"
         }
     },
     {
@@ -930,18 +930,18 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "$\frac{\tan 45^\\circ - \tan 30^\\circ}, {1 + \tan 45^\\circ \\cdot \tan 30^\\circ} =$",
-        "prashna": "$\frac{\tan 45^\\circ - \tan 30^\\circ}, {1 + \tan 45^\\circ \\cdot \tan 30^\\circ} =$",
+        "question": "$\\frac{\tan 45^\\circ - \tan 30^\\circ}{1 + \tan 45^\\circ \\cdot \tan 30^\\circ} =$",
+        "prashna": "$\\frac{\tan 45^\\circ - \tan 30^\\circ}{1 + \tan 45^\\circ \\cdot \tan 30^\\circ} =$",
         "options": {
-            "A": "$\frac{\\sqrt{3}-1}, {\\sqrt{3}+1}$",
-            "B": "$\frac{\\sqrt{3}+1}, {\\sqrt{3}-1}$",
-            "C": "$\frac{1}, {\\sqrt{3}}$",
+            "A": "$\\frac{\\sqrt{3}-1}, {\\sqrt{3}+1}$",
+            "B": "$\\frac{\\sqrt{3}+1}, {\\sqrt{3}-1}$",
+            "C": "$\\frac{1}{\\sqrt{3}}$",
             "D": "1"
         },
         "vikalpa": {
-            "A": "$\frac{\\sqrt{3}-1}, {\\sqrt{3}+1}$",
-            "B": "$\frac{\\sqrt{3}+1}, {\\sqrt{3}-1}$",
-            "C": "$\frac{1}, {\\sqrt{3}}$",
+            "A": "$\\frac{\\sqrt{3}-1}, {\\sqrt{3}+1}$",
+            "B": "$\\frac{\\sqrt{3}+1}, {\\sqrt{3}-1}$",
+            "C": "$\\frac{1}{\\sqrt{3}}$",
             "D": "1"
         }
     },
@@ -978,15 +978,15 @@
         "prashna": "एक त्रिभुज $OAB$ जिसके शीर्ष $A(a, 0), O(0, 0)$ और $B(0, b)$ हैं, का क्षेत्रफल (वर्ग इकाई में) है",
         "options": {
             "A": "$ab$",
-            "B": "$\frac{1}, {2}ab$",
-            "C": "$\frac{1}, {2}a^2b^2$",
-            "D": "$\frac{1}, {2}b^2$"
+            "B": "$\\frac{1}{2}ab$",
+            "C": "$\\frac{1}{2}a^2b^2$",
+            "D": "$\\frac{1}{2}b^2$"
         },
         "vikalpa": {
             "A": "$ab$",
-            "B": "$\frac{1}, {2}ab$",
-            "C": "$\frac{1}, {2}a^2b^2$",
-            "D": "$\frac{1}, {2}b^2$"
+            "B": "$\\frac{1}{2}ab$",
+            "C": "$\\frac{1}{2}a^2b^2$",
+            "D": "$\\frac{1}{2}b^2$"
         }
     },
     {
@@ -1002,13 +1002,13 @@
             "A": "1",
             "B": "-1",
             "C": "3",
-            "D": "$\frac{1}, {3}$"
+            "D": "$\\frac{1}{3}$"
         },
         "vikalpa": {
             "A": "1",
             "B": "-1",
             "C": "3",
-            "D": "$\frac{1}, {3}$"
+            "D": "$\\frac{1}{3}$"
         }
     },
     {
@@ -1175,16 +1175,16 @@
         "question": "A side of an equilateral triangle $ABC$ is $a$. Its area is",
         "prashna": "एक समबाहु त्रिभुज $ABC$ की एक भुजा $a$ है। इसका क्षेत्रफल होगा",
         "options": {
-            "A": "$\frac{\\sqrt{3}}, {4} a$",
-            "B": "$\frac{\\sqrt{3}}, {4} a^2$",
-            "C": "$\frac{4}, {\\sqrt{3}} a^2$",
-            "D": "$\frac{1}, {\\sqrt{3}} a^2$"
+            "A": "$\\frac{\\sqrt{3}}, {4} a$",
+            "B": "$\\frac{\\sqrt{3}}, {4} a^2$",
+            "C": "$\\frac{4}{\\sqrt{3}} a^2$",
+            "D": "$\\frac{1}{\\sqrt{3}} a^2$"
         },
         "vikalpa": {
-            "A": "$\frac{\\sqrt{3}}, {4} a$",
-            "B": "$\frac{\\sqrt{3}}, {4} a^2$",
-            "C": "$\frac{4}, {\\sqrt{3}} a^2$",
-            "D": "$\frac{1}, {\\sqrt{3}} a^2$"
+            "A": "$\\frac{\\sqrt{3}}, {4} a$",
+            "B": "$\\frac{\\sqrt{3}}, {4} a^2$",
+            "C": "$\\frac{4}{\\sqrt{3}} a^2$",
+            "D": "$\\frac{1}{\\sqrt{3}} a^2$"
         }
     },
     {
@@ -1216,8 +1216,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "$\frac{\tan \theta}, {\\sec \theta - 1} + \frac{\tan \theta}, {\\sec \theta + 1} =$",
-        "prashna": "$\frac{\tan \theta}, {\\sec \theta - 1} + \frac{\tan \theta}, {\\sec \theta + 1} =$",
+        "question": "$\\frac{\tan \theta}{\\sec \theta - 1} + \\frac{\tan \theta}{\\sec \theta + 1} =$",
+        "prashna": "$\\frac{\tan \theta}{\\sec \theta - 1} + \\frac{\tan \theta}{\\sec \theta + 1} =$",
         "options": {
             "A": "$2\tan \theta$",
             "B": "$2\\sec \theta$",
@@ -1264,15 +1264,15 @@
         "prashna": "एक सिक्के को उछालने पर पट आने की प्रायिकता है",
         "options": {
             "A": "0",
-            "B": "$\frac{1}, {2}$",
+            "B": "$\\frac{1}{2}$",
             "C": "1",
-            "D": "$\frac{1}, {4}$"
+            "D": "$\\frac{1}{4}$"
         },
         "vikalpa": {
             "A": "0",
-            "B": "$\frac{1}, {2}$",
+            "B": "$\\frac{1}{2}$",
             "C": "1",
-            "D": "$\frac{1}, {4}$"
+            "D": "$\\frac{1}{4}$"
         }
     },
     {
@@ -1285,16 +1285,16 @@
         "question": "Two dice are thrown simultaneously. The probability that the sum of the numbers appearing on these dice is 10, is",
         "prashna": "दो पासे एक साथ फेंके गए। इन पासों के ऊपर आने वाली संख्याओं का योग 10 होने की प्रायिकता है",
         "options": {
-            "A": "$\frac{1}, {4}$",
-            "B": "$\frac{1}, {6}$",
-            "C": "$\frac{1}, {12}$",
-            "D": "$\frac{1}, {36}$"
+            "A": "$\\frac{1}{4}$",
+            "B": "$\\frac{1}{6}$",
+            "C": "$\\frac{1}{12}$",
+            "D": "$\\frac{1}{36}$"
         },
         "vikalpa": {
-            "A": "$\frac{1}, {4}$",
-            "B": "$\frac{1}, {6}$",
-            "C": "$\frac{1}, {12}$",
-            "D": "$\frac{1}, {36}$"
+            "A": "$\\frac{1}{4}$",
+            "B": "$\\frac{1}{6}$",
+            "C": "$\\frac{1}{12}$",
+            "D": "$\\frac{1}{36}$"
         }
     },
     {
@@ -1307,15 +1307,15 @@
         "question": "$\\sin 90^\\circ \times \tan 60^\\circ \times \\cos 30^\\circ =$",
         "prashna": "$\\sin 90^\\circ \times \tan 60^\\circ \times \\cos 30^\\circ =$",
         "options": {
-            "A": "$\frac{1}, {2}$",
-            "B": "$\frac{3}, {2}$",
-            "C": "$\frac{2}, {3}$",
+            "A": "$\\frac{1}{2}$",
+            "B": "$\\frac{3}{2}$",
+            "C": "$\\frac{2}{3}$",
             "D": "0"
         },
         "vikalpa": {
-            "A": "$\frac{1}, {2}$",
-            "B": "$\frac{3}, {2}$",
-            "C": "$\frac{2}, {3}$",
+            "A": "$\\frac{1}{2}$",
+            "B": "$\\frac{3}{2}$",
+            "C": "$\\frac{2}{3}$",
             "D": "0"
         }
     },
@@ -1326,18 +1326,18 @@
         "chapter_name": "Real Numbers",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "In the form of $\frac{p}, {2^m \times 5^n}$, $0.67$ can be written as",
-        "prashna": "$\frac{p}, {2^m \times 5^n}$ के रूप में $0.67$ को लिखा जा सकता है",
+        "question": "In the form of $\\frac{p}{2^m \times 5^n}$, $0.67$ can be written as",
+        "prashna": "$\\frac{p}{2^m \times 5^n}$ के रूप में $0.67$ को लिखा जा सकता है",
         "options": {
-            "A": "$\frac{67}, {2^0 \times 5}$",
-            "B": "$\frac{67}, {2^2 \times 5^2}$",
-            "C": "$\frac{67}, {2 \times 5}$",
+            "A": "$\\frac{67}{2^0 \times 5}$",
+            "B": "$\\frac{67}{2^2 \times 5^2}$",
+            "C": "$\\frac{67}{2 \times 5}$",
             "D": "none of these"
         },
         "vikalpa": {
-            "A": "$\frac{67}, {2^0 \times 5}$",
-            "B": "$\frac{67}, {2^2 \times 5^2}$",
-            "C": "$\frac{67}, {2 \times 5}$",
+            "A": "$\\frac{67}{2^0 \times 5}$",
+            "B": "$\\frac{67}{2^2 \times 5^2}$",
+            "C": "$\\frac{67}{2 \times 5}$",
             "D": "इनमें से कोई नहीं"
         }
     },
@@ -1502,8 +1502,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "Which of the following is equal to $\frac{1}, {\\sqrt{2}}$ ?",
-        "prashna": "निम्नलिखित में से किसका मान $\frac{1}, {\\sqrt{2}}$ के बराबर है ?",
+        "question": "Which of the following is equal to $\\frac{1}{\\sqrt{2}}$ ?",
+        "prashna": "निम्नलिखित में से किसका मान $\\frac{1}{\\sqrt{2}}$ के बराबर है ?",
         "options": {
             "A": "$\\sin 30^\\circ$",
             "B": "$\\sin 60^\\circ$",
@@ -1769,16 +1769,16 @@
         "question": "A bag contains 7 red, 8 green and 5 white balls. One ball is taken out at random. The probability that it is neither red nor white is",
         "prashna": "एक थैले में 7 लाल, 8 हरा और 5 सफेद गेंद हैं। एक गेंद यादृच्छया निकाला जाता है। इसके न लाल, न सफेद होने की प्रायिकता है",
         "options": {
-            "A": "$\frac{1}, {20}$",
-            "B": "$\frac{1}, {5}$",
-            "C": "$\frac{2}, {5}$",
-            "D": "$\frac{1}, {4}$"
+            "A": "$\\frac{1}{20}$",
+            "B": "$\\frac{1}{5}$",
+            "C": "$\\frac{2}{5}$",
+            "D": "$\\frac{1}{4}$"
         },
         "vikalpa": {
-            "A": "$\frac{1}, {20}$",
-            "B": "$\frac{1}, {5}$",
-            "C": "$\frac{2}, {5}$",
-            "D": "$\frac{1}, {4}$"
+            "A": "$\\frac{1}{20}$",
+            "B": "$\\frac{1}{5}$",
+            "C": "$\\frac{2}{5}$",
+            "D": "$\\frac{1}{4}$"
         }
     },
     {
@@ -1788,19 +1788,19 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\\cos \theta = \frac{a}, {b}$, then $\\sin \theta =$",
-        "prashna": "यदि $\\cos \theta = \frac{a}, {b}$ है, तो $\\sin \theta =$",
+        "question": "If $\\cos \theta = \\frac{a}{b}$, then $\\sin \theta =$",
+        "prashna": "यदि $\\cos \theta = \\frac{a}{b}$ है, तो $\\sin \theta =$",
         "options": {
-            "A": "$\frac{\\sqrt{b^2 - a^2}}, {a}$",
-            "B": "$\frac{\\sqrt{b^2 - a^2}}, {b}$",
-            "C": "$\frac{b}, {\\sqrt{b^2 - a^2}}$",
-            "D": "$\frac{b^2 + a^2}, {b}$"
+            "A": "$\\frac{\\sqrt{b^2 - a^2}}, {a}$",
+            "B": "$\\frac{\\sqrt{b^2 - a^2}}, {b}$",
+            "C": "$\\frac{b}{\\sqrt{b^2 - a^2}}$",
+            "D": "$\\frac{b^2 + a^2}{b}$"
         },
         "vikalpa": {
-            "A": "$\frac{\\sqrt{b^2 - a^2}}, {a}$",
-            "B": "$\frac{\\sqrt{b^2 - a^2}}, {b}$",
-            "C": "$\frac{b}, {\\sqrt{b^2 - a^2}}$",
-            "D": "$\frac{b^2 + a^2}, {b}$"
+            "A": "$\\frac{\\sqrt{b^2 - a^2}}, {a}$",
+            "B": "$\\frac{\\sqrt{b^2 - a^2}}, {b}$",
+            "C": "$\\frac{b}{\\sqrt{b^2 - a^2}}$",
+            "D": "$\\frac{b^2 + a^2}{b}$"
         }
     },
     {
@@ -1810,8 +1810,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "$\\sqrt{\frac{1 - \\sin A}, {1 + \\sin A}} =$",
-        "prashna": "$\\sqrt{\frac{1 - \\sin A}, {1 + \\sin A}} =$",
+        "question": "$\\sqrt{\\frac{1 - \\sin A}{1 + \\sin A}} =$",
+        "prashna": "$\\sqrt{\\frac{1 - \\sin A}{1 + \\sin A}} =$",
         "options": {
             "A": "$\\sec A + \tan A$",
             "B": "$\\sec A - \tan A$",
@@ -1835,16 +1835,16 @@
         "question": "$\tan 30^\\circ \\sin 30^\\circ \\cot 60^\\circ \text{cosec } 30^\\circ =$",
         "prashna": "$\tan 30^\\circ \\sin 30^\\circ \\cot 60^\\circ \text{cosec } 30^\\circ =$",
         "options": {
-            "A": "$\frac{1}, {\\sqrt{3}}$",
+            "A": "$\\frac{1}{\\sqrt{3}}$",
             "B": "$\\sqrt{3}$",
-            "C": "$\frac{1}, {2\\sqrt{3}}$",
-            "D": "$\frac{1}, {3}$"
+            "C": "$\\frac{1}{2\\sqrt{3}}$",
+            "D": "$\\frac{1}{3}$"
         },
         "vikalpa": {
-            "A": "$\frac{1}, {\\sqrt{3}}$",
+            "A": "$\\frac{1}{\\sqrt{3}}$",
             "B": "$\\sqrt{3}$",
-            "C": "$\frac{1}, {2\\sqrt{3}}$",
-            "D": "$\frac{1}, {3}$"
+            "C": "$\\frac{1}{2\\sqrt{3}}$",
+            "D": "$\\frac{1}{3}$"
         }
     },
     {
@@ -1879,13 +1879,13 @@
         "question": "If the angle of elevation of the sun is $60^\\circ$, then the height of the vertical tower that casts $30\text{ m}$ long shadow is",
         "prashna": "यदि सूर्य का उन्नयन कोण $60^\\circ$ है, तो $30\text{ मी}$ की लंबी छाया को बनानेवाली उदग्र मीनार की ऊँचाई है",
         "options": {
-            "A": "$\frac{30}, {\\sqrt{3}}\text{ m}$",
+            "A": "$\\frac{30}{\\sqrt{3}}\text{ m}$",
             "B": "$15\\sqrt{3}\text{ m}$",
             "C": "$30\\sqrt{3}\text{ m}$",
             "D": "$15\text{ m}$"
         },
         "vikalpa": {
-            "A": "$\frac{30}, {\\sqrt{3}}\text{ मी}$",
+            "A": "$\\frac{30}{\\sqrt{3}}\text{ मी}$",
             "B": "$15\\sqrt{3}\text{ मी}$",
             "C": "$30\\sqrt{3}\text{ मी}$",
             "D": "$15\text{ मी}$"
@@ -1898,18 +1898,18 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\\alpha = \beta = 30^\\circ$, then the value of $\\cos(\\alpha + \beta)$ is",
-        "prashna": "यदि $\\alpha = \beta = 30^\\circ$, तो $\\cos(\\alpha + \beta)$ का मान है",
+        "question": "If $\\alpha = \\beta = 30^\\circ$, then the value of $\\cos(\\alpha + \\beta)$ is",
+        "prashna": "यदि $\\alpha = \\beta = 30^\\circ$, तो $\\cos(\\alpha + \\beta)$ का मान है",
         "options": {
-            "A": "$\frac{\\sqrt{3}}, {2}$",
-            "B": "$\frac{1}, {\\sqrt{2}}$",
-            "C": "$\frac{1}, {2}$",
+            "A": "$\\frac{\\sqrt{3}}, {2}$",
+            "B": "$\\frac{1}{\\sqrt{2}}$",
+            "C": "$\\frac{1}{2}$",
             "D": "1"
         },
         "vikalpa": {
-            "A": "$\frac{\\sqrt{3}}, {2}$",
-            "B": "$\frac{1}, {\\sqrt{2}}$",
-            "C": "$\frac{1}, {2}$",
+            "A": "$\\frac{\\sqrt{3}}, {2}$",
+            "B": "$\\frac{1}{\\sqrt{2}}$",
+            "C": "$\\frac{1}{2}$",
             "D": "1"
         }
     },
@@ -1920,19 +1920,19 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "$\frac{2\tan 30^\\circ}, {1 - \tan^2 30^\\circ} =$",
-        "prashna": "$\frac{2\tan 30^\\circ}, {1 - \tan^2 30^\\circ} =$",
+        "question": "$\\frac{2\tan 30^\\circ}{1 - \tan^2 30^\\circ} =$",
+        "prashna": "$\\frac{2\tan 30^\\circ}{1 - \tan^2 30^\\circ} =$",
         "options": {
             "A": "0",
             "B": "1",
             "C": "$\\sqrt{3}$",
-            "D": "$\frac{1}, {\\sqrt{3}}$"
+            "D": "$\\frac{1}{\\sqrt{3}}$"
         },
         "vikalpa": {
             "A": "0",
             "B": "1",
             "C": "$\\sqrt{3}$",
-            "D": "$\frac{1}, {\\sqrt{3}}$"
+            "D": "$\\frac{1}{\\sqrt{3}}$"
         }
     },
     {
@@ -1942,8 +1942,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "The value of $\frac{\tan 65^\\circ}, {\\cot 25^\\circ}$ is",
-        "prashna": "$\frac{\tan 65^\\circ}, {\\cot 25^\\circ}$ का मान है",
+        "question": "The value of $\\frac{\tan 65^\\circ}{\\cot 25^\\circ}$ is",
+        "prashna": "$\\frac{\tan 65^\\circ}{\\cot 25^\\circ}$ का मान है",
         "options": {
             "A": "0",
             "B": "1",
@@ -1967,13 +1967,13 @@
         "question": "$\tan 5^\\circ \times \tan 30^\\circ \times 4 \tan 85^\\circ =$",
         "prashna": "$\tan 5^\\circ \times \tan 30^\\circ \times 4 \tan 85^\\circ =$",
         "options": {
-            "A": "$\frac{4}, {\\sqrt{3}}$",
+            "A": "$\\frac{4}{\\sqrt{3}}$",
             "B": "$4\\sqrt{3}$",
             "C": "1",
             "D": "4"
         },
         "vikalpa": {
-            "A": "$\frac{4}, {\\sqrt{3}}$",
+            "A": "$\\frac{4}{\\sqrt{3}}$",
             "B": "$4\\sqrt{3}$",
             "C": "1",
             "D": "4"
@@ -1986,19 +1986,19 @@
         "chapter_name": "Polynomials",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\\alpha, \beta$ are the zeroes of any quadratic polynomial $p(x) = 6x^2 - 7x - 3$, then $\\alpha + \beta =$",
-        "prashna": "यदि किसी द्विघात बहुपद $p(x) = 6x^2 - 7x - 3$ के शून्यक $\\alpha, \beta$ हों, तो $\\alpha + \beta =$",
+        "question": "If $\\alpha, \\beta$ are the zeroes of any quadratic polynomial $p(x) = 6x^2 - 7x - 3$, then $\\alpha + \\beta =$",
+        "prashna": "यदि किसी द्विघात बहुपद $p(x) = 6x^2 - 7x - 3$ के शून्यक $\\alpha, \\beta$ हों, तो $\\alpha + \\beta =$",
         "options": {
-            "A": "$\frac{7}, {6}$",
-            "B": "$-\frac{7}, {6}$",
-            "C": "$\frac{7}, {3}$",
-            "D": "$\frac{1}, {2}$"
+            "A": "$\\frac{7}{6}$",
+            "B": "$-\\frac{7}{6}$",
+            "C": "$\\frac{7}{3}$",
+            "D": "$\\frac{1}{2}$"
         },
         "vikalpa": {
-            "A": "$\frac{7}, {6}$",
-            "B": "$-\frac{7}, {6}$",
-            "C": "$\frac{7}, {3}$",
-            "D": "$\frac{1}, {2}$"
+            "A": "$\\frac{7}{6}$",
+            "B": "$-\\frac{7}{6}$",
+            "C": "$\\frac{7}{3}$",
+            "D": "$\\frac{1}{2}$"
         }
     },
     {
@@ -2266,8 +2266,8 @@
         "chapter_name": "Pair of Linear Equations in Two Variables",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "By comparing the ratios $\frac{a_1}, {a_2}$, $\frac{b_1}, {b_2}$ and $\frac{c_1}, {c_2}$, find out that the following pair $3x + 12y = 5, 2x + 8y = 7$ is inconsistent.",
-        "prashna": "अनुपातों $\frac{a_1}, {a_2}, \frac{b_1}, {b_2}$ एवं $\frac{c_1}, {c_2}$ की तुलना कर ज्ञात करें कि निम्नांकित युग्म $3x + 12y = 5, 2x + 8y = 7$ असंगत है।"
+        "question": "By comparing the ratios $\\frac{a_1}{a_2}$, $\\frac{b_1}{b_2}$ and $\\frac{c_1}{c_2}$, find out that the following pair $3x + 12y = 5, 2x + 8y = 7$ is inconsistent.",
+        "prashna": "अनुपातों $\\frac{a_1}{a_2}, \\frac{b_1}{b_2}$ एवं $\\frac{c_1}{c_2}$ की तुलना कर ज्ञात करें कि निम्नांकित युग्म $3x + 12y = 5, 2x + 8y = 7$ असंगत है।"
     },
     {
         "id": "short_8",
@@ -2436,8 +2436,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "Prove that $\frac{2\tan 30^\\circ}, {1 - \tan^2 30^\\circ} = \\sqrt{3}$.",
-        "prashna": "सिद्ध करें $\frac{2\tan 30^\\circ}, {1 - \tan^2 30^\\circ} = \\sqrt{3}$।"
+        "question": "Prove that $\\frac{2\tan 30^\\circ}{1 - \tan^2 30^\\circ} = \\sqrt{3}$.",
+        "prashna": "सिद्ध करें $\\frac{2\tan 30^\\circ}{1 - \tan^2 30^\\circ} = \\sqrt{3}$।"
     },
     {
         "id": "short_25",
@@ -2516,8 +2516,8 @@
         "chapter_name": "Quadratic Equations",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "Divide 50 into two parts so that the sum of their reciprocals is $\frac{1}, {12}$.",
-        "prashna": "50 को दो भागों में इस प्रकार बाँटें कि उनके व्युत्क्रमों का योग $\frac{1}, {12}$ हो।"
+        "question": "Divide 50 into two parts so that the sum of their reciprocals is $\\frac{1}{12}$.",
+        "prashna": "50 को दो भागों में इस प्रकार बाँटें कि उनके व्युत्क्रमों का योग $\\frac{1}{12}$ हो।"
     },
     {
         "id": "long_3",

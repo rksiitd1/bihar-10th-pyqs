@@ -254,13 +254,13 @@
             "A": "0",
             "B": "1",
             "C": "$\\sqrt{3}$",
-            "D": "$\frac{1}, {\\sqrt{3}}$"
+            "D": "$\\frac{1}{\\sqrt{3}}$"
         },
         "vikalpa": {
             "A": "0",
             "B": "1",
             "C": "$\\sqrt{3}$",
-            "D": "$\frac{1}, {\\sqrt{3}}$"
+            "D": "$\\frac{1}{\\sqrt{3}}$"
         }
     },
     {
@@ -402,8 +402,8 @@
         "chapter_name": "Triangles",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "$\triangle ABC$ and $\triangle DEF$ are such that $\frac{AB}, {DE} = \frac{BC}, {EF} = \frac{CA}, {DF}$ and $\\angle A = 40^\\circ, \\angle B = 80^\\circ$; then the measure of $\\angle F$ is",
-        "prashna": "$\triangle ABC$ एवं $\triangle DEF$ इस प्रकार हैं कि $\frac{AB}, {DE} = \frac{BC}, {EF} = \frac{CA}, {DF}$ एवं $\\angle A = 40^\\circ, \\angle B = 80^\\circ$ तो $\\angle F$ की माप है",
+        "question": "$\triangle ABC$ and $\triangle DEF$ are such that $\\frac{AB}{DE} = \\frac{BC}{EF} = \\frac{CA}{DF}$ and $\\angle A = 40^\\circ, \\angle B = 80^\\circ$; then the measure of $\\angle F$ is",
+        "prashna": "$\triangle ABC$ एवं $\triangle DEF$ इस प्रकार हैं कि $\\frac{AB}{DE} = \\frac{BC}{EF} = \\frac{CA}{DF}$ एवं $\\angle A = 40^\\circ, \\angle B = 80^\\circ$ तो $\\angle F$ की माप है",
         "options": {
             "A": "$30^\\circ$",
             "B": "$45^\\circ$",
@@ -710,19 +710,19 @@
         "chapter_name": "Polynomials",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\\alpha$ and $\beta$ be the zeros of the polynomial $cx^2 + ax + b$ then the value of $\\alpha \\cdot \beta$ is",
-        "prashna": "यदि बहुपद $cx^2 + ax + b$ के शून्यक $\\alpha$ और $\beta$ हों, तो $\\alpha \\cdot \beta$ का मान है",
+        "question": "If $\\alpha$ and $\\beta$ be the zeros of the polynomial $cx^2 + ax + b$ then the value of $\\alpha \\cdot \\beta$ is",
+        "prashna": "यदि बहुपद $cx^2 + ax + b$ के शून्यक $\\alpha$ और $\\beta$ हों, तो $\\alpha \\cdot \\beta$ का मान है",
         "options": {
-            "A": "$\frac{a}, {c}$",
-            "B": "$-\frac{a}, {c}$",
-            "C": "$\frac{b}, {c}$",
-            "D": "$-\frac{b}, {c}$"
+            "A": "$\\frac{a}{c}$",
+            "B": "$-\\frac{a}{c}$",
+            "C": "$\\frac{b}{c}$",
+            "D": "$-\\frac{b}{c}$"
         },
         "vikalpa": {
-            "A": "$\frac{a}, {c}$",
-            "B": "$-\frac{a}, {c}$",
-            "C": "$\frac{b}, {c}$",
-            "D": "$-\frac{b}, {c}$"
+            "A": "$\\frac{a}{c}$",
+            "B": "$-\\frac{a}{c}$",
+            "C": "$\\frac{b}{c}$",
+            "D": "$-\\frac{b}{c}$"
         }
     },
     {
@@ -738,13 +738,13 @@
             "A": "$(x + 3)(x - 3) = x^2 - 4x^3$",
             "B": "$(x + 3)^2 = 4(x + 4)$",
             "C": "$(2x - 2)^2 = 4x^2 + 7$",
-            "D": "$4x + \frac{1}, {4x} = 4x$"
+            "D": "$4x + \\frac{1}{4x} = 4x$"
         },
         "vikalpa": {
             "A": "$(x + 3)(x - 3) = x^2 - 4x^3$",
             "B": "$(x + 3)^2 = 4(x + 4)$",
             "C": "$(2x - 2)^2 = 4x^2 + 7$",
-            "D": "$4x + \frac{1}, {4x} = 4x$"
+            "D": "$4x + \\frac{1}{4x} = 4x$"
         }
     },
     {
@@ -1084,8 +1084,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "$\frac{1 + \tan^2 A}, {1 + \\cot^2 A} = $",
-        "prashna": "$\frac{1 + \tan^2 A}, {1 + \\cot^2 A} = $",
+        "question": "$\\frac{1 + \tan^2 A}{1 + \\cot^2 A} = $",
+        "prashna": "$\\frac{1 + \tan^2 A}{1 + \\cot^2 A} = $",
         "options": {
             "A": "$\\sec^2 A$",
             "B": "-1",
@@ -1128,16 +1128,16 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\\alpha = \beta = 60^\\circ$ then the value of $\\cos(\\alpha - \beta)$ is",
-        "prashna": "यदि $\\alpha = \beta = 60^\\circ$ हो तो $\\cos(\\alpha - \beta)$ का मान है",
+        "question": "If $\\alpha = \\beta = 60^\\circ$ then the value of $\\cos(\\alpha - \\beta)$ is",
+        "prashna": "यदि $\\alpha = \\beta = 60^\\circ$ हो तो $\\cos(\\alpha - \\beta)$ का मान है",
         "options": {
-            "A": "$\frac{1}, {2}$",
+            "A": "$\\frac{1}{2}$",
             "B": "1",
             "C": "0",
             "D": "2"
         },
         "vikalpa": {
-            "A": "$\frac{1}, {2}$",
+            "A": "$\\frac{1}{2}$",
             "B": "1",
             "C": "0",
             "D": "2"
@@ -1153,15 +1153,15 @@
         "question": "If $\theta = 45^\\circ$ then the value of $\\sin \theta + \\cos \theta$ is",
         "prashna": "यदि $\theta = 45^\\circ$ हो तो $\\sin \theta + \\cos \theta$ का मान है",
         "options": {
-            "A": "$\frac{1}, {\\sqrt{2}}$",
+            "A": "$\\frac{1}{\\sqrt{2}}$",
             "B": "$\\sqrt{2}$",
-            "C": "$\frac{1}, {2}$",
+            "C": "$\\frac{1}{2}$",
             "D": "1"
         },
         "vikalpa": {
-            "A": "$\frac{1}, {\\sqrt{2}}$",
+            "A": "$\\frac{1}{\\sqrt{2}}$",
             "B": "$\\sqrt{2}$",
-            "C": "$\frac{1}, {2}$",
+            "C": "$\\frac{1}{2}$",
             "D": "1"
         }
     },
@@ -1172,8 +1172,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $A = 30^\\circ$ then the value of $\frac{2 \tan A}, {1 - \tan^2 A}$ is",
-        "prashna": "यदि $A = 30^\\circ$ हो तो $\frac{2 \tan A}, {1 - \tan^2 A}$ का मान है",
+        "question": "If $A = 30^\\circ$ then the value of $\\frac{2 \tan A}{1 - \tan^2 A}$ is",
+        "prashna": "यदि $A = 30^\\circ$ हो तो $\\frac{2 \tan A}{1 - \tan^2 A}$ का मान है",
         "options": {
             "A": "$2 \tan 30^\\circ$",
             "B": "$\tan 60^\\circ$",
@@ -1194,19 +1194,19 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\tan \theta = \frac{12}, {5}$ then the value of $\\sin \theta$ is",
-        "prashna": "यदि $\tan \theta = \frac{12}, {5}$ हो तो $\\sin \theta$ का मान है",
+        "question": "If $\tan \theta = \\frac{12}{5}$ then the value of $\\sin \theta$ is",
+        "prashna": "यदि $\tan \theta = \\frac{12}{5}$ हो तो $\\sin \theta$ का मान है",
         "options": {
-            "A": "$\frac{5}, {12}$",
-            "B": "$\frac{12}, {13}$",
-            "C": "$\frac{5}, {13}$",
-            "D": "$\frac{12}, {5}$"
+            "A": "$\\frac{5}{12}$",
+            "B": "$\\frac{12}{13}$",
+            "C": "$\\frac{5}{13}$",
+            "D": "$\\frac{12}{5}$"
         },
         "vikalpa": {
-            "A": "$\frac{5}, {12}$",
-            "B": "$\frac{12}, {13}$",
-            "C": "$\frac{5}, {13}$",
-            "D": "$\frac{12}, {5}$"
+            "A": "$\\frac{5}{12}$",
+            "B": "$\\frac{12}{13}$",
+            "C": "$\\frac{5}{13}$",
+            "D": "$\\frac{12}{5}$"
         }
     },
     {
@@ -1216,19 +1216,19 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "$\frac{\\cos 59^\\circ}, {\\sin 31^\\circ} \times \frac{\tan 80^\\circ}, {\\cot 10^\\circ} = $",
-        "prashna": "$\frac{\\cos 59^\\circ}, {\\sin 31^\\circ} \times \frac{\tan 80^\\circ}, {\\cot 10^\\circ} = $",
+        "question": "$\\frac{\\cos 59^\\circ}{\\sin 31^\\circ} \times \\frac{\tan 80^\\circ}{\\cot 10^\\circ} = $",
+        "prashna": "$\\frac{\\cos 59^\\circ}{\\sin 31^\\circ} \times \\frac{\tan 80^\\circ}{\\cot 10^\\circ} = $",
         "options": {
-            "A": "$\frac{1}, {\\sqrt{2}}$",
+            "A": "$\\frac{1}{\\sqrt{2}}$",
             "B": "1",
-            "C": "$\frac{\\sqrt{3}}, {2}$",
-            "D": "$\frac{1}, {2}$"
+            "C": "$\\frac{\\sqrt{3}}, {2}$",
+            "D": "$\\frac{1}{2}$"
         },
         "vikalpa": {
-            "A": "$\frac{1}, {\\sqrt{2}}$",
+            "A": "$\\frac{1}{\\sqrt{2}}$",
             "B": "1",
-            "C": "$\frac{\\sqrt{3}}, {2}$",
-            "D": "$\frac{1}, {2}$"
+            "C": "$\\frac{\\sqrt{3}}, {2}$",
+            "D": "$\\frac{1}{2}$"
         }
     },
     {
@@ -1263,16 +1263,16 @@
         "question": "If $\\cos \theta = x$ then $\tan \theta = $",
         "prashna": "यदि $\\cos \theta = x$ तो $\tan \theta = $",
         "options": {
-            "A": "$\frac{\\sqrt{1 + x^2}}, {x}$",
-            "B": "$\frac{\\sqrt{1 - x^2}}, {x}$",
+            "A": "$\\frac{\\sqrt{1 + x^2}}, {x}$",
+            "B": "$\\frac{\\sqrt{1 - x^2}}, {x}$",
             "C": "$\\sqrt{1 - x^2}$",
-            "D": "$\frac{x}, {\\sqrt{1 - x^2}}$"
+            "D": "$\\frac{x}{\\sqrt{1 - x^2}}$"
         },
         "vikalpa": {
-            "A": "$\frac{\\sqrt{1 + x^2}}, {x}$",
-            "B": "$\frac{\\sqrt{1 - x^2}}, {x}$",
+            "A": "$\\frac{\\sqrt{1 + x^2}}, {x}$",
+            "B": "$\\frac{\\sqrt{1 - x^2}}, {x}$",
             "C": "$\\sqrt{1 - x^2}$",
-            "D": "$\frac{x}, {\\sqrt{1 - x^2}}$"
+            "D": "$\\frac{x}{\\sqrt{1 - x^2}}$"
         }
     },
     {
@@ -1458,19 +1458,19 @@
         "chapter_name": "Polynomials",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\\alpha$ and $\beta$ are roots of the quadratic equation $3x^2 - 5x + 2 = 0$ then the value of $\\alpha^2 + \beta^2$ is",
-        "prashna": "यदि द्विघात समीकरण $3x^2 - 5x + 2 = 0$ के मूल $\\alpha$ एवं $\beta$ हों तो $\\alpha^2 + \beta^2$ का मान है",
+        "question": "If $\\alpha$ and $\\beta$ are roots of the quadratic equation $3x^2 - 5x + 2 = 0$ then the value of $\\alpha^2 + \\beta^2$ is",
+        "prashna": "यदि द्विघात समीकरण $3x^2 - 5x + 2 = 0$ के मूल $\\alpha$ एवं $\\beta$ हों तो $\\alpha^2 + \\beta^2$ का मान है",
         "options": {
-            "A": "$\frac{13}, {9}$",
-            "B": "$\frac{9}, {13}$",
-            "C": "$\frac{5}, {3}$",
-            "D": "$\frac{3}, {5}$"
+            "A": "$\\frac{13}{9}$",
+            "B": "$\\frac{9}{13}$",
+            "C": "$\\frac{5}{3}$",
+            "D": "$\\frac{3}{5}$"
         },
         "vikalpa": {
-            "A": "$\frac{13}, {9}$",
-            "B": "$\frac{9}, {13}$",
-            "C": "$\frac{5}, {3}$",
-            "D": "$\frac{3}, {5}$"
+            "A": "$\\frac{13}{9}$",
+            "B": "$\\frac{9}{13}$",
+            "C": "$\\frac{5}{3}$",
+            "D": "$\\frac{3}{5}$"
         }
     },
     {
@@ -1502,18 +1502,18 @@
         "chapter_name": "Quadratic Equations",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If one root of the quadratic equation $2x^2 - x - 6 = 0$ is $-\frac{3}, {2}$ then its another root is",
-        "prashna": "यदि द्विघात समीकरण $2x^2 - x - 6 = 0$ का एक मूल $-\frac{3}, {2}$ है तो इसका दूसरा मूल है",
+        "question": "If one root of the quadratic equation $2x^2 - x - 6 = 0$ is $-\\frac{3}{2}$ then its another root is",
+        "prashna": "यदि द्विघात समीकरण $2x^2 - x - 6 = 0$ का एक मूल $-\\frac{3}{2}$ है तो इसका दूसरा मूल है",
         "options": {
             "A": "-2",
             "B": "2",
-            "C": "$\frac{3}, {2}$",
+            "C": "$\\frac{3}{2}$",
             "D": "3"
         },
         "vikalpa": {
             "A": "-2",
             "B": "2",
-            "C": "$\frac{3}, {2}$",
+            "C": "$\\frac{3}{2}$",
             "D": "3"
         }
     },
@@ -1681,16 +1681,16 @@
         "question": "Two dice are thrown at the same time. What is the probability that the difference of the numbers appearing on top is zero?",
         "prashna": "दो पासों को एक साथ फेंका जाता है। ऊपर आनेवाले अंकों का अंतर शून्य होने की प्रायिकता क्या है?",
         "options": {
-            "A": "$\frac{1}, {36}$",
-            "B": "$\frac{1}, {6}$",
-            "C": "$\frac{5}, {18}$",
-            "D": "$\frac{5}, {36}$"
+            "A": "$\\frac{1}{36}$",
+            "B": "$\\frac{1}{6}$",
+            "C": "$\\frac{5}{18}$",
+            "D": "$\\frac{5}{36}$"
         },
         "vikalpa": {
-            "A": "$\frac{1}, {36}$",
-            "B": "$\frac{1}, {6}$",
-            "C": "$\frac{5}, {18}$",
-            "D": "$\frac{5}, {36}$"
+            "A": "$\\frac{1}{36}$",
+            "B": "$\\frac{1}{6}$",
+            "C": "$\\frac{5}{18}$",
+            "D": "$\\frac{5}{36}$"
         }
     },
     {
@@ -1703,15 +1703,15 @@
         "question": "The probability of getting heads on both the coins in throwing two coins is",
         "prashna": "दो सिक्कों की उछाल में दोनों पर शीर्ष आने की प्रायिकता है",
         "options": {
-            "A": "$\frac{1}, {2}$",
-            "B": "$\frac{1}, {3}$",
-            "C": "$\frac{1}, {4}$",
+            "A": "$\\frac{1}{2}$",
+            "B": "$\\frac{1}{3}$",
+            "C": "$\\frac{1}{4}$",
             "D": "1"
         },
         "vikalpa": {
-            "A": "$\frac{1}, {2}$",
-            "B": "$\frac{1}, {3}$",
-            "C": "$\frac{1}, {4}$",
+            "A": "$\\frac{1}{2}$",
+            "B": "$\\frac{1}{3}$",
+            "C": "$\\frac{1}{4}$",
             "D": "1"
         }
     },
@@ -1725,16 +1725,16 @@
         "question": "A month is selected at random in a year. The probability of it being June or September is",
         "prashna": "एक वर्ष में एक महीना यदृच्छया चुना जाता है। इसके जून या सितम्बर होने की प्रायिकता है",
         "options": {
-            "A": "$\frac{3}, {4}$",
-            "B": "$\frac{1}, {12}$",
-            "C": "$\frac{1}, {6}$",
-            "D": "$\frac{1}, {4}$"
+            "A": "$\\frac{3}{4}$",
+            "B": "$\\frac{1}{12}$",
+            "C": "$\\frac{1}{6}$",
+            "D": "$\\frac{1}{4}$"
         },
         "vikalpa": {
-            "A": "$\frac{3}, {4}$",
-            "B": "$\frac{1}, {12}$",
-            "C": "$\frac{1}, {6}$",
-            "D": "$\frac{1}, {4}$"
+            "A": "$\\frac{3}{4}$",
+            "B": "$\\frac{1}{12}$",
+            "C": "$\\frac{1}{6}$",
+            "D": "$\\frac{1}{4}$"
         }
     },
     {
@@ -1747,16 +1747,16 @@
         "question": "The probability of getting a number $4$ or $5$ in throwing a die is",
         "prashna": "एक पासे की फेंक में संख्या $4$ या $5$ आने की प्रायिकता है",
         "options": {
-            "A": "$\frac{1}, {2}$",
-            "B": "$\frac{1}, {3}$",
-            "C": "$\frac{1}, {6}$",
-            "D": "$\frac{2}, {3}$"
+            "A": "$\\frac{1}{2}$",
+            "B": "$\\frac{1}{3}$",
+            "C": "$\\frac{1}{6}$",
+            "D": "$\\frac{2}{3}$"
         },
         "vikalpa": {
-            "A": "$\frac{1}, {2}$",
-            "B": "$\frac{1}, {3}$",
-            "C": "$\frac{1}, {6}$",
-            "D": "$\frac{2}, {3}$"
+            "A": "$\\frac{1}{2}$",
+            "B": "$\\frac{1}{3}$",
+            "C": "$\\frac{1}{6}$",
+            "D": "$\\frac{2}{3}$"
         }
     },
     {
@@ -1882,13 +1882,13 @@
             "A": "$\\sin^2 60^\\circ + \\cos 60^\\circ$",
             "B": "$\\sin 90^\\circ \times \\cos 90^\\circ$",
             "C": "$\\sin^2 60^\\circ$",
-            "D": "$\\sin 45^\\circ \times \frac{1}, {\\cos 45^\\circ}$"
+            "D": "$\\sin 45^\\circ \times \\frac{1}{\\cos 45^\\circ}$"
         },
         "vikalpa": {
             "A": "$\\sin^2 60^\\circ + \\cos 60^\\circ$",
             "B": "$\\sin 90^\\circ \times \\cos 90^\\circ$",
             "C": "$\\sin^2 60^\\circ$",
-            "D": "$\\sin 45^\\circ \times \frac{1}, {\\cos 45^\\circ}$"
+            "D": "$\\sin 45^\\circ \times \\frac{1}{\\cos 45^\\circ}$"
         }
     },
     {
@@ -1924,14 +1924,14 @@
         "prashna": "$\tan 30^\\circ = $",
         "options": {
             "A": "$\\sqrt{3}$",
-            "B": "$\frac{\\sqrt{3}}, {2}$",
-            "C": "$\frac{1}, {\\sqrt{3}}$",
+            "B": "$\\frac{\\sqrt{3}}, {2}$",
+            "C": "$\\frac{1}{\\sqrt{3}}$",
             "D": "1"
         },
         "vikalpa": {
             "A": "$\\sqrt{3}$",
-            "B": "$\frac{\\sqrt{3}}, {2}$",
-            "C": "$\frac{1}, {\\sqrt{3}}$",
+            "B": "$\\frac{\\sqrt{3}}, {2}$",
+            "C": "$\\frac{1}{\\sqrt{3}}$",
             "D": "1"
         }
     },
@@ -1945,15 +1945,15 @@
         "question": "$\\cos 60^\\circ = $",
         "prashna": "$\\cos 60^\\circ = $",
         "options": {
-            "A": "$\frac{1}, {2}$",
-            "B": "$\frac{\\sqrt{3}}, {2}$",
-            "C": "$\frac{1}, {\\sqrt{2}}$",
+            "A": "$\\frac{1}{2}$",
+            "B": "$\\frac{\\sqrt{3}}, {2}$",
+            "C": "$\\frac{1}{\\sqrt{2}}$",
             "D": "1"
         },
         "vikalpa": {
-            "A": "$\frac{1}, {2}$",
-            "B": "$\frac{\\sqrt{3}}, {2}$",
-            "C": "$\frac{1}, {\\sqrt{2}}$",
+            "A": "$\\frac{1}{2}$",
+            "B": "$\\frac{\\sqrt{3}}, {2}$",
+            "C": "$\\frac{1}{\\sqrt{2}}$",
             "D": "1"
         }
     },
@@ -1968,14 +1968,14 @@
         "prashna": "$\\sin^2 90^\\circ - \tan^2 45^\\circ = $",
         "options": {
             "A": "1",
-            "B": "$\frac{1}, {2}$",
-            "C": "$\frac{1}, {\\sqrt{2}}$",
+            "B": "$\\frac{1}{2}$",
+            "C": "$\\frac{1}{\\sqrt{2}}$",
             "D": "0"
         },
         "vikalpa": {
             "A": "1",
-            "B": "$\frac{1}, {2}$",
-            "C": "$\frac{1}, {\\sqrt{2}}$",
+            "B": "$\\frac{1}{2}$",
+            "C": "$\\frac{1}{\\sqrt{2}}$",
             "D": "0"
         }
     },
@@ -1989,16 +1989,16 @@
         "question": "Which of the following fractions has terminating decimal expansion?",
         "prashna": "निम्नलिखित में कौन-सा भिन्न का दशमलव प्रसार शांत है?",
         "options": {
-            "A": "$\frac{14}, {2^0 \times 3^2}$",
-            "B": "$\frac{9}, {5^1 \times 7^2}$",
-            "C": "$\frac{8}, {2^2 \times 3^2}$",
-            "D": "$\frac{15}, {2^2 \times 5^3}$"
+            "A": "$\\frac{14}{2^0 \times 3^2}$",
+            "B": "$\\frac{9}{5^1 \times 7^2}$",
+            "C": "$\\frac{8}{2^2 \times 3^2}$",
+            "D": "$\\frac{15}{2^2 \times 5^3}$"
         },
         "vikalpa": {
-            "A": "$\frac{14}, {2^0 \times 3^2}$",
-            "B": "$\frac{9}, {5^1 \times 7^2}$",
-            "C": "$\frac{8}, {2^2 \times 3^2}$",
-            "D": "$\frac{15}, {2^2 \times 5^3}$"
+            "A": "$\\frac{14}{2^0 \times 3^2}$",
+            "B": "$\\frac{9}{5^1 \times 7^2}$",
+            "C": "$\\frac{8}{2^2 \times 3^2}$",
+            "D": "$\\frac{15}{2^2 \times 5^3}$"
         }
     },
     {
@@ -2008,19 +2008,19 @@
         "chapter_name": "Real Numbers",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "In the form of $\frac{p}, {2^n \times 5^m}$, $0.505$ can be written as",
-        "prashna": "$\frac{p}, {2^n \times 5^m}$ के रूप में $0.505$ को लिखा जा सकता है",
+        "question": "In the form of $\\frac{p}{2^n \times 5^m}$, $0.505$ can be written as",
+        "prashna": "$\\frac{p}{2^n \times 5^m}$ के रूप में $0.505$ को लिखा जा सकता है",
         "options": {
-            "A": "$\frac{101}, {2^1 \times 5^2}$",
-            "B": "$\frac{101}, {2^1 \times 5^3}$",
-            "C": "$\frac{101}, {2^2 \times 5^2}$",
-            "D": "$\frac{101}, {2^3 \times 5^2}$"
+            "A": "$\\frac{101}{2^1 \times 5^2}$",
+            "B": "$\\frac{101}{2^1 \times 5^3}$",
+            "C": "$\\frac{101}{2^2 \times 5^2}$",
+            "D": "$\\frac{101}{2^3 \times 5^2}$"
         },
         "vikalpa": {
-            "A": "$\frac{101}, {2^1 \times 5^2}$",
-            "B": "$\frac{101}, {2^1 \times 5^3}$",
-            "C": "$\frac{101}, {2^2 \times 5^2}$",
-            "D": "$\frac{101}, {2^3 \times 5^2}$"
+            "A": "$\\frac{101}{2^1 \times 5^2}$",
+            "B": "$\\frac{101}{2^1 \times 5^3}$",
+            "C": "$\\frac{101}{2^2 \times 5^2}$",
+            "D": "$\\frac{101}{2^3 \times 5^2}$"
         }
     },
     {
@@ -2101,14 +2101,14 @@
         "options": {
             "A": "$x^2 - 7$",
             "B": "$2x^2 + 7x + 6$",
-            "C": "$\frac{1}, {2}x^2 + \frac{1}, {2}x + 4$",
-            "D": "$x + \frac{4}, {x}$"
+            "C": "$\\frac{1}{2}x^2 + \\frac{1}{2}x + 4$",
+            "D": "$x + \\frac{4}{x}$"
         },
         "vikalpa": {
             "A": "$x^2 - 7$",
             "B": "$2x^2 + 7x + 6$",
-            "C": "$\frac{1}, {2}x^2 + \frac{1}, {2}x + 4$",
-            "D": "$x + \frac{4}, {x}$"
+            "C": "$\\frac{1}{2}x^2 + \\frac{1}{2}x + 4$",
+            "D": "$x + \\frac{4}{x}$"
         }
     },
     {
@@ -2140,8 +2140,8 @@
         "chapter_name": "Polynomials",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\\alpha$ and $\beta$ are the zeroes of the polynomial $t^2 + 7t + 10$ then the value of $\\alpha + \beta$ is",
-        "prashna": "यदि बहुपद $t^2 + 7t + 10$ के शून्यक $\\alpha$ एवं $\beta$ हों तो $\\alpha + \beta$ का मान है",
+        "question": "If $\\alpha$ and $\\beta$ are the zeroes of the polynomial $t^2 + 7t + 10$ then the value of $\\alpha + \\beta$ is",
+        "prashna": "यदि बहुपद $t^2 + 7t + 10$ के शून्यक $\\alpha$ एवं $\\beta$ हों तो $\\alpha + \\beta$ का मान है",
         "options": {
             "A": "7",
             "B": "10",
@@ -2187,16 +2187,16 @@
         "question": "If one zero of the quadratic polynomial $(k - 1)x^2 + kx + 1$ is $-4$ then the value of $k$ is",
         "prashna": "यदि द्विघात बहुपद $(k - 1)x^2 + kx + 1$ का एक शून्यक $-4$ हो तो $k$ का मान है",
         "options": {
-            "A": "$-\frac{5}, {4}$",
-            "B": "$\frac{5}, {4}$",
-            "C": "$-\frac{4}, {3}$",
-            "D": "$\frac{4}, {3}$"
+            "A": "$-\\frac{5}{4}$",
+            "B": "$\\frac{5}{4}$",
+            "C": "$-\\frac{4}{3}$",
+            "D": "$\\frac{4}{3}$"
         },
         "vikalpa": {
-            "A": "$-\frac{5}, {4}$",
-            "B": "$\frac{5}, {4}$",
-            "C": "$-\frac{4}, {3}$",
-            "D": "$\frac{4}, {3}$"
+            "A": "$-\\frac{5}{4}$",
+            "B": "$\\frac{5}{4}$",
+            "C": "$-\\frac{4}{3}$",
+            "D": "$\\frac{4}{3}$"
         }
     },
     {
@@ -2236,8 +2236,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\tan \theta = \frac{5}, {12}$ then find the value of $\\sin \theta + \\cos \theta$.",
-        "prashna": "यदि $\tan \theta = \frac{5}, {12}$ हो तो $\\sin \theta + \\cos \theta$ का मान ज्ञात करें।"
+        "question": "If $\tan \theta = \\frac{5}{12}$ then find the value of $\\sin \theta + \\cos \theta$.",
+        "prashna": "यदि $\tan \theta = \\frac{5}{12}$ हो तो $\\sin \theta + \\cos \theta$ का मान ज्ञात करें।"
     },
     {
         "id": "short_5",
@@ -2256,8 +2256,8 @@
         "chapter_name": "Pair of Linear Equations in Two Variables",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "The sum of two numbers is 50 and one number is $\frac{7}, {3}$ times of the other; then find the numbers.",
-        "prashna": "दो संख्याओं का योगफल 50 है एवं उसमें से एक संख्या दूसरी की $\frac{7}, {3}$ गुनी है; तो संख्याएँ ज्ञात करें।"
+        "question": "The sum of two numbers is 50 and one number is $\\frac{7}{3}$ times of the other; then find the numbers.",
+        "prashna": "दो संख्याओं का योगफल 50 है एवं उसमें से एक संख्या दूसरी की $\\frac{7}{3}$ गुनी है; तो संख्याएँ ज्ञात करें।"
     },
     {
         "id": "short_7",
@@ -2416,8 +2416,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "Prove that $\\sqrt{\frac{1 + \\cos \theta}, {1 - \\cos \theta}} = \frac{1 + \\cos \theta}, {\\sin \theta}$.",
-        "prashna": "सिद्ध करें कि $\\sqrt{\frac{1 + \\cos \theta}, {1 - \\cos \theta}} = \frac{1 + \\cos \theta}, {\\sin \theta}$।"
+        "question": "Prove that $\\sqrt{\\frac{1 + \\cos \theta}{1 - \\cos \theta}} = \\frac{1 + \\cos \theta}{\\sin \theta}$.",
+        "prashna": "सिद्ध करें कि $\\sqrt{\\frac{1 + \\cos \theta}{1 - \\cos \theta}} = \\frac{1 + \\cos \theta}{\\sin \theta}$।"
     },
     {
         "id": "short_23",
@@ -2436,8 +2436,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\\cos A = \frac{4}, {5}$ then find the values of $\\cot A$ and $\\operatorname{cosec} A$.",
-        "prashna": "यदि $\\cos A = \frac{4}, {5}$ हो तो $\\cot A$ और $\\operatorname{cosec} A$ के मान ज्ञात करें।"
+        "question": "If $\\cos A = \\frac{4}{5}$ then find the values of $\\cot A$ and $\\operatorname{cosec} A$.",
+        "prashna": "यदि $\\cos A = \\frac{4}{5}$ हो तो $\\cot A$ और $\\operatorname{cosec} A$ के मान ज्ञात करें।"
     },
     {
         "id": "short_25",
@@ -2466,8 +2466,8 @@
         "chapter_name": "Triangles",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "In a triangle $PQR$, two points $S$ and $T$ are on the sides $PQ$ and $PR$ respectively such that $\frac{PS}, {SQ} = \frac{PT}, {TR}$ and $\\angle PST = \\angle PRQ$, then prove that $\triangle PQR$ is an isosceles triangle.",
-        "prashna": "किसी त्रिभुज $PQR$ में दो बिन्दु $S$ और $T$ भुजाओं $PQ$ तथा $PR$ पर क्रमशः इस प्रकार हैं कि $\frac{PS}, {SQ} = \frac{PT}, {TR}$ तथा $\\angle PST = \\angle PRQ$, तो सिद्ध करें कि $\triangle PQR$ एक समद्विबाहु त्रिभुज है।"
+        "question": "In a triangle $PQR$, two points $S$ and $T$ are on the sides $PQ$ and $PR$ respectively such that $\\frac{PS}{SQ} = \\frac{PT}{TR}$ and $\\angle PST = \\angle PRQ$, then prove that $\triangle PQR$ is an isosceles triangle.",
+        "prashna": "किसी त्रिभुज $PQR$ में दो बिन्दु $S$ और $T$ भुजाओं $PQ$ तथा $PR$ पर क्रमशः इस प्रकार हैं कि $\\frac{PS}{SQ} = \\frac{PT}{TR}$ तथा $\\angle PST = \\angle PRQ$, तो सिद्ध करें कि $\triangle PQR$ एक समद्विबाहु त्रिभुज है।"
     },
     {
         "id": "short_28",
@@ -2546,8 +2546,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "Prove that $\frac{(\\sec \theta - \tan \theta)}, {(\\sec \theta + \tan \theta)} = 1 + 2 \tan^2 \theta - 2 \\sec \theta \\cdot \tan \theta$.",
-        "prashna": "सिद्ध करें कि $\frac{(\\sec \theta - \tan \theta)}, {(\\sec \theta + \tan \theta)} = 1 + 2 \tan^2 \theta - 2 \\sec \theta \\cdot \tan \theta$।"
+        "question": "Prove that $\\frac{(\\sec \theta - \tan \theta)}{(\\sec \theta + \tan \theta)} = 1 + 2 \tan^2 \theta - 2 \\sec \theta \\cdot \tan \theta$.",
+        "prashna": "सिद्ध करें कि $\\frac{(\\sec \theta - \tan \theta)}{(\\sec \theta + \tan \theta)} = 1 + 2 \tan^2 \theta - 2 \\sec \theta \\cdot \tan \theta$।"
     },
     {
         "id": "long_6",

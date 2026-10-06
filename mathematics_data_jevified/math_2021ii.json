@@ -55,14 +55,14 @@
         "options": {
             "A": "$2$",
             "B": "$-2$",
-            "C": "$\frac{1}, {2}$",
-            "D": "$-\frac{1}, {2}$"
+            "C": "$\\frac{1}{2}$",
+            "D": "$-\\frac{1}{2}$"
         },
         "vikalpa": {
             "A": "$2$",
             "B": "$-2$",
-            "C": "$\frac{1}, {2}$",
-            "D": "$-\frac{1}, {2}$"
+            "C": "$\\frac{1}{2}$",
+            "D": "$-\\frac{1}{2}$"
         }
     },
     {
@@ -163,16 +163,16 @@
         "question": "If the roots of the equation $bx^2 + ax + c = 0$ are equal, then $c =$",
         "prashna": "यदि समीकरण $bx^2 + ax + c = 0$ का मूल समान हो, तो $c =$",
         "options": {
-            "A": "$\frac{-a^2}, {4b}$",
-            "B": "$\frac{a^2}, {4b}$",
-            "C": "$\frac{a}, {2b}$",
-            "D": "$\frac{-a}, {2b}$"
+            "A": "$\\frac{-a^2}{4b}$",
+            "B": "$\\frac{a^2}{4b}$",
+            "C": "$\\frac{a}{2b}$",
+            "D": "$\\frac{-a}{2b}$"
         },
         "vikalpa": {
-            "A": "$\frac{-a^2}, {4b}$",
-            "B": "$\frac{a^2}, {4b}$",
-            "C": "$\frac{a}, {2b}$",
-            "D": "$\frac{-a}, {2b}$"
+            "A": "$\\frac{-a^2}{4b}$",
+            "B": "$\\frac{a^2}{4b}$",
+            "C": "$\\frac{a}{2b}$",
+            "D": "$\\frac{-a}{2b}$"
         }
     },
     {
@@ -270,19 +270,19 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\text{cosec} \\, \theta = \frac{17}, {8}$, then $\tan \theta =$",
-        "prashna": "यदि $\text{cosec} \\, \theta = \frac{17}, {8}$ तो $\tan \theta =$",
+        "question": "If $\text{cosec} \\, \theta = \\frac{17}{8}$, then $\tan \theta =$",
+        "prashna": "यदि $\text{cosec} \\, \theta = \\frac{17}{8}$ तो $\tan \theta =$",
         "options": {
-            "A": "$\frac{8}, {17}$",
-            "B": "$\frac{8}, {15}$",
-            "C": "$\frac{15}, {8}$",
-            "D": "$\frac{15}, {17}$"
+            "A": "$\\frac{8}{17}$",
+            "B": "$\\frac{8}{15}$",
+            "C": "$\\frac{15}{8}$",
+            "D": "$\\frac{15}{17}$"
         },
         "vikalpa": {
-            "A": "$\frac{8}, {17}$",
-            "B": "$\frac{8}, {15}$",
-            "C": "$\frac{15}, {8}$",
-            "D": "$\frac{15}, {17}$"
+            "A": "$\\frac{8}{17}$",
+            "B": "$\\frac{8}{15}$",
+            "C": "$\\frac{15}{8}$",
+            "D": "$\\frac{15}{17}$"
         }
     },
     {
@@ -342,13 +342,13 @@
             "A": "$1$",
             "B": "$0$",
             "C": "$4$",
-            "D": "$\frac{1}, {2}$"
+            "D": "$\\frac{1}{2}$"
         },
         "vikalpa": {
             "A": "$1$",
             "B": "$0$",
             "C": "$4$",
-            "D": "$\frac{1}, {2}$"
+            "D": "$\\frac{1}{2}$"
         }
     },
     {
@@ -361,16 +361,16 @@
         "question": "Two unbiased coins are tossed, then the probability of getting $2$ heads (chit) is",
         "prashna": "दो न्यायसंगत सिक्के उछाले जाते हैं, तो $2$ शीर्ष ( चित ) आने की प्रायिकता है",
         "options": {
-            "A": "$\frac{1}, {3}$",
-            "B": "$\frac{1}, {2}$",
-            "C": "$\frac{1}, {8}$",
-            "D": "$\frac{1}, {4}$"
+            "A": "$\\frac{1}{3}$",
+            "B": "$\\frac{1}{2}$",
+            "C": "$\\frac{1}{8}$",
+            "D": "$\\frac{1}{4}$"
         },
         "vikalpa": {
-            "A": "$\frac{1}, {3}$",
-            "B": "$\frac{1}, {2}$",
-            "C": "$\frac{1}, {8}$",
-            "D": "$\frac{1}, {4}$"
+            "A": "$\\frac{1}{3}$",
+            "B": "$\\frac{1}{2}$",
+            "C": "$\\frac{1}{8}$",
+            "D": "$\\frac{1}{4}$"
         }
     },
     {
@@ -380,8 +380,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "$\frac{2(1 - \\sin^2 A)}, {\\cos^2 A} =$",
-        "prashna": "$\frac{2(1 - \\sin^2 A)}, {\\cos^2 A} =$",
+        "question": "$\\frac{2(1 - \\sin^2 A)}{\\cos^2 A} =$",
+        "prashna": "$\\frac{2(1 - \\sin^2 A)}{\\cos^2 A} =$",
         "options": {
             "A": "$1$",
             "B": "$-2$",
@@ -405,16 +405,16 @@
         "question": "Two dice are thrown together, the probability of getting the same number on both is",
         "prashna": "दो पासे एक साथ उछाले गये तो दोनों पर एक ही संख्या आने की प्रायिकता होगी",
         "options": {
-            "A": "$\frac{1}, {2}$",
-            "B": "$\frac{1}, {3}$",
-            "C": "$\frac{1}, {6}$",
-            "D": "$\frac{1}, {12}$"
+            "A": "$\\frac{1}{2}$",
+            "B": "$\\frac{1}{3}$",
+            "C": "$\\frac{1}{6}$",
+            "D": "$\\frac{1}{12}$"
         },
         "vikalpa": {
-            "A": "$\frac{1}, {2}$",
-            "B": "$\frac{1}, {3}$",
-            "C": "$\frac{1}, {6}$",
-            "D": "$\frac{1}, {12}$"
+            "A": "$\\frac{1}{2}$",
+            "B": "$\\frac{1}{3}$",
+            "C": "$\\frac{1}{6}$",
+            "D": "$\\frac{1}{12}$"
         }
     },
     {
@@ -430,13 +430,13 @@
             "A": "$0$",
             "B": "$1$",
             "C": "$-1$",
-            "D": "$\frac{1}, {2}$"
+            "D": "$\\frac{1}{2}$"
         },
         "vikalpa": {
             "A": "$0$",
             "B": "$1$",
             "C": "$-1$",
-            "D": "$\frac{1}, {2}$"
+            "D": "$\\frac{1}{2}$"
         }
     },
     {
@@ -449,16 +449,16 @@
         "question": "If the angle of a sector is $p^\\circ$ and the radius of the circle is $r$, then the area of the sector will be",
         "prashna": "यदि कोण $p^\\circ$, त्रिज्या $r$ वाले वृत्त के त्रिज्यखंड का कोण हो, तो त्रिज्यखंड का क्षेत्रफल होगा",
         "options": {
-            "A": "$\frac{2 \\pi r p}, {360}$",
-            "B": "$\frac{\\pi r^2 p}, {360}$",
-            "C": "$\frac{\\pi r^2 p}, {180}$",
-            "D": "$\frac{2 \\pi r^2 p}, {180}$"
+            "A": "$\\frac{2 \\pi r p}{360}$",
+            "B": "$\\frac{\\pi r^2 p}{360}$",
+            "C": "$\\frac{\\pi r^2 p}{180}$",
+            "D": "$\\frac{2 \\pi r^2 p}{180}$"
         },
         "vikalpa": {
-            "A": "$\frac{2 \\pi r p}, {360}$",
-            "B": "$\frac{\\pi r^2 p}, {360}$",
-            "C": "$\frac{\\pi r^2 p}, {180}$",
-            "D": "$\frac{2 \\pi r^2 p}, {180}$"
+            "A": "$\\frac{2 \\pi r p}{360}$",
+            "B": "$\\frac{\\pi r^2 p}{360}$",
+            "C": "$\\frac{\\pi r^2 p}{180}$",
+            "D": "$\\frac{2 \\pi r^2 p}{180}$"
         }
     },
     {
@@ -600,8 +600,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "$\frac{2 \\cos 37^\\circ}, {\\sin 53^\\circ} =$",
-        "prashna": "$\frac{2 \\cos 37^\\circ}, {\\sin 53^\\circ} =$",
+        "question": "$\\frac{2 \\cos 37^\\circ}{\\sin 53^\\circ} =$",
+        "prashna": "$\\frac{2 \\cos 37^\\circ}{\\sin 53^\\circ} =$",
         "options": {
             "A": "$0$",
             "B": "$-1$",
@@ -691,16 +691,16 @@
         "question": "If the first term of an Arithmetic Progression is '$a$' and common difference is '$d$', then the sum of the first '$n$' terms will be",
         "prashna": "यदि समांतर श्रेढ़ी का पहला पद '$a$' तथा सार्वअन्तर '$d$' हो, तो प्रथम '$n$' पदों का योगफल होगा",
         "options": {
-            "A": "$\frac{n(n+1)}, {2}$",
-            "B": "$\frac{n}, {2} \\{2a + (n-1) \times d\\}$",
+            "A": "$\\frac{n(n+1)}{2}$",
+            "B": "$\\frac{n}{2} \\{2a + (n-1) \times d\\}$",
             "C": "$n \\{2a + (n-1) \times d\\}$",
-            "D": "$\frac{1}, {2} \\{2a + (n-1) \times d\\}$"
+            "D": "$\\frac{1}{2} \\{2a + (n-1) \times d\\}$"
         },
         "vikalpa": {
-            "A": "$\frac{n(n+1)}, {2}$",
-            "B": "$\frac{n}, {2} \\{2a + (n-1) \times d\\}$",
+            "A": "$\\frac{n(n+1)}{2}$",
+            "B": "$\\frac{n}{2} \\{2a + (n-1) \times d\\}$",
             "C": "$n \\{2a + (n-1) \times d\\}$",
-            "D": "$\frac{1}, {2} \\{2a + (n-1) \times d\\}$"
+            "D": "$\\frac{1}{2} \\{2a + (n-1) \times d\\}$"
         }
     },
     {
@@ -713,16 +713,16 @@
         "question": "If $ax^2 - bx + c = 0$ ($a \neq 0$), then $x =$",
         "prashna": "यदि $ax^2 - bx + c = 0$ ($a \neq 0$) तो $x =$",
         "options": {
-            "A": "$\frac{-b \\pm \\sqrt{4ac - b^2}}, {2a}$",
+            "A": "$\\frac{-b \\pm \\sqrt{4ac - b^2}}, {2a}$",
             "B": "$b \\pm 4ac$",
-            "C": "$\frac{-b \\pm \\sqrt{b^2 + 4ac}}, {2a}$",
-            "D": "$\frac{-b \\pm \\sqrt{b^2 - 4ac}}, {2a}$"
+            "C": "$\\frac{-b \\pm \\sqrt{b^2 + 4ac}}, {2a}$",
+            "D": "$\\frac{-b \\pm \\sqrt{b^2 - 4ac}}, {2a}$"
         },
         "vikalpa": {
-            "A": "$\frac{-b \\pm \\sqrt{4ac - b^2}}, {2a}$",
+            "A": "$\\frac{-b \\pm \\sqrt{4ac - b^2}}, {2a}$",
             "B": "$b \\pm 4ac$",
-            "C": "$\frac{-b \\pm \\sqrt{b^2 + 4ac}}, {2a}$",
-            "D": "$\frac{-b \\pm \\sqrt{b^2 - 4ac}}, {2a}$"
+            "C": "$\\frac{-b \\pm \\sqrt{b^2 + 4ac}}, {2a}$",
+            "D": "$\\frac{-b \\pm \\sqrt{b^2 - 4ac}}, {2a}$"
         }
     },
     {
@@ -933,16 +933,16 @@
         "question": "$0.\\overline{7} =$",
         "prashna": "$0.\\overline{7} =$",
         "options": {
-            "A": "$\frac{7}, {9}$",
-            "B": "$\frac{7}, {90}$",
-            "C": "$\frac{7}, {99}$",
-            "D": "$\frac{7}, {10}$"
+            "A": "$\\frac{7}{9}$",
+            "B": "$\\frac{7}{90}$",
+            "C": "$\\frac{7}{99}$",
+            "D": "$\\frac{7}{10}$"
         },
         "vikalpa": {
-            "A": "$\frac{7}, {9}$",
-            "B": "$\frac{7}, {90}$",
-            "C": "$\frac{7}, {99}$",
-            "D": "$\frac{7}, {10}$"
+            "A": "$\\frac{7}{9}$",
+            "B": "$\\frac{7}{90}$",
+            "C": "$\\frac{7}{99}$",
+            "D": "$\\frac{7}{10}$"
         }
     },
     {
@@ -974,8 +974,8 @@
         "chapter_name": "Real Numbers",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "$\frac{\\pi}, {3}$ is",
-        "prashna": "$\frac{\\pi}, {3}$ है",
+        "question": "$\\frac{\\pi}{3}$ is",
+        "prashna": "$\\frac{\\pi}{3}$ है",
         "options": {
             "A": "Rational number",
             "B": "Irrational number",
@@ -1040,8 +1040,8 @@
         "chapter_name": "Polynomials",
         "confidence": 0.74,
         "raw_choice": "2. Polynomials (बहुपद)",
-        "question": "$y^2 \\left( \frac{1}, {y} + 3 \right) =$",
-        "prashna": "$y^2 \\left( \frac{1}, {y} + 3 \right) =$",
+        "question": "$y^2 \\left( \\frac{1}{y} + 3 \right) =$",
+        "prashna": "$y^2 \\left( \\frac{1}{y} + 3 \right) =$",
         "options": {
             "A": "$y$",
             "B": "$y + 3y^3$",
@@ -1084,19 +1084,19 @@
         "chapter_name": "Arithmetic Progressions",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "The common difference of the Arithmetic Progression $\frac{3}, {4}, \frac{5}, {4}, \frac{7}, {4}, \frac{9}, {4}, \\dots$ is",
-        "prashna": "समांतर श्रेढ़ी $\frac{3}, {4}, \frac{5}, {4}, \frac{7}, {4}, \frac{9}, {4}, \\dots$ का सार्व अंतर है",
+        "question": "The common difference of the Arithmetic Progression $\\frac{3}{4}, \\frac{5}{4}, \\frac{7}{4}, \\frac{9}{4}, \\dots$ is",
+        "prashna": "समांतर श्रेढ़ी $\\frac{3}{4}, \\frac{5}{4}, \\frac{7}{4}, \\frac{9}{4}, \\dots$ का सार्व अंतर है",
         "options": {
-            "A": "$\frac{3}, {4}$",
-            "B": "$\frac{1}, {4}$",
-            "C": "$\frac{1}, {2}$",
-            "D": "$\frac{5}, {4}$"
+            "A": "$\\frac{3}{4}$",
+            "B": "$\\frac{1}{4}$",
+            "C": "$\\frac{1}{2}$",
+            "D": "$\\frac{5}{4}$"
         },
         "vikalpa": {
-            "A": "$\frac{3}, {4}$",
-            "B": "$\frac{1}, {4}$",
-            "C": "$\frac{1}, {2}$",
-            "D": "$\frac{5}, {4}$"
+            "A": "$\\frac{3}{4}$",
+            "B": "$\\frac{1}{4}$",
+            "C": "$\\frac{1}{2}$",
+            "D": "$\\frac{5}{4}$"
         }
     },
     {
@@ -1134,13 +1134,13 @@
             "A": "$a, a+d, a+2d, a+3d, \\dots$",
             "B": "$\\sqrt{2}, \\sqrt{8}, \\sqrt{18}, \\sqrt{32}, \\dots$",
             "C": "$0.3, 0.33, 0.333, 0.3333, \\dots$",
-            "D": "$\frac{1}, {2}, \frac{1}, {3}, \frac{1}, {6}, 0, \\dots$"
+            "D": "$\\frac{1}{2}, \\frac{1}{3}, \\frac{1}{6}, 0, \\dots$"
         },
         "vikalpa": {
             "A": "$a, a+d, a+2d, a+3d, \\dots$",
             "B": "$\\sqrt{2}, \\sqrt{8}, \\sqrt{18}, \\sqrt{32}, \\dots$",
             "C": "$0.3, 0.33, 0.333, 0.3333, \\dots$",
-            "D": "$\frac{1}, {2}, \frac{1}, {3}, \frac{1}, {6}, 0, \\dots$"
+            "D": "$\\frac{1}{2}, \\frac{1}{3}, \\frac{1}{6}, 0, \\dots$"
         }
     },
     {
@@ -1352,15 +1352,15 @@
         "prashna": "यदि '$d$' एक वृत्त का व्यास हो, तो उसका क्षेत्रफल होगा",
         "options": {
             "A": "$\\pi d^2$ sq. units",
-            "B": "$\frac{\\pi d^2}, {2}$ sq. units",
-            "C": "$\frac{\\pi d^2}, {3}$ sq. units",
-            "D": "$\frac{\\pi d^2}, {4}$ sq. units"
+            "B": "$\\frac{\\pi d^2}{2}$ sq. units",
+            "C": "$\\frac{\\pi d^2}{3}$ sq. units",
+            "D": "$\\frac{\\pi d^2}{4}$ sq. units"
         },
         "vikalpa": {
             "A": "$\\pi d^2$ वर्ग इकाई",
-            "B": "$\frac{\\pi d^2}, {2}$ वर्ग इकाई",
-            "C": "$\frac{\\pi d^2}, {3}$ वर्ग इकाई",
-            "D": "$\frac{\\pi d^2}, {4}$ वर्ग इकाई"
+            "B": "$\\frac{\\pi d^2}{2}$ वर्ग इकाई",
+            "C": "$\\frac{\\pi d^2}{3}$ वर्ग इकाई",
+            "D": "$\\frac{\\pi d^2}{4}$ वर्ग इकाई"
         }
     },
     {
@@ -1370,8 +1370,8 @@
         "chapter_name": "Triangles",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "In $\triangle ABC$, points $D$ and $E$ are on sides $AB$ and $AC$ respectively such that $DE \\parallel BC$. If $\frac{AD}, {DB} = \frac{1}, {2}$ and $AC = 27$ cm, then $EC =$",
-        "prashna": "$\triangle ABC$ में बिन्दु $D$ और $E$ क्रमशः भुजाओं $AB$ और $AC$ पर इस प्रकार है कि $DE \\parallel BC$ यदि $\frac{AD}, {DB} = \frac{1}, {2}$ और $AC = 27$ cm तो $EC =$",
+        "question": "In $\triangle ABC$, points $D$ and $E$ are on sides $AB$ and $AC$ respectively such that $DE \\parallel BC$. If $\\frac{AD}{DB} = \\frac{1}{2}$ and $AC = 27$ cm, then $EC =$",
+        "prashna": "$\triangle ABC$ में बिन्दु $D$ और $E$ क्रमशः भुजाओं $AB$ और $AC$ पर इस प्रकार है कि $DE \\parallel BC$ यदि $\\frac{AD}{DB} = \\frac{1}{2}$ और $AC = 27$ cm तो $EC =$",
         "options": {
             "A": "$9$ cm",
             "B": "$18$ cm",
@@ -1395,16 +1395,16 @@
         "question": "The volume of a sphere with radius '$r$' will be",
         "prashna": "'$r$' त्रिज्या वाले गोला का आयतन होगा",
         "options": {
-            "A": "$\frac{4}, {3} \\pi r^3$ cubic units",
-            "B": "$\frac{1}, {3} \\pi r^3$ cubic units",
-            "C": "$\frac{2}, {3} \\pi r^3$ cubic units",
-            "D": "$\frac{3}, {4} \\pi r^3$ cubic units"
+            "A": "$\\frac{4}{3} \\pi r^3$ cubic units",
+            "B": "$\\frac{1}{3} \\pi r^3$ cubic units",
+            "C": "$\\frac{2}{3} \\pi r^3$ cubic units",
+            "D": "$\\frac{3}{4} \\pi r^3$ cubic units"
         },
         "vikalpa": {
-            "A": "$\frac{4}, {3} \\pi r^3$ घन इकाई",
-            "B": "$\frac{1}, {3} \\pi r^3$ घन इकाई",
-            "C": "$\frac{2}, {3} \\pi r^3$ घन इकाई",
-            "D": "$\frac{3}, {4} \\pi r^3$ घन इकाई"
+            "A": "$\\frac{4}{3} \\pi r^3$ घन इकाई",
+            "B": "$\\frac{1}{3} \\pi r^3$ घन इकाई",
+            "C": "$\\frac{2}{3} \\pi r^3$ घन इकाई",
+            "D": "$\\frac{3}{4} \\pi r^3$ घन इकाई"
         }
     },
     {
@@ -1436,19 +1436,19 @@
         "chapter_name": "Statistics",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "The relationship between mean $(\bar{x})$, median $(y)$ and mode $(z)$ is",
-        "prashna": "माध्य $(\bar{x})$, माध्यिका $(y)$ और बहुलक $(z)$ के बीच संबंध है",
+        "question": "The relationship between mean $(\\bar{x})$, median $(y)$ and mode $(z)$ is",
+        "prashna": "माध्य $(\\bar{x})$, माध्यिका $(y)$ और बहुलक $(z)$ के बीच संबंध है",
         "options": {
-            "A": "$\bar{x} - z = 3(\bar{x} - y)$",
-            "B": "$\bar{x} - y = 3(z - y)$",
-            "C": "$3(\bar{x} - z) = \bar{x} - y$",
-            "D": "$\bar{x} - y = z - y$"
+            "A": "$\\bar{x} - z = 3(\\bar{x} - y)$",
+            "B": "$\\bar{x} - y = 3(z - y)$",
+            "C": "$3(\\bar{x} - z) = \\bar{x} - y$",
+            "D": "$\\bar{x} - y = z - y$"
         },
         "vikalpa": {
-            "A": "$\bar{x} - z = 3(\bar{x} - y)$",
-            "B": "$\bar{x} - y = 3(z - y)$",
-            "C": "$3(\bar{x} - z) = \bar{x} - y$",
-            "D": "$\bar{x} - y = z - y$"
+            "A": "$\\bar{x} - z = 3(\\bar{x} - y)$",
+            "B": "$\\bar{x} - y = 3(z - y)$",
+            "C": "$3(\\bar{x} - z) = \\bar{x} - y$",
+            "D": "$\\bar{x} - y = z - y$"
         }
     },
     {
@@ -1573,13 +1573,13 @@
         "options": {
             "A": "$p$",
             "B": "$p - 1$",
-            "C": "$1 - \frac{1}, {p}$",
+            "C": "$1 - \\frac{1}{p}$",
             "D": "$1 - p$"
         },
         "vikalpa": {
             "A": "$p$",
             "B": "$p - 1$",
-            "C": "$1 - \frac{1}, {p}$",
+            "C": "$1 - \\frac{1}{p}$",
             "D": "$1 - p$"
         }
     },
@@ -1682,15 +1682,15 @@
         "prashna": "निश्चित घटना की प्रायिकता होती है",
         "options": {
             "A": "$0$",
-            "B": "$\frac{1}, {2}$",
+            "B": "$\\frac{1}{2}$",
             "C": "$1$",
-            "D": "$\frac{1}, {4}$"
+            "D": "$\\frac{1}{4}$"
         },
         "vikalpa": {
             "A": "$0$",
-            "B": "$\frac{1}, {2}$",
+            "B": "$\\frac{1}{2}$",
             "C": "$1$",
-            "D": "$\frac{1}, {4}$"
+            "D": "$\\frac{1}{4}$"
         }
     },
     {
@@ -1857,14 +1857,14 @@
         "question": "Which of the following is a rational number?",
         "prashna": "निम्नलिखित में कौन-सा परिमेय संख्या है ?",
         "options": {
-            "A": "$\\sqrt{\frac{1}, {144}}$",
-            "B": "$\\sqrt{\frac{50}, {500}}$",
+            "A": "$\\sqrt{\\frac{1}{144}}$",
+            "B": "$\\sqrt{\\frac{50}{500}}$",
             "C": "$\\sqrt{32}$",
             "D": "$5 + \\sqrt{5}$"
         },
         "vikalpa": {
-            "A": "$\\sqrt{\frac{1}, {144}}$",
-            "B": "$\\sqrt{\frac{50}, {500}}$",
+            "A": "$\\sqrt{\\frac{1}{144}}$",
+            "B": "$\\sqrt{\\frac{50}{500}}$",
             "C": "$\\sqrt{32}$",
             "D": "$5 + \\sqrt{5}$"
         }
@@ -1901,16 +1901,16 @@
         "question": "The decimal expansion of which of the following is non-terminating?",
         "prashna": "निम्नलिखित में किसका दशमलव प्रसार असांत है ?",
         "options": {
-            "A": "$\frac{23}, {50}$",
-            "B": "$\frac{39}, {243}$",
-            "C": "$\frac{25}, {1600}$",
-            "D": "$\frac{13}, {625}$"
+            "A": "$\\frac{23}{50}$",
+            "B": "$\\frac{39}{243}$",
+            "C": "$\\frac{25}{1600}$",
+            "D": "$\\frac{13}{625}$"
         },
         "vikalpa": {
-            "A": "$\frac{23}, {50}$",
-            "B": "$\frac{39}, {243}$",
-            "C": "$\frac{25}, {1600}$",
-            "D": "$\frac{13}, {625}$"
+            "A": "$\\frac{23}{50}$",
+            "B": "$\\frac{39}{243}$",
+            "C": "$\\frac{25}{1600}$",
+            "D": "$\\frac{13}{625}$"
         }
     },
     {
@@ -1923,16 +1923,16 @@
         "question": "The sum of the zeroes of polynomial $5y^2 - 14y + 8$ will be",
         "prashna": "बहुपद $5y^2 - 14y + 8$ के शून्यकों का योग होगा",
         "options": {
-            "A": "$\frac{5}, {2}$",
-            "B": "$\frac{-5}, {2}$",
-            "C": "$\frac{14}, {5}$",
-            "D": "$\frac{8}, {5}$"
+            "A": "$\\frac{5}{2}$",
+            "B": "$\\frac{-5}{2}$",
+            "C": "$\\frac{14}{5}$",
+            "D": "$\\frac{8}{5}$"
         },
         "vikalpa": {
-            "A": "$\frac{5}, {2}$",
-            "B": "$\frac{-5}, {2}$",
-            "C": "$\frac{14}, {5}$",
-            "D": "$\frac{8}, {5}$"
+            "A": "$\\frac{5}{2}$",
+            "B": "$\\frac{-5}{2}$",
+            "C": "$\\frac{14}{5}$",
+            "D": "$\\frac{8}{5}$"
         }
     },
     {
@@ -1986,8 +1986,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "In the given right triangle $\triangle ABC$, $\frac{AB}, {AC} =$",
-        "prashna": "दिए गए समकोण $\triangle ABC$ में, $\frac{AB}, {AC} =$",
+        "question": "In the given right triangle $\triangle ABC$, $\\frac{AB}{AC} =$",
+        "prashna": "दिए गए समकोण $\triangle ABC$ में, $\\frac{AB}{AC} =$",
         "options": {
             "A": "$\\sin \\alpha$",
             "B": "$\\cos \\alpha$",
@@ -2008,19 +2008,19 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\text{cosec} \\, \theta = \frac{b}, {a}$, then the value of $\\sec \theta$ is",
-        "prashna": "यदि $\text{cosec} \\, \theta = \frac{b}, {a}$, तो $\\sec \theta$ का मान है",
+        "question": "If $\text{cosec} \\, \theta = \\frac{b}{a}$, then the value of $\\sec \theta$ is",
+        "prashna": "यदि $\text{cosec} \\, \theta = \\frac{b}{a}$, तो $\\sec \theta$ का मान है",
         "options": {
-            "A": "$\frac{b}, {\\sqrt{b^2 - a^2}}$",
-            "B": "$\frac{\\sqrt{b^2 - a^2}}, {b}$",
-            "C": "$\frac{a}, {\\sqrt{b^2 - a^2}}$",
-            "D": "$\frac{b}, {a}$"
+            "A": "$\\frac{b}{\\sqrt{b^2 - a^2}}$",
+            "B": "$\\frac{\\sqrt{b^2 - a^2}}, {b}$",
+            "C": "$\\frac{a}{\\sqrt{b^2 - a^2}}$",
+            "D": "$\\frac{b}{a}$"
         },
         "vikalpa": {
-            "A": "$\frac{b}, {\\sqrt{b^2 - a^2}}$",
-            "B": "$\frac{\\sqrt{b^2 - a^2}}, {b}$",
-            "C": "$\frac{a}, {\\sqrt{b^2 - a^2}}$",
-            "D": "$\frac{b}, {a}$"
+            "A": "$\\frac{b}{\\sqrt{b^2 - a^2}}$",
+            "B": "$\\frac{\\sqrt{b^2 - a^2}}, {b}$",
+            "C": "$\\frac{a}{\\sqrt{b^2 - a^2}}$",
+            "D": "$\\frac{b}{a}$"
         }
     },
     {
@@ -2035,13 +2035,13 @@
         "options": {
             "A": "$0$",
             "B": "$1$",
-            "C": "$\frac{1}, {2}$",
+            "C": "$\\frac{1}{2}$",
             "D": "$2$"
         },
         "vikalpa": {
             "A": "$0$",
             "B": "$1$",
-            "C": "$\frac{1}, {2}$",
+            "C": "$\\frac{1}{2}$",
             "D": "$2$"
         }
     },
@@ -2099,15 +2099,15 @@
         "question": "If $3 \theta = 90^\\circ$, then $\\cos \theta =$",
         "prashna": "यदि $3 \theta = 90^\\circ$ तो $\\cos \theta =$",
         "options": {
-            "A": "$\frac{\\sqrt{3}}, {2}$",
-            "B": "$\frac{1}, {\\sqrt{2}}$",
-            "C": "$\frac{1}, {2}$",
+            "A": "$\\frac{\\sqrt{3}}, {2}$",
+            "B": "$\\frac{1}{\\sqrt{2}}$",
+            "C": "$\\frac{1}{2}$",
             "D": "$0$"
         },
         "vikalpa": {
-            "A": "$\frac{\\sqrt{3}}, {2}$",
-            "B": "$\frac{1}, {\\sqrt{2}}$",
-            "C": "$\frac{1}, {2}$",
+            "A": "$\\frac{\\sqrt{3}}, {2}$",
+            "B": "$\\frac{1}{\\sqrt{2}}$",
+            "C": "$\\frac{1}{2}$",
             "D": "$0$"
         }
     },
@@ -2236,8 +2236,8 @@
         "chapter_name": "Quadratic Equations",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If one root of the quadratic equation $7y^2 + ky - 3 = 0$ is $\frac{2}, {3}$, then find the value of $k$.",
-        "prashna": "यदि द्विघात समीकरण $7y^2 + ky - 3 = 0$ का एक हल $\frac{2}, {3}$ है, तो $k$ का मान ज्ञात करें।"
+        "question": "If one root of the quadratic equation $7y^2 + ky - 3 = 0$ is $\\frac{2}{3}$, then find the value of $k$.",
+        "prashna": "यदि द्विघात समीकरण $7y^2 + ky - 3 = 0$ का एक हल $\\frac{2}{3}$ है, तो $k$ का मान ज्ञात करें।"
     },
     {
         "id": "short_5",
@@ -2406,8 +2406,8 @@
         "chapter_name": "Coordinate Geometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If points $(a, 0), (0, b)$ and $(1, 1)$ are collinear, then prove that $\frac{1}, {a} + \frac{1}, {b} = 1$.",
-        "prashna": "यदि बिन्दु $(a, 0), (0, b)$ तथा $(1, 1)$ संरेखी हों, तो सिद्ध करें कि $\frac{1}, {a} + \frac{1}, {b} = 1$।"
+        "question": "If points $(a, 0), (0, b)$ and $(1, 1)$ are collinear, then prove that $\\frac{1}{a} + \\frac{1}{b} = 1$.",
+        "prashna": "यदि बिन्दु $(a, 0), (0, b)$ तथा $(1, 1)$ संरेखी हों, तो सिद्ध करें कि $\\frac{1}{a} + \\frac{1}{b} = 1$।"
     },
     {
         "id": "short_22",
@@ -2416,8 +2416,8 @@
         "chapter_name": "Real Numbers",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "Express $0.1\\overline{2}$ in the form $\frac{p}, {q}$.",
-        "prashna": "$0.1\\overline{2}$ को $\frac{p}, {q}$ के रूप में बदलें।"
+        "question": "Express $0.1\\overline{2}$ in the form $\\frac{p}{q}$.",
+        "prashna": "$0.1\\overline{2}$ को $\\frac{p}{q}$ के रूप में बदलें।"
     },
     {
         "id": "short_23",
@@ -2436,8 +2436,8 @@
         "chapter_name": "Polynomials",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\\alpha$ and $\beta$ are the zeroes of the polynomial $f(x) = x^2 - 2x - 8$, then find the value of $\\alpha + \beta - \\alpha\beta$.",
-        "prashna": "यदि $\\alpha$ तथा $\beta$ बहुपद $f(x) = x^2 - 2x - 8$ के शून्यक हों, तो $\\alpha + \beta - \\alpha\beta$ का मान ज्ञात करें।"
+        "question": "If $\\alpha$ and $\\beta$ are the zeroes of the polynomial $f(x) = x^2 - 2x - 8$, then find the value of $\\alpha + \\beta - \\alpha\\beta$.",
+        "prashna": "यदि $\\alpha$ तथा $\\beta$ बहुपद $f(x) = x^2 - 2x - 8$ के शून्यक हों, तो $\\alpha + \\beta - \\alpha\\beta$ का मान ज्ञात करें।"
     },
     {
         "id": "short_25",
@@ -2446,8 +2446,8 @@
         "chapter_name": "Quadratic Equations",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "The sum of two natural numbers is $8$ and the sum of their reciprocals is $\frac{8}, {15}$, find the numbers.",
-        "prashna": "दो प्राकृत संख्याओं का योगफल $8$ है और उनके व्युत्क्रमों का योगफल $\frac{8}, {15}$ है, तो संख्या ज्ञात करें।"
+        "question": "The sum of two natural numbers is $8$ and the sum of their reciprocals is $\\frac{8}{15}$, find the numbers.",
+        "prashna": "दो प्राकृत संख्याओं का योगफल $8$ है और उनके व्युत्क्रमों का योगफल $\\frac{8}{15}$ है, तो संख्या ज्ञात करें।"
     },
     {
         "id": "short_26",
@@ -2466,8 +2466,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "Prove that $\\sqrt{\frac{1 - \\cos \\alpha}, {1 + \\cos \\alpha}} = \text{cosec} \\alpha - \\cot \\alpha$.",
-        "prashna": "सिद्ध करें कि $\\sqrt{\frac{1 - \\cos \\alpha}, {1 + \\cos \\alpha}} = \text{cosec} \\alpha - \\cot \\alpha$."
+        "question": "Prove that $\\sqrt{\\frac{1 - \\cos \\alpha}{1 + \\cos \\alpha}} = \text{cosec} \\alpha - \\cot \\alpha$.",
+        "prashna": "सिद्ध करें कि $\\sqrt{\\frac{1 - \\cos \\alpha}{1 + \\cos \\alpha}} = \text{cosec} \\alpha - \\cot \\alpha$."
     },
     {
         "id": "short_28",
@@ -2476,8 +2476,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\\sec \theta = \frac{13}, {12}$, then find the value of $\\cos \theta + \tan \theta$.",
-        "prashna": "यदि $\\sec \theta = \frac{13}, {12}$ तो $\\cos \theta + \tan \theta$ का मान ज्ञात करें।"
+        "question": "If $\\sec \theta = \\frac{13}{12}$, then find the value of $\\cos \theta + \tan \theta$.",
+        "prashna": "यदि $\\sec \theta = \\frac{13}{12}$ तो $\\cos \theta + \tan \theta$ का मान ज्ञात करें।"
     },
     {
         "id": "short_29",
@@ -2486,8 +2486,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\tan A = \\sqrt{3}$, then find the value of $\frac{1 - \\cos^2 A}, {3 - \\sin^2 A}$.",
-        "prashna": "यदि $\tan A = \\sqrt{3}$ हो, तो $\frac{1 - \\cos^2 A}, {3 - \\sin^2 A}$ का मान ज्ञात करें।"
+        "question": "If $\tan A = \\sqrt{3}$, then find the value of $\\frac{1 - \\cos^2 A}{3 - \\sin^2 A}$.",
+        "prashna": "यदि $\tan A = \\sqrt{3}$ हो, तो $\\frac{1 - \\cos^2 A}{3 - \\sin^2 A}$ का मान ज्ञात करें।"
     },
     {
         "id": "short_30",
@@ -2566,8 +2566,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "Prove that $\frac{1 + \\sec \theta}, {\\sec \theta} = \frac{\\sin^2 \theta}, {1 - \\cos \theta}$.",
-        "prashna": "सिद्ध करें कि $\frac{1 + \\sec \theta}, {\\sec \theta} = \frac{\\sin^2 \theta}, {1 - \\cos \theta}$."
+        "question": "Prove that $\\frac{1 + \\sec \theta}{\\sec \theta} = \\frac{\\sin^2 \theta}{1 - \\cos \theta}$.",
+        "prashna": "सिद्ध करें कि $\\frac{1 + \\sec \theta}{\\sec \theta} = \\frac{\\sin^2 \theta}{1 - \\cos \theta}$."
     },
     {
         "id": "long_8",
@@ -2576,7 +2576,7 @@
         "chapter_name": "Pair of Linear Equations in Two Variables",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $2$ is added to both numerator and denominator of a fraction, it becomes $\frac{1}, {2}$. If $7$ is subtracted from both numerator and denominator, it becomes $\frac{1}, {3}$. Find that fraction.",
-        "prashna": "यदि किसी भिन्न के अंश और हर दोनों में $2$ जोड़ दिया जाए, तो वह $\frac{1}, {2}$ हो जाती है। यदि अंश और हर दोनों में $7$ घटा दिया जाए, तो वह $\frac{1}, {3}$ हो जाती है। वह भिन्न ज्ञात करें।"
+        "question": "If $2$ is added to both numerator and denominator of a fraction, it becomes $\\frac{1}{2}$. If $7$ is subtracted from both numerator and denominator, it becomes $\\frac{1}{3}$. Find that fraction.",
+        "prashna": "यदि किसी भिन्न के अंश और हर दोनों में $2$ जोड़ दिया जाए, तो वह $\\frac{1}{2}$ हो जाती है। यदि अंश और हर दोनों में $7$ घटा दिया जाए, तो वह $\\frac{1}{3}$ हो जाती है। वह भिन्न ज्ञात करें।"
     }
 ]

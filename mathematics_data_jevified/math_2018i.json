@@ -31,15 +31,15 @@
         "question": "Which of the following numbers has terminating decimal expansion?",
         "prashna": "निम्नलिखित में से कौन-सा भिन्न दशमलव प्रसार सांत है?",
         "options": {
-            "A": "$\frac{11}, {700}$",
-            "B": "$\frac{91}, {2100}$",
-            "C": "$\frac{343}, {2^3 \times 5^3 \times 7^3}$",
+            "A": "$\\frac{11}{700}$",
+            "B": "$\\frac{91}{2100}$",
+            "C": "$\\frac{343}{2^3 \times 5^3 \times 7^3}$",
             "D": "None of these"
         },
         "vikalpa": {
-            "A": "$\frac{11}, {700}$",
-            "B": "$\frac{91}, {2100}$",
-            "C": "$\frac{343}, {2^3 \times 5^3 \times 7^3}$",
+            "A": "$\\frac{11}{700}$",
+            "B": "$\\frac{91}{2100}$",
+            "C": "$\\frac{343}{2^3 \times 5^3 \times 7^3}$",
             "D": "इनमें से कोई नहीं"
         }
     },
@@ -94,19 +94,19 @@
         "chapter_name": "Real Numbers",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "$23.\\overline{43}$ can be expressed in the form of $\frac{p}, {q}$ ($p, q$ are integers, $q \neq 0$) -",
-        "prashna": "संख्या $23.\\overline{43}$ को $\frac{p}, {q}$ के रूप में (जहाँ $p, q$ पूर्णांक है, $q \neq 0$) प्रकट किया जा सकता है -",
+        "question": "$23.\\overline{43}$ can be expressed in the form of $\\frac{p}{q}$ ($p, q$ are integers, $q \neq 0$) -",
+        "prashna": "संख्या $23.\\overline{43}$ को $\\frac{p}{q}$ के रूप में (जहाँ $p, q$ पूर्णांक है, $q \neq 0$) प्रकट किया जा सकता है -",
         "options": {
-            "A": "$\frac{2320}, {99}$",
-            "B": "$\frac{2343}, {100}$",
-            "C": "$\frac{2343}, {999}$",
-            "D": "$\frac{2320}, {999}$"
+            "A": "$\\frac{2320}{99}$",
+            "B": "$\\frac{2343}{100}$",
+            "C": "$\\frac{2343}{999}$",
+            "D": "$\\frac{2320}{999}$"
         },
         "vikalpa": {
-            "A": "$\frac{2320}, {99}$",
-            "B": "$\frac{2343}, {100}$",
-            "C": "$\frac{2343}, {999}$",
-            "D": "$\frac{2320}, {999}$"
+            "A": "$\\frac{2320}{99}$",
+            "B": "$\\frac{2343}{100}$",
+            "C": "$\\frac{2343}{999}$",
+            "D": "$\\frac{2320}{999}$"
         }
     },
     {
@@ -116,19 +116,19 @@
         "chapter_name": "Polynomials",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\\alpha, \beta$ are the zeros of $f(x) = 2x^2 + 6x - 6$, then -",
-        "prashna": "यदि $f(x) = 2x^2 + 6x - 6$ का शून्यक $\\alpha, \beta$ है, तो -",
+        "question": "If $\\alpha, \\beta$ are the zeros of $f(x) = 2x^2 + 6x - 6$, then -",
+        "prashna": "यदि $f(x) = 2x^2 + 6x - 6$ का शून्यक $\\alpha, \\beta$ है, तो -",
         "options": {
-            "A": "$\\alpha + \beta = \\alpha\beta$",
-            "B": "$\\alpha + \beta > \\alpha\beta$",
-            "C": "$\\alpha + \beta < \\alpha\beta$",
-            "D": "$\\alpha + \beta + \\alpha\beta = 0$"
+            "A": "$\\alpha + \\beta = \\alpha\\beta$",
+            "B": "$\\alpha + \\beta > \\alpha\\beta$",
+            "C": "$\\alpha + \\beta < \\alpha\\beta$",
+            "D": "$\\alpha + \\beta + \\alpha\\beta = 0$"
         },
         "vikalpa": {
-            "A": "$\\alpha + \beta = \\alpha\beta$",
-            "B": "$\\alpha + \beta > \\alpha\beta$",
-            "C": "$\\alpha + \beta < \\alpha\beta$",
-            "D": "$\\alpha + \beta + \\alpha\beta = 0$"
+            "A": "$\\alpha + \\beta = \\alpha\\beta$",
+            "B": "$\\alpha + \\beta > \\alpha\\beta$",
+            "C": "$\\alpha + \\beta < \\alpha\\beta$",
+            "D": "$\\alpha + \\beta + \\alpha\\beta = 0$"
         }
     },
     {
@@ -163,15 +163,15 @@
         "question": "Which of the following is not a polynomial?",
         "prashna": "निम्नलिखित में से कौन बहुपद नहीं है?",
         "options": {
-            "A": "$\frac{2}, {3}x + 1$",
+            "A": "$\\frac{2}{3}x + 1$",
             "B": "$2 - x^2 + \\sqrt{3}x$",
-            "C": "$\frac{1}, {x - 1}$",
+            "C": "$\\frac{1}{x - 1}$",
             "D": "$x^3$"
         },
         "vikalpa": {
-            "A": "$\frac{2}, {3}x + 1$",
+            "A": "$\\frac{2}{3}x + 1$",
             "B": "$2 - x^2 + \\sqrt{3}x$",
-            "C": "$\frac{1}, {x - 1}$",
+            "C": "$\\frac{1}{x - 1}$",
             "D": "$x^3$"
         }
     },
@@ -361,14 +361,14 @@
         "question": "If $7 \\sin^2 \theta + 3 \\cos^2 \theta = 4$, then $\\sec \theta + \\csc \theta$ is equal to -",
         "prashna": "यदि $7 \\sin^2 \theta + 3 \\cos^2 \theta = 4$ तब $\\sec \theta + \\csc \theta$ बराबर है -",
         "options": {
-            "A": "$\frac{2}, {\\sqrt{3}} - 2$",
-            "B": "$\frac{2}, {\\sqrt{3}} + 2$",
+            "A": "$\\frac{2}{\\sqrt{3}} - 2$",
+            "B": "$\\frac{2}{\\sqrt{3}} + 2$",
             "C": "2/3",
             "D": "$\\sqrt{3}/2$"
         },
         "vikalpa": {
-            "A": "$\frac{2}, {\\sqrt{3}} - 2$",
-            "B": "$\frac{2}, {\\sqrt{3}} + 2$",
+            "A": "$\\frac{2}{\\sqrt{3}} - 2$",
+            "B": "$\\frac{2}{\\sqrt{3}} + 2$",
             "C": "2/3",
             "D": "$\\sqrt{3}/2$"
         }
@@ -380,8 +380,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $5 \\cot \theta = 3$, then $\frac{5 \\sin \theta - 3 \\cos \theta}, {4 \\sin \theta + 3 \\cos \theta}$ is equal to -",
-        "prashna": "यदि $5 \\cot \theta = 3$ तब $\frac{5 \\sin \theta - 3 \\cos \theta}, {4 \\sin \theta + 3 \\cos \theta}$ बराबर है -",
+        "question": "If $5 \\cot \theta = 3$, then $\\frac{5 \\sin \theta - 3 \\cos \theta}{4 \\sin \theta + 3 \\cos \theta}$ is equal to -",
+        "prashna": "यदि $5 \\cot \theta = 3$ तब $\\frac{5 \\sin \theta - 3 \\cos \theta}{4 \\sin \theta + 3 \\cos \theta}$ बराबर है -",
         "options": {
             "A": "11/18",
             "B": "16/29",
@@ -405,16 +405,16 @@
         "question": "If $\\sin x^\\circ = \\sin \\alpha$, then $\\alpha$ is -",
         "prashna": "यदि $\\sin x^\\circ = \\sin \\alpha$ तब $\\alpha$ है -",
         "options": {
-            "A": "$\frac{180}, {\\pi}$",
-            "B": "$\frac{\\pi}, {270}$",
-            "C": "$\frac{270}, {\\pi}$",
-            "D": "$\frac{\\pi}, {180}$"
+            "A": "$\\frac{180}{\\pi}$",
+            "B": "$\\frac{\\pi}{270}$",
+            "C": "$\\frac{270}{\\pi}$",
+            "D": "$\\frac{\\pi}{180}$"
         },
         "vikalpa": {
-            "A": "$\frac{180}, {\\pi}$",
-            "B": "$\frac{\\pi}, {270}$",
-            "C": "$\frac{270}, {\\pi}$",
-            "D": "$\frac{\\pi}, {180}$"
+            "A": "$\\frac{180}{\\pi}$",
+            "B": "$\\frac{\\pi}{270}$",
+            "C": "$\\frac{270}{\\pi}$",
+            "D": "$\\frac{\\pi}{180}$"
         }
     },
     {
@@ -534,8 +534,8 @@
         "chapter_name": "Some Applications of Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If two towers of height $h_1$ and $h_2$ subtend angle $60^\\circ$ and $30^\\circ$ at the midpoint of line joining their bases of towers, then $\frac{h_1}, {h_2}$ is -",
-        "prashna": "यदि दो मीनार ऊँचाई $h_1$ तथा $h_2$ के पादों को मिलाने वाली रेखा के मध्य-बिन्दु पर मीनारों द्वारा बनाये जाने वाले कोण का मान क्रमशः $60^\\circ$ तथा $30^\\circ$ है तो $\frac{h_1}, {h_2}$ बराबर होगा -",
+        "question": "If two towers of height $h_1$ and $h_2$ subtend angle $60^\\circ$ and $30^\\circ$ at the midpoint of line joining their bases of towers, then $\\frac{h_1}{h_2}$ is -",
+        "prashna": "यदि दो मीनार ऊँचाई $h_1$ तथा $h_2$ के पादों को मिलाने वाली रेखा के मध्य-बिन्दु पर मीनारों द्वारा बनाये जाने वाले कोण का मान क्रमशः $60^\\circ$ तथा $30^\\circ$ है तो $\\frac{h_1}{h_2}$ बराबर होगा -",
         "options": {
             "A": "$3:1$",
             "B": "$1:2$",
@@ -647,13 +647,13 @@
         "question": "The area of the triangle formed by line $5x - 3y + 10 = 0$ with co-ordinate axis will be-",
         "prashna": "सरल रेखा $5x - 3y + 10 = 0$ तथा अक्षों के बीच बने त्रिभुज का क्षेत्रफल -",
         "options": {
-            "A": "$\frac{15}, {2} \text{ cm}^2$",
+            "A": "$\\frac{15}{2} \text{ cm}^2$",
             "B": "$5 \text{ cm}^2$",
             "C": "$8 \text{ cm}^2$",
             "D": "$15 \text{ cm}^2$"
         },
         "vikalpa": {
-            "A": "$\frac{15}, {2} \text{ सेमी}^2$",
+            "A": "$\\frac{15}{2} \text{ सेमी}^2$",
             "B": "$5 \text{ सेमी}^2$",
             "C": "$8 \text{ सेमी}^2$",
             "D": "$15 \text{ सेमी}^2$"
@@ -1116,8 +1116,8 @@
         "chapter_name": "Real Numbers",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "Without actually performing the long division. State whether rational number $\frac{2}, {25}$ has a terminating decimal expansion or non-terminating decimal expansion.",
-        "prashna": "बिना भाग दिये बतावें कि परिमेय संख्या $\frac{2}, {25}$ का दशमलव प्रसार सांत है या असांत?"
+        "question": "Without actually performing the long division. State whether rational number $\\frac{2}{25}$ has a terminating decimal expansion or non-terminating decimal expansion.",
+        "prashna": "बिना भाग दिये बतावें कि परिमेय संख्या $\\frac{2}{25}$ का दशमलव प्रसार सांत है या असांत?"
     },
     {
         "id": "short_3",
@@ -1126,8 +1126,8 @@
         "chapter_name": "Polynomials",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\\alpha$ and $\beta$ are zeros of polynomial $p(x) = x^2 + x + 1$, then find $\\alpha^2 + \beta^2$.",
-        "prashna": "यदि बहुपद $p(x) = x^2 + x + 1$ का शून्यक $\\alpha$ तथा $\beta$ है, तो $\\alpha^2 + \beta^2$ का मान ज्ञात करें।"
+        "question": "If $\\alpha$ and $\\beta$ are zeros of polynomial $p(x) = x^2 + x + 1$, then find $\\alpha^2 + \\beta^2$.",
+        "prashna": "यदि बहुपद $p(x) = x^2 + x + 1$ का शून्यक $\\alpha$ तथा $\\beta$ है, तो $\\alpha^2 + \\beta^2$ का मान ज्ञात करें।"
     },
     {
         "id": "short_4",
@@ -1227,7 +1227,7 @@
         "confidence": 0.95,
         "raw_choice": "",
         "question": "If $\tan A = 3/4$, find $\\sin A \\cdot \\cos A$.",
-        "prashna": "यदि $\tan A = \frac{3}, {4}$, तो $\\sin A \\cdot \\cos A$ ज्ञात करें।"
+        "prashna": "यदि $\tan A = \\frac{3}{4}$, तो $\\sin A \\cdot \\cos A$ ज्ञात करें।"
     },
     {
         "id": "short_14",
@@ -1236,8 +1236,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\\sin \theta + \\cos \theta = p$ and $\\sec \theta + \\csc \theta = q$, then prove that $p^2 - 1 = \frac{2p}, {q}$.",
-        "prashna": "यदि $\\sin \theta + \\cos \theta = p$ और $\\sec \theta + \\csc \theta = q$ तो सिद्ध करें $p^2 - 1 = \frac{2p}, {q}$"
+        "question": "If $\\sin \theta + \\cos \theta = p$ and $\\sec \theta + \\csc \theta = q$, then prove that $p^2 - 1 = \\frac{2p}{q}$.",
+        "prashna": "यदि $\\sin \theta + \\cos \theta = p$ और $\\sec \theta + \\csc \theta = q$ तो सिद्ध करें $p^2 - 1 = \\frac{2p}{q}$"
     },
     {
         "id": "short_15",
@@ -1354,8 +1354,8 @@
         "chapter_name": "Triangles",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "In the given figure: $DE \\parallel BC$ and $\frac{BD}, {DA} = \frac{5}, {3}$ then, find $\frac{ar(\triangle ADE)}, {ar(\\Delta ABFC)}$",
-        "prashna": "दिये गये चित्र में $DE \\parallel BC$ तथा $\frac{BD}, {DA} = \frac{5}, {3}$ तो $\frac{ar(\triangle ADE)}, {ar(\\Delta ABFC)}$ ज्ञात करें।"
+        "question": "In the given figure: $DE \\parallel BC$ and $\\frac{BD}{DA} = \\frac{5}{3}$ then, find $\\frac{ar(\triangle ADE)}{ar(\\Delta ABFC)}$",
+        "prashna": "दिये गये चित्र में $DE \\parallel BC$ तथा $\\frac{BD}{DA} = \\frac{5}{3}$ तो $\\frac{ar(\triangle ADE)}{ar(\\Delta ABFC)}$ ज्ञात करें।"
     },
     {
         "id": "long_2_2",
@@ -1364,8 +1364,8 @@
         "chapter_name": "Circles",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "The in-circle of a triangle ABC touches the sides BC, CA and AB at D, E and F respectively. Prove that: $AF + BD + CE = AE + CD + BF = \frac{1}, {2}(\text{Perimeter of } \triangle ABC)$",
-        "prashna": "$\triangle ABC$ का अन्तःवृत भुजाओं $BC, CA$ तथा $AB$ को क्रमशः $D, E$ तथा $F$ पर स्पर्श करता है। सिद्ध कीजिए कि - $AF + BD + CE = AE + CD + BF = \frac{1}, {2}(\triangle ABC \text{ का परिमाप})$"
+        "question": "The in-circle of a triangle ABC touches the sides BC, CA and AB at D, E and F respectively. Prove that: $AF + BD + CE = AE + CD + BF = \\frac{1}{2}(\text{Perimeter of } \triangle ABC)$",
+        "prashna": "$\triangle ABC$ का अन्तःवृत भुजाओं $BC, CA$ तथा $AB$ को क्रमशः $D, E$ तथा $F$ पर स्पर्श करता है। सिद्ध कीजिए कि - $AF + BD + CE = AE + CD + BF = \\frac{1}{2}(\triangle ABC \text{ का परिमाप})$"
     },
     {
         "id": "long_3_1",

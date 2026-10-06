@@ -1,0 +1,46 @@
+{
+  "2024": [
+    {
+      "id": "poem_1",
+      "type": "poem",
+      "section": "Grammar",
+      "chapter": "18",
+      "chapter_name": "Translation",
+      "confidence": 0.95,
+      "raw_choice": "",
+      "context": "I have a rabbit habit,\nI like to crunch and chew\nOn celery logs and carrot sticks,\nAnd apple wedges, too.\n\nI have a rabbit habit,\nI like to chomp and munch\nOn crispy green and juicy grapes,\nMmmn ... rabbit food for lunch!",
+      "prashna": "मुझे खरगोश की आदत है,\nमुझे क्रंच और चबाना पसंद है\nसेलेरी के लट्ठे और गाजर की छड़ियाँ,\nऔर सेब के टुकड़े भी।\n\nमुझे खरगोश की आदत है,\nमुझे चबाना और चबाना पसंद है\nकरारे हरे और रसदार अंगूर,\nम्म्म... खरगोश का खाना दोपहर के भोजन के लिए!",
+      "sub_questions": {
+        "1": "What does the poet like to crunch and chew?",
+        "2": "What does he like to chomp and munch?",
+        "3": "What does the poet like for his lunch?"
+      },
+      "anuprashna": {
+        "1": "कवि को क्या क्रंच और चबाना पसंद है?",
+        "2": "उसे क्या चबाना और चबाना पसंद है?",
+        "3": "कवि को अपने दोपहर के भोजन के लिए क्या पसंद है?"
+      }
+    },
+    {
+      "id": "poem_1_alt",
+      "type": "poem",
+      "section": "Grammar",
+      "chapter": "18",
+      "chapter_name": "Translation",
+      "confidence": 0.95,
+      "raw_choice": "",
+      "context": "Some people are like caterpillars,\nSome people are like butterflies\nPeople who are insecure,\nPeople who think they are fat.\nPeople who think they are ugly.\nPeople who are scared of their flaws\nAre the caterpillars.\n\nPeople who have accepted that no matter how hard you try,\nYou will never be perfect.\nPeople who are dreamers,\nPeople who believe anything can happen as long as you try,\nAre the butterflies.",
+      "prashna": "कुछ लोग इलायची के कीड़े जैसे होते हैं,\nकुछ लोग तितलियों जैसे होते हैं\nजो लोग असुरक्षित होते हैं,\nजो लोग खुद को मोटा समझते हैं।\nजो लोग खुद को बदसूरत समझते हैं।\nजो लोग अपनी कमियों से डरते हैं\nवो इलायची के कीड़े हैं।\n\nजो लोग स्वीकार कर चुके हैं कि चाहे तुम कितनी भी मेहनत कर लो,\nतुम कभी परफेक्ट नहीं हो सकते।\nजो लोग सपने देखते हैं,\nजो लोग विश्वास करते हैं कि कुछ भी हो सकता है जब तक तुम कोशिश करते हो,\nवो तितलियाँ हैं।",
+      "sub_questions": {
+        "1": "What is the good thing about caterpillars?",
+        "2": "What do the people who are butterflies, believe?",
+        "3": "What do the people who are caterpillars, believe?"
+      },
+      "anuprashna": {
+        "1": "इलायची के कीड़ों के बारे में अच्छी बात क्या है?",
+        "2": "जो लोग तितलियाँ हैं, वे क्या विश्वास करते हैं?",
+        "3": "जो लोग इलायची के कीड़े हैं, वे क्या विश्वास करते हैं?"
+      }
+    }
+  ]
+}

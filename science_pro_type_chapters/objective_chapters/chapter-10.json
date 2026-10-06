@@ -370,14 +370,14 @@
       "question": "The value of refractive index of a medium is",
       "prashna": "किसी माध्यम के अपवर्तनांक का मान होता है",
       "options": {
-        "A": "$\frac{\\sin i}, {\\sin r}$",
-        "B": "$\frac{\\sin r}, {\\sin i}$",
+        "A": "$\\frac{\\sin i}{\\sin r}$",
+        "B": "$\\frac{\\sin r}{\\sin i}$",
         "C": "$\\sin i \times \\sin r$",
         "D": "$\\sin i + \\sin r$"
       },
       "vikalpa": {
-        "A": "$\frac{\\sin i}, {\\sin r}$",
-        "B": "$\frac{\\sin r}, {\\sin i}$",
+        "A": "$\\frac{\\sin i}{\\sin r}$",
+        "B": "$\\frac{\\sin r}{\\sin i}$",
         "C": "$\\sin i \times \\sin r$",
         "D": "$\\sin i + \\sin r$"
       }
@@ -1124,16 +1124,16 @@
       "question": "Which of the following is the magnification ($m$) of a lens?",
       "prashna": "निम्नलिखित में से कौन लेंस का आवर्धन ($m$) होता है ?",
       "options": {
-        "A": "$\frac{u}, {v}$",
+        "A": "$\\frac{u}{v}$",
         "B": "$uv$",
         "C": "$u+v$",
-        "D": "$\frac{v}, {u}$"
+        "D": "$\\frac{v}{u}$"
       },
       "vikalpa": {
-        "A": "$\frac{u}, {v}$",
+        "A": "$\\frac{u}{v}$",
         "B": "$uv$",
         "C": "$u+v$",
-        "D": "$\frac{v}, {u}$"
+        "D": "$\\frac{v}{u}$"
       }
     },
     {
@@ -1146,16 +1146,16 @@
       "question": "Mirror's formula is",
       "prashna": "दर्पण का सूत्र है",
       "options": {
-        "A": "$\frac{1}, {v} + \frac{1}, {u} = \frac{1}, {f}$",
-        "B": "$\frac{1}, {v} - \frac{1}, {u} = \frac{1}, {f}$",
-        "C": "$\frac{1}, {f} + \frac{1}, {u} = \frac{1}, {v}$",
-        "D": "$\frac{1}, {f} + \frac{1}, {v} = \frac{1}, {u}$"
+        "A": "$\\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f}$",
+        "B": "$\\frac{1}{v} - \\frac{1}{u} = \\frac{1}{f}$",
+        "C": "$\\frac{1}{f} + \\frac{1}{u} = \\frac{1}{v}$",
+        "D": "$\\frac{1}{f} + \\frac{1}{v} = \\frac{1}{u}$"
       },
       "vikalpa": {
-        "A": "$\frac{1}, {v} + \frac{1}, {u} = \frac{1}, {f}$",
-        "B": "$\frac{1}, {v} - \frac{1}, {u} = \frac{1}, {f}$",
-        "C": "$\frac{1}, {f} + \frac{1}, {u} = \frac{1}, {v}$",
-        "D": "$\frac{1}, {f} + \frac{1}, {v} = \frac{1}, {u}$"
+        "A": "$\\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f}$",
+        "B": "$\\frac{1}{v} - \\frac{1}{u} = \\frac{1}{f}$",
+        "C": "$\\frac{1}{f} + \\frac{1}{u} = \\frac{1}{v}$",
+        "D": "$\\frac{1}{f} + \\frac{1}{v} = \\frac{1}{u}$"
       }
     },
     {
@@ -1654,16 +1654,16 @@
       "question": "The mirror formula is",
       "prashna": "दर्पण का सूत्र है",
       "options": {
-        "A": "$\frac{1}, {v} + \frac{1}, {u} + \frac{1}, {f}$",
-        "B": "$\frac{1}, {v} - \frac{1}, {u} = \frac{1}, {f}$",
-        "C": "$\frac{1}, {f} + \frac{1}, {u} = \frac{1}, {v}$",
-        "D": "$\frac{1}, {f} + \frac{1}, {v} = \frac{1}, {u}$"
+        "A": "$\\frac{1}{v} + \\frac{1}{u} + \\frac{1}{f}$",
+        "B": "$\\frac{1}{v} - \\frac{1}{u} = \\frac{1}{f}$",
+        "C": "$\\frac{1}{f} + \\frac{1}{u} = \\frac{1}{v}$",
+        "D": "$\\frac{1}{f} + \\frac{1}{v} = \\frac{1}{u}$"
       },
       "vikalpa": {
-        "A": "$\frac{1}, {v} + \frac{1}, {u} + \frac{1}, {f}$",
-        "B": "$\frac{1}, {v} - \frac{1}, {u} = \frac{1}, {f}$",
-        "C": "$\frac{1}, {f} + \frac{1}, {u} = \frac{1}, {v}$",
-        "D": "$\frac{1}, {f} + \frac{1}, {v} = \frac{1}, {u}$"
+        "A": "$\\frac{1}{v} + \\frac{1}{u} + \\frac{1}{f}$",
+        "B": "$\\frac{1}{v} - \\frac{1}{u} = \\frac{1}{f}$",
+        "C": "$\\frac{1}{f} + \\frac{1}{u} = \\frac{1}{v}$",
+        "D": "$\\frac{1}{f} + \\frac{1}{v} = \\frac{1}{u}$"
       }
     },
     {
@@ -2186,14 +2186,14 @@
       "question": "What is the value of refractive index of a medium?",
       "prashna": "किसी माध्यम के अपवर्तनांक का मान क्या होता है ?",
       "options": {
-        "A": "$\frac{\\sin i}, {\\sin r}$",
-        "B": "$\frac{\\sin r}, {\\sin i}$",
+        "A": "$\\frac{\\sin i}{\\sin r}$",
+        "B": "$\\frac{\\sin r}{\\sin i}$",
         "C": "$\\sin i + \\sin r$",
         "D": "$\\sin i \times \\sin r$"
       },
       "vikalpa": {
-        "A": "$\frac{\\sin i}, {\\sin r}$",
-        "B": "$\frac{\\sin r}, {\\sin i}$",
+        "A": "$\\frac{\\sin i}{\\sin r}$",
+        "B": "$\\frac{\\sin r}{\\sin i}$",
         "C": "$\\sin i + \\sin r$",
         "D": "$\\sin i \times \\sin r$"
       }
@@ -2231,14 +2231,14 @@
       "prashna": "अवतल लेंस में आवर्धन (m) बराबर होता है",
       "options": {
         "A": "$uv$",
-        "B": "$\frac{u}, {v}$",
-        "C": "$\frac{v}, {u}$",
+        "B": "$\\frac{u}{v}$",
+        "C": "$\\frac{v}{u}$",
         "D": "$u + v$"
       },
       "vikalpa": {
         "A": "$uv$",
-        "B": "$\frac{u}, {v}$",
-        "C": "$\frac{v}, {u}$",
+        "B": "$\\frac{u}{v}$",
+        "C": "$\\frac{v}{u}$",
         "D": "$u + v$"
       }
     },
@@ -2938,16 +2938,16 @@
       "question": "Which of the following is the mirror formula ?",
       "prashna": "निम्न में से दर्पण सूत्र कौन है ?",
       "options": {
-        "A": "$\frac{1}, {v} - \frac{1}, {u} = \frac{1}, {f}$",
-        "B": "$\frac{1}, {f} + \frac{1}, {u} = \frac{1}, {v}$",
-        "C": "$\frac{1}, {f} + \frac{1}, {v} = \frac{1}, {u}$",
-        "D": "$\frac{1}, {v} + \frac{1}, {u} = \frac{1}, {f}$"
+        "A": "$\\frac{1}{v} - \\frac{1}{u} = \\frac{1}{f}$",
+        "B": "$\\frac{1}{f} + \\frac{1}{u} = \\frac{1}{v}$",
+        "C": "$\\frac{1}{f} + \\frac{1}{v} = \\frac{1}{u}$",
+        "D": "$\\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f}$"
       },
       "vikalpa": {
-        "A": "$\frac{1}, {v} - \frac{1}, {u} = \frac{1}, {f}$",
-        "B": "$\frac{1}, {f} + \frac{1}, {u} = \frac{1}, {v}$",
-        "C": "$\frac{1}, {f} + \frac{1}, {v} = \frac{1}, {u}$",
-        "D": "$\frac{1}, {v} + \frac{1}, {u} = \frac{1}, {f}$"
+        "A": "$\\frac{1}{v} - \\frac{1}{u} = \\frac{1}{f}$",
+        "B": "$\\frac{1}{f} + \\frac{1}{u} = \\frac{1}{v}$",
+        "C": "$\\frac{1}{f} + \\frac{1}{v} = \\frac{1}{u}$",
+        "D": "$\\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f}$"
       }
     },
     {

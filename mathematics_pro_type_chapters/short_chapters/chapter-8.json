@@ -38,8 +38,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\theta = 45^\\circ$, then find the value of $\tan^2 \theta + \frac{1}, {\\sin^2 \theta}$.",
-      "prashna": "यदि $\theta = 45^\\circ$, तो $\tan^2 \theta + \frac{1}, {\\sin^2 \theta}$ का मान निकालें।",
+      "question": "If $\theta = 45^\\circ$, then find the value of $\tan^2 \theta + \\frac{1}{\\sin^2 \theta}$.",
+      "prashna": "यदि $\theta = 45^\\circ$, तो $\tan^2 \theta + \\frac{1}{\\sin^2 \theta}$ का मान निकालें।",
       "marks": 2
     },
     {
@@ -49,8 +49,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Prove that $(\\sec \theta - \tan \theta)^2 = \frac{1 - \\sin \theta}, {1 + \\sin \theta}$.",
-      "prashna": "सिद्ध करें कि $(\\sec \theta - \tan \theta)^2 = \frac{1 - \\sin \theta}, {1 + \\sin \theta}$।",
+      "question": "Prove that $(\\sec \theta - \tan \theta)^2 = \\frac{1 - \\sin \theta}{1 + \\sin \theta}$.",
+      "prashna": "सिद्ध करें कि $(\\sec \theta - \tan \theta)^2 = \\frac{1 - \\sin \theta}{1 + \\sin \theta}$।",
       "marks": 3
     },
     {
@@ -60,8 +60,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Prove that $\frac{\\sin^4 \theta - \\cos^4 \theta}, {\\sin^2 \theta - \\cos^2 \theta} = 1$.",
-      "prashna": "सिद्ध करें कि $\frac{\\sin^4 \theta - \\cos^4 \theta}, {\\sin^2 \theta - \\cos^2 \theta} = 1$।",
+      "question": "Prove that $\\frac{\\sin^4 \theta - \\cos^4 \theta}{\\sin^2 \theta - \\cos^2 \theta} = 1$.",
+      "prashna": "सिद्ध करें कि $\\frac{\\sin^4 \theta - \\cos^4 \theta}{\\sin^2 \theta - \\cos^2 \theta} = 1$।",
       "marks": 3
     }
   ],
@@ -83,8 +83,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $2\theta = \frac{\\pi}, {3}$, then $\\sin \theta = $ __________.",
-      "prashna": "यदि $2\theta = \frac{\\pi}, {3}$ हो, तब $\\sin \theta = $ __________।"
+      "question": "If $2\theta = \\frac{\\pi}{3}$, then $\\sin \theta = $ __________.",
+      "prashna": "यदि $2\theta = \\frac{\\pi}{3}$ हो, तब $\\sin \theta = $ __________।"
     },
     {
       "id": "short_30",
@@ -103,8 +103,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\\cot \theta = \frac{7}, {8}$, then find the value of $\frac{(1 + \\sin \theta)(1 - \\sin \theta)}, {(1 + \\cos \theta)(1 - \\cos \theta)}$.",
-      "prashna": "यदि $\\cot \theta = \frac{7}, {8}$ हो, तो $\frac{(1 + \\sin \theta)(1 - \\sin \theta)}, {(1 + \\cos \theta)(1 - \\cos \theta)}$ का मान निकालें।"
+      "question": "If $\\cot \theta = \\frac{7}{8}$, then find the value of $\\frac{(1 + \\sin \theta)(1 - \\sin \theta)}{(1 + \\cos \theta)(1 - \\cos \theta)}$.",
+      "prashna": "यदि $\\cot \theta = \\frac{7}{8}$ हो, तो $\\frac{(1 + \\sin \theta)(1 - \\sin \theta)}{(1 + \\cos \theta)(1 - \\cos \theta)}$ का मान निकालें।"
     },
     {
       "id": "short_40",
@@ -113,8 +113,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Prove that $\frac{\\cot \theta - \\cos \theta}, {\\cot \theta + \\cos \theta} = \frac{\\csc \theta - 1}, {\\csc \theta + 1}$.",
-      "prashna": "सिद्ध करें कि $\frac{\\cot \theta - \\cos \theta}, {\\cot \theta + \\cos \theta} = \frac{\\csc \theta - 1}, {\\csc \theta + 1}$।"
+      "question": "Prove that $\\frac{\\cot \theta - \\cos \theta}{\\cot \theta + \\cos \theta} = \\frac{\\csc \theta - 1}{\\csc \theta + 1}$.",
+      "prashna": "सिद्ध करें कि $\\frac{\\cot \theta - \\cos \theta}{\\cot \theta + \\cos \theta} = \\frac{\\csc \theta - 1}{\\csc \theta + 1}$।"
     }
   ],
   "2017": [
@@ -135,8 +135,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\\cos A = \frac{4}, {5}$ then the value of $\tan A$ will be ................",
-      "prashna": "यदि $\\cos A = \frac{4}, {5}$ तो $\tan A$ का मान ................ होगा ।"
+      "question": "If $\\cos A = \\frac{4}{5}$ then the value of $\tan A$ will be ................",
+      "prashna": "यदि $\\cos A = \\frac{4}{5}$ तो $\tan A$ का मान ................ होगा ।"
     },
     {
       "id": "short_19",
@@ -165,8 +165,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\tan(A + B) = \\sqrt{3}$ and $\tan(A - B) = \frac{1}, {\\sqrt{3}}$, $0 < A + B < 90^\\circ$, $A > B$, then find the value of $A$ and $B$.",
-      "prashna": "यदि $\tan(A + B) = \\sqrt{3}$ और $\tan(A - B) = \frac{1}, {\\sqrt{3}}$, $0 < A + B < 90^\\circ$, $A > B$, तो $A$ और $B$ का मान ज्ञात करें ।"
+      "question": "If $\tan(A + B) = \\sqrt{3}$ and $\tan(A - B) = \\frac{1}{\\sqrt{3}}$, $0 < A + B < 90^\\circ$, $A > B$, then find the value of $A$ and $B$.",
+      "prashna": "यदि $\tan(A + B) = \\sqrt{3}$ और $\tan(A - B) = \\frac{1}{\\sqrt{3}}$, $0 < A + B < 90^\\circ$, $A > B$, तो $A$ और $B$ का मान ज्ञात करें ।"
     },
     {
       "id": "short_30",
@@ -175,16 +175,16 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Prove that $\\sqrt{\frac{1 + \\sin A}, {1 - \\sin A}} = \\sec A + \tan A$",
-      "prashna": "सिद्ध करें $\\sqrt{\frac{1 + \\sin A}, {1 - \\sin A}} = \\sec A + \tan A$"
+      "question": "Prove that $\\sqrt{\\frac{1 + \\sin A}{1 - \\sin A}} = \\sec A + \tan A$",
+      "prashna": "सिद्ध करें $\\sqrt{\\frac{1 + \\sin A}{1 - \\sin A}} = \\sec A + \tan A$"
     },
     {
       "id": "short_2",
       "type": "short_answer",
       "chapter": "8",
       "chapter_name": "Introduction to Trigonometry",
-      "question": "The value of $\frac{\\cos 48^\\circ}, {\\sin 42^\\circ}$ will be ______.",
-      "prashna": "$\frac{\\cos 48^\\circ}, {\\sin 42^\\circ}$ का मान ______ होगा।"
+      "question": "The value of $\\frac{\\cos 48^\\circ}{\\sin 42^\\circ}$ will be ______.",
+      "prashna": "$\\frac{\\cos 48^\\circ}{\\sin 42^\\circ}$ का मान ______ होगा।"
     },
     {
       "id": "short_11",
@@ -212,7 +212,7 @@
       "confidence": 0.95,
       "raw_choice": "",
       "question": "If $\tan A = 3/4$, find $\\sin A \\cdot \\cos A$.",
-      "prashna": "यदि $\tan A = \frac{3}, {4}$, तो $\\sin A \\cdot \\cos A$ ज्ञात करें।"
+      "prashna": "यदि $\tan A = \\frac{3}{4}$, तो $\\sin A \\cdot \\cos A$ ज्ञात करें।"
     },
     {
       "id": "short_14",
@@ -221,8 +221,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\\sin \theta + \\cos \theta = p$ and $\\sec \theta + \\csc \theta = q$, then prove that $p^2 - 1 = \frac{2p}, {q}$.",
-      "prashna": "यदि $\\sin \theta + \\cos \theta = p$ और $\\sec \theta + \\csc \theta = q$ तो सिद्ध करें $p^2 - 1 = \frac{2p}, {q}$"
+      "question": "If $\\sin \theta + \\cos \theta = p$ and $\\sec \theta + \\csc \theta = q$, then prove that $p^2 - 1 = \\frac{2p}{q}$.",
+      "prashna": "यदि $\\sin \theta + \\cos \theta = p$ और $\\sec \theta + \\csc \theta = q$ तो सिद्ध करें $p^2 - 1 = \\frac{2p}{q}$"
     },
     {
       "id": "short_15",
@@ -241,8 +241,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\tan A = \frac{3}, {4}$, find $\\sin A \\cdot \\cos A$.",
-      "prashna": "यदि $\tan A = \frac{3}, {4}$, तो $\\sin A \\cdot \\cos A$ ज्ञात करें।"
+      "question": "If $\tan A = \\frac{3}{4}$, find $\\sin A \\cdot \\cos A$.",
+      "prashna": "यदि $\tan A = \\frac{3}{4}$, तो $\\sin A \\cdot \\cos A$ ज्ञात करें।"
     },
     {
       "id": "short_14",
@@ -251,8 +251,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\\sin\theta + \\cos\theta = p$ and $\\sec\theta + \\csc\theta = q$, then prove that $p^2 - 1 = \frac{2p}, {q}$.",
-      "prashna": "यदि $\\sin\theta + \\cos\theta = p$ और $\\sec\theta + \\csc\theta = q$ तो सिद्ध करें $p^2 - 1 = \frac{2p}, {q}$."
+      "question": "If $\\sin\theta + \\cos\theta = p$ and $\\sec\theta + \\csc\theta = q$, then prove that $p^2 - 1 = \\frac{2p}{q}$.",
+      "prashna": "यदि $\\sin\theta + \\cos\theta = p$ और $\\sec\theta + \\csc\theta = q$ तो सिद्ध करें $p^2 - 1 = \\frac{2p}{q}$."
     },
     {
       "id": "short_15",
@@ -273,8 +273,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\tan \theta = \frac{4}, {3}$, then find the value of $\frac{3\\sin\theta + 2\\cos\theta}, {3\\sin\theta - 2\\cos\theta}$.",
-      "prashna": "यदि $\tan \theta = \frac{4}, {3}$, तो $\frac{3\\sin\theta + 2\\cos\theta}, {3\\sin\theta - 2\\cos\theta}$ का मान ज्ञात करें।"
+      "question": "If $\tan \theta = \\frac{4}{3}$, then find the value of $\\frac{3\\sin\theta + 2\\cos\theta}{3\\sin\theta - 2\\cos\theta}$.",
+      "prashna": "यदि $\tan \theta = \\frac{4}{3}$, तो $\\frac{3\\sin\theta + 2\\cos\theta}{3\\sin\theta - 2\\cos\theta}$ का मान ज्ञात करें।"
     },
     {
       "id": "short_14",
@@ -283,8 +283,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Prove that - $\frac{\\sec \theta + \tan \theta}, {\\sec \theta - \tan \theta} = \\left( \frac{1+\\sin \theta}, {\\cos \theta} \right)^2$",
-      "prashna": "सिद्ध करें कि - $\frac{\\sec \theta + \tan \theta}, {\\sec \theta - \tan \theta} = \\left( \frac{1+\\sin \theta}, {\\cos \theta} \right)^2$"
+      "question": "Prove that - $\\frac{\\sec \theta + \tan \theta}{\\sec \theta - \tan \theta} = \\left( \\frac{1+\\sin \theta}{\\cos \theta} \right)^2$",
+      "prashna": "सिद्ध करें कि - $\\frac{\\sec \theta + \tan \theta}{\\sec \theta - \tan \theta} = \\left( \\frac{1+\\sin \theta}{\\cos \theta} \right)^2$"
     },
     {
       "id": "short_18",
@@ -293,8 +293,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Evaluate the following - $\frac{5\\sin^2 30^\\circ + \\cos^2 45^\\circ + 4\tan^2 60^\\circ}, {2\\sin 30^\\circ \\cos 60^\\circ + \tan 45^\\circ}$",
-      "prashna": "निम्न का मान ज्ञात करें - $\frac{5\\sin^2 30^\\circ + \\cos^2 45^\\circ + 4\tan^2 60^\\circ}, {2\\sin 30^\\circ \\cos 60^\\circ + \tan 45^\\circ}$"
+      "question": "Evaluate the following - $\\frac{5\\sin^2 30^\\circ + \\cos^2 45^\\circ + 4\tan^2 60^\\circ}{2\\sin 30^\\circ \\cos 60^\\circ + \tan 45^\\circ}$",
+      "prashna": "निम्न का मान ज्ञात करें - $\\frac{5\\sin^2 30^\\circ + \\cos^2 45^\\circ + 4\tan^2 60^\\circ}{2\\sin 30^\\circ \\cos 60^\\circ + \tan 45^\\circ}$"
     },
     {
       "id": "short_8",
@@ -303,8 +303,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\tan \theta = \frac{4}, {3}$, then find the value of $\frac{3\\sin \theta + 2\\cos \theta}, {3\\sin \theta - 2\\cos \theta}$.",
-      "prashna": "यदि $\tan \theta = \frac{4}, {3}$, तो $\frac{3\\sin \theta + 2\\cos \theta}, {3\\sin \theta - 2\\cos \theta}$ का मान ज्ञात करें।"
+      "question": "If $\tan \theta = \\frac{4}{3}$, then find the value of $\\frac{3\\sin \theta + 2\\cos \theta}{3\\sin \theta - 2\\cos \theta}$.",
+      "prashna": "यदि $\tan \theta = \\frac{4}{3}$, तो $\\frac{3\\sin \theta + 2\\cos \theta}{3\\sin \theta - 2\\cos \theta}$ का मान ज्ञात करें।"
     },
     {
       "id": "short_14",
@@ -313,8 +313,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Prove that - $\frac{\\sec \theta + \tan \theta}, {\\sec \theta - \tan \theta} = \\left(\frac{1 + \\sin \theta}, {\\cos \theta}\right)^2$",
-      "prashna": "सिद्ध करें कि - $\frac{\\sec \theta + \tan \theta}, {\\sec \theta - \tan \theta} = \\left(\frac{1 + \\sin \theta}, {\\cos \theta}\right)^2$"
+      "question": "Prove that - $\\frac{\\sec \theta + \tan \theta}{\\sec \theta - \tan \theta} = \\left(\\frac{1 + \\sin \theta}{\\cos \theta}\right)^2$",
+      "prashna": "सिद्ध करें कि - $\\frac{\\sec \theta + \tan \theta}{\\sec \theta - \tan \theta} = \\left(\\frac{1 + \\sin \theta}{\\cos \theta}\right)^2$"
     },
     {
       "id": "short_18",
@@ -323,8 +323,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Evaluate the following - $\frac{5\\sin^2 30^\\circ + \\cos^2 45^\\circ + 4\tan^2 60^\\circ}, {2\\sin 30^\\circ \\cos 60^\\circ + \tan 45^\\circ}$",
-      "prashna": "निम्न का मान ज्ञात करें - $\frac{5\\sin^2 30^\\circ + \\cos^2 45^\\circ + 4\tan^2 60^\\circ}, {2\\sin 30^\\circ \\cos 60^\\circ + \tan 45^\\circ}$"
+      "question": "Evaluate the following - $\\frac{5\\sin^2 30^\\circ + \\cos^2 45^\\circ + 4\tan^2 60^\\circ}{2\\sin 30^\\circ \\cos 60^\\circ + \tan 45^\\circ}$",
+      "prashna": "निम्न का मान ज्ञात करें - $\\frac{5\\sin^2 30^\\circ + \\cos^2 45^\\circ + 4\tan^2 60^\\circ}{2\\sin 30^\\circ \\cos 60^\\circ + \tan 45^\\circ}$"
     }
   ],
   "2020": [
@@ -345,8 +345,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $7 \tan \theta = 4$, then find the value of $\frac{7 \\sin \theta - 3 \\cos \theta}, {7 \\sin \theta + 3 \\cos \theta}$.",
-      "prashna": "यदि $7 \tan \theta = 4$ हो, तो $\frac{7 \\sin \theta - 3 \\cos \theta}, {7 \\sin \theta + 3 \\cos \theta}$ का मान ज्ञात करें।"
+      "question": "If $7 \tan \theta = 4$, then find the value of $\\frac{7 \\sin \theta - 3 \\cos \theta}{7 \\sin \theta + 3 \\cos \theta}$.",
+      "prashna": "यदि $7 \tan \theta = 4$ हो, तो $\\frac{7 \\sin \theta - 3 \\cos \theta}{7 \\sin \theta + 3 \\cos \theta}$ का मान ज्ञात करें।"
     },
     {
       "id": "short_18",
@@ -355,8 +355,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Evaluate the following: $\frac{\tan^2 60^\\circ + 4 \\sin^2 45^\\circ + 3 \\sec^2 30^\\circ + 5 \\cos^2 90^\\circ}, {\\csc 30^\\circ + \\sec 60^\\circ - \\cot^2 30^\\circ}$",
-      "prashna": "निम्न का मान ज्ञात करें: $\frac{\tan^2 60^\\circ + 4 \\sin^2 45^\\circ + 3 \\sec^2 30^\\circ + 5 \\cos^2 90^\\circ}, {\\csc 30^\\circ + \\sec 60^\\circ - \\cot^2 30^\\circ}$"
+      "question": "Evaluate the following: $\\frac{\tan^2 60^\\circ + 4 \\sin^2 45^\\circ + 3 \\sec^2 30^\\circ + 5 \\cos^2 90^\\circ}{\\csc 30^\\circ + \\sec 60^\\circ - \\cot^2 30^\\circ}$",
+      "prashna": "निम्न का मान ज्ञात करें: $\\frac{\tan^2 60^\\circ + 4 \\sin^2 45^\\circ + 3 \\sec^2 30^\\circ + 5 \\cos^2 90^\\circ}{\\csc 30^\\circ + \\sec 60^\\circ - \\cot^2 30^\\circ}$"
     },
     {
       "id": "short_23",
@@ -365,8 +365,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Prove that $\frac{\tan A + \tan B}, {\\cot A + \\cot B} = \tan A \tan B$.",
-      "prashna": "सिद्ध करें कि $\frac{\tan A + \tan B}, {\\cot A + \\cot B} = \tan A \tan B$।"
+      "question": "Prove that $\\frac{\tan A + \tan B}{\\cot A + \\cot B} = \tan A \tan B$.",
+      "prashna": "सिद्ध करें कि $\\frac{\tan A + \tan B}{\\cot A + \\cot B} = \tan A \tan B$।"
     },
     {
       "id": "short_8",
@@ -375,8 +375,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\tan \theta = \frac{a}, {b}$, then find the value of $\frac{a\\sin \theta - b\\cos \theta}, {a\\sin \theta + b\\cos \theta}$.",
-      "prashna": "यदि $\tan \theta = \frac{a}, {b}$ हो, तो $\frac{a\\sin \theta - b\\cos \theta}, {a\\sin \theta + b\\cos \theta}$ का मान ज्ञात करें।"
+      "question": "If $\tan \theta = \\frac{a}{b}$, then find the value of $\\frac{a\\sin \theta - b\\cos \theta}{a\\sin \theta + b\\cos \theta}$.",
+      "prashna": "यदि $\tan \theta = \\frac{a}{b}$ हो, तो $\\frac{a\\sin \theta - b\\cos \theta}{a\\sin \theta + b\\cos \theta}$ का मान ज्ञात करें।"
     },
     {
       "id": "short_11",
@@ -395,8 +395,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Prove that $\frac{1 - \\sin \theta}, {1 + \\sin \theta} = (\\sec \theta - \tan \theta)^2$.",
-      "prashna": "सिद्ध करें कि $\frac{1 - \\sin \theta}, {1 + \\sin \theta} = (\\sec \theta - \tan \theta)^2$।"
+      "question": "Prove that $\\frac{1 - \\sin \theta}{1 + \\sin \theta} = (\\sec \theta - \tan \theta)^2$.",
+      "prashna": "सिद्ध करें कि $\\frac{1 - \\sin \theta}{1 + \\sin \theta} = (\\sec \theta - \tan \theta)^2$।"
     },
     {
       "id": "short_20",
@@ -405,8 +405,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Evaluate the following: $\frac{5\\cos^2 60^{\\circ} + 4\\sec^2 30^{\\circ} - 3\tan^2 45^{\\circ}}, {\\sin^2 30^{\\circ} + \\cos^2 30^{\\circ}}$",
-      "prashna": "निम्न का मान ज्ञात करें : $\frac{5\\cos^2 60^{\\circ} + 4\\sec^2 30^{\\circ} - 3\tan^2 45^{\\circ}}, {\\sin^2 30^{\\circ} + \\cos^2 30^{\\circ}}$"
+      "question": "Evaluate the following: $\\frac{5\\cos^2 60^{\\circ} + 4\\sec^2 30^{\\circ} - 3\tan^2 45^{\\circ}}, {\\sin^2 30^{\\circ} + \\cos^2 30^{\\circ}}$",
+      "prashna": "निम्न का मान ज्ञात करें : $\\frac{5\\cos^2 60^{\\circ} + 4\\sec^2 30^{\\circ} - 3\tan^2 45^{\\circ}}, {\\sin^2 30^{\\circ} + \\cos^2 30^{\\circ}}$"
     }
   ],
   "2021": [
@@ -417,8 +417,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\tan\theta = \frac{x}, {y}$, then find the value of $x \\sin\theta + y \\cos\theta$.",
-      "prashna": "यदि $\tan\theta = \frac{x}, {y}$, तो $x \\sin\theta + y \\cos\theta$ का मान बताएँ।"
+      "question": "If $\tan\theta = \\frac{x}{y}$, then find the value of $x \\sin\theta + y \\cos\theta$.",
+      "prashna": "यदि $\tan\theta = \\frac{x}{y}$, तो $x \\sin\theta + y \\cos\theta$ का मान बताएँ।"
     },
     {
       "id": "short_12",
@@ -427,8 +427,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Evaluate : $\frac{\\sin 30^\\circ + \tan 45^\\circ - \\csc 60^\\circ}, {\\sec 30^\\circ + \\cos 60^\\circ + \\cot 45^\\circ}$",
-      "prashna": "मान निकालें : $\frac{\\sin 30^\\circ + \tan 45^\\circ - \\csc 60^\\circ}, {\\sec 30^\\circ + \\cos 60^\\circ + \\cot 45^\\circ}$"
+      "question": "Evaluate : $\\frac{\\sin 30^\\circ + \tan 45^\\circ - \\csc 60^\\circ}{\\sec 30^\\circ + \\cos 60^\\circ + \\cot 45^\\circ}$",
+      "prashna": "मान निकालें : $\\frac{\\sin 30^\\circ + \tan 45^\\circ - \\csc 60^\\circ}{\\sec 30^\\circ + \\cos 60^\\circ + \\cot 45^\\circ}$"
     },
     {
       "id": "short_25",
@@ -477,8 +477,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Prove that $\\sqrt{\frac{1 - \\cos \\alpha}, {1 + \\cos \\alpha}} = \text{cosec} \\alpha - \\cot \\alpha$.",
-      "prashna": "सिद्ध करें कि $\\sqrt{\frac{1 - \\cos \\alpha}, {1 + \\cos \\alpha}} = \text{cosec} \\alpha - \\cot \\alpha$."
+      "question": "Prove that $\\sqrt{\\frac{1 - \\cos \\alpha}{1 + \\cos \\alpha}} = \text{cosec} \\alpha - \\cot \\alpha$.",
+      "prashna": "सिद्ध करें कि $\\sqrt{\\frac{1 - \\cos \\alpha}{1 + \\cos \\alpha}} = \text{cosec} \\alpha - \\cot \\alpha$."
     },
     {
       "id": "short_28",
@@ -487,8 +487,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\\sec \theta = \frac{13}, {12}$, then find the value of $\\cos \theta + \tan \theta$.",
-      "prashna": "यदि $\\sec \theta = \frac{13}, {12}$ तो $\\cos \theta + \tan \theta$ का मान ज्ञात करें।"
+      "question": "If $\\sec \theta = \\frac{13}{12}$, then find the value of $\\cos \theta + \tan \theta$.",
+      "prashna": "यदि $\\sec \theta = \\frac{13}{12}$ तो $\\cos \theta + \tan \theta$ का मान ज्ञात करें।"
     },
     {
       "id": "short_29",
@@ -497,8 +497,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\tan A = \\sqrt{3}$, then find the value of $\frac{1 - \\cos^2 A}, {3 - \\sin^2 A}$.",
-      "prashna": "यदि $\tan A = \\sqrt{3}$ हो, तो $\frac{1 - \\cos^2 A}, {3 - \\sin^2 A}$ का मान ज्ञात करें।"
+      "question": "If $\tan A = \\sqrt{3}$, then find the value of $\\frac{1 - \\cos^2 A}{3 - \\sin^2 A}$.",
+      "prashna": "यदि $\tan A = \\sqrt{3}$ हो, तो $\\frac{1 - \\cos^2 A}{3 - \\sin^2 A}$ का मान ज्ञात करें।"
     },
     {
       "id": "short_30",
@@ -519,8 +519,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Prove that $(\frac{1 + \tan A}, {1 + \\cot A})^2 = \tan^2 A$.",
-      "prashna": "सिद्ध करें कि $(\frac{1 + \tan A}, {1 + \\cot A})^2 = \tan^2 A$।"
+      "question": "Prove that $(\\frac{1 + \tan A}{1 + \\cot A})^2 = \tan^2 A$.",
+      "prashna": "सिद्ध करें कि $(\\frac{1 + \tan A}{1 + \\cot A})^2 = \tan^2 A$।"
     },
     {
       "id": "short_9",
@@ -529,8 +529,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Prove that $\frac{1 + \\cos \theta}, {\\sin \theta} + \frac{\\sin \theta}, {1 + \\cos \theta} = 2\text{cosec }\theta$.",
-      "prashna": "सिद्ध करें कि $\frac{1 + \\cos \theta}, {\\sin \theta} + \frac{\\sin \theta}, {1 + \\cos \theta} = 2\text{cosec }\theta$।"
+      "question": "Prove that $\\frac{1 + \\cos \theta}{\\sin \theta} + \\frac{\\sin \theta}{1 + \\cos \theta} = 2\text{cosec }\theta$.",
+      "prashna": "सिद्ध करें कि $\\frac{1 + \\cos \theta}{\\sin \theta} + \\frac{\\sin \theta}{1 + \\cos \theta} = 2\text{cosec }\theta$।"
     },
     {
       "id": "short_22",
@@ -559,8 +559,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Find the value of $\frac{5\\cos^2 60^\\circ + 4\\sec^2 30^\\circ - \tan^2 45^\\circ}, {\\sin^2 30^\\circ + \\cos^2 30^\\circ}$.",
-      "prashna": "$\frac{5\\cos^2 60^\\circ + 4\\sec^2 30^\\circ - \tan^2 45^\\circ}, {\\sin^2 30^\\circ + \\cos^2 30^\\circ}$ का मान निकालें।"
+      "question": "Find the value of $\\frac{5\\cos^2 60^\\circ + 4\\sec^2 30^\\circ - \tan^2 45^\\circ}{\\sin^2 30^\\circ + \\cos^2 30^\\circ}$.",
+      "prashna": "$\\frac{5\\cos^2 60^\\circ + 4\\sec^2 30^\\circ - \tan^2 45^\\circ}{\\sin^2 30^\\circ + \\cos^2 30^\\circ}$ का मान निकालें।"
     }
   ],
   "2023": [
@@ -601,8 +601,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Prove that $\frac{2\tan 30^\\circ}, {1 - \tan^2 30^\\circ} = \\sqrt{3}$.",
-      "prashna": "सिद्ध करें $\frac{2\tan 30^\\circ}, {1 - \tan^2 30^\\circ} = \\sqrt{3}$।"
+      "question": "Prove that $\\frac{2\tan 30^\\circ}{1 - \tan^2 30^\\circ} = \\sqrt{3}$.",
+      "prashna": "सिद्ध करें $\\frac{2\tan 30^\\circ}{1 - \tan^2 30^\\circ} = \\sqrt{3}$।"
     }
   ],
   "2024": [
@@ -633,8 +633,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Evaluate :\n$\frac{\\sec(90^\\circ - \theta) \\csc \theta - \tan(90^\\circ - \theta) \\ cot \theta + \\cos^2 25^\\circ + \\cos^2 65^\\circ}, {3 \tan 27^\\circ \tan 63^\\circ}$",
-      "prashna": "मान निकालें :\n$\frac{\\sec(90^\\circ - \theta) \\csc \theta - \tan(90^\\circ - \theta) \\cot \theta + \\cos^2 25^\\circ + \\cos^2 65^\\circ}, {3 \tan 27^\\circ \tan 63^\\circ}$"
+      "question": "Evaluate :\n$\\frac{\\sec(90^\\circ - \theta) \\csc \theta - \tan(90^\\circ - \theta) \\ cot \theta + \\cos^2 25^\\circ + \\cos^2 65^\\circ}{3 \tan 27^\\circ \tan 63^\\circ}$",
+      "prashna": "मान निकालें :\n$\\frac{\\sec(90^\\circ - \theta) \\csc \theta - \tan(90^\\circ - \theta) \\cot \theta + \\cos^2 25^\\circ + \\cos^2 65^\\circ}{3 \tan 27^\\circ \tan 63^\\circ}$"
     },
     {
       "id": "short_12",
@@ -643,8 +643,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Prove that $\frac{\\sec \theta + \tan \theta}, {\\sec \theta - \tan \theta} = \\left(\frac{1 + \\sin \theta}, {\\cos \theta}\right)^2$.",
-      "prashna": "सिद्ध करें कि $\frac{\\sec \theta + \tan \theta}, {\\sec \theta - \tan \theta} = \\left(\frac{1 + \\sin \theta}, {\\cos \theta}\right)^2$."
+      "question": "Prove that $\\frac{\\sec \theta + \tan \theta}{\\sec \theta - \tan \theta} = \\left(\\frac{1 + \\sin \theta}{\\cos \theta}\right)^2$.",
+      "prashna": "सिद्ध करें कि $\\frac{\\sec \theta + \tan \theta}{\\sec \theta - \tan \theta} = \\left(\\frac{1 + \\sin \theta}{\\cos \theta}\right)^2$."
     }
   ],
   "2025": [
@@ -655,8 +655,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\tan \theta = \frac{5}, {12}$ then find the value of $\\sin \theta + \\cos \theta$.",
-      "prashna": "यदि $\tan \theta = \frac{5}, {12}$ हो तो $\\sin \theta + \\cos \theta$ का मान ज्ञात करें।"
+      "question": "If $\tan \theta = \\frac{5}{12}$ then find the value of $\\sin \theta + \\cos \theta$.",
+      "prashna": "यदि $\tan \theta = \\frac{5}{12}$ हो तो $\\sin \theta + \\cos \theta$ का मान ज्ञात करें।"
     },
     {
       "id": "short_5",
@@ -695,8 +695,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Prove that $\\sqrt{\frac{1 + \\cos \theta}, {1 - \\cos \theta}} = \frac{1 + \\cos \theta}, {\\sin \theta}$.",
-      "prashna": "सिद्ध करें कि $\\sqrt{\frac{1 + \\cos \theta}, {1 - \\cos \theta}} = \frac{1 + \\cos \theta}, {\\sin \theta}$।"
+      "question": "Prove that $\\sqrt{\\frac{1 + \\cos \theta}{1 - \\cos \theta}} = \\frac{1 + \\cos \theta}{\\sin \theta}$.",
+      "prashna": "सिद्ध करें कि $\\sqrt{\\frac{1 + \\cos \theta}{1 - \\cos \theta}} = \\frac{1 + \\cos \theta}{\\sin \theta}$।"
     },
     {
       "id": "short_23",
@@ -715,8 +715,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\\cos A = \frac{4}, {5}$ then find the values of $\\cot A$ and $\\operatorname{cosec} A$.",
-      "prashna": "यदि $\\cos A = \frac{4}, {5}$ हो तो $\\cot A$ और $\\operatorname{cosec} A$ के मान ज्ञात करें।"
+      "question": "If $\\cos A = \\frac{4}{5}$ then find the values of $\\cot A$ and $\\operatorname{cosec} A$.",
+      "prashna": "यदि $\\cos A = \\frac{4}{5}$ हो तो $\\cot A$ और $\\operatorname{cosec} A$ के मान ज्ञात करें।"
     }
   ],
   "2026": [
@@ -767,8 +767,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Prove that \tan^2 P - \tan^2 Q = \frac{\\sin^2 P - \\sin^2 Q}, {\\cos^2 P . \\cos^2 Q}",
-      "prashna": "सिद्ध करें कि \tan^2 P - \tan^2 Q = \frac{\\sin^2 P - \\sin^2 Q}, {\\cos^2 P . \\cos^2 Q}"
+      "question": "Prove that \tan^2 P - \tan^2 Q = \\frac{\\sin^2 P - \\sin^2 Q}{\\cos^2 P . \\cos^2 Q}",
+      "prashna": "सिद्ध करें कि \tan^2 P - \tan^2 Q = \\frac{\\sin^2 P - \\sin^2 Q}{\\cos^2 P . \\cos^2 Q}"
     },
     {
       "id": "short_10",
@@ -777,8 +777,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Find the value of \frac{4}, {\\sin^2 60^{\\circ}} + \frac{3}, {\\cos^2 60^{\\circ}}",
-      "prashna": "\frac{4}, {\\sin^2 60^{\\circ}} + \frac{3}, {\\cos^2 60^{\\circ}} का मान ज्ञात करें।"
+      "question": "Find the value of \\frac{4}{\\sin^2 60^{\\circ}} + \\frac{3}{\\cos^2 60^{\\circ}}",
+      "prashna": "\\frac{4}{\\sin^2 60^{\\circ}} + \\frac{3}{\\cos^2 60^{\\circ}} का मान ज्ञात करें।"
     },
     {
       "id": "short_17",
@@ -787,8 +787,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If A = 45^{\\circ}, B = 30^{\\circ} then prove that \frac{1}, {\\cot A + \\sin B} = \frac{2}, {3}.",
-      "prashna": "यदि A = 45^{\\circ}, B = 30^{\\circ} हो तो सिद्ध करें कि \frac{1}, {\\cot A + \\sin B} = \frac{2}, {3}."
+      "question": "If A = 45^{\\circ}, B = 30^{\\circ} then prove that \\frac{1}{\\cot A + \\sin B} = \\frac{2}{3}.",
+      "prashna": "यदि A = 45^{\\circ}, B = 30^{\\circ} हो तो सिद्ध करें कि \\frac{1}{\\cot A + \\sin B} = \\frac{2}{3}."
     },
     {
       "id": "short_30",
@@ -797,8 +797,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If 5\tan \theta = 4 then find the value of \frac{5\\sin \theta - 3\\cos \theta}, {\\sin \theta + 2\\cos \theta}.",
-      "prashna": "यदि 5\tan \theta = 4 तो \frac{5\\sin \theta - 3\\cos \theta}, {\\sin \theta + 2\\cos \theta} का मान ज्ञात करें।"
+      "question": "If 5\tan \theta = 4 then find the value of \\frac{5\\sin \theta - 3\\cos \theta}{\\sin \theta + 2\\cos \theta}.",
+      "prashna": "यदि 5\tan \theta = 4 तो \\frac{5\\sin \theta - 3\\cos \theta}{\\sin \theta + 2\\cos \theta} का मान ज्ञात करें।"
     }
   ]
 }

@@ -568,14 +568,14 @@
       "options": {
         "A": "$2$",
         "B": "$-2$",
-        "C": "$\frac{1}, {2}$",
-        "D": "$-\frac{1}, {2}$"
+        "C": "$\\frac{1}{2}$",
+        "D": "$-\\frac{1}{2}$"
       },
       "vikalpa": {
         "A": "$2$",
         "B": "$-2$",
-        "C": "$\frac{1}, {2}$",
-        "D": "$-\frac{1}, {2}$"
+        "C": "$\\frac{1}{2}$",
+        "D": "$-\\frac{1}{2}$"
       }
     },
     {
@@ -744,16 +744,16 @@
       "question": "The system of a pair of linear equations $a_1x + b_1y = c_1, a_2x + b_2y = c_2$ has infinitely many solutions if",
       "prashna": "युगपत रैखिक समीकरणों के निकाय $a_1x + b_1y = c_1, a_2x + b_2y = c_2$ के अनगिनत हल प्राप्त होते हैं यदि",
       "options": {
-        "A": "$\frac{a_1}, {a_2} = \frac{b_1}, {b_2} \neq \frac{c_1}, {c_2}$",
-        "B": "$\frac{a_1}, {a_2} \neq \frac{b_1}, {b_2} = \frac{c_1}, {c_2}$",
-        "C": "$\frac{a_1}, {a_2} \neq \frac{b_1}, {b_2} \neq \frac{c_1}, {c_2}$",
-        "D": "$\frac{a_1}, {a_2} = \frac{b_1}, {b_2} = \frac{c_1}, {c_2}$"
+        "A": "$\\frac{a_1}{a_2} = \\frac{b_1}{b_2} \neq \\frac{c_1}{c_2}$",
+        "B": "$\\frac{a_1}{a_2} \neq \\frac{b_1}{b_2} = \\frac{c_1}{c_2}$",
+        "C": "$\\frac{a_1}{a_2} \neq \\frac{b_1}{b_2} \neq \\frac{c_1}{c_2}$",
+        "D": "$\\frac{a_1}{a_2} = \\frac{b_1}{b_2} = \\frac{c_1}{c_2}$"
       },
       "vikalpa": {
-        "A": "$\frac{a_1}, {a_2} = \frac{b_1}, {b_2} \neq \frac{c_1}, {c_2}$",
-        "B": "$\frac{a_1}, {a_2} \neq \frac{b_1}, {b_2} = \frac{c_1}, {c_2}$",
-        "C": "$\frac{a_1}, {a_2} \neq \frac{b_1}, {b_2} \neq \frac{c_1}, {c_2}$",
-        "D": "$\frac{a_1}, {a_2} = \frac{b_1}, {b_2} = \frac{c_1}, {c_2}$"
+        "A": "$\\frac{a_1}{a_2} = \\frac{b_1}{b_2} \neq \\frac{c_1}{c_2}$",
+        "B": "$\\frac{a_1}{a_2} \neq \\frac{b_1}{b_2} = \\frac{c_1}{c_2}$",
+        "C": "$\\frac{a_1}{a_2} \neq \\frac{b_1}{b_2} \neq \\frac{c_1}{c_2}$",
+        "D": "$\\frac{a_1}{a_2} = \\frac{b_1}{b_2} = \\frac{c_1}{c_2}$"
       }
     }
   ],
@@ -921,8 +921,8 @@
       "chapter_name": "Pair of Linear Equations in Two Variables",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "The pair of linear equations $\frac{3}, {2}x + \frac{5}, {3}y = 7$ and $9x - 10y = 14$ is",
-      "prashna": "रैखिक समीकरण युग्म $\frac{3}, {2}x + \frac{5}, {3}y = 7$ एवं $9x - 10y = 14$ हैं",
+      "question": "The pair of linear equations $\\frac{3}{2}x + \\frac{5}{3}y = 7$ and $9x - 10y = 14$ is",
+      "prashna": "रैखिक समीकरण युग्म $\\frac{3}{2}x + \\frac{5}{3}y = 7$ एवं $9x - 10y = 14$ हैं",
       "options": {
         "A": "consistent",
         "B": "inconsistent",
@@ -990,13 +990,13 @@
       "question": "If straight lines $4x + py = 16$ and $2x + 9y = 15$ are parallel then what is the value of $p$ ?",
       "prashna": "यदि सरल रेखाएँ $4x + py = 16$ तथा $2x + 9y = 15$ समांतर हैं तो $p$ का मान क्या होगा ?",
       "options": {
-        "A": "\frac{1}, {3}",
+        "A": "\\frac{1}{3}",
         "B": "3",
         "C": "18",
         "D": "-3"
       },
       "vikalpa": {
-        "A": "\frac{1}, {3}",
+        "A": "\\frac{1}{3}",
         "B": "3",
         "C": "18",
         "D": "-3"

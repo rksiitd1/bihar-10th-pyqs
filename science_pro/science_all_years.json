@@ -2863,13 +2863,13 @@
       "prashna": "प्लास्टर ऑफ पेरिस का रासायनिक सूत्र है।",
       "options": {
         "A": "$\text{CaSO}_4 \\cdot 5\text{H}_2\text{O}$",
-        "B": "$\text{CaSO}_4 \\cdot \frac{1}, {2}\text{H}_2\text{O}$",
+        "B": "$\text{CaSO}_4 \\cdot \\frac{1}{2}\text{H}_2\text{O}$",
         "C": "$\text{CaSO}_4 \\cdot 2\text{H}_2\text{O}$",
         "D": "$\text{CaSO}_4 \\cdot \text{H}_2\text{O}$"
       },
       "vikalpa": {
         "A": "$\text{CaSO}_4 \\cdot 5\text{H}_2\text{O}$",
-        "B": "$\text{CaSO}_4 \\cdot \frac{1}, {2}\text{H}_2\text{O}$",
+        "B": "$\text{CaSO}_4 \\cdot \\frac{1}{2}\text{H}_2\text{O}$",
         "C": "$\text{CaSO}_4 \\cdot 2\text{H}_2\text{O}$",
         "D": "$\text{CaSO}_4 \\cdot \text{H}_2\text{O}$"
       }
@@ -4120,15 +4120,15 @@
       "question": "Choose the correct option from the following: The relation between potential difference V, resistance R, and current I across the ends of a conductor is",
       "prashna": "निम्नांकित विकल्पों में से सही विकल्प चुनें। किसी चालक के छोरों के बीच विभवांतर V, प्रतिरोध R एवं प्रवाहित धारा I के बीच संबंध है",
       "options": {
-        "A": "$I = \frac{R}, {V}$",
-        "B": "$R = \frac{I}, {V}$",
-        "C": "$R = \frac{V}, {I}$",
+        "A": "$I = \\frac{R}{V}$",
+        "B": "$R = \\frac{I}{V}$",
+        "C": "$R = \\frac{V}{I}$",
         "D": "None of these"
       },
       "vikalpa": {
-        "A": "$I = \frac{R}, {V}$",
-        "B": "$R = \frac{I}, {V}$",
-        "C": "$R = \frac{V}, {I}$",
+        "A": "$I = \\frac{R}{V}$",
+        "B": "$R = \\frac{I}{V}$",
+        "C": "$R = \\frac{V}{I}$",
         "D": "इनमें से कोई नहीं"
       }
     },
@@ -4958,14 +4958,14 @@
       "question": "The value of refractive index of a medium is",
       "prashna": "किसी माध्यम के अपवर्तनांक का मान होता है",
       "options": {
-        "A": "$\frac{\\sin i}, {\\sin r}$",
-        "B": "$\frac{\\sin r}, {\\sin i}$",
+        "A": "$\\frac{\\sin i}{\\sin r}$",
+        "B": "$\\frac{\\sin r}{\\sin i}$",
         "C": "$\\sin i \times \\sin r$",
         "D": "$\\sin i + \\sin r$"
       },
       "vikalpa": {
-        "A": "$\frac{\\sin i}, {\\sin r}$",
-        "B": "$\frac{\\sin r}, {\\sin i}$",
+        "A": "$\\frac{\\sin i}{\\sin r}$",
+        "B": "$\\frac{\\sin r}{\\sin i}$",
         "C": "$\\sin i \times \\sin r$",
         "D": "$\\sin i + \\sin r$"
       }
@@ -13852,16 +13852,16 @@
       "question": "Which of the following is the magnification ($m$) of a lens?",
       "prashna": "निम्नलिखित में से कौन लेंस का आवर्धन ($m$) होता है ?",
       "options": {
-        "A": "$\frac{u}, {v}$",
+        "A": "$\\frac{u}{v}$",
         "B": "$uv$",
         "C": "$u+v$",
-        "D": "$\frac{v}, {u}$"
+        "D": "$\\frac{v}{u}$"
       },
       "vikalpa": {
-        "A": "$\frac{u}, {v}$",
+        "A": "$\\frac{u}{v}$",
         "B": "$uv$",
         "C": "$u+v$",
-        "D": "$\frac{v}, {u}$"
+        "D": "$\\frac{v}{u}$"
       }
     },
     {
@@ -14072,13 +14072,13 @@
       "question": "The chemical formula of Gypsum is",
       "prashna": "जिप्सम का रासायनिक सूत्र है",
       "options": {
-        "A": "$CaSO_4 \\cdot \frac{1}, {2} H_2O$",
+        "A": "$CaSO_4 \\cdot \\frac{1}{2} H_2O$",
         "B": "$CaSO_4 \\cdot 2H_2O$",
         "C": "$CaSO_4 \\cdot 10H_2O$",
         "D": "None of these"
       },
       "vikalpa": {
-        "A": "$CaSO_4 \\cdot \frac{1}, {2} H_2O$",
+        "A": "$CaSO_4 \\cdot \\frac{1}{2} H_2O$",
         "B": "$CaSO_4 \\cdot 2H_2O$",
         "C": "$CaSO_4 \\cdot 10H_2O$",
         "D": "इनमें से कोई नहीं"
@@ -14800,16 +14800,16 @@
       "question": "Mirror's formula is",
       "prashna": "दर्पण का सूत्र है",
       "options": {
-        "A": "$\frac{1}, {v} + \frac{1}, {u} = \frac{1}, {f}$",
-        "B": "$\frac{1}, {v} - \frac{1}, {u} = \frac{1}, {f}$",
-        "C": "$\frac{1}, {f} + \frac{1}, {u} = \frac{1}, {v}$",
-        "D": "$\frac{1}, {f} + \frac{1}, {v} = \frac{1}, {u}$"
+        "A": "$\\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f}$",
+        "B": "$\\frac{1}{v} - \\frac{1}{u} = \\frac{1}{f}$",
+        "C": "$\\frac{1}{f} + \\frac{1}{u} = \\frac{1}{v}$",
+        "D": "$\\frac{1}{f} + \\frac{1}{v} = \\frac{1}{u}$"
       },
       "vikalpa": {
-        "A": "$\frac{1}, {v} + \frac{1}, {u} = \frac{1}, {f}$",
-        "B": "$\frac{1}, {v} - \frac{1}, {u} = \frac{1}, {f}$",
-        "C": "$\frac{1}, {f} + \frac{1}, {u} = \frac{1}, {v}$",
-        "D": "$\frac{1}, {f} + \frac{1}, {v} = \frac{1}, {u}$"
+        "A": "$\\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f}$",
+        "B": "$\\frac{1}{v} - \\frac{1}{u} = \\frac{1}{f}$",
+        "C": "$\\frac{1}{f} + \\frac{1}{u} = \\frac{1}{v}$",
+        "D": "$\\frac{1}{f} + \\frac{1}{v} = \\frac{1}{u}$"
       }
     },
     {
@@ -17125,13 +17125,13 @@
       "prashna": "प्लास्टर ऑफ पेरिस का रासायनिक सूत्र है।",
       "options": {
         "A": "$CaSO_4 \\cdot 5H_2O$",
-        "B": "$CaSO_4 \\cdot \frac{1}, {2}H_2O$",
+        "B": "$CaSO_4 \\cdot \\frac{1}{2}H_2O$",
         "C": "$CaSO_4 \\cdot 2H_2O$",
         "D": "$CaSO_4 \\cdot H_2O$"
       },
       "vikalpa": {
         "A": "$CaSO_4 \\cdot 5H_2O$",
-        "B": "$CaSO_4 \\cdot \frac{1}, {2}H_2O$",
+        "B": "$CaSO_4 \\cdot \\frac{1}{2}H_2O$",
         "C": "$CaSO_4 \\cdot 2H_2O$",
         "D": "$CaSO_4 \\cdot H_2O$"
       }
@@ -19272,16 +19272,16 @@
       "question": "The mirror formula is",
       "prashna": "दर्पण का सूत्र है",
       "options": {
-        "A": "$\frac{1}, {v} + \frac{1}, {u} + \frac{1}, {f}$",
-        "B": "$\frac{1}, {v} - \frac{1}, {u} = \frac{1}, {f}$",
-        "C": "$\frac{1}, {f} + \frac{1}, {u} = \frac{1}, {v}$",
-        "D": "$\frac{1}, {f} + \frac{1}, {v} = \frac{1}, {u}$"
+        "A": "$\\frac{1}{v} + \\frac{1}{u} + \\frac{1}{f}$",
+        "B": "$\\frac{1}{v} - \\frac{1}{u} = \\frac{1}{f}$",
+        "C": "$\\frac{1}{f} + \\frac{1}{u} = \\frac{1}{v}$",
+        "D": "$\\frac{1}{f} + \\frac{1}{v} = \\frac{1}{u}$"
       },
       "vikalpa": {
-        "A": "$\frac{1}, {v} + \frac{1}, {u} + \frac{1}, {f}$",
-        "B": "$\frac{1}, {v} - \frac{1}, {u} = \frac{1}, {f}$",
-        "C": "$\frac{1}, {f} + \frac{1}, {u} = \frac{1}, {v}$",
-        "D": "$\frac{1}, {f} + \frac{1}, {v} = \frac{1}, {u}$"
+        "A": "$\\frac{1}{v} + \\frac{1}{u} + \\frac{1}{f}$",
+        "B": "$\\frac{1}{v} - \\frac{1}{u} = \\frac{1}{f}$",
+        "C": "$\\frac{1}{f} + \\frac{1}{u} = \\frac{1}{v}$",
+        "D": "$\\frac{1}{f} + \\frac{1}{v} = \\frac{1}{u}$"
       }
     },
     {
@@ -21160,14 +21160,14 @@
       "options": {
         "A": "joule = volt $\times$ ampere",
         "B": "joule = coulomb $\times$ volt",
-        "C": "joule = $\frac{ampere}, {volt}$",
-        "D": "joule = $\frac{coulomb}, {volt}$"
+        "C": "joule = $\\frac{ampere}{volt}$",
+        "D": "joule = $\\frac{coulomb}{volt}$"
       },
       "vikalpa": {
         "A": "जूल = वोल्ट $\times$ ऐम्पियर",
         "B": "जूल = कूलॉम $\times$ वोल्ट",
-        "C": "जूल = $\frac{ऐम्पियर}, {वोल्ट}$",
-        "D": "जूल = $\frac{कूलॉम}, {वोल्ट}$"
+        "C": "जूल = $\\frac{ऐम्पियर}{वोल्ट}$",
+        "D": "जूल = $\\frac{कूलॉम}{वोल्ट}$"
       }
     },
     {
@@ -22165,8 +22165,8 @@
       "chapter_name": "Light – Reflection and Refraction",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "In a concave mirror prove that $\frac{1}, {v} + \frac{1}, {u} = \frac{1}, {f}$.",
-      "prashna": "एक अवतल दर्पण में सिद्ध करें कि $\frac{1}, {v} + \frac{1}, {u} = \frac{1}, {f}$।"
+      "question": "In a concave mirror prove that $\\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f}$.",
+      "prashna": "एक अवतल दर्पण में सिद्ध करें कि $\\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f}$।"
     },
     {
       "id": "long_2",
@@ -25566,14 +25566,14 @@
       "question": "What is the value of refractive index of a medium?",
       "prashna": "किसी माध्यम के अपवर्तनांक का मान क्या होता है ?",
       "options": {
-        "A": "$\frac{\\sin i}, {\\sin r}$",
-        "B": "$\frac{\\sin r}, {\\sin i}$",
+        "A": "$\\frac{\\sin i}{\\sin r}$",
+        "B": "$\\frac{\\sin r}{\\sin i}$",
         "C": "$\\sin i + \\sin r$",
         "D": "$\\sin i \times \\sin r$"
       },
       "vikalpa": {
-        "A": "$\frac{\\sin i}, {\\sin r}$",
-        "B": "$\frac{\\sin r}, {\\sin i}$",
+        "A": "$\\frac{\\sin i}{\\sin r}$",
+        "B": "$\\frac{\\sin r}{\\sin i}$",
         "C": "$\\sin i + \\sin r$",
         "D": "$\\sin i \times \\sin r$"
       }
@@ -25611,14 +25611,14 @@
       "prashna": "अवतल लेंस में आवर्धन (m) बराबर होता है",
       "options": {
         "A": "$uv$",
-        "B": "$\frac{u}, {v}$",
-        "C": "$\frac{v}, {u}$",
+        "B": "$\\frac{u}{v}$",
+        "C": "$\\frac{v}{u}$",
         "D": "$u + v$"
       },
       "vikalpa": {
         "A": "$uv$",
-        "B": "$\frac{u}, {v}$",
-        "C": "$\frac{v}, {u}$",
+        "B": "$\\frac{u}{v}$",
+        "C": "$\\frac{v}{u}$",
         "D": "$u + v$"
       }
     },
@@ -27897,8 +27897,8 @@
       "chapter_name": "Light – Reflection and Refraction",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Prove for a concave mirror $\frac{1}, {v} + \frac{1}, {u} = \frac{1}, {f}$.",
-      "prashna": "एक अवतल दर्पण के लिए सिद्ध करें कि $\frac{1}, {v} + \frac{1}, {u} = \frac{1}, {f}$।"
+      "question": "Prove for a concave mirror $\\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f}$.",
+      "prashna": "एक अवतल दर्पण के लिए सिद्ध करें कि $\\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f}$।"
     },
     {
       "id": "long_2",
@@ -29088,16 +29088,16 @@
       "question": "A resistor of power $P_1$ at voltage $V_1$ is connected in series with another resistor of power $P_2$ at voltage $V_2$. The equivalent resistance will be",
       "prashna": "वोल्टता $V_1$ पर शक्ति $P_1$ का एक प्रतिरोधक, वोल्टता $V_2$ पर शक्ति $P_2$ के प्रतिरोधक के साथ श्रेणी में जुड़ा है। समतुल्य प्रतिरोध होगा",
       "options": {
-        "A": "$\frac{V_1^2}, {P_1} + \frac{V_2^2}, {P_2}$",
-        "B": "$\frac{P_1^2}, {V_1} + \frac{P_2^2}, {V_2}$",
-        "C": "$\frac{P_1 + P_2}, {(V_1 + V_2)^2}$",
-        "D": "$\frac{P_1}, {V_1^2} + \frac{P_2}, {V_2^2}$"
+        "A": "$\\frac{V_1^2}{P_1} + \\frac{V_2^2}{P_2}$",
+        "B": "$\\frac{P_1^2}{V_1} + \\frac{P_2^2}{V_2}$",
+        "C": "$\\frac{P_1 + P_2}{(V_1 + V_2)^2}$",
+        "D": "$\\frac{P_1}{V_1^2} + \\frac{P_2}{V_2^2}$"
       },
       "vikalpa": {
-        "A": "$\frac{V_1^2}, {P_1} + \frac{V_2^2}, {P_2}$",
-        "B": "$\frac{P_1^2}, {V_1} + \frac{P_2^2}, {V_2}$",
-        "C": "$\frac{P_1 + P_2}, {(V_1 + V_2)^2}$",
-        "D": "$\frac{P_1}, {V_1^2} + \frac{P_2}, {V_2^2}$"
+        "A": "$\\frac{V_1^2}{P_1} + \\frac{V_2^2}{P_2}$",
+        "B": "$\\frac{P_1^2}{V_1} + \\frac{P_2^2}{V_2}$",
+        "C": "$\\frac{P_1 + P_2}{(V_1 + V_2)^2}$",
+        "D": "$\\frac{P_1}{V_1^2} + \\frac{P_2}{V_2^2}$"
       }
     },
     {
@@ -33196,16 +33196,16 @@
       "question": "Which of the following is the mirror formula ?",
       "prashna": "निम्न में से दर्पण सूत्र कौन है ?",
       "options": {
-        "A": "$\frac{1}, {v} - \frac{1}, {u} = \frac{1}, {f}$",
-        "B": "$\frac{1}, {f} + \frac{1}, {u} = \frac{1}, {v}$",
-        "C": "$\frac{1}, {f} + \frac{1}, {v} = \frac{1}, {u}$",
-        "D": "$\frac{1}, {v} + \frac{1}, {u} = \frac{1}, {f}$"
+        "A": "$\\frac{1}{v} - \\frac{1}{u} = \\frac{1}{f}$",
+        "B": "$\\frac{1}{f} + \\frac{1}{u} = \\frac{1}{v}$",
+        "C": "$\\frac{1}{f} + \\frac{1}{v} = \\frac{1}{u}$",
+        "D": "$\\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f}$"
       },
       "vikalpa": {
-        "A": "$\frac{1}, {v} - \frac{1}, {u} = \frac{1}, {f}$",
-        "B": "$\frac{1}, {f} + \frac{1}, {u} = \frac{1}, {v}$",
-        "C": "$\frac{1}, {f} + \frac{1}, {v} = \frac{1}, {u}$",
-        "D": "$\frac{1}, {v} + \frac{1}, {u} = \frac{1}, {f}$"
+        "A": "$\\frac{1}{v} - \\frac{1}{u} = \\frac{1}{f}$",
+        "B": "$\\frac{1}{f} + \\frac{1}{u} = \\frac{1}{v}$",
+        "C": "$\\frac{1}{f} + \\frac{1}{v} = \\frac{1}{u}$",
+        "D": "$\\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f}$"
       }
     },
     {
@@ -33593,15 +33593,15 @@
       "prashna": "निम्न में से कौन किसी कुंडली का प्रतिरोध ज्ञात करने का सूत्र है ?",
       "options": {
         "A": "$R = V - I$",
-        "B": "$R = \frac{V}, {I}$",
+        "B": "$R = \\frac{V}{I}$",
         "C": "$R = V \times I$",
-        "D": "$R = \frac{I}, {V}$"
+        "D": "$R = \\frac{I}{V}$"
       },
       "vikalpa": {
         "A": "$R = V - I$",
-        "B": "$R = \frac{V}, {I}$",
+        "B": "$R = \\frac{V}{I}$",
         "C": "$R = V \times I$",
-        "D": "$R = \frac{I}, {V}$"
+        "D": "$R = \\frac{I}{V}$"
       }
     },
     {

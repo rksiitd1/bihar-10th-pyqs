@@ -28,8 +28,8 @@
         "chapter_name": "Polynomials",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\\alpha$ and $\beta$ are the zeros of quadratic polynomial $q(x) = x^2 - x + 4$, then the value of $\\alpha + \beta$ will be",
-        "prashna": "यदि द्विघात बहुपद $q(x) = x^2 - x + 4$ के शून्यक $\\alpha, \beta$ हों, तब $\\alpha + \beta$ का मान होगा",
+        "question": "If $\\alpha$ and $\\beta$ are the zeros of quadratic polynomial $q(x) = x^2 - x + 4$, then the value of $\\alpha + \\beta$ will be",
+        "prashna": "यदि द्विघात बहुपद $q(x) = x^2 - x + 4$ के शून्यक $\\alpha, \\beta$ हों, तब $\\alpha + \\beta$ का मान होगा",
         "options": {
             "A": "-1",
             "B": "4",
@@ -182,8 +182,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "The value of $\\sin \frac{\\pi}, {4} - \\cos \frac{\\pi}, {4}$ will be",
-        "prashna": "$\\sin \frac{\\pi}, {4} - \\cos \frac{\\pi}, {4}$ का मान होगा",
+        "question": "The value of $\\sin \\frac{\\pi}{4} - \\cos \\frac{\\pi}{4}$ will be",
+        "prashna": "$\\sin \\frac{\\pi}{4} - \\cos \\frac{\\pi}{4}$ का मान होगा",
         "options": {
             "A": "2",
             "B": "0",
@@ -207,16 +207,16 @@
         "question": "Area of sector of angle $\theta$ will be",
         "prashna": "कोण $\theta$ वाले त्रिज्यखण्ड का क्षेत्रफल होगा",
         "options": {
-            "A": "$\frac{\theta}, {270} \times \\pi r^3$",
-            "B": "$\frac{\theta}, {360} \times \\pi r$",
-            "C": "$\frac{\theta}, {270} \times \\pi r^2$",
-            "D": "$\frac{\theta}, {360} \times \\pi r^2$"
+            "A": "$\\frac{\theta}{270} \times \\pi r^3$",
+            "B": "$\\frac{\theta}{360} \times \\pi r$",
+            "C": "$\\frac{\theta}{270} \times \\pi r^2$",
+            "D": "$\\frac{\theta}{360} \times \\pi r^2$"
         },
         "vikalpa": {
-            "A": "$\frac{\theta}, {270} \times \\pi r^3$",
-            "B": "$\frac{\theta}, {360} \times \\pi r$",
-            "C": "$\frac{\theta}, {270} \times \\pi r^2$",
-            "D": "$\frac{\theta}, {360} \times \\pi r^2$"
+            "A": "$\\frac{\theta}{270} \times \\pi r^3$",
+            "B": "$\\frac{\theta}{360} \times \\pi r$",
+            "C": "$\\frac{\theta}{270} \times \\pi r^2$",
+            "D": "$\\frac{\theta}{360} \times \\pi r^2$"
         }
     },
     {
@@ -246,8 +246,8 @@
         "chapter_name": "Statistics",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "Class mark = $\frac{\text{upper limit} + \text{lower limit}}, {2}$",
-        "prashna": "वर्ग चिह्न = $\frac{\text{ऊपरी वर्ग सीमा} + \text{निम्न वर्ग सीमा}}, {2}$"
+        "question": "Class mark = $\\frac{\text{upper limit} + \text{lower limit}}, {2}$",
+        "prashna": "वर्ग चिह्न = $\\frac{\text{ऊपरी वर्ग सीमा} + \text{निम्न वर्ग सीमा}}, {2}$"
     },
     {
         "id": "short_14",
@@ -286,8 +286,8 @@
         "chapter_name": "Polynomials",
         "confidence": 0.62,
         "raw_choice": "2. Polynomials (बहुपद)",
-        "question": "If $\\alpha$ and $\beta$ are the roots of quadratic equation $cx^2 - bx + a = 0$, then $\\alpha^2 + \beta^2 = $ __________.",
-        "prashna": "यदि द्विघातीय समीकरण $cx^2 - bx + a = 0$ के मूल $\\alpha$ एवं $\beta$ हों, तब $\\alpha^2 + \beta^2 = $ __________।"
+        "question": "If $\\alpha$ and $\\beta$ are the roots of quadratic equation $cx^2 - bx + a = 0$, then $\\alpha^2 + \\beta^2 = $ __________.",
+        "prashna": "यदि द्विघातीय समीकरण $cx^2 - bx + a = 0$ के मूल $\\alpha$ एवं $\\beta$ हों, तब $\\alpha^2 + \\beta^2 = $ __________।"
     },
     {
         "id": "short_18",
@@ -296,8 +296,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $2\theta = \frac{\\pi}, {3}$, then $\\sin \theta = $ __________.",
-        "prashna": "यदि $2\theta = \frac{\\pi}, {3}$ हो, तब $\\sin \theta = $ __________।"
+        "question": "If $2\theta = \\frac{\\pi}{3}$, then $\\sin \theta = $ __________.",
+        "prashna": "यदि $2\theta = \\frac{\\pi}{3}$ हो, तब $\\sin \theta = $ __________।"
     },
     {
         "id": "short_19",
@@ -506,8 +506,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\\cot \theta = \frac{7}, {8}$, then find the value of $\frac{(1 + \\sin \theta)(1 - \\sin \theta)}, {(1 + \\cos \theta)(1 - \\cos \theta)}$.",
-        "prashna": "यदि $\\cot \theta = \frac{7}, {8}$ हो, तो $\frac{(1 + \\sin \theta)(1 - \\sin \theta)}, {(1 + \\cos \theta)(1 - \\cos \theta)}$ का मान निकालें।"
+        "question": "If $\\cot \theta = \\frac{7}{8}$, then find the value of $\\frac{(1 + \\sin \theta)(1 - \\sin \theta)}{(1 + \\cos \theta)(1 - \\cos \theta)}$.",
+        "prashna": "यदि $\\cot \theta = \\frac{7}{8}$ हो, तो $\\frac{(1 + \\sin \theta)(1 - \\sin \theta)}{(1 + \\cos \theta)(1 - \\cos \theta)}$ का मान निकालें।"
     },
     {
         "id": "short_40",
@@ -516,8 +516,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "Prove that $\frac{\\cot \theta - \\cos \theta}, {\\cot \theta + \\cos \theta} = \frac{\\csc \theta - 1}, {\\csc \theta + 1}$.",
-        "prashna": "सिद्ध करें कि $\frac{\\cot \theta - \\cos \theta}, {\\cot \theta + \\cos \theta} = \frac{\\csc \theta - 1}, {\\csc \theta + 1}$।"
+        "question": "Prove that $\\frac{\\cot \theta - \\cos \theta}{\\cot \theta + \\cos \theta} = \\frac{\\csc \theta - 1}{\\csc \theta + 1}$.",
+        "prashna": "सिद्ध करें कि $\\frac{\\cot \theta - \\cos \theta}{\\cot \theta + \\cos \theta} = \\frac{\\csc \theta - 1}{\\csc \theta + 1}$।"
     },
     {
         "id": "short_41",

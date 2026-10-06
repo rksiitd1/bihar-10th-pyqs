@@ -1,8 +1,8 @@
 [
   {
-    "type": "comprehension",
-    "file": "type-comprehension.json",
-    "total_items": 128,
+    "type": "passage",
+    "file": "type-passage.json",
+    "total_items": 92,
     "years": 15
   },
   {
@@ -14,7 +14,7 @@
   {
     "type": "letter_writing",
     "file": "type-letter_writing.json",
-    "total_items": 106,
+    "total_items": 107,
     "years": 15
   },
   {
@@ -28,6 +28,12 @@
     "file": "type-short.json",
     "total_items": 176,
     "years": 15
+  },
+  {
+    "type": "poem",
+    "file": "type-poem.json",
+    "total_items": 36,
+    "years": 14
   },
   {
     "type": "long",
@@ -44,7 +50,7 @@
   {
     "type": "unknown",
     "file": "type-unknown.json",
-    "total_items": 85,
+    "total_items": 84,
     "years": 2
   }
 ]

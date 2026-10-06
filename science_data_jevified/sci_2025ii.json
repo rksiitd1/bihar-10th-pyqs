@@ -955,16 +955,16 @@
         "question": "Which of the following is the mirror formula ?",
         "prashna": "निम्न में से दर्पण सूत्र कौन है ?",
         "options": {
-            "A": "$\frac{1}, {v} - \frac{1}, {u} = \frac{1}, {f}$",
-            "B": "$\frac{1}, {f} + \frac{1}, {u} = \frac{1}, {v}$",
-            "C": "$\frac{1}, {f} + \frac{1}, {v} = \frac{1}, {u}$",
-            "D": "$\frac{1}, {v} + \frac{1}, {u} = \frac{1}, {f}$"
+            "A": "$\\frac{1}{v} - \\frac{1}{u} = \\frac{1}{f}$",
+            "B": "$\\frac{1}{f} + \\frac{1}{u} = \\frac{1}{v}$",
+            "C": "$\\frac{1}{f} + \\frac{1}{v} = \\frac{1}{u}$",
+            "D": "$\\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f}$"
         },
         "vikalpa": {
-            "A": "$\frac{1}, {v} - \frac{1}, {u} = \frac{1}, {f}$",
-            "B": "$\frac{1}, {f} + \frac{1}, {u} = \frac{1}, {v}$",
-            "C": "$\frac{1}, {f} + \frac{1}, {v} = \frac{1}, {u}$",
-            "D": "$\frac{1}, {v} + \frac{1}, {u} = \frac{1}, {f}$"
+            "A": "$\\frac{1}{v} - \\frac{1}{u} = \\frac{1}{f}$",
+            "B": "$\\frac{1}{f} + \\frac{1}{u} = \\frac{1}{v}$",
+            "C": "$\\frac{1}{f} + \\frac{1}{v} = \\frac{1}{u}$",
+            "D": "$\\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f}$"
         }
     },
     {
@@ -1352,15 +1352,15 @@
         "prashna": "निम्न में से कौन किसी कुंडली का प्रतिरोध ज्ञात करने का सूत्र है ?",
         "options": {
             "A": "$R = V - I$",
-            "B": "$R = \frac{V}, {I}$",
+            "B": "$R = \\frac{V}{I}$",
             "C": "$R = V \times I$",
-            "D": "$R = \frac{I}, {V}$"
+            "D": "$R = \\frac{I}{V}$"
         },
         "vikalpa": {
             "A": "$R = V - I$",
-            "B": "$R = \frac{V}, {I}$",
+            "B": "$R = \\frac{V}{I}$",
             "C": "$R = V \times I$",
-            "D": "$R = \frac{I}, {V}$"
+            "D": "$R = \\frac{I}{V}$"
         }
     },
     {

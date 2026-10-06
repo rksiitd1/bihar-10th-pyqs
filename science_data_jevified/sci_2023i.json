@@ -1285,14 +1285,14 @@
         "question": "What is the value of refractive index of a medium?",
         "prashna": "किसी माध्यम के अपवर्तनांक का मान क्या होता है ?",
         "options": {
-            "A": "$\frac{\\sin i}, {\\sin r}$",
-            "B": "$\frac{\\sin r}, {\\sin i}$",
+            "A": "$\\frac{\\sin i}{\\sin r}$",
+            "B": "$\\frac{\\sin r}{\\sin i}$",
             "C": "$\\sin i + \\sin r$",
             "D": "$\\sin i \times \\sin r$"
         },
         "vikalpa": {
-            "A": "$\frac{\\sin i}, {\\sin r}$",
-            "B": "$\frac{\\sin r}, {\\sin i}$",
+            "A": "$\\frac{\\sin i}{\\sin r}$",
+            "B": "$\\frac{\\sin r}{\\sin i}$",
             "C": "$\\sin i + \\sin r$",
             "D": "$\\sin i \times \\sin r$"
         }
@@ -1330,14 +1330,14 @@
         "prashna": "अवतल लेंस में आवर्धन (m) बराबर होता है",
         "options": {
             "A": "$uv$",
-            "B": "$\frac{u}, {v}$",
-            "C": "$\frac{v}, {u}$",
+            "B": "$\\frac{u}{v}$",
+            "C": "$\\frac{v}{u}$",
             "D": "$u + v$"
         },
         "vikalpa": {
             "A": "$uv$",
-            "B": "$\frac{u}, {v}$",
-            "C": "$\frac{v}, {u}$",
+            "B": "$\\frac{u}{v}$",
+            "C": "$\\frac{v}{u}$",
             "D": "$u + v$"
         }
     },

@@ -6,8 +6,8 @@
         "chapter_name": "Quadratic Equations",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If the discriminant of quadratic equation $cx^2 - bx + a = 0$ is zero, then the value of equal root $\beta$ will be",
-        "prashna": "यदि द्विघात समीकरण $cx^2 - bx + a = 0$ के विवेचक शून्य है, तो समान मूल $\beta$ का मान होगा",
+        "question": "If the discriminant of quadratic equation $cx^2 - bx + a = 0$ is zero, then the value of equal root $\\beta$ will be",
+        "prashna": "यदि द्विघात समीकरण $cx^2 - bx + a = 0$ के विवेचक शून्य है, तो समान मूल $\\beta$ का मान होगा",
         "options": {
             "A": "$b/2c$",
             "B": "$-b/2a$",
@@ -226,8 +226,8 @@
         "chapter_name": "Real Numbers",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "The decimal expansion of $\frac{2^3}, {2^3 \times 5^2}$ is _______.",
-        "prashna": "$\frac{2^3}, {2^3 \times 5^2}$ का दशमलव प्रसार _______ होता है।"
+        "question": "The decimal expansion of $\\frac{2^3}{2^3 \times 5^2}$ is _______.",
+        "prashna": "$\\frac{2^3}{2^3 \times 5^2}$ का दशमलव प्रसार _______ होता है।"
     },
     {
         "id": "short_2",
@@ -326,8 +326,8 @@
         "chapter_name": "Polynomials",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\\alpha, \beta$ are the zeros of polynomial $p(x) = x^2 - 7x + k$ and $\\alpha - \beta = 1$, then find the value of $k$.",
-        "prashna": "यदि $\\alpha, \beta$ बहुपद $p(x) = x^2 - 7x + k$ के शून्यक हैं और $\\alpha - \beta = 1$ है, तो $k$ का मान निकालें।",
+        "question": "If $\\alpha, \\beta$ are the zeros of polynomial $p(x) = x^2 - 7x + k$ and $\\alpha - \\beta = 1$, then find the value of $k$.",
+        "prashna": "यदि $\\alpha, \\beta$ बहुपद $p(x) = x^2 - 7x + k$ के शून्यक हैं और $\\alpha - \\beta = 1$ है, तो $k$ का मान निकालें।",
         "marks": 2
     },
     {
@@ -425,8 +425,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\theta = 45^\\circ$, then find the value of $\tan^2 \theta + \frac{1}, {\\sin^2 \theta}$.",
-        "prashna": "यदि $\theta = 45^\\circ$, तो $\tan^2 \theta + \frac{1}, {\\sin^2 \theta}$ का मान निकालें।",
+        "question": "If $\theta = 45^\\circ$, then find the value of $\tan^2 \theta + \\frac{1}{\\sin^2 \theta}$.",
+        "prashna": "यदि $\theta = 45^\\circ$, तो $\tan^2 \theta + \\frac{1}{\\sin^2 \theta}$ का मान निकालें।",
         "marks": 2
     },
     {
@@ -491,8 +491,8 @@
         "chapter_name": "Triangles",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "Each side of an equilateral triangle $ABC$ is $a$ units. Prove that the altitude of the triangle will be $\frac{\\sqrt{3}}, {2}a$.",
-        "prashna": "समबाहु $\triangle ABC$ की प्रत्येक भुजा $a$ इकाई है तो सिद्ध करें कि त्रिभुज का शीर्षलम्ब $\frac{\\sqrt{3}}, {2}a$ होगा।",
+        "question": "Each side of an equilateral triangle $ABC$ is $a$ units. Prove that the altitude of the triangle will be $\\frac{\\sqrt{3}}, {2}a$.",
+        "prashna": "समबाहु $\triangle ABC$ की प्रत्येक भुजा $a$ इकाई है तो सिद्ध करें कि त्रिभुज का शीर्षलम्ब $\\frac{\\sqrt{3}}, {2}a$ होगा।",
         "marks": 3
     },
     {
@@ -524,8 +524,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "Prove that $(\\sec \theta - \tan \theta)^2 = \frac{1 - \\sin \theta}, {1 + \\sin \theta}$.",
-        "prashna": "सिद्ध करें कि $(\\sec \theta - \tan \theta)^2 = \frac{1 - \\sin \theta}, {1 + \\sin \theta}$।",
+        "question": "Prove that $(\\sec \theta - \tan \theta)^2 = \\frac{1 - \\sin \theta}{1 + \\sin \theta}$.",
+        "prashna": "सिद्ध करें कि $(\\sec \theta - \tan \theta)^2 = \\frac{1 - \\sin \theta}{1 + \\sin \theta}$।",
         "marks": 3
     },
     {
@@ -535,8 +535,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "Prove that $\frac{\\sin^4 \theta - \\cos^4 \theta}, {\\sin^2 \theta - \\cos^2 \theta} = 1$.",
-        "prashna": "सिद्ध करें कि $\frac{\\sin^4 \theta - \\cos^4 \theta}, {\\sin^2 \theta - \\cos^2 \theta} = 1$।",
+        "question": "Prove that $\\frac{\\sin^4 \theta - \\cos^4 \theta}{\\sin^2 \theta - \\cos^2 \theta} = 1$.",
+        "prashna": "सिद्ध करें कि $\\frac{\\sin^4 \theta - \\cos^4 \theta}{\\sin^2 \theta - \\cos^2 \theta} = 1$।",
         "marks": 3
     },
     {

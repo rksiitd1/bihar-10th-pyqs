@@ -298,13 +298,13 @@
             "A": "$(x + 2) (x - 2) = x^2 - 4x^3$",
             "B": "$(x + 2)^2 = 3(x + 4)$",
             "C": "$(2x^2 + 3) = (5 + x) (2x^2 - 3)$",
-            "D": "$2x + \frac{1}, {2x} = 4x^2$"
+            "D": "$2x + \\frac{1}{2x} = 4x^2$"
         },
         "vikalpa": {
             "A": "$(x + 2) (x - 2) = x^2 - 4x^3$",
             "B": "$(x + 2)^2 = 3(x + 4)$",
             "C": "$(2x^2 + 3) = (5 + x) (2x^2 - 3)$",
-            "D": "$2x + \frac{1}, {2x} = 4x^2$"
+            "D": "$2x + \\frac{1}{2x} = 4x^2$"
         }
     },
     {
@@ -358,8 +358,8 @@
         "chapter_name": "Polynomials",
         "confidence": 0.56,
         "raw_choice": "2. Polynomials (बहुपद)",
-        "question": "If $\\alpha, \beta$ are the roots of the equation $x^2 + 3px + 2p^2 = 0$ and $\\alpha^2 + \beta^2 = 5$ then the value of $p$ is",
-        "prashna": "यदि $x^2 + 3px + 2p^2 = 0$ के मूल $\\alpha, \beta$ हों तथा $\\alpha^2 + \beta^2 = 5$ हो, तो $p$ का मान है",
+        "question": "If $\\alpha, \\beta$ are the roots of the equation $x^2 + 3px + 2p^2 = 0$ and $\\alpha^2 + \\beta^2 = 5$ then the value of $p$ is",
+        "prashna": "यदि $x^2 + 3px + 2p^2 = 0$ के मूल $\\alpha, \\beta$ हों तथा $\\alpha^2 + \\beta^2 = 5$ हो, तो $p$ का मान है",
         "options": {
             "A": "$\\pm 3$",
             "B": "$\\pm 2$",
@@ -383,16 +383,16 @@
         "question": "The roots of the quadratic equation $a^2 p^2 x^2 - q^2 = 0$ are",
         "prashna": "द्विघात समीकरण $a^2 p^2 x^2 - q^2 = 0$ के मूल होंगे",
         "options": {
-            "A": "$\frac{a^2 p^2}, {q^2}$",
-            "B": "$\frac{ap}, {q}$",
-            "C": "$\frac{q^2}, {ap}$",
-            "D": "$\\pm \frac{q}, {ap}$"
+            "A": "$\\frac{a^2 p^2}{q^2}$",
+            "B": "$\\frac{ap}{q}$",
+            "C": "$\\frac{q^2}{ap}$",
+            "D": "$\\pm \\frac{q}{ap}$"
         },
         "vikalpa": {
-            "A": "$\frac{a^2 p^2}, {q^2}$",
-            "B": "$\frac{ap}, {q}$",
-            "C": "$\frac{q^2}, {ap}$",
-            "D": "$\\pm \frac{q}, {ap}$"
+            "A": "$\\frac{a^2 p^2}{q^2}$",
+            "B": "$\\frac{ap}{q}$",
+            "C": "$\\frac{q^2}{ap}$",
+            "D": "$\\pm \\frac{q}{ap}$"
         }
     },
     {
@@ -446,8 +446,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "$\frac{\\cos 60^{\\circ} + 1}, {\\cos 60^{\\circ} - 1} =$",
-        "prashna": "$\frac{\\cos 60^{\\circ} + 1}, {\\cos 60^{\\circ} - 1} =$",
+        "question": "$\\frac{\\cos 60^{\\circ} + 1}, {\\cos 60^{\\circ} - 1} =$",
+        "prashna": "$\\frac{\\cos 60^{\\circ} + 1}, {\\cos 60^{\\circ} - 1} =$",
         "options": {
             "A": "2",
             "B": "-2",
@@ -534,8 +534,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "The value of $\frac{\\cos 37^{\\circ}}, {\\sin 53^{\\circ}} + \frac{\\cot 34^{\\circ}}, {\tan 56^{\\circ}}$ is",
-        "prashna": "$\frac{\\cos 37^{\\circ}}, {\\sin 53^{\\circ}} + \frac{\\cot 34^{\\circ}}, {\tan 56^{\\circ}}$ का मान है",
+        "question": "The value of $\\frac{\\cos 37^{\\circ}}, {\\sin 53^{\\circ}} + \\frac{\\cot 34^{\\circ}}, {\tan 56^{\\circ}}$ is",
+        "prashna": "$\\frac{\\cos 37^{\\circ}}, {\\sin 53^{\\circ}} + \\frac{\\cot 34^{\\circ}}, {\tan 56^{\\circ}}$ का मान है",
         "options": {
             "A": "0",
             "B": "1",
@@ -603,16 +603,16 @@
         "question": "If $\\sin 48^{\\circ} = p$, then the value of $\tan 48^{\\circ}$ is",
         "prashna": "यदि $\\sin 48^{\\circ} = p$, तो $\tan 48^{\\circ}$ का मान है",
         "options": {
-            "A": "$\frac{p}, {\\sqrt{1-p^2}}$",
-            "B": "$\frac{\\sqrt{1-p^2}}, {p}$",
-            "C": "$\frac{p}, {\\sqrt{1+p^2}}$",
-            "D": "$\frac{\\sqrt{1+p^2}}, {p}$"
+            "A": "$\\frac{p}{\\sqrt{1-p^2}}$",
+            "B": "$\\frac{\\sqrt{1-p^2}}, {p}$",
+            "C": "$\\frac{p}{\\sqrt{1+p^2}}$",
+            "D": "$\\frac{\\sqrt{1+p^2}}, {p}$"
         },
         "vikalpa": {
-            "A": "$\frac{p}, {\\sqrt{1-p^2}}$",
-            "B": "$\frac{\\sqrt{1-p^2}}, {p}$",
-            "C": "$\frac{p}, {\\sqrt{1+p^2}}$",
-            "D": "$\frac{\\sqrt{1+p^2}}, {p}$"
+            "A": "$\\frac{p}{\\sqrt{1-p^2}}$",
+            "B": "$\\frac{\\sqrt{1-p^2}}, {p}$",
+            "C": "$\\frac{p}{\\sqrt{1+p^2}}$",
+            "D": "$\\frac{\\sqrt{1+p^2}}, {p}$"
         }
     },
     {
@@ -644,8 +644,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "$\frac{\\sin^2(90^{\\circ} - \theta) + \\sin^2 \theta}, {\\operatorname{cosec}^2(90^{\\circ} - \theta) - \tan^2 \theta} =$",
-        "prashna": "$\frac{\\sin^2(90^{\\circ} - \theta) + \\sin^2 \theta}, {\\operatorname{cosec}^2(90^{\\circ} - \theta) - \tan^2 \theta} =$",
+        "question": "$\\frac{\\sin^2(90^{\\circ} - \theta) + \\sin^2 \theta}, {\\operatorname{cosec}^2(90^{\\circ} - \theta) - \tan^2 \theta} =$",
+        "prashna": "$\\frac{\\sin^2(90^{\\circ} - \theta) + \\sin^2 \theta}, {\\operatorname{cosec}^2(90^{\\circ} - \theta) - \tan^2 \theta} =$",
         "options": {
             "A": "1",
             "B": "0",
@@ -666,8 +666,8 @@
         "chapter_name": "Areas Related to Circles",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If the radius of a wheel is $\frac{35}, {44}$ metre then the distance covered in 2 revolutions is",
-        "prashna": "यदि किसी पहिए की त्रिज्या $\frac{35}, {44}$ मीटर हो तो 2 चक्कर में तय की गई दूरी है",
+        "question": "If the radius of a wheel is $\\frac{35}{44}$ metre then the distance covered in 2 revolutions is",
+        "prashna": "यदि किसी पहिए की त्रिज्या $\\frac{35}{44}$ मीटर हो तो 2 चक्कर में तय की गई दूरी है",
         "options": {
             "A": "10 m",
             "B": "35 m",
@@ -691,16 +691,16 @@
         "question": "If $O$ is the centre and $r$ is the radius of a circle and $\\angle AOB = \theta$, then the length of arc $AB$ is equal to",
         "prashna": "यदि केन्द्र $O$ और त्रिज्या $r$ वाले वृत्त में $\\angle AOB = \theta$, तो चाप $AB$ की लंबाई बराबर है",
         "options": {
-            "A": "$\frac{\\pi r^2 \theta}, {180}$",
-            "B": "$\frac{\\pi r \theta}, {360}$",
-            "C": "$\frac{\\pi r \theta}, {180}$",
-            "D": "$\frac{\\pi r^2 \theta}, {360}$"
+            "A": "$\\frac{\\pi r^2 \theta}{180}$",
+            "B": "$\\frac{\\pi r \theta}{360}$",
+            "C": "$\\frac{\\pi r \theta}{180}$",
+            "D": "$\\frac{\\pi r^2 \theta}{360}$"
         },
         "vikalpa": {
-            "A": "$\frac{\\pi r^2 \theta}, {180}$",
-            "B": "$\frac{\\pi r \theta}, {360}$",
-            "C": "$\frac{\\pi r \theta}, {180}$",
-            "D": "$\frac{\\pi r^2 \theta}, {360}$"
+            "A": "$\\frac{\\pi r^2 \theta}{180}$",
+            "B": "$\\frac{\\pi r \theta}{360}$",
+            "C": "$\\frac{\\pi r \theta}{180}$",
+            "D": "$\\frac{\\pi r^2 \theta}{360}$"
         }
     },
     {
@@ -886,8 +886,8 @@
         "chapter_name": "Real Numbers",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "$\frac{\\sqrt{81}}, {2}$ is",
-        "prashna": "$\frac{\\sqrt{81}}, {2}$ है एक",
+        "question": "$\\frac{\\sqrt{81}}, {2}$ is",
+        "prashna": "$\\frac{\\sqrt{81}}, {2}$ है एक",
         "options": {
             "A": "a rational number",
             "B": "an irrational number",
@@ -1612,8 +1612,8 @@
         "chapter_name": "Polynomials",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\\alpha$ and $\beta$ are zeroes of the polynomial $p(x) = x^2 - 3x + 5$, then the value of $4(\\alpha + \beta)$ is",
-        "prashna": "यदि बहुपद $p(x) = x^2 - 3x + 5$ के शून्यक $\\alpha$ और $\beta$ हों, तो $4(\\alpha + \beta)$ का मान है",
+        "question": "If $\\alpha$ and $\\beta$ are zeroes of the polynomial $p(x) = x^2 - 3x + 5$, then the value of $4(\\alpha + \\beta)$ is",
+        "prashna": "यदि बहुपद $p(x) = x^2 - 3x + 5$ के शून्यक $\\alpha$ और $\\beta$ हों, तो $4(\\alpha + \\beta)$ का मान है",
         "options": {
             "A": "12",
             "B": "-12",
@@ -1700,8 +1700,8 @@
         "chapter_name": "Polynomials",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\\alpha, \beta, \\gamma$ are zeroes of the cubic polynomial $ax^3 + bx^2 + cx + d = 0$ then the value of $\\alpha \beta \\gamma$ is",
-        "prashna": "यदि $\\alpha, \beta, \\gamma$ त्रिघात बहुपद $ax^3 + bx^2 + cx + d = 0$ के शून्यक हों, तो $\\alpha \beta \\gamma$ का मान होगा",
+        "question": "If $\\alpha, \\beta, \\gamma$ are zeroes of the cubic polynomial $ax^3 + bx^2 + cx + d = 0$ then the value of $\\alpha \\beta \\gamma$ is",
+        "prashna": "यदि $\\alpha, \\beta, \\gamma$ त्रिघात बहुपद $ax^3 + bx^2 + cx + d = 0$ के शून्यक हों, तो $\\alpha \\beta \\gamma$ का मान होगा",
         "options": {
             "A": "b / a",
             "B": "- c / a",
@@ -2096,8 +2096,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\\sin \theta = \frac{\\sqrt{3}}, {2}$, then the value of $\\operatorname{cosec} \theta + \\cot \theta$ is",
-        "prashna": "यदि $\\sin \theta = \frac{\\sqrt{3}}, {2}$, तो $\\operatorname{cosec} \theta + \\cot \theta$ का मान है",
+        "question": "If $\\sin \theta = \\frac{\\sqrt{3}}, {2}$, then the value of $\\operatorname{cosec} \theta + \\cot \theta$ is",
+        "prashna": "यदि $\\sin \theta = \\frac{\\sqrt{3}}, {2}$, तो $\\operatorname{cosec} \theta + \\cot \theta$ का मान है",
         "options": {
             "A": "$2 + \\sqrt{3}$",
             "B": "$2\\sqrt{3}$",
@@ -2140,8 +2140,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "$\frac{\\sin 30^{\\circ} + \\cos 45^{\\circ} - \tan 60^{\\circ}}, {\\cot 30^{\\circ} - \\sin 45^{\\circ} - \\cos 60^{\\circ}} =$",
-        "prashna": "$\frac{\\sin 30^{\\circ} + \\cos 45^{\\circ} - \tan 60^{\\circ}}, {\\cot 30^{\\circ} - \\sin 45^{\\circ} - \\cos 60^{\\circ}} =$",
+        "question": "$\\frac{\\sin 30^{\\circ} + \\cos 45^{\\circ} - \tan 60^{\\circ}}, {\\cot 30^{\\circ} - \\sin 45^{\\circ} - \\cos 60^{\\circ}} =$",
+        "prashna": "$\\frac{\\sin 30^{\\circ} + \\cos 45^{\\circ} - \tan 60^{\\circ}}, {\\cot 30^{\\circ} - \\sin 45^{\\circ} - \\cos 60^{\\circ}} =$",
         "options": {
             "A": "-1",
             "B": "0",

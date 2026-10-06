@@ -219,15 +219,15 @@
         "question": "Choose the correct option from the following: The relation between potential difference V, resistance R, and current I across the ends of a conductor is",
         "prashna": "निम्नांकित विकल्पों में से सही विकल्प चुनें। किसी चालक के छोरों के बीच विभवांतर V, प्रतिरोध R एवं प्रवाहित धारा I के बीच संबंध है",
         "options": {
-            "A": "$I = \frac{R}, {V}$",
-            "B": "$R = \frac{I}, {V}$",
-            "C": "$R = \frac{V}, {I}$",
+            "A": "$I = \\frac{R}{V}$",
+            "B": "$R = \\frac{I}{V}$",
+            "C": "$R = \\frac{V}{I}$",
             "D": "None of these"
         },
         "vikalpa": {
-            "A": "$I = \frac{R}, {V}$",
-            "B": "$R = \frac{I}, {V}$",
-            "C": "$R = \frac{V}, {I}$",
+            "A": "$I = \\frac{R}{V}$",
+            "B": "$R = \\frac{I}{V}$",
+            "C": "$R = \\frac{V}{I}$",
             "D": "इनमें से कोई नहीं"
         }
     },

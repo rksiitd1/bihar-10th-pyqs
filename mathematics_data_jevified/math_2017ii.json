@@ -28,15 +28,15 @@
         "prashna": "निम्नलिखित में कौन द्विघात बहुपद है?",
         "options": {
             "A": "$x^2 + 2\\sqrt{x} + 1$",
-            "B": "$x - \frac{1}, {x}$",
+            "B": "$x - \\frac{1}{x}$",
             "C": "$x^2 - \\sqrt{2}x + 1$",
-            "D": "$x^2 + \frac{1}, {\\sqrt{2}x} + 1$"
+            "D": "$x^2 + \\frac{1}{\\sqrt{2}x} + 1$"
         },
         "vikalpa": {
             "A": "$x^2 + 2\\sqrt{x} + 1$",
-            "B": "$x - \frac{1}, {x}$",
+            "B": "$x - \\frac{1}{x}$",
             "C": "$x^2 - \\sqrt{2}x + 1$",
-            "D": "$x^2 + \frac{1}, {\\sqrt{2}x} + 1$"
+            "D": "$x^2 + \\frac{1}{\\sqrt{2}x} + 1$"
         }
     },
     {
@@ -44,8 +44,8 @@
         "type": "objective",
         "chapter": "2",
         "chapter_name": "Polynomials",
-        "question": "If $\\alpha$ and $\beta$ are zeros of polynomial $x^2 + x + 1$, then the value of $\frac{1}, {\\alpha} + \frac{1}, {\beta}$ is-",
-        "prashna": "यदि $\\alpha$ और $\beta$ बहुपद $x^2 + x + 1$ के शून्यक हो, तो $\frac{1}, {\\alpha} + \frac{1}, {\beta}$ का मान है-",
+        "question": "If $\\alpha$ and $\\beta$ are zeros of polynomial $x^2 + x + 1$, then the value of $\\frac{1}{\\alpha} + \\frac{1}{\\beta}$ is-",
+        "prashna": "यदि $\\alpha$ और $\\beta$ बहुपद $x^2 + x + 1$ के शून्यक हो, तो $\\frac{1}{\\alpha} + \\frac{1}{\\beta}$ का मान है-",
         "options": {
             "A": "1",
             "B": "-1",
@@ -212,24 +212,24 @@
         "type": "short_answer",
         "chapter": "8",
         "chapter_name": "Introduction to Trigonometry",
-        "question": "The value of $\frac{\\cos 48^\\circ}, {\\sin 42^\\circ}$ will be ______.",
-        "prashna": "$\frac{\\cos 48^\\circ}, {\\sin 42^\\circ}$ का मान ______ होगा।"
+        "question": "The value of $\\frac{\\cos 48^\\circ}{\\sin 42^\\circ}$ will be ______.",
+        "prashna": "$\\frac{\\cos 48^\\circ}{\\sin 42^\\circ}$ का मान ______ होगा।"
     },
     {
         "id": "short_3",
         "type": "short_answer",
         "chapter": "2",
         "chapter_name": "Polynomials",
-        "question": "If $\\alpha$, $\beta$ and $\\gamma$ are zeros of the polynomial $3x^3 - 5x^2 - 11x - 2$, then find the values of $\\alpha\beta\\gamma$, $\\alpha + \beta + \\gamma$ and $\\alpha\beta + \beta\\gamma + \\gamma\\alpha$.",
-        "prashna": "यदि बहुपद $3x^3 - 5x^2 - 11x - 2$ के शून्यक $\\alpha, \beta$ तथा $\\gamma$ हों, तो $\\alpha\beta\\gamma$, $\\alpha + \beta + \\gamma$ तथा $\\alpha\beta + \beta\\gamma + \\gamma\\alpha$ का मान ज्ञात करें।"
+        "question": "If $\\alpha$, $\\beta$ and $\\gamma$ are zeros of the polynomial $3x^3 - 5x^2 - 11x - 2$, then find the values of $\\alpha\\beta\\gamma$, $\\alpha + \\beta + \\gamma$ and $\\alpha\\beta + \\beta\\gamma + \\gamma\\alpha$.",
+        "prashna": "यदि बहुपद $3x^3 - 5x^2 - 11x - 2$ के शून्यक $\\alpha, \\beta$ तथा $\\gamma$ हों, तो $\\alpha\\beta\\gamma$, $\\alpha + \\beta + \\gamma$ तथा $\\alpha\\beta + \\beta\\gamma + \\gamma\\alpha$ का मान ज्ञात करें।"
     },
     {
         "id": "short_4",
         "type": "short_answer",
         "chapter": "3",
         "chapter_name": "Pair of Linear Equations in Two Variables",
-        "question": "Solve: $\frac{x}, {2} + \frac{2y}, {3} + 1 = 0$, $x - \frac{y}, {3} - 3 = 0$.",
-        "prashna": "हल करें: $\frac{x}, {2} + \frac{2y}, {3} + 1 = 0$, $x - \frac{y}, {3} - 3 = 0$."
+        "question": "Solve: $\\frac{x}{2} + \\frac{2y}{3} + 1 = 0$, $x - \\frac{y}{3} - 3 = 0$.",
+        "prashna": "हल करें: $\\frac{x}{2} + \\frac{2y}{3} + 1 = 0$, $x - \\frac{y}{3} - 3 = 0$."
     },
     {
         "id": "short_5",
@@ -260,8 +260,8 @@
         "type": "short_answer",
         "chapter": "6",
         "chapter_name": "Triangles",
-        "question": "$AD$ and $PM$ are medians of triangles $ABC$ and $PQR$ respectively, where $\triangle ABC \\sim \triangle PQR$. Prove that $\frac{AB}, {PQ} = \frac{AD}, {PM}$.",
-        "prashna": "$AD$ और $PM$ त्रिभुजों $ABC$ और $PQR$ की क्रमशः माध्यिकाएँ हैं, जबकि $\triangle ABC \\sim \triangle PQR$ है। साबित करें कि $\frac{AB}, {PQ} = \frac{AD}, {PM}$ है।"
+        "question": "$AD$ and $PM$ are medians of triangles $ABC$ and $PQR$ respectively, where $\triangle ABC \\sim \triangle PQR$. Prove that $\\frac{AB}{PQ} = \\frac{AD}{PM}$.",
+        "prashna": "$AD$ और $PM$ त्रिभुजों $ABC$ और $PQR$ की क्रमशः माध्यिकाएँ हैं, जबकि $\triangle ABC \\sim \triangle PQR$ है। साबित करें कि $\\frac{AB}{PQ} = \\frac{AD}{PM}$ है।"
     },
     {
         "id": "short_9",
@@ -308,8 +308,8 @@
         "type": "long_answer",
         "chapter": "8",
         "chapter_name": "Introduction to Trigonometry",
-        "question": "If $\text{cosec } \theta = \frac{5}, {3}$, then find the value of $\\sec^2 \theta - \tan^2 \theta$.",
-        "prashna": "यदि $\text{cosec } \theta = \frac{5}, {3}$ हो, तो $\\sec^2 \theta - \tan^2 \theta$ का मान निकालें।"
+        "question": "If $\text{cosec } \theta = \\frac{5}{3}$, then find the value of $\\sec^2 \theta - \tan^2 \theta$.",
+        "prashna": "यदि $\text{cosec } \theta = \\frac{5}{3}$ हो, तो $\\sec^2 \theta - \tan^2 \theta$ का मान निकालें।"
     },
     {
         "id": "long_3",
@@ -324,8 +324,8 @@
         "type": "long_answer",
         "chapter": "3",
         "chapter_name": "Pair of Linear Equations in Two Variables",
-        "question": "A fraction becomes $\frac{1}, {3}$ when $1$ is subtracted from the numerator and it becomes $\frac{1}, {4}$ when $8$ is added to its denominator. Find the fraction.",
-        "prashna": "किसी भिन्न के अंश से $1$ घटाने पर $\frac{1}, {3}$ हो जाता है तथा इसके हर में $8$ जोड़ने पर $\frac{1}, {4}$ हो जाता है। भिन्न ज्ञात करें।"
+        "question": "A fraction becomes $\\frac{1}{3}$ when $1$ is subtracted from the numerator and it becomes $\\frac{1}{4}$ when $8$ is added to its denominator. Find the fraction.",
+        "prashna": "किसी भिन्न के अंश से $1$ घटाने पर $\\frac{1}{3}$ हो जाता है तथा इसके हर में $8$ जोड़ने पर $\\frac{1}{4}$ हो जाता है। भिन्न ज्ञात करें।"
     },
     {
         "id": "long_5",
@@ -372,7 +372,7 @@
         "type": "long_answer",
         "chapter": "11",
         "chapter_name": "Constructions",
-        "question": "Construct a triangle with sides $4$ cm, $5$ cm and $6$ cm and then construct another triangle similar to it whose sides are $\frac{2}, {3}$ of the corresponding sides of the first triangle.",
-        "prashna": "$4$ सेमी०, $5$ सेमी० और $6$ सेमी० भुजाओं वाला एक त्रिभुज बनाएं तथा इसके समरूप एक दूसरे त्रिभुज की रचना करें जिसकी भुजाएं पहले त्रिभुज की संगत भुजाओं का $\frac{2}, {3}$ हो।"
+        "question": "Construct a triangle with sides $4$ cm, $5$ cm and $6$ cm and then construct another triangle similar to it whose sides are $\\frac{2}{3}$ of the corresponding sides of the first triangle.",
+        "prashna": "$4$ सेमी०, $5$ सेमी० और $6$ सेमी० भुजाओं वाला एक त्रिभुज बनाएं तथा इसके समरूप एक दूसरे त्रिभुज की रचना करें जिसकी भुजाएं पहले त्रिभुज की संगत भुजाओं का $\\frac{2}{3}$ हो।"
     }
 ]

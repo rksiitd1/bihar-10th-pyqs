@@ -28,8 +28,8 @@
         "chapter_name": "Polynomials",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\\alpha, \beta$ are the zeros of the quadratic polynomial $p(x) = x^2 + 7x + 10$, then the value of $\\alpha \\cdot \beta$ will be-",
-        "prashna": "यदि बहुपद $p(x) = x^2 + 7x + 10$ के शून्यक $\\alpha, \beta$ हों तो $\\alpha \\cdot \beta$ का मान होगा-",
+        "question": "If $\\alpha, \\beta$ are the zeros of the quadratic polynomial $p(x) = x^2 + 7x + 10$, then the value of $\\alpha \\cdot \\beta$ will be-",
+        "prashna": "यदि बहुपद $p(x) = x^2 + 7x + 10$ के शून्यक $\\alpha, \\beta$ हों तो $\\alpha \\cdot \\beta$ का मान होगा-",
         "options": {
             "A": "10",
             "B": "-10",
@@ -204,8 +204,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "The value of $\\cos \frac{\\pi}, {3}$ will be-",
-        "prashna": "$\\cos \frac{\\pi}, {3}$ का मान होगा-",
+        "question": "The value of $\\cos \\frac{\\pi}{3}$ will be-",
+        "prashna": "$\\cos \\frac{\\pi}{3}$ का मान होगा-",
         "options": {
             "A": "1/2",
             "B": "$1/\\sqrt{3}$",
@@ -236,8 +236,8 @@
         "chapter_name": "Polynomials",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "$4x^2 + \frac{1}, {7}$ is ................ polynomial.",
-        "prashna": "$4x^2 + \frac{1}, {7}$ ................ बहुपद है ।"
+        "question": "$4x^2 + \\frac{1}{7}$ is ................ polynomial.",
+        "prashna": "$4x^2 + \\frac{1}{7}$ ................ बहुपद है ।"
     },
     {
         "id": "short_3",
@@ -296,8 +296,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\\cos A = \frac{4}, {5}$ then the value of $\tan A$ will be ................",
-        "prashna": "यदि $\\cos A = \frac{4}, {5}$ तो $\tan A$ का मान ................ होगा ।"
+        "question": "If $\\cos A = \\frac{4}{5}$ then the value of $\tan A$ will be ................",
+        "prashna": "यदि $\\cos A = \\frac{4}{5}$ तो $\tan A$ का मान ................ होगा ।"
     },
     {
         "id": "short_9",
@@ -476,8 +476,8 @@
         "chapter_name": "Triangles",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "Each side of an equilateral triangle ABC is $a$ units. Prove that the altitude of the triangle will be $\frac{\\sqrt{3}}, {2}a$.",
-        "prashna": "समबाहु $\\Delta ABC$ की प्रत्येक भुजा $a$ इकाई है तो सिद्ध करें कि त्रिभुज का शीर्ष लम्ब $\frac{\\sqrt{3}}, {2}a$ होगा ।"
+        "question": "Each side of an equilateral triangle ABC is $a$ units. Prove that the altitude of the triangle will be $\\frac{\\sqrt{3}}, {2}a$.",
+        "prashna": "समबाहु $\\Delta ABC$ की प्रत्येक भुजा $a$ इकाई है तो सिद्ध करें कि त्रिभुज का शीर्ष लम्ब $\\frac{\\sqrt{3}}, {2}a$ होगा ।"
     },
     {
         "id": "short_27",
@@ -514,8 +514,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "If $\tan(A + B) = \\sqrt{3}$ and $\tan(A - B) = \frac{1}, {\\sqrt{3}}$, $0 < A + B < 90^\\circ$, $A > B$, then find the value of $A$ and $B$.",
-        "prashna": "यदि $\tan(A + B) = \\sqrt{3}$ और $\tan(A - B) = \frac{1}, {\\sqrt{3}}$, $0 < A + B < 90^\\circ$, $A > B$, तो $A$ और $B$ का मान ज्ञात करें ।"
+        "question": "If $\tan(A + B) = \\sqrt{3}$ and $\tan(A - B) = \\frac{1}{\\sqrt{3}}$, $0 < A + B < 90^\\circ$, $A > B$, then find the value of $A$ and $B$.",
+        "prashna": "यदि $\tan(A + B) = \\sqrt{3}$ और $\tan(A - B) = \\frac{1}{\\sqrt{3}}$, $0 < A + B < 90^\\circ$, $A > B$, तो $A$ और $B$ का मान ज्ञात करें ।"
     },
     {
         "id": "short_30",
@@ -524,8 +524,8 @@
         "chapter_name": "Introduction to Trigonometry",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "Prove that $\\sqrt{\frac{1 + \\sin A}, {1 - \\sin A}} = \\sec A + \tan A$",
-        "prashna": "सिद्ध करें $\\sqrt{\frac{1 + \\sin A}, {1 - \\sin A}} = \\sec A + \tan A$"
+        "question": "Prove that $\\sqrt{\\frac{1 + \\sin A}{1 - \\sin A}} = \\sec A + \tan A$",
+        "prashna": "सिद्ध करें $\\sqrt{\\frac{1 + \\sin A}{1 - \\sin A}} = \\sec A + \tan A$"
     },
     {
         "id": "short_31",
@@ -554,8 +554,8 @@
         "chapter_name": "Surface Areas and Volumes",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "A toy is in the form of a cone mounted on a hemisphere of radius $3.5$ cm. The total height of the toy is $15.5$ cm. Find the total surface area and volume of the toy. $\\pi = \frac{22}, {7}$",
-        "prashna": "एक खिलौना $3.5$ सेमी. त्रिज्या वाले शंकु के आकार का है जो उसी त्रिज्या वाले एक अर्धगोले पर अध्यारोपित है । इस खिलौने की सम्पूर्ण ऊँचाई $15.5$ सेमी. है । इस खिलौने का सम्पूर्ण पृष्ठीय क्षेत्रफल व आयतन ज्ञात कीजिए । $\\pi = \frac{22}, {7}$"
+        "question": "A toy is in the form of a cone mounted on a hemisphere of radius $3.5$ cm. The total height of the toy is $15.5$ cm. Find the total surface area and volume of the toy. $\\pi = \\frac{22}{7}$",
+        "prashna": "एक खिलौना $3.5$ सेमी. त्रिज्या वाले शंकु के आकार का है जो उसी त्रिज्या वाले एक अर्धगोले पर अध्यारोपित है । इस खिलौने की सम्पूर्ण ऊँचाई $15.5$ सेमी. है । इस खिलौने का सम्पूर्ण पृष्ठीय क्षेत्रफल व आयतन ज्ञात कीजिए । $\\pi = \\frac{22}{7}$"
     },
     {
         "id": "long_2",

@@ -935,14 +935,14 @@
         "options": {
             "A": "joule = volt $\times$ ampere",
             "B": "joule = coulomb $\times$ volt",
-            "C": "joule = $\frac{ampere}, {volt}$",
-            "D": "joule = $\frac{coulomb}, {volt}$"
+            "C": "joule = $\\frac{ampere}{volt}$",
+            "D": "joule = $\\frac{coulomb}{volt}$"
         },
         "vikalpa": {
             "A": "जूल = वोल्ट $\times$ ऐम्पियर",
             "B": "जूल = कूलॉम $\times$ वोल्ट",
-            "C": "जूल = $\frac{ऐम्पियर}, {वोल्ट}$",
-            "D": "जूल = $\frac{कूलॉम}, {वोल्ट}$"
+            "C": "जूल = $\\frac{ऐम्पियर}{वोल्ट}$",
+            "D": "जूल = $\\frac{कूलॉम}{वोल्ट}$"
         }
     },
     {
@@ -1940,8 +1940,8 @@
         "chapter_name": "Light – Reflection and Refraction",
         "confidence": 0.95,
         "raw_choice": "",
-        "question": "In a concave mirror prove that $\frac{1}, {v} + \frac{1}, {u} = \frac{1}, {f}$.",
-        "prashna": "एक अवतल दर्पण में सिद्ध करें कि $\frac{1}, {v} + \frac{1}, {u} = \frac{1}, {f}$।"
+        "question": "In a concave mirror prove that $\\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f}$.",
+        "prashna": "एक अवतल दर्पण में सिद्ध करें कि $\\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f}$।"
     },
     {
         "id": "long_2",

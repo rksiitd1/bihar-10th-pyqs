@@ -977,16 +977,16 @@
         "question": "A resistor of power $P_1$ at voltage $V_1$ is connected in series with another resistor of power $P_2$ at voltage $V_2$. The equivalent resistance will be",
         "prashna": "वोल्टता $V_1$ पर शक्ति $P_1$ का एक प्रतिरोधक, वोल्टता $V_2$ पर शक्ति $P_2$ के प्रतिरोधक के साथ श्रेणी में जुड़ा है। समतुल्य प्रतिरोध होगा",
         "options": {
-            "A": "$\frac{V_1^2}, {P_1} + \frac{V_2^2}, {P_2}$",
-            "B": "$\frac{P_1^2}, {V_1} + \frac{P_2^2}, {V_2}$",
-            "C": "$\frac{P_1 + P_2}, {(V_1 + V_2)^2}$",
-            "D": "$\frac{P_1}, {V_1^2} + \frac{P_2}, {V_2^2}$"
+            "A": "$\\frac{V_1^2}{P_1} + \\frac{V_2^2}{P_2}$",
+            "B": "$\\frac{P_1^2}{V_1} + \\frac{P_2^2}{V_2}$",
+            "C": "$\\frac{P_1 + P_2}{(V_1 + V_2)^2}$",
+            "D": "$\\frac{P_1}{V_1^2} + \\frac{P_2}{V_2^2}$"
         },
         "vikalpa": {
-            "A": "$\frac{V_1^2}, {P_1} + \frac{V_2^2}, {P_2}$",
-            "B": "$\frac{P_1^2}, {V_1} + \frac{P_2^2}, {V_2}$",
-            "C": "$\frac{P_1 + P_2}, {(V_1 + V_2)^2}$",
-            "D": "$\frac{P_1}, {V_1^2} + \frac{P_2}, {V_2^2}$"
+            "A": "$\\frac{V_1^2}{P_1} + \\frac{V_2^2}{P_2}$",
+            "B": "$\\frac{P_1^2}{V_1} + \\frac{P_2^2}{V_2}$",
+            "C": "$\\frac{P_1 + P_2}{(V_1 + V_2)^2}$",
+            "D": "$\\frac{P_1}{V_1^2} + \\frac{P_2}{V_2^2}$"
         }
     },
     {

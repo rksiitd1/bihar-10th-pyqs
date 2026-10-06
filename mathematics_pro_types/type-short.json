@@ -7,8 +7,8 @@
       "chapter_name": "Real Numbers",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "The decimal expansion of $\frac{2^3}, {2^3 \times 5^2}$ is _______.",
-      "prashna": "$\frac{2^3}, {2^3 \times 5^2}$ का दशमलव प्रसार _______ होता है।"
+      "question": "The decimal expansion of $\\frac{2^3}{2^3 \times 5^2}$ is _______.",
+      "prashna": "$\\frac{2^3}{2^3 \times 5^2}$ का दशमलव प्रसार _______ होता है।"
     },
     {
       "id": "short_2",
@@ -107,8 +107,8 @@
       "chapter_name": "Polynomials",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\\alpha, \beta$ are the zeros of polynomial $p(x) = x^2 - 7x + k$ and $\\alpha - \beta = 1$, then find the value of $k$.",
-      "prashna": "यदि $\\alpha, \beta$ बहुपद $p(x) = x^2 - 7x + k$ के शून्यक हैं और $\\alpha - \beta = 1$ है, तो $k$ का मान निकालें।",
+      "question": "If $\\alpha, \\beta$ are the zeros of polynomial $p(x) = x^2 - 7x + k$ and $\\alpha - \\beta = 1$, then find the value of $k$.",
+      "prashna": "यदि $\\alpha, \\beta$ बहुपद $p(x) = x^2 - 7x + k$ के शून्यक हैं और $\\alpha - \\beta = 1$ है, तो $k$ का मान निकालें।",
       "marks": 2
     },
     {
@@ -206,8 +206,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\theta = 45^\\circ$, then find the value of $\tan^2 \theta + \frac{1}, {\\sin^2 \theta}$.",
-      "prashna": "यदि $\theta = 45^\\circ$, तो $\tan^2 \theta + \frac{1}, {\\sin^2 \theta}$ का मान निकालें।",
+      "question": "If $\theta = 45^\\circ$, then find the value of $\tan^2 \theta + \\frac{1}{\\sin^2 \theta}$.",
+      "prashna": "यदि $\theta = 45^\\circ$, तो $\tan^2 \theta + \\frac{1}{\\sin^2 \theta}$ का मान निकालें।",
       "marks": 2
     },
     {
@@ -272,8 +272,8 @@
       "chapter_name": "Triangles",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Each side of an equilateral triangle $ABC$ is $a$ units. Prove that the altitude of the triangle will be $\frac{\\sqrt{3}}, {2}a$.",
-      "prashna": "समबाहु $\triangle ABC$ की प्रत्येक भुजा $a$ इकाई है तो सिद्ध करें कि त्रिभुज का शीर्षलम्ब $\frac{\\sqrt{3}}, {2}a$ होगा।",
+      "question": "Each side of an equilateral triangle $ABC$ is $a$ units. Prove that the altitude of the triangle will be $\\frac{\\sqrt{3}}, {2}a$.",
+      "prashna": "समबाहु $\triangle ABC$ की प्रत्येक भुजा $a$ इकाई है तो सिद्ध करें कि त्रिभुज का शीर्षलम्ब $\\frac{\\sqrt{3}}, {2}a$ होगा।",
       "marks": 3
     },
     {
@@ -305,8 +305,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Prove that $(\\sec \theta - \tan \theta)^2 = \frac{1 - \\sin \theta}, {1 + \\sin \theta}$.",
-      "prashna": "सिद्ध करें कि $(\\sec \theta - \tan \theta)^2 = \frac{1 - \\sin \theta}, {1 + \\sin \theta}$।",
+      "question": "Prove that $(\\sec \theta - \tan \theta)^2 = \\frac{1 - \\sin \theta}{1 + \\sin \theta}$.",
+      "prashna": "सिद्ध करें कि $(\\sec \theta - \tan \theta)^2 = \\frac{1 - \\sin \theta}{1 + \\sin \theta}$।",
       "marks": 3
     },
     {
@@ -316,8 +316,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Prove that $\frac{\\sin^4 \theta - \\cos^4 \theta}, {\\sin^2 \theta - \\cos^2 \theta} = 1$.",
-      "prashna": "सिद्ध करें कि $\frac{\\sin^4 \theta - \\cos^4 \theta}, {\\sin^2 \theta - \\cos^2 \theta} = 1$।",
+      "question": "Prove that $\\frac{\\sin^4 \theta - \\cos^4 \theta}{\\sin^2 \theta - \\cos^2 \theta} = 1$.",
+      "prashna": "सिद्ध करें कि $\\frac{\\sin^4 \theta - \\cos^4 \theta}{\\sin^2 \theta - \\cos^2 \theta} = 1$।",
       "marks": 3
     },
     {
@@ -371,8 +371,8 @@
       "chapter_name": "Statistics",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Class mark = $\frac{\text{upper limit} + \text{lower limit}}, {2}$",
-      "prashna": "वर्ग चिह्न = $\frac{\text{ऊपरी वर्ग सीमा} + \text{निम्न वर्ग सीमा}}, {2}$"
+      "question": "Class mark = $\\frac{\text{upper limit} + \text{lower limit}}, {2}$",
+      "prashna": "वर्ग चिह्न = $\\frac{\text{ऊपरी वर्ग सीमा} + \text{निम्न वर्ग सीमा}}, {2}$"
     },
     {
       "id": "short_14",
@@ -411,8 +411,8 @@
       "chapter_name": "Polynomials",
       "confidence": 0.62,
       "raw_choice": "2. Polynomials (बहुपद)",
-      "question": "If $\\alpha$ and $\beta$ are the roots of quadratic equation $cx^2 - bx + a = 0$, then $\\alpha^2 + \beta^2 = $ __________.",
-      "prashna": "यदि द्विघातीय समीकरण $cx^2 - bx + a = 0$ के मूल $\\alpha$ एवं $\beta$ हों, तब $\\alpha^2 + \beta^2 = $ __________।"
+      "question": "If $\\alpha$ and $\\beta$ are the roots of quadratic equation $cx^2 - bx + a = 0$, then $\\alpha^2 + \\beta^2 = $ __________.",
+      "prashna": "यदि द्विघातीय समीकरण $cx^2 - bx + a = 0$ के मूल $\\alpha$ एवं $\\beta$ हों, तब $\\alpha^2 + \\beta^2 = $ __________।"
     },
     {
       "id": "short_18",
@@ -421,8 +421,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $2\theta = \frac{\\pi}, {3}$, then $\\sin \theta = $ __________.",
-      "prashna": "यदि $2\theta = \frac{\\pi}, {3}$ हो, तब $\\sin \theta = $ __________।"
+      "question": "If $2\theta = \\frac{\\pi}{3}$, then $\\sin \theta = $ __________.",
+      "prashna": "यदि $2\theta = \\frac{\\pi}{3}$ हो, तब $\\sin \theta = $ __________।"
     },
     {
       "id": "short_19",
@@ -631,8 +631,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\\cot \theta = \frac{7}, {8}$, then find the value of $\frac{(1 + \\sin \theta)(1 - \\sin \theta)}, {(1 + \\cos \theta)(1 - \\cos \theta)}$.",
-      "prashna": "यदि $\\cot \theta = \frac{7}, {8}$ हो, तो $\frac{(1 + \\sin \theta)(1 - \\sin \theta)}, {(1 + \\cos \theta)(1 - \\cos \theta)}$ का मान निकालें।"
+      "question": "If $\\cot \theta = \\frac{7}{8}$, then find the value of $\\frac{(1 + \\sin \theta)(1 - \\sin \theta)}{(1 + \\cos \theta)(1 - \\cos \theta)}$.",
+      "prashna": "यदि $\\cot \theta = \\frac{7}{8}$ हो, तो $\\frac{(1 + \\sin \theta)(1 - \\sin \theta)}{(1 + \\cos \theta)(1 - \\cos \theta)}$ का मान निकालें।"
     },
     {
       "id": "short_40",
@@ -641,8 +641,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Prove that $\frac{\\cot \theta - \\cos \theta}, {\\cot \theta + \\cos \theta} = \frac{\\csc \theta - 1}, {\\csc \theta + 1}$.",
-      "prashna": "सिद्ध करें कि $\frac{\\cot \theta - \\cos \theta}, {\\cot \theta + \\cos \theta} = \frac{\\csc \theta - 1}, {\\csc \theta + 1}$।"
+      "question": "Prove that $\\frac{\\cot \theta - \\cos \theta}{\\cot \theta + \\cos \theta} = \\frac{\\csc \theta - 1}{\\csc \theta + 1}$.",
+      "prashna": "सिद्ध करें कि $\\frac{\\cot \theta - \\cos \theta}{\\cot \theta + \\cos \theta} = \\frac{\\csc \theta - 1}{\\csc \theta + 1}$।"
     },
     {
       "id": "short_41",
@@ -683,8 +683,8 @@
       "chapter_name": "Polynomials",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "$4x^2 + \frac{1}, {7}$ is ................ polynomial.",
-      "prashna": "$4x^2 + \frac{1}, {7}$ ................ बहुपद है ।"
+      "question": "$4x^2 + \\frac{1}{7}$ is ................ polynomial.",
+      "prashna": "$4x^2 + \\frac{1}{7}$ ................ बहुपद है ।"
     },
     {
       "id": "short_3",
@@ -743,8 +743,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\\cos A = \frac{4}, {5}$ then the value of $\tan A$ will be ................",
-      "prashna": "यदि $\\cos A = \frac{4}, {5}$ तो $\tan A$ का मान ................ होगा ।"
+      "question": "If $\\cos A = \\frac{4}{5}$ then the value of $\tan A$ will be ................",
+      "prashna": "यदि $\\cos A = \\frac{4}{5}$ तो $\tan A$ का मान ................ होगा ।"
     },
     {
       "id": "short_9",
@@ -923,8 +923,8 @@
       "chapter_name": "Triangles",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Each side of an equilateral triangle ABC is $a$ units. Prove that the altitude of the triangle will be $\frac{\\sqrt{3}}, {2}a$.",
-      "prashna": "समबाहु $\\Delta ABC$ की प्रत्येक भुजा $a$ इकाई है तो सिद्ध करें कि त्रिभुज का शीर्ष लम्ब $\frac{\\sqrt{3}}, {2}a$ होगा ।"
+      "question": "Each side of an equilateral triangle ABC is $a$ units. Prove that the altitude of the triangle will be $\\frac{\\sqrt{3}}, {2}a$.",
+      "prashna": "समबाहु $\\Delta ABC$ की प्रत्येक भुजा $a$ इकाई है तो सिद्ध करें कि त्रिभुज का शीर्ष लम्ब $\\frac{\\sqrt{3}}, {2}a$ होगा ।"
     },
     {
       "id": "short_27",
@@ -961,8 +961,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\tan(A + B) = \\sqrt{3}$ and $\tan(A - B) = \frac{1}, {\\sqrt{3}}$, $0 < A + B < 90^\\circ$, $A > B$, then find the value of $A$ and $B$.",
-      "prashna": "यदि $\tan(A + B) = \\sqrt{3}$ और $\tan(A - B) = \frac{1}, {\\sqrt{3}}$, $0 < A + B < 90^\\circ$, $A > B$, तो $A$ और $B$ का मान ज्ञात करें ।"
+      "question": "If $\tan(A + B) = \\sqrt{3}$ and $\tan(A - B) = \\frac{1}{\\sqrt{3}}$, $0 < A + B < 90^\\circ$, $A > B$, then find the value of $A$ and $B$.",
+      "prashna": "यदि $\tan(A + B) = \\sqrt{3}$ और $\tan(A - B) = \\frac{1}{\\sqrt{3}}$, $0 < A + B < 90^\\circ$, $A > B$, तो $A$ और $B$ का मान ज्ञात करें ।"
     },
     {
       "id": "short_30",
@@ -971,8 +971,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Prove that $\\sqrt{\frac{1 + \\sin A}, {1 - \\sin A}} = \\sec A + \tan A$",
-      "prashna": "सिद्ध करें $\\sqrt{\frac{1 + \\sin A}, {1 - \\sin A}} = \\sec A + \tan A$"
+      "question": "Prove that $\\sqrt{\\frac{1 + \\sin A}{1 - \\sin A}} = \\sec A + \tan A$",
+      "prashna": "सिद्ध करें $\\sqrt{\\frac{1 + \\sin A}{1 - \\sin A}} = \\sec A + \tan A$"
     },
     {
       "id": "short_31",
@@ -1007,24 +1007,24 @@
       "type": "short_answer",
       "chapter": "8",
       "chapter_name": "Introduction to Trigonometry",
-      "question": "The value of $\frac{\\cos 48^\\circ}, {\\sin 42^\\circ}$ will be ______.",
-      "prashna": "$\frac{\\cos 48^\\circ}, {\\sin 42^\\circ}$ का मान ______ होगा।"
+      "question": "The value of $\\frac{\\cos 48^\\circ}{\\sin 42^\\circ}$ will be ______.",
+      "prashna": "$\\frac{\\cos 48^\\circ}{\\sin 42^\\circ}$ का मान ______ होगा।"
     },
     {
       "id": "short_3",
       "type": "short_answer",
       "chapter": "2",
       "chapter_name": "Polynomials",
-      "question": "If $\\alpha$, $\beta$ and $\\gamma$ are zeros of the polynomial $3x^3 - 5x^2 - 11x - 2$, then find the values of $\\alpha\beta\\gamma$, $\\alpha + \beta + \\gamma$ and $\\alpha\beta + \beta\\gamma + \\gamma\\alpha$.",
-      "prashna": "यदि बहुपद $3x^3 - 5x^2 - 11x - 2$ के शून्यक $\\alpha, \beta$ तथा $\\gamma$ हों, तो $\\alpha\beta\\gamma$, $\\alpha + \beta + \\gamma$ तथा $\\alpha\beta + \beta\\gamma + \\gamma\\alpha$ का मान ज्ञात करें।"
+      "question": "If $\\alpha$, $\\beta$ and $\\gamma$ are zeros of the polynomial $3x^3 - 5x^2 - 11x - 2$, then find the values of $\\alpha\\beta\\gamma$, $\\alpha + \\beta + \\gamma$ and $\\alpha\\beta + \\beta\\gamma + \\gamma\\alpha$.",
+      "prashna": "यदि बहुपद $3x^3 - 5x^2 - 11x - 2$ के शून्यक $\\alpha, \\beta$ तथा $\\gamma$ हों, तो $\\alpha\\beta\\gamma$, $\\alpha + \\beta + \\gamma$ तथा $\\alpha\\beta + \\beta\\gamma + \\gamma\\alpha$ का मान ज्ञात करें।"
     },
     {
       "id": "short_4",
       "type": "short_answer",
       "chapter": "3",
       "chapter_name": "Pair of Linear Equations in Two Variables",
-      "question": "Solve: $\frac{x}, {2} + \frac{2y}, {3} + 1 = 0$, $x - \frac{y}, {3} - 3 = 0$.",
-      "prashna": "हल करें: $\frac{x}, {2} + \frac{2y}, {3} + 1 = 0$, $x - \frac{y}, {3} - 3 = 0$."
+      "question": "Solve: $\\frac{x}{2} + \\frac{2y}{3} + 1 = 0$, $x - \\frac{y}{3} - 3 = 0$.",
+      "prashna": "हल करें: $\\frac{x}{2} + \\frac{2y}{3} + 1 = 0$, $x - \\frac{y}{3} - 3 = 0$."
     },
     {
       "id": "short_5",
@@ -1055,8 +1055,8 @@
       "type": "short_answer",
       "chapter": "6",
       "chapter_name": "Triangles",
-      "question": "$AD$ and $PM$ are medians of triangles $ABC$ and $PQR$ respectively, where $\triangle ABC \\sim \triangle PQR$. Prove that $\frac{AB}, {PQ} = \frac{AD}, {PM}$.",
-      "prashna": "$AD$ और $PM$ त्रिभुजों $ABC$ और $PQR$ की क्रमशः माध्यिकाएँ हैं, जबकि $\triangle ABC \\sim \triangle PQR$ है। साबित करें कि $\frac{AB}, {PQ} = \frac{AD}, {PM}$ है।"
+      "question": "$AD$ and $PM$ are medians of triangles $ABC$ and $PQR$ respectively, where $\triangle ABC \\sim \triangle PQR$. Prove that $\\frac{AB}{PQ} = \\frac{AD}{PM}$.",
+      "prashna": "$AD$ और $PM$ त्रिभुजों $ABC$ और $PQR$ की क्रमशः माध्यिकाएँ हैं, जबकि $\triangle ABC \\sim \triangle PQR$ है। साबित करें कि $\\frac{AB}{PQ} = \\frac{AD}{PM}$ है।"
     },
     {
       "id": "short_9",
@@ -1109,8 +1109,8 @@
       "chapter_name": "Real Numbers",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Without actually performing the long division. State whether rational number $\frac{2}, {25}$ has a terminating decimal expansion or non-terminating decimal expansion.",
-      "prashna": "बिना भाग दिये बतावें कि परिमेय संख्या $\frac{2}, {25}$ का दशमलव प्रसार सांत है या असांत?"
+      "question": "Without actually performing the long division. State whether rational number $\\frac{2}{25}$ has a terminating decimal expansion or non-terminating decimal expansion.",
+      "prashna": "बिना भाग दिये बतावें कि परिमेय संख्या $\\frac{2}{25}$ का दशमलव प्रसार सांत है या असांत?"
     },
     {
       "id": "short_3",
@@ -1119,8 +1119,8 @@
       "chapter_name": "Polynomials",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\\alpha$ and $\beta$ are zeros of polynomial $p(x) = x^2 + x + 1$, then find $\\alpha^2 + \beta^2$.",
-      "prashna": "यदि बहुपद $p(x) = x^2 + x + 1$ का शून्यक $\\alpha$ तथा $\beta$ है, तो $\\alpha^2 + \beta^2$ का मान ज्ञात करें।"
+      "question": "If $\\alpha$ and $\\beta$ are zeros of polynomial $p(x) = x^2 + x + 1$, then find $\\alpha^2 + \\beta^2$.",
+      "prashna": "यदि बहुपद $p(x) = x^2 + x + 1$ का शून्यक $\\alpha$ तथा $\\beta$ है, तो $\\alpha^2 + \\beta^2$ का मान ज्ञात करें।"
     },
     {
       "id": "short_4",
@@ -1220,7 +1220,7 @@
       "confidence": 0.95,
       "raw_choice": "",
       "question": "If $\tan A = 3/4$, find $\\sin A \\cdot \\cos A$.",
-      "prashna": "यदि $\tan A = \frac{3}, {4}$, तो $\\sin A \\cdot \\cos A$ ज्ञात करें।"
+      "prashna": "यदि $\tan A = \\frac{3}{4}$, तो $\\sin A \\cdot \\cos A$ ज्ञात करें।"
     },
     {
       "id": "short_14",
@@ -1229,8 +1229,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\\sin \theta + \\cos \theta = p$ and $\\sec \theta + \\csc \theta = q$, then prove that $p^2 - 1 = \frac{2p}, {q}$.",
-      "prashna": "यदि $\\sin \theta + \\cos \theta = p$ और $\\sec \theta + \\csc \theta = q$ तो सिद्ध करें $p^2 - 1 = \frac{2p}, {q}$"
+      "question": "If $\\sin \theta + \\cos \theta = p$ and $\\sec \theta + \\csc \theta = q$, then prove that $p^2 - 1 = \\frac{2p}{q}$.",
+      "prashna": "यदि $\\sin \theta + \\cos \theta = p$ और $\\sec \theta + \\csc \theta = q$ तो सिद्ध करें $p^2 - 1 = \\frac{2p}{q}$"
     },
     {
       "id": "short_15",
@@ -1329,8 +1329,8 @@
       "chapter_name": "Real Numbers",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Without actually performing the long division. State whether rational number $\frac{2}, {25}$ has a terminating decimal expansion or non-terminating decimal expansion.",
-      "prashna": "बिना भाग दिये बतावें कि परिमेय संख्या $\frac{2}, {25}$ का दशमलव प्रसार शांत है या अशांत?"
+      "question": "Without actually performing the long division. State whether rational number $\\frac{2}{25}$ has a terminating decimal expansion or non-terminating decimal expansion.",
+      "prashna": "बिना भाग दिये बतावें कि परिमेय संख्या $\\frac{2}{25}$ का दशमलव प्रसार शांत है या अशांत?"
     },
     {
       "id": "short_3",
@@ -1339,8 +1339,8 @@
       "chapter_name": "Polynomials",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\\alpha$ and $\beta$ are zeros of polynomial $p(x) = x^2 + x + 1$, then find $\\alpha^2 + \beta^2$.",
-      "prashna": "यदि बहुपद $p(x) = x^2 + x + 1$ का शून्यक $\\alpha$ तथा $\beta$ है, तो $\\alpha^2 + \beta^2$ का मान ज्ञात करें।"
+      "question": "If $\\alpha$ and $\\beta$ are zeros of polynomial $p(x) = x^2 + x + 1$, then find $\\alpha^2 + \\beta^2$.",
+      "prashna": "यदि बहुपद $p(x) = x^2 + x + 1$ का शून्यक $\\alpha$ तथा $\\beta$ है, तो $\\alpha^2 + \\beta^2$ का मान ज्ञात करें।"
     },
     {
       "id": "short_4",
@@ -1439,8 +1439,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\tan A = \frac{3}, {4}$, find $\\sin A \\cdot \\cos A$.",
-      "prashna": "यदि $\tan A = \frac{3}, {4}$, तो $\\sin A \\cdot \\cos A$ ज्ञात करें।"
+      "question": "If $\tan A = \\frac{3}{4}$, find $\\sin A \\cdot \\cos A$.",
+      "prashna": "यदि $\tan A = \\frac{3}{4}$, तो $\\sin A \\cdot \\cos A$ ज्ञात करें।"
     },
     {
       "id": "short_14",
@@ -1449,8 +1449,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\\sin\theta + \\cos\theta = p$ and $\\sec\theta + \\csc\theta = q$, then prove that $p^2 - 1 = \frac{2p}, {q}$.",
-      "prashna": "यदि $\\sin\theta + \\cos\theta = p$ और $\\sec\theta + \\csc\theta = q$ तो सिद्ध करें $p^2 - 1 = \frac{2p}, {q}$."
+      "question": "If $\\sin\theta + \\cos\theta = p$ and $\\sec\theta + \\csc\theta = q$, then prove that $p^2 - 1 = \\frac{2p}{q}$.",
+      "prashna": "यदि $\\sin\theta + \\cos\theta = p$ और $\\sec\theta + \\csc\theta = q$ तो सिद्ध करें $p^2 - 1 = \\frac{2p}{q}$."
     },
     {
       "id": "short_15",
@@ -1541,8 +1541,8 @@
       "chapter_name": "Real Numbers",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Convert $2.\\overline{47}$ in the form of $\frac{p}, {q}$.",
-      "prashna": "$2.\\overline{47}$ को $\frac{p}, {q}$ के रूप में बदलें।"
+      "question": "Convert $2.\\overline{47}$ in the form of $\\frac{p}{q}$.",
+      "prashna": "$2.\\overline{47}$ को $\\frac{p}{q}$ के रूप में बदलें।"
     },
     {
       "id": "short_2",
@@ -1611,8 +1611,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\tan \theta = \frac{4}, {3}$, then find the value of $\frac{3\\sin\theta + 2\\cos\theta}, {3\\sin\theta - 2\\cos\theta}$.",
-      "prashna": "यदि $\tan \theta = \frac{4}, {3}$, तो $\frac{3\\sin\theta + 2\\cos\theta}, {3\\sin\theta - 2\\cos\theta}$ का मान ज्ञात करें।"
+      "question": "If $\tan \theta = \\frac{4}{3}$, then find the value of $\\frac{3\\sin\theta + 2\\cos\theta}{3\\sin\theta - 2\\cos\theta}$.",
+      "prashna": "यदि $\tan \theta = \\frac{4}{3}$, तो $\\frac{3\\sin\theta + 2\\cos\theta}{3\\sin\theta - 2\\cos\theta}$ का मान ज्ञात करें।"
     },
     {
       "id": "short_9",
@@ -1651,8 +1651,8 @@
       "chapter_name": "Polynomials",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\\alpha, \beta$ are the zeros of the quadratic polynomial $4x^2 - 4x + 1$, then find the value of $\frac{\\alpha}, {\beta} + \frac{\beta}, {\\alpha}$.",
-      "prashna": "यदि $\\alpha, \beta$ किसी द्विघात बहुपद $4x^2 - 4x + 1$ के मूल हों, तो $\frac{\\alpha}, {\beta} + \frac{\beta}, {\\alpha}$ का मान ज्ञात करें।"
+      "question": "If $\\alpha, \\beta$ are the zeros of the quadratic polynomial $4x^2 - 4x + 1$, then find the value of $\\frac{\\alpha}{\\beta} + \\frac{\\beta}{\\alpha}$.",
+      "prashna": "यदि $\\alpha, \\beta$ किसी द्विघात बहुपद $4x^2 - 4x + 1$ के मूल हों, तो $\\frac{\\alpha}{\\beta} + \\frac{\\beta}{\\alpha}$ का मान ज्ञात करें।"
     },
     {
       "id": "short_13",
@@ -1671,8 +1671,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Prove that - $\frac{\\sec \theta + \tan \theta}, {\\sec \theta - \tan \theta} = \\left( \frac{1+\\sin \theta}, {\\cos \theta} \right)^2$",
-      "prashna": "सिद्ध करें कि - $\frac{\\sec \theta + \tan \theta}, {\\sec \theta - \tan \theta} = \\left( \frac{1+\\sin \theta}, {\\cos \theta} \right)^2$"
+      "question": "Prove that - $\\frac{\\sec \theta + \tan \theta}{\\sec \theta - \tan \theta} = \\left( \\frac{1+\\sin \theta}{\\cos \theta} \right)^2$",
+      "prashna": "सिद्ध करें कि - $\\frac{\\sec \theta + \tan \theta}{\\sec \theta - \tan \theta} = \\left( \\frac{1+\\sin \theta}{\\cos \theta} \right)^2$"
     },
     {
       "id": "short_15",
@@ -1711,8 +1711,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Evaluate the following - $\frac{5\\sin^2 30^\\circ + \\cos^2 45^\\circ + 4\tan^2 60^\\circ}, {2\\sin 30^\\circ \\cos 60^\\circ + \tan 45^\\circ}$",
-      "prashna": "निम्न का मान ज्ञात करें - $\frac{5\\sin^2 30^\\circ + \\cos^2 45^\\circ + 4\tan^2 60^\\circ}, {2\\sin 30^\\circ \\cos 60^\\circ + \tan 45^\\circ}$"
+      "question": "Evaluate the following - $\\frac{5\\sin^2 30^\\circ + \\cos^2 45^\\circ + 4\tan^2 60^\\circ}{2\\sin 30^\\circ \\cos 60^\\circ + \tan 45^\\circ}$",
+      "prashna": "निम्न का मान ज्ञात करें - $\\frac{5\\sin^2 30^\\circ + \\cos^2 45^\\circ + 4\tan^2 60^\\circ}{2\\sin 30^\\circ \\cos 60^\\circ + \tan 45^\\circ}$"
     },
     {
       "id": "short_19",
@@ -1791,8 +1791,8 @@
       "chapter_name": "Real Numbers",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Convert $2.\\overline{47}$ in the form of $\frac{p}, {q}$.",
-      "prashna": "$2.\\overline{47}$ को $\frac{p}, {q}$ के रूप में बदलें।"
+      "question": "Convert $2.\\overline{47}$ in the form of $\\frac{p}{q}$.",
+      "prashna": "$2.\\overline{47}$ को $\\frac{p}{q}$ के रूप में बदलें।"
     },
     {
       "id": "short_2",
@@ -1861,8 +1861,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\tan \theta = \frac{4}, {3}$, then find the value of $\frac{3\\sin \theta + 2\\cos \theta}, {3\\sin \theta - 2\\cos \theta}$.",
-      "prashna": "यदि $\tan \theta = \frac{4}, {3}$, तो $\frac{3\\sin \theta + 2\\cos \theta}, {3\\sin \theta - 2\\cos \theta}$ का मान ज्ञात करें।"
+      "question": "If $\tan \theta = \\frac{4}{3}$, then find the value of $\\frac{3\\sin \theta + 2\\cos \theta}{3\\sin \theta - 2\\cos \theta}$.",
+      "prashna": "यदि $\tan \theta = \\frac{4}{3}$, तो $\\frac{3\\sin \theta + 2\\cos \theta}{3\\sin \theta - 2\\cos \theta}$ का मान ज्ञात करें।"
     },
     {
       "id": "short_9",
@@ -1901,8 +1901,8 @@
       "chapter_name": "Polynomials",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\\alpha, \beta$ are the zeros of the quadratic polynomial $4x^2 - 4x + 1$, then find the value of $\frac{\\alpha}, {\beta} + \frac{\beta}, {\\alpha}$.",
-      "prashna": "यदि $\\alpha, \beta$ किसी द्विघात बहुपद $4x^2 - 4x + 1$ के मूल हों, तो $\frac{\\alpha}, {\beta} + \frac{\beta}, {\\alpha}$ का मान ज्ञात करें।"
+      "question": "If $\\alpha, \\beta$ are the zeros of the quadratic polynomial $4x^2 - 4x + 1$, then find the value of $\\frac{\\alpha}{\\beta} + \\frac{\\beta}{\\alpha}$.",
+      "prashna": "यदि $\\alpha, \\beta$ किसी द्विघात बहुपद $4x^2 - 4x + 1$ के मूल हों, तो $\\frac{\\alpha}{\\beta} + \\frac{\\beta}{\\alpha}$ का मान ज्ञात करें।"
     },
     {
       "id": "short_13",
@@ -1921,8 +1921,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Prove that - $\frac{\\sec \theta + \tan \theta}, {\\sec \theta - \tan \theta} = \\left(\frac{1 + \\sin \theta}, {\\cos \theta}\right)^2$",
-      "prashna": "सिद्ध करें कि - $\frac{\\sec \theta + \tan \theta}, {\\sec \theta - \tan \theta} = \\left(\frac{1 + \\sin \theta}, {\\cos \theta}\right)^2$"
+      "question": "Prove that - $\\frac{\\sec \theta + \tan \theta}{\\sec \theta - \tan \theta} = \\left(\\frac{1 + \\sin \theta}{\\cos \theta}\right)^2$",
+      "prashna": "सिद्ध करें कि - $\\frac{\\sec \theta + \tan \theta}{\\sec \theta - \tan \theta} = \\left(\\frac{1 + \\sin \theta}{\\cos \theta}\right)^2$"
     },
     {
       "id": "short_15",
@@ -1961,8 +1961,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Evaluate the following - $\frac{5\\sin^2 30^\\circ + \\cos^2 45^\\circ + 4\tan^2 60^\\circ}, {2\\sin 30^\\circ \\cos 60^\\circ + \tan 45^\\circ}$",
-      "prashna": "निम्न का मान ज्ञात करें - $\frac{5\\sin^2 30^\\circ + \\cos^2 45^\\circ + 4\tan^2 60^\\circ}, {2\\sin 30^\\circ \\cos 60^\\circ + \tan 45^\\circ}$"
+      "question": "Evaluate the following - $\\frac{5\\sin^2 30^\\circ + \\cos^2 45^\\circ + 4\tan^2 60^\\circ}{2\\sin 30^\\circ \\cos 60^\\circ + \tan 45^\\circ}$",
+      "prashna": "निम्न का मान ज्ञात करें - $\\frac{5\\sin^2 30^\\circ + \\cos^2 45^\\circ + 4\tan^2 60^\\circ}{2\\sin 30^\\circ \\cos 60^\\circ + \tan 45^\\circ}$"
     },
     {
       "id": "short_19",
@@ -2089,8 +2089,8 @@
       "chapter_name": "Circles",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "A circle is touching the side BC of $\triangle ABC$ at P and touching AB and AC produced at Q and R respectively. Prove that $AQ = \frac{1}, {2}(\text{Perimeter of } \triangle ABC)$.",
-      "prashna": "एक वृत्त $\triangle ABC$ की भुजा BC को P बिन्दु पर स्पर्श करता है तथा भुजाओं AB और AC को बढ़ाने पर क्रमशः Q तथा R पर स्पर्श करता है। सिद्ध कीजिए कि $AQ = \frac{1}, {2}(\triangle ABC \text{ का परिमाप})$।"
+      "question": "A circle is touching the side BC of $\triangle ABC$ at P and touching AB and AC produced at Q and R respectively. Prove that $AQ = \\frac{1}{2}(\text{Perimeter of } \triangle ABC)$.",
+      "prashna": "एक वृत्त $\triangle ABC$ की भुजा BC को P बिन्दु पर स्पर्श करता है तथा भुजाओं AB और AC को बढ़ाने पर क्रमशः Q तथा R पर स्पर्श करता है। सिद्ध कीजिए कि $AQ = \\frac{1}{2}(\triangle ABC \text{ का परिमाप})$।"
     },
     {
       "id": "short_5",
@@ -2159,8 +2159,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $7 \tan \theta = 4$, then find the value of $\frac{7 \\sin \theta - 3 \\cos \theta}, {7 \\sin \theta + 3 \\cos \theta}$.",
-      "prashna": "यदि $7 \tan \theta = 4$ हो, तो $\frac{7 \\sin \theta - 3 \\cos \theta}, {7 \\sin \theta + 3 \\cos \theta}$ का मान ज्ञात करें।"
+      "question": "If $7 \tan \theta = 4$, then find the value of $\\frac{7 \\sin \theta - 3 \\cos \theta}{7 \\sin \theta + 3 \\cos \theta}$.",
+      "prashna": "यदि $7 \tan \theta = 4$ हो, तो $\\frac{7 \\sin \theta - 3 \\cos \theta}{7 \\sin \theta + 3 \\cos \theta}$ का मान ज्ञात करें।"
     },
     {
       "id": "short_12",
@@ -2199,8 +2199,8 @@
       "chapter_name": "Polynomials",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\\alpha, \beta$ are the zeroes of the quadratic polynomial $ax^2 + bx + c$, then find the value of $\\alpha^2 + \beta^2$.",
-      "prashna": "यदि $\\alpha, \beta$ किसी द्विघात बहुपद $ax^2 + bx + c$ के शून्यक हों तो $\\alpha^2 + \beta^2$ का मान ज्ञात करें।"
+      "question": "If $\\alpha, \\beta$ are the zeroes of the quadratic polynomial $ax^2 + bx + c$, then find the value of $\\alpha^2 + \\beta^2$.",
+      "prashna": "यदि $\\alpha, \\beta$ किसी द्विघात बहुपद $ax^2 + bx + c$ के शून्यक हों तो $\\alpha^2 + \\beta^2$ का मान ज्ञात करें।"
     },
     {
       "id": "short_16",
@@ -2229,8 +2229,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Evaluate the following: $\frac{\tan^2 60^\\circ + 4 \\sin^2 45^\\circ + 3 \\sec^2 30^\\circ + 5 \\cos^2 90^\\circ}, {\\csc 30^\\circ + \\sec 60^\\circ - \\cot^2 30^\\circ}$",
-      "prashna": "निम्न का मान ज्ञात करें: $\frac{\tan^2 60^\\circ + 4 \\sin^2 45^\\circ + 3 \\sec^2 30^\\circ + 5 \\cos^2 90^\\circ}, {\\csc 30^\\circ + \\sec 60^\\circ - \\cot^2 30^\\circ}$"
+      "question": "Evaluate the following: $\\frac{\tan^2 60^\\circ + 4 \\sin^2 45^\\circ + 3 \\sec^2 30^\\circ + 5 \\cos^2 90^\\circ}{\\csc 30^\\circ + \\sec 60^\\circ - \\cot^2 30^\\circ}$",
+      "prashna": "निम्न का मान ज्ञात करें: $\\frac{\tan^2 60^\\circ + 4 \\sin^2 45^\\circ + 3 \\sec^2 30^\\circ + 5 \\cos^2 90^\\circ}{\\csc 30^\\circ + \\sec 60^\\circ - \\cot^2 30^\\circ}$"
     },
     {
       "id": "short_19",
@@ -2249,8 +2249,8 @@
       "chapter_name": "Real Numbers",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Convert $0.\\overline{16}$ in the form of $\frac{p}, {q}$.",
-      "prashna": "$0.\\overline{16}$ को $\frac{p}, {q}$ के रूप में बदलें।"
+      "question": "Convert $0.\\overline{16}$ in the form of $\\frac{p}{q}$.",
+      "prashna": "$0.\\overline{16}$ को $\\frac{p}{q}$ के रूप में बदलें।"
     },
     {
       "id": "short_21",
@@ -2279,8 +2279,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Prove that $\frac{\tan A + \tan B}, {\\cot A + \\cot B} = \tan A \tan B$.",
-      "prashna": "सिद्ध करें कि $\frac{\tan A + \tan B}, {\\cot A + \\cot B} = \tan A \tan B$।"
+      "question": "Prove that $\\frac{\tan A + \tan B}{\\cot A + \\cot B} = \tan A \tan B$.",
+      "prashna": "सिद्ध करें कि $\\frac{\tan A + \tan B}{\\cot A + \\cot B} = \tan A \tan B$।"
     },
     {
       "id": "short_24",
@@ -2415,8 +2415,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\tan \theta = \frac{a}, {b}$, then find the value of $\frac{a\\sin \theta - b\\cos \theta}, {a\\sin \theta + b\\cos \theta}$.",
-      "prashna": "यदि $\tan \theta = \frac{a}, {b}$ हो, तो $\frac{a\\sin \theta - b\\cos \theta}, {a\\sin \theta + b\\cos \theta}$ का मान ज्ञात करें।"
+      "question": "If $\tan \theta = \\frac{a}{b}$, then find the value of $\\frac{a\\sin \theta - b\\cos \theta}{a\\sin \theta + b\\cos \theta}$.",
+      "prashna": "यदि $\tan \theta = \\frac{a}{b}$ हो, तो $\\frac{a\\sin \theta - b\\cos \theta}{a\\sin \theta + b\\cos \theta}$ का मान ज्ञात करें।"
     },
     {
       "id": "short_9",
@@ -2521,8 +2521,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Prove that $\frac{1 - \\sin \theta}, {1 + \\sin \theta} = (\\sec \theta - \tan \theta)^2$.",
-      "prashna": "सिद्ध करें कि $\frac{1 - \\sin \theta}, {1 + \\sin \theta} = (\\sec \theta - \tan \theta)^2$।"
+      "question": "Prove that $\\frac{1 - \\sin \theta}{1 + \\sin \theta} = (\\sec \theta - \tan \theta)^2$.",
+      "prashna": "सिद्ध करें कि $\\frac{1 - \\sin \theta}{1 + \\sin \theta} = (\\sec \theta - \tan \theta)^2$।"
     },
     {
       "id": "short_14",
@@ -2551,8 +2551,8 @@
       "chapter_name": "Real Numbers",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Convert $1.\bar{8}$ in the form of $\frac{p}, {q}$.",
-      "prashna": "$1.\bar{8}$ को $\frac{p}, {q}$ के रूप में बदलें।"
+      "question": "Convert $1.\\bar{8}$ in the form of $\\frac{p}{q}$.",
+      "prashna": "$1.\\bar{8}$ को $\\frac{p}{q}$ के रूप में बदलें।"
     },
     {
       "id": "short_17",
@@ -2571,8 +2571,8 @@
       "chapter_name": "Arithmetic Progressions",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If the seventh term of an A.P. is $\frac{1}, {9}$ and its ninth term is $\frac{1}, {7}$, find its 63rd term.",
-      "prashna": "यदि समांतर श्रेणी का 7 वाँ पद $\frac{1}, {9}$ तथा 9 वाँ पद $\frac{1}, {7}$ है, तो 63 वाँ पद का मान निकालें।"
+      "question": "If the seventh term of an A.P. is $\\frac{1}{9}$ and its ninth term is $\\frac{1}{7}$, find its 63rd term.",
+      "prashna": "यदि समांतर श्रेणी का 7 वाँ पद $\\frac{1}{9}$ तथा 9 वाँ पद $\\frac{1}{7}$ है, तो 63 वाँ पद का मान निकालें।"
     },
     {
       "id": "short_19",
@@ -2581,8 +2581,8 @@
       "chapter_name": "Quadratic Equations",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "The difference of two numbers is 4 and the difference of their reciprocals is $\frac{4}, {21}$. Find the numbers.",
-      "prashna": "दो संख्याओं का अंतर 4 है तथा उनके व्युत्क्रमों का अंतर $\frac{4}, {21}$ है। संख्याएँ ज्ञात करें।"
+      "question": "The difference of two numbers is 4 and the difference of their reciprocals is $\\frac{4}{21}$. Find the numbers.",
+      "prashna": "दो संख्याओं का अंतर 4 है तथा उनके व्युत्क्रमों का अंतर $\\frac{4}{21}$ है। संख्याएँ ज्ञात करें।"
     },
     {
       "id": "short_20",
@@ -2591,8 +2591,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Evaluate the following: $\frac{5\\cos^2 60^{\\circ} + 4\\sec^2 30^{\\circ} - 3\tan^2 45^{\\circ}}, {\\sin^2 30^{\\circ} + \\cos^2 30^{\\circ}}$",
-      "prashna": "निम्न का मान ज्ञात करें : $\frac{5\\cos^2 60^{\\circ} + 4\\sec^2 30^{\\circ} - 3\tan^2 45^{\\circ}}, {\\sin^2 30^{\\circ} + \\cos^2 30^{\\circ}}$"
+      "question": "Evaluate the following: $\\frac{5\\cos^2 60^{\\circ} + 4\\sec^2 30^{\\circ} - 3\tan^2 45^{\\circ}}, {\\sin^2 30^{\\circ} + \\cos^2 30^{\\circ}}$",
+      "prashna": "निम्न का मान ज्ञात करें : $\\frac{5\\cos^2 60^{\\circ} + 4\\sec^2 30^{\\circ} - 3\tan^2 45^{\\circ}}, {\\sin^2 30^{\\circ} + \\cos^2 30^{\\circ}}$"
     },
     {
       "id": "short_21",
@@ -2747,8 +2747,8 @@
       "chapter_name": "Real Numbers",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Convert $0.\\overline{6}$ in the form of $\frac{p}, {q}$.",
-      "prashna": "$0.\\overline{6}$ को $\frac{p}, {q}$ के रूप में बदलें।"
+      "question": "Convert $0.\\overline{6}$ in the form of $\\frac{p}{q}$.",
+      "prashna": "$0.\\overline{6}$ को $\\frac{p}{q}$ के रूप में बदलें।"
     },
     {
       "id": "short_3",
@@ -2837,8 +2837,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\tan\theta = \frac{x}, {y}$, then find the value of $x \\sin\theta + y \\cos\theta$.",
-      "prashna": "यदि $\tan\theta = \frac{x}, {y}$, तो $x \\sin\theta + y \\cos\theta$ का मान बताएँ।"
+      "question": "If $\tan\theta = \\frac{x}{y}$, then find the value of $x \\sin\theta + y \\cos\theta$.",
+      "prashna": "यदि $\tan\theta = \\frac{x}{y}$, तो $x \\sin\theta + y \\cos\theta$ का मान बताएँ।"
     },
     {
       "id": "short_12",
@@ -2847,8 +2847,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Evaluate : $\frac{\\sin 30^\\circ + \tan 45^\\circ - \\csc 60^\\circ}, {\\sec 30^\\circ + \\cos 60^\\circ + \\cot 45^\\circ}$",
-      "prashna": "मान निकालें : $\frac{\\sin 30^\\circ + \tan 45^\\circ - \\csc 60^\\circ}, {\\sec 30^\\circ + \\cos 60^\\circ + \\cot 45^\\circ}$"
+      "question": "Evaluate : $\\frac{\\sin 30^\\circ + \tan 45^\\circ - \\csc 60^\\circ}{\\sec 30^\\circ + \\cos 60^\\circ + \\cot 45^\\circ}$",
+      "prashna": "मान निकालें : $\\frac{\\sin 30^\\circ + \tan 45^\\circ - \\csc 60^\\circ}{\\sec 30^\\circ + \\cos 60^\\circ + \\cot 45^\\circ}$"
     },
     {
       "id": "short_13",
@@ -2917,8 +2917,8 @@
       "chapter_name": "Polynomials",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\\alpha$ and $\beta$ are zeros of the quadratic polynomial $2x^2 + 7x + 5$, then find the value of $\\alpha + \beta + \\alpha\beta$.",
-      "prashna": "यदि $\\alpha$ और $\beta$ द्विघात बहुपद $2x^2 + 7x + 5$ के शून्यक हों, तो $\\alpha + \beta + \\alpha\beta$ का मान निकालें।"
+      "question": "If $\\alpha$ and $\\beta$ are zeros of the quadratic polynomial $2x^2 + 7x + 5$, then find the value of $\\alpha + \\beta + \\alpha\\beta$.",
+      "prashna": "यदि $\\alpha$ और $\\beta$ द्विघात बहुपद $2x^2 + 7x + 5$ के शून्यक हों, तो $\\alpha + \\beta + \\alpha\\beta$ का मान निकालें।"
     },
     {
       "id": "short_20",
@@ -3075,8 +3075,8 @@
       "chapter_name": "Quadratic Equations",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If one root of the quadratic equation $7y^2 + ky - 3 = 0$ is $\frac{2}, {3}$, then find the value of $k$.",
-      "prashna": "यदि द्विघात समीकरण $7y^2 + ky - 3 = 0$ का एक हल $\frac{2}, {3}$ है, तो $k$ का मान ज्ञात करें।"
+      "question": "If one root of the quadratic equation $7y^2 + ky - 3 = 0$ is $\\frac{2}{3}$, then find the value of $k$.",
+      "prashna": "यदि द्विघात समीकरण $7y^2 + ky - 3 = 0$ का एक हल $\\frac{2}{3}$ है, तो $k$ का मान ज्ञात करें।"
     },
     {
       "id": "short_5",
@@ -3245,8 +3245,8 @@
       "chapter_name": "Coordinate Geometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If points $(a, 0), (0, b)$ and $(1, 1)$ are collinear, then prove that $\frac{1}, {a} + \frac{1}, {b} = 1$.",
-      "prashna": "यदि बिन्दु $(a, 0), (0, b)$ तथा $(1, 1)$ संरेखी हों, तो सिद्ध करें कि $\frac{1}, {a} + \frac{1}, {b} = 1$।"
+      "question": "If points $(a, 0), (0, b)$ and $(1, 1)$ are collinear, then prove that $\\frac{1}{a} + \\frac{1}{b} = 1$.",
+      "prashna": "यदि बिन्दु $(a, 0), (0, b)$ तथा $(1, 1)$ संरेखी हों, तो सिद्ध करें कि $\\frac{1}{a} + \\frac{1}{b} = 1$।"
     },
     {
       "id": "short_22",
@@ -3255,8 +3255,8 @@
       "chapter_name": "Real Numbers",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Express $0.1\\overline{2}$ in the form $\frac{p}, {q}$.",
-      "prashna": "$0.1\\overline{2}$ को $\frac{p}, {q}$ के रूप में बदलें।"
+      "question": "Express $0.1\\overline{2}$ in the form $\\frac{p}{q}$.",
+      "prashna": "$0.1\\overline{2}$ को $\\frac{p}{q}$ के रूप में बदलें।"
     },
     {
       "id": "short_23",
@@ -3275,8 +3275,8 @@
       "chapter_name": "Polynomials",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\\alpha$ and $\beta$ are the zeroes of the polynomial $f(x) = x^2 - 2x - 8$, then find the value of $\\alpha + \beta - \\alpha\beta$.",
-      "prashna": "यदि $\\alpha$ तथा $\beta$ बहुपद $f(x) = x^2 - 2x - 8$ के शून्यक हों, तो $\\alpha + \beta - \\alpha\beta$ का मान ज्ञात करें।"
+      "question": "If $\\alpha$ and $\\beta$ are the zeroes of the polynomial $f(x) = x^2 - 2x - 8$, then find the value of $\\alpha + \\beta - \\alpha\\beta$.",
+      "prashna": "यदि $\\alpha$ तथा $\\beta$ बहुपद $f(x) = x^2 - 2x - 8$ के शून्यक हों, तो $\\alpha + \\beta - \\alpha\\beta$ का मान ज्ञात करें।"
     },
     {
       "id": "short_25",
@@ -3285,8 +3285,8 @@
       "chapter_name": "Quadratic Equations",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "The sum of two natural numbers is $8$ and the sum of their reciprocals is $\frac{8}, {15}$, find the numbers.",
-      "prashna": "दो प्राकृत संख्याओं का योगफल $8$ है और उनके व्युत्क्रमों का योगफल $\frac{8}, {15}$ है, तो संख्या ज्ञात करें।"
+      "question": "The sum of two natural numbers is $8$ and the sum of their reciprocals is $\\frac{8}{15}$, find the numbers.",
+      "prashna": "दो प्राकृत संख्याओं का योगफल $8$ है और उनके व्युत्क्रमों का योगफल $\\frac{8}{15}$ है, तो संख्या ज्ञात करें।"
     },
     {
       "id": "short_26",
@@ -3305,8 +3305,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Prove that $\\sqrt{\frac{1 - \\cos \\alpha}, {1 + \\cos \\alpha}} = \text{cosec} \\alpha - \\cot \\alpha$.",
-      "prashna": "सिद्ध करें कि $\\sqrt{\frac{1 - \\cos \\alpha}, {1 + \\cos \\alpha}} = \text{cosec} \\alpha - \\cot \\alpha$."
+      "question": "Prove that $\\sqrt{\\frac{1 - \\cos \\alpha}{1 + \\cos \\alpha}} = \text{cosec} \\alpha - \\cot \\alpha$.",
+      "prashna": "सिद्ध करें कि $\\sqrt{\\frac{1 - \\cos \\alpha}{1 + \\cos \\alpha}} = \text{cosec} \\alpha - \\cot \\alpha$."
     },
     {
       "id": "short_28",
@@ -3315,8 +3315,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\\sec \theta = \frac{13}, {12}$, then find the value of $\\cos \theta + \tan \theta$.",
-      "prashna": "यदि $\\sec \theta = \frac{13}, {12}$ तो $\\cos \theta + \tan \theta$ का मान ज्ञात करें।"
+      "question": "If $\\sec \theta = \\frac{13}{12}$, then find the value of $\\cos \theta + \tan \theta$.",
+      "prashna": "यदि $\\sec \theta = \\frac{13}{12}$ तो $\\cos \theta + \tan \theta$ का मान ज्ञात करें।"
     },
     {
       "id": "short_29",
@@ -3325,8 +3325,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\tan A = \\sqrt{3}$, then find the value of $\frac{1 - \\cos^2 A}, {3 - \\sin^2 A}$.",
-      "prashna": "यदि $\tan A = \\sqrt{3}$ हो, तो $\frac{1 - \\cos^2 A}, {3 - \\sin^2 A}$ का मान ज्ञात करें।"
+      "question": "If $\tan A = \\sqrt{3}$, then find the value of $\\frac{1 - \\cos^2 A}{3 - \\sin^2 A}$.",
+      "prashna": "यदि $\tan A = \\sqrt{3}$ हो, तो $\\frac{1 - \\cos^2 A}{3 - \\sin^2 A}$ का मान ज्ञात करें।"
     },
     {
       "id": "short_30",
@@ -3367,8 +3367,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Prove that $(\frac{1 + \tan A}, {1 + \\cot A})^2 = \tan^2 A$.",
-      "prashna": "सिद्ध करें कि $(\frac{1 + \tan A}, {1 + \\cot A})^2 = \tan^2 A$।"
+      "question": "Prove that $(\\frac{1 + \tan A}{1 + \\cot A})^2 = \tan^2 A$.",
+      "prashna": "सिद्ध करें कि $(\\frac{1 + \tan A}{1 + \\cot A})^2 = \tan^2 A$।"
     },
     {
       "id": "short_4",
@@ -3387,8 +3387,8 @@
       "chapter_name": "Quadratic Equations",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If the sum of a number and its reciprocal is $\frac{10}, {3}$, then find the number.",
-      "prashna": "यदि किसी संख्या और उसके व्युत्क्रम का योग $\frac{10}, {3}$ है, तो संख्या ज्ञात करें।"
+      "question": "If the sum of a number and its reciprocal is $\\frac{10}{3}$, then find the number.",
+      "prashna": "यदि किसी संख्या और उसके व्युत्क्रम का योग $\\frac{10}{3}$ है, तो संख्या ज्ञात करें।"
     },
     {
       "id": "short_6",
@@ -3427,8 +3427,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Prove that $\frac{1 + \\cos \theta}, {\\sin \theta} + \frac{\\sin \theta}, {1 + \\cos \theta} = 2\text{cosec }\theta$.",
-      "prashna": "सिद्ध करें कि $\frac{1 + \\cos \theta}, {\\sin \theta} + \frac{\\sin \theta}, {1 + \\cos \theta} = 2\text{cosec }\theta$।"
+      "question": "Prove that $\\frac{1 + \\cos \theta}{\\sin \theta} + \\frac{\\sin \theta}{1 + \\cos \theta} = 2\text{cosec }\theta$.",
+      "prashna": "सिद्ध करें कि $\\frac{1 + \\cos \theta}{\\sin \theta} + \\frac{\\sin \theta}{1 + \\cos \theta} = 2\text{cosec }\theta$।"
     },
     {
       "id": "short_10",
@@ -3487,8 +3487,8 @@
       "chapter_name": "Real Numbers",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Express $1.\bar{8}$ as a fraction in simplest form.",
-      "prashna": "$1.\bar{8}$ को भिन्न के सरलतम रूप में बदलें।"
+      "question": "Express $1.\\bar{8}$ as a fraction in simplest form.",
+      "prashna": "$1.\\bar{8}$ को भिन्न के सरलतम रूप में बदलें।"
     },
     {
       "id": "short_4",
@@ -3537,8 +3537,8 @@
       "chapter_name": "Polynomials",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\\alpha, \beta$ are the zeroes of polynomial $p(x) = 2x^2 - 11x + 15$ then find the value of $\frac{1}, {\\alpha} + \frac{1}, {\beta}$.",
-      "prashna": "यदि $\\alpha, \beta$ बहुपद $p(x) = 2x^2 - 11x + 15$ के शून्यक हैं तो $\frac{1}, {\\alpha} + \frac{1}, {\beta}$ का मान ज्ञात करें।"
+      "question": "If $\\alpha, \\beta$ are the zeroes of polynomial $p(x) = 2x^2 - 11x + 15$ then find the value of $\\frac{1}{\\alpha} + \\frac{1}{\\beta}$.",
+      "prashna": "यदि $\\alpha, \\beta$ बहुपद $p(x) = 2x^2 - 11x + 15$ के शून्यक हैं तो $\\frac{1}{\\alpha} + \\frac{1}{\\beta}$ का मान ज्ञात करें।"
     },
     {
       "id": "short_9",
@@ -3607,8 +3607,8 @@
       "chapter_name": "Triangles",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Prove that in an equilateral triangle of side $a$, area of triangle is $\frac{\\sqrt{3}}, {4}a^2$.",
-      "prashna": "भुजा $a$ वाले समबाहु त्रिभुज में सिद्ध करें कि त्रिभुज का क्षेत्रफल $\frac{\\sqrt{3}}, {4}a^2$ है।"
+      "question": "Prove that in an equilateral triangle of side $a$, area of triangle is $\\frac{\\sqrt{3}}, {4}a^2$.",
+      "prashna": "भुजा $a$ वाले समबाहु त्रिभुज में सिद्ध करें कि त्रिभुज का क्षेत्रफल $\\frac{\\sqrt{3}}, {4}a^2$ है।"
     },
     {
       "id": "short_16",
@@ -3617,8 +3617,8 @@
       "chapter_name": "Triangles",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If in a triangle $ABC, D$ is a point on side $BC$ such that $\\angle ADC = \\angle BAC$ then prove that $\frac{CA}, {CD} = \frac{CB}, {CA}$.",
-      "prashna": "यदि किसी त्रिभुज $ABC$ की भुजा $BC$ पर $D$ एक ऐसा बिन्दु है कि $\\angle ADC = \\angle BAC$ तो सिद्ध करें कि $\frac{CA}, {CD} = \frac{CB}, {CA}$।"
+      "question": "If in a triangle $ABC, D$ is a point on side $BC$ such that $\\angle ADC = \\angle BAC$ then prove that $\\frac{CA}{CD} = \\frac{CB}{CA}$.",
+      "prashna": "यदि किसी त्रिभुज $ABC$ की भुजा $BC$ पर $D$ एक ऐसा बिन्दु है कि $\\angle ADC = \\angle BAC$ तो सिद्ध करें कि $\\frac{CA}{CD} = \\frac{CB}{CA}$।"
     },
     {
       "id": "short_17",
@@ -3697,8 +3697,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Find the value of $\frac{5\\cos^2 60^\\circ + 4\\sec^2 30^\\circ - \tan^2 45^\\circ}, {\\sin^2 30^\\circ + \\cos^2 30^\\circ}$.",
-      "prashna": "$\frac{5\\cos^2 60^\\circ + 4\\sec^2 30^\\circ - \tan^2 45^\\circ}, {\\sin^2 30^\\circ + \\cos^2 30^\\circ}$ का मान निकालें।"
+      "question": "Find the value of $\\frac{5\\cos^2 60^\\circ + 4\\sec^2 30^\\circ - \tan^2 45^\\circ}{\\sin^2 30^\\circ + \\cos^2 30^\\circ}$.",
+      "prashna": "$\\frac{5\\cos^2 60^\\circ + 4\\sec^2 30^\\circ - \tan^2 45^\\circ}{\\sin^2 30^\\circ + \\cos^2 30^\\circ}$ का मान निकालें।"
     },
     {
       "id": "short_25",
@@ -3829,8 +3829,8 @@
       "chapter_name": "Pair of Linear Equations in Two Variables",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "By comparing the ratios $\frac{a_1}, {a_2}$, $\frac{b_1}, {b_2}$ and $\frac{c_1}, {c_2}$, find out that the following pair $3x + 12y = 5, 2x + 8y = 7$ is inconsistent.",
-      "prashna": "अनुपातों $\frac{a_1}, {a_2}, \frac{b_1}, {b_2}$ एवं $\frac{c_1}, {c_2}$ की तुलना कर ज्ञात करें कि निम्नांकित युग्म $3x + 12y = 5, 2x + 8y = 7$ असंगत है।"
+      "question": "By comparing the ratios $\\frac{a_1}{a_2}$, $\\frac{b_1}{b_2}$ and $\\frac{c_1}{c_2}$, find out that the following pair $3x + 12y = 5, 2x + 8y = 7$ is inconsistent.",
+      "prashna": "अनुपातों $\\frac{a_1}{a_2}, \\frac{b_1}{b_2}$ एवं $\\frac{c_1}{c_2}$ की तुलना कर ज्ञात करें कि निम्नांकित युग्म $3x + 12y = 5, 2x + 8y = 7$ असंगत है।"
     },
     {
       "id": "short_8",
@@ -3999,8 +3999,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Prove that $\frac{2\tan 30^\\circ}, {1 - \tan^2 30^\\circ} = \\sqrt{3}$.",
-      "prashna": "सिद्ध करें $\frac{2\tan 30^\\circ}, {1 - \tan^2 30^\\circ} = \\sqrt{3}$।"
+      "question": "Prove that $\\frac{2\tan 30^\\circ}{1 - \tan^2 30^\\circ} = \\sqrt{3}$.",
+      "prashna": "सिद्ध करें $\\frac{2\tan 30^\\circ}{1 - \tan^2 30^\\circ} = \\sqrt{3}$।"
     },
     {
       "id": "short_25",
@@ -4181,8 +4181,8 @@
       "chapter_name": "Quadratic Equations",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Find the roots of the equation $\frac{1}, {x} - \frac{1}, {x-2} = 3, x \neq 0, 2$.",
-      "prashna": "समीकरण $\frac{1}, {x} - \frac{1}, {x-2} = 3, x \neq 0, 2$ के मूलों को ज्ञात करें।"
+      "question": "Find the roots of the equation $\\frac{1}{x} - \\frac{1}{x-2} = 3, x \neq 0, 2$.",
+      "prashna": "समीकरण $\\frac{1}{x} - \\frac{1}{x-2} = 3, x \neq 0, 2$ के मूलों को ज्ञात करें।"
     },
     {
       "id": "short_7",
@@ -4231,8 +4231,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Evaluate :\n$\frac{\\sec(90^\\circ - \theta) \\csc \theta - \tan(90^\\circ - \theta) \\ cot \theta + \\cos^2 25^\\circ + \\cos^2 65^\\circ}, {3 \tan 27^\\circ \tan 63^\\circ}$",
-      "prashna": "मान निकालें :\n$\frac{\\sec(90^\\circ - \theta) \\csc \theta - \tan(90^\\circ - \theta) \\cot \theta + \\cos^2 25^\\circ + \\cos^2 65^\\circ}, {3 \tan 27^\\circ \tan 63^\\circ}$"
+      "question": "Evaluate :\n$\\frac{\\sec(90^\\circ - \theta) \\csc \theta - \tan(90^\\circ - \theta) \\ cot \theta + \\cos^2 25^\\circ + \\cos^2 65^\\circ}{3 \tan 27^\\circ \tan 63^\\circ}$",
+      "prashna": "मान निकालें :\n$\\frac{\\sec(90^\\circ - \theta) \\csc \theta - \tan(90^\\circ - \theta) \\cot \theta + \\cos^2 25^\\circ + \\cos^2 65^\\circ}{3 \tan 27^\\circ \tan 63^\\circ}$"
     },
     {
       "id": "short_12",
@@ -4241,8 +4241,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Prove that $\frac{\\sec \theta + \tan \theta}, {\\sec \theta - \tan \theta} = \\left(\frac{1 + \\sin \theta}, {\\cos \theta}\right)^2$.",
-      "prashna": "सिद्ध करें कि $\frac{\\sec \theta + \tan \theta}, {\\sec \theta - \tan \theta} = \\left(\frac{1 + \\sin \theta}, {\\cos \theta}\right)^2$."
+      "question": "Prove that $\\frac{\\sec \theta + \tan \theta}{\\sec \theta - \tan \theta} = \\left(\\frac{1 + \\sin \theta}{\\cos \theta}\right)^2$.",
+      "prashna": "सिद्ध करें कि $\\frac{\\sec \theta + \tan \theta}{\\sec \theta - \tan \theta} = \\left(\\frac{1 + \\sin \theta}{\\cos \theta}\right)^2$."
     },
     {
       "id": "short_13",
@@ -4331,8 +4331,8 @@
       "chapter_name": "Triangles",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "In triangle PQR, two points S and T are on sides PQ and PR such that $\frac{PS}, {SQ} = \frac{PT}, {TR}$ and $\\angle PST = \\angle PRQ$ then prove that $\\Delta PQR$ is an isosceles triangle.",
-      "prashna": "किसी त्रिभुज PQR में दो बिन्दु S तथा T भुजाओं PQ तथा PR पर इस प्रकार हैं कि $\frac{PS}, {SQ} = \frac{PT}, {TR}$ तथा $\\angle PST = \\angle PRQ$ तो सिद्ध करें कि $\\Delta PQR$ एक समद्विबाहु त्रिभुज है।"
+      "question": "In triangle PQR, two points S and T are on sides PQ and PR such that $\\frac{PS}{SQ} = \\frac{PT}{TR}$ and $\\angle PST = \\angle PRQ$ then prove that $\\Delta PQR$ is an isosceles triangle.",
+      "prashna": "किसी त्रिभुज PQR में दो बिन्दु S तथा T भुजाओं PQ तथा PR पर इस प्रकार हैं कि $\\frac{PS}{SQ} = \\frac{PT}{TR}$ तथा $\\angle PST = \\angle PRQ$ तो सिद्ध करें कि $\\Delta PQR$ एक समद्विबाहु त्रिभुज है।"
     },
     {
       "id": "short_22",
@@ -4351,8 +4351,8 @@
       "chapter_name": "Pair of Linear Equations in Two Variables",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "On adding 1 to the numerator of a fraction it becomes $\frac{1}, {2}$ and on adding 1 to the denominator it becomes $\frac{1}, {3}$. Write the equation for this statement.",
-      "prashna": "किसी भिन्न के अंश के साथ 1 जोड़ने पर वह $\frac{1}, {2}$ बन जाता है और हर के साथ 1 जोड़ने पर वह $\frac{1}, {3}$ बन जाता है। इस कथन का समीकरण लिखें।"
+      "question": "On adding 1 to the numerator of a fraction it becomes $\\frac{1}{2}$ and on adding 1 to the denominator it becomes $\\frac{1}{3}$. Write the equation for this statement.",
+      "prashna": "किसी भिन्न के अंश के साथ 1 जोड़ने पर वह $\\frac{1}{2}$ बन जाता है और हर के साथ 1 जोड़ने पर वह $\\frac{1}{3}$ बन जाता है। इस कथन का समीकरण लिखें।"
     },
     {
       "id": "short_24",
@@ -4403,8 +4403,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\tan \theta = \frac{5}, {12}$ then find the value of $\\sin \theta + \\cos \theta$.",
-      "prashna": "यदि $\tan \theta = \frac{5}, {12}$ हो तो $\\sin \theta + \\cos \theta$ का मान ज्ञात करें।"
+      "question": "If $\tan \theta = \\frac{5}{12}$ then find the value of $\\sin \theta + \\cos \theta$.",
+      "prashna": "यदि $\tan \theta = \\frac{5}{12}$ हो तो $\\sin \theta + \\cos \theta$ का मान ज्ञात करें।"
     },
     {
       "id": "short_5",
@@ -4423,8 +4423,8 @@
       "chapter_name": "Pair of Linear Equations in Two Variables",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "The sum of two numbers is 50 and one number is $\frac{7}, {3}$ times of the other; then find the numbers.",
-      "prashna": "दो संख्याओं का योगफल 50 है एवं उसमें से एक संख्या दूसरी की $\frac{7}, {3}$ गुनी है; तो संख्याएँ ज्ञात करें।"
+      "question": "The sum of two numbers is 50 and one number is $\\frac{7}{3}$ times of the other; then find the numbers.",
+      "prashna": "दो संख्याओं का योगफल 50 है एवं उसमें से एक संख्या दूसरी की $\\frac{7}{3}$ गुनी है; तो संख्याएँ ज्ञात करें।"
     },
     {
       "id": "short_7",
@@ -4583,8 +4583,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Prove that $\\sqrt{\frac{1 + \\cos \theta}, {1 - \\cos \theta}} = \frac{1 + \\cos \theta}, {\\sin \theta}$.",
-      "prashna": "सिद्ध करें कि $\\sqrt{\frac{1 + \\cos \theta}, {1 - \\cos \theta}} = \frac{1 + \\cos \theta}, {\\sin \theta}$।"
+      "question": "Prove that $\\sqrt{\\frac{1 + \\cos \theta}{1 - \\cos \theta}} = \\frac{1 + \\cos \theta}{\\sin \theta}$.",
+      "prashna": "सिद्ध करें कि $\\sqrt{\\frac{1 + \\cos \theta}{1 - \\cos \theta}} = \\frac{1 + \\cos \theta}{\\sin \theta}$।"
     },
     {
       "id": "short_23",
@@ -4603,8 +4603,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\\cos A = \frac{4}, {5}$ then find the values of $\\cot A$ and $\\operatorname{cosec} A$.",
-      "prashna": "यदि $\\cos A = \frac{4}, {5}$ हो तो $\\cot A$ और $\\operatorname{cosec} A$ के मान ज्ञात करें।"
+      "question": "If $\\cos A = \\frac{4}{5}$ then find the values of $\\cot A$ and $\\operatorname{cosec} A$.",
+      "prashna": "यदि $\\cos A = \\frac{4}{5}$ हो तो $\\cot A$ और $\\operatorname{cosec} A$ के मान ज्ञात करें।"
     },
     {
       "id": "short_25",
@@ -4633,8 +4633,8 @@
       "chapter_name": "Triangles",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "In a triangle $PQR$, two points $S$ and $T$ are on the sides $PQ$ and $PR$ respectively such that $\frac{PS}, {SQ} = \frac{PT}, {TR}$ and $\\angle PST = \\angle PRQ$, then prove that $\triangle PQR$ is an isosceles triangle.",
-      "prashna": "किसी त्रिभुज $PQR$ में दो बिन्दु $S$ और $T$ भुजाओं $PQ$ तथा $PR$ पर क्रमशः इस प्रकार हैं कि $\frac{PS}, {SQ} = \frac{PT}, {TR}$ तथा $\\angle PST = \\angle PRQ$, तो सिद्ध करें कि $\triangle PQR$ एक समद्विबाहु त्रिभुज है।"
+      "question": "In a triangle $PQR$, two points $S$ and $T$ are on the sides $PQ$ and $PR$ respectively such that $\\frac{PS}{SQ} = \\frac{PT}{TR}$ and $\\angle PST = \\angle PRQ$, then prove that $\triangle PQR$ is an isosceles triangle.",
+      "prashna": "किसी त्रिभुज $PQR$ में दो बिन्दु $S$ और $T$ भुजाओं $PQ$ तथा $PR$ पर क्रमशः इस प्रकार हैं कि $\\frac{PS}{SQ} = \\frac{PT}{TR}$ तथा $\\angle PST = \\angle PRQ$, तो सिद्ध करें कि $\triangle PQR$ एक समद्विबाहु त्रिभुज है।"
     },
     {
       "id": "short_28",
@@ -5057,8 +5057,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Prove that \tan^2 P - \tan^2 Q = \frac{\\sin^2 P - \\sin^2 Q}, {\\cos^2 P . \\cos^2 Q}",
-      "prashna": "सिद्ध करें कि \tan^2 P - \tan^2 Q = \frac{\\sin^2 P - \\sin^2 Q}, {\\cos^2 P . \\cos^2 Q}"
+      "question": "Prove that \tan^2 P - \tan^2 Q = \\frac{\\sin^2 P - \\sin^2 Q}{\\cos^2 P . \\cos^2 Q}",
+      "prashna": "सिद्ध करें कि \tan^2 P - \tan^2 Q = \\frac{\\sin^2 P - \\sin^2 Q}{\\cos^2 P . \\cos^2 Q}"
     },
     {
       "id": "short_10",
@@ -5067,8 +5067,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Find the value of \frac{4}, {\\sin^2 60^{\\circ}} + \frac{3}, {\\cos^2 60^{\\circ}}",
-      "prashna": "\frac{4}, {\\sin^2 60^{\\circ}} + \frac{3}, {\\cos^2 60^{\\circ}} का मान ज्ञात करें।"
+      "question": "Find the value of \\frac{4}{\\sin^2 60^{\\circ}} + \\frac{3}{\\cos^2 60^{\\circ}}",
+      "prashna": "\\frac{4}{\\sin^2 60^{\\circ}} + \\frac{3}{\\cos^2 60^{\\circ}} का मान ज्ञात करें।"
     },
     {
       "id": "short_11",
@@ -5137,8 +5137,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If A = 45^{\\circ}, B = 30^{\\circ} then prove that \frac{1}, {\\cot A + \\sin B} = \frac{2}, {3}.",
-      "prashna": "यदि A = 45^{\\circ}, B = 30^{\\circ} हो तो सिद्ध करें कि \frac{1}, {\\cot A + \\sin B} = \frac{2}, {3}."
+      "question": "If A = 45^{\\circ}, B = 30^{\\circ} then prove that \\frac{1}{\\cot A + \\sin B} = \\frac{2}{3}.",
+      "prashna": "यदि A = 45^{\\circ}, B = 30^{\\circ} हो तो सिद्ध करें कि \\frac{1}{\\cot A + \\sin B} = \\frac{2}{3}."
     },
     {
       "id": "short_18",
@@ -5267,8 +5267,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If 5\tan \theta = 4 then find the value of \frac{5\\sin \theta - 3\\cos \theta}, {\\sin \theta + 2\\cos \theta}.",
-      "prashna": "यदि 5\tan \theta = 4 तो \frac{5\\sin \theta - 3\\cos \theta}, {\\sin \theta + 2\\cos \theta} का मान ज्ञात करें।"
+      "question": "If 5\tan \theta = 4 then find the value of \\frac{5\\sin \theta - 3\\cos \theta}{\\sin \theta + 2\\cos \theta}.",
+      "prashna": "यदि 5\tan \theta = 4 तो \\frac{5\\sin \theta - 3\\cos \theta}{\\sin \theta + 2\\cos \theta} का मान ज्ञात करें।"
     }
   ]
 }

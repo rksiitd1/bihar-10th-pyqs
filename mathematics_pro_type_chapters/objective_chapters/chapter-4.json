@@ -7,8 +7,8 @@
       "chapter_name": "Quadratic Equations",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If the discriminant of quadratic equation $cx^2 - bx + a = 0$ is zero, then the value of equal root $\beta$ will be",
-      "prashna": "यदि द्विघात समीकरण $cx^2 - bx + a = 0$ के विवेचक शून्य है, तो समान मूल $\beta$ का मान होगा",
+      "question": "If the discriminant of quadratic equation $cx^2 - bx + a = 0$ is zero, then the value of equal root $\\beta$ will be",
+      "prashna": "यदि द्विघात समीकरण $cx^2 - bx + a = 0$ के विवेचक शून्य है, तो समान मूल $\\beta$ का मान होगा",
       "options": {
         "A": "$b/2c$",
         "B": "$-b/2a$",
@@ -103,13 +103,13 @@
       "prashna": "यदि द्विघाती समीकरण $ax^2 - 4ax + 2a + 1 = 0$ का समान मूल हैं, तो $a = \\dots$",
       "options": {
         "A": "0",
-        "B": "$\frac{1}, {2}$",
+        "B": "$\\frac{1}{2}$",
         "C": "2",
         "D": "4"
       },
       "vikalpa": {
         "A": "0",
-        "B": "$\frac{1}, {2}$",
+        "B": "$\\frac{1}{2}$",
         "C": "2",
         "D": "4"
       }
@@ -151,13 +151,13 @@
         "A": "$(x + 2)^3 = x(x^2 - 1)$",
         "B": "$(x + 1)^2 = 2(x - 3)$",
         "C": "$(x - 2)(x + 2) = 5$",
-        "D": "$x^2 + \frac{1}, {x^2} = 2$"
+        "D": "$x^2 + \\frac{1}{x^2} = 2$"
       },
       "vikalpa": {
         "A": "$(x + 2)^3 = x(x^2 - 1)$",
         "B": "$(x + 1)^2 = 2(x - 3)$",
         "C": "$(x - 2)(x + 2) = 5$",
-        "D": "$x^2 + \frac{1}, {x^2} = 2$"
+        "D": "$x^2 + \\frac{1}{x^2} = 2$"
       }
     },
     {
@@ -173,13 +173,13 @@
         "A": "$(x + 2)^3 = x(x^2 - 1)$",
         "B": "$(x + 1)^2 = 2(x - 3)$",
         "C": "$(x - 2)(x + 2) = 5$",
-        "D": "$x^2 + \frac{1}, {x^2} = 2$"
+        "D": "$x^2 + \\frac{1}{x^2} = 2$"
       },
       "vikalpa": {
         "A": "$(x + 2)^3 = x(x^2 - 1)$",
         "B": "$(x + 1)^2 = 2(x - 3)$",
         "C": "$(x - 2)(x + 2) = 5$",
-        "D": "$x^2 + \frac{1}, {x^2} = 2$"
+        "D": "$x^2 + \\frac{1}{x^2} = 2$"
       }
     },
     {
@@ -219,13 +219,13 @@
         "A": "$2x^3 - 3x = (x + 1)^2$",
         "B": "$x^2 - 2\\sqrt{x} + 3 = 0$",
         "C": "$3x^2 + 2 = (3 - x)^2 + 4$",
-        "D": "$x^2 - \frac{1}, {x^2} = 4$"
+        "D": "$x^2 - \\frac{1}{x^2} = 4$"
       },
       "vikalpa": {
         "A": "$2x^3 - 3x = (x + 1)^2$",
         "B": "$x^2 - 2\\sqrt{x} + 3 = 0$",
         "C": "$3x^2 + 2 = (3 - x)^2 + 4$",
-        "D": "$x^2 - \frac{1}, {x^2} = 4$"
+        "D": "$x^2 - \\frac{1}{x^2} = 4$"
       }
     },
     {
@@ -261,14 +261,14 @@
       "prashna": "निम्नलिखित में $x^2 - \\sqrt{2}x - 12$ के शून्यक कौन-से हैं?",
       "options": {
         "A": "$-3\\sqrt{2}, \\sqrt{2}$",
-        "B": "$-3\\sqrt{2}, \frac{1}, {\\sqrt{2}}$",
-        "C": "$-\frac{3}, {\\sqrt{2}}, \frac{1}, {2\\sqrt{2}}$",
+        "B": "$-3\\sqrt{2}, \\frac{1}{\\sqrt{2}}$",
+        "C": "$-\\frac{3}{\\sqrt{2}}, \\frac{1}{2\\sqrt{2}}$",
         "D": "none of these"
       },
       "vikalpa": {
         "A": "$-3\\sqrt{2}, \\sqrt{2}$",
-        "B": "$-3\\sqrt{2}, \frac{1}, {\\sqrt{2}}$",
-        "C": "$-\frac{3}, {\\sqrt{2}}, \frac{1}, {2\\sqrt{2}}$",
+        "B": "$-3\\sqrt{2}, \\frac{1}{\\sqrt{2}}$",
+        "C": "$-\\frac{3}{\\sqrt{2}}, \\frac{1}{2\\sqrt{2}}$",
         "D": "इनमें से कोई नहीं"
       }
     },
@@ -282,16 +282,16 @@
       "question": "If roots of quadratic equation $px^2 + 4x + 3 = 0$ are equal, then the value of $P$ is",
       "prashna": "यदि द्विघात समीकरण $px^2 + 4x + 3 = 0$ के मूल बराबर हों, तो $p$ का मान होगा",
       "options": {
-        "A": "$\frac{2}, {3}$",
-        "B": "$\frac{4}, {3}$",
-        "C": "$\frac{4}, {5}$",
-        "D": "$\frac{3}, {5}$"
+        "A": "$\\frac{2}{3}$",
+        "B": "$\\frac{4}{3}$",
+        "C": "$\\frac{4}{5}$",
+        "D": "$\\frac{3}{5}$"
       },
       "vikalpa": {
-        "A": "$\frac{2}, {3}$",
-        "B": "$\frac{4}, {3}$",
-        "C": "$\frac{4}, {5}$",
-        "D": "$\frac{3}, {5}$"
+        "A": "$\\frac{2}{3}$",
+        "B": "$\\frac{4}{3}$",
+        "C": "$\\frac{4}{5}$",
+        "D": "$\\frac{3}{5}$"
       }
     },
     {
@@ -329,14 +329,14 @@
       "prashna": "निम्नलिखित में कौन द्विघात समीकरण है ?",
       "options": {
         "A": "$x^2 - 3\\sqrt{x} + 2 = 0$",
-        "B": "$x + \frac{1}, {x} = x^2$",
-        "C": "$x^2 + \frac{1}, {x^2} = 5$",
+        "B": "$x + \\frac{1}{x} = x^2$",
+        "C": "$x^2 + \\frac{1}{x^2} = 5$",
         "D": "$2x^2 - 5x = (x - 1)^2$"
       },
       "vikalpa": {
         "A": "$x^2 - 3\\sqrt{x} + 2 = 0$",
-        "B": "$x + \frac{1}, {x} = x^2$",
-        "C": "$x^2 + \frac{1}, {x^2} = 5$",
+        "B": "$x + \\frac{1}{x} = x^2$",
+        "C": "$x^2 + \\frac{1}{x^2} = 5$",
         "D": "$2x^2 - 5x = (x - 1)^2$"
       }
     },
@@ -418,14 +418,14 @@
       "options": {
         "A": "7",
         "B": "-7",
-        "C": "$\frac{7}, {2}$",
-        "D": "$-\frac{7}, {2}$"
+        "C": "$\\frac{7}{2}$",
+        "D": "$-\\frac{7}{2}$"
       },
       "vikalpa": {
         "A": "7",
         "B": "-7",
-        "C": "$\frac{7}, {2}$",
-        "D": "$-\frac{7}, {2}$"
+        "C": "$\\frac{7}{2}$",
+        "D": "$-\\frac{7}{2}$"
       }
     },
     {
@@ -483,15 +483,15 @@
       "prashna": "$x^2 + px + q = 0$ को पूर्ण वर्ग होने के लिए $q$ का मान निम्नलिखित में से कौन होगा ?",
       "options": {
         "A": "0",
-        "B": "$\frac{p^2}, {4}$",
-        "C": "$\frac{p}, {2}$",
-        "D": "$\frac{-p}, {2}$"
+        "B": "$\\frac{p^2}{4}$",
+        "C": "$\\frac{p}{2}$",
+        "D": "$\\frac{-p}{2}$"
       },
       "vikalpa": {
         "A": "0",
-        "B": "$\frac{p^2}, {4}$",
-        "C": "$\frac{p}, {2}$",
-        "D": "$\frac{-p}, {2}$"
+        "B": "$\\frac{p^2}{4}$",
+        "C": "$\\frac{p}{2}$",
+        "D": "$\\frac{-p}{2}$"
       }
     },
     {
@@ -526,16 +526,16 @@
       "question": "If the roots of the equation $bx^2 + ax + c = 0$ are equal, then $c =$",
       "prashna": "यदि समीकरण $bx^2 + ax + c = 0$ का मूल समान हो, तो $c =$",
       "options": {
-        "A": "$\frac{-a^2}, {4b}$",
-        "B": "$\frac{a^2}, {4b}$",
-        "C": "$\frac{a}, {2b}$",
-        "D": "$\frac{-a}, {2b}$"
+        "A": "$\\frac{-a^2}{4b}$",
+        "B": "$\\frac{a^2}{4b}$",
+        "C": "$\\frac{a}{2b}$",
+        "D": "$\\frac{-a}{2b}$"
       },
       "vikalpa": {
-        "A": "$\frac{-a^2}, {4b}$",
-        "B": "$\frac{a^2}, {4b}$",
-        "C": "$\frac{a}, {2b}$",
-        "D": "$\frac{-a}, {2b}$"
+        "A": "$\\frac{-a^2}{4b}$",
+        "B": "$\\frac{a^2}{4b}$",
+        "C": "$\\frac{a}{2b}$",
+        "D": "$\\frac{-a}{2b}$"
       }
     },
     {
@@ -570,16 +570,16 @@
       "question": "If $ax^2 - bx + c = 0$ ($a \neq 0$), then $x =$",
       "prashna": "यदि $ax^2 - bx + c = 0$ ($a \neq 0$) तो $x =$",
       "options": {
-        "A": "$\frac{-b \\pm \\sqrt{4ac - b^2}}, {2a}$",
+        "A": "$\\frac{-b \\pm \\sqrt{4ac - b^2}}, {2a}$",
         "B": "$b \\pm 4ac$",
-        "C": "$\frac{-b \\pm \\sqrt{b^2 + 4ac}}, {2a}$",
-        "D": "$\frac{-b \\pm \\sqrt{b^2 - 4ac}}, {2a}$"
+        "C": "$\\frac{-b \\pm \\sqrt{b^2 + 4ac}}, {2a}$",
+        "D": "$\\frac{-b \\pm \\sqrt{b^2 - 4ac}}, {2a}$"
       },
       "vikalpa": {
-        "A": "$\frac{-b \\pm \\sqrt{4ac - b^2}}, {2a}$",
+        "A": "$\\frac{-b \\pm \\sqrt{4ac - b^2}}, {2a}$",
         "B": "$b \\pm 4ac$",
-        "C": "$\frac{-b \\pm \\sqrt{b^2 + 4ac}}, {2a}$",
-        "D": "$\frac{-b \\pm \\sqrt{b^2 - 4ac}}, {2a}$"
+        "C": "$\\frac{-b \\pm \\sqrt{b^2 + 4ac}}, {2a}$",
+        "D": "$\\frac{-b \\pm \\sqrt{b^2 - 4ac}}, {2a}$"
       }
     }
   ],
@@ -687,13 +687,13 @@
         "A": "$(x + 2) (x - 2) = x^2 - 4x^3$",
         "B": "$(x + 2)^2 = 3(x + 4)$",
         "C": "$(2x^2 + 3) = (5 + x) (2x^2 - 3)$",
-        "D": "$2x + \frac{1}, {2x} = 4x^2$"
+        "D": "$2x + \\frac{1}{2x} = 4x^2$"
       },
       "vikalpa": {
         "A": "$(x + 2) (x - 2) = x^2 - 4x^3$",
         "B": "$(x + 2)^2 = 3(x + 4)$",
         "C": "$(2x^2 + 3) = (5 + x) (2x^2 - 3)$",
-        "D": "$2x + \frac{1}, {2x} = 4x^2$"
+        "D": "$2x + \\frac{1}{2x} = 4x^2$"
       }
     },
     {
@@ -750,16 +750,16 @@
       "question": "The roots of the quadratic equation $a^2 p^2 x^2 - q^2 = 0$ are",
       "prashna": "द्विघात समीकरण $a^2 p^2 x^2 - q^2 = 0$ के मूल होंगे",
       "options": {
-        "A": "$\frac{a^2 p^2}, {q^2}$",
-        "B": "$\frac{ap}, {q}$",
-        "C": "$\frac{q^2}, {ap}$",
-        "D": "$\\pm \frac{q}, {ap}$"
+        "A": "$\\frac{a^2 p^2}{q^2}$",
+        "B": "$\\frac{ap}{q}$",
+        "C": "$\\frac{q^2}{ap}$",
+        "D": "$\\pm \\frac{q}{ap}$"
       },
       "vikalpa": {
-        "A": "$\frac{a^2 p^2}, {q^2}$",
-        "B": "$\frac{ap}, {q}$",
-        "C": "$\frac{q^2}, {ap}$",
-        "D": "$\\pm \frac{q}, {ap}$"
+        "A": "$\\frac{a^2 p^2}{q^2}$",
+        "B": "$\\frac{ap}{q}$",
+        "C": "$\\frac{q^2}{ap}$",
+        "D": "$\\pm \\frac{q}{ap}$"
       }
     },
     {
@@ -1016,16 +1016,16 @@
       "question": "The roots of the quadratic equation $px^2 - qx + r = 0, p \neq 0$ are",
       "prashna": "द्विघात समीकरण $px^2 - qx + r = 0, p \neq 0$ के मूल हैं",
       "options": {
-        "A": "\frac{q \\pm \\sqrt{q^2 - 4pr}}, {2p}",
-        "B": "\frac{q \\pm \\sqrt{q^2 + 4pr}}, {2p}",
-        "C": "\frac{-q \\pm \\sqrt{q^2 - 4pr}}, {2p}",
-        "D": "\frac{-q \\pm \\sqrt{q^2 + 4pr}}, {2p}"
+        "A": "\\frac{q \\pm \\sqrt{q^2 - 4pr}}, {2p}",
+        "B": "\\frac{q \\pm \\sqrt{q^2 + 4pr}}, {2p}",
+        "C": "\\frac{-q \\pm \\sqrt{q^2 - 4pr}}, {2p}",
+        "D": "\\frac{-q \\pm \\sqrt{q^2 + 4pr}}, {2p}"
       },
       "vikalpa": {
-        "A": "\frac{q \\pm \\sqrt{q^2 - 4pr}}, {2p}",
-        "B": "\frac{q \\pm \\sqrt{q^2 + 4pr}}, {2p}",
-        "C": "\frac{-q \\pm \\sqrt{q^2 - 4pr}}, {2p}",
-        "D": "\frac{-q \\pm \\sqrt{q^2 + 4pr}}, {2p}"
+        "A": "\\frac{q \\pm \\sqrt{q^2 - 4pr}}, {2p}",
+        "B": "\\frac{q \\pm \\sqrt{q^2 + 4pr}}, {2p}",
+        "C": "\\frac{-q \\pm \\sqrt{q^2 - 4pr}}, {2p}",
+        "D": "\\frac{-q \\pm \\sqrt{q^2 + 4pr}}, {2p}"
       }
     },
     {
@@ -1062,13 +1062,13 @@
       "options": {
         "A": "(x+1)(x-1) = x^2 - 4x^3",
         "B": "(x+4)^2 = 3x+4",
-        "C": "4x + \frac{1}, {2x} = 8x^2",
+        "C": "4x + \\frac{1}{2x} = 8x^2",
         "D": "(2x^2+4) = (5+x)(2x-3)"
       },
       "vikalpa": {
         "A": "(x+1)(x-1) = x^2 - 4x^3",
         "B": "(x+4)^2 = 3x+4",
-        "C": "4x + \frac{1}, {2x} = 8x^2",
+        "C": "4x + \\frac{1}{2x} = 8x^2",
         "D": "(2x^2+4) = (5+x)(2x-3)"
       }
     },
@@ -1123,8 +1123,8 @@
       "chapter_name": "Quadratic Equations",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "What is the nature of the roots of the quadratic equation $\frac{4}, {3}x^2 - 2x + \frac{3}, {4} = 0$ ?",
-      "prashna": "द्विघात समीकरण $\frac{4}, {3}x^2 - 2x + \frac{3}, {4} = 0$ के मूलों की प्रकृति क्या होगी ?",
+      "question": "What is the nature of the roots of the quadratic equation $\\frac{4}{3}x^2 - 2x + \\frac{3}{4} = 0$ ?",
+      "prashna": "द्विघात समीकरण $\\frac{4}{3}x^2 - 2x + \\frac{3}{4} = 0$ के मूलों की प्रकृति क्या होगी ?",
       "options": {
         "A": "Real and unequal",
         "B": "Real and equal",
@@ -1170,16 +1170,16 @@
       "question": "The roots of the quadratic equation $ax^2 - bx - c = 0, a \neq 0$ are",
       "prashna": "द्विघात समीकरण $ax^2 - bx - c = 0, a \neq 0$ के मूल हैं",
       "options": {
-        "A": "\frac{-b \\pm \\sqrt{b^2 - 4ac}}, {2a}",
-        "B": "\frac{b \\pm \\sqrt{b^2 + 4ac}}, {2a}",
-        "C": "\frac{-b \\pm \\sqrt{b^2 + 4ac}}, {2a}",
-        "D": "\frac{b \\pm \\sqrt{b^2 - 4ac}}, {2a}"
+        "A": "\\frac{-b \\pm \\sqrt{b^2 - 4ac}}, {2a}",
+        "B": "\\frac{b \\pm \\sqrt{b^2 + 4ac}}, {2a}",
+        "C": "\\frac{-b \\pm \\sqrt{b^2 + 4ac}}, {2a}",
+        "D": "\\frac{b \\pm \\sqrt{b^2 - 4ac}}, {2a}"
       },
       "vikalpa": {
-        "A": "\frac{-b \\pm \\sqrt{b^2 - 4ac}}, {2a}",
-        "B": "\frac{b \\pm \\sqrt{b^2 + 4ac}}, {2a}",
-        "C": "\frac{-b \\pm \\sqrt{b^2 + 4ac}}, {2a}",
-        "D": "\frac{b \\pm \\sqrt{b^2 - 4ac}}, {2a}"
+        "A": "\\frac{-b \\pm \\sqrt{b^2 - 4ac}}, {2a}",
+        "B": "\\frac{b \\pm \\sqrt{b^2 + 4ac}}, {2a}",
+        "C": "\\frac{-b \\pm \\sqrt{b^2 + 4ac}}, {2a}",
+        "D": "\\frac{b \\pm \\sqrt{b^2 - 4ac}}, {2a}"
       }
     },
     {
@@ -1241,13 +1241,13 @@
         "A": "$(x + 3)(x - 3) = x^2 - 4x^3$",
         "B": "$(x + 3)^2 = 4(x + 4)$",
         "C": "$(2x - 2)^2 = 4x^2 + 7$",
-        "D": "$4x + \frac{1}, {4x} = 4x$"
+        "D": "$4x + \\frac{1}{4x} = 4x$"
       },
       "vikalpa": {
         "A": "$(x + 3)(x - 3) = x^2 - 4x^3$",
         "B": "$(x + 3)^2 = 4(x + 4)$",
         "C": "$(2x - 2)^2 = 4x^2 + 7$",
-        "D": "$4x + \frac{1}, {4x} = 4x$"
+        "D": "$4x + \\frac{1}{4x} = 4x$"
       }
     },
     {
@@ -1323,18 +1323,18 @@
       "chapter_name": "Quadratic Equations",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If one root of the quadratic equation $2x^2 - x - 6 = 0$ is $-\frac{3}, {2}$ then its another root is",
-      "prashna": "यदि द्विघात समीकरण $2x^2 - x - 6 = 0$ का एक मूल $-\frac{3}, {2}$ है तो इसका दूसरा मूल है",
+      "question": "If one root of the quadratic equation $2x^2 - x - 6 = 0$ is $-\\frac{3}{2}$ then its another root is",
+      "prashna": "यदि द्विघात समीकरण $2x^2 - x - 6 = 0$ का एक मूल $-\\frac{3}{2}$ है तो इसका दूसरा मूल है",
       "options": {
         "A": "-2",
         "B": "2",
-        "C": "$\frac{3}, {2}$",
+        "C": "$\\frac{3}{2}$",
         "D": "3"
       },
       "vikalpa": {
         "A": "-2",
         "B": "2",
-        "C": "$\frac{3}, {2}$",
+        "C": "$\\frac{3}{2}$",
         "D": "3"
       }
     },
@@ -1385,18 +1385,18 @@
       "type": "objective",
       "chapter": "4",
       "chapter_name": "Quadratic Equations",
-      "question": "If one root of the quadratic equation $2x^2 - 5x - 3 = 0$ is $-\frac{1}, {2}$ then its another root is",
-      "prashna": "यदि द्विघात समीकरण $2x^2 - 5x - 3 = 0$ का एक मूल $-\frac{1}, {2}$ है तो इसका दूसरा मूल है",
+      "question": "If one root of the quadratic equation $2x^2 - 5x - 3 = 0$ is $-\\frac{1}{2}$ then its another root is",
+      "prashna": "यदि द्विघात समीकरण $2x^2 - 5x - 3 = 0$ का एक मूल $-\\frac{1}{2}$ है तो इसका दूसरा मूल है",
       "options": {
         "A": "- 3",
         "B": "3",
-        "C": "$\frac{1}, {2}$",
+        "C": "$\\frac{1}{2}$",
         "D": "2"
       },
       "vikalpa": {
         "A": "- 3",
         "B": "3",
-        "C": "$\frac{1}, {2}$",
+        "C": "$\\frac{1}{2}$",
         "D": "2"
       }
     },
@@ -1428,16 +1428,16 @@
       "question": "For what value of $p$, roots of the quadratic equation $px^2 - 2x + 3 = 0$ are real and equal ?",
       "prashna": "$p$ के किस मान के लिए द्विघात समीकरण $px^2 - 2x + 3 = 0$ के मूल वास्तविक एवं समान है ?",
       "options": {
-        "A": "$\frac{1}, {3}$",
-        "B": "$\frac{1}, {4}$",
-        "C": "$\frac{1}, {5}$",
-        "D": "$\frac{1}, {2}$"
+        "A": "$\\frac{1}{3}$",
+        "B": "$\\frac{1}{4}$",
+        "C": "$\\frac{1}{5}$",
+        "D": "$\\frac{1}{2}$"
       },
       "vikalpa": {
-        "A": "$\frac{1}, {3}$",
-        "B": "$\frac{1}, {4}$",
-        "C": "$\frac{1}, {5}$",
-        "D": "$\frac{1}, {2}$"
+        "A": "$\\frac{1}{3}$",
+        "B": "$\\frac{1}{4}$",
+        "C": "$\\frac{1}{5}$",
+        "D": "$\\frac{1}{2}$"
       }
     },
     {
@@ -1451,13 +1451,13 @@
         "A": "$x^2 - 2\\sqrt{x} + 3 = 0$",
         "B": "$2x^2 - 3x = (x + 1)^2$",
         "C": "$x^2 + 2 = (3 - x)^2 + 4$",
-        "D": "$x^2 - \frac{1}, {x^2} = 4$"
+        "D": "$x^2 - \\frac{1}{x^2} = 4$"
       },
       "vikalpa": {
         "A": "$x^2 - 2\\sqrt{x} + 3 = 0$",
         "B": "$2x^2 - 3x = (x + 1)^2$",
         "C": "$x^2 + 2 = (3 - x)^2 + 4$",
-        "D": "$x^2 - \frac{1}, {x^2} = 4$"
+        "D": "$x^2 - \\frac{1}{x^2} = 4$"
       }
     },
     {
@@ -1471,13 +1471,13 @@
         "A": "$(x + 2)^3 = x(x^2 - 1)$",
         "B": "$(x + 1)^2 = 2(x - 3)$",
         "C": "$x^2 - 2x + 1 = 2x^2 + 4$",
-        "D": "$x^2 + \frac{1}, {x^2} = 2$"
+        "D": "$x^2 + \\frac{1}{x^2} = 2$"
       },
       "vikalpa": {
         "A": "$(x + 2)^3 = x(x^2 - 1)$",
         "B": "$(x + 1)^2 = 2(x - 3)$",
         "C": "$x^2 - 2x + 1 = 2x^2 + 4$",
-        "D": "$x^2 + \frac{1}, {x^2} = 2$"
+        "D": "$x^2 + \\frac{1}{x^2} = 2$"
       }
     },
     {

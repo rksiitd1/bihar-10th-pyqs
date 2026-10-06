@@ -78,16 +78,16 @@
       "question": "Area of sector of angle $\theta$ will be",
       "prashna": "कोण $\theta$ वाले त्रिज्यखण्ड का क्षेत्रफल होगा",
       "options": {
-        "A": "$\frac{\theta}, {270} \times \\pi r^3$",
-        "B": "$\frac{\theta}, {360} \times \\pi r$",
-        "C": "$\frac{\theta}, {270} \times \\pi r^2$",
-        "D": "$\frac{\theta}, {360} \times \\pi r^2$"
+        "A": "$\\frac{\theta}{270} \times \\pi r^3$",
+        "B": "$\\frac{\theta}{360} \times \\pi r$",
+        "C": "$\\frac{\theta}{270} \times \\pi r^2$",
+        "D": "$\\frac{\theta}{360} \times \\pi r^2$"
       },
       "vikalpa": {
-        "A": "$\frac{\theta}, {270} \times \\pi r^3$",
-        "B": "$\frac{\theta}, {360} \times \\pi r$",
-        "C": "$\frac{\theta}, {270} \times \\pi r^2$",
-        "D": "$\frac{\theta}, {360} \times \\pi r^2$"
+        "A": "$\\frac{\theta}{270} \times \\pi r^3$",
+        "B": "$\\frac{\theta}{360} \times \\pi r$",
+        "C": "$\\frac{\theta}{270} \times \\pi r^2$",
+        "D": "$\\frac{\theta}{360} \times \\pi r^2$"
       }
     }
   ],
@@ -328,16 +328,16 @@
       "question": "The area of a sector of an angle $\theta^\\circ$ in the circle with radius $R$ is",
       "prashna": "$R$ त्रिज्या वाले वृत्त में $\theta^\\circ$ के त्रिज्यखंड का क्षेत्रफल होगा",
       "options": {
-        "A": "$\frac{2\\pi R\theta}, {180}$",
-        "B": "$\frac{\\pi R^2 \theta}, {180}$",
-        "C": "$\frac{2\\pi R\theta}, {360}$",
-        "D": "$\frac{\\pi R^2 \theta}, {360}$"
+        "A": "$\\frac{2\\pi R\theta}{180}$",
+        "B": "$\\frac{\\pi R^2 \theta}{180}$",
+        "C": "$\\frac{2\\pi R\theta}{360}$",
+        "D": "$\\frac{\\pi R^2 \theta}{360}$"
       },
       "vikalpa": {
-        "A": "$\frac{2\\pi R\theta}, {180}$",
-        "B": "$\frac{\\pi R^2 \theta}, {180}$",
-        "C": "$\frac{2\\pi R\theta}, {360}$",
-        "D": "$\frac{\\pi R^2 \theta}, {360}$"
+        "A": "$\\frac{2\\pi R\theta}{180}$",
+        "B": "$\\frac{\\pi R^2 \theta}{180}$",
+        "C": "$\\frac{2\\pi R\theta}{360}$",
+        "D": "$\\frac{\\pi R^2 \theta}{360}$"
       }
     },
     {
@@ -438,16 +438,16 @@
       "question": "If the angle of a sector is $p^\\circ$ and the radius of the circle is $r$, then the area of the sector will be",
       "prashna": "यदि कोण $p^\\circ$, त्रिज्या $r$ वाले वृत्त के त्रिज्यखंड का कोण हो, तो त्रिज्यखंड का क्षेत्रफल होगा",
       "options": {
-        "A": "$\frac{2 \\pi r p}, {360}$",
-        "B": "$\frac{\\pi r^2 p}, {360}$",
-        "C": "$\frac{\\pi r^2 p}, {180}$",
-        "D": "$\frac{2 \\pi r^2 p}, {180}$"
+        "A": "$\\frac{2 \\pi r p}{360}$",
+        "B": "$\\frac{\\pi r^2 p}{360}$",
+        "C": "$\\frac{\\pi r^2 p}{180}$",
+        "D": "$\\frac{2 \\pi r^2 p}{180}$"
       },
       "vikalpa": {
-        "A": "$\frac{2 \\pi r p}, {360}$",
-        "B": "$\frac{\\pi r^2 p}, {360}$",
-        "C": "$\frac{\\pi r^2 p}, {180}$",
-        "D": "$\frac{2 \\pi r^2 p}, {180}$"
+        "A": "$\\frac{2 \\pi r p}{360}$",
+        "B": "$\\frac{\\pi r^2 p}{360}$",
+        "C": "$\\frac{\\pi r^2 p}{180}$",
+        "D": "$\\frac{2 \\pi r^2 p}{180}$"
       }
     },
     {
@@ -461,15 +461,15 @@
       "prashna": "यदि '$d$' एक वृत्त का व्यास हो, तो उसका क्षेत्रफल होगा",
       "options": {
         "A": "$\\pi d^2$ sq. units",
-        "B": "$\frac{\\pi d^2}, {2}$ sq. units",
-        "C": "$\frac{\\pi d^2}, {3}$ sq. units",
-        "D": "$\frac{\\pi d^2}, {4}$ sq. units"
+        "B": "$\\frac{\\pi d^2}{2}$ sq. units",
+        "C": "$\\frac{\\pi d^2}{3}$ sq. units",
+        "D": "$\\frac{\\pi d^2}{4}$ sq. units"
       },
       "vikalpa": {
         "A": "$\\pi d^2$ वर्ग इकाई",
-        "B": "$\frac{\\pi d^2}, {2}$ वर्ग इकाई",
-        "C": "$\frac{\\pi d^2}, {3}$ वर्ग इकाई",
-        "D": "$\frac{\\pi d^2}, {4}$ वर्ग इकाई"
+        "B": "$\\frac{\\pi d^2}{2}$ वर्ग इकाई",
+        "C": "$\\frac{\\pi d^2}{3}$ वर्ग इकाई",
+        "D": "$\\frac{\\pi d^2}{4}$ वर्ग इकाई"
       }
     },
     {
@@ -637,8 +637,8 @@
       "chapter_name": "Areas Related to Circles",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If the radius of a wheel is $\frac{35}, {44}$ metre then the distance covered in 2 revolutions is",
-      "prashna": "यदि किसी पहिए की त्रिज्या $\frac{35}, {44}$ मीटर हो तो 2 चक्कर में तय की गई दूरी है",
+      "question": "If the radius of a wheel is $\\frac{35}{44}$ metre then the distance covered in 2 revolutions is",
+      "prashna": "यदि किसी पहिए की त्रिज्या $\\frac{35}{44}$ मीटर हो तो 2 चक्कर में तय की गई दूरी है",
       "options": {
         "A": "10 m",
         "B": "35 m",
@@ -662,16 +662,16 @@
       "question": "If $O$ is the centre and $r$ is the radius of a circle and $\\angle AOB = \theta$, then the length of arc $AB$ is equal to",
       "prashna": "यदि केन्द्र $O$ और त्रिज्या $r$ वाले वृत्त में $\\angle AOB = \theta$, तो चाप $AB$ की लंबाई बराबर है",
       "options": {
-        "A": "$\frac{\\pi r^2 \theta}, {180}$",
-        "B": "$\frac{\\pi r \theta}, {360}$",
-        "C": "$\frac{\\pi r \theta}, {180}$",
-        "D": "$\frac{\\pi r^2 \theta}, {360}$"
+        "A": "$\\frac{\\pi r^2 \theta}{180}$",
+        "B": "$\\frac{\\pi r \theta}{360}$",
+        "C": "$\\frac{\\pi r \theta}{180}$",
+        "D": "$\\frac{\\pi r^2 \theta}{360}$"
       },
       "vikalpa": {
-        "A": "$\frac{\\pi r^2 \theta}, {180}$",
-        "B": "$\frac{\\pi r \theta}, {360}$",
-        "C": "$\frac{\\pi r \theta}, {180}$",
-        "D": "$\frac{\\pi r^2 \theta}, {360}$"
+        "A": "$\\frac{\\pi r^2 \theta}{180}$",
+        "B": "$\\frac{\\pi r \theta}{360}$",
+        "C": "$\\frac{\\pi r \theta}{180}$",
+        "D": "$\\frac{\\pi r^2 \theta}{360}$"
       }
     },
     {
@@ -816,16 +816,16 @@
       "question": "The length of the arc corresponding to the sector having radius $r$ and angle $\theta$ is",
       "prashna": "$r$ त्रिज्या तथा कोण $\theta$ वाले त्रिज्यखण्ड के संगत चाप की लंबाई है",
       "options": {
-        "A": "$\frac{\theta}, {360} \times \\pi r^2$",
-        "B": "$\frac{\theta}, {360} \times 2\\pi r$",
-        "C": "$\frac{\theta}, {180} \times 2\\pi r$",
-        "D": "$\frac{\theta}, {180} \times \\pi r^2$"
+        "A": "$\\frac{\theta}{360} \times \\pi r^2$",
+        "B": "$\\frac{\theta}{360} \times 2\\pi r$",
+        "C": "$\\frac{\theta}{180} \times 2\\pi r$",
+        "D": "$\\frac{\theta}{180} \times \\pi r^2$"
       },
       "vikalpa": {
-        "A": "$\frac{\theta}, {360} \times \\pi r^2$",
-        "B": "$\frac{\theta}, {360} \times 2\\pi r$",
-        "C": "$\frac{\theta}, {180} \times 2\\pi r$",
-        "D": "$\frac{\theta}, {180} \times \\pi r^2$"
+        "A": "$\\frac{\theta}{360} \times \\pi r^2$",
+        "B": "$\\frac{\theta}{360} \times 2\\pi r$",
+        "C": "$\\frac{\theta}{180} \times 2\\pi r$",
+        "D": "$\\frac{\theta}{180} \times \\pi r^2$"
       }
     },
     {
@@ -1104,16 +1104,16 @@
       "question": "If O is the centre and R is the radius of a circle and $\\angle AOB = \theta$ then the length of arc AB is",
       "prashna": "यदि केन्द्र O और त्रिज्या R वाले वृत्त में $\\angle AOB = \theta$ तो चाप AB की लम्बाई होगी",
       "options": {
-        "A": "\frac{2\\pi R \theta}, {180}",
-        "B": "\frac{2\\pi R \theta}, {360}",
-        "C": "\frac{\\pi R^2 \theta}, {180}",
-        "D": "\frac{\\pi R^2 \theta}, {360}"
+        "A": "\\frac{2\\pi R \theta}{180}",
+        "B": "\\frac{2\\pi R \theta}{360}",
+        "C": "\\frac{\\pi R^2 \theta}{180}",
+        "D": "\\frac{\\pi R^2 \theta}{360}"
       },
       "vikalpa": {
-        "A": "\frac{2\\pi R \theta}, {180}",
-        "B": "\frac{2\\pi R \theta}, {360}",
-        "C": "\frac{\\pi R^2 \theta}, {180}",
-        "D": "\frac{\\pi R^2 \theta}, {360}"
+        "A": "\\frac{2\\pi R \theta}{180}",
+        "B": "\\frac{2\\pi R \theta}{360}",
+        "C": "\\frac{\\pi R^2 \theta}{180}",
+        "D": "\\frac{\\pi R^2 \theta}{360}"
       }
     }
   ],

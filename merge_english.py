@@ -3,6 +3,8 @@ import json
 import glob
 from typing import List, Dict, Any
 
+from jev_utils import apply_english_forced_chapter
+
 
 def read_items_from_file(file_path: str) -> List[Dict[str, Any]]:
     with open(file_path, "r", encoding="utf-8") as f:
@@ -35,6 +37,8 @@ def main() -> None:
         except OSError as e:
             print(f"Failed to read {file_path}: {e}")
             continue
+
+        items = [apply_english_forced_chapter(item) for item in items]
 
         base = os.path.basename(file_path)
         year = "".join(ch for ch in base if ch.isdigit())

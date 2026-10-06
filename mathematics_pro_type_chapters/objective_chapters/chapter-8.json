@@ -75,8 +75,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "The value of $\\sin \frac{\\pi}, {4} - \\cos \frac{\\pi}, {4}$ will be",
-      "prashna": "$\\sin \frac{\\pi}, {4} - \\cos \frac{\\pi}, {4}$ का मान होगा",
+      "question": "The value of $\\sin \\frac{\\pi}{4} - \\cos \\frac{\\pi}{4}$ will be",
+      "prashna": "$\\sin \\frac{\\pi}{4} - \\cos \\frac{\\pi}{4}$ का मान होगा",
       "options": {
         "A": "2",
         "B": "0",
@@ -121,8 +121,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "The value of $\\cos \frac{\\pi}, {3}$ will be-",
-      "prashna": "$\\cos \frac{\\pi}, {3}$ का मान होगा-",
+      "question": "The value of $\\cos \\frac{\\pi}{3}$ will be-",
+      "prashna": "$\\cos \\frac{\\pi}{3}$ का मान होगा-",
       "options": {
         "A": "1/2",
         "B": "$1/\\sqrt{3}$",
@@ -210,14 +210,14 @@
       "question": "If $7 \\sin^2 \theta + 3 \\cos^2 \theta = 4$, then $\\sec \theta + \\csc \theta$ is equal to -",
       "prashna": "यदि $7 \\sin^2 \theta + 3 \\cos^2 \theta = 4$ तब $\\sec \theta + \\csc \theta$ बराबर है -",
       "options": {
-        "A": "$\frac{2}, {\\sqrt{3}} - 2$",
-        "B": "$\frac{2}, {\\sqrt{3}} + 2$",
+        "A": "$\\frac{2}{\\sqrt{3}} - 2$",
+        "B": "$\\frac{2}{\\sqrt{3}} + 2$",
         "C": "2/3",
         "D": "$\\sqrt{3}/2$"
       },
       "vikalpa": {
-        "A": "$\frac{2}, {\\sqrt{3}} - 2$",
-        "B": "$\frac{2}, {\\sqrt{3}} + 2$",
+        "A": "$\\frac{2}{\\sqrt{3}} - 2$",
+        "B": "$\\frac{2}{\\sqrt{3}} + 2$",
         "C": "2/3",
         "D": "$\\sqrt{3}/2$"
       }
@@ -229,8 +229,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $5 \\cot \theta = 3$, then $\frac{5 \\sin \theta - 3 \\cos \theta}, {4 \\sin \theta + 3 \\cos \theta}$ is equal to -",
-      "prashna": "यदि $5 \\cot \theta = 3$ तब $\frac{5 \\sin \theta - 3 \\cos \theta}, {4 \\sin \theta + 3 \\cos \theta}$ बराबर है -",
+      "question": "If $5 \\cot \theta = 3$, then $\\frac{5 \\sin \theta - 3 \\cos \theta}{4 \\sin \theta + 3 \\cos \theta}$ is equal to -",
+      "prashna": "यदि $5 \\cot \theta = 3$ तब $\\frac{5 \\sin \theta - 3 \\cos \theta}{4 \\sin \theta + 3 \\cos \theta}$ बराबर है -",
       "options": {
         "A": "11/18",
         "B": "16/29",
@@ -254,16 +254,16 @@
       "question": "If $\\sin x^\\circ = \\sin \\alpha$, then $\\alpha$ is -",
       "prashna": "यदि $\\sin x^\\circ = \\sin \\alpha$ तब $\\alpha$ है -",
       "options": {
-        "A": "$\frac{180}, {\\pi}$",
-        "B": "$\frac{\\pi}, {270}$",
-        "C": "$\frac{270}, {\\pi}$",
-        "D": "$\frac{\\pi}, {180}$"
+        "A": "$\\frac{180}{\\pi}$",
+        "B": "$\\frac{\\pi}{270}$",
+        "C": "$\\frac{270}{\\pi}$",
+        "D": "$\\frac{\\pi}{180}$"
       },
       "vikalpa": {
-        "A": "$\frac{180}, {\\pi}$",
-        "B": "$\frac{\\pi}, {270}$",
-        "C": "$\frac{270}, {\\pi}$",
-        "D": "$\frac{\\pi}, {180}$"
+        "A": "$\\frac{180}{\\pi}$",
+        "B": "$\\frac{\\pi}{270}$",
+        "C": "$\\frac{270}{\\pi}$",
+        "D": "$\\frac{\\pi}{180}$"
       }
     },
     {
@@ -299,15 +299,15 @@
       "prashna": "यदि $\\sqrt{3}\tan\theta = 3\\sin\theta$ तब $\\sin^2\theta - \\cos^2\theta$ बराबर है -",
       "options": {
         "A": "$\\sqrt{3}$",
-        "B": "$\frac{2}, {3}$",
-        "C": "$\frac{1}, {3}$",
-        "D": "$\frac{1}, {\\sqrt{3}}$"
+        "B": "$\\frac{2}{3}$",
+        "C": "$\\frac{1}{3}$",
+        "D": "$\\frac{1}{\\sqrt{3}}$"
       },
       "vikalpa": {
         "A": "$\\sqrt{3}$",
-        "B": "$\frac{2}, {3}$",
-        "C": "$\frac{1}, {3}$",
-        "D": "$\frac{1}, {\\sqrt{3}}$"
+        "B": "$\\frac{2}{3}$",
+        "C": "$\\frac{1}{3}$",
+        "D": "$\\frac{1}{\\sqrt{3}}$"
       }
     },
     {
@@ -320,16 +320,16 @@
       "question": "If $7\\sin^2\theta + 3\\cos^2\theta = 4$, then $\\sec\theta + \\csc\theta$ is equal to -",
       "prashna": "यदि $7\\sin^2\theta + 3\\cos^2\theta = 4$ तब $\\sec\theta + \\csc\theta$ बराबर है -",
       "options": {
-        "A": "$\frac{2}, {\\sqrt{3}} - 2$",
-        "B": "$\frac{2}, {\\sqrt{3}} + 2$",
-        "C": "$\frac{2}, {\\sqrt{3}}$",
-        "D": "$\frac{\\sqrt{3}}, {2}$"
+        "A": "$\\frac{2}{\\sqrt{3}} - 2$",
+        "B": "$\\frac{2}{\\sqrt{3}} + 2$",
+        "C": "$\\frac{2}{\\sqrt{3}}$",
+        "D": "$\\frac{\\sqrt{3}}, {2}$"
       },
       "vikalpa": {
-        "A": "$\frac{2}, {\\sqrt{3}} - 2$",
-        "B": "$\frac{2}, {\\sqrt{3}} + 2$",
-        "C": "$\frac{2}, {\\sqrt{3}}$",
-        "D": "$\frac{\\sqrt{3}}, {2}$"
+        "A": "$\\frac{2}{\\sqrt{3}} - 2$",
+        "B": "$\\frac{2}{\\sqrt{3}} + 2$",
+        "C": "$\\frac{2}{\\sqrt{3}}$",
+        "D": "$\\frac{\\sqrt{3}}, {2}$"
       }
     },
     {
@@ -339,19 +339,19 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $5\\cot\theta = 3$, then $\frac{5\\sin\theta - 3\\cos\theta}, {4\\sin\theta + 3\\cos\theta}$ is equal to -",
-      "prashna": "यदि $5\\cot\theta = 3$ तब $\frac{5\\sin\theta - 3\\cos\theta}, {4\\sin\theta + 3\\cos\theta}$ बराबर है -",
+      "question": "If $5\\cot\theta = 3$, then $\\frac{5\\sin\theta - 3\\cos\theta}{4\\sin\theta + 3\\cos\theta}$ is equal to -",
+      "prashna": "यदि $5\\cot\theta = 3$ तब $\\frac{5\\sin\theta - 3\\cos\theta}{4\\sin\theta + 3\\cos\theta}$ बराबर है -",
       "options": {
-        "A": "$\frac{11}, {18}$",
-        "B": "$\frac{16}, {29}$",
-        "C": "$\frac{14}, {27}$",
-        "D": "$\frac{11}, {29}$"
+        "A": "$\\frac{11}{18}$",
+        "B": "$\\frac{16}{29}$",
+        "C": "$\\frac{14}{27}$",
+        "D": "$\\frac{11}{29}$"
       },
       "vikalpa": {
-        "A": "$\frac{11}, {18}$",
-        "B": "$\frac{16}, {29}$",
-        "C": "$\frac{14}, {27}$",
-        "D": "$\frac{11}, {29}$"
+        "A": "$\\frac{11}{18}$",
+        "B": "$\\frac{16}{29}$",
+        "C": "$\\frac{14}{27}$",
+        "D": "$\\frac{11}{29}$"
       }
     },
     {
@@ -364,16 +364,16 @@
       "question": "If $\\sin x^\\circ = \\sin \\alpha$, then $\\alpha$ is -",
       "prashna": "यदि $\\sin x^\\circ = \\sin \\alpha$ तब $\\alpha$ है -",
       "options": {
-        "A": "$\frac{180}, {\\pi}$",
-        "B": "$\frac{\\pi}, {270}$",
-        "C": "$\frac{270}, {\\pi}$",
-        "D": "$\frac{\\pi}, {180}$"
+        "A": "$\\frac{180}{\\pi}$",
+        "B": "$\\frac{\\pi}{270}$",
+        "C": "$\\frac{270}{\\pi}$",
+        "D": "$\\frac{\\pi}{180}$"
       },
       "vikalpa": {
-        "A": "$\frac{180}, {\\pi}$",
-        "B": "$\frac{\\pi}, {270}$",
-        "C": "$\frac{270}, {\\pi}$",
-        "D": "$\frac{\\pi}, {180}$"
+        "A": "$\\frac{180}{\\pi}$",
+        "B": "$\\frac{\\pi}{270}$",
+        "C": "$\\frac{270}{\\pi}$",
+        "D": "$\\frac{\\pi}{180}$"
       }
     },
     {
@@ -407,19 +407,19 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If A, B, C are angles of a triangle, then $\\sin \\left( \frac{B+C}, {2} \right)$ is equal to -",
-      "prashna": "यदि A, B, C किसी त्रिभुज के कोण हों, तो $\\sin \\left( \frac{B+C}, {2} \right)$ बराबर है-",
+      "question": "If A, B, C are angles of a triangle, then $\\sin \\left( \\frac{B+C}{2} \right)$ is equal to -",
+      "prashna": "यदि A, B, C किसी त्रिभुज के कोण हों, तो $\\sin \\left( \\frac{B+C}{2} \right)$ बराबर है-",
       "options": {
-        "A": "$\tan \frac{A}, {2}$",
-        "B": "$\\sin \frac{A}, {2}$",
-        "C": "$\\cos \frac{A}, {2}$",
-        "D": "$\\sec \frac{A}, {2}$"
+        "A": "$\tan \\frac{A}{2}$",
+        "B": "$\\sin \\frac{A}{2}$",
+        "C": "$\\cos \\frac{A}{2}$",
+        "D": "$\\sec \\frac{A}{2}$"
       },
       "vikalpa": {
-        "A": "$\tan \frac{A}, {2}$",
-        "B": "$\\sin \frac{A}, {2}$",
-        "C": "$\\cos \frac{A}, {2}$",
-        "D": "$\\sec \frac{A}, {2}$"
+        "A": "$\tan \\frac{A}{2}$",
+        "B": "$\\sin \\frac{A}{2}$",
+        "C": "$\\cos \\frac{A}{2}$",
+        "D": "$\\sec \\frac{A}{2}$"
       }
     },
     {
@@ -429,19 +429,19 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\tan \theta = \frac{3}, {4}$, then the value of $\\sin \theta$ is -",
-      "prashna": "यदि $\tan \theta = \frac{3}, {4}$ हो, तो $\\sin \theta$ का मान है -",
+      "question": "If $\tan \theta = \\frac{3}{4}$, then the value of $\\sin \theta$ is -",
+      "prashna": "यदि $\tan \theta = \\frac{3}{4}$ हो, तो $\\sin \theta$ का मान है -",
       "options": {
-        "A": "$\frac{4}, {5}$",
-        "B": "$\frac{2}, {3}$",
-        "C": "$\frac{4}, {3}$",
-        "D": "$\frac{3}, {5}$"
+        "A": "$\\frac{4}{5}$",
+        "B": "$\\frac{2}{3}$",
+        "C": "$\\frac{4}{3}$",
+        "D": "$\\frac{3}{5}$"
       },
       "vikalpa": {
-        "A": "$\frac{4}, {5}$",
-        "B": "$\frac{2}, {3}$",
-        "C": "$\frac{4}, {3}$",
-        "D": "$\frac{3}, {5}$"
+        "A": "$\\frac{4}{5}$",
+        "B": "$\\frac{2}{3}$",
+        "C": "$\\frac{4}{3}$",
+        "D": "$\\frac{3}{5}$"
       }
     },
     {
@@ -451,8 +451,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "$\frac{\\sin 18^\\circ}, {\\cos 72^\\circ} =$",
-      "prashna": "$\frac{\\sin 18^\\circ}, {\\cos 72^\\circ} =$",
+      "question": "$\\frac{\\sin 18^\\circ}{\\cos 72^\\circ} =$",
+      "prashna": "$\\frac{\\sin 18^\\circ}{\\cos 72^\\circ} =$",
       "options": {
         "A": "0",
         "B": "1",
@@ -586,16 +586,16 @@
       "question": "Which of the following is equal to $\\cot \theta$?",
       "prashna": "निम्न में से कौन $\\cot \theta$ के बराबर है?",
       "options": {
-        "A": "$\frac{\\sin \theta}, {\\cos \theta}$",
-        "B": "$\frac{\\cos \theta}, {\\sin \theta}$",
-        "C": "$\frac{1}, {\\sec \theta}$",
-        "D": "$\frac{1}, {\\sin \theta}$"
+        "A": "$\\frac{\\sin \theta}{\\cos \theta}$",
+        "B": "$\\frac{\\cos \theta}{\\sin \theta}$",
+        "C": "$\\frac{1}{\\sec \theta}$",
+        "D": "$\\frac{1}{\\sin \theta}$"
       },
       "vikalpa": {
-        "A": "$\frac{\\sin \theta}, {\\cos \theta}$",
-        "B": "$\frac{\\cos \theta}, {\\sin \theta}$",
-        "C": "$\frac{1}, {\\sec \theta}$",
-        "D": "$\frac{1}, {\\sin \theta}$"
+        "A": "$\\frac{\\sin \theta}{\\cos \theta}$",
+        "B": "$\\frac{\\cos \theta}{\\sin \theta}$",
+        "C": "$\\frac{1}{\\sec \theta}$",
+        "D": "$\\frac{1}{\\sin \theta}$"
       }
     },
     {
@@ -610,14 +610,14 @@
       "options": {
         "A": "1",
         "B": "3",
-        "C": "$\frac{1}, {\\sqrt{3}}$",
-        "D": "$\frac{1}, {3}$"
+        "C": "$\\frac{1}{\\sqrt{3}}$",
+        "D": "$\\frac{1}{3}$"
       },
       "vikalpa": {
         "A": "1",
         "B": "3",
-        "C": "$\frac{1}, {\\sqrt{3}}$",
-        "D": "$\frac{1}, {3}$"
+        "C": "$\\frac{1}{\\sqrt{3}}$",
+        "D": "$\\frac{1}{3}$"
       }
     },
     {
@@ -740,16 +740,16 @@
       "question": "Which of the following is equal to $\\cot \theta$?",
       "prashna": "निम्न में से कौन $\\cot \theta$ के बराबर है?",
       "options": {
-        "A": "$\frac{\\sin \theta}, {\\cos \theta}$",
-        "B": "$\frac{\\cos \theta}, {\\sin \theta}$",
-        "C": "$\frac{1}, {\\sec \theta}$",
-        "D": "$\frac{1}, {\\sin \theta}$"
+        "A": "$\\frac{\\sin \theta}{\\cos \theta}$",
+        "B": "$\\frac{\\cos \theta}{\\sin \theta}$",
+        "C": "$\\frac{1}{\\sec \theta}$",
+        "D": "$\\frac{1}{\\sin \theta}$"
       },
       "vikalpa": {
-        "A": "$\frac{\\sin \theta}, {\\cos \theta}$",
-        "B": "$\frac{\\cos \theta}, {\\sin \theta}$",
-        "C": "$\frac{1}, {\\sec \theta}$",
-        "D": "$\frac{1}, {\\sin \theta}$"
+        "A": "$\\frac{\\sin \theta}{\\cos \theta}$",
+        "B": "$\\frac{\\cos \theta}{\\sin \theta}$",
+        "C": "$\\frac{1}{\\sec \theta}$",
+        "D": "$\\frac{1}{\\sin \theta}$"
       }
     },
     {
@@ -759,8 +759,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "$\frac{\\sin 18^\\circ}, {\\cos 72^\\circ} =$",
-      "prashna": "$\frac{\\sin 18^\\circ}, {\\cos 72^\\circ} =$",
+      "question": "$\\frac{\\sin 18^\\circ}{\\cos 72^\\circ} =$",
+      "prashna": "$\\frac{\\sin 18^\\circ}{\\cos 72^\\circ} =$",
       "options": {
         "A": "0",
         "B": "1",
@@ -781,19 +781,19 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\tan \theta = \frac{3}, {4}$, then the value of $\\sin \theta$ is -",
-      "prashna": "यदि $\tan \theta = \frac{3}, {4}$ हो, तो $\\sin \theta$ का मान है -",
+      "question": "If $\tan \theta = \\frac{3}{4}$, then the value of $\\sin \theta$ is -",
+      "prashna": "यदि $\tan \theta = \\frac{3}{4}$ हो, तो $\\sin \theta$ का मान है -",
       "options": {
-        "A": "$\frac{4}, {5}$",
-        "B": "$\frac{2}, {3}$",
-        "C": "$\frac{4}, {3}$",
-        "D": "$\frac{3}, {5}$"
+        "A": "$\\frac{4}{5}$",
+        "B": "$\\frac{2}{3}$",
+        "C": "$\\frac{4}{3}$",
+        "D": "$\\frac{3}{5}$"
       },
       "vikalpa": {
-        "A": "$\frac{4}, {5}$",
-        "B": "$\frac{2}, {3}$",
-        "C": "$\frac{4}, {3}$",
-        "D": "$\frac{3}, {5}$"
+        "A": "$\\frac{4}{5}$",
+        "B": "$\\frac{2}{3}$",
+        "C": "$\\frac{4}{3}$",
+        "D": "$\\frac{3}{5}$"
       }
     },
     {
@@ -808,14 +808,14 @@
       "options": {
         "A": "1",
         "B": "3",
-        "C": "$\frac{1}, {\\sqrt{3}}$",
-        "D": "$\frac{1}, {3}$"
+        "C": "$\\frac{1}{\\sqrt{3}}$",
+        "D": "$\\frac{1}{3}$"
       },
       "vikalpa": {
         "A": "1",
         "B": "3",
-        "C": "$\frac{1}, {\\sqrt{3}}$",
-        "D": "$\frac{1}, {3}$"
+        "C": "$\\frac{1}{\\sqrt{3}}$",
+        "D": "$\\frac{1}{3}$"
       }
     },
     {
@@ -825,19 +825,19 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $A, B, C$ are angles of a triangle, then $\\sin\\left(\frac{B+C}, {2}\right)$ is equal to -",
-      "prashna": "यदि $A, B, C$ किसी त्रिभुज के कोण हों, तो $\\sin\\left(\frac{B+C}, {2}\right)$ बराबर है -",
+      "question": "If $A, B, C$ are angles of a triangle, then $\\sin\\left(\\frac{B+C}{2}\right)$ is equal to -",
+      "prashna": "यदि $A, B, C$ किसी त्रिभुज के कोण हों, तो $\\sin\\left(\\frac{B+C}{2}\right)$ बराबर है -",
       "options": {
-        "A": "$\tan \frac{A}, {2}$",
-        "B": "$\\sin \frac{A}, {2}$",
-        "C": "$\\cos \frac{A}, {2}$",
-        "D": "$\\sec \frac{A}, {2}$"
+        "A": "$\tan \\frac{A}{2}$",
+        "B": "$\\sin \\frac{A}{2}$",
+        "C": "$\\cos \\frac{A}{2}$",
+        "D": "$\\sec \\frac{A}{2}$"
       },
       "vikalpa": {
-        "A": "$\tan \frac{A}, {2}$",
-        "B": "$\\sin \frac{A}, {2}$",
-        "C": "$\\cos \frac{A}, {2}$",
-        "D": "$\\sec \frac{A}, {2}$"
+        "A": "$\tan \\frac{A}{2}$",
+        "B": "$\\sin \\frac{A}{2}$",
+        "C": "$\\cos \\frac{A}{2}$",
+        "D": "$\\sec \\frac{A}{2}$"
       }
     }
   ],
@@ -853,13 +853,13 @@
       "prashna": "$\tan 10^\\circ \tan 15^\\circ \tan 75^\\circ \tan 80^\\circ = ?$",
       "options": {
         "A": "$\\sqrt{3}$",
-        "B": "$\frac{1}, {\\sqrt{3}}$",
+        "B": "$\\frac{1}{\\sqrt{3}}$",
         "C": "-1",
         "D": "1"
       },
       "vikalpa": {
         "A": "$\\sqrt{3}$",
-        "B": "$\frac{1}, {\\sqrt{3}}$",
+        "B": "$\\frac{1}{\\sqrt{3}}$",
         "C": "-1",
         "D": "1"
       }
@@ -876,14 +876,14 @@
       "options": {
         "A": "0",
         "B": "1",
-        "C": "$\frac{1}, {2}$",
-        "D": "$\frac{\\sqrt{3}}, {2}$"
+        "C": "$\\frac{1}{2}$",
+        "D": "$\\frac{\\sqrt{3}}, {2}$"
       },
       "vikalpa": {
         "A": "0",
         "B": "1",
-        "C": "$\frac{1}, {2}$",
-        "D": "$\frac{\\sqrt{3}}, {2}$"
+        "C": "$\\frac{1}{2}$",
+        "D": "$\\frac{\\sqrt{3}}, {2}$"
       }
     },
     {
@@ -937,19 +937,19 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\\sec \theta = \frac{13}, {12}$, then \\(\\cot \theta\\) is equal to",
-      "prashna": "यदि $\\sec \theta = \frac{13}, {12}$ हो, तो $\\cot \theta$ बराबर है",
+      "question": "If $\\sec \theta = \\frac{13}{12}$, then \\(\\cot \theta\\) is equal to",
+      "prashna": "यदि $\\sec \theta = \\frac{13}{12}$ हो, तो $\\cot \theta$ बराबर है",
       "options": {
-        "A": "$\frac{5}, {12}$",
-        "B": "$\frac{5}, {13}$",
-        "C": "$\frac{12}, {5}$",
-        "D": "$\frac{13}, {5}$"
+        "A": "$\\frac{5}{12}$",
+        "B": "$\\frac{5}{13}$",
+        "C": "$\\frac{12}{5}$",
+        "D": "$\\frac{13}{5}$"
       },
       "vikalpa": {
-        "A": "$\frac{5}, {12}$",
-        "B": "$\frac{5}, {13}$",
-        "C": "$\frac{12}, {5}$",
-        "D": "$\frac{13}, {5}$"
+        "A": "$\\frac{5}{12}$",
+        "B": "$\\frac{5}{13}$",
+        "C": "$\\frac{12}{5}$",
+        "D": "$\\frac{13}{5}$"
       }
     },
     {
@@ -959,8 +959,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "$\frac{\\sin 63^\\circ}, {\\cos 27^\\circ}$",
-      "prashna": "$\frac{\\sin 63^\\circ}, {\\cos 27^\\circ}$",
+      "question": "$\\frac{\\sin 63^\\circ}{\\cos 27^\\circ}$",
+      "prashna": "$\\frac{\\sin 63^\\circ}{\\cos 27^\\circ}$",
       "options": {
         "A": "$\\sqrt{3}$",
         "B": "1",
@@ -981,19 +981,19 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\tan \theta = \frac{8}, {15}$, then the value of $\\csc \theta$ is",
-      "prashna": "यदि $\tan \theta = \frac{8}, {15}$ हो, तो $\\csc \theta$ का मान है",
+      "question": "If $\tan \theta = \\frac{8}{15}$, then the value of $\\csc \theta$ is",
+      "prashna": "यदि $\tan \theta = \\frac{8}{15}$ हो, तो $\\csc \theta$ का मान है",
       "options": {
-        "A": "$\frac{17}, {8}$",
-        "B": "$\frac{8}, {17}$",
-        "C": "$\frac{15}, {17}$",
-        "D": "$\frac{17}, {15}$"
+        "A": "$\\frac{17}{8}$",
+        "B": "$\\frac{8}{17}$",
+        "C": "$\\frac{15}{17}$",
+        "D": "$\\frac{17}{15}$"
       },
       "vikalpa": {
-        "A": "$\frac{17}, {8}$",
-        "B": "$\frac{8}, {17}$",
-        "C": "$\frac{15}, {17}$",
-        "D": "$\frac{17}, {15}$"
+        "A": "$\\frac{17}{8}$",
+        "B": "$\\frac{8}{17}$",
+        "C": "$\\frac{15}{17}$",
+        "D": "$\\frac{17}{15}$"
       }
     },
     {
@@ -1006,16 +1006,16 @@
       "question": "Value of $2\\cos^2 60^\\circ$ is",
       "prashna": "$2\\cos^2 60^\\circ$ का मान है",
       "options": {
-        "A": "$\frac{1}, {3}$",
-        "B": "$\frac{1}, {4}$",
+        "A": "$\\frac{1}{3}$",
+        "B": "$\\frac{1}{4}$",
         "C": "1",
-        "D": "$\frac{1}, {2}$"
+        "D": "$\\frac{1}{2}$"
       },
       "vikalpa": {
-        "A": "$\frac{1}, {3}$",
-        "B": "$\frac{1}, {4}$",
+        "A": "$\\frac{1}{3}$",
+        "B": "$\\frac{1}{4}$",
         "C": "1",
-        "D": "$\frac{1}, {2}$"
+        "D": "$\\frac{1}{2}$"
       }
     },
     {
@@ -1050,16 +1050,16 @@
       "question": "Which of the following is equal to $\\csc \theta$ ?",
       "prashna": "निम्नलिखित में से कौन $\\csc \theta$ के बराबर है?",
       "options": {
-        "A": "$\frac{\\cos \theta}, {\\sin \theta}$",
-        "B": "$\frac{1}, {\\sec \theta}$",
-        "C": "$\frac{1}, {\\sin \theta}$",
-        "D": "$\frac{\\sin \theta}, {\\cos \theta}$"
+        "A": "$\\frac{\\cos \theta}{\\sin \theta}$",
+        "B": "$\\frac{1}{\\sec \theta}$",
+        "C": "$\\frac{1}{\\sin \theta}$",
+        "D": "$\\frac{\\sin \theta}{\\cos \theta}$"
       },
       "vikalpa": {
-        "A": "$\frac{\\cos \theta}, {\\sin \theta}$",
-        "B": "$\frac{1}, {\\sec \theta}$",
-        "C": "$\frac{1}, {\\sin \theta}$",
-        "D": "$\frac{\\sin \theta}, {\\cos \theta}$"
+        "A": "$\\frac{\\cos \theta}{\\sin \theta}$",
+        "B": "$\\frac{1}{\\sec \theta}$",
+        "C": "$\\frac{1}{\\sin \theta}$",
+        "D": "$\\frac{\\sin \theta}{\\cos \theta}$"
       }
     },
     {
@@ -1116,16 +1116,16 @@
       "question": "If $\text{cosec } \theta = \\sqrt{10}$, then $\\sec \theta$ is equal to",
       "prashna": "यदि $\text{cosec } \theta = \\sqrt{10}$ हो, तो $\\sec \theta = ?$",
       "options": {
-        "A": "$\frac{3}, {\\sqrt{10}}$",
-        "B": "$\frac{\\sqrt{10}}, {3}$",
-        "C": "$\frac{1}, {\\sqrt{10}}$",
-        "D": "$\frac{2}, {\\sqrt{10}}$"
+        "A": "$\\frac{3}{\\sqrt{10}}$",
+        "B": "$\\frac{\\sqrt{10}}, {3}$",
+        "C": "$\\frac{1}{\\sqrt{10}}$",
+        "D": "$\\frac{2}{\\sqrt{10}}$"
       },
       "vikalpa": {
-        "A": "$\frac{3}, {\\sqrt{10}}$",
-        "B": "$\frac{\\sqrt{10}}, {3}$",
-        "C": "$\frac{1}, {\\sqrt{10}}$",
-        "D": "$\frac{2}, {\\sqrt{10}}$"
+        "A": "$\\frac{3}{\\sqrt{10}}$",
+        "B": "$\\frac{\\sqrt{10}}, {3}$",
+        "C": "$\\frac{1}{\\sqrt{10}}$",
+        "D": "$\\frac{2}{\\sqrt{10}}$"
       }
     },
     {
@@ -1135,8 +1135,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "$\frac{\tan 49^{\\circ}}, {\\cot 41^{\\circ}} = $",
-      "prashna": "$\frac{\tan 49^{\\circ}}, {\\cot 41^{\\circ}} = $",
+      "question": "$\\frac{\tan 49^{\\circ}}, {\\cot 41^{\\circ}} = $",
+      "prashna": "$\\frac{\tan 49^{\\circ}}, {\\cot 41^{\\circ}} = $",
       "options": {
         "A": "3",
         "B": "2",
@@ -1157,19 +1157,19 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\\sin A = \frac{8}, {17}$, then the value of $\\cot A = $",
-      "prashna": "यदि $\\sin A = \frac{8}, {17}$ हो, तो $\\cot A$ का मान होगा",
+      "question": "If $\\sin A = \\frac{8}{17}$, then the value of $\\cot A = $",
+      "prashna": "यदि $\\sin A = \\frac{8}{17}$ हो, तो $\\cot A$ का मान होगा",
       "options": {
-        "A": "$\frac{8}, {15}$",
-        "B": "$\frac{17}, {15}$",
-        "C": "$\frac{15}, {8}$",
-        "D": "$\frac{8}, {17}$"
+        "A": "$\\frac{8}{15}$",
+        "B": "$\\frac{17}{15}$",
+        "C": "$\\frac{15}{8}$",
+        "D": "$\\frac{8}{17}$"
       },
       "vikalpa": {
-        "A": "$\frac{8}, {15}$",
-        "B": "$\frac{17}, {15}$",
-        "C": "$\frac{15}, {8}$",
-        "D": "$\frac{8}, {17}$"
+        "A": "$\\frac{8}{15}$",
+        "B": "$\\frac{17}{15}$",
+        "C": "$\\frac{15}{8}$",
+        "D": "$\\frac{8}{17}$"
       }
     },
     {
@@ -1204,16 +1204,16 @@
       "question": "$\\sec \theta = ?$",
       "prashna": "$\\sec \theta = ?$",
       "options": {
-        "A": "$\frac{\\cos \theta}, {\\sin \theta}$",
-        "B": "$\frac{1}, {\\cos \theta}$",
-        "C": "$\frac{1}, {\\sin \theta}$",
-        "D": "$\frac{\\sin \theta}, {\\cos \theta}$"
+        "A": "$\\frac{\\cos \theta}{\\sin \theta}$",
+        "B": "$\\frac{1}{\\cos \theta}$",
+        "C": "$\\frac{1}{\\sin \theta}$",
+        "D": "$\\frac{\\sin \theta}{\\cos \theta}$"
       },
       "vikalpa": {
-        "A": "$\frac{\\cos \theta}, {\\sin \theta}$",
-        "B": "$\frac{1}, {\\cos \theta}$",
-        "C": "$\frac{1}, {\\sin \theta}$",
-        "D": "$\frac{\\sin \theta}, {\\cos \theta}$"
+        "A": "$\\frac{\\cos \theta}{\\sin \theta}$",
+        "B": "$\\frac{1}{\\cos \theta}$",
+        "C": "$\\frac{1}{\\sin \theta}$",
+        "D": "$\\frac{\\sin \theta}{\\cos \theta}$"
       }
     },
     {
@@ -1267,8 +1267,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "$\frac{1 + \tan^2 A}, {1 + \\cot^2 A} = ?$",
-      "prashna": "$\frac{1 + \tan^2 A}, {1 + \\cot^2 A} = ?$",
+      "question": "$\\frac{1 + \tan^2 A}{1 + \\cot^2 A} = ?$",
+      "prashna": "$\\frac{1 + \tan^2 A}{1 + \\cot^2 A} = ?$",
       "options": {
         "A": "-1",
         "B": "$\\sec^2 A$",
@@ -1292,15 +1292,15 @@
       "question": "$\tan 30^{\\circ} \\cdot \\sin 30^{\\circ} \\cdot \\cot 60^{\\circ} \\cdot \text{cosec } 30^{\\circ} = $",
       "prashna": "$\tan 30^{\\circ} \\cdot \\sin 30^{\\circ} \\cdot \\cot 60^{\\circ} \\cdot \text{cosec } 30^{\\circ} = $",
       "options": {
-        "A": "$\frac{1}, {2}$",
-        "B": "$\frac{1}, {3}$",
-        "C": "$\frac{1}, {4}$",
+        "A": "$\\frac{1}{2}$",
+        "B": "$\\frac{1}{3}$",
+        "C": "$\\frac{1}{4}$",
         "D": "1"
       },
       "vikalpa": {
-        "A": "$\frac{1}, {2}$",
-        "B": "$\frac{1}, {3}$",
-        "C": "$\frac{1}, {4}$",
+        "A": "$\\frac{1}{2}$",
+        "B": "$\\frac{1}{3}$",
+        "C": "$\\frac{1}{4}$",
         "D": "1"
       }
     },
@@ -1316,13 +1316,13 @@
       "options": {
         "A": "0",
         "B": "-1",
-        "C": "$\frac{1}, {2}$",
+        "C": "$\\frac{1}{2}$",
         "D": "1"
       },
       "vikalpa": {
         "A": "0",
         "B": "-1",
-        "C": "$\frac{1}, {2}$",
+        "C": "$\\frac{1}{2}$",
         "D": "1"
       }
     }
@@ -1362,14 +1362,14 @@
       "options": {
         "A": "0",
         "B": "1",
-        "C": "$\frac{1}, {2}$",
-        "D": "$\frac{\\sqrt{3}}, {2}$"
+        "C": "$\\frac{1}{2}$",
+        "D": "$\\frac{\\sqrt{3}}, {2}$"
       },
       "vikalpa": {
         "A": "0",
         "B": "1",
-        "C": "$\frac{1}, {2}$",
-        "D": "$\frac{\\sqrt{3}}, {2}$"
+        "C": "$\\frac{1}{2}$",
+        "D": "$\\frac{\\sqrt{3}}, {2}$"
       }
     },
     {
@@ -1401,8 +1401,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "$\frac{\tan 35^\\circ}, {\\cot 55^\\circ} + \frac{\\cot 78^\\circ}, {\tan 12^\\circ}$ is equal to",
-      "prashna": "$\frac{\tan 35^\\circ}, {\\cot 55^\\circ} + \frac{\\cot 78^\\circ}, {\tan 12^\\circ}$ बराबर है",
+      "question": "$\\frac{\tan 35^\\circ}{\\cot 55^\\circ} + \\frac{\\cot 78^\\circ}{\tan 12^\\circ}$ is equal to",
+      "prashna": "$\\frac{\tan 35^\\circ}{\\cot 55^\\circ} + \\frac{\\cot 78^\\circ}{\tan 12^\\circ}$ बराबर है",
       "options": {
         "A": "0",
         "B": "1",
@@ -1423,19 +1423,19 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\\sin\theta = \frac{a}, {b}$, then the value of $\\cos\theta$ is",
-      "prashna": "यदि $\\sin\theta = \frac{a}, {b}$, तब $\\cos\theta$ का मान होगा",
+      "question": "If $\\sin\theta = \\frac{a}{b}$, then the value of $\\cos\theta$ is",
+      "prashna": "यदि $\\sin\theta = \\frac{a}{b}$, तब $\\cos\theta$ का मान होगा",
       "options": {
-        "A": "$\frac{b}, {\\sqrt{b^2 - a^2}}$",
-        "B": "$\frac{\\sqrt{b^2 - a^2}}, {b}$",
-        "C": "$\frac{a}, {\\sqrt{b^2 - a^2}}$",
-        "D": "$\frac{b}, {a}$"
+        "A": "$\\frac{b}{\\sqrt{b^2 - a^2}}$",
+        "B": "$\\frac{\\sqrt{b^2 - a^2}}, {b}$",
+        "C": "$\\frac{a}{\\sqrt{b^2 - a^2}}$",
+        "D": "$\\frac{b}{a}$"
       },
       "vikalpa": {
-        "A": "$\frac{b}, {\\sqrt{b^2 - a^2}}$",
-        "B": "$\frac{\\sqrt{b^2 - a^2}}, {b}$",
-        "C": "$\frac{a}, {\\sqrt{b^2 - a^2}}$",
-        "D": "$\frac{b}, {a}$"
+        "A": "$\\frac{b}{\\sqrt{b^2 - a^2}}$",
+        "B": "$\\frac{\\sqrt{b^2 - a^2}}, {b}$",
+        "C": "$\\frac{a}{\\sqrt{b^2 - a^2}}$",
+        "D": "$\\frac{b}{a}$"
       }
     },
     {
@@ -1445,18 +1445,18 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\\sin\theta = \frac{1}, {2}$, then $\\cot\theta$ is",
-      "prashna": "यदि $\\sin\theta = \frac{1}, {2}$, तो $\\cot\theta$ होगा",
+      "question": "If $\\sin\theta = \\frac{1}{2}$, then $\\cot\theta$ is",
+      "prashna": "यदि $\\sin\theta = \\frac{1}{2}$, तो $\\cot\theta$ होगा",
       "options": {
-        "A": "$\frac{1}, {\\sqrt{3}}$",
+        "A": "$\\frac{1}{\\sqrt{3}}$",
         "B": "$\\sqrt{3}$",
-        "C": "$\frac{\\sqrt{3}}, {2}$",
+        "C": "$\\frac{\\sqrt{3}}, {2}$",
         "D": "1"
       },
       "vikalpa": {
-        "A": "$\frac{1}, {\\sqrt{3}}$",
+        "A": "$\\frac{1}{\\sqrt{3}}$",
         "B": "$\\sqrt{3}$",
-        "C": "$\frac{\\sqrt{3}}, {2}$",
+        "C": "$\\frac{\\sqrt{3}}, {2}$",
         "D": "1"
       }
     },
@@ -1515,15 +1515,15 @@
       "prashna": "यदि $3\theta = 90^\\circ$, तो $\\cos\theta$ का मान होगा",
       "options": {
         "A": "1",
-        "B": "$\frac{1}, {3}$",
-        "C": "$\frac{\\sqrt{3}}, {2}$",
-        "D": "$\frac{1}, {\\sqrt{2}}$"
+        "B": "$\\frac{1}{3}$",
+        "C": "$\\frac{\\sqrt{3}}, {2}$",
+        "D": "$\\frac{1}{\\sqrt{2}}$"
       },
       "vikalpa": {
         "A": "1",
-        "B": "$\frac{1}, {3}$",
-        "C": "$\frac{\\sqrt{3}}, {2}$",
-        "D": "$\frac{1}, {\\sqrt{2}}$"
+        "B": "$\\frac{1}{3}$",
+        "C": "$\\frac{\\sqrt{3}}, {2}$",
+        "D": "$\\frac{1}{\\sqrt{2}}$"
       }
     },
     {
@@ -1533,19 +1533,19 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\\cos(\\alpha + \beta) = 0$, then $\\sin(\\alpha - \beta)$ is",
-      "prashna": "यदि $\\cos(\\alpha + \beta) = 0$, तब $\\sin(\\alpha - \beta)$ होगा",
+      "question": "If $\\cos(\\alpha + \\beta) = 0$, then $\\sin(\\alpha - \\beta)$ is",
+      "prashna": "यदि $\\cos(\\alpha + \\beta) = 0$, तब $\\sin(\\alpha - \\beta)$ होगा",
       "options": {
         "A": "$\\sin\\alpha$",
-        "B": "$\\cos\beta$",
+        "B": "$\\cos\\beta$",
         "C": "$\\sin 2\\alpha$",
-        "D": "$\\cos 2\beta$"
+        "D": "$\\cos 2\\beta$"
       },
       "vikalpa": {
         "A": "$\\sin\\alpha$",
-        "B": "$\\cos\beta$",
+        "B": "$\\cos\\beta$",
         "C": "$\\sin 2\\alpha$",
-        "D": "$\\cos 2\beta$"
+        "D": "$\\cos 2\\beta$"
       }
     },
     {
@@ -1577,8 +1577,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Which of the following has value equal to $\frac{1}, {\\sqrt{2}}$ ?",
-      "prashna": "निम्नलिखित में किसका मान $\frac{1}, {\\sqrt{2}}$ के बराबर है ?",
+      "question": "Which of the following has value equal to $\\frac{1}{\\sqrt{2}}$ ?",
+      "prashna": "निम्नलिखित में किसका मान $\\frac{1}{\\sqrt{2}}$ के बराबर है ?",
       "options": {
         "A": "$\tan 60^\\circ$",
         "B": "$\\cos 45^\\circ$",
@@ -1647,15 +1647,15 @@
       "prashna": "$\\sin 30^\\circ + \\cos 60^\\circ =$",
       "options": {
         "A": "$\\sqrt{3}$",
-        "B": "$\frac{2}, {\\sqrt{3}}$",
+        "B": "$\\frac{2}{\\sqrt{3}}$",
         "C": "1",
-        "D": "$\frac{1}, {2}$"
+        "D": "$\\frac{1}{2}$"
       },
       "vikalpa": {
         "A": "$\\sqrt{3}$",
-        "B": "$\frac{2}, {\\sqrt{3}}$",
+        "B": "$\\frac{2}{\\sqrt{3}}$",
         "C": "1",
-        "D": "$\frac{1}, {2}$"
+        "D": "$\\frac{1}{2}$"
       }
     },
     {
@@ -1709,19 +1709,19 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\text{cosec} \\, \theta = \frac{17}, {8}$, then $\tan \theta =$",
-      "prashna": "यदि $\text{cosec} \\, \theta = \frac{17}, {8}$ तो $\tan \theta =$",
+      "question": "If $\text{cosec} \\, \theta = \\frac{17}{8}$, then $\tan \theta =$",
+      "prashna": "यदि $\text{cosec} \\, \theta = \\frac{17}{8}$ तो $\tan \theta =$",
       "options": {
-        "A": "$\frac{8}, {17}$",
-        "B": "$\frac{8}, {15}$",
-        "C": "$\frac{15}, {8}$",
-        "D": "$\frac{15}, {17}$"
+        "A": "$\\frac{8}{17}$",
+        "B": "$\\frac{8}{15}$",
+        "C": "$\\frac{15}{8}$",
+        "D": "$\\frac{15}{17}$"
       },
       "vikalpa": {
-        "A": "$\frac{8}, {17}$",
-        "B": "$\frac{8}, {15}$",
-        "C": "$\frac{15}, {8}$",
-        "D": "$\frac{15}, {17}$"
+        "A": "$\\frac{8}{17}$",
+        "B": "$\\frac{8}{15}$",
+        "C": "$\\frac{15}{8}$",
+        "D": "$\\frac{15}{17}$"
       }
     },
     {
@@ -1737,13 +1737,13 @@
         "A": "$1$",
         "B": "$0$",
         "C": "$4$",
-        "D": "$\frac{1}, {2}$"
+        "D": "$\\frac{1}{2}$"
       },
       "vikalpa": {
         "A": "$1$",
         "B": "$0$",
         "C": "$4$",
-        "D": "$\frac{1}, {2}$"
+        "D": "$\\frac{1}{2}$"
       }
     },
     {
@@ -1753,8 +1753,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "$\frac{2(1 - \\sin^2 A)}, {\\cos^2 A} =$",
-      "prashna": "$\frac{2(1 - \\sin^2 A)}, {\\cos^2 A} =$",
+      "question": "$\\frac{2(1 - \\sin^2 A)}{\\cos^2 A} =$",
+      "prashna": "$\\frac{2(1 - \\sin^2 A)}{\\cos^2 A} =$",
       "options": {
         "A": "$1$",
         "B": "$-2$",
@@ -1781,13 +1781,13 @@
         "A": "$0$",
         "B": "$1$",
         "C": "$-1$",
-        "D": "$\frac{1}, {2}$"
+        "D": "$\\frac{1}{2}$"
       },
       "vikalpa": {
         "A": "$0$",
         "B": "$1$",
         "C": "$-1$",
-        "D": "$\frac{1}, {2}$"
+        "D": "$\\frac{1}{2}$"
       }
     },
     {
@@ -1797,8 +1797,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "$\frac{2 \\cos 37^\\circ}, {\\sin 53^\\circ} =$",
-      "prashna": "$\frac{2 \\cos 37^\\circ}, {\\sin 53^\\circ} =$",
+      "question": "$\\frac{2 \\cos 37^\\circ}{\\sin 53^\\circ} =$",
+      "prashna": "$\\frac{2 \\cos 37^\\circ}{\\sin 53^\\circ} =$",
       "options": {
         "A": "$0$",
         "B": "$-1$",
@@ -1951,8 +1951,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "In the given right triangle $\triangle ABC$, $\frac{AB}, {AC} =$",
-      "prashna": "दिए गए समकोण $\triangle ABC$ में, $\frac{AB}, {AC} =$",
+      "question": "In the given right triangle $\triangle ABC$, $\\frac{AB}{AC} =$",
+      "prashna": "दिए गए समकोण $\triangle ABC$ में, $\\frac{AB}{AC} =$",
       "options": {
         "A": "$\\sin \\alpha$",
         "B": "$\\cos \\alpha$",
@@ -1973,19 +1973,19 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\text{cosec} \\, \theta = \frac{b}, {a}$, then the value of $\\sec \theta$ is",
-      "prashna": "यदि $\text{cosec} \\, \theta = \frac{b}, {a}$, तो $\\sec \theta$ का मान है",
+      "question": "If $\text{cosec} \\, \theta = \\frac{b}{a}$, then the value of $\\sec \theta$ is",
+      "prashna": "यदि $\text{cosec} \\, \theta = \\frac{b}{a}$, तो $\\sec \theta$ का मान है",
       "options": {
-        "A": "$\frac{b}, {\\sqrt{b^2 - a^2}}$",
-        "B": "$\frac{\\sqrt{b^2 - a^2}}, {b}$",
-        "C": "$\frac{a}, {\\sqrt{b^2 - a^2}}$",
-        "D": "$\frac{b}, {a}$"
+        "A": "$\\frac{b}{\\sqrt{b^2 - a^2}}$",
+        "B": "$\\frac{\\sqrt{b^2 - a^2}}, {b}$",
+        "C": "$\\frac{a}{\\sqrt{b^2 - a^2}}$",
+        "D": "$\\frac{b}{a}$"
       },
       "vikalpa": {
-        "A": "$\frac{b}, {\\sqrt{b^2 - a^2}}$",
-        "B": "$\frac{\\sqrt{b^2 - a^2}}, {b}$",
-        "C": "$\frac{a}, {\\sqrt{b^2 - a^2}}$",
-        "D": "$\frac{b}, {a}$"
+        "A": "$\\frac{b}{\\sqrt{b^2 - a^2}}$",
+        "B": "$\\frac{\\sqrt{b^2 - a^2}}, {b}$",
+        "C": "$\\frac{a}{\\sqrt{b^2 - a^2}}$",
+        "D": "$\\frac{b}{a}$"
       }
     },
     {
@@ -2000,13 +2000,13 @@
       "options": {
         "A": "$0$",
         "B": "$1$",
-        "C": "$\frac{1}, {2}$",
+        "C": "$\\frac{1}{2}$",
         "D": "$2$"
       },
       "vikalpa": {
         "A": "$0$",
         "B": "$1$",
-        "C": "$\frac{1}, {2}$",
+        "C": "$\\frac{1}{2}$",
         "D": "$2$"
       }
     },
@@ -2064,15 +2064,15 @@
       "question": "If $3 \theta = 90^\\circ$, then $\\cos \theta =$",
       "prashna": "यदि $3 \theta = 90^\\circ$ तो $\\cos \theta =$",
       "options": {
-        "A": "$\frac{\\sqrt{3}}, {2}$",
-        "B": "$\frac{1}, {\\sqrt{2}}$",
-        "C": "$\frac{1}, {2}$",
+        "A": "$\\frac{\\sqrt{3}}, {2}$",
+        "B": "$\\frac{1}{\\sqrt{2}}$",
+        "C": "$\\frac{1}{2}$",
         "D": "$0$"
       },
       "vikalpa": {
-        "A": "$\frac{\\sqrt{3}}, {2}$",
-        "B": "$\frac{1}, {\\sqrt{2}}$",
-        "C": "$\frac{1}, {2}$",
+        "A": "$\\frac{\\sqrt{3}}, {2}$",
+        "B": "$\\frac{1}{\\sqrt{2}}$",
+        "C": "$\\frac{1}{2}$",
         "D": "$0$"
       }
     },
@@ -2155,15 +2155,15 @@
       "prashna": "यदि $\theta = 45^\\circ$ तो $\\cos^2 \theta - \\sin^2 \theta$ का मान होगा",
       "options": {
         "A": "1",
-        "B": "$\frac{1}, {2}$",
+        "B": "$\\frac{1}{2}$",
         "C": "0",
-        "D": "$\frac{3}, {2}$"
+        "D": "$\\frac{3}{2}$"
       },
       "vikalpa": {
         "A": "1",
-        "B": "$\frac{1}, {2}$",
+        "B": "$\\frac{1}{2}$",
         "C": "0",
-        "D": "$\frac{3}, {2}$"
+        "D": "$\\frac{3}{2}$"
       }
     },
     {
@@ -2217,8 +2217,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\theta = 45^\\circ$ then what is the value of $\tan^2 \theta + \frac{1}, {\\sin^2 \theta}$?",
-      "prashna": "यदि $\theta = 45^\\circ$ तो $\tan^2 \theta + \frac{1}, {\\sin^2 \theta}$ का मान क्या होगा?",
+      "question": "If $\theta = 45^\\circ$ then what is the value of $\tan^2 \theta + \\frac{1}{\\sin^2 \theta}$?",
+      "prashna": "यदि $\theta = 45^\\circ$ तो $\tan^2 \theta + \\frac{1}{\\sin^2 \theta}$ का मान क्या होगा?",
       "options": {
         "A": "1",
         "B": "2",
@@ -2245,13 +2245,13 @@
         "A": "$p$",
         "B": "$-p$",
         "C": "$\\sqrt{1 - p^2}$",
-        "D": "$\frac{p}, {\\sqrt{1 - p^2}}$"
+        "D": "$\\frac{p}{\\sqrt{1 - p^2}}$"
       },
       "vikalpa": {
         "A": "$p$",
         "B": "$-p$",
         "C": "$\\sqrt{1 - p^2}$",
-        "D": "$\frac{p}, {\\sqrt{1 - p^2}}$"
+        "D": "$\\frac{p}{\\sqrt{1 - p^2}}$"
       }
     },
     {
@@ -2261,19 +2261,19 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\tan \theta = \frac{12}, {5}$ then the value of $\\sin \theta$ is",
-      "prashna": "यदि $\tan \theta = \frac{12}, {5}$ तो $\\sin \theta$ का मान होगा",
+      "question": "If $\tan \theta = \\frac{12}{5}$ then the value of $\\sin \theta$ is",
+      "prashna": "यदि $\tan \theta = \\frac{12}{5}$ तो $\\sin \theta$ का मान होगा",
       "options": {
-        "A": "$\frac{5}, {12}$",
-        "B": "$\frac{12}, {13}$",
-        "C": "$\frac{5}, {13}$",
-        "D": "$\frac{12}, {5}$"
+        "A": "$\\frac{5}{12}$",
+        "B": "$\\frac{12}{13}$",
+        "C": "$\\frac{5}{13}$",
+        "D": "$\\frac{12}{5}$"
       },
       "vikalpa": {
-        "A": "$\frac{5}, {12}$",
-        "B": "$\frac{12}, {13}$",
-        "C": "$\frac{5}, {13}$",
-        "D": "$\frac{12}, {5}$"
+        "A": "$\\frac{5}{12}$",
+        "B": "$\\frac{12}{13}$",
+        "C": "$\\frac{5}{13}$",
+        "D": "$\\frac{12}{5}$"
       }
     },
     {
@@ -2283,19 +2283,19 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\tan \theta = \frac{p}, {q}$ then the value of $\frac{p\\sin \theta - q\\cos \theta}, {p\\sin \theta + q\\cos \theta}$ is",
-      "prashna": "यदि $\tan \theta = \frac{p}, {q}$ तो $\frac{p\\sin \theta - q\\cos \theta}, {p\\sin \theta + q\\cos \theta}$ का मान होगा",
+      "question": "If $\tan \theta = \\frac{p}{q}$ then the value of $\\frac{p\\sin \theta - q\\cos \theta}{p\\sin \theta + q\\cos \theta}$ is",
+      "prashna": "यदि $\tan \theta = \\frac{p}{q}$ तो $\\frac{p\\sin \theta - q\\cos \theta}{p\\sin \theta + q\\cos \theta}$ का मान होगा",
       "options": {
         "A": "$p^2 - q^2$",
-        "B": "$\frac{p^2 + q^2}, {p^2 - q^2}$",
-        "C": "$\frac{p^2 + q^2}, {2}$",
-        "D": "$\frac{p^2 - q^2}, {p^2 + q^2}$"
+        "B": "$\\frac{p^2 + q^2}{p^2 - q^2}$",
+        "C": "$\\frac{p^2 + q^2}{2}$",
+        "D": "$\\frac{p^2 - q^2}{p^2 + q^2}$"
       },
       "vikalpa": {
         "A": "$p^2 - q^2$",
-        "B": "$\frac{p^2 + q^2}, {p^2 - q^2}$",
-        "C": "$\frac{p^2 + q^2}, {2}$",
-        "D": "$\frac{p^2 - q^2}, {p^2 + q^2}$"
+        "B": "$\\frac{p^2 + q^2}{p^2 - q^2}$",
+        "C": "$\\frac{p^2 + q^2}{2}$",
+        "D": "$\\frac{p^2 - q^2}{p^2 + q^2}$"
       }
     },
     {
@@ -2327,8 +2327,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "$\\sqrt{\frac{1 - \\cos \theta}, {1 + \\cos \theta}} =$",
-      "prashna": "$\\sqrt{\frac{1 - \\cos \theta}, {1 + \\cos \theta}} =$",
+      "question": "$\\sqrt{\\frac{1 - \\cos \theta}{1 + \\cos \theta}} =$",
+      "prashna": "$\\sqrt{\\frac{1 - \\cos \theta}{1 + \\cos \theta}} =$",
       "options": {
         "A": "$\\sec \theta - \tan \theta$",
         "B": "$\\cos \theta - \\sin \theta$",
@@ -2349,17 +2349,17 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "$\frac{\\sec 30^\\circ}, {\text{cosec } 60^\\circ} =$",
-      "prashna": "$\frac{\\sec 30^\\circ}, {\text{cosec } 60^\\circ} =$",
+      "question": "$\\frac{\\sec 30^\\circ}{\text{cosec } 60^\\circ} =$",
+      "prashna": "$\\frac{\\sec 30^\\circ}{\text{cosec } 60^\\circ} =$",
       "options": {
-        "A": "$\frac{2}, {\\sqrt{3}}$",
-        "B": "$\frac{\\sqrt{3}}, {2}$",
+        "A": "$\\frac{2}{\\sqrt{3}}$",
+        "B": "$\\frac{\\sqrt{3}}, {2}$",
         "C": "$\\sqrt{3}$",
         "D": "1"
       },
       "vikalpa": {
-        "A": "$\frac{2}, {\\sqrt{3}}$",
-        "B": "$\frac{\\sqrt{3}}, {2}$",
+        "A": "$\\frac{2}{\\sqrt{3}}$",
+        "B": "$\\frac{\\sqrt{3}}, {2}$",
         "C": "$\\sqrt{3}$",
         "D": "1"
       }
@@ -2371,17 +2371,17 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "$\frac{2\\sin^2 63^\\circ + 1 + 2\\sin^2 27^\\circ}, {3\\cos^2 17^\\circ - 2 + 3\\cos^2 73^\\circ} =$",
-      "prashna": "$\frac{2\\sin^2 63^\\circ + 1 + 2\\sin^2 27^\\circ}, {3\\cos^2 17^\\circ - 2 + 3\\cos^2 73^\\circ} =$",
+      "question": "$\\frac{2\\sin^2 63^\\circ + 1 + 2\\sin^2 27^\\circ}{3\\cos^2 17^\\circ - 2 + 3\\cos^2 73^\\circ} =$",
+      "prashna": "$\\frac{2\\sin^2 63^\\circ + 1 + 2\\sin^2 27^\\circ}{3\\cos^2 17^\\circ - 2 + 3\\cos^2 73^\\circ} =$",
       "options": {
-        "A": "$\frac{3}, {2}$",
-        "B": "$\frac{2}, {3}$",
+        "A": "$\\frac{3}{2}$",
+        "B": "$\\frac{2}{3}$",
         "C": "2",
         "D": "3"
       },
       "vikalpa": {
-        "A": "$\frac{3}, {2}$",
-        "B": "$\frac{2}, {3}$",
+        "A": "$\\frac{3}{2}$",
+        "B": "$\\frac{2}{3}$",
         "C": "2",
         "D": "3"
       }
@@ -2393,19 +2393,19 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\\cos(\\alpha + \beta) = 0$ then $\\sin(\\alpha - \beta) =$",
-      "prashna": "यदि $\\cos(\\alpha + \beta) = 0$, तो $\\sin(\\alpha - \beta) =$",
+      "question": "If $\\cos(\\alpha + \\beta) = 0$ then $\\sin(\\alpha - \\beta) =$",
+      "prashna": "यदि $\\cos(\\alpha + \\beta) = 0$, तो $\\sin(\\alpha - \\beta) =$",
       "options": {
         "A": "$\\sin \\alpha$",
-        "B": "$\\cos \beta$",
+        "B": "$\\cos \\beta$",
         "C": "$\\sin 2\\alpha$",
-        "D": "$\\cos 2\beta$"
+        "D": "$\\cos 2\\beta$"
       },
       "vikalpa": {
         "A": "$\\sin \\alpha$",
-        "B": "$\\cos \beta$",
+        "B": "$\\cos \\beta$",
         "C": "$\\sin 2\\alpha$",
-        "D": "$\\cos 2\beta$"
+        "D": "$\\cos 2\\beta$"
       }
     }
   ],
@@ -2417,8 +2417,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "$\frac{\\cos 60^{\\circ} + 1}, {\\cos 60^{\\circ} - 1} =$",
-      "prashna": "$\frac{\\cos 60^{\\circ} + 1}, {\\cos 60^{\\circ} - 1} =$",
+      "question": "$\\frac{\\cos 60^{\\circ} + 1}, {\\cos 60^{\\circ} - 1} =$",
+      "prashna": "$\\frac{\\cos 60^{\\circ} + 1}, {\\cos 60^{\\circ} - 1} =$",
       "options": {
         "A": "2",
         "B": "-2",
@@ -2505,8 +2505,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "The value of $\frac{\\cos 37^{\\circ}}, {\\sin 53^{\\circ}} + \frac{\\cot 34^{\\circ}}, {\tan 56^{\\circ}}$ is",
-      "prashna": "$\frac{\\cos 37^{\\circ}}, {\\sin 53^{\\circ}} + \frac{\\cot 34^{\\circ}}, {\tan 56^{\\circ}}$ का मान है",
+      "question": "The value of $\\frac{\\cos 37^{\\circ}}, {\\sin 53^{\\circ}} + \\frac{\\cot 34^{\\circ}}, {\tan 56^{\\circ}}$ is",
+      "prashna": "$\\frac{\\cos 37^{\\circ}}, {\\sin 53^{\\circ}} + \\frac{\\cot 34^{\\circ}}, {\tan 56^{\\circ}}$ का मान है",
       "options": {
         "A": "0",
         "B": "1",
@@ -2574,16 +2574,16 @@
       "question": "If $\\sin 48^{\\circ} = p$, then the value of $\tan 48^{\\circ}$ is",
       "prashna": "यदि $\\sin 48^{\\circ} = p$, तो $\tan 48^{\\circ}$ का मान है",
       "options": {
-        "A": "$\frac{p}, {\\sqrt{1-p^2}}$",
-        "B": "$\frac{\\sqrt{1-p^2}}, {p}$",
-        "C": "$\frac{p}, {\\sqrt{1+p^2}}$",
-        "D": "$\frac{\\sqrt{1+p^2}}, {p}$"
+        "A": "$\\frac{p}{\\sqrt{1-p^2}}$",
+        "B": "$\\frac{\\sqrt{1-p^2}}, {p}$",
+        "C": "$\\frac{p}{\\sqrt{1+p^2}}$",
+        "D": "$\\frac{\\sqrt{1+p^2}}, {p}$"
       },
       "vikalpa": {
-        "A": "$\frac{p}, {\\sqrt{1-p^2}}$",
-        "B": "$\frac{\\sqrt{1-p^2}}, {p}$",
-        "C": "$\frac{p}, {\\sqrt{1+p^2}}$",
-        "D": "$\frac{\\sqrt{1+p^2}}, {p}$"
+        "A": "$\\frac{p}{\\sqrt{1-p^2}}$",
+        "B": "$\\frac{\\sqrt{1-p^2}}, {p}$",
+        "C": "$\\frac{p}{\\sqrt{1+p^2}}$",
+        "D": "$\\frac{\\sqrt{1+p^2}}, {p}$"
       }
     },
     {
@@ -2615,8 +2615,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "$\frac{\\sin^2(90^{\\circ} - \theta) + \\sin^2 \theta}, {\\operatorname{cosec}^2(90^{\\circ} - \theta) - \tan^2 \theta} =$",
-      "prashna": "$\frac{\\sin^2(90^{\\circ} - \theta) + \\sin^2 \theta}, {\\operatorname{cosec}^2(90^{\\circ} - \theta) - \tan^2 \theta} =$",
+      "question": "$\\frac{\\sin^2(90^{\\circ} - \theta) + \\sin^2 \theta}, {\\operatorname{cosec}^2(90^{\\circ} - \theta) - \tan^2 \theta} =$",
+      "prashna": "$\\frac{\\sin^2(90^{\\circ} - \theta) + \\sin^2 \theta}, {\\operatorname{cosec}^2(90^{\\circ} - \theta) - \tan^2 \theta} =$",
       "options": {
         "A": "1",
         "B": "0",
@@ -2725,8 +2725,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\\sin \theta = \frac{\\sqrt{3}}, {2}$, then the value of $\\operatorname{cosec} \theta + \\cot \theta$ is",
-      "prashna": "यदि $\\sin \theta = \frac{\\sqrt{3}}, {2}$, तो $\\operatorname{cosec} \theta + \\cot \theta$ का मान है",
+      "question": "If $\\sin \theta = \\frac{\\sqrt{3}}, {2}$, then the value of $\\operatorname{cosec} \theta + \\cot \theta$ is",
+      "prashna": "यदि $\\sin \theta = \\frac{\\sqrt{3}}, {2}$, तो $\\operatorname{cosec} \theta + \\cot \theta$ का मान है",
       "options": {
         "A": "$2 + \\sqrt{3}$",
         "B": "$2\\sqrt{3}$",
@@ -2769,8 +2769,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "$\frac{\\sin 30^{\\circ} + \\cos 45^{\\circ} - \tan 60^{\\circ}}, {\\cot 30^{\\circ} - \\sin 45^{\\circ} - \\cos 60^{\\circ}} =$",
-      "prashna": "$\frac{\\sin 30^{\\circ} + \\cos 45^{\\circ} - \tan 60^{\\circ}}, {\\cot 30^{\\circ} - \\sin 45^{\\circ} - \\cos 60^{\\circ}} =$",
+      "question": "$\\frac{\\sin 30^{\\circ} + \\cos 45^{\\circ} - \tan 60^{\\circ}}, {\\cot 30^{\\circ} - \\sin 45^{\\circ} - \\cos 60^{\\circ}} =$",
+      "prashna": "$\\frac{\\sin 30^{\\circ} + \\cos 45^{\\circ} - \tan 60^{\\circ}}, {\\cot 30^{\\circ} - \\sin 45^{\\circ} - \\cos 60^{\\circ}} =$",
       "options": {
         "A": "-1",
         "B": "0",
@@ -2816,16 +2816,16 @@
       "question": "$\tan 30^\\circ \times \\sin 30^\\circ \times \\sec 60^\\circ =$",
       "prashna": "$\tan 30^\\circ \times \\sin 30^\\circ \times \\sec 60^\\circ =$",
       "options": {
-        "A": "$\frac{1}, {\\sqrt{3}}$",
+        "A": "$\\frac{1}{\\sqrt{3}}$",
         "B": "$\\sqrt{3}$",
-        "C": "$\frac{2}, {\\sqrt{3}}$",
-        "D": "$\frac{2}, {3}$"
+        "C": "$\\frac{2}{\\sqrt{3}}$",
+        "D": "$\\frac{2}{3}$"
       },
       "vikalpa": {
-        "A": "$\frac{1}, {\\sqrt{3}}$",
+        "A": "$\\frac{1}{\\sqrt{3}}$",
         "B": "$\\sqrt{3}$",
-        "C": "$\frac{2}, {\\sqrt{3}}$",
-        "D": "$\frac{2}, {3}$"
+        "C": "$\\frac{2}{\\sqrt{3}}$",
+        "D": "$\\frac{2}{3}$"
       }
     },
     {
@@ -2882,15 +2882,15 @@
       "question": "If $\tan \theta = \\sqrt{3}$, then the value of $\\sec \theta$ is",
       "prashna": "यदि $\tan \theta = \\sqrt{3}$ हो, तो $\\sec \theta$ का मान है",
       "options": {
-        "A": "$\frac{2}, {\\sqrt{3}}$",
-        "B": "$\frac{\\sqrt{3}}, {2}$",
-        "C": "$\frac{1}, {2}$",
+        "A": "$\\frac{2}{\\sqrt{3}}$",
+        "B": "$\\frac{\\sqrt{3}}, {2}$",
+        "C": "$\\frac{1}{2}$",
         "D": "2"
       },
       "vikalpa": {
-        "A": "$\frac{2}, {\\sqrt{3}}$",
-        "B": "$\frac{\\sqrt{3}}, {2}$",
-        "C": "$\frac{1}, {2}$",
+        "A": "$\\frac{2}{\\sqrt{3}}$",
+        "B": "$\\frac{\\sqrt{3}}, {2}$",
+        "C": "$\\frac{1}{2}$",
         "D": "2"
       }
     },
@@ -2901,19 +2901,19 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\\cos \theta + \\sec \theta = \frac{5}, {2}$, then the value of $\\cos^2 \theta + \\sec^2 \theta$ is",
-      "prashna": "यदि $\\cos \theta + \\sec \theta = \frac{5}, {2}$ हो, तो $\\cos^2 \theta + \\sec^2 \theta$ का मान है",
+      "question": "If $\\cos \theta + \\sec \theta = \\frac{5}{2}$, then the value of $\\cos^2 \theta + \\sec^2 \theta$ is",
+      "prashna": "यदि $\\cos \theta + \\sec \theta = \\frac{5}{2}$ हो, तो $\\cos^2 \theta + \\sec^2 \theta$ का मान है",
       "options": {
-        "A": "$\frac{21}, {4}$",
-        "B": "$\frac{17}, {4}$",
-        "C": "$\frac{29}, {4}$",
-        "D": "$\frac{33}, {4}$"
+        "A": "$\\frac{21}{4}$",
+        "B": "$\\frac{17}{4}$",
+        "C": "$\\frac{29}{4}$",
+        "D": "$\\frac{33}{4}$"
       },
       "vikalpa": {
-        "A": "$\frac{21}, {4}$",
-        "B": "$\frac{17}, {4}$",
-        "C": "$\frac{29}, {4}$",
-        "D": "$\frac{33}, {4}$"
+        "A": "$\\frac{21}{4}$",
+        "B": "$\\frac{17}{4}$",
+        "C": "$\\frac{29}{4}$",
+        "D": "$\\frac{33}{4}$"
       }
     },
     {
@@ -2972,13 +2972,13 @@
       "options": {
         "A": "0",
         "B": "1",
-        "C": "$\frac{\\sqrt{3}}, {2}$",
+        "C": "$\\frac{\\sqrt{3}}, {2}$",
         "D": "-1"
       },
       "vikalpa": {
         "A": "0",
         "B": "1",
-        "C": "$\frac{\\sqrt{3}}, {2}$",
+        "C": "$\\frac{\\sqrt{3}}, {2}$",
         "D": "-1"
       }
     },
@@ -2989,8 +2989,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "$\frac{\\sin^2 \theta - 1}, {\\cos^2 \theta} =$",
-      "prashna": "$\frac{\\sin^2 \theta - 1}, {\\cos^2 \theta} =$",
+      "question": "$\\frac{\\sin^2 \theta - 1}{\\cos^2 \theta} =$",
+      "prashna": "$\\frac{\\sin^2 \theta - 1}{\\cos^2 \theta} =$",
       "options": {
         "A": "$\\sec^2 \theta$",
         "B": "$\tan^2 \theta$",
@@ -3033,18 +3033,18 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "$\frac{\tan 45^\\circ - \tan 30^\\circ}, {1 + \tan 45^\\circ \\cdot \tan 30^\\circ} =$",
-      "prashna": "$\frac{\tan 45^\\circ - \tan 30^\\circ}, {1 + \tan 45^\\circ \\cdot \tan 30^\\circ} =$",
+      "question": "$\\frac{\tan 45^\\circ - \tan 30^\\circ}{1 + \tan 45^\\circ \\cdot \tan 30^\\circ} =$",
+      "prashna": "$\\frac{\tan 45^\\circ - \tan 30^\\circ}{1 + \tan 45^\\circ \\cdot \tan 30^\\circ} =$",
       "options": {
-        "A": "$\frac{\\sqrt{3}-1}, {\\sqrt{3}+1}$",
-        "B": "$\frac{\\sqrt{3}+1}, {\\sqrt{3}-1}$",
-        "C": "$\frac{1}, {\\sqrt{3}}$",
+        "A": "$\\frac{\\sqrt{3}-1}, {\\sqrt{3}+1}$",
+        "B": "$\\frac{\\sqrt{3}+1}, {\\sqrt{3}-1}$",
+        "C": "$\\frac{1}{\\sqrt{3}}$",
         "D": "1"
       },
       "vikalpa": {
-        "A": "$\frac{\\sqrt{3}-1}, {\\sqrt{3}+1}$",
-        "B": "$\frac{\\sqrt{3}+1}, {\\sqrt{3}-1}$",
-        "C": "$\frac{1}, {\\sqrt{3}}$",
+        "A": "$\\frac{\\sqrt{3}-1}, {\\sqrt{3}+1}$",
+        "B": "$\\frac{\\sqrt{3}+1}, {\\sqrt{3}-1}$",
+        "C": "$\\frac{1}{\\sqrt{3}}$",
         "D": "1"
       }
     },
@@ -3055,8 +3055,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "$\frac{\tan \theta}, {\\sec \theta - 1} + \frac{\tan \theta}, {\\sec \theta + 1} =$",
-      "prashna": "$\frac{\tan \theta}, {\\sec \theta - 1} + \frac{\tan \theta}, {\\sec \theta + 1} =$",
+      "question": "$\\frac{\tan \theta}{\\sec \theta - 1} + \\frac{\tan \theta}{\\sec \theta + 1} =$",
+      "prashna": "$\\frac{\tan \theta}{\\sec \theta - 1} + \\frac{\tan \theta}{\\sec \theta + 1} =$",
       "options": {
         "A": "$2\tan \theta$",
         "B": "$2\\sec \theta$",
@@ -3080,15 +3080,15 @@
       "question": "$\\sin 90^\\circ \times \tan 60^\\circ \times \\cos 30^\\circ =$",
       "prashna": "$\\sin 90^\\circ \times \tan 60^\\circ \times \\cos 30^\\circ =$",
       "options": {
-        "A": "$\frac{1}, {2}$",
-        "B": "$\frac{3}, {2}$",
-        "C": "$\frac{2}, {3}$",
+        "A": "$\\frac{1}{2}$",
+        "B": "$\\frac{3}{2}$",
+        "C": "$\\frac{2}{3}$",
         "D": "0"
       },
       "vikalpa": {
-        "A": "$\frac{1}, {2}$",
-        "B": "$\frac{3}, {2}$",
-        "C": "$\frac{2}, {3}$",
+        "A": "$\\frac{1}{2}$",
+        "B": "$\\frac{3}{2}$",
+        "C": "$\\frac{2}{3}$",
         "D": "0"
       }
     },
@@ -3143,8 +3143,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "Which of the following is equal to $\frac{1}, {\\sqrt{2}}$ ?",
-      "prashna": "निम्नलिखित में से किसका मान $\frac{1}, {\\sqrt{2}}$ के बराबर है ?",
+      "question": "Which of the following is equal to $\\frac{1}{\\sqrt{2}}$ ?",
+      "prashna": "निम्नलिखित में से किसका मान $\\frac{1}{\\sqrt{2}}$ के बराबर है ?",
       "options": {
         "A": "$\\sin 30^\\circ$",
         "B": "$\\sin 60^\\circ$",
@@ -3231,19 +3231,19 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\\cos \theta = \frac{a}, {b}$, then $\\sin \theta =$",
-      "prashna": "यदि $\\cos \theta = \frac{a}, {b}$ है, तो $\\sin \theta =$",
+      "question": "If $\\cos \theta = \\frac{a}{b}$, then $\\sin \theta =$",
+      "prashna": "यदि $\\cos \theta = \\frac{a}{b}$ है, तो $\\sin \theta =$",
       "options": {
-        "A": "$\frac{\\sqrt{b^2 - a^2}}, {a}$",
-        "B": "$\frac{\\sqrt{b^2 - a^2}}, {b}$",
-        "C": "$\frac{b}, {\\sqrt{b^2 - a^2}}$",
-        "D": "$\frac{b^2 + a^2}, {b}$"
+        "A": "$\\frac{\\sqrt{b^2 - a^2}}, {a}$",
+        "B": "$\\frac{\\sqrt{b^2 - a^2}}, {b}$",
+        "C": "$\\frac{b}{\\sqrt{b^2 - a^2}}$",
+        "D": "$\\frac{b^2 + a^2}{b}$"
       },
       "vikalpa": {
-        "A": "$\frac{\\sqrt{b^2 - a^2}}, {a}$",
-        "B": "$\frac{\\sqrt{b^2 - a^2}}, {b}$",
-        "C": "$\frac{b}, {\\sqrt{b^2 - a^2}}$",
-        "D": "$\frac{b^2 + a^2}, {b}$"
+        "A": "$\\frac{\\sqrt{b^2 - a^2}}, {a}$",
+        "B": "$\\frac{\\sqrt{b^2 - a^2}}, {b}$",
+        "C": "$\\frac{b}{\\sqrt{b^2 - a^2}}$",
+        "D": "$\\frac{b^2 + a^2}{b}$"
       }
     },
     {
@@ -3253,8 +3253,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "$\\sqrt{\frac{1 - \\sin A}, {1 + \\sin A}} =$",
-      "prashna": "$\\sqrt{\frac{1 - \\sin A}, {1 + \\sin A}} =$",
+      "question": "$\\sqrt{\\frac{1 - \\sin A}{1 + \\sin A}} =$",
+      "prashna": "$\\sqrt{\\frac{1 - \\sin A}{1 + \\sin A}} =$",
       "options": {
         "A": "$\\sec A + \tan A$",
         "B": "$\\sec A - \tan A$",
@@ -3278,16 +3278,16 @@
       "question": "$\tan 30^\\circ \\sin 30^\\circ \\cot 60^\\circ \text{cosec } 30^\\circ =$",
       "prashna": "$\tan 30^\\circ \\sin 30^\\circ \\cot 60^\\circ \text{cosec } 30^\\circ =$",
       "options": {
-        "A": "$\frac{1}, {\\sqrt{3}}$",
+        "A": "$\\frac{1}{\\sqrt{3}}$",
         "B": "$\\sqrt{3}$",
-        "C": "$\frac{1}, {2\\sqrt{3}}$",
-        "D": "$\frac{1}, {3}$"
+        "C": "$\\frac{1}{2\\sqrt{3}}$",
+        "D": "$\\frac{1}{3}$"
       },
       "vikalpa": {
-        "A": "$\frac{1}, {\\sqrt{3}}$",
+        "A": "$\\frac{1}{\\sqrt{3}}$",
         "B": "$\\sqrt{3}$",
-        "C": "$\frac{1}, {2\\sqrt{3}}$",
-        "D": "$\frac{1}, {3}$"
+        "C": "$\\frac{1}{2\\sqrt{3}}$",
+        "D": "$\\frac{1}{3}$"
       }
     },
     {
@@ -3319,18 +3319,18 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\\alpha = \beta = 30^\\circ$, then the value of $\\cos(\\alpha + \beta)$ is",
-      "prashna": "यदि $\\alpha = \beta = 30^\\circ$, तो $\\cos(\\alpha + \beta)$ का मान है",
+      "question": "If $\\alpha = \\beta = 30^\\circ$, then the value of $\\cos(\\alpha + \\beta)$ is",
+      "prashna": "यदि $\\alpha = \\beta = 30^\\circ$, तो $\\cos(\\alpha + \\beta)$ का मान है",
       "options": {
-        "A": "$\frac{\\sqrt{3}}, {2}$",
-        "B": "$\frac{1}, {\\sqrt{2}}$",
-        "C": "$\frac{1}, {2}$",
+        "A": "$\\frac{\\sqrt{3}}, {2}$",
+        "B": "$\\frac{1}{\\sqrt{2}}$",
+        "C": "$\\frac{1}{2}$",
         "D": "1"
       },
       "vikalpa": {
-        "A": "$\frac{\\sqrt{3}}, {2}$",
-        "B": "$\frac{1}, {\\sqrt{2}}$",
-        "C": "$\frac{1}, {2}$",
+        "A": "$\\frac{\\sqrt{3}}, {2}$",
+        "B": "$\\frac{1}{\\sqrt{2}}$",
+        "C": "$\\frac{1}{2}$",
         "D": "1"
       }
     },
@@ -3341,19 +3341,19 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "$\frac{2\tan 30^\\circ}, {1 - \tan^2 30^\\circ} =$",
-      "prashna": "$\frac{2\tan 30^\\circ}, {1 - \tan^2 30^\\circ} =$",
+      "question": "$\\frac{2\tan 30^\\circ}{1 - \tan^2 30^\\circ} =$",
+      "prashna": "$\\frac{2\tan 30^\\circ}{1 - \tan^2 30^\\circ} =$",
       "options": {
         "A": "0",
         "B": "1",
         "C": "$\\sqrt{3}$",
-        "D": "$\frac{1}, {\\sqrt{3}}$"
+        "D": "$\\frac{1}{\\sqrt{3}}$"
       },
       "vikalpa": {
         "A": "0",
         "B": "1",
         "C": "$\\sqrt{3}$",
-        "D": "$\frac{1}, {\\sqrt{3}}$"
+        "D": "$\\frac{1}{\\sqrt{3}}$"
       }
     },
     {
@@ -3363,8 +3363,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "The value of $\frac{\tan 65^\\circ}, {\\cot 25^\\circ}$ is",
-      "prashna": "$\frac{\tan 65^\\circ}, {\\cot 25^\\circ}$ का मान है",
+      "question": "The value of $\\frac{\tan 65^\\circ}{\\cot 25^\\circ}$ is",
+      "prashna": "$\\frac{\tan 65^\\circ}{\\cot 25^\\circ}$ का मान है",
       "options": {
         "A": "0",
         "B": "1",
@@ -3388,13 +3388,13 @@
       "question": "$\tan 5^\\circ \times \tan 30^\\circ \times 4 \tan 85^\\circ =$",
       "prashna": "$\tan 5^\\circ \times \tan 30^\\circ \times 4 \tan 85^\\circ =$",
       "options": {
-        "A": "$\frac{4}, {\\sqrt{3}}$",
+        "A": "$\\frac{4}{\\sqrt{3}}$",
         "B": "$4\\sqrt{3}$",
         "C": "1",
         "D": "4"
       },
       "vikalpa": {
-        "A": "$\frac{4}, {\\sqrt{3}}$",
+        "A": "$\\frac{4}{\\sqrt{3}}$",
         "B": "$4\\sqrt{3}$",
         "C": "1",
         "D": "4"
@@ -3519,8 +3519,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "$\\sqrt{\frac{1 + \\cos A}, {1 - \\cos A}} = $",
-      "prashna": "$\\sqrt{\frac{1 + \\cos A}, {1 - \\cos A}} = $",
+      "question": "$\\sqrt{\\frac{1 + \\cos A}{1 - \\cos A}} = $",
+      "prashna": "$\\sqrt{\\frac{1 + \\cos A}{1 - \\cos A}} = $",
       "options": {
         "A": "\text{cosec } A - \\cot A",
         "B": "\text{cosec } A + \\cot A",
@@ -3585,8 +3585,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "$\frac{\text{cosec } 42°}, {\\sec 48°} \times \frac{\\cos 37°}, {\\sin 53°} = $",
-      "prashna": "$\frac{\text{cosec } 42°}, {\\sec 48°} \times \frac{\\cos 37°}, {\\sin 53°} = $",
+      "question": "$\\frac{\text{cosec } 42°}, {\\sec 48°} \times \\frac{\\cos 37°}{\\sin 53°} = $",
+      "prashna": "$\\frac{\text{cosec } 42°}, {\\sec 48°} \times \\frac{\\cos 37°}{\\sin 53°} = $",
       "options": {
         "A": "0",
         "B": "1/2",
@@ -3607,8 +3607,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\tan(\\alpha + \beta) = \\sqrt{3}$ and $\tan \\alpha = 1/\\sqrt{3}$ then the value of $\tan \beta$ is",
-      "prashna": "यदि $\tan(\\alpha + \beta) = \\sqrt{3}$ और $\tan \\alpha = 1/\\sqrt{3}$ तो $\tan \beta$ का मान है",
+      "question": "If $\tan(\\alpha + \\beta) = \\sqrt{3}$ and $\tan \\alpha = 1/\\sqrt{3}$ then the value of $\tan \\beta$ is",
+      "prashna": "यदि $\tan(\\alpha + \\beta) = \\sqrt{3}$ और $\tan \\alpha = 1/\\sqrt{3}$ तो $\tan \\beta$ का मान है",
       "options": {
         "A": "1/6",
         "B": "1/7",
@@ -3629,8 +3629,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "$\\sqrt{2}\\left(\\sin \frac{\\pi}, {4} + \\cos \frac{\\pi}, {4}\right) = $",
-      "prashna": "$\\sqrt{2}\\left(\\sin \frac{\\pi}, {4} + \\cos \frac{\\pi}, {4}\right) = $",
+      "question": "$\\sqrt{2}\\left(\\sin \\frac{\\pi}{4} + \\cos \\frac{\\pi}{4}\right) = $",
+      "prashna": "$\\sqrt{2}\\left(\\sin \\frac{\\pi}{4} + \\cos \\frac{\\pi}{4}\right) = $",
       "options": {
         "A": "\\sqrt{2}",
         "B": "2",
@@ -3700,13 +3700,13 @@
       "options": {
         "A": "1",
         "B": "\\sqrt{3}",
-        "C": "\frac{1}, {\\sqrt{3}}",
+        "C": "\\frac{1}{\\sqrt{3}}",
         "D": "3"
       },
       "vikalpa": {
         "A": "1",
         "B": "\\sqrt{3}",
-        "C": "\frac{1}, {\\sqrt{3}}",
+        "C": "\\frac{1}{\\sqrt{3}}",
         "D": "3"
       }
     },
@@ -3742,16 +3742,16 @@
       "question": "If $\\sin \theta = \\sqrt{2} \\cos \theta$ then the value of $\\sec \theta$ is",
       "prashna": "यदि $\\sin \theta = \\sqrt{2} \\cos \theta$ तो $\\sec \theta$ का मान है",
       "options": {
-        "A": "\frac{1}, {\\sqrt{3}}",
+        "A": "\\frac{1}{\\sqrt{3}}",
         "B": "\\sqrt{3}",
-        "C": "\frac{\\sqrt{3}}, {2}",
-        "D": "\frac{2}, {\\sqrt{3}}"
+        "C": "\\frac{\\sqrt{3}}, {2}",
+        "D": "\\frac{2}{\\sqrt{3}}"
       },
       "vikalpa": {
-        "A": "\frac{1}, {\\sqrt{3}}",
+        "A": "\\frac{1}{\\sqrt{3}}",
         "B": "\\sqrt{3}",
-        "C": "\frac{\\sqrt{3}}, {2}",
-        "D": "\frac{2}, {\\sqrt{3}}"
+        "C": "\\frac{\\sqrt{3}}, {2}",
+        "D": "\\frac{2}{\\sqrt{3}}"
       }
     },
     {
@@ -3767,13 +3767,13 @@
         "A": "3",
         "B": "1",
         "C": "9",
-        "D": "\frac{1}, {3}"
+        "D": "\\frac{1}{3}"
       },
       "vikalpa": {
         "A": "3",
         "B": "1",
         "C": "9",
-        "D": "\frac{1}, {3}"
+        "D": "\\frac{1}{3}"
       }
     },
     {
@@ -3783,19 +3783,19 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If A, B, C are angles of a triangle ABC, then the value of $\\csc \\left(\frac{A+B}, {2}\right)$ is",
-      "prashna": "यदि A, B, C किसी त्रिभुज ABC के कोण हों तो $\\csc \\left(\frac{A+B}, {2}\right)$ का मान है",
+      "question": "If A, B, C are angles of a triangle ABC, then the value of $\\csc \\left(\\frac{A+B}{2}\right)$ is",
+      "prashna": "यदि A, B, C किसी त्रिभुज ABC के कोण हों तो $\\csc \\left(\\frac{A+B}{2}\right)$ का मान है",
       "options": {
-        "A": "\tan \frac{C}, {2}",
-        "B": "\\sec \frac{C}, {2}",
-        "C": "\\cot \frac{C}, {2}",
-        "D": "\\sin \frac{C}, {2}"
+        "A": "\tan \\frac{C}{2}",
+        "B": "\\sec \\frac{C}{2}",
+        "C": "\\cot \\frac{C}{2}",
+        "D": "\\sin \\frac{C}{2}"
       },
       "vikalpa": {
-        "A": "\tan \frac{C}, {2}",
-        "B": "\\sec \frac{C}, {2}",
-        "C": "\\cot \frac{C}, {2}",
-        "D": "\\sin \frac{C}, {2}"
+        "A": "\tan \\frac{C}{2}",
+        "B": "\\sec \\frac{C}{2}",
+        "C": "\\cot \\frac{C}{2}",
+        "D": "\\sin \\frac{C}{2}"
       }
     },
     {
@@ -3827,8 +3827,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\\sin \theta = \frac{\\sqrt{3}}, {2}, 0 < \theta < 90^\\circ$ then $\tan^2 \theta - 1 =$",
-      "prashna": "यदि $\\sin \theta = \frac{\\sqrt{3}}, {2}, 0 < \theta < 90^\\circ$ तो $\tan^2 \theta - 1 =$",
+      "question": "If $\\sin \theta = \\frac{\\sqrt{3}}, {2}, 0 < \theta < 90^\\circ$ then $\tan^2 \theta - 1 =$",
+      "prashna": "यदि $\\sin \theta = \\frac{\\sqrt{3}}, {2}, 0 < \theta < 90^\\circ$ तो $\tan^2 \theta - 1 =$",
       "options": {
         "A": "1",
         "B": "0",
@@ -3854,13 +3854,13 @@
       "options": {
         "A": "9",
         "B": "10",
-        "C": "\frac{1}, {9}",
+        "C": "\\frac{1}{9}",
         "D": "0"
       },
       "vikalpa": {
         "A": "9",
         "B": "10",
-        "C": "\frac{1}, {9}",
+        "C": "\\frac{1}{9}",
         "D": "0"
       }
     },
@@ -3871,19 +3871,19 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\\sin \theta = \frac{a}, {b}$ then the value of $\\cos \theta$ is",
-      "prashna": "यदि $\\sin \theta = \frac{a}, {b}$ तो $\\cos \theta$ का मान है",
+      "question": "If $\\sin \theta = \\frac{a}{b}$ then the value of $\\cos \theta$ is",
+      "prashna": "यदि $\\sin \theta = \\frac{a}{b}$ तो $\\cos \theta$ का मान है",
       "options": {
-        "A": "\frac{b}, {\\sqrt{b^2 - a^2}}",
-        "B": "\frac{\\sqrt{b^2 - a^2}}, {b}",
-        "C": "\frac{a}, {\\sqrt{b^2 - a^2}}",
-        "D": "\frac{b}, {a}"
+        "A": "\\frac{b}{\\sqrt{b^2 - a^2}}",
+        "B": "\\frac{\\sqrt{b^2 - a^2}}, {b}",
+        "C": "\\frac{a}{\\sqrt{b^2 - a^2}}",
+        "D": "\\frac{b}{a}"
       },
       "vikalpa": {
-        "A": "\frac{b}, {\\sqrt{b^2 - a^2}}",
-        "B": "\frac{\\sqrt{b^2 - a^2}}, {b}",
-        "C": "\frac{a}, {\\sqrt{b^2 - a^2}}",
-        "D": "\frac{b}, {a}"
+        "A": "\\frac{b}{\\sqrt{b^2 - a^2}}",
+        "B": "\\frac{\\sqrt{b^2 - a^2}}, {b}",
+        "C": "\\frac{a}{\\sqrt{b^2 - a^2}}",
+        "D": "\\frac{b}{a}"
       }
     },
     {
@@ -3893,19 +3893,19 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\\sec \theta = \frac{13}, {12}$ then $\\cot \theta =$",
-      "prashna": "यदि $\\sec \theta = \frac{13}, {12}$ तो $\\cot \theta =$",
+      "question": "If $\\sec \theta = \\frac{13}{12}$ then $\\cot \theta =$",
+      "prashna": "यदि $\\sec \theta = \\frac{13}{12}$ तो $\\cot \theta =$",
       "options": {
-        "A": "\frac{5}, {12}",
-        "B": "\frac{5}, {13}",
-        "C": "\frac{12}, {5}",
-        "D": "\frac{13}, {5}"
+        "A": "\\frac{5}{12}",
+        "B": "\\frac{5}{13}",
+        "C": "\\frac{12}{5}",
+        "D": "\\frac{13}{5}"
       },
       "vikalpa": {
-        "A": "\frac{5}, {12}",
-        "B": "\frac{5}, {13}",
-        "C": "\frac{12}, {5}",
-        "D": "\frac{13}, {5}"
+        "A": "\\frac{5}{12}",
+        "B": "\\frac{5}{13}",
+        "C": "\\frac{12}{5}",
+        "D": "\\frac{13}{5}"
       }
     },
     {
@@ -3945,13 +3945,13 @@
         "A": "0",
         "B": "1",
         "C": "$\\sqrt{3}$",
-        "D": "$\frac{1}, {\\sqrt{3}}$"
+        "D": "$\\frac{1}{\\sqrt{3}}$"
       },
       "vikalpa": {
         "A": "0",
         "B": "1",
         "C": "$\\sqrt{3}$",
-        "D": "$\frac{1}, {\\sqrt{3}}$"
+        "D": "$\\frac{1}{\\sqrt{3}}$"
       }
     },
     {
@@ -4027,8 +4027,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "$\frac{1 + \tan^2 A}, {1 + \\cot^2 A} = $",
-      "prashna": "$\frac{1 + \tan^2 A}, {1 + \\cot^2 A} = $",
+      "question": "$\\frac{1 + \tan^2 A}{1 + \\cot^2 A} = $",
+      "prashna": "$\\frac{1 + \tan^2 A}{1 + \\cot^2 A} = $",
       "options": {
         "A": "$\\sec^2 A$",
         "B": "-1",
@@ -4071,16 +4071,16 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\\alpha = \beta = 60^\\circ$ then the value of $\\cos(\\alpha - \beta)$ is",
-      "prashna": "यदि $\\alpha = \beta = 60^\\circ$ हो तो $\\cos(\\alpha - \beta)$ का मान है",
+      "question": "If $\\alpha = \\beta = 60^\\circ$ then the value of $\\cos(\\alpha - \\beta)$ is",
+      "prashna": "यदि $\\alpha = \\beta = 60^\\circ$ हो तो $\\cos(\\alpha - \\beta)$ का मान है",
       "options": {
-        "A": "$\frac{1}, {2}$",
+        "A": "$\\frac{1}{2}$",
         "B": "1",
         "C": "0",
         "D": "2"
       },
       "vikalpa": {
-        "A": "$\frac{1}, {2}$",
+        "A": "$\\frac{1}{2}$",
         "B": "1",
         "C": "0",
         "D": "2"
@@ -4096,15 +4096,15 @@
       "question": "If $\theta = 45^\\circ$ then the value of $\\sin \theta + \\cos \theta$ is",
       "prashna": "यदि $\theta = 45^\\circ$ हो तो $\\sin \theta + \\cos \theta$ का मान है",
       "options": {
-        "A": "$\frac{1}, {\\sqrt{2}}$",
+        "A": "$\\frac{1}{\\sqrt{2}}$",
         "B": "$\\sqrt{2}$",
-        "C": "$\frac{1}, {2}$",
+        "C": "$\\frac{1}{2}$",
         "D": "1"
       },
       "vikalpa": {
-        "A": "$\frac{1}, {\\sqrt{2}}$",
+        "A": "$\\frac{1}{\\sqrt{2}}$",
         "B": "$\\sqrt{2}$",
-        "C": "$\frac{1}, {2}$",
+        "C": "$\\frac{1}{2}$",
         "D": "1"
       }
     },
@@ -4115,8 +4115,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $A = 30^\\circ$ then the value of $\frac{2 \tan A}, {1 - \tan^2 A}$ is",
-      "prashna": "यदि $A = 30^\\circ$ हो तो $\frac{2 \tan A}, {1 - \tan^2 A}$ का मान है",
+      "question": "If $A = 30^\\circ$ then the value of $\\frac{2 \tan A}{1 - \tan^2 A}$ is",
+      "prashna": "यदि $A = 30^\\circ$ हो तो $\\frac{2 \tan A}{1 - \tan^2 A}$ का मान है",
       "options": {
         "A": "$2 \tan 30^\\circ$",
         "B": "$\tan 60^\\circ$",
@@ -4137,19 +4137,19 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "If $\tan \theta = \frac{12}, {5}$ then the value of $\\sin \theta$ is",
-      "prashna": "यदि $\tan \theta = \frac{12}, {5}$ हो तो $\\sin \theta$ का मान है",
+      "question": "If $\tan \theta = \\frac{12}{5}$ then the value of $\\sin \theta$ is",
+      "prashna": "यदि $\tan \theta = \\frac{12}{5}$ हो तो $\\sin \theta$ का मान है",
       "options": {
-        "A": "$\frac{5}, {12}$",
-        "B": "$\frac{12}, {13}$",
-        "C": "$\frac{5}, {13}$",
-        "D": "$\frac{12}, {5}$"
+        "A": "$\\frac{5}{12}$",
+        "B": "$\\frac{12}{13}$",
+        "C": "$\\frac{5}{13}$",
+        "D": "$\\frac{12}{5}$"
       },
       "vikalpa": {
-        "A": "$\frac{5}, {12}$",
-        "B": "$\frac{12}, {13}$",
-        "C": "$\frac{5}, {13}$",
-        "D": "$\frac{12}, {5}$"
+        "A": "$\\frac{5}{12}$",
+        "B": "$\\frac{12}{13}$",
+        "C": "$\\frac{5}{13}$",
+        "D": "$\\frac{12}{5}$"
       }
     },
     {
@@ -4159,19 +4159,19 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "$\frac{\\cos 59^\\circ}, {\\sin 31^\\circ} \times \frac{\tan 80^\\circ}, {\\cot 10^\\circ} = $",
-      "prashna": "$\frac{\\cos 59^\\circ}, {\\sin 31^\\circ} \times \frac{\tan 80^\\circ}, {\\cot 10^\\circ} = $",
+      "question": "$\\frac{\\cos 59^\\circ}{\\sin 31^\\circ} \times \\frac{\tan 80^\\circ}{\\cot 10^\\circ} = $",
+      "prashna": "$\\frac{\\cos 59^\\circ}{\\sin 31^\\circ} \times \\frac{\tan 80^\\circ}{\\cot 10^\\circ} = $",
       "options": {
-        "A": "$\frac{1}, {\\sqrt{2}}$",
+        "A": "$\\frac{1}{\\sqrt{2}}$",
         "B": "1",
-        "C": "$\frac{\\sqrt{3}}, {2}$",
-        "D": "$\frac{1}, {2}$"
+        "C": "$\\frac{\\sqrt{3}}, {2}$",
+        "D": "$\\frac{1}{2}$"
       },
       "vikalpa": {
-        "A": "$\frac{1}, {\\sqrt{2}}$",
+        "A": "$\\frac{1}{\\sqrt{2}}$",
         "B": "1",
-        "C": "$\frac{\\sqrt{3}}, {2}$",
-        "D": "$\frac{1}, {2}$"
+        "C": "$\\frac{\\sqrt{3}}, {2}$",
+        "D": "$\\frac{1}{2}$"
       }
     },
     {
@@ -4206,16 +4206,16 @@
       "question": "If $\\cos \theta = x$ then $\tan \theta = $",
       "prashna": "यदि $\\cos \theta = x$ तो $\tan \theta = $",
       "options": {
-        "A": "$\frac{\\sqrt{1 + x^2}}, {x}$",
-        "B": "$\frac{\\sqrt{1 - x^2}}, {x}$",
+        "A": "$\\frac{\\sqrt{1 + x^2}}, {x}$",
+        "B": "$\\frac{\\sqrt{1 - x^2}}, {x}$",
         "C": "$\\sqrt{1 - x^2}$",
-        "D": "$\frac{x}, {\\sqrt{1 - x^2}}$"
+        "D": "$\\frac{x}{\\sqrt{1 - x^2}}$"
       },
       "vikalpa": {
-        "A": "$\frac{\\sqrt{1 + x^2}}, {x}$",
-        "B": "$\frac{\\sqrt{1 - x^2}}, {x}$",
+        "A": "$\\frac{\\sqrt{1 + x^2}}, {x}$",
+        "B": "$\\frac{\\sqrt{1 - x^2}}, {x}$",
         "C": "$\\sqrt{1 - x^2}$",
-        "D": "$\frac{x}, {\\sqrt{1 - x^2}}$"
+        "D": "$\\frac{x}{\\sqrt{1 - x^2}}$"
       }
     },
     {
@@ -4275,13 +4275,13 @@
         "A": "$\\sin^2 60^\\circ + \\cos 60^\\circ$",
         "B": "$\\sin 90^\\circ \times \\cos 90^\\circ$",
         "C": "$\\sin^2 60^\\circ$",
-        "D": "$\\sin 45^\\circ \times \frac{1}, {\\cos 45^\\circ}$"
+        "D": "$\\sin 45^\\circ \times \\frac{1}{\\cos 45^\\circ}$"
       },
       "vikalpa": {
         "A": "$\\sin^2 60^\\circ + \\cos 60^\\circ$",
         "B": "$\\sin 90^\\circ \times \\cos 90^\\circ$",
         "C": "$\\sin^2 60^\\circ$",
-        "D": "$\\sin 45^\\circ \times \frac{1}, {\\cos 45^\\circ}$"
+        "D": "$\\sin 45^\\circ \times \\frac{1}{\\cos 45^\\circ}$"
       }
     },
     {
@@ -4317,14 +4317,14 @@
       "prashna": "$\tan 30^\\circ = $",
       "options": {
         "A": "$\\sqrt{3}$",
-        "B": "$\frac{\\sqrt{3}}, {2}$",
-        "C": "$\frac{1}, {\\sqrt{3}}$",
+        "B": "$\\frac{\\sqrt{3}}, {2}$",
+        "C": "$\\frac{1}{\\sqrt{3}}$",
         "D": "1"
       },
       "vikalpa": {
         "A": "$\\sqrt{3}$",
-        "B": "$\frac{\\sqrt{3}}, {2}$",
-        "C": "$\frac{1}, {\\sqrt{3}}$",
+        "B": "$\\frac{\\sqrt{3}}, {2}$",
+        "C": "$\\frac{1}{\\sqrt{3}}$",
         "D": "1"
       }
     },
@@ -4338,15 +4338,15 @@
       "question": "$\\cos 60^\\circ = $",
       "prashna": "$\\cos 60^\\circ = $",
       "options": {
-        "A": "$\frac{1}, {2}$",
-        "B": "$\frac{\\sqrt{3}}, {2}$",
-        "C": "$\frac{1}, {\\sqrt{2}}$",
+        "A": "$\\frac{1}{2}$",
+        "B": "$\\frac{\\sqrt{3}}, {2}$",
+        "C": "$\\frac{1}{\\sqrt{2}}$",
         "D": "1"
       },
       "vikalpa": {
-        "A": "$\frac{1}, {2}$",
-        "B": "$\frac{\\sqrt{3}}, {2}$",
-        "C": "$\frac{1}, {\\sqrt{2}}$",
+        "A": "$\\frac{1}{2}$",
+        "B": "$\\frac{\\sqrt{3}}, {2}$",
+        "C": "$\\frac{1}{\\sqrt{2}}$",
         "D": "1"
       }
     },
@@ -4361,14 +4361,14 @@
       "prashna": "$\\sin^2 90^\\circ - \tan^2 45^\\circ = $",
       "options": {
         "A": "1",
-        "B": "$\frac{1}, {2}$",
-        "C": "$\frac{1}, {\\sqrt{2}}$",
+        "B": "$\\frac{1}{2}$",
+        "C": "$\\frac{1}{\\sqrt{2}}$",
         "D": "0"
       },
       "vikalpa": {
         "A": "1",
-        "B": "$\frac{1}, {2}$",
-        "C": "$\frac{1}, {\\sqrt{2}}$",
+        "B": "$\\frac{1}{2}$",
+        "C": "$\\frac{1}{\\sqrt{2}}$",
         "D": "0"
       }
     },
@@ -4405,13 +4405,13 @@
         "A": "0",
         "B": "1",
         "C": "- 1",
-        "D": "$\frac{1}, {2}$"
+        "D": "$\\frac{1}{2}$"
       },
       "vikalpa": {
         "A": "0",
         "B": "1",
         "C": "- 1",
-        "D": "$\frac{1}, {2}$"
+        "D": "$\\frac{1}{2}$"
       }
     },
     {
@@ -4439,8 +4439,8 @@
       "type": "objective",
       "chapter": "8",
       "chapter_name": "Introduction to Trigonometry",
-      "question": "$\frac{\tan \theta}, {\\sec \theta - 1} + \frac{\tan \theta}, {\\sec \theta + 1} =$",
-      "prashna": "$\frac{\tan \theta}, {\\sec \theta - 1} + \frac{\tan \theta}, {\\sec \theta + 1} =$",
+      "question": "$\\frac{\tan \theta}{\\sec \theta - 1} + \\frac{\tan \theta}{\\sec \theta + 1} =$",
+      "prashna": "$\\frac{\tan \theta}{\\sec \theta - 1} + \\frac{\tan \theta}{\\sec \theta + 1} =$",
       "options": {
         "A": "$2 \tan \theta$",
         "B": "$2 \\sec \theta$",
@@ -4465,13 +4465,13 @@
         "A": "$\\sin^2 45^\\circ + \\cos^2 45^\\circ$",
         "B": "$\\sin 0^\\circ \times \\cos 0^\\circ$",
         "C": "$\\cos^2 60^\\circ$",
-        "D": "$\\sin 30^\\circ \times \frac{1}, {\\cos 30^\\circ}$"
+        "D": "$\\sin 30^\\circ \times \\frac{1}{\\cos 30^\\circ}$"
       },
       "vikalpa": {
         "A": "$\\sin^2 45^\\circ + \\cos^2 45^\\circ$",
         "B": "$\\sin 0^\\circ \times \\cos 0^\\circ$",
         "C": "$\\cos^2 60^\\circ$",
-        "D": "$\\sin 30^\\circ \times \frac{1}, {\\cos 30^\\circ}$"
+        "D": "$\\sin 30^\\circ \times \\frac{1}{\\cos 30^\\circ}$"
       }
     },
     {
@@ -4503,15 +4503,15 @@
       "prashna": "$\tan 45^\\circ =$",
       "options": {
         "A": "$\\sqrt{3}$",
-        "B": "$\frac{1}, {\\sqrt{3}}$",
+        "B": "$\\frac{1}{\\sqrt{3}}$",
         "C": "1",
-        "D": "$\frac{1}, {2}$"
+        "D": "$\\frac{1}{2}$"
       },
       "vikalpa": {
         "A": "$\\sqrt{3}$",
-        "B": "$\frac{1}, {\\sqrt{3}}$",
+        "B": "$\\frac{1}{\\sqrt{3}}$",
         "C": "1",
-        "D": "$\frac{1}, {2}$"
+        "D": "$\\frac{1}{2}$"
       }
     },
     {
@@ -4525,13 +4525,13 @@
         "A": "1",
         "B": "2",
         "C": "$\\sqrt{2}$",
-        "D": "$\frac{1}, {\\sqrt{2}}$"
+        "D": "$\\frac{1}{\\sqrt{2}}$"
       },
       "vikalpa": {
         "A": "1",
         "B": "2",
         "C": "$\\sqrt{2}$",
-        "D": "$\frac{1}, {\\sqrt{2}}$"
+        "D": "$\\frac{1}{\\sqrt{2}}$"
       }
     },
     {
@@ -4605,13 +4605,13 @@
         "A": "0",
         "B": "1",
         "C": "$\\sqrt{3}$",
-        "D": "$\frac{1}, {\\sqrt{3}}$"
+        "D": "$\\frac{1}{\\sqrt{3}}$"
       },
       "vikalpa": {
         "A": "0",
         "B": "1",
         "C": "$\\sqrt{3}$",
-        "D": "$\frac{1}, {\\sqrt{3}}$"
+        "D": "$\\frac{1}{\\sqrt{3}}$"
       }
     },
     {
@@ -4619,8 +4619,8 @@
       "type": "objective",
       "chapter": "8",
       "chapter_name": "Introduction to Trigonometry",
-      "question": "$\\sqrt{\frac{1 - \\cos \theta}, {1 + \\cos \theta}} =$",
-      "prashna": "$\\sqrt{\frac{1 - \\cos \theta}, {1 + \\cos \theta}} =$",
+      "question": "$\\sqrt{\\frac{1 - \\cos \theta}{1 + \\cos \theta}} =$",
+      "prashna": "$\\sqrt{\\frac{1 - \\cos \theta}{1 + \\cos \theta}} =$",
       "options": {
         "A": "$\\sec \theta - \tan \theta$",
         "B": "$\\cos \theta - \\sin \theta$",
@@ -4642,15 +4642,15 @@
       "question": "$\\sin 45^\\circ + \\cos 45^\\circ =$",
       "prashna": "$\\sin 45^\\circ + \\cos 45^\\circ =$",
       "options": {
-        "A": "$\frac{1}, {\\sqrt{2}}$",
+        "A": "$\\frac{1}{\\sqrt{2}}$",
         "B": "$\\sqrt{2}$",
-        "C": "$\frac{\\sqrt{3}}, {2}$",
+        "C": "$\\frac{\\sqrt{3}}, {2}$",
         "D": "1"
       },
       "vikalpa": {
-        "A": "$\frac{1}, {\\sqrt{2}}$",
+        "A": "$\\frac{1}{\\sqrt{2}}$",
         "B": "$\\sqrt{2}$",
-        "C": "$\frac{\\sqrt{3}}, {2}$",
+        "C": "$\\frac{\\sqrt{3}}, {2}$",
         "D": "1"
       }
     },
@@ -4679,18 +4679,18 @@
       "type": "objective",
       "chapter": "8",
       "chapter_name": "Introduction to Trigonometry",
-      "question": "If $\\alpha = 60^\\circ$ and $\beta = 30^\\circ$ then the value of $\\sin(\\alpha - \beta)$ is",
-      "prashna": "यदि $\\alpha = 60^\\circ$ तथा $\beta = 30^\\circ$ हो तो $\\sin(\\alpha - \beta)$ का मान है",
+      "question": "If $\\alpha = 60^\\circ$ and $\\beta = 30^\\circ$ then the value of $\\sin(\\alpha - \\beta)$ is",
+      "prashna": "यदि $\\alpha = 60^\\circ$ तथा $\\beta = 30^\\circ$ हो तो $\\sin(\\alpha - \\beta)$ का मान है",
       "options": {
-        "A": "$\frac{1}, {\\sqrt{2}}$",
-        "B": "$\frac{1}, {2}$",
-        "C": "$\frac{\\sqrt{3}}, {2}$",
+        "A": "$\\frac{1}{\\sqrt{2}}$",
+        "B": "$\\frac{1}{2}$",
+        "C": "$\\frac{\\sqrt{3}}, {2}$",
         "D": "1"
       },
       "vikalpa": {
-        "A": "$\frac{1}, {\\sqrt{2}}$",
-        "B": "$\frac{1}, {2}$",
-        "C": "$\frac{\\sqrt{3}}, {2}$",
+        "A": "$\\frac{1}{\\sqrt{2}}$",
+        "B": "$\\frac{1}{2}$",
+        "C": "$\\frac{\\sqrt{3}}, {2}$",
         "D": "1"
       }
     },
@@ -4703,15 +4703,15 @@
       "prashna": "यदि $\theta = 45^\\circ$ तो $\tan \theta + \\cot \theta$ का मान है",
       "options": {
         "A": "1",
-        "B": "$\frac{1}, {\\sqrt{3}}$",
+        "B": "$\\frac{1}{\\sqrt{3}}$",
         "C": "2",
-        "D": "$\frac{1}, {2}$"
+        "D": "$\\frac{1}{2}$"
       },
       "vikalpa": {
         "A": "1",
-        "B": "$\frac{1}, {\\sqrt{3}}$",
+        "B": "$\\frac{1}{\\sqrt{3}}$",
         "C": "2",
-        "D": "$\frac{1}, {2}$"
+        "D": "$\\frac{1}{2}$"
       }
     },
     {
@@ -4719,19 +4719,19 @@
       "type": "objective",
       "chapter": "8",
       "chapter_name": "Introduction to Trigonometry",
-      "question": "If $A = 60^\\circ$ then the value of $\frac{2 \tan A}, {1 - \tan^2 A}$ is",
-      "prashna": "यदि $A = 60^\\circ$ हो तो $\frac{2 \tan A}, {1 - \tan^2 A}$ का मान है",
+      "question": "If $A = 60^\\circ$ then the value of $\\frac{2 \tan A}{1 - \tan^2 A}$ is",
+      "prashna": "यदि $A = 60^\\circ$ हो तो $\\frac{2 \tan A}{1 - \tan^2 A}$ का मान है",
       "options": {
         "A": "$\\sqrt{3}$",
         "B": "$-\\sqrt{3}$",
-        "C": "$\frac{1}, {\\sqrt{3}}$",
-        "D": "$-\frac{1}, {\\sqrt{3}}$"
+        "C": "$\\frac{1}{\\sqrt{3}}$",
+        "D": "$-\\frac{1}{\\sqrt{3}}$"
       },
       "vikalpa": {
         "A": "$\\sqrt{3}$",
         "B": "$-\\sqrt{3}$",
-        "C": "$\frac{1}, {\\sqrt{3}}$",
-        "D": "$-\frac{1}, {\\sqrt{3}}$"
+        "C": "$\\frac{1}{\\sqrt{3}}$",
+        "D": "$-\\frac{1}{\\sqrt{3}}$"
       }
     },
     {
@@ -4739,19 +4739,19 @@
       "type": "objective",
       "chapter": "8",
       "chapter_name": "Introduction to Trigonometry",
-      "question": "If $\tan \theta = \frac{12}, {5}$ then the value of $\\cos \theta$ is",
-      "prashna": "यदि $\tan \theta = \frac{12}, {5}$ हो तो $\\cos \theta$ का मान है",
+      "question": "If $\tan \theta = \\frac{12}{5}$ then the value of $\\cos \theta$ is",
+      "prashna": "यदि $\tan \theta = \\frac{12}{5}$ हो तो $\\cos \theta$ का मान है",
       "options": {
-        "A": "$\frac{5}, {12}$",
-        "B": "$\frac{5}, {13}$",
-        "C": "$\frac{13}, {5}$",
-        "D": "$\frac{12}, {13}$"
+        "A": "$\\frac{5}{12}$",
+        "B": "$\\frac{5}{13}$",
+        "C": "$\\frac{13}{5}$",
+        "D": "$\\frac{12}{13}$"
       },
       "vikalpa": {
-        "A": "$\frac{5}, {12}$",
-        "B": "$\frac{5}, {13}$",
-        "C": "$\frac{13}, {5}$",
-        "D": "$\frac{12}, {13}$"
+        "A": "$\\frac{5}{12}$",
+        "B": "$\\frac{5}{13}$",
+        "C": "$\\frac{13}{5}$",
+        "D": "$\\frac{12}{13}$"
       }
     },
     {
@@ -4759,8 +4759,8 @@
       "type": "objective",
       "chapter": "8",
       "chapter_name": "Introduction to Trigonometry",
-      "question": "$\frac{\\cos 49^\\circ}, {\\sin 41^\\circ} \times \frac{\tan 70^\\circ}, {\\cot 20^\\circ} =$",
-      "prashna": "$\frac{\\cos 49^\\circ}, {\\sin 41^\\circ} \times \frac{\tan 70^\\circ}, {\\cot 20^\\circ} =$",
+      "question": "$\\frac{\\cos 49^\\circ}{\\sin 41^\\circ} \times \\frac{\tan 70^\\circ}{\\cot 20^\\circ} =$",
+      "prashna": "$\\frac{\\cos 49^\\circ}{\\sin 41^\\circ} \times \\frac{\tan 70^\\circ}{\\cot 20^\\circ} =$",
       "options": {
         "A": "- 1",
         "B": "0",
@@ -4803,15 +4803,15 @@
       "prashna": "यदि $\\sin \theta = P$ हो तो $\\sec \theta =$",
       "options": {
         "A": "$\\sqrt{1 + P^2}$",
-        "B": "$\frac{1}, {\\sqrt{1 - P^2}}$",
-        "C": "$\frac{P}, {\\sqrt{1 - P^2}}$",
-        "D": "$\frac{1}, {\\sqrt{1 + P^2}}$"
+        "B": "$\\frac{1}{\\sqrt{1 - P^2}}$",
+        "C": "$\\frac{P}{\\sqrt{1 - P^2}}$",
+        "D": "$\\frac{1}{\\sqrt{1 + P^2}}$"
       },
       "vikalpa": {
         "A": "$\\sqrt{1 + P^2}$",
-        "B": "$\frac{1}, {\\sqrt{1 - P^2}}$",
-        "C": "$\frac{P}, {\\sqrt{1 - P^2}}$",
-        "D": "$\frac{1}, {\\sqrt{1 + P^2}}$"
+        "B": "$\\frac{1}{\\sqrt{1 - P^2}}$",
+        "C": "$\\frac{P}{\\sqrt{1 - P^2}}$",
+        "D": "$\\frac{1}{\\sqrt{1 + P^2}}$"
       }
     },
     {
@@ -5262,8 +5262,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "\frac{3\\sin^2 15^{\\circ} + 1 + 3\\sin^2 75^{\\circ}}, {4\\cos^2 37^{\\circ} - 2 + 4\\cos^2 53^{\\circ}} =",
-      "prashna": "\frac{3\\sin^2 15^{\\circ} + 1 + 3\\sin^2 75^{\\circ}}, {4\\cos^2 37^{\\circ} - 2 + 4\\cos^2 53^{\\circ}} =",
+      "question": "\\frac{3\\sin^2 15^{\\circ} + 1 + 3\\sin^2 75^{\\circ}}, {4\\cos^2 37^{\\circ} - 2 + 4\\cos^2 53^{\\circ}} =",
+      "prashna": "\\frac{3\\sin^2 15^{\\circ} + 1 + 3\\sin^2 75^{\\circ}}, {4\\cos^2 37^{\\circ} - 2 + 4\\cos^2 53^{\\circ}} =",
       "options": {
         "A": "3",
         "B": "4",
@@ -5394,8 +5394,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "\frac{\text{cosec}^2\theta - 1}, {1 - \\sin^2\theta} =",
-      "prashna": "\frac{\text{cosec}^2\theta - 1}, {1 - \\sin^2\theta} =",
+      "question": "\\frac{\text{cosec}^2\theta - 1}, {1 - \\sin^2\theta} =",
+      "prashna": "\\frac{\text{cosec}^2\theta - 1}, {1 - \\sin^2\theta} =",
       "options": {
         "A": "\\sin^2\theta",
         "B": "\\cos^2\theta",
@@ -5482,8 +5482,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "\\sqrt{2} \\left( \\sin \frac{\\pi}, {4} + \\cos \frac{\\pi}, {4} \right) =",
-      "prashna": "\\sqrt{2} \\left( \\sin \frac{\\pi}, {4} + \\cos \frac{\\pi}, {4} \right) =",
+      "question": "\\sqrt{2} \\left( \\sin \\frac{\\pi}{4} + \\cos \\frac{\\pi}{4} \right) =",
+      "prashna": "\\sqrt{2} \\left( \\sin \\frac{\\pi}{4} + \\cos \\frac{\\pi}{4} \right) =",
       "options": {
         "A": "\\sqrt{2}",
         "B": "2",
@@ -5526,8 +5526,8 @@
       "chapter_name": "Introduction to Trigonometry",
       "confidence": 0.95,
       "raw_choice": "",
-      "question": "\frac{\tan \theta}, {\\sec \theta - 1} + \frac{\tan \theta}, {\\sec \theta + 1} =",
-      "prashna": "\frac{\tan \theta}, {\\sec \theta - 1} + \frac{\tan \theta}, {\\sec \theta + 1} =",
+      "question": "\\frac{\tan \theta}{\\sec \theta - 1} + \\frac{\tan \theta}{\\sec \theta + 1} =",
+      "prashna": "\\frac{\tan \theta}{\\sec \theta - 1} + \\frac{\tan \theta}{\\sec \theta + 1} =",
       "options": {
         "A": "2\tan \theta",
         "B": "2\\sec \theta",

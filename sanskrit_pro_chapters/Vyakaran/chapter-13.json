@@ -590,6 +590,47 @@
       ]
     },
     {
+      "id": "gadyansh_2",
+      "type": "comprehension",
+      "section": "Vyakaran",
+      "chapter": "13",
+      "chapter_name": "Unseen Passage",
+      "confidence": 1.0,
+      "raw_choice": "Vyakaran - 13. Unseen Passage (अपठित-अवबोधनम्)",
+      "question": "अधोलिखित गद्यांशों को पढ़कर उसपर आधारित प्रश्नों के उत्तर निर्देशानुसार दें-",
+      "prashna": "अधोलिखित गद्यांशों को पढ़कर उसपर आधारित प्रश्नों के उत्तर निर्देशानुसार दें-",
+      "instructions": "अधोलिखित गद्यांशों को पढ़कर उसपर आधारित प्रश्नों के उत्तर निर्देशानुसार दें-",
+      "context": "(ब) क्रोध: मनुष्यस्य महान् शत्रु: । क्रुद्ध: जन: गुरुन् अपि निन्दति, अपभाषणं करोति, ज्येष्ठानां हितवचनानि अपि च न शृणोति । तस्माद् वयं क्रोधात्सावधाना: भवेम । यदि क्रोध: आगच्छति तदा तस्मिन्नेव क्षणे मौनं धारणीयम्। मौनेन मन: शांतं भवति । वाणी अपि नियन्त्रिता भवति । ईदृशे काले किञ्चित् पुस्तकं गृहीत्वा पठेम । कोपात् सर्वदा आत्मानं रक्षेम ।",
+      "sub_questions": [
+        {
+          "type": "ekpaden",
+          "questions": [
+            {
+              "id": "g2_i_k",
+              "question": "मनुष्यस्य महान् शत्रु क:"
+            },
+            {
+              "id": "g2_i_kh",
+              "question": "क्रोधे आगते किं धारणीयम् ?"
+            }
+          ]
+        },
+        {
+          "type": "purnavakyen",
+          "questions": [
+            {
+              "id": "g2_ii_k",
+              "question": "क्रुद्ध: जन: किं करोति ?"
+            },
+            {
+              "id": "g2_ii_kh",
+              "question": "मौनेन किं भवति ?"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "gadyansh_1",
       "type": "comprehension",
       "section": "Vyakaran",
@@ -822,6 +863,35 @@
         {
           "question": "(iv) What is the message of the passage?",
           "marks": "2"
+        }
+      ]
+    },
+    {
+      "id": "gadyansh_4",
+      "type": "comprehension",
+      "section": "Vyakaran",
+      "chapter": "13",
+      "chapter_name": "Unseen Passage",
+      "confidence": 1.0,
+      "raw_choice": "Vyakaran - 13. Unseen Passage (अपठित-अवबोधनम्)",
+      "context": "India is a country of vast geographical expanse. India is marked by a diversity of physical features such as mountains, plateaus, plains, coasts and islands. In the north, it is bound by the lofty Himalayas. The Northern plains, Great Indian Desert, the Peninsular plateau and the Great Himalayas are the main physical divisions of India. There are seven countries that share land boundaries with India. These countries are – China, Pakistan, Nepal, Bhutan, Bangladesh, Myanmar and Afghanistan.",
+      "instructions": "OR",
+      "sub_questions": [
+        {
+          "question": "(i) What are the main physical divisions of India?",
+          "marks": "2"
+        },
+        {
+          "question": "(ii) How many countries does India share its land boundaries with?",
+          "marks": "2"
+        },
+        {
+          "question": "(iii) What are the different physical features that India is marked by?",
+          "marks": "2"
+        },
+        {
+          "question": "(iv) Make sentences with: Island, division",
+          "marks": "1"
         }
       ]
     },
