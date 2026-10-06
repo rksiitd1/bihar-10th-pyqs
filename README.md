@@ -129,21 +129,29 @@ Copy `.env.example` to `.env` in the root directory and fill in your keys:
 
 For classifying remaining edge cases or unclassified questions:
 
-1. **Export unclassified questions**:
+1. **Option A (Zero-setup local server with continuous auto-save)**:
    ```bash
-   python export_for_review.py
+   python server_manual_review.py
    ```
-   Generates `manual_review_data.json`.
+   - Automatically loads questions directly in your browser (no drag-and-drop required).
+   - Automatically saves every classification directly into `manual_classifications.json` in the project folder continuously in the background (no download popups).
 
-2. **Open the web UI**:
-   Open `manual_review.html` in any browser, and drag-and-drop `manual_review_data.json`.
-   - Supports keyboard shortcuts: `↑`/`↓` navigate, `Enter` classify, `S` skip, `U` unskip.
-   - Saves progress automatically to browser localStorage.
-   - Click **Export Classifications** to download your decisions JSON.
+2. **Option B (Direct browser file)**:
+   Simply open `manual_review.html` in your browser. It loads the pre-bundled `manual_review_data.js` instantly.
+   - Click **Export** to save `manual_classifications.json`.
 
-3. **Apply your classifications**:
+The dashboard derives the queue size and unclassified percentage from the loaded review data. To refresh the bundled queue after updating chapter classifications, run:
+
+```bash
+python export_for_review.py
+```
+
+This regenerates both `manual_review_data.json` and `manual_review_data.js`; the exporter includes the current corpus question total for the dashboard.
+
+3. **Apply classifications into the dataset**:
    ```bash
-   python apply_manual_classifications.py manual_classifications_YYYY-MM-DD.json
+   python apply_manual_classifications.py
    ```
-   This automatically injects your manual decisions into `{subject}_data_jevified/` and rebuilds all `*_pro*` folders.
+   *(No file path argument needed! It automatically finds and loads `manual_classifications.json`)*.
+
 

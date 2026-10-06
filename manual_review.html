@@ -3,672 +3,1843 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Bihar 10th PYQ — Manual Chapter Classification</title>
+<title>Bihar 10th PYQ — Manual Chapter Classifier</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" onload="if(typeof renderMath==='function') renderMath();"></script>
+<!-- Preloaded data for zero-click instant loading without drop overlay -->
+<script src="manual_review_data.js"></script>
 <style>
   :root {
-    --bg: #0d1117; --surface: #161b22; --border: #30363d;
-    --text: #e6edf3; --text-dim: #8b949e; --text-bright: #f0f6fc;
-    --accent: #58a6ff; --accent2: #3fb950; --accent3: #f0883e;
-    --danger: #f85149; --purple: #bc8cff;
+    --bg-main: #0b0f17;
+    --bg-surface: #141b26;
+    --bg-surface-hover: #1b2434;
+    --bg-card: #172130;
+    --border: #233044;
+    --border-bright: #354a68;
+    --text-primary: #f0f6fc;
+    --text-secondary: #9cb0c9;
+    --text-muted: #5e738f;
+    --accent: #388bfd;
+    --accent-hover: #58a6ff;
+    --accent-bg: rgba(56, 139, 253, 0.12);
+    --success: #2ea043;
+    --success-hover: #3fb950;
+    --success-bg: rgba(46, 160, 67, 0.15);
+    --warning: #f0883e;
+    --warning-bg: rgba(240, 136, 62, 0.15);
+    --danger: #f85149;
+    --purple: #bc8cff;
+    --purple-bg: rgba(188, 140, 255, 0.12);
+    --gold: #d29922;
+    --gold-bg: rgba(210, 153, 34, 0.15);
   }
+
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
-    background: var(--bg); color: var(--text); line-height: 1.6;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    background: var(--bg-main);
+    color: var(--text-primary);
+    line-height: 1.5;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
   }
-  
-  /* Header */
-  .header {
-    position: sticky; top: 0; z-index: 100;
-    background: var(--surface); border-bottom: 1px solid var(--border);
-    padding: 12px 24px; display: flex; align-items: center; gap: 16px;
+
+  /* ── Header ── */
+  .navbar {
+    height: 58px;
+    background: var(--bg-surface);
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+    flex-shrink: 0;
+    gap: 16px;
+    z-index: 100;
+  }
+
+  .nav-left { display: flex; align-items: center; gap: 20px; }
+  .brand { display: flex; align-items: center; gap: 8px; font-weight: 700; font-size: 16px; }
+  .brand span.logo { font-size: 22px; }
+  .brand .tag {
+    font-size: 11px;
+    background: var(--accent-bg);
+    color: var(--accent-hover);
+    padding: 2px 7px;
+    border-radius: 12px;
+    border: 1px solid var(--accent);
+    font-weight: 600;
+  }
+
+  /* Tabs switcher */
+  .nav-tabs { display: flex; gap: 4px; background: var(--bg-main); padding: 3px; border-radius: 8px; border: 1px solid var(--border); }
+  .tab-btn {
+    background: transparent;
+    border: none;
+    color: var(--text-secondary);
+    padding: 6px 14px;
+    border-radius: 6px;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.15s;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .tab-btn:hover { color: var(--text-primary); background: var(--bg-surface-hover); }
+  .tab-btn.active { color: #fff; background: var(--accent); }
+
+  /* Nav stats */
+  .nav-stats { display: flex; align-items: center; gap: 12px; }
+  .stat-chip {
+    font-size: 12px;
+    color: var(--text-secondary);
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    background: var(--bg-card);
+    padding: 4px 10px;
+    border-radius: 6px;
+    border: 1px solid var(--border);
+  }
+  .stat-chip b { color: var(--text-primary); font-weight: 700; }
+  .stat-chip.green b { color: var(--success-hover); }
+  .stat-chip.orange b { color: var(--warning); }
+
+  .progress-ring-wrap {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 12px;
+    color: var(--text-secondary);
+  }
+  .progress-bar-bg {
+    width: 90px;
+    height: 7px;
+    background: var(--bg-main);
+    border-radius: 4px;
+    overflow: hidden;
+    border: 1px solid var(--border);
+  }
+  .progress-bar-fill {
+    height: 100%;
+    width: 0%;
+    background: var(--success);
+    transition: width 0.3s ease;
+  }
+
+  .nav-actions { display: flex; align-items: center; gap: 8px; }
+  button.btn {
+    border: 1px solid var(--border);
+    background: var(--bg-card);
+    color: var(--text-primary);
+    padding: 6px 14px;
+    border-radius: 6px;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    transition: all 0.15s;
+  }
+  button.btn:hover { background: var(--bg-surface-hover); border-color: var(--border-bright); }
+  button.btn-primary { background: var(--success); border-color: var(--success); color: #fff; }
+  button.btn-primary:hover { background: var(--success-hover); }
+  button.btn-accent { background: #1f6feb; border-color: #388bfd; color: #fff; }
+  button.btn-accent:hover { background: #388bfd; }
+
+  /* ── Tab Viewport Container ── */
+  .view-container { flex: 1; overflow: hidden; position: relative; }
+  .view-tab { display: none; height: 100%; width: 100%; }
+  .view-tab.active { display: flex; flex-direction: column; }
+
+  /* ── Filter Bar ── */
+  .filter-bar {
+    height: 48px;
+    background: var(--bg-surface);
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    padding: 0 16px;
+    gap: 16px;
+    flex-shrink: 0;
+  }
+  .filter-item { display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--text-secondary); }
+  select.filter-select, input.filter-input {
+    background: var(--bg-main);
+    color: var(--text-primary);
+    border: 1px solid var(--border);
+    padding: 5px 10px;
+    border-radius: 6px;
+    font-size: 12px;
+    outline: none;
+  }
+  select.filter-select:focus, input.filter-input:focus { border-color: var(--accent); }
+  .filter-search { flex: 1; max-width: 320px; }
+  .filter-count { font-size: 12px; color: var(--text-muted); margin-left: auto; }
+
+  /* ── 3-Column Workspace ── */
+  .workspace-3col {
+    flex: 1;
+    display: grid;
+    grid-template-columns: 320px 1fr 420px;
+    height: calc(100vh - 106px);
+    overflow: hidden;
+  }
+
+  /* Column 1: Questions List */
+  .col-questions {
+    background: var(--bg-main);
+    border-right: 1px solid var(--border);
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+  }
+  .q-row {
+    padding: 11px 14px;
+    border-bottom: 1px solid var(--border);
+    cursor: pointer;
+    transition: background 0.12s;
+    position: relative;
+  }
+  .q-row:hover { background: var(--bg-surface); }
+  .q-row.active {
+    background: #14243b;
+    border-left: 4px solid var(--accent);
+  }
+  .q-row.classified { border-left: 4px solid var(--success); }
+  .q-row.skipped { border-left: 4px solid var(--text-muted); opacity: 0.65; }
+
+  .q-row-top { display: flex; justify-content: space-between; align-items: center; margin-bottom: 3px; }
+  .q-row-id { font-size: 12px; font-weight: 700; color: var(--accent); }
+  .q-row-year {
+    font-size: 11px;
+    color: var(--text-muted);
+    background: var(--bg-surface);
+    padding: 1px 6px;
+    border-radius: 4px;
+    border: 1px solid var(--border);
+  }
+  .q-row-meta {
+    font-size: 11px;
+    color: var(--purple);
+    margin-bottom: 3px;
+    display: flex;
+    gap: 6px;
+  }
+  .q-row-snippet {
+    font-size: 12px;
+    color: var(--text-secondary);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 1.4;
+  }
+  .q-row-badge {
+    margin-top: 4px;
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--success-hover);
+    display: flex;
+    align-items: center;
+    gap: 4px;
+  }
+
+  /* Column 2: Question Detail */
+  .col-detail {
+    background: var(--bg-main);
+    overflow-y: auto;
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+  .col-detail.empty-state {
+    align-items: center;
+    justify-content: center;
+    color: var(--text-muted);
+    font-size: 15px;
+  }
+  .detail-card {
+    background: var(--bg-surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 16px 20px;
+  }
+  .detail-card-title {
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    color: var(--accent);
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .detail-text {
+    font-size: 15px;
+    line-height: 1.7;
+    white-space: pre-wrap;
+    word-break: break-word;
+  }
+  .detail-text.hindi {
+    font-family: 'Noto Sans Devanagari', 'Mangal', sans-serif;
+    color: #e2e8f0;
+  }
+  .options-table {
+    display: grid;
+    grid-template-columns: 28px 1fr;
+    gap: 6px 12px;
+    font-size: 14px;
+    margin-top: 4px;
+  }
+  .opt-letter { font-weight: 700; color: var(--accent-hover); }
+  .opt-val { color: var(--text-primary); }
+
+  .subq-box {
+    margin-top: 8px;
+    padding: 10px 14px;
+    background: var(--bg-main);
+    border-radius: 6px;
+    border-left: 3px solid var(--border-bright);
+    font-size: 14px;
+  }
+
+  /* Jev suggestion box */
+  .jev-suggestion-card {
+    background: linear-gradient(135deg, rgba(210, 153, 34, 0.08) 0%, rgba(188, 140, 255, 0.05) 100%);
+    border: 1px solid rgba(210, 153, 34, 0.35);
+    border-radius: 8px;
+    padding: 14px 18px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+  }
+  .jev-suggestion-info { font-size: 13px; }
+  .jev-suggestion-info .choice-title { color: var(--gold); font-weight: 700; font-size: 14px; }
+  .jev-suggestion-info .conf-tag {
+    background: var(--gold-bg);
+    color: var(--gold);
+    padding: 2px 7px;
+    border-radius: 4px;
+    font-size: 11px;
+    font-weight: 600;
+    margin-left: 6px;
+  }
+  .btn-accept-jev {
+    background: var(--gold-bg);
+    color: var(--gold);
+    border: 1px solid var(--gold);
+    padding: 6px 12px;
+    border-radius: 6px;
+    font-size: 12px;
+    font-weight: 700;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: all 0.15s;
+  }
+  .btn-accept-jev:hover { background: var(--gold); color: #000; }
+
+  /* Column 3: Classification Palette */
+  .col-palette {
+    background: var(--bg-surface);
+    border-left: 1px solid var(--border);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+  .palette-header {
+    padding: 14px 18px;
+    border-bottom: 1px solid var(--border);
+    background: var(--bg-card);
+  }
+  .palette-title {
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--text-primary);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .palette-title .subject-badge {
+    font-size: 11px;
+    background: var(--purple-bg);
+    color: var(--purple);
+    padding: 2px 8px;
+    border-radius: 10px;
+    text-transform: capitalize;
+  }
+
+  /* Section pill tabs */
+  .section-pills-row {
+    display: flex;
+    gap: 6px;
+    overflow-x: auto;
+    padding: 10px 14px;
+    background: var(--bg-surface);
+    border-bottom: 1px solid var(--border);
+    flex-shrink: 0;
+  }
+  .sec-pill {
+    background: var(--bg-main);
+    color: var(--text-secondary);
+    border: 1px solid var(--border);
+    padding: 4px 10px;
+    border-radius: 14px;
+    font-size: 11px;
+    font-weight: 600;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: all 0.12s;
+  }
+  .sec-pill:hover { border-color: var(--accent); color: var(--text-primary); }
+  .sec-pill.active { background: var(--accent-bg); color: var(--accent-hover); border-color: var(--accent); }
+
+  /* Chapter search filter */
+  .palette-search-box {
+    padding: 10px 14px;
+    border-bottom: 1px solid var(--border);
+    background: var(--bg-surface);
+    flex-shrink: 0;
+  }
+  .palette-search-input {
+    width: 100%;
+    background: var(--bg-main);
+    border: 1px solid var(--border);
+    color: var(--text-primary);
+    padding: 6px 12px;
+    border-radius: 6px;
+    font-size: 12px;
+    outline: none;
+  }
+  .palette-search-input:focus { border-color: var(--accent); }
+
+  /* Chapter list (direct selection) */
+  .chapter-cards-list {
+    flex: 1;
+    overflow-y: auto;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+  .chapter-card-item {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 8px 12px;
+    cursor: pointer;
+    transition: all 0.12s;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    user-select: none;
+  }
+  .chapter-card-item:hover {
+    border-color: var(--border-bright);
+    background: var(--bg-surface-hover);
+    transform: translateX(2px);
+  }
+  .chapter-card-item.selected {
+    background: #102a45;
+    border-color: var(--accent-hover);
+    box-shadow: 0 0 0 1px var(--accent-hover);
+  }
+  .chapter-card-item.jev-hint-match {
+    border-left: 3px solid var(--gold);
+  }
+
+  .ch-num-badge {
+    width: 30px;
+    height: 30px;
+    border-radius: 6px;
+    background: var(--bg-main);
+    color: var(--text-secondary);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    font-weight: 700;
+    flex-shrink: 0;
+    border: 1px solid var(--border);
+  }
+  .chapter-card-item.selected .ch-num-badge {
+    background: var(--accent);
+    color: #fff;
+    border-color: var(--accent);
+  }
+  .ch-names { flex: 1; min-width: 0; }
+  .ch-en {
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--text-primary);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .ch-hi {
+    font-size: 11px;
+    color: var(--text-muted);
+    font-family: 'Noto Sans Devanagari', 'Mangal', sans-serif;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .ch-sec-tag {
+    font-size: 10px;
+    color: var(--purple);
+    background: var(--purple-bg);
+    padding: 2px 6px;
+    border-radius: 4px;
+    white-space: nowrap;
+  }
+
+  /* Palette Sticky Action Bar */
+  .palette-footer {
+    padding: 14px;
+    background: var(--bg-card);
+    border-top: 1px solid var(--border);
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .selected-summary {
+    font-size: 12px;
+    color: var(--text-secondary);
+    background: var(--bg-main);
+    padding: 6px 10px;
+    border-radius: 6px;
+    border: 1px solid var(--border);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .selected-summary b { color: var(--accent-hover); }
+
+  .palette-btn-row { display: flex; gap: 8px; }
+  .btn-confirm {
+    flex: 1;
+    background: var(--success);
+    color: #fff;
+    border: none;
+    padding: 9px 12px;
+    border-radius: 6px;
+    font-size: 13px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: background 0.15s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+  }
+  .btn-confirm:hover { background: var(--success-hover); }
+  .btn-confirm:disabled { opacity: 0.45; cursor: not-allowed; }
+
+  .palette-quick-actions { display: flex; gap: 6px; }
+  .btn-quick {
+    flex: 1;
+    background: var(--bg-surface);
+    color: var(--text-secondary);
+    border: 1px solid var(--border);
+    padding: 6px 8px;
+    border-radius: 6px;
+    font-size: 11px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+  .btn-quick:hover { color: var(--text-primary); border-color: var(--border-bright); background: var(--bg-surface-hover); }
+
+  /* ── TAB 2: BREAKDOWN & STATS DASHBOARD ── */
+  .breakdown-view {
+    flex: 1;
+    overflow-y: auto;
+    padding: 28px 36px;
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+  }
+
+  .kpi-row {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 16px;
+  }
+  .kpi-card {
+    background: var(--bg-surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 16px 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+  .kpi-label { font-size: 12px; font-weight: 600; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.5px; }
+  .kpi-value { font-size: 28px; font-weight: 800; color: var(--text-primary); }
+  .kpi-value.green { color: var(--success-hover); }
+  .kpi-value.orange { color: var(--warning); }
+  .kpi-sub { font-size: 12px; color: var(--text-secondary); }
+
+  .dashboard-section-title {
+    font-size: 16px;
+    font-weight: 700;
+    color: var(--text-primary);
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  /* Subject Cards Grid */
+  .subjects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 16px;
+  }
+  .subject-card {
+    background: var(--bg-surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 18px 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    transition: border-color 0.15s;
+  }
+  .subject-card:hover { border-color: var(--border-bright); }
+  .subject-card-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .subj-icon-name {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 16px;
+    font-weight: 700;
+    color: var(--text-primary);
+  }
+  .subj-count-pill {
+    background: var(--warning-bg);
+    color: var(--warning);
+    padding: 2px 8px;
+    border-radius: 12px;
+    font-size: 11px;
+    font-weight: 700;
+  }
+  .subj-count-pill.all-done {
+    background: var(--success-bg);
+    color: var(--success-hover);
+  }
+  .subj-progress-bar {
+    height: 6px;
+    background: var(--bg-main);
+    border-radius: 3px;
+    overflow: hidden;
+    border: 1px solid var(--border);
+  }
+  .subj-progress-fill {
+    height: 100%;
+    background: var(--accent);
+    transition: width 0.3s;
+  }
+
+  .subj-breakdown-tags {
+    display: flex;
     flex-wrap: wrap;
+    gap: 6px;
   }
-  .header h1 { font-size: 18px; color: var(--accent); white-space: nowrap; }
-  .stats {
-    display: flex; gap: 16px; font-size: 13px; color: var(--text-dim);
+  .type-tag-stat {
+    background: var(--bg-main);
+    border: 1px solid var(--border);
+    color: var(--text-secondary);
+    padding: 3px 8px;
+    border-radius: 4px;
+    font-size: 11px;
   }
-  .stats .num { font-weight: 700; color: var(--text-bright); }
-  .stats .recovered { color: var(--accent2); }
-  .stats .remaining { color: var(--accent3); }
-  
-  /* Controls bar */
-  .controls {
-    background: var(--surface); border-bottom: 1px solid var(--border);
-    padding: 8px 24px; display: flex; gap: 12px; align-items: center;
-    flex-wrap: wrap; position: sticky; top: 56px; z-index: 99;
-  }
-  select, button, input[type="file"] {
-    background: var(--bg); color: var(--text); border: 1px solid var(--border);
-    padding: 6px 12px; border-radius: 6px; font-size: 13px; cursor: pointer;
-  }
-  select:focus, button:focus { outline: 2px solid var(--accent); }
-  button.primary { background: #238636; border-color: #2ea043; color: #fff; font-weight: 600; }
-  button.primary:hover { background: #2ea043; }
-  button.danger { background: #da3633; border-color: #f85149; color: #fff; }
-  button.export { background: #1f6feb; border-color: #388bfd; color: #fff; font-weight: 600; }
-  button:disabled { opacity: 0.5; cursor: not-allowed; }
-  .spacer { flex: 1; }
-  .filter-label { font-size: 12px; color: var(--text-dim); }
+  .type-tag-stat b { color: var(--text-primary); }
 
-  /* Main layout */
-  .main { display: flex; height: calc(100vh - 112px); }
-  
-  /* Question list panel */
-  .list-panel {
-    width: 420px; min-width: 360px; border-right: 1px solid var(--border);
-    overflow-y: auto; flex-shrink: 0;
+  .btn-jump-subject {
+    background: var(--accent-bg);
+    color: var(--accent-hover);
+    border: 1px solid var(--accent);
+    padding: 7px 12px;
+    border-radius: 6px;
+    font-size: 12px;
+    font-weight: 700;
+    cursor: pointer;
+    text-align: center;
+    transition: all 0.15s;
+    margin-top: 4px;
   }
-  .q-item {
-    padding: 10px 16px; border-bottom: 1px solid var(--border);
-    cursor: pointer; transition: background 0.15s;
-  }
-  .q-item:hover { background: #1c2128; }
-  .q-item.active { background: #1c3a5e; border-left: 3px solid var(--accent); }
-  .q-item.classified { border-left: 3px solid var(--accent2); }
-  .q-item.skipped { border-left: 3px solid var(--text-dim); opacity: 0.6; }
-  .q-item .q-header { display: flex; justify-content: space-between; margin-bottom: 2px; }
-  .q-item .q-id { font-size: 12px; font-weight: 600; color: var(--accent); }
-  .q-item .q-year { font-size: 11px; color: var(--text-dim); background: var(--bg); padding: 1px 6px; border-radius: 4px; }
-  .q-item .q-type { font-size: 11px; color: var(--purple); text-transform: capitalize; }
-  .q-item .q-preview { font-size: 12px; color: var(--text-dim); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; max-width: 380px; }
-  .q-item .q-classification { font-size: 11px; color: var(--accent2); margin-top: 2px; font-weight: 600; }
-  
-  /* Detail panel */
-  .detail-panel {
-    flex: 1; overflow-y: auto; padding: 24px; display: flex; flex-direction: column; gap: 16px;
-  }
-  .detail-panel.empty {
-    display: flex; align-items: center; justify-content: center;
-    color: var(--text-dim); font-size: 16px;
-  }
-  
-  .card {
-    background: var(--surface); border: 1px solid var(--border);
-    border-radius: 8px; padding: 16px;
-  }
-  .card h3 { font-size: 14px; color: var(--accent); margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px; }
-  .q-text { font-size: 15px; line-height: 1.7; white-space: pre-wrap; }
-  .q-text.hindi { font-family: 'Noto Sans Devanagari', 'Mangal', sans-serif; }
-  
-  .options-grid { display: grid; grid-template-columns: auto 1fr; gap: 4px 12px; font-size: 14px; margin-top: 8px; }
-  .opt-key { font-weight: 700; color: var(--accent); }
-  
-  .sub-q { margin: 8px 0; padding: 8px 12px; background: var(--bg); border-radius: 6px; border-left: 2px solid var(--border); }
-  
-  /* Classification form */
-  .classify-form {
-    background: var(--surface); border: 2px solid var(--accent);
-    border-radius: 8px; padding: 16px;
-  }
-  .classify-form h3 { color: var(--accent2); }
-  .form-row { display: flex; gap: 12px; margin-top: 8px; align-items: center; flex-wrap: wrap; }
-  .form-row label { font-size: 13px; color: var(--text-dim); min-width: 60px; }
-  .form-row select { flex: 1; min-width: 200px; }
-  .btn-row { display: flex; gap: 8px; margin-top: 12px; }
-  
-  .jev-hint { font-size: 12px; color: var(--text-dim); margin-top: 6px; }
-  .jev-hint .choice { color: var(--accent3); font-weight: 600; }
-  .jev-hint .conf { color: var(--purple); }
+  .btn-jump-subject:hover { background: var(--accent); color: #fff; }
 
-  /* Keyboard shortcuts */
-  .shortcuts {
-    position: fixed; bottom: 12px; right: 12px;
-    background: var(--surface); border: 1px solid var(--border); border-radius: 8px;
-    padding: 10px 14px; font-size: 11px; color: var(--text-dim); z-index: 50;
+  /* Breakdown Table */
+  .table-card {
+    background: var(--bg-surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    overflow: hidden;
   }
-  .shortcuts kbd {
-    background: var(--bg); border: 1px solid var(--border); border-radius: 3px;
-    padding: 1px 5px; font-family: monospace; color: var(--text); font-size: 11px;
+  table.breakdown-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13px;
+    text-align: left;
   }
-  
-  /* File load overlay */
+  table.breakdown-table th {
+    background: var(--bg-card);
+    color: var(--text-secondary);
+    padding: 10px 16px;
+    font-weight: 600;
+    border-bottom: 1px solid var(--border);
+  }
+  table.breakdown-table td {
+    padding: 11px 16px;
+    border-bottom: 1px solid var(--border);
+    color: var(--text-primary);
+  }
+  table.breakdown-table tr:hover td { background: var(--bg-surface-hover); }
+
+  /* ── Overlay Dropzone ── */
   .overlay {
-    position: fixed; inset: 0; background: rgba(0,0,0,0.8);
-    display: flex; align-items: center; justify-content: center; z-index: 200;
+    position: fixed; inset: 0;
+    background: rgba(11, 15, 23, 0.92);
+    display: flex; align-items: center; justify-content: center;
+    z-index: 1000;
   }
   .overlay-box {
-    background: var(--surface); border: 1px solid var(--border);
-    border-radius: 12px; padding: 32px; text-align: center; max-width: 500px;
+    background: var(--bg-surface);
+    border: 1px solid var(--border-bright);
+    border-radius: 12px;
+    padding: 36px;
+    text-align: center;
+    max-width: 520px;
+    box-shadow: 0 20px 40px rgba(0,0,0,0.5);
   }
-  .overlay-box h2 { color: var(--accent); margin-bottom: 16px; }
-  .overlay-box p { color: var(--text-dim); margin-bottom: 16px; }
   .drop-zone {
-    border: 2px dashed var(--border); border-radius: 8px; padding: 40px;
-    cursor: pointer; transition: border-color 0.2s;
+    border: 2px dashed var(--border-bright);
+    border-radius: 10px;
+    padding: 40px 24px;
+    margin: 20px 0;
+    cursor: pointer;
+    background: var(--bg-main);
+    transition: all 0.2s;
   }
-  .drop-zone:hover, .drop-zone.dragover { border-color: var(--accent); }
+  .drop-zone:hover, .drop-zone.dragover {
+    border-color: var(--accent);
+    background: var(--accent-bg);
+  }
   .hidden { display: none !important; }
-  
-  .progress-bar {
-    height: 4px; background: var(--border); border-radius: 2px; margin-top: 8px; overflow: hidden;
+
+  /* Keyboard hints */
+  .keyboard-hints {
+    position: fixed;
+    bottom: 12px;
+    left: 16px;
+    background: var(--bg-surface);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 6px 12px;
+    font-size: 11px;
+    color: var(--text-muted);
+    z-index: 50;
+    display: flex;
+    gap: 12px;
   }
-  .progress-bar .fill { height: 100%; background: var(--accent2); transition: width 0.3s; }
+  .keyboard-hints kbd {
+    background: var(--bg-main);
+    border: 1px solid var(--border);
+    padding: 1px 5px;
+    border-radius: 3px;
+    color: var(--text-primary);
+    font-family: monospace;
+  }
 </style>
 </head>
 <body>
 
-<!-- File Load Overlay -->
+<!-- File Load Overlay (if fetch fails) -->
 <div id="loadOverlay" class="overlay">
   <div class="overlay-box">
     <h2>📚 Bihar 10th PYQ — Manual Classifier</h2>
-    <p>Load <code>manual_review_data.json</code> to start classifying unclassified questions.</p>
+    <p style="color:var(--text-secondary);margin-top:8px">Load <code>manual_review_data.json</code> to start classifying questions.</p>
     <div class="drop-zone" id="dropZone" onclick="document.getElementById('fileInput').click()">
-      <p style="font-size:36px;margin-bottom:8px">📂</p>
-      <p>Click or drag <code>manual_review_data.json</code> here</p>
+      <div style="font-size:42px;margin-bottom:10px">📂</div>
+      <p style="font-size:14px;font-weight:600">Click or Drag <code>manual_review_data.json</code> here</p>
       <input type="file" id="fileInput" accept=".json" style="display:none">
     </div>
-    <p style="margin-top:16px;font-size:12px">Generate it by running: <code>python export_for_review.py</code></p>
+    <p style="font-size:12px;color:var(--text-muted)">Exported directly from <code>export_for_review.py</code></p>
   </div>
 </div>
 
 <!-- Header -->
-<div class="header">
-  <h1>📝 Manual Chapter Classifier</h1>
-  <div class="stats">
-    <span>Total: <span class="num" id="statTotal">0</span></span>
-    <span>Classified: <span class="num recovered" id="statClassified">0</span></span>
-    <span>Remaining: <span class="num remaining" id="statRemaining">0</span></span>
-    <span>Skipped: <span class="num" id="statSkipped">0</span></span>
+<header class="navbar">
+  <div class="nav-left">
+    <div class="brand">
+      <span class="logo">📚</span>
+      <span>Bihar 10th PYQ</span>
+      <span class="tag">Classifier</span>
+    </div>
+    <div class="nav-tabs">
+      <button class="tab-btn active" id="tabBtnWorkspace" onclick="switchTab('workspace')">
+        📝 Workspace
+      </button>
+      <button class="tab-btn" id="tabBtnBreakdown" onclick="switchTab('breakdown')">
+        📊 Breakdown & Stats
+      </button>
+    </div>
   </div>
-  <div class="progress-bar" style="width:200px">
-    <div class="fill" id="progressFill" style="width:0%"></div>
+
+  <div class="nav-stats">
+    <div class="stat-chip">Total: <b id="statTotal">0</b></div>
+    <div class="stat-chip green">Done: <b id="statClassified">0</b></div>
+    <div class="stat-chip orange">Remaining: <b id="statRemaining">0</b></div>
+    <div class="progress-ring-wrap">
+      <div class="progress-bar-bg">
+        <div class="progress-bar-fill" id="progressBar"></div>
+      </div>
+      <span id="statPct">0%</span>
+    </div>
   </div>
+
+  <div class="nav-actions">
+    <button class="btn btn-accent" id="btnExport" title="Export your classifications as JSON">💾 Export</button>
+    <button class="btn" id="btnResume" title="Resume saved classifications">📥 Resume</button>
+    <input type="file" id="resumeFileInput" accept=".json" style="display:none">
+  </div>
+</header>
+
+<!-- View Container -->
+<div class="view-container">
+
+  <!-- ── VIEW 1: WORKSPACE ── -->
+  <div class="view-tab active" id="viewWorkspace">
+    <!-- Filter bar -->
+    <div class="filter-bar">
+      <div class="filter-item">
+        <label>Subject:</label>
+        <select class="filter-select" id="filterSubject">
+          <option value="all">All Subjects</option>
+        </select>
+      </div>
+      <div class="filter-item">
+        <label>Type:</label>
+        <select class="filter-select" id="filterType">
+          <option value="all">All Types</option>
+        </select>
+      </div>
+      <div class="filter-item">
+        <label>Status:</label>
+        <select class="filter-select" id="filterStatus">
+          <option value="pending">Pending</option>
+          <option value="classified">Classified</option>
+          <option value="skipped">Skipped</option>
+          <option value="all">All</option>
+        </select>
+      </div>
+      <div class="filter-item filter-search">
+        <input type="text" class="filter-input" id="filterSearch" placeholder="🔍 Search question text or ID...">
+      </div>
+      <div class="filter-count" id="filterCount">Showing 0 questions</div>
+    </div>
+
+    <!-- 3-Column Grid -->
+    <div class="workspace-3col">
+      <!-- COLUMN 1: QUESTION LIST -->
+      <aside class="col-questions" id="questionListCol"></aside>
+
+      <!-- COLUMN 2: QUESTION DETAIL -->
+      <main class="col-detail" id="questionDetailCol">
+        <div class="empty-state">← Select a question from the left to view and classify</div>
+      </main>
+
+      <!-- COLUMN 3: DIRECT CHAPTER SELECTION PALETTE -->
+      <aside class="col-palette" id="chapterPaletteCol">
+        <div class="palette-header">
+          <div class="palette-title">
+            <span>🏷️ Choose Chapter</span>
+            <span class="subject-badge" id="paletteSubjectBadge">Subject</span>
+          </div>
+        </div>
+
+        <!-- Section pills (for multi-section subjects) -->
+        <div class="section-pills-row" id="sectionPillsRow" style="display:none"></div>
+
+        <!-- Chapter search filter -->
+        <div class="palette-search-box">
+          <input type="text" class="palette-search-input" id="paletteChapterSearch" placeholder="🔍 Filter chapters by name or number...">
+        </div>
+
+        <!-- Direct Visible Chapter Cards -->
+        <div class="chapter-cards-list" id="chapterCardsList"></div>
+
+        <!-- Sticky action footer -->
+        <div class="palette-footer">
+          <div class="selected-summary" id="selectedSummary">
+            Selected: <i>None</i>
+          </div>
+          <div class="palette-btn-row">
+            <button class="btn-confirm" id="btnConfirm" onclick="confirmClassification()" disabled>
+              ✅ Classify & Next (Enter)
+            </button>
+          </div>
+          <div class="palette-quick-actions">
+            <button class="btn-quick" onclick="markUnseen()">👁️ Mark Unseen</button>
+            <button class="btn-quick" onclick="skipQuestion()">⏭ Skip (S)</button>
+            <button class="btn-quick" onclick="resetCurrentQuestion()">↩ Reset</button>
+          </div>
+        </div>
+      </aside>
+    </div>
+  </div>
+
+  <!-- ── VIEW 2: BREAKDOWN & STATS ── -->
+  <div class="view-tab" id="viewBreakdown">
+    <div class="breakdown-view">
+      <!-- KPI Top Row -->
+      <div class="kpi-row">
+        <div class="kpi-card">
+          <span class="kpi-label">Total PYQ Questions</span>
+          <span class="kpi-value" id="kpiTotalPYQs">11,662</span>
+          <span class="kpi-sub" id="kpiCorpusSub">Across all loaded papers</span>
+        </div>
+        <div class="kpi-card">
+          <span class="kpi-label">Total Unclassified</span>
+          <span class="kpi-value orange" id="kpiUnclassifiedTotal">0</span>
+          <span class="kpi-sub" id="kpiUnclassifiedPct">0% of corpus</span>
+        </div>
+        <div class="kpi-card">
+          <span class="kpi-label">Manually Classified</span>
+          <span class="kpi-value green" id="kpiClassified">0</span>
+          <span class="kpi-sub" id="kpiClassifiedSub">Ready to export</span>
+        </div>
+        <div class="kpi-card">
+          <span class="kpi-label">Remaining to Review</span>
+          <span class="kpi-value" id="kpiRemaining">0</span>
+          <span class="kpi-sub">Pending manual decisions</span>
+        </div>
+      </div>
+
+      <!-- Subject Breakdown Cards -->
+      <div>
+        <div class="dashboard-section-title">
+          <span>📚 Subject-Wise Unclassified Breakdown</span>
+        </div>
+        <div class="subjects-grid" id="subjectsGrid"></div>
+      </div>
+
+      <!-- Detailed Breakdown Table -->
+      <div>
+        <div class="dashboard-section-title">
+          <span>📋 Question Types & Section Summary</span>
+        </div>
+        <div class="table-card">
+          <table class="breakdown-table">
+            <thead>
+              <tr>
+                <th>Subject</th>
+                <th>Sections</th>
+                <th>Total Unclassified</th>
+                <th>Classified</th>
+                <th>Remaining</th>
+                <th>Type Breakdown</th>
+                <th>Action</th>
+              </tr>
+            </thead>
+            <tbody id="breakdownTableBody"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+
 </div>
 
-<!-- Controls -->
-<div class="controls">
-  <span class="filter-label">Subject:</span>
-  <select id="filterSubject"><option value="all">All Subjects</option></select>
-  <span class="filter-label">Type:</span>
-  <select id="filterType"><option value="all">All Types</option></select>
-  <span class="filter-label">Status:</span>
-  <select id="filterStatus">
-    <option value="pending">Pending</option>
-    <option value="classified">Classified</option>
-    <option value="skipped">Skipped</option>
-    <option value="all">All</option>
-  </select>
-  <div class="spacer"></div>
-  <button class="export" id="btnExport" disabled>💾 Export Classifications</button>
-  <button id="btnImportProgress">📥 Resume Progress</button>
-  <input type="file" id="progressInput" accept=".json" style="display:none">
-</div>
-
-<!-- Main panels -->
-<div class="main">
-  <div class="list-panel" id="listPanel"></div>
-  <div class="detail-panel empty" id="detailPanel">
-    <span>← Select a question to classify</span>
-  </div>
-</div>
-
-<!-- Keyboard shortcuts -->
-<div class="shortcuts">
-  <kbd>↑</kbd>/<kbd>↓</kbd> Navigate &nbsp;
-  <kbd>Enter</kbd> Confirm &nbsp;
-  <kbd>S</kbd> Skip &nbsp;
-  <kbd>U</kbd> Un-skip
+<!-- Keyboard Shortcuts Bar -->
+<div class="keyboard-hints">
+  <span><kbd>↑</kbd>/<kbd>↓</kbd> Select Question</span>
+  <span><kbd>Enter</kbd> Confirm Chapter</span>
+  <span><kbd>S</kbd> Skip</span>
+  <span><kbd>U</kbd> Un-skip</span>
 </div>
 
 <script>
-// ─── State ───
-let DATA = null;         // raw loaded data
-let questions = [];      // flat array of all unclassified Qs
-let decisions = {};      // key -> { subject, file, index, section, chapter, chapter_name, status }
-let activeIdx = -1;
+// ─── Global State ───
+let DATA = null;
+let allQuestions = [];
+let decisions = {}; // key -> { subject, file, index, section, chapter, chapter_name, status }
+let activeIndex = -1;
 let filteredIndices = [];
+let selectedSectionFilter = 'ALL';
+let activeSelectedChapter = null; // { number, name_en, name_hi, section }
 
-// ─── File Loading ───
-document.getElementById('fileInput').addEventListener('change', e => {
-  const file = e.target.files[0];
-  if (file) loadFile(file);
+const SUBJECT_ICONS = {
+  mathematics: '📐',
+  science: '🔬',
+  social_science: '🌍',
+  english: '📖',
+  hindi: '🇮🇳',
+  sanskrit: '🕉️'
+};
+
+// ─── Auto-load on startup ───
+window.addEventListener('DOMContentLoaded', () => {
+  // 1. Instant load from bundled script if present (works on file:// without CORS!)
+  if (window.INITIAL_REVIEW_DATA && window.INITIAL_REVIEW_DATA.subjects) {
+    DATA = window.INITIAL_REVIEW_DATA;
+    initApp();
+    return;
+  }
+
+  // 2. Otherwise try local fetch
+  fetch('manual_review_data.json')
+    .then(r => {
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      return r.json();
+    })
+    .then(json => {
+      DATA = json;
+      initApp();
+    })
+    .catch(() => {
+      // 3. Fallback to drop overlay only if both are unavailable
+      document.getElementById('loadOverlay').classList.remove('hidden');
+    });
 });
 
+// Dropzone handler
 const dz = document.getElementById('dropZone');
 dz.addEventListener('dragover', e => { e.preventDefault(); dz.classList.add('dragover'); });
 dz.addEventListener('dragleave', () => dz.classList.remove('dragover'));
-dz.addEventListener('drop', e => { e.preventDefault(); dz.classList.remove('dragover'); loadFile(e.dataTransfer.files[0]); });
+dz.addEventListener('drop', e => {
+  e.preventDefault();
+  dz.classList.remove('dragover');
+  if (e.dataTransfer.files[0]) readInputFile(e.dataTransfer.files[0]);
+});
+document.getElementById('fileInput').addEventListener('change', e => {
+  if (e.target.files[0]) readInputFile(e.target.files[0]);
+});
 
-function loadFile(file) {
+function readInputFile(file) {
   const reader = new FileReader();
-  reader.onload = e => {
+  reader.onload = ev => {
     try {
-      DATA = JSON.parse(e.target.result);
+      DATA = JSON.parse(ev.target.result);
       initApp();
-    } catch (err) {
-      alert('Invalid JSON file: ' + err.message);
+    } catch(err) {
+      alert('Error parsing JSON: ' + err.message);
     }
   };
   reader.readAsText(file);
 }
 
-// ─── Init ───
+// ─── Init Application ───
 function initApp() {
   document.getElementById('loadOverlay').classList.add('hidden');
-  questions = [];
-  
-  // Flatten all subjects
-  const subjectSelect = document.getElementById('filterSubject');
-  subjectSelect.innerHTML = '<option value="all">All Subjects</option>';
-  const types = new Set();
-  
+  allQuestions = [];
+
+  // Populate subjects dropdown
+  const subjSelect = document.getElementById('filterSubject');
+  subjSelect.innerHTML = '<option value="all">All Subjects</option>';
+  const typeSet = new Set();
+
   for (const [subj, qs] of Object.entries(DATA.subjects || {})) {
-    subjectSelect.innerHTML += `<option value="${subj}">${subj.replace(/_/g,' ').replace(/\b\w/g,c=>c.toUpperCase())}</option>`;
+    const icon = SUBJECT_ICONS[subj] || '📚';
+    const label = subj.replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+    subjSelect.innerHTML += `<option value="${subj}">${icon} ${label} (${qs.length})</option>`;
+
     for (const q of qs) {
       q._subject = subj;
       q._key = `${subj}::${q.file}::${q.index}`;
-      questions.push(q);
-      if (q.type) types.add(q.type);
+      allQuestions.push(q);
+      if (q.type) typeSet.add(q.type);
     }
   }
-  
+
+  // Populate types dropdown
   const typeSelect = document.getElementById('filterType');
   typeSelect.innerHTML = '<option value="all">All Types</option>';
-  for (const t of [...types].sort()) {
-    typeSelect.innerHTML += `<option value="${t}">${t.replace(/_/g,' ')}</option>`;
+  for (const t of [...typeSet].sort()) {
+    typeSelect.innerHTML += `<option value="${t}">${t.replace(/_/g, ' ')}</option>`;
   }
-  
-  // Initialize decisions for all questions
-  for (const q of questions) {
+
+  // Restore saved decisions from localStorage
+  try {
+    const saved = localStorage.getItem('bihar_pyq_manual_decisions');
+    if (saved) {
+      decisions = JSON.parse(saved);
+    }
+  } catch(e) {}
+
+  for (const q of allQuestions) {
     if (!decisions[q._key]) {
-      decisions[q._key] = { subject: q._subject, file: q.file, index: q.index, status: 'pending' };
+      decisions[q._key] = {
+        subject: q._subject,
+        file: q.file,
+        index: q.index,
+        status: 'pending'
+      };
     }
   }
-  
+
+  // Setup listeners
+  document.getElementById('filterSubject').addEventListener('change', applyFilters);
+  document.getElementById('filterType').addEventListener('change', applyFilters);
+  document.getElementById('filterStatus').addEventListener('change', applyFilters);
+  document.getElementById('filterSearch').addEventListener('input', applyFilters);
+  document.getElementById('paletteChapterSearch').addEventListener('input', renderChapterPalette);
+
   applyFilters();
-  updateStats();
-  document.getElementById('btnExport').disabled = false;
+  updateGlobalStats();
+  renderBreakdownTab();
 }
 
-// ─── Filtering ───
-document.getElementById('filterSubject').addEventListener('change', applyFilters);
-document.getElementById('filterType').addEventListener('change', applyFilters);
-document.getElementById('filterStatus').addEventListener('change', applyFilters);
+// ─── Tab Switching ───
+function switchTab(tabId) {
+  document.getElementById('tabBtnWorkspace').classList.toggle('active', tabId === 'workspace');
+  document.getElementById('tabBtnBreakdown').classList.toggle('active', tabId === 'breakdown');
+  document.getElementById('viewWorkspace').classList.toggle('active', tabId === 'workspace');
+  document.getElementById('viewBreakdown').classList.toggle('active', tabId === 'breakdown');
 
+  if (tabId === 'breakdown') {
+    renderBreakdownTab();
+  }
+}
+
+// Jump from Breakdown Tab directly to a Subject
+function jumpToSubject(subj) {
+  document.getElementById('filterSubject').value = subj;
+  document.getElementById('filterStatus').value = 'pending';
+  document.getElementById('filterType').value = 'all';
+  document.getElementById('filterSearch').value = '';
+  switchTab('workspace');
+  applyFilters();
+}
+
+// ─── Filtering & Question List (Col 1) ───
 function applyFilters() {
   const subj = document.getElementById('filterSubject').value;
   const type = document.getElementById('filterType').value;
   const status = document.getElementById('filterStatus').value;
-  
+  const search = document.getElementById('filterSearch').value.toLowerCase().trim();
+
   filteredIndices = [];
-  for (let i = 0; i < questions.length; i++) {
-    const q = questions[i];
+  for (let i = 0; i < allQuestions.length; i++) {
+    const q = allQuestions[i];
     if (subj !== 'all' && q._subject !== subj) continue;
     if (type !== 'all' && q.type !== type) continue;
+
     const d = decisions[q._key];
     if (status !== 'all' && d && d.status !== status) continue;
+
+    if (search) {
+      const qText = (q.question || '').toLowerCase();
+      const pText = (q.prashna || '').toLowerCase();
+      const idText = (q.id || '').toLowerCase();
+      if (!qText.includes(search) && !pText.includes(search) && !idText.includes(search)) {
+        continue;
+      }
+    }
+
     filteredIndices.push(i);
   }
-  
-  renderList();
+
+  document.getElementById('filterCount').textContent = `Showing ${filteredIndices.length} of ${allQuestions.length}`;
+
+  renderQuestionList();
+
   if (filteredIndices.length > 0) {
-    selectQuestion(filteredIndices[0]);
+    // Keep activeIndex if it's still in filtered list, else select first
+    if (!filteredIndices.includes(activeIndex)) {
+      selectQuestion(filteredIndices[0]);
+    } else {
+      selectQuestion(activeIndex);
+    }
   } else {
-    activeIdx = -1;
-    document.getElementById('detailPanel').innerHTML = '<span>No questions match the current filters</span>';
-    document.getElementById('detailPanel').className = 'detail-panel empty';
+    activeIndex = -1;
+    document.getElementById('questionDetailCol').innerHTML = '<div class="empty-state">No questions match the current filters</div>';
+    document.getElementById('chapterCardsList').innerHTML = '';
   }
 }
 
-// ─── List Rendering ───
-function renderList() {
-  const panel = document.getElementById('listPanel');
+function renderQuestionList() {
+  const col = document.getElementById('questionListCol');
   let html = '';
+
   for (const gi of filteredIndices) {
-    const q = questions[gi];
+    const q = allQuestions[gi];
     const d = decisions[q._key];
     const statusClass = d?.status === 'classified' ? 'classified' : d?.status === 'skipped' ? 'skipped' : '';
-    const activeClass = gi === activeIdx ? 'active' : '';
-    const preview = (q.question || q.prashna || q.context || '').substring(0, 80).replace(/\n/g, ' ');
-    const classLabel = d?.status === 'classified' ? `<div class="q-classification">✓ ${d.section ? d.section + ' → ' : ''}Ch ${d.chapter}: ${d.chapter_name}</div>` : '';
-    
-    html += `<div class="q-item ${statusClass} ${activeClass}" data-gi="${gi}" onclick="selectQuestion(${gi})">
-      <div class="q-header">
-        <span class="q-id">${q.id || 'Q' + q.index}</span>
-        <span class="q-year">${q.year}</span>
+    const activeClass = gi === activeIndex ? 'active' : '';
+    const snippet = (q.question || q.prashna || q.context || '').replace(/\n/g, ' ').substring(0, 75);
+
+    let classificationBadge = '';
+    if (d?.status === 'classified') {
+      const secStr = d.section && d.section !== 'Unclassified' ? `${d.section} → ` : '';
+      classificationBadge = `<div class="q-row-badge">✓ ${secStr}Ch ${d.chapter}: ${escHtml(d.chapter_name)}</div>`;
+    }
+
+    html += `
+      <div class="q-row ${statusClass} ${activeClass}" data-gi="${gi}" onclick="selectQuestion(${gi})">
+        <div class="q-row-top">
+          <span class="q-row-id">${escHtml(q.id || 'Q#' + q.index)}</span>
+          <span class="q-row-year">${q.year}</span>
+        </div>
+        <div class="q-row-meta">
+          <span>${SUBJECT_ICONS[q._subject] || ''} ${q._subject}</span>
+          <span>•</span>
+          <span>${(q.type || '').replace(/_/g, ' ')}</span>
+        </div>
+        <div class="q-row-snippet">${escHtml(snippet)}</div>
+        ${classificationBadge}
       </div>
-      <span class="q-type">${q._subject} · ${(q.type||'').replace(/_/g,' ')}</span>
-      <div class="q-preview">${escHtml(preview)}</div>
-      ${classLabel}
-    </div>`;
+    `;
   }
-  panel.innerHTML = html;
-  
-  // Scroll active into view
-  const activeEl = panel.querySelector('.q-item.active');
+
+  col.innerHTML = html;
+
+  const activeEl = col.querySelector('.q-row.active');
   if (activeEl) activeEl.scrollIntoView({ block: 'nearest' });
 }
 
-// ─── Question Detail ───
+// ─── Select Question & Render Details (Col 2 & Col 3) ───
 function selectQuestion(gi) {
-  activeIdx = gi;
-  renderList();
-  
-  const q = questions[gi];
+  activeIndex = gi;
+  const q = allQuestions[gi];
   const d = decisions[q._key];
-  const opts = DATA.chapter_options[q._subject];
-  const panel = document.getElementById('detailPanel');
-  panel.className = 'detail-panel';
-  
+
+  renderQuestionList();
+
+  // Reset or preset selected chapter
+  if (d?.status === 'classified') {
+    activeSelectedChapter = {
+      section: d.section || '',
+      number: d.chapter,
+      name_en: d.chapter_name,
+      name_hi: ''
+    };
+  } else {
+    activeSelectedChapter = null;
+  }
+
+  renderQuestionDetails(q);
+  setupChapterPalette(q);
+  updatePaletteSelectedState();
+}
+
+function formatMathString(s) {
+  if (!s) return '';
+  return String(s)
+    .replace(/\x0crac/g, '\\frac')
+    .replace(/\x0c/g, '\\f')
+    .replace(/\x08eta/g, '\\beta')
+    .replace(/\x08/g, '\\b')
+    .replace(/\\frac\{([^}]+)\},\s*\{([^}]+)\}/g, '\\frac{$1}{$2}')
+    .replace(/(?<![\\a-zA-Z])rac\{/g, '\\frac{');
+}
+
+function renderMath() {
+  const col = document.getElementById('questionDetailCol');
+  if (!col) return;
+  if (typeof renderMathInElement === 'function') {
+    try {
+      renderMathInElement(col, {
+        delimiters: [
+          { left: '$$', right: '$$', display: true },
+          { left: '$', right: '$', display: false },
+          { left: '\\(', right: '\\)', display: false },
+          { left: '\\[', right: '\\]', display: true }
+        ],
+        throwOnError: false,
+        ignoredTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+      });
+    } catch(e) {
+      console.warn('KaTeX rendering error:', e);
+    }
+  } else {
+    // If KaTeX script hasn't finished loading yet, retry in 100ms
+    setTimeout(() => {
+      if (typeof renderMathInElement === 'function') renderMath();
+    }, 120);
+  }
+}
+
+function renderQuestionDetails(q) {
+  const col = document.getElementById('questionDetailCol');
   let html = '';
-  
-  // Question text card
-  html += `<div class="card">
-    <h3>Question (English)</h3>
-    <div class="q-text">${escHtml(q.question || '(No English text)')}</div>
-  </div>`;
-  
+
+  // Main Question Text (English)
+  if (q.question) {
+    html += `
+      <div class="detail-card">
+        <div class="detail-card-title">
+          <span>Question (English)</span>
+          <span style="font-size:11px;color:var(--text-muted)">${q.file} • #${q.id}</span>
+        </div>
+        <div class="detail-text">${escHtml(formatMathString(q.question))}</div>
+      </div>
+    `;
+  }
+
+  // Hindi Question Text
   if (q.prashna) {
-    html += `<div class="card">
-      <h3>प्रश्न (Hindi)</h3>
-      <div class="q-text hindi">${escHtml(q.prashna)}</div>
-    </div>`;
+    html += `
+      <div class="detail-card">
+        <div class="detail-card-title">प्रश्न (Hindi)</div>
+        <div class="detail-text hindi">${escHtml(formatMathString(q.prashna))}</div>
+      </div>
+    `;
   }
-  
+
+  // Context / Instructions / Passages
   if (q.context) {
-    html += `<div class="card">
-      <h3>Context / Passage</h3>
-      <div class="q-text">${escHtml(q.context)}</div>
-    </div>`;
+    html += `
+      <div class="detail-card">
+        <div class="detail-card-title">Context / Reading Passage</div>
+        <div class="detail-text">${escHtml(formatMathString(q.context))}</div>
+      </div>
+    `;
   }
-  
   if (q.instructions) {
-    html += `<div class="card">
-      <h3>Instructions</h3>
-      <div class="q-text">${escHtml(q.instructions)}</div>
-    </div>`;
+    html += `
+      <div class="detail-card">
+        <div class="detail-card-title">Instructions</div>
+        <div class="detail-text">${escHtml(formatMathString(q.instructions))}</div>
+      </div>
+    `;
   }
-  
-  // Options
+
+  // Options (EN)
   if (q.options && typeof q.options === 'object') {
-    html += `<div class="card"><h3>Options (EN)</h3><div class="options-grid">`;
+    html += `
+      <div class="detail-card">
+        <div class="detail-card-title">Options (English)</div>
+        <div class="options-table">
+    `;
     for (const [k, v] of Object.entries(q.options)) {
-      html += `<span class="opt-key">${escHtml(k)}.</span><span>${escHtml(String(v))}</span>`;
+      html += `<span class="opt-letter">${escHtml(k)}.</span><span class="opt-val">${escHtml(formatMathString(String(v)))}</span>`;
     }
     html += `</div></div>`;
   }
+
+  // Options (HI)
   if (q.vikalpa && typeof q.vikalpa === 'object') {
-    html += `<div class="card"><h3>विकल्प (HI)</h3><div class="options-grid">`;
+    html += `
+      <div class="detail-card">
+        <div class="detail-card-title">विकल्प (Hindi)</div>
+        <div class="options-table">
+    `;
     for (const [k, v] of Object.entries(q.vikalpa)) {
-      html += `<span class="opt-key">${escHtml(k)}.</span><span class="hindi">${escHtml(String(v))}</span>`;
+      html += `<span class="opt-letter">${escHtml(k)}.</span><span class="opt-val hindi">${escHtml(formatMathString(String(v)))}</span>`;
     }
     html += `</div></div>`;
   }
-  
-  // Sub-questions
+
+  // Sub questions
   if (q.sub_questions && q.sub_questions.length > 0) {
-    html += `<div class="card"><h3>Sub-Questions</h3>`;
+    html += `<div class="detail-card"><div class="detail-card-title">Sub-Questions</div>`;
     for (const sq of q.sub_questions) {
-      html += `<div class="sub-q">`;
-      if (sq.question) html += `<div>${escHtml(sq.question)}</div>`;
-      if (sq.prashna) html += `<div class="hindi" style="color:var(--text-dim)">${escHtml(sq.prashna)}</div>`;
+      html += `<div class="subq-box">`;
+      if (sq.question) html += `<div>${escHtml(formatMathString(sq.question))}</div>`;
+      if (sq.prashna) html += `<div class="hindi" style="color:var(--text-secondary);margin-top:2px">${escHtml(formatMathString(sq.prashna))}</div>`;
       html += `</div>`;
     }
     html += `</div>`;
   }
-  
-  // Jev hint
+
+  // Jev API Hint Card
   if (q.raw_choice || q.confidence) {
-    html += `<div class="card"><h3>Jev API Hint</h3>
-      <div class="jev-hint">Best guess: <span class="choice">${escHtml(q.raw_choice || 'none')}</span> 
-      at <span class="conf">${((q.confidence || 0) * 100).toFixed(1)}%</span> confidence (below threshold)</div>
-    </div>`;
+    const confPct = ((q.confidence || 0) * 100).toFixed(1);
+    html += `
+      <div class="jev-suggestion-card">
+        <div class="jev-suggestion-info">
+          <div>💡 <b>Jev AI Suggested:</b></div>
+          <div class="choice-title" style="margin-top:3px">${escHtml(q.raw_choice || 'N/A')} <span class="conf-tag">${confPct}%</span></div>
+        </div>
+        <button class="btn-accept-jev" onclick="acceptJevHint()">
+          ⚡ Accept AI Suggestion
+        </button>
+      </div>
+    `;
   }
-  
-  // Classification form
-  html += `<div class="classify-form" id="classifyForm">
-    <h3>🏷️ Classify This Question</h3>`;
-  
-  if (opts.is_multi_section) {
-    html += `<div class="form-row">
-      <label>Section:</label>
-      <select id="selSection" onchange="updateChapterDropdown()">
-        <option value="">— Select Section —</option>`;
-    for (const secName of Object.keys(opts.sections)) {
-      const sel = d?.section === secName ? 'selected' : '';
-      html += `<option value="${escHtml(secName)}" ${sel}>${escHtml(secName)}</option>`;
-    }
-    html += `</select></div>`;
-  }
-  
-  html += `<div class="form-row">
-    <label>Chapter:</label>
-    <select id="selChapter">
-      <option value="">— Select Chapter —</option>`;
-  
-  // If not multi-section, populate chapters directly
-  if (!opts.is_multi_section) {
-    const sec = Object.keys(opts.sections)[0];
-    for (const ch of opts.sections[sec]) {
-      const sel = d?.chapter == ch.number ? 'selected' : '';
-      html += `<option value="${ch.number}" data-name="${escAttr(ch.name_en)}" ${sel}>${ch.number}. ${escHtml(ch.name_en)} (${escHtml(ch.name_hi)})</option>`;
-    }
-  }
-  html += `</select></div>`;
-  
-  html += `<div class="btn-row">
-    <button class="primary" onclick="classifyQuestion()">✅ Classify (Enter)</button>
-    <button onclick="skipQuestion()">⏭ Skip (S)</button>
-    <button onclick="markUnseen()">👁️ Mark as Unseen Passage</button>
-    ${d?.status !== 'pending' ? '<button class="danger" onclick="resetQuestion()">↩ Reset</button>' : ''}
-  </div>`;
-  
-  html += `<div style="margin-top:8px;font-size:12px;color:var(--text-dim)">
-    File: ${q.file} | Index: ${q.index} | ID: ${q.id}
-  </div>`;
-  
-  html += `</div>`;
-  
-  panel.innerHTML = html;
-  
-  // If multi-section and section is already set, populate chapters
-  if (opts.is_multi_section && d?.section) {
-    updateChapterDropdown();
-  }
+
+  col.innerHTML = html;
+  renderMath();
 }
 
-function updateChapterDropdown() {
-  const q = questions[activeIdx];
-  const opts = DATA.chapter_options[q._subject];
-  const secSelect = document.getElementById('selSection');
-  const chSelect = document.getElementById('selChapter');
-  const secName = secSelect.value;
-  
-  chSelect.innerHTML = '<option value="">— Select Chapter —</option>';
-  if (secName && opts.sections[secName]) {
-    const d = decisions[q._key];
-    for (const ch of opts.sections[secName]) {
-      const sel = d?.chapter == ch.number && d?.section === secName ? 'selected' : '';
-      chSelect.innerHTML += `<option value="${ch.number}" data-name="${escAttr(ch.name_en)}" ${sel}>${ch.number}. ${escHtml(ch.name_en)} (${escHtml(ch.name_hi)})</option>`;
+// ─── Setup & Render Chapter Palette (Col 3) ───
+function setupChapterPalette(q) {
+  const badge = document.getElementById('paletteSubjectBadge');
+  badge.textContent = `${SUBJECT_ICONS[q._subject] || ''} ${q._subject}`;
+
+  const subjData = DATA.chapter_options[q._subject];
+  const pillsRow = document.getElementById('sectionPillsRow');
+
+  if (subjData && subjData.is_multi_section) {
+    pillsRow.style.display = 'flex';
+    let pillsHtml = `<button class="sec-pill ${selectedSectionFilter === 'ALL' ? 'active' : ''}" onclick="filterPaletteSection('ALL')">All Sections</button>`;
+    for (const secName of Object.keys(subjData.sections)) {
+      const count = subjData.sections[secName].length;
+      pillsHtml += `<button class="sec-pill ${selectedSectionFilter === secName ? 'active' : ''}" onclick="filterPaletteSection('${escAttr(secName)}')">${escHtml(secName)} (${count})</button>`;
     }
+    pillsRow.innerHTML = pillsHtml;
+  } else {
+    pillsRow.style.display = 'none';
+    selectedSectionFilter = 'ALL';
   }
+
+  renderChapterPalette();
 }
 
-function classifyQuestion() {
-  if (activeIdx < 0) return;
-  const q = questions[activeIdx];
-  const opts = DATA.chapter_options[q._subject];
-  
-  let section = '';
-  if (opts.is_multi_section) {
-    section = document.getElementById('selSection').value;
-    if (!section) { alert('Please select a section first'); return; }
+function filterPaletteSection(sec) {
+  selectedSectionFilter = sec;
+  const pills = document.querySelectorAll('.sec-pill');
+  pills.forEach(p => {
+    p.classList.toggle('active', p.textContent.startsWith(sec) || (sec === 'ALL' && p.textContent.startsWith('All')));
+  });
+  renderChapterPalette();
+}
+
+function renderChapterPalette() {
+  if (activeIndex < 0) return;
+  const q = allQuestions[activeIndex];
+  const subjData = DATA.chapter_options[q._subject];
+  const container = document.getElementById('chapterCardsList');
+  const search = document.getElementById('paletteChapterSearch').value.toLowerCase().trim();
+
+  let html = '';
+
+  for (const [secName, chList] of Object.entries(subjData.sections)) {
+    if (selectedSectionFilter !== 'ALL' && selectedSectionFilter !== secName) {
+      continue;
+    }
+
+    for (const ch of chList) {
+      if (search) {
+        const enMatch = ch.name_en.toLowerCase().includes(search);
+        const hiMatch = (ch.name_hi || '').toLowerCase().includes(search);
+        const numMatch = String(ch.number) === search;
+        if (!enMatch && !hiMatch && !numMatch) continue;
+      }
+
+      const isSelected = activeSelectedChapter &&
+        String(activeSelectedChapter.number) === String(ch.number) &&
+        (!subjData.is_multi_section || activeSelectedChapter.section === secName);
+
+      // Check if matches Jev suggestion
+      let isJevHint = false;
+      if (q.raw_choice) {
+        const rc = q.raw_choice.toLowerCase();
+        if (rc.includes(ch.name_en.toLowerCase()) || (subjData.is_multi_section && rc.includes(secName.toLowerCase()) && rc.includes(String(ch.number)))) {
+          isJevHint = true;
+        }
+      }
+
+      const selectedClass = isSelected ? 'selected' : '';
+      const hintClass = isJevHint ? 'jev-hint-match' : '';
+      const secTag = subjData.is_multi_section ? `<span class="ch-sec-tag">${escHtml(secName)}</span>` : '';
+      const starTag = isJevHint ? '<span title="AI suggestion match" style="color:var(--gold);font-size:12px">⭐</span>' : '';
+
+      html += `
+        <div class="chapter-card-item ${selectedClass} ${hintClass}"
+             onclick="selectChapterCard('${escAttr(secName)}', '${ch.number}', '${escAttr(ch.name_en)}', '${escAttr(ch.name_hi || '')}')"
+             ondblclick="confirmDoubleClickedChapter('${escAttr(secName)}', '${ch.number}', '${escAttr(ch.name_en)}', '${escAttr(ch.name_hi || '')}')">
+          <div class="ch-num-badge">${ch.number}</div>
+          <div class="ch-names">
+            <div class="ch-en">${starTag} ${escHtml(ch.name_en)}</div>
+            <div class="ch-hi">${escHtml(ch.name_hi || '')}</div>
+          </div>
+          ${secTag}
+        </div>
+      `;
+    }
   }
-  
-  const chSelect = document.getElementById('selChapter');
-  const chapter = chSelect.value;
-  if (!chapter) { alert('Please select a chapter'); return; }
-  const chapterName = chSelect.options[chSelect.selectedIndex].getAttribute('data-name');
-  
+
+  if (!html) {
+    html = `<div style="text-align:center;padding:24px;color:var(--text-muted);font-size:13px">No chapters match "${escHtml(search)}"</div>`;
+  }
+
+  container.innerHTML = html;
+}
+
+function selectChapterCard(section, number, name_en, name_hi) {
+  activeSelectedChapter = { section, number, name_en, name_hi };
+  updatePaletteSelectedState();
+}
+
+function updatePaletteSelectedState() {
+  const summary = document.getElementById('selectedSummary');
+  const btnConfirm = document.getElementById('btnConfirm');
+
+  if (activeSelectedChapter) {
+    const secStr = activeSelectedChapter.section ? `${activeSelectedChapter.section} → ` : '';
+    summary.innerHTML = `Selected: <b>${secStr}Ch ${activeSelectedChapter.number}. ${escHtml(activeSelectedChapter.name_en)}</b>`;
+    btnConfirm.disabled = false;
+  } else {
+    summary.innerHTML = `Selected: <i>None</i>`;
+    btnConfirm.disabled = true;
+  }
+
+  renderChapterPalette();
+}
+
+// ─── Classification Actions ───
+function confirmClassification() {
+  if (!activeSelectedChapter || activeIndex < 0) return;
+  const q = allQuestions[activeIndex];
+
   decisions[q._key] = {
     subject: q._subject,
     file: q.file,
     index: q.index,
-    section: section,
-    chapter: chapter,
-    chapter_name: chapterName,
+    section: activeSelectedChapter.section || '',
+    chapter: activeSelectedChapter.number,
+    chapter_name: activeSelectedChapter.name_en,
     status: 'classified'
   };
-  
-  updateStats();
-  moveToNext();
+
+  saveToStorage();
+  updateGlobalStats();
+  moveToNextPending();
 }
 
-function skipQuestion() {
-  if (activeIdx < 0) return;
-  const q = questions[activeIdx];
-  decisions[q._key] = { ...decisions[q._key], status: 'skipped' };
-  updateStats();
-  moveToNext();
+function confirmDoubleClickedChapter(section, number, name_en, name_hi) {
+  selectChapterCard(section, number, name_en, name_hi);
+  confirmClassification();
 }
 
-function markUnseen() {
-  if (activeIdx < 0) return;
-  const q = questions[activeIdx];
-  decisions[q._key] = {
-    subject: q._subject, file: q.file, index: q.index,
-    section: 'Unseen', chapter: 0, chapter_name: 'Unseen Passage/Poem',
-    status: 'classified'
-  };
-  updateStats();
-  moveToNext();
-}
+function acceptJevHint() {
+  if (activeIndex < 0) return;
+  const q = allQuestions[activeIndex];
+  const subjData = DATA.chapter_options[q._subject];
+  if (!q.raw_choice) return;
 
-function resetQuestion() {
-  if (activeIdx < 0) return;
-  const q = questions[activeIdx];
-  decisions[q._key] = { subject: q._subject, file: q.file, index: q.index, status: 'pending' };
-  updateStats();
-  selectQuestion(activeIdx);
-}
-
-function moveToNext() {
-  const currentFilteredIdx = filteredIndices.indexOf(activeIdx);
-  if (currentFilteredIdx < filteredIndices.length - 1) {
-    // Try to find next pending in filtered list
-    for (let i = currentFilteredIdx + 1; i < filteredIndices.length; i++) {
-      const gi = filteredIndices[i];
-      const q = questions[gi];
-      if (decisions[q._key]?.status === 'pending') {
-        selectQuestion(gi);
+  // Find matching chapter in syllabus
+  const rc = q.raw_choice.toLowerCase();
+  for (const [secName, chList] of Object.entries(subjData.sections)) {
+    for (const ch of chList) {
+      if (rc.includes(ch.name_en.toLowerCase()) || (subjData.is_multi_section && rc.includes(secName.toLowerCase()) && rc.includes(String(ch.number)))) {
+        selectChapterCard(secName, ch.number, ch.name_en, ch.name_hi);
+        confirmClassification();
         return;
       }
     }
-    // If no more pending, just go to next
-    selectQuestion(filteredIndices[currentFilteredIdx + 1]);
-  } else {
-    applyFilters(); // Refresh to remove classified from pending filter
   }
+
+  alert('Could not automatically resolve exact chapter from Jev choice text: ' + q.raw_choice);
 }
 
-// ─── Stats ───
-function updateStats() {
+function markUnseen() {
+  if (activeIndex < 0) return;
+  const q = allQuestions[activeIndex];
+
+  decisions[q._key] = {
+    subject: q._subject,
+    file: q.file,
+    index: q.index,
+    section: 'Unseen',
+    chapter: 0,
+    chapter_name: 'Unseen Passage/Poem',
+    status: 'classified'
+  };
+
+  saveToStorage();
+  updateGlobalStats();
+  moveToNextPending();
+}
+
+function skipQuestion() {
+  if (activeIndex < 0) return;
+  const q = allQuestions[activeIndex];
+  decisions[q._key] = { ...decisions[q._key], status: 'skipped' };
+  saveToStorage();
+  updateGlobalStats();
+  moveToNextPending();
+}
+
+function resetCurrentQuestion() {
+  if (activeIndex < 0) return;
+  const q = allQuestions[activeIndex];
+  decisions[q._key] = { subject: q._subject, file: q.file, index: q.index, status: 'pending' };
+  activeSelectedChapter = null;
+  saveToStorage();
+  updateGlobalStats();
+  selectQuestion(activeIndex);
+}
+
+function moveToNextPending() {
+  const currFIndex = filteredIndices.indexOf(activeIndex);
+  if (currFIndex < 0) return;
+
+  // Search forward for next pending
+  for (let i = currFIndex + 1; i < filteredIndices.length; i++) {
+    const gi = filteredIndices[i];
+    if (decisions[allQuestions[gi]._key]?.status === 'pending') {
+      selectQuestion(gi);
+      return;
+    }
+  }
+
+  // If none forward, search from start
+  for (let i = 0; i < currFIndex; i++) {
+    const gi = filteredIndices[i];
+    if (decisions[allQuestions[gi]._key]?.status === 'pending') {
+      selectQuestion(gi);
+      return;
+    }
+  }
+
+  // All filtered are completed!
+  applyFilters();
+}
+
+// ─── Stats & LocalStorage ───
+function updateGlobalStats() {
   let classified = 0, skipped = 0;
-  for (const d of Object.values(decisions)) {
+  for (const q of allQuestions) {
+    const d = decisions[q._key];
+    if (!d) continue;
     if (d.status === 'classified') classified++;
     else if (d.status === 'skipped') skipped++;
   }
-  document.getElementById('statTotal').textContent = questions.length;
+
+  const total = allQuestions.length;
+  const remaining = total - classified - skipped;
+  const pct = total ? ((classified / total) * 100).toFixed(1) : 0;
+
+  document.getElementById('statTotal').textContent = total;
   document.getElementById('statClassified').textContent = classified;
-  document.getElementById('statRemaining').textContent = questions.length - classified - skipped;
-  document.getElementById('statSkipped').textContent = skipped;
-  document.getElementById('progressFill').style.width = ((classified / questions.length) * 100).toFixed(1) + '%';
-  
-  // Auto-save progress to localStorage
-  try { localStorage.setItem('pyq_review_progress', JSON.stringify(decisions)); } catch(e) {}
+  document.getElementById('statRemaining').textContent = remaining;
+  document.getElementById('progressBar').style.width = pct + '%';
+  document.getElementById('statPct').textContent = pct + '%';
+
+  // KPI Dashboard updates
+  document.getElementById('kpiUnclassifiedTotal').textContent = total;
+  const corpusTotal = Number(DATA?.corpus_total) || 11662;
+  document.getElementById('kpiTotalPYQs').textContent = corpusTotal.toLocaleString();
+  document.getElementById('kpiCorpusSub').textContent = `${corpusTotal.toLocaleString()} questions across loaded papers`;
+  document.getElementById('kpiUnclassifiedPct').textContent = `${corpusTotal ? ((total / corpusTotal) * 100).toFixed(1) : '0.0'}% of corpus`;
+  document.getElementById('kpiClassified').textContent = classified;
+  document.getElementById('kpiRemaining').textContent = remaining;
+  document.getElementById('kpiClassifiedSub').textContent = `${pct}% done of unclassified queue`;
 }
 
-// ─── Export ───
+function saveToStorage() {
+  try {
+    localStorage.setItem('bihar_pyq_manual_decisions', JSON.stringify(decisions));
+  } catch(e) {}
+
+  // Auto-sync to server if running on server_manual_review.py (or localhost)
+  const classified = allQuestions.map(q => decisions[q._key]).filter(d => d?.status === 'classified');
+  if (classified.length > 0) {
+    const payload = {
+      exported_at: new Date().toISOString(),
+      total_classified: classified.length,
+      classifications: classified
+    };
+    fetch('/api/save', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(payload)
+    }).catch(() => {
+      // Silently ignore if not running with local python server
+    });
+  }
+}
+
+// ─── TAB 2: RENDER BREAKDOWN DASHBOARD ───
+function renderBreakdownTab() {
+  if (!DATA) return;
+
+  const subjectsGrid = document.getElementById('subjectsGrid');
+  const tbody = document.getElementById('breakdownTableBody');
+
+  let gridHtml = '';
+  let tableHtml = '';
+
+  for (const [subj, qs] of Object.entries(DATA.subjects || {})) {
+    const icon = SUBJECT_ICONS[subj] || '📚';
+    const subjTitle = subj.replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+    const subjData = DATA.chapter_options[subj];
+
+    // Counts
+    let done = 0, skipped = 0;
+    const typeCounts = {};
+
+    for (const q of qs) {
+      const d = decisions[q._key];
+      if (d?.status === 'classified') done++;
+      else if (d?.status === 'skipped') skipped++;
+
+      const t = q.type || 'other';
+      typeCounts[t] = (typeCounts[t] || 0) + 1;
+    }
+
+    const pending = qs.length - done - skipped;
+    const pct = qs.length ? Math.round((done / qs.length) * 100) : 0;
+
+    // Type pills
+    let typePillsHtml = '';
+    for (const [t, cnt] of Object.entries(typeCounts)) {
+      typePillsHtml += `<span class="type-tag-stat">${t.replace(/_/g, ' ')}: <b>${cnt}</b></span>`;
+    }
+
+    // Subject Card
+    const doneTag = pending === 0 ? '<span class="subj-count-pill all-done">✅ ALL DONE</span>' : `<span class="subj-count-pill">${pending} pending</span>`;
+
+    gridHtml += `
+      <div class="subject-card">
+        <div class="subject-card-top">
+          <div class="subj-icon-name">
+            <span>${icon}</span>
+            <span>${subjTitle}</span>
+          </div>
+          ${doneTag}
+        </div>
+        <div class="subj-progress-bar">
+          <div class="subj-progress-fill" style="width:${pct}%"></div>
+        </div>
+        <div style="font-size:12px;color:var(--text-secondary);display:flex;justify-content:space-between">
+          <span>${done} / ${qs.length} classified</span>
+          <span><b>${pct}%</b></span>
+        </div>
+        <div class="subj-breakdown-tags">${typePillsHtml}</div>
+        <button class="btn-jump-subject" onclick="jumpToSubject('${subj}')">
+          👉 Classify ${subjTitle} (${pending} left)
+        </button>
+      </div>
+    `;
+
+    // Sections summary string
+    let sectionsList = 'Single Textbook (1)';
+    if (subjData.is_multi_section) {
+      sectionsList = Object.keys(subjData.sections).join(', ');
+    }
+
+    // Table Row
+    tableHtml += `
+      <tr>
+        <td><b>${icon} ${subjTitle}</b></td>
+        <td style="color:var(--text-secondary);font-size:12px">${sectionsList}</td>
+        <td><b>${qs.length}</b></td>
+        <td style="color:var(--success-hover)"><b>${done}</b></td>
+        <td style="color:var(--warning)"><b>${pending}</b></td>
+        <td style="font-size:11px">${typePillsHtml}</td>
+        <td>
+          <button class="btn" style="padding:4px 10px;font-size:11px" onclick="jumpToSubject('${subj}')">
+            Classify →
+          </button>
+        </td>
+      </tr>
+    `;
+  }
+
+  subjectsGrid.innerHTML = gridHtml;
+  tbody.innerHTML = tableHtml;
+}
+
+// ─── Export & Resume ───
 document.getElementById('btnExport').addEventListener('click', () => {
-  const classified = Object.values(decisions).filter(d => d.status === 'classified');
-  if (classified.length === 0) { alert('No classifications to export yet.'); return; }
-  
-  const exportData = {
+  const classified = allQuestions.map(q => decisions[q._key]).filter(d => d?.status === 'classified');
+  if (classified.length === 0) {
+    alert('No classifications made yet. Select a question and choose a chapter first!');
+    return;
+  }
+
+  const exportPayload = {
     exported_at: new Date().toISOString(),
     total_classified: classified.length,
     classifications: classified
   };
-  
-  const blob = new Blob([JSON.stringify(exportData, null, 2)], { type: 'application/json' });
-  const url = URL.createObjectURL(blob);
-  const a = document.createElement('a');
-  a.href = url;
-  a.download = `manual_classifications_${new Date().toISOString().slice(0,10)}.json`;
-  a.click();
-  URL.revokeObjectURL(url);
+
+  // Try saving directly to server if on localhost
+  fetch('/api/save', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(exportPayload)
+  }).then(r => r.json()).then(res => {
+    alert(`✅ Successfully saved ${classified.length} classifications directly to manual_classifications.json!`);
+  }).catch(() => {
+    // Standard download if direct server not present
+    const blob = new Blob([JSON.stringify(exportPayload, null, 2)], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `manual_classifications.json`;
+    a.click();
+    URL.revokeObjectURL(url);
+  });
 });
 
-// ─── Import Progress ───
-document.getElementById('btnImportProgress').addEventListener('click', () => {
-  // Try localStorage first
-  try {
-    const saved = localStorage.getItem('pyq_review_progress');
-    if (saved) {
-      const parsed = JSON.parse(saved);
-      const count = Object.values(parsed).filter(d => d.status !== 'pending').length;
-      if (count > 0 && confirm(`Found ${count} saved decisions in browser. Load them?`)) {
-        Object.assign(decisions, parsed);
-        updateStats();
-        applyFilters();
-        return;
-      }
-    }
-  } catch(e) {}
-  document.getElementById('progressInput').click();
+document.getElementById('btnResume').addEventListener('click', () => {
+  document.getElementById('resumeFileInput').click();
 });
 
-document.getElementById('progressInput').addEventListener('change', e => {
+document.getElementById('resumeFileInput').addEventListener('change', e => {
   const file = e.target.files[0];
   if (!file) return;
   const reader = new FileReader();
   reader.onload = ev => {
     try {
       const data = JSON.parse(ev.target.result);
-      const classifications = data.classifications || [];
-      for (const c of classifications) {
-        const key = `${c.subject}::${c.file}::${c.index}`;
-        decisions[key] = c;
+      const list = data.classifications || [];
+      for (const item of list) {
+        const key = `${item.subject}::${item.file}::${item.index}`;
+        decisions[key] = item;
       }
-      updateStats();
+      saveToStorage();
+      updateGlobalStats();
       applyFilters();
-      alert(`Imported ${classifications.length} classifications.`);
-    } catch (err) { alert('Error importing: ' + err.message); }
+      alert(`Successfully restored ${list.length} classifications!`);
+    } catch(err) {
+      alert('Error loading file: ' + err.message);
+    }
   };
   reader.readAsText(file);
 });
 
-// ─── Keyboard Shortcuts ───
+// ─── Keyboard Navigation ───
 document.addEventListener('keydown', e => {
-  if (e.target.tagName === 'SELECT' || e.target.tagName === 'INPUT') return;
-  
-  const fIdx = filteredIndices.indexOf(activeIdx);
-  
-  if (e.key === 'ArrowDown' && fIdx < filteredIndices.length - 1) {
+  if (e.target.tagName === 'INPUT' || e.target.tagName === 'SELECT') return;
+
+  const curr = filteredIndices.indexOf(activeIndex);
+
+  if (e.key === 'ArrowDown' && curr < filteredIndices.length - 1) {
     e.preventDefault();
-    selectQuestion(filteredIndices[fIdx + 1]);
-  } else if (e.key === 'ArrowUp' && fIdx > 0) {
+    selectQuestion(filteredIndices[curr + 1]);
+  } else if (e.key === 'ArrowUp' && curr > 0) {
     e.preventDefault();
-    selectQuestion(filteredIndices[fIdx - 1]);
+    selectQuestion(filteredIndices[curr - 1]);
   } else if (e.key === 'Enter') {
     e.preventDefault();
-    classifyQuestion();
+    confirmClassification();
   } else if (e.key.toLowerCase() === 's' && !e.ctrlKey) {
     e.preventDefault();
     skipQuestion();
   } else if (e.key.toLowerCase() === 'u') {
     e.preventDefault();
-    resetQuestion();
+    resetCurrentQuestion();
   }
 });
 
-// ─── Utils ───
+// ─── Helpers ───
 function escHtml(s) {
   if (!s) return '';
-  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 }
 function escAttr(s) {
-  return escHtml(s).replace(/'/g,'&#39;');
+  return escHtml(s).replace(/'/g, '&#39;');
 }
 </script>
 </body>

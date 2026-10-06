@@ -17,7 +17,8 @@ def main():
     
     export = {
         "subjects": {},
-        "chapter_options": {}
+        "chapter_options": {},
+        "corpus_total": 0
     }
     
     # Build chapter options for each subject
@@ -64,10 +65,12 @@ def main():
             questions = raw_data.get("questions", raw_data) if isinstance(raw_data, dict) else raw_data
             if not isinstance(questions, list):
                 continue
+
+            export["corpus_total"] += len(questions)
             
             for i, q in enumerate(questions):
                 ch = str(q.get("chapter", "")).strip()
-                if ch in ("UNCLASSIFIED", "unknown", "", "None"):
+                if ch.upper() in ("UNCLASSIFIED", "UNKNOWN", "", "NONE"):
                     entry = {
                         "file": fname,
                         "index": i,
@@ -108,8 +111,13 @@ def main():
     with open(out_path, 'w', encoding='utf-8') as f:
         json.dump(export, f, ensure_ascii=False, indent=2)
     
+    # Also generate manual_review_data.js for instant browser zero-drop loading
+    js_path = "manual_review_data.js"
+    with open(js_path, 'w', encoding='utf-8') as f:
+        f.write("window.INITIAL_REVIEW_DATA = " + json.dumps(export, ensure_ascii=False) + ";\n")
+    
     print(f"\nTotal unclassified: {total_unclass}")
-    print(f"Exported to {out_path}")
+    print(f"Exported to {out_path} and {js_path}")
 
 
 if __name__ == "__main__":

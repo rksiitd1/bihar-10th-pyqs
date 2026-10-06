@@ -45,8 +45,8 @@
         "year": "2022",
         "id": "obj_98",
         "type": "objective",
-        "question": "If $x^2 + \frac{1}, {x^2} = 14$, then the value of $x + \frac{1}, {x}$ is",
-        "prashna": "यदि $x^2 + \frac{1}, {x^2} = 14$ हो तो $x + \frac{1}, {x}$ का मान होगा",
+        "question": "If $x^2 + \\frac{1}{x^2} = 14$, then the value of $x + \\frac{1}{x}$ is",
+        "prashna": "यदि $x^2 + \\frac{1}{x^2} = 14$ हो तो $x + \\frac{1}{x}$ का मान होगा",
         "context": "",
         "instructions": "",
         "confidence": 0.49,
@@ -5023,6 +5023,32 @@
         "raw_choice": "Grammar - 18. Translation (अनुवाद)"
       },
       {
+        "file": "eng_2011i.json",
+        "index": 9,
+        "year": "2011",
+        "id": "short_answer_2",
+        "type": "short_answer",
+        "question": "Answer any two of the following questions given below in about 50 words:",
+        "prashna": "नीचे दिए गए निम्नलिखित प्रश्नों में से किन्हीं दो के उत्तर लगभग 50 शब्दों में दें:",
+        "context": "",
+        "instructions": "",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
+      },
+      {
+        "file": "eng_2011i.json",
+        "index": 10,
+        "year": "2011",
+        "id": "short_answer_3",
+        "type": "short_answer",
+        "question": "Answer any two of the following questions in about 20 words:",
+        "prashna": "निम्नलिखित में से किन्हीं दो प्रश्नों के उत्तर लगभग 20 शब्दों में दें:",
+        "context": "",
+        "instructions": "",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
+      },
+      {
         "file": "eng_2012i.json",
         "index": 7,
         "year": "2012",
@@ -5063,29 +5089,55 @@
       },
       {
         "file": "eng_2013i.json",
-        "index": 0,
+        "index": 10,
         "year": "2013",
-        "id": "passage_1",
-        "type": "passage",
-        "question": "Read the passage given below carefully and answer the questions that follows :",
-        "prashna": "नीचे दिए गए गद्यांश को ध्यानपूर्वक पढ़ें और उसके बाद आने वाले प्रश्नों के उत्तर दें:",
-        "context": "Lakshadweep, the coral paradise of India, is the tiniest but the most fascinating Union Territory of India in the lap of the Arabian sea. Its southernmost island is Minicoy, which is a unique island full of specialities. The famous European traveller Macro Polo (AD 1254-1324) in his travelogue made a reference to Minicoy as \"the island of females perhaps due to majority of its inhabitants being females and their predominant role in every walk of life.\n\nThough the language of the Lakshadweep archipelago is a variant of Malayalam, the language spoken in Minicoy is entirely different from Malayalam or any other language of our country and is called Mahi, written in a peculiar script called 'Divehi Thanna'. The most interesting to note is that, there is hardly any mention of this language on the linguistic map of India.",
+        "id": "short_answer_1_1",
+        "type": "short_answer",
+        "question": "Name some particular disease which is caused due to weather. Also mention its remedial measures.",
+        "prashna": "मौसम के कारण होने वाली कुछ विशेष बीमारियों के नाम बताइए। इसके उपचारात्मक उपायों का भी उल्लेख करें।",
+        "context": "",
         "instructions": "",
-        "confidence": 0.33,
-        "raw_choice": "Grammar - 20. Paragraph and Essay Writing (पैराग्राफ और निबंध लेखन)"
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
       },
       {
         "file": "eng_2014i.json",
-        "index": 0,
+        "index": 8,
         "year": "2014",
-        "id": "passage_1",
-        "type": "passage",
-        "question": "Read the following passage carefully and answer the questions given below in your own words:",
-        "prashna": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और नीचे दिए गए प्रश्नों के उत्तर अपने शब्दों में दें:",
-        "context": "In developing countries, the girls lag behind the boys in education. A large number of them do not go to school. Even when they are enrolled the burden of domestic chores stands in the way of their education progress. The single most important factors in their poor performance is the time and strain imposed by girl child's work load. Close behind poverty, follows tradition. And perhaps the strongest tradition of all is the idea that sons should be educated because they will be the bread winners of their own future families, and supporters of their aging parents. A girl's work, though it may be longer and harder, is considered less likely to bring monetary income. In culture where marriage means that a daughter becomes the part of her husband's family, the incentive to educate girls is weaker still.",
+        "id": "long_1",
+        "type": "long_answer",
+        "question": "Answer any one of the following in about 80 words:",
+        "prashna": "निम्नलिखित में से किसी एक का उत्तर लगभग 80 शब्दों में दें:",
+        "context": "",
         "instructions": "",
-        "confidence": 0.42,
-        "raw_choice": "Grammar - 20. Paragraph and Essay Writing (पैराग्राफ और निबंध लेखन)"
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
+      },
+      {
+        "file": "eng_2014i.json",
+        "index": 9,
+        "year": "2014",
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "Answer any two of the following in about 30 words:",
+        "prashna": "निम्नलिखित में से किन्हीं दो के उत्तर लगभग 30 शब्दों में दें:",
+        "context": "",
+        "instructions": "",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
+      },
+      {
+        "file": "eng_2014i.json",
+        "index": 11,
+        "year": "2014",
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "Answer any two of the following question in about 40 words:",
+        "prashna": "निम्नलिखित में से किन्हीं दो प्रश्नों के उत्तर लगभग 40 शब्दों में दें:",
+        "context": "",
+        "instructions": "",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
       },
       {
         "file": "eng_2014i.json",
@@ -5167,32 +5219,6 @@
       },
       {
         "file": "eng_2015i.json",
-        "index": 0,
-        "year": "2015",
-        "id": "passage_1",
-        "type": "passage",
-        "question": "Read the following passage carefully and answer the questions given below in your own words :",
-        "prashna": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़िए और नीचे दिए गए प्रश्नों के उत्तर अपने शब्दों में दीजिए :",
-        "context": "Much of the information we have today about Chimpanzees comes from the ground breaking, long-term research of the great conservationist, Jane Goodall.\n\nJane Goodall was born in London, England, on April 3, 1934. On her second birthday, her father gave her a toy Chimpanzee named Jubilee. From an early age, Jane was fascinated by animals and animal stories. By the age of 10, she was talking about going to Africa to live among the animals there. At the time, in the early 1940, this was a radical idea because women did not go to Africa by themselves.\n\nOnce in Kenya, she met Dr. Louis Leakey, paleontologist and anthropologist. He was impressed with her thorough knowledge of Africa and its wildlife, and hired her to assist him and his wife on a fossil-hunting expedition to Olduvai Gorge. Dr. Leakey soon realized that Jane was the perfect person to complete a study he had been planning for some time. They began a study of a group of Chimpanzees who were living on the shores of Lake Tanganyika in Kenya. Jane faced many challenges as she began her work. For the first time the Chimpanzees did not accept her but little by little she was able to enter their world.",
-        "instructions": "",
-        "confidence": 0.39,
-        "raw_choice": "Grammar - 20. Paragraph and Essay Writing (पैराग्राफ और निबंध लेखन)"
-      },
-      {
-        "file": "eng_2015i.json",
-        "index": 1,
-        "year": "2015",
-        "id": "passage_2",
-        "type": "passage",
-        "question": "Read the following passage carefully and answer the questions given below in your own words :",
-        "prashna": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़िए और नीचे दिए गए प्रश्नों के उत्तर अपने शब्दों में दीजिए :",
-        "context": "For many people who live in cities, parks are an important part of the landscape. They provide a place for people to relax and play sports, as well as a refuge from the often harsh environment of a city. What people often overlook is that parks also provide considerable environmental benefits.\n\nOne benefit of parks is that plants absorb carbon dioxide — a key pollutant — and emit oxygen which humans need to breathe. According to one study, an acre of trees can absorb the same amount of carbon dioxide that a typical car emits in 11,000 miles of driving. Parks also make cities cooler. Scientists have long noted what it called the Urban Heat Island Effect : building materials such as metal, concrete and asphalt, absorb much more of the sun's heat and release it much more quickly than organic surfaces like trees and grass. Because city landscapes contain so much of these building materials, cities are usually warmer than the surrounding rural areas. Parks and other green spaces help to mitigate the Urban Heat Island Effect.",
-        "instructions": "",
-        "confidence": 0.49,
-        "raw_choice": "Panorama - 2. Me and the Ecology Bit (मैं और पारिस्थितिकी का अंश)"
-      },
-      {
-        "file": "eng_2015i.json",
         "index": 7,
         "year": "2015",
         "id": "short_answer_1",
@@ -5203,6 +5229,45 @@
         "instructions": "",
         "confidence": 0.39,
         "raw_choice": "Grammar - 18. Translation (अनुवाद)"
+      },
+      {
+        "file": "eng_2015i.json",
+        "index": 14,
+        "year": "2015",
+        "id": "short_answer_5",
+        "type": "short_answer",
+        "question": "Answer any one of the following in about 80 words :",
+        "prashna": "निम्नलिखित में से किसी एक का उत्तर लगभग 80 शब्दों में दीजिए :",
+        "context": "",
+        "instructions": "",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
+      },
+      {
+        "file": "eng_2015i.json",
+        "index": 15,
+        "year": "2015",
+        "id": "short_answer_6",
+        "type": "short_answer",
+        "question": "Answer any two of the following questions in about 30 words :",
+        "prashna": "निम्नलिखित प्रश्नों में से किसी दो के उत्तर लगभग 30 शब्दों में दीजिए :",
+        "context": "",
+        "instructions": "",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
+      },
+      {
+        "file": "eng_2015i.json",
+        "index": 17,
+        "year": "2015",
+        "id": "short_answer_7",
+        "type": "short_answer",
+        "question": "Answer any two of the following questions in about 30 words :",
+        "prashna": "निम्नलिखित प्रश्नों में से किसी दो के उत्तर लगभग 30 शब्दों में दीजिए :",
+        "context": "",
+        "instructions": "",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
       },
       {
         "file": "eng_2015i.json",
@@ -5232,29 +5297,42 @@
       },
       {
         "file": "eng_2015ii.json",
-        "index": 0,
+        "index": 8,
         "year": "2015",
-        "id": "passage_1",
-        "type": "passage",
-        "question": "Read the following passage carefully and answer the questions given below in your own words:",
-        "prashna": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और नीचे दिए गए प्रश्नों के उत्तर अपने शब्दों में दें:",
-        "context": "Much of the information we have today about Chimpanzees comes from the ground breaking, long-term research of the great conservationist. Jane Goodall. Jane Goodall was born in London (England), on April 3, 1934. On her second birthday, her father gave her a toy Chimpanzee named Jubilee. From an early age, Jane was fascinated by animals and animal stories. By the age of 10, she was talking about going to Africa to live among the animals there. At the time, in the early 1940, this was a tradical idea because women did not go to Africa by themselves. Once in Kenya, she met Dr. Louis Leakey, paleontologist and anthropologist. He was impressed with her through knowledge of Africa and its wildlife, and hired her to assist him and his wife on a fossil-hunting expendition to Olduvai Gorge. Dr. Leakey soon realized that Jane was the perfect person to complete a study he had been planning for some time. They begain a study of a group of Chimpanzees who were living on the shores of Lake Tanganyika in Kenya. Jane feced many challenges as she began her work. For the first time the Chimpanzees did not accept her but little by little she was able to enter their world.",
+        "id": "long_answer_1",
+        "type": "long_answer",
+        "question": "Answer any one of the following in about 80 words:",
+        "prashna": "निम्नलिखित में से किसी एक का उत्तर लगभग 80 शब्दों में दें:",
+        "context": "",
         "instructions": "",
-        "confidence": 0.46,
-        "raw_choice": "Grammar - 20. Paragraph and Essay Writing (पैराग्राफ और निबंध लेखन)"
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
       },
       {
         "file": "eng_2015ii.json",
-        "index": 1,
+        "index": 9,
         "year": "2015",
-        "id": "passage_2",
-        "type": "passage",
-        "question": "Read the following passage carefully and answer the questions given below in your own words:",
-        "prashna": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और नीचे दिए गए प्रश्नों के उत्तर अपने शब्दों में दें:",
-        "context": "For many people who live in cities, parks are an important part of the landscape. They provide a place for people to relax and play sports, as well as a refuge from the often harsh environment of a city. What people often overlook is that parks also provide considerable environmental benefits. One benefit of parks is the plants absorb carbon dioxide-a key pollutant-and emit oxygen which humans need to one study, an acre of trees can absorb the same amount of carbon dioxide that a typical car emits in 11,000 miles of driving. Parks also make cities cooler. Scientists have long noted what it called the Urban Heat Island Effect; building materials such as metal, concrete and asphalt, absorb much more of the sun's heat and release it much more quickly than organic surfaces like trees and grass. Because city landscapes contain so much of these building materials, cities are usually warmer than the surrounding rural areas. Parks and other green spaces help to mitigate the Urban Head Island Effect.",
+        "id": "short_answer_1",
+        "type": "short_answer",
+        "question": "Answer any two of the following questions in about 30 words:",
+        "prashna": "निम्नलिखित में से किन्हीं दो प्रश्नों के उत्तर लगभग 30 शब्दों में दें:",
+        "context": "",
         "instructions": "",
-        "confidence": 0.45,
-        "raw_choice": "Panorama - 2. Me and the Ecology Bit (मैं और पारिस्थितिकी का अंश)"
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
+      },
+      {
+        "file": "eng_2015ii.json",
+        "index": 11,
+        "year": "2015",
+        "id": "short_answer_2",
+        "type": "short_answer",
+        "question": "Answer any two of the following questions in about 40 words:",
+        "prashna": "निम्नलिखित में से किन्हीं दो प्रश्नों के उत्तर लगभग 40 शब्दों में दें:",
+        "context": "",
+        "instructions": "",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
       },
       {
         "file": "eng_2015ii.json",
@@ -5284,45 +5362,6 @@
       },
       {
         "file": "eng_2016i.json",
-        "index": 1,
-        "year": "2016",
-        "id": "passage_2",
-        "type": "passage",
-        "question": "",
-        "prashna": "",
-        "context": "The Kaurava's maternal uncle, Shakuni was adept at gambling which was very popular in those days in the society of big people. Duryodhana invited Yudhishthira to play the game. The latter being a pure hearted and simple person was quite inexperienced in it. Dice after dice was cast with the result that Yudhishthira lost his entire kingdom and his wife Draupadi as well. At this the evil hearted Duhshashana, a younger brother of Duryodhana, dragged her to the assembly hall and began to pull off her sari in the presence of her husbands and the large number of courtiers. At this hour of peril Draupadi closed her eyes and stood praying to Lord Krishna with folded hands to protect her modesty. Lord Krishna at once came to her rescue. Duhshashana went on pulling off the sari for hours and still he was not able to come to the end of Draupadi’s sari.",
-        "instructions": "",
-        "confidence": 0.22,
-        "raw_choice": "Panorama_Reader - 7. Love Defiled (प्रेम का अपमान)"
-      },
-      {
-        "file": "eng_2016i.json",
-        "index": 12,
-        "year": "2016",
-        "id": "passage_3",
-        "type": "passage",
-        "question": "",
-        "prashna": "",
-        "context": "Dr. Rajendra Prasad was born on 3rd December, 1884 at Viradei, in the district of Saran in Bihar. The name of his father was Mahadeo Sahay. His mother was Kamleshwari Devi. At the age of five, he studied Persian with a Maulavi and then joined Chapra Zilla School. He was married to Rajvanshi Devi at the age of twelve. After passing Matriculation, he was admitted to Presidency College, Calcutta in 1902. He passed all the university examinations with credit. He always stood first. He became a lawyer at the Calcutta High Court. In 1916 he joined Patna High Court. He participated in the Champaran Movement of Mahatma Gandhi. He served as a President of the party in 1932, 1934, 1939, 1942. He was the Chairman of India's Constituent Assembly also. When India became free in 1947 he was elected first President of the Indian Union.",
-        "instructions": "",
-        "confidence": 0.38,
-        "raw_choice": "Grammar - 20. Paragraph and Essay Writing (पैराग्राफ और निबंध लेखन)"
-      },
-      {
-        "file": "eng_2016i.json",
-        "index": 13,
-        "year": "2016",
-        "id": "passage_4",
-        "type": "passage",
-        "question": "",
-        "prashna": "",
-        "context": "Dr. A. P. J. Abdul Kalam was born in 1931 in Rameshwaram in Madras. He had three brothers and one sister. His ancestral house was built in the middle of nineteenth century. The Second World War broke in 1939 when Abdul Kalam was just eight years old. Abdul Kalam passed the Elementary School from Rameshwaram. After that he went to Ramanathapuram for study. He did his B.Tech. in Madras. He worked for two decades in ISRO and mastered Launch Vehicle Technologies. He played a very important role in building indigenous Prithvi and Agni Missiles. He also worked as a Scientific Advisor to Defence Minister. He won many awards including the Padma Bhushan in 1981, Padma Vibhushan in 1990 and Bharat Ratna in 1991. The nation honoured Dr. Kalam by electing him the 11th President of India in 2002 to 2007. Dr. Abdul Kalam died on 27. 07. 2015 at the age of 83.",
-        "instructions": "",
-        "confidence": 0.43,
-        "raw_choice": "Grammar - 20. Paragraph and Essay Writing (पैराग्राफ और निबंध लेखन)"
-      },
-      {
-        "file": "eng_2016i.json",
         "index": 15,
         "year": "2016",
         "id": "short_5",
@@ -5336,16 +5375,42 @@
       },
       {
         "file": "eng_2016ii.json",
-        "index": 1,
+        "index": 8,
         "year": "2016",
-        "id": "passage_2",
-        "type": "passage",
-        "question": "Read the following passage carefully and answer the questions given below in your own words:",
-        "prashna": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और नीचे दिए गए प्रश्नों के उत्तर अपने शब्दों में दें:",
-        "context": "The Kaurava's maternal uncle. Shakuni was adept at gambling which was very popular in those days in the society of big people. Duryodhana invited Yadhishthira to play the game. The latter being a pure hearted and simple person was quite inexperienced in it Dice after dice was cast with the result that Yadhishthira lost his entire kingdom and his wife Draupadi as well. At this the evil hearted Duhshashana, a younger brother of Duryodhana, dragged her to the assembly hall and began to pull off her sari presence of her husbands and the large number of courtiers. At this hour of peril Draupadi closed her eyes and stod praying to Lord Krishna with folded hands to protect her modesty. Lord Krishna at once came to her rescue. Duhsahashana went on pulling off the sari for hours and still he was not able to come to the end of Draupadi's sari.",
+        "id": "long_1",
+        "type": "long_answer",
+        "question": "Answer any one of the following in about 80 words:",
+        "prashna": "निम्नलिखित में से किसी एक का उत्तर लगभग 80 शब्दों में दें:",
+        "context": "",
         "instructions": "",
-        "confidence": 0.19,
-        "raw_choice": "Panorama_Reader - 7. Love Defiled (प्रेम का अपमान)"
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
+      },
+      {
+        "file": "eng_2016ii.json",
+        "index": 9,
+        "year": "2016",
+        "id": "short_1",
+        "type": "short_answer",
+        "question": "Answer any two of the following questions in about 30 words:",
+        "prashna": "निम्नलिखित में से किन्हीं दो प्रश्नों के उत्तर लगभग 30 शब्दों में दें:",
+        "context": "",
+        "instructions": "",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
+      },
+      {
+        "file": "eng_2016ii.json",
+        "index": 11,
+        "year": "2016",
+        "id": "short_2",
+        "type": "short_answer",
+        "question": "Answer any two of the following questions in about 40 words:",
+        "prashna": "निम्नलिखित में से किन्हीं दो प्रश्नों के उत्तर लगभग 40 शब्दों में दें:",
+        "context": "",
+        "instructions": "",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
       },
       {
         "file": "eng_2016ii.json",
@@ -5375,32 +5440,6 @@
       },
       {
         "file": "eng_2017i.json",
-        "index": 0,
-        "year": "2017",
-        "id": "passage_1",
-        "type": "passage",
-        "question": "",
-        "prashna": "",
-        "context": "Abraham Lincoln was born in 1809. He was a self made man. His father was a poor farmer. Abraham worked fast as a wood-cutter. But he wanted to make progress in life. He learnt how to read and write. He got a job as clerk. Then he was a store-keeper and then a post master. He studied law in his spare time. He became a lawyer. He took up politics. Soon he was well known as an orator. In 1860 he made a famous speech against slavery. At that time slaves were kept in the Southern states of America. The same year he was elected President of the United States. He was a great and good man. He was the greatest American President.",
-        "instructions": "",
-        "confidence": 0.39,
-        "raw_choice": "Grammar - 20. Paragraph and Essay Writing (पैराग्राफ और निबंध लेखन)"
-      },
-      {
-        "file": "eng_2017i.json",
-        "index": 15,
-        "year": "2017",
-        "id": "passage_3",
-        "type": "passage",
-        "question": "",
-        "prashna": "",
-        "context": "Isaac Newton was a great scientist. He was born in 1642 and died in 1727. He discovered the law of gravitation. It was the falling of an apple in his garden that set him thinking. He was trying to find why the earth went around the sun and the moon around the earth. He asked himself, 'Why does an apple fall to the earth?' This led him to his great discovery. He also made many other discoveries. Newton was a very learned man but he was very gentle and polite.",
-        "instructions": "",
-        "confidence": 0.31,
-        "raw_choice": "Grammar - 20. Paragraph and Essay Writing (पैराग्राफ और निबंध लेखन)"
-      },
-      {
-        "file": "eng_2017i.json",
         "index": 20,
         "year": "2017",
         "id": "short_2",
@@ -5411,6 +5450,45 @@
         "instructions": "",
         "confidence": 0.45,
         "raw_choice": "Panorama - 11. Polythene Bag (पॉलिथीन बैग)"
+      },
+      {
+        "file": "eng_2017ii.json",
+        "index": 8,
+        "year": "2017",
+        "id": "long_answer_1",
+        "type": "long_answer",
+        "question": "Answer any one of the following in about 80 words:",
+        "prashna": "लगभग 80 शब्दों में निम्नलिखित में से किसी एक का उत्तर दें:",
+        "context": "",
+        "instructions": "",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
+      },
+      {
+        "file": "eng_2017ii.json",
+        "index": 9,
+        "year": "2017",
+        "id": "short_answer_1",
+        "type": "short_answer",
+        "question": "Answer any two of the following questions in about 30 words:",
+        "prashna": "लगभग 30 शब्दों में निम्नलिखित में से किन्हीं दो प्रश्नों के उत्तर दें:",
+        "context": "",
+        "instructions": "",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
+      },
+      {
+        "file": "eng_2017ii.json",
+        "index": 11,
+        "year": "2017",
+        "id": "short_answer_2",
+        "type": "short_answer",
+        "question": "Answer any two of the following questions in about 40 words:",
+        "prashna": "लगभग 40 शब्दों में निम्नलिखित में से किन्हीं दो प्रश्नों के उत्तर दें:",
+        "context": "",
+        "instructions": "",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
       },
       {
         "file": "eng_2017ii.json",
@@ -5437,32 +5515,6 @@
         "instructions": "",
         "confidence": 0.33,
         "raw_choice": "Grammar - 18. Translation (अनुवाद)"
-      },
-      {
-        "file": "eng_2018i.json",
-        "index": 50,
-        "year": "2018",
-        "id": "passage_1",
-        "type": "passage",
-        "question": "Read the following passage carefully and answer the questions given below in your own words:",
-        "prashna": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और अपने शब्दों में नीचे दिए गए प्रश्नों के उत्तर दें:",
-        "context": "Old people say that childhood is the best part of life. They look back at their childhood are remember all its happy days, the jolly games, the fun they had at school, jokes they used to play and the endless discussion they had among friends on almost every topic. Perhaps these old folks are right. And yet they forget many things that were not so pleasant in their childhood. There is a funny story that tells of a boy who was crying because he had to go back to school after the holidays and the father scolded him and said, \"Why, I only wish I could be a boy and go to school again.\" And all in a moment the father was a little boy and his son was a grown up man like his father. And he father, in the shape of a little boy had to go school, and I can tell you he did not like it at all. A child's troubles may seem small to grown-ups but they are very big to him.",
-        "instructions": "",
-        "confidence": 0.41,
-        "raw_choice": "Grammar - 20. Paragraph and Essay Writing (पैराग्राफ और निबंध लेखन)"
-      },
-      {
-        "file": "eng_2018i.json",
-        "index": 51,
-        "year": "2018",
-        "id": "passage_2",
-        "type": "passage",
-        "question": "Read the following passage carefully and answer the questions given below in your own words:",
-        "prashna": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और अपने शब्दों में नीचे दिए गए प्रश्नों के उत्तर दें:",
-        "context": "Have you heard of a place called Kanyakumari? It is a cape at the southernmost end of India. We sometimes say that Himalayas are the crown of mother India; so we can regard Kanyakumari as her holy feet. At Kanyakumari there is a famous old temple. It stands on the southernmost point of land, very near the sea. Pilgrims bathe in the sea and go up into the temple for worship. In the temple, there stands a praying figure of a girl goddess: she stands facing the Bay of Bengal to east. The goddess is called Kanyakumari. The place is called Kanyakumari after her. In foreign countries it is generally known by the name cape comorin; but its Indian name, Kanyakumari is now becoming popular.",
-        "instructions": "",
-        "confidence": 0.33,
-        "raw_choice": "Grammar - 20. Paragraph and Essay Writing (पैराग्राफ और निबंध लेखन)"
       },
       {
         "file": "eng_2018i.json",
@@ -5542,19 +5594,6 @@
       },
       {
         "file": "eng_2018ii.json",
-        "index": 51,
-        "year": "2018",
-        "id": "passage_2",
-        "type": "passage",
-        "question": "Read the following passage carefully and answer the questions given below in your own words",
-        "prashna": "निम्नलिखित गद्यांश को ध्यान से पढ़ें और नीचे दिए गए प्रश्नों के अपने शब्दों में उत्तर दें",
-        "context": "Kalidas is known as the Shakespeare of India. His name has been immortalised in the History of Sanskrit literature. He was at the head of the celebrated nine gems which adorned the court of Vikramaditya. The poems and dramas of Kalidas have elicited unreserved praise not only from Indian scholars but even from European critics like Max Muller. The age in which Kalidas flourished and the place where he was born are matter of dispute. But true genius is independent of time and place and although the century of Kalidas is far more remote, his fame is shining with undiminished grandeur even in our own days.",
-        "instructions": "",
-        "confidence": 0.41,
-        "raw_choice": "Grammar - 20. Paragraph and Essay Writing (पैराग्राफ और निबंध लेखन)"
-      },
-      {
-        "file": "eng_2018ii.json",
         "index": 52,
         "year": "2018",
         "id": "poem_1",
@@ -5568,6 +5607,32 @@
       },
       {
         "file": "eng_2018ii.json",
+        "index": 54,
+        "year": "2018",
+        "id": "notice_1",
+        "type": "notice",
+        "question": "You are Rakesh/Rani, the Head Boy/Girl of class X of D. N. High School, Muzaffarpur. You have been asked to notify the students of your school about the cultural programme which is going to be held in your school. Write a notice in 50-60 words, inviting interested students for screening test.",
+        "prashna": "आप राकेश/रानी हैं, कक्षा X के हेड बॉय/गर्ल, डी.एन. हाई स्कूल, मुजफ्फरपुर। आपको अपने स्कूल के सांस्कृतिक कार्यक्रम के बारे में छात्रों को सूचित करने के लिए कहा गया है। इच्छुक छात्रों को स्क्रीनिंग टेस्ट के लिए आमंत्रित करते हुए 50-60 शब्दों में एक सूचना लिखें।",
+        "context": "",
+        "instructions": "",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-19"
+      },
+      {
+        "file": "eng_2018ii.json",
+        "index": 55,
+        "year": "2018",
+        "id": "report_1",
+        "type": "report",
+        "question": "OR You are Rajeev/Ranjana, the student of class X. You have visited the Red Fort recently. Write a report on it. (about 60 words)",
+        "prashna": "अथवा आप राजीव/रंजना हैं, कक्षा X के छात्र। आपने हाल ही में लाल किले का दौरा किया है। इस पर लगभग 60 शब्दों में एक रिपोर्ट लिखें।",
+        "context": "",
+        "instructions": "",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
+      },
+      {
+        "file": "eng_2018ii.json",
         "index": 58,
         "year": "2018",
         "id": "speech_1",
@@ -5578,6 +5643,32 @@
         "instructions": "",
         "confidence": 0.44,
         "raw_choice": "Grammar - 20. Paragraph and Essay Writing (पैराग्राफ और निबंध लेखन)"
+      },
+      {
+        "file": "eng_2018ii.json",
+        "index": 59,
+        "year": "2018",
+        "id": "message_1",
+        "type": "message",
+        "question": "OR You are Prabhat / Prema of Class X. Write a message to your mother to inform her that you are going to see Rajam/Renu, your friend, who has fallen ill. (about 30-40 words)",
+        "prashna": "अथवा आप प्रभात/प्रेमा हैं, कक्षा X। अपनी माँ को संदेश लिखें कि आप अपनी बीमार मित्र राजम/रेणु से मिलने जा रहे हैं (लगभग 30-40 शब्द)।",
+        "context": "",
+        "instructions": "",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-19"
+      },
+      {
+        "file": "eng_2018ii.json",
+        "index": 64,
+        "year": "2018",
+        "id": "short_5",
+        "type": "short_answer",
+        "question": "What makes our life happy-money or contentment or both? Discuss.",
+        "prashna": "हमारे जीवन को सुखी क्या बनाता है- धन या संतोष या दोनों? चर्चा करें।",
+        "context": "",
+        "instructions": "",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
       },
       {
         "file": "eng_2019i.json",
@@ -5603,58 +5694,6 @@
           "C": "एलर्जी",
           "D": "क्वालिटी"
         }
-      },
-      {
-        "file": "eng_2019i.json",
-        "index": 45,
-        "year": "2019",
-        "id": "passage_1_1",
-        "type": "passage",
-        "question": "Read the following passage carefully and answer the questions that follow:",
-        "prashna": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और उसके बाद आने वाले प्रश्नों के उत्तर दें:",
-        "context": "Spring is one of the most beautiful season, a transition between winter and summer, Spring signifies ideas of rebirth, regeneration, and growth. In this season the axis of the earth increases its tilt towards the sun. The length of the daylight rapidly increases for the relevant hemisphere. Many festivals are celebrated around spring time. The season of spring is a harbinger of joy.",
-        "instructions": "",
-        "confidence": 0.43,
-        "raw_choice": "Grammar - 20. Paragraph and Essay Writing (पैराग्राफ और निबंध लेखन)"
-      },
-      {
-        "file": "eng_2019i.json",
-        "index": 46,
-        "year": "2019",
-        "id": "passage_1_2",
-        "type": "passage",
-        "question": "OR: Read the following passage carefully and answer the questions that follow:",
-        "prashna": "अथवा: निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और उसके बाद आने वाले प्रश्नों के उत्तर दें:",
-        "context": "Nine thousand years ago, people did not have money. They traded animals for things they wanted. They traded crops for what they wanted. In China, in about 1200 B.C., people traded shells for the things they wanted. Chinese people also traded metal tools for the things they wanted. Later in China, people made metal money. In about 100 B.C., the Chinese made money of animal skin. The first paper money was made from white - coloured deer skin.",
-        "instructions": "",
-        "confidence": 0.3,
-        "raw_choice": "Grammar - 20. Paragraph and Essay Writing (पैराग्राफ और निबंध लेखन)"
-      },
-      {
-        "file": "eng_2019i.json",
-        "index": 47,
-        "year": "2019",
-        "id": "passage_2_1",
-        "type": "passage",
-        "question": "Read the following passage carefully and answer the questions that follow:",
-        "prashna": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और उसके बाद आने वाले प्रश्नों के उत्तर दें:",
-        "context": "A great sage once had a group of disciples. They were all very bright and eager students and the sage had all the reasons to be proud of them. One day the sage realized that he had imparted enough knowledge to his disciples. Now they were all very learned. There was only one thing the sage had not taught them and that was the special verse that could bring the dead back to life. The sage knew that such knowledge was too wonderful and could prove to be a dangerous things in the hands of someone who was not very wise. The sage pondered over this for a long time. But he also knew that if he did not pass on this secret verse, it could die with him. So, at last he called his cleverest disciple aside and said, \"I am going to teach you a very special verse. If you chant this you can bring to life a dead person or animal. Use only when you need it and never misuse or test your powers vainly.\"",
-        "instructions": "",
-        "confidence": 0.18,
-        "raw_choice": "Panorama - 6. Once Upon a Time (एक समय की बात है)"
-      },
-      {
-        "file": "eng_2019i.json",
-        "index": 48,
-        "year": "2019",
-        "id": "passage_2_2",
-        "type": "passage",
-        "question": "OR: Read the following passage carefully and answer the questions that follow:",
-        "prashna": "अथवा: निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और उसके बाद आने वाले प्रश्नों के उत्तर दें:",
-        "context": "India is a country of vast geographical expanse. India is marked by a diversity of physical features such as mountains, plateaus, plains, coasts and islands. In the north, it is bound by the lofty Himalayas. The Northern plains, Great Indian Desert, the Peninsular plateau and the Great Himalayas are the main physical divisions of India. There are seven countries that share land boundaries with India. These countries are - China, Pakistan, Nepal, Bhutan, Bangladesh, Myanmar and Afghanistan.",
-        "instructions": "",
-        "confidence": 0.4,
-        "raw_choice": "Grammar - 20. Paragraph and Essay Writing (पैराग्राफ और निबंध लेखन)"
       },
       {
         "file": "eng_2019i.json",
@@ -5709,58 +5748,6 @@
       },
       {
         "file": "eng_2019ii.json",
-        "index": 50,
-        "year": "2019",
-        "id": "passage_1_1",
-        "type": "passage",
-        "question": "Read the following passage carefully and answer the questions that follow:",
-        "prashna": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और नीचे दिए गए प्रश्नों के उत्तर दें:",
-        "context": "Spring is one of the most beautiful season, a transition between winter and summer. Spring signifies ideas of rebirth, regeneration, and growth. In this season the axis of the earth increases its tilt towards the sun. The length of the daylight rapidly increases for the relevant hemisphere. Many festivals are celebrated around spring time. The season of spring is a harbinger of joy.",
-        "instructions": "",
-        "confidence": 0.48,
-        "raw_choice": "Grammar - 20. Paragraph and Essay Writing (पैराग्राफ और निबंध लेखन)"
-      },
-      {
-        "file": "eng_2019ii.json",
-        "index": 51,
-        "year": "2019",
-        "id": "passage_1_2",
-        "type": "passage",
-        "question": "OR: Read the following passage carefully and answer the questions that follow:",
-        "prashna": "अथवा: निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और नीचे दिए गए प्रश्नों के उत्तर दें:",
-        "context": "Nine thousand years ago, people did not have money. They traded animals for things they wanted. They traded crops for what they wanted. In China, in about 1200 B.C., people traded shells for the things they wanted. Chinese people also traded metal tools for the things they wanted. Later in China, people made metal money. In about 100 B.C., the Chinese made money of animal skin. The first paper money was made from white - coloured deer skin.",
-        "instructions": "",
-        "confidence": 0.3,
-        "raw_choice": "Grammar - 20. Paragraph and Essay Writing (पैराग्राफ और निबंध लेखन)"
-      },
-      {
-        "file": "eng_2019ii.json",
-        "index": 52,
-        "year": "2019",
-        "id": "passage_2_1",
-        "type": "passage",
-        "question": "Read the following passage carefully and answer the questions that follow:",
-        "prashna": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और नीचे दिए गए प्रश्नों के उत्तर दें:",
-        "context": "A great sage once had a group of disciples. They were all very bright and eager students and the sage had all the reasons to be proud of them. One day the sage realized that he had imparted enough knowledge to his disciples. Now they were all very learned. There was only one thing the sage had not taught them and that was the special verse that could bring the dead back to life. The sage knew that such knowledge was too wonderful and could prove to be a dangerous things in the hands of someone who was not very wise. The sage pondered over this for a long time. But he also knew that if he did not pass on this secret verse, it could die with him. So, at last he called his cleverest disciple aside and said, \"I am going to teach you a very special verse. If you chant this you can bring to life a dead person or animal. Use only when you need it and never misuse or test your powers vainly.\"",
-        "instructions": "",
-        "confidence": 0.19,
-        "raw_choice": "Panorama - 6. Once Upon a Time (एक समय की बात है)"
-      },
-      {
-        "file": "eng_2019ii.json",
-        "index": 53,
-        "year": "2019",
-        "id": "passage_2_2",
-        "type": "passage",
-        "question": "OR: Read the following passage carefully and answer the questions that follow:",
-        "prashna": "अथवा: निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और नीचे दिए गए प्रश्नों के उत्तर दें:",
-        "context": "India is a country of vast geographical expanse. India is marked by a diversity of physical features such as mountains, plateaus, plains, coasts and islands. In the north, it is bound by the lofty Himalayas. The Northern plains, Great Indian Desert, the Peninsular plateau and the Great Himalayas are the main physical divisions of India. There are seven countries that share land boundaries with India. These countries are - China, Pakistan, Nepal, Bhutan, Bangladesh, Myanmar and Afghanistan.",
-        "instructions": "",
-        "confidence": 0.43,
-        "raw_choice": "Grammar - 20. Paragraph and Essay Writing (पैराग्राफ और निबंध लेखन)"
-      },
-      {
-        "file": "eng_2019ii.json",
         "index": 54,
         "year": "2019",
         "id": "poem_1_1",
@@ -5812,45 +5799,6 @@
       },
       {
         "file": "eng_2020i.json",
-        "index": 61,
-        "year": "2020",
-        "id": "passage_1_2",
-        "type": "passage",
-        "question": "OR: Read the following passage and answer the questions that follow:",
-        "prashna": "अथवा: निम्नलिखित गद्यांश को पढ़ें और उसके बाद आने वाले प्रश्नों के उत्तर दें:",
-        "context": "Animals can be grouped under four categories depending on their food habits. Animals that eat plants are called herbivorous like cows, sheep and giraffes. Carnivorous animals are those who eat flesh or other animals like tigers and lions. Some birds who eat flesh are called scavengers like the eagles and vultures. Animals that eat both plants and flesh are called omnivorous like the bears.",
-        "instructions": "",
-        "confidence": 0.45,
-        "raw_choice": "Grammar - 20. Paragraph and Essay Writing (पैराग्राफ और निबंध लेखन)"
-      },
-      {
-        "file": "eng_2020i.json",
-        "index": 62,
-        "year": "2020",
-        "id": "passage_2_1",
-        "type": "passage",
-        "question": "Read the following passage and answer the questions that follow:",
-        "prashna": "निम्नलिखित गद्यांश को पढ़ें और उसके बाद आने वाले प्रश्नों के उत्तर दें:",
-        "context": "The sun, eight planets, satellites and some other celestial bodies form the solare system. The sun is the centre of the solar system. The sun is the ultimate source of heat and light for the solar system. There are eight planets in our solar system-Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune, mercury is the nearest planet to the sun.",
-        "instructions": "",
-        "confidence": 0.38,
-        "raw_choice": "Grammar - 20. Paragraph and Essay Writing (पैराग्राफ और निबंध लेखन)"
-      },
-      {
-        "file": "eng_2020i.json",
-        "index": 63,
-        "year": "2020",
-        "id": "passage_2_2",
-        "type": "passage",
-        "question": "OR: Read the following passage and answer the questions that follow:",
-        "prashna": "अथवा: निम्नलिखित गद्यांश को पढ़ें और उसके बाद आने वाले प्रश्नों के उत्तर दें:",
-        "context": "Coconut is the most important nut in the world. Not only it is one of the biggest of all nuts, but almost all parts of the tree are useful to the man. It is an elegant palm tree growing up to a height of a hundred feet. The flesh of the green coconut is used as a vegetable. The milk inside the young nut is used as a drink. Rope matting and brooms are made from the ourside layer which protects the nuts.",
-        "instructions": "",
-        "confidence": 0.34,
-        "raw_choice": "Grammar - 20. Paragraph and Essay Writing (पैराग्राफ और निबंध लेखन)"
-      },
-      {
-        "file": "eng_2020i.json",
         "index": 64,
         "year": "2020",
         "id": "poem_1_1",
@@ -5887,6 +5835,58 @@
         "instructions": "",
         "confidence": 0.36,
         "raw_choice": "Grammar - 18. Translation (अनुवाद)"
+      },
+      {
+        "file": "eng_2020i.json",
+        "index": 68,
+        "year": "2020",
+        "id": "long_answer_1",
+        "type": "long_answer",
+        "question": "You are Suresh, Secretary of the Cultural Club of your school. Write a notice in about 50-60 words informing the students about a cultural event going to be organized in your school.",
+        "prashna": "आप सुरेश हैं, अपने स्कूल के सांस्कृतिक क्लब के सचिव। स्कूल में आयोजित होने वाले एक सांस्कृतिक कार्यक्रम के बारे में छात्रों को सूचित करते हुए लगभग 50-60 शब्दों में एक नोटिस लिखें।",
+        "context": "",
+        "instructions": "",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-19"
+      },
+      {
+        "file": "eng_2020i.json",
+        "index": 69,
+        "year": "2020",
+        "id": "long_answer_2",
+        "type": "long_answer",
+        "question": "Write a report in about 60-70 words about the Prime Minister's visit to Patna.",
+        "prashna": "प्रधानमंत्री की पटना यात्रा के बारे में लगभग 60-70 शब्दों में एक रिपोर्ट लिखें।",
+        "context": "",
+        "instructions": "",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
+      },
+      {
+        "file": "eng_2020i.json",
+        "index": 72,
+        "year": "2020",
+        "id": "long_answer_3",
+        "type": "long_answer",
+        "question": "You are Naina. Write a speech in about 60-70 words to be delivered on 'Independence Day’.",
+        "prashna": "आप नैना हैं। 'स्वतंत्रता दिवस' पर दिए जाने वाले भाषण को लगभग 60-70 शब्दों में लिखें।",
+        "context": "",
+        "instructions": "",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
+      },
+      {
+        "file": "eng_2020i.json",
+        "index": 73,
+        "year": "2020",
+        "id": "long_answer_4",
+        "type": "long_answer",
+        "question": "You are Mohini. Write a message in about 30-40 words to your friend Rachna, asking her to be ready to go to a movie with you.",
+        "prashna": "आप मोहिनी हैं। अपनी सहेली रचना को लगभग 30-40 शब्दों में एक संदेश लिखें, जिसमें उससे आपके साथ फिल्म देखने जाने के लिए तैयार रहने को कहें।",
+        "context": "",
+        "instructions": "",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-19"
       },
       {
         "file": "eng_2020ii.json",
@@ -5937,32 +5937,6 @@
           "C": "धूसर",
           "D": "सफेद"
         }
-      },
-      {
-        "file": "eng_2020ii.json",
-        "index": 60,
-        "year": "2020",
-        "id": "passage_1",
-        "type": "passage",
-        "question": "",
-        "prashna": "",
-        "context": "The giraffe is the tallest of all living land animals. A male can go up to 18 feet and a female up to 15 feet. Such height enables them to escape the competition for ground level grass. The height gives him a long range of vision and also a warning of the approaching enemy early. Giraffes eat a variety of leaves, but acacia leaves are their favourite.",
-        "instructions": "",
-        "confidence": 0.28,
-        "raw_choice": "Grammar - 20. Paragraph and Essay Writing (पैराग्राफ और निबंध लेखन)"
-      },
-      {
-        "file": "eng_2020ii.json",
-        "index": 63,
-        "year": "2020",
-        "id": "passage_2_athva",
-        "type": "passage",
-        "question": "",
-        "prashna": "",
-        "context": "There are three main groups of oil — animal, vegetable and mineral. Great quantities of animal oil come from whales. To protect the whale from the cold of Arctic seas, nature has provided it with a thick covering of fat called blubber. When the whale is killed, the blubber is stripped off and boiled. It produces a great quantity of oil which can be made into food for human consumptions. The cod liver oil and the halibut oil, are oils which come from fish. Both are given to the sick who need vitamins. Vegetable oils are used for cooking. Soaps are made from vegetables, flower and animal oil.",
-        "instructions": "",
-        "confidence": 0.33,
-        "raw_choice": "Grammar - 20. Paragraph and Essay Writing (पैराग्राफ और निबंध लेखन)"
       },
       {
         "file": "eng_2020ii.json",
@@ -6205,32 +6179,6 @@
       },
       {
         "file": "eng_2021i.json",
-        "index": 100,
-        "year": "2021",
-        "id": "passage_1_1",
-        "type": "passage",
-        "question": "Read the following passage and answer the questions that follow:",
-        "prashna": "निम्नलिखित गद्यांश को पढ़ें और उसके बाद आने वाले प्रश्नों के उत्तर दें:",
-        "context": "Tea was first grown and used in China. It was first used as medicine, and then became a very popular drink. It is now largely grown in Indian and Ceylon. The habit of drinking tea has now spread all over the world. It is perhaps the most popular of drinks. People find it very refreshing after hard work. And it is partically harmless. That is the reason why it is very popular. It is taken in many ways. Usually some leaves are put in boiling water, which is then strained and taken with a little sugar and milk. Some boil the leaves in milk with sugar and even spices. Another way is to take it with sugar and lemon juice.",
-        "instructions": "",
-        "confidence": 0.45,
-        "raw_choice": "Grammar - 20. Paragraph and Essay Writing (पैराग्राफ और निबंध लेखन)"
-      },
-      {
-        "file": "eng_2021i.json",
-        "index": 103,
-        "year": "2021",
-        "id": "passage_2_2",
-        "type": "passage",
-        "question": "OR: Read the following passage and answer the questions that follow:",
-        "prashna": "अथवा: निम्नलिखित गद्यांश को पढ़ें और उसके बाद आने वाले प्रश्नों के उत्तर दें:",
-        "context": "We must do all we can to prevent conflicts and civil war. Most conflicts happen in poor countries, especially which are badly governed or where power and health are not distributed fairly between tribal and religious groups. So the best way to check fighting is to make a political arrangement in which all groups have their representative. The need is to ensure human rights and economic development of all.",
-        "instructions": "",
-        "confidence": 0.35,
-        "raw_choice": "Grammar - 20. Paragraph and Essay Writing (पैराग्राफ और निबंध लेखन)"
-      },
-      {
-        "file": "eng_2021i.json",
         "index": 104,
         "year": "2021",
         "id": "poem_1_1",
@@ -6407,45 +6355,6 @@
       },
       {
         "file": "eng_2021ii.json",
-        "index": 100,
-        "year": "2021",
-        "id": "passage_1_1",
-        "type": "passage",
-        "question": "Read the following passage and answer the questions that follow:",
-        "prashna": "निम्नलिखित गद्यांश को पढ़ें और उसके बाद आने वाले प्रश्नों के उत्तर दें:",
-        "context": "Historians say, \"Ashoka became one of the greatest emperors of the world\". He was the King of Magadha. He fought a number of battles and defeated kings of many states. Once he attacked Kalinga. To conquer Kalinga proved to be a difficulty task to him. Thousands of innocent people were killed. The blood of innocent people touched Ashoka's heart. He gave up fighting and adopted Buddhism. Later he did much for the spread of Buddhism and welfare of the public.",
-        "instructions": "",
-        "confidence": 0.25,
-        "raw_choice": "Grammar - 20. Paragraph and Essay Writing (पैराग्राफ और निबंध लेखन)"
-      },
-      {
-        "file": "eng_2021ii.json",
-        "index": 101,
-        "year": "2021",
-        "id": "passage_1_2",
-        "type": "passage",
-        "question": "OR Read the following passage and answer the questions that follow:",
-        "prashna": "अथवा निम्नलिखित गद्यांश को पढ़ें और उसके बाद आने वाले प्रश्नों के उत्तर दें:",
-        "context": "Sports and games make our bodies strong, prevent us form getting too fat, and keep us healthy. They give us valuable practice in making eyes, brain and muscles work together. In tennis, our eyes see the ball coming, judge its speed and direction, and pass the information on to the brain. The brain then has to decide what to do, and it sends orders to the muscles, of the arms, legs and so on, so that the ball is met and hit back where it ought to go. All, this must happen with very great speed, and only those who, have had a lot of practice at tennis can carry out this complicated chain of events successfully. For those who work with their brain most of the day, the practice of such skills is especially useful.",
-        "instructions": "",
-        "confidence": 0.28,
-        "raw_choice": "Grammar - 20. Paragraph and Essay Writing (पैराग्राफ और निबंध लेखन)"
-      },
-      {
-        "file": "eng_2021ii.json",
-        "index": 103,
-        "year": "2021",
-        "id": "passage_2_2",
-        "type": "passage",
-        "question": "OR Read the following passage and answer the questions that follow:",
-        "prashna": "अथवा निम्नलिखित गद्यांश को पढ़ें और उसके बाद आने वाले प्रश्नों के उत्तर दें:",
-        "context": "Language is a wonderful gift given to man. No animal possess this gift, but they have their own way of expressing themselves. When a rabbit sees an enemy, it runs into the hole. Its tail, which is white, bobs up and down when it runs. The other rabbits see it, they run too. They know that there is a danger. Similarly, a bee dances and lets other bees know that it has found food. Similarly, a dog barks when a stranger comes near.",
-        "instructions": "",
-        "confidence": 0.44,
-        "raw_choice": "Grammar - 20. Paragraph and Essay Writing (पैराग्राफ और निबंध लेखन)"
-      },
-      {
-        "file": "eng_2021ii.json",
         "index": 104,
         "year": "2021",
         "id": "poem_1_1",
@@ -6495,6 +6404,58 @@
         "instructions": "",
         "confidence": 0.25,
         "raw_choice": "Grammar - 18. Translation (अनुवाद)"
+      },
+      {
+        "file": "eng_2021ii.json",
+        "index": 117,
+        "year": "2021",
+        "id": "long_1",
+        "type": "long_answer",
+        "question": "You are Kavita, Secretary of the Music Club of your school. Write a notice in about 50-60 words informing the students about an inter-school competition to be organised in your school.",
+        "prashna": "आप कविता हैं, अपने स्कूल के संगीत क्लब की सचिव। अपने स्कूल में आयोजित होने वाली अंतर-स्कूली प्रतियोगिता के बारे में छात्रों को सूचित करते हुए लगभग 50-60 शब्दों में एक नोटिस लिखें।",
+        "context": "",
+        "instructions": "",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-19"
+      },
+      {
+        "file": "eng_2021ii.json",
+        "index": 118,
+        "year": "2021",
+        "id": "long_2",
+        "type": "long_answer",
+        "question": "Write a report on the Health Minister's visit to the Covid 19 affected areas.",
+        "prashna": "कोविड 19 प्रभावित क्षेत्रों में स्वास्थ्य मंत्री के दौरे पर एक रिपोर्ट लिखें।",
+        "context": "",
+        "instructions": "",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
+      },
+      {
+        "file": "eng_2021ii.json",
+        "index": 121,
+        "year": "2021",
+        "id": "long_3",
+        "type": "long_answer",
+        "question": "You are Karun. Write a speech in about 60-70 words to be delivered on Teacher's Day'",
+        "prashna": "आप करुण हैं। 'शिक्षक दिवस' पर दिए जाने वाले भाषण के बारे में लगभग 60-70 शब्दों में एक भाषण लिखें।",
+        "context": "",
+        "instructions": "",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
+      },
+      {
+        "file": "eng_2021ii.json",
+        "index": 122,
+        "year": "2021",
+        "id": "long_4",
+        "type": "long_answer",
+        "question": "You are Tanushree. Write a message to your friend Reena to come to your house to complete the assignment.",
+        "prashna": "आप तनुश्री हैं। अपनी सहेली रीना को असाइनमेंट पूरा करने के लिए अपने घर आने का संदेश लिखें।",
+        "context": "",
+        "instructions": "",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-19"
       },
       {
         "file": "eng_2022i.json",
@@ -6670,45 +6631,6 @@
           "C": "महादेवी वर्मा",
           "D": "विद्यापति"
         }
-      },
-      {
-        "file": "eng_2022i.json",
-        "index": 101,
-        "year": "2022",
-        "id": "passage_1_1",
-        "type": "passage",
-        "question": "",
-        "prashna": "स्मृति कहाँ कम काम करती है?",
-        "context": "There are, it must be admitted, some matters in regard to which the memory works with less than its usual perfection. It is only a very methodical man, I imagine, who can always remember to take the medicine his doctor has prescribed for him. This is more surprising because medicine should be one of the easiest things to remember. Certain psychologists tell us that we forget things because we wish to forget them.",
-        "instructions": "",
-        "confidence": 0.35,
-        "raw_choice": "Panorama - 1. The Pace for Living (जीवन की गति)"
-      },
-      {
-        "file": "eng_2022i.json",
-        "index": 102,
-        "year": "2022",
-        "id": "passage_2",
-        "type": "passage",
-        "question": "",
-        "prashna": "पहले हर घर में क्या देखा जाता था?",
-        "context": "Earlier, lamps, lights and candles were seen at every house. But with the progress of technologies, even small children are seen playing and experimenting with laptops, mobiles and many more equipment. Nowadays children are seen clicking photos at the time when prayers are going on. It is obvious that handling these modern gadgets most of the time can have worse effects on health.",
-        "instructions": "",
-        "confidence": 0.3,
-        "raw_choice": "Panorama - 1. The Pace for Living (जीवन की गति)"
-      },
-      {
-        "file": "eng_2022i.json",
-        "index": 103,
-        "year": "2022",
-        "id": "passage_2_1",
-        "type": "passage",
-        "question": "",
-        "prashna": "लड़कियों को क्या विश्वास कराया जाता है?",
-        "context": "Even in the modern society, girls are brought up to believe that the main responsibility of women is housework and bringing up children. This is reflected in the gender division of labour in most families. Women do all the work inside the home such as cooking, cleaning, washing clothes, looking after children etc. And men do all the work outside the home. It is the mindset that men are not going to do the household work. The result of this is that although women constitute roughly half of the population, their role in public life is minimal in most societies.",
-        "instructions": "",
-        "confidence": 0.28,
-        "raw_choice": "Panorama_Reader - 6. Two Horizons (दो क्षितिज)"
       },
       {
         "file": "eng_2022i.json",
@@ -6988,45 +6910,6 @@
       },
       {
         "file": "eng_2022ii.json",
-        "index": 100,
-        "year": "2022",
-        "id": "passage_1_1",
-        "type": "passage",
-        "question": "Read the following passage carefully and answer the questions that follow :",
-        "prashna": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और नीचे दिए गए प्रश्नों के उत्तर दें:",
-        "context": "Sharks have prowled the seas for about 400 million years. Their size, power and great toothy jaws fill us with fear and fascination. A few kinds of sharks such as great white sharks attack the swimmers but most of them stay away from people. Most of the sharks eat other sharks. Sharks are fish but they don't have bones. They are made up of rubbery bone material called cartilage. Sharks use their eyes, ears and sense of smell to hunt food.",
-        "instructions": "",
-        "confidence": 0.34,
-        "raw_choice": "Grammar - 20. Paragraph and Essay Writing (पैराग्राफ और निबंध लेखन)"
-      },
-      {
-        "file": "eng_2022ii.json",
-        "index": 101,
-        "year": "2022",
-        "id": "passage_1_2",
-        "type": "passage",
-        "question": "Read the following passage carefully and answer the questions that follow : (OR)",
-        "prashna": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और नीचे दिए गए प्रश्नों के उत्तर दें: (अथवा)",
-        "context": "Vitamins and minerals are natural substances found in a wide range of food and are essential to maintain a healthy body. Vitamin-A keeps eyes and skin healthy and helps to protect against infections. Vitamin-A is found in milk, eggs and vegetables. Vitamin-B is good for nervous system and is found in green vegetables. Vitamin-C helps the immune system by fighting against infections. Vitamin-C is found in citrus fruits like strawberries, kiwi, guava and tomatoes.",
-        "instructions": "",
-        "confidence": 0.39,
-        "raw_choice": "Panorama_Reader - 2. Allergy (एलर्जी)"
-      },
-      {
-        "file": "eng_2022ii.json",
-        "index": 103,
-        "year": "2022",
-        "id": "passage_2_2",
-        "type": "passage",
-        "question": "Read the following passage carefully and answer the questions that follow : (OR)",
-        "prashna": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और नीचे दिए गए प्रश्नों के उत्तर दें: (अथवा)",
-        "context": "In a village lived two friends — Rohan and Sohan. Rohan was lame and Sohan was blind. One day, a hut in the village caught fire and it spread all over the village. People began running away. The two friends also wanted to escape but Rohan could not run but only limp and Sohan could not see. They were afraid. Just then Sohan had an idea. He was strong. He took Rohan on his shoulders. Then Rohan guided him where to go. Soon the friends walked to safety.",
-        "instructions": "",
-        "confidence": 0.46,
-        "raw_choice": "Grammar - 20. Paragraph and Essay Writing (पैराग्राफ और निबंध लेखन)"
-      },
-      {
-        "file": "eng_2022ii.json",
         "index": 104,
         "year": "2022",
         "id": "poem_1_1",
@@ -7089,6 +6972,58 @@
         "instructions": "",
         "confidence": 0.21,
         "raw_choice": "Panorama_Reader - 1. January Night (पूस की रात)"
+      },
+      {
+        "file": "eng_2022ii.json",
+        "index": 121,
+        "year": "2022",
+        "id": "long_1",
+        "type": "long_answer",
+        "question": "You are Sangita, the President of the Debating Society. Write a notice in about 60-70 words, informing the students about the annual meet of the society.",
+        "prashna": "आप संगीता हैं, डिबेटिंग सोसाइटी की अध्यक्ष। सोसाइटी की वार्षिक बैठक के बारे में छात्रों को सूचित करते हुए लगभग 60-70 शब्दों में एक नोटिस लिखें।",
+        "context": "Answer any three from Q. Nos. 6 to 11.",
+        "instructions": "",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-19"
+      },
+      {
+        "file": "eng_2022ii.json",
+        "index": 122,
+        "year": "2022",
+        "id": "long_2",
+        "type": "long_answer",
+        "question": "Write a report in about 60-70 words about your visit to the pandemic affected localities in Patna.",
+        "prashna": "पटना में महामारी प्रभावित इलाकों की अपनी यात्रा के बारे में लगभग 60-70 शब्दों में एक रिपोर्ट लिखें।",
+        "context": "Answer any three from Q. Nos. 6 to 11.",
+        "instructions": "",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
+      },
+      {
+        "file": "eng_2022ii.json",
+        "index": 125,
+        "year": "2022",
+        "id": "long_3",
+        "type": "long_answer",
+        "question": "You are Anil. Write a speech in about 60-70 words on ‘Importance of Literacy’.",
+        "prashna": "आप अनिल हैं। 'साक्षरता का महत्व' पर लगभग 60-70 शब्दों में भाषण लिखें।",
+        "context": "Answer any three from Q. Nos. 6 to 11.",
+        "instructions": "",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
+      },
+      {
+        "file": "eng_2022ii.json",
+        "index": 126,
+        "year": "2022",
+        "id": "long_4",
+        "type": "long_answer",
+        "question": "You are Ankita. Write a message in about 30-40 words asking your friend to come to the club for your birthday.",
+        "prashna": "आप अंकिता हैं। अपने जन्मदिन के लिए अपने दोस्त को क्लब आने के लिए कहते हुए लगभग 30-40 शब्दों में एक संदेश लिखें।",
+        "context": "Answer any three from Q. Nos. 6 to 11.",
+        "instructions": "",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-19"
       },
       {
         "file": "eng_2023i.json",
@@ -7542,19 +7477,6 @@
       },
       {
         "file": "eng_2024i.json",
-        "index": 100,
-        "year": "2024",
-        "id": "passage_1",
-        "type": "passage",
-        "question": "",
-        "prashna": "बच्चों को दबाव के बिना पाला जाना चाहिए और फिर उन्हें परंपरा और डर के हानिकारक प्रभावों से मुक्त होकर वयस्कता में प्रवेश करना चाहिए। बच्चों को विचार व्यक्त करने की स्वतंत्रता दी जानी चाहिए। एक लड़के ने एक बार कृष्णमूर्ति से पूछा, 'क्या व्याख्यान देना आपका शौक है? क्या आपको बात करने से थकान नहीं होती? आप यह क्यों कर रहे हैं?' कृष्णमूर्ति ने उत्तर दिया, 'मैं खुश हूँ कि तुमने यह सवाल पूछा। तुम जानते हो, अगर तुम किसी चीज़ से प्रेम करते हो, तो तुम कभी थकते नहीं हो। मेरा मतलब है, प्रेम जिसमें उसमें से कुछ चाहते होने की इच्छा नहीं होती। तुम बात कर रहे हो और तुम कुछ प्राप्त कर रहे हो जैसे पैसा, पुरस्कार, अपने महत्व की भावना, तो थकान होती है, तो इसका कोई अर्थ नहीं होता क्योंकि यह केवल आत्म-साक्षात्कार है, लेकिन अगर तुम्हारे दिल में प्रेम है, तो यह एक ऐसा झरना है जो हमेशा ताज़ा पानी देता है।'",
-        "context": "Children must be brought up without pressure and then should enter adulthood free from the damaging effects of tradition and fear. Children must be given freedom of expression of thought. A boy once asked Krishnamurthy, 'Is it your hobby to give lectures? Don’t you get tired of talking? Why are you doing this?' Krishnamurthy answered, 'I’m glad you asked the question. You know, if you love something, you never get tired of it. I mean, love in which there is no desire to want something from it. You are talking and you are getting something like money, reward, sense of your importance, then there is tiredness, then there is no meaning because it is only self-realization, but if there is love in your hearts, it is like a spring that always gives fresh water.'",
-        "instructions": "",
-        "confidence": 0.32,
-        "raw_choice": "Grammar - 18. Translation (अनुवाद)"
-      },
-      {
-        "file": "eng_2024i.json",
         "index": 110,
         "year": "2024",
         "id": "short_5",
@@ -7843,45 +7765,6 @@
       },
       {
         "file": "eng_2024ii.json",
-        "index": 101,
-        "year": "2024",
-        "id": "passage_2",
-        "type": "passage",
-        "question": "",
-        "prashna": "",
-        "context": "Rahul was a brave and curious boy. One summer vacation, he decided to explore the nearby forest. As he entered the woods, he saw colourful birds flying above him. He followed their chirping sounds and discovered a hidden waterfall. Mesmerized by its beauty, Rahul sat on a rock to observe. Suddenly, a squirrel approached him, trying to catch his attention. Rahul reached out his hand, and the squirrel climbed onto it. Delighted, he gently petted it before continuing his exploration into the forest.",
-        "instructions": "",
-        "confidence": 0.38,
-        "raw_choice": "Panorama - 3. Gillu (गिल्लू)"
-      },
-      {
-        "file": "eng_2024ii.json",
-        "index": 102,
-        "year": "2024",
-        "id": "passage_3",
-        "type": "passage",
-        "question": "",
-        "prashna": "",
-        "context": "A volcano is a mountain with an opening in the earth's surface, through which molten rock, ash and gases can escape. Volcanoes are usually found along the edges of tectonic plates, where the Earth's crust is being pulled apart or pushed together. There are three types of volcanoes : strato volcanoes, shield volcanoes, and cinder cones. Strato volcanoes are tall and cone-shaped, with steep sides and a crater at the top. Shield volcanoes are broad and flat, with gently sloping sides and a broad base. Cinder cones are small and cone-shaped, with steep sides and a hole at the top.",
-        "instructions": "",
-        "confidence": 0.44,
-        "raw_choice": "Grammar - 20. Paragraph and Essay Writing (पैराग्राफ और निबंध लेखन)"
-      },
-      {
-        "file": "eng_2024ii.json",
-        "index": 103,
-        "year": "2024",
-        "id": "passage_4",
-        "type": "passage",
-        "question": "",
-        "prashna": "",
-        "context": "The human eye is a complex organ that allows us to see and interpret the world around us. It consists of several parts including the cornea, iris, pupil, lens, retina and optic nerve. The cornea is the clear outer layer of the eye that protects it and helps focus light. The iris is the coloured part of the eye that controls the amount of light that enters eye through the pupil. The pupil is the black circle in the centre of the iris that dilates and constricts to adjust the amount of light entering the eye. The lens is a clear, curved structure that helps focus light onto the retina. The retina is the layer of cells at the back of the eye that receives light and send signals to the brain. The optic nerve is a bundle of nerve fibres that carry signals from the retina to the brain.",
-        "instructions": "",
-        "confidence": 0.36,
-        "raw_choice": "Panorama_Reader - 2. Allergy (एलर्जी)"
-      },
-      {
-        "file": "eng_2024ii.json",
         "index": 104,
         "year": "2024",
         "id": "poem_1",
@@ -7934,16 +7817,16 @@
       },
       {
         "file": "eng_2024ii.json",
-        "index": 120,
+        "index": 121,
         "year": "2024",
-        "id": "essay_2",
-        "type": "essay",
-        "question": "You are Sushma. Write a speech in about 60-70 words on 'Cultural Diversity in India'.",
-        "prashna": "आप सुषमा हैं। 'भारत में सांस्कृतिक विविधता' पर लगभग 60-70 शब्दों में एक भाषण लिखें।",
+        "id": "short_answer_11",
+        "type": "short_answer",
+        "question": "You are Sohan. Write a message in about 30-40 words to your mother requesting her to make chicken curry for dinner.",
+        "prashna": "आप सोहन हैं। अपनी मां को 30-40 शब्दों में संदेश लिखें जिसमें रात के खाने के लिए चिकन करी बनाने का अनुरोध करें।",
         "context": "",
         "instructions": "",
-        "confidence": 0.47,
-        "raw_choice": "Grammar - 20. Paragraph and Essay Writing (पैराग्राफ और निबंध लेखन)"
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-19"
       },
       {
         "file": "eng_2025i.json",
@@ -8147,32 +8030,6 @@
       },
       {
         "file": "eng_2025i.json",
-        "index": 101,
-        "year": "2025",
-        "id": "passage_1_2",
-        "type": "passage",
-        "question": "Read the following passage carefully and answer the questions that follow:",
-        "prashna": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और नीचे दिए गए प्रश्नों के उत्तर दें:",
-        "context": "Abraham Lincoln, who became the 16th President of the USA, was an extraordinary man. His remarkable achievement was his astute leadership in the American Civil War. He succeeded in preserving the Union, abolished slavery, strengthened the federal government, and modernized the economy. Largely self-educated, Lincoln became a lawyer. As President, he was responsible for many enactments of far reaching political and social consequences. He explored the true nature of democracy, and, therefore, fought valiantly for the suppressed people. Conscientious and sensitive, Lincoln opposed slavery. His liberal policies, however, did not find favour with the racist people. He was unfortunately assassinated in 1885.",
-        "instructions": "",
-        "confidence": 0.4,
-        "raw_choice": "Grammar - 20. Paragraph and Essay Writing (पैराग्राफ और निबंध लेखन)"
-      },
-      {
-        "file": "eng_2025i.json",
-        "index": 103,
-        "year": "2025",
-        "id": "passage_2_2",
-        "type": "passage",
-        "question": "Read the following passage carefully and answer the questions that follow:",
-        "prashna": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और नीचे दिए गए प्रश्नों के उत्तर दें:",
-        "context": "The monsoon is essentially the seasonal reversal in wind direction. It causes most of the rainfall received in India and some other parts of the world. The primary cause of monsoons is the difference between annual temperature trends over land and sea. The apparent position of the Sun with reference to the Earth oscillates from the Tropic of Cancer to the Tropic of Capricorn. Thus the low-pressure region created by solar heating also changes latitudes. The northeast and southeast trade winds converge in this low-pressure zone, which is also known as the Inter Tropical Convergence Zone or ITCZ. This low-pressure region sees continuous rise of moist wind from the sea surface to the upper layers of the atmosphere, where the cooling means the air can no longer hold so much moisture resulting in precipitation.",
-        "instructions": "",
-        "confidence": 0.43,
-        "raw_choice": "Grammar - 20. Paragraph and Essay Writing (पैराग्राफ और निबंध लेखन)"
-      },
-      {
-        "file": "eng_2025i.json",
         "index": 104,
         "year": "2025",
         "id": "poem_1_1",
@@ -8346,45 +8203,6 @@
           "C": "हीरा",
           "D": "सोना"
         }
-      },
-      {
-        "file": "eng_2025ii.json",
-        "index": 100,
-        "year": "2025",
-        "id": "passage_1_1",
-        "type": "passage",
-        "question": "Read the following passage carefully and answer the questions that follow :",
-        "prashna": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और उसके बाद आने वाले प्रश्नों के उत्तर दें :",
-        "context": "It was a chilly winter night. Saint Socrates was preaching his disciples. His wife asked him to end the discourse. Socrates did not oblige her. At midnight she got angry. She took a bucket of water and poured it on him. Socrates was just laughing. But his disciples were annoyed with the preceptress. Socrates told them, \"I am a saint who is expected not to lose patience and temper even in precarious situation. My wife tested me and I got success. She is my preceptor. Don't revile her\". Having heard this, she fell on the feet of Socrates and begged for his pardon. Since then she became a good wife and a humane woman.",
-        "instructions": "",
-        "confidence": 0.35,
-        "raw_choice": "Panorama_Reader - 1. January Night (पूस की रात)"
-      },
-      {
-        "file": "eng_2025ii.json",
-        "index": 101,
-        "year": "2025",
-        "id": "passage_1_2",
-        "type": "passage",
-        "question": "OR: Read the following passage carefully and answer the questions that follow :",
-        "prashna": "अथवा: निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और उसके बाद आने वाले प्रश्नों के उत्तर दें :",
-        "context": "Once Amar Singh, the General of Shah Jahan's army, was passing through a desert. He saw a desperate man dying out of thirst. Amar Singh gave him water to drink. The man was now relaxed. He had got new life. He said to him, 'Amar Singh, you saved my life. I am a Pathan named Narshahwaj Khan. I will shed my blood for you and your family, if needed.' The Pathan proved true to his word. When Amar Singh was killed treacherously and his dead body was captured by Shah Jahan, Narshahwaj Khan came with his army and fought against the vast army of Shah Jahan. He with his entire army was killed in the battle. But, he immortalized the tale of gratitude and friendship.",
-        "instructions": "",
-        "confidence": 0.15,
-        "raw_choice": "Panorama_Reader - 7. Love Defiled (प्रेम का अपमान)"
-      },
-      {
-        "file": "eng_2025ii.json",
-        "index": 102,
-        "year": "2025",
-        "id": "passage_2_1",
-        "type": "passage",
-        "question": "Read the following passage carefully and answer the questions that follow :",
-        "prashna": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और उसके बाद आने वाले प्रश्नों के उत्तर दें :",
-        "context": "There was a pious peasant in Russia, satisfied with his limited means. Once an imp stole his only piece of bread. The peasant drank a glassful of water and felt happy. The imp got irritated. He disguised himself and worked with the peasant as his servant. On his advice the peasant produced good crop. The imp then instigated him to prepare wine from the surplus corn. The peasant did so. He invited his friends and began to make merry. Under the effect of intoxication, the peasant lost good senses. He abused his beloved wife and quarrelled with his friends. He fell into mud and grunted like a pig. It's true ; when you have limited means, the animal within you is under control. If you possess means or power more than your needs, you get corrupt and your fall is inevitable.",
-        "instructions": "",
-        "confidence": 0.27,
-        "raw_choice": "Panorama - 13. The Empty Heart (रिक्त हृदय)"
       },
       {
         "file": "eng_2025ii.json",
@@ -8652,32 +8470,6 @@
       },
       {
         "file": "eng_2026i.json",
-        "index": 104,
-        "year": "2026",
-        "id": "passage_3_1",
-        "type": "passage",
-        "question": "Read the poem carefully and answer the questions that follow :",
-        "prashna": "कविता को ध्यानपूर्वक पढ़ें और नीचे दिए गए प्रश्नों के उत्तर दें :",
-        "context": "Hope is the thing with feathers\nThat perches in our soul,\nAnd sings the tune without the words,\nAnd never stops at all.\n\nAnd sweetest in the gale is heard,\nAnd sore must be the storm,\nThat could abash the little bird,\nThat kept so many warm.",
-        "instructions": "Answer the questions based on the poem.",
-        "confidence": 0.3,
-        "raw_choice": "Panorama - 10. Ode on Solitude (एकांत पर एक गीत)"
-      },
-      {
-        "file": "eng_2026i.json",
-        "index": 105,
-        "year": "2026",
-        "id": "passage_3_2",
-        "type": "passage",
-        "question": "Read the poem carefully and answer the questions that follow :",
-        "prashna": "कविता को ध्यानपूर्वक पढ़ें और नीचे दिए गए प्रश्नों के उत्तर दें :",
-        "context": "The sun's warm rays on skin so fair,\nBring life to all, without a care.\n\nThe world awakens, fresh and new,\nA day begins, with hope anew.\n\nThe birds sing sweet, their morning song,\nAs morning dew, on grass does belong.\n\nThe world's alive, with vibrant hue,\nA beautiful day, for me and you.",
-        "instructions": "OR alternative to Question 3.",
-        "confidence": 0.43,
-        "raw_choice": "Panorama - 9. God Made the Country (ईश्वर ने देहात बनाया)"
-      },
-      {
-        "file": "eng_2026i.json",
         "index": 110,
         "year": "2026",
         "id": "short_4_e",
@@ -8701,6 +8493,110 @@
         "instructions": "Answer any five of the following questions :",
         "confidence": 0.38,
         "raw_choice": "Grammar - 18. Translation (अनुवाद)"
+      },
+      {
+        "file": "eng_2026i.json",
+        "index": 114,
+        "year": "2026",
+        "id": "paragraph_5_1",
+        "type": "long_answer",
+        "question": "Write a paragraph in about 60-70 words on: My Favourite Book",
+        "prashna": "लगभग 60-70 शब्दों में अनुच्छेद लिखें: मेरी प्रिय पुस्तक",
+        "context": "",
+        "instructions": "Write a paragraph on any one of the following in about 60-70 words :",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
+      },
+      {
+        "file": "eng_2026i.json",
+        "index": 115,
+        "year": "2026",
+        "id": "paragraph_5_2",
+        "type": "long_answer",
+        "question": "Write a paragraph in about 60-70 words on: My Goals and Aspirations",
+        "prashna": "लगभग 60-70 शब्दों में अनुच्छेद लिखें: मेरे लक्ष्य और आकांक्षाएँ",
+        "context": "",
+        "instructions": "Write a paragraph on any one of the following in about 60-70 words :",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
+      },
+      {
+        "file": "eng_2026i.json",
+        "index": 116,
+        "year": "2026",
+        "id": "paragraph_5_3",
+        "type": "long_answer",
+        "question": "Write a paragraph in about 60-70 words on: Importance of Extra-curricular Activities",
+        "prashna": "लगभग 60-70 शब्दों में अनुच्छेद लिखें: पाठ्येतर गतिविधियों का महत्व",
+        "context": "",
+        "instructions": "Write a paragraph on any one of the following in about 60-70 words :",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
+      },
+      {
+        "file": "eng_2026i.json",
+        "index": 117,
+        "year": "2026",
+        "id": "paragraph_5_4",
+        "type": "long_answer",
+        "question": "Write a paragraph in about 60-70 words on: A Village Market",
+        "prashna": "लगभग 60-70 शब्दों में अनुच्छेद लिखें: एक ग्रामीण बाजार",
+        "context": "",
+        "instructions": "Write a paragraph on any one of the following in about 60-70 words :",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
+      },
+      {
+        "file": "eng_2026i.json",
+        "index": 118,
+        "year": "2026",
+        "id": "paragraph_5_5",
+        "type": "long_answer",
+        "question": "Write a paragraph in about 60-70 words on: Health is Wealth.",
+        "prashna": "लगभग 60-70 शब्दों में अनुच्छेद लिखें: स्वास्थ्य ही धन है।",
+        "context": "",
+        "instructions": "Write a paragraph on any one of the following in about 60-70 words :",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
+      },
+      {
+        "file": "eng_2026i.json",
+        "index": 120,
+        "year": "2026",
+        "id": "writing_7",
+        "type": "long_answer",
+        "question": "Write a report on the flood situation in Patna.",
+        "prashna": "पटना में बाढ़ की स्थिति पर एक रिपोर्ट तैयार करें।",
+        "context": "",
+        "instructions": "Direction ( 6-11 ) : Answer any three from Q. Nos. 6 to 11 :",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
+      },
+      {
+        "file": "eng_2026i.json",
+        "index": 123,
+        "year": "2026",
+        "id": "writing_10",
+        "type": "long_answer",
+        "question": "You are Ranjan. Write a speech in about 60 – 70 words on 'Importance of Discipline'.",
+        "prashna": "आप रंजन हैं। 'अनुशासन का महत्व' पर लगभग 60 – 70 शब्दों में एक भाषण लिखें।",
+        "context": "",
+        "instructions": "Direction ( 6-11 ) : Answer any three from Q. Nos. 6 to 11 :",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
+      },
+      {
+        "file": "eng_2026i.json",
+        "index": 124,
+        "year": "2026",
+        "id": "writing_11",
+        "type": "long_answer",
+        "question": "You are Trishna. Write a message in about 30 – 40 words to your friend inviting him for a get-together at your place.",
+        "prashna": "आप तृष्णा हैं। अपने मित्र को अपने घर पर एक मिलन समारोह (गेट-टुगेदर) के लिए आमंत्रित करते हुए लगभग 30 – 40 शब्दों में एक संदेश लिखें।",
+        "context": "",
+        "instructions": "Direction ( 6-11 ) : Answer any three from Q. Nos. 6 to 11 :",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-19"
       },
       {
         "file": "eng_2026ii.json",
@@ -8804,84 +8700,110 @@
       },
       {
         "file": "eng_2026ii.json",
-        "index": 100,
+        "index": 116,
         "year": "2026",
-        "id": "passage_1_1",
-        "type": "passage",
-        "question": "Read the following passage carefully and answer the questions that follow :",
-        "prashna": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और नीचे दिए गए प्रश्नों के उत्तर दें :",
-        "context": "One of the greatest mysteries of bird life is travelling. Every year during autumn and early winter, birds travel from northern regions of Asia, Europe and America to the southern warmer lands. They make the return journey again during spring and early summer. They are punctual unless they are delayed by bad weather. They face many dangers and hardships while travelling long distance through the air, over hills, forests, plains and large stretches of water. Sometimes sudden storms arise and drive them far out of commerce. Often they are blown right out to sea and are drowned in the wild waves. At night bright lights attract and confuse the birds. They cannot fly at their fastest. The migration speed is usually from 48 to 64 km an hour and rarely exceeds 80.",
-        "instructions": "Answer the questions based on the passage.",
-        "confidence": 0.3,
-        "raw_choice": "Grammar - 20. Paragraph and Essay Writing (पैराग्राफ और निबंध लेखन)"
+        "id": "paragraph_5_1",
+        "type": "long_answer",
+        "question": "Write a paragraph in about 60-70 words on: Importance of Yoga",
+        "prashna": "लगभग 60-70 शब्दों में अनुच्छेद लिखें: योग का महत्व",
+        "context": "",
+        "instructions": "Write a paragraph on any one of the following in about 60-70 words :",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
       },
       {
         "file": "eng_2026ii.json",
-        "index": 102,
+        "index": 117,
         "year": "2026",
-        "id": "passage_2_1",
-        "type": "passage",
-        "question": "Read the following passage carefully and answer the questions that follow :",
-        "prashna": "निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़ें और नीचे दिए गए प्रश्नों के उत्तर दें :",
-        "context": "On a hot summer day a fox felt very thirsty. He went about in search of water but could find water nowhere. At last he reached a well. A goat happened to pass by the well and looked into it. She said to fox, “What are you doing here uncle ?” The cunning fox replied, “Dear niece, I am enjoying a swim down here. It is very pleasant. Come down and enjoy yourself too !” The goat was also thirsty, she jumped into the well. The fox ate the goat.",
-        "instructions": "Answer the questions based on the passage.",
-        "confidence": 0.2,
-        "raw_choice": "Grammar - 20. Paragraph and Essay Writing (पैराग्राफ और निबंध लेखन)"
+        "id": "paragraph_5_2",
+        "type": "long_answer",
+        "question": "Write a paragraph in about 60-70 words on: Child Labour",
+        "prashna": "लगभग 60-70 शब्दों में अनुच्छेद लिखें: बाल श्रम",
+        "context": "",
+        "instructions": "Write a paragraph on any one of the following in about 60-70 words :",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
       },
       {
         "file": "eng_2026ii.json",
-        "index": 104,
+        "index": 118,
         "year": "2026",
-        "id": "passage_3_1",
-        "type": "passage",
-        "question": "Read the poem carefully and answer the questions that follow :",
-        "prashna": "कविता को ध्यानपूर्वक पढ़ें और नीचे दिए गए प्रश्नों के उत्तर दें :",
-        "context": "The city sleeps in a blanket of dark,\nWhere streetlights glow and leave a mark.\nThe cars are quiet, no longer in a hurry,\nA few stray cats dant and scurry.\nThe moon, a pale and lonely friend,\nWatches the long, black night extend.\nThe stars, like distant, silent peas,\nAre hiding behind the city's trees.",
-        "instructions": "Answer the questions based on the poem.",
-        "confidence": 0.26,
-        "raw_choice": "Panorama - 9. God Made the Country (ईश्वर ने देहात बनाया)"
+        "id": "paragraph_5_3",
+        "type": "long_answer",
+        "question": "Write a paragraph in about 60-70 words on: My Favourite Teacher",
+        "prashna": "लगभग 60-70 शब्दों में अनुच्छेद लिखें: मेरे प्रिय शिक्षक",
+        "context": "",
+        "instructions": "Write a paragraph on any one of the following in about 60-70 words :",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
       },
       {
         "file": "eng_2026ii.json",
-        "index": 105,
+        "index": 119,
         "year": "2026",
-        "id": "passage_3_2",
-        "type": "passage",
-        "question": "Read the poem carefully and answer the questions that follow :",
-        "prashna": "कविता को ध्यानपूर्वक पढ़ें और नीचे दिए गए प्रश्नों के उत्तर दें :",
-        "context": "Sometimes I go to a quiet place,\nWhere thoughts and feelings leave a trace.\nA world of stories, brave and bold,\nMore precious than a chest of gold.\nI can be a hero, strong and tall,\nOr watch the autumn leaves all fall.\nA world that only I can see,\nThis is my quiet, inner me.",
-        "instructions": "OR alternative to Question 3.",
-        "confidence": 0.48,
-        "raw_choice": "Panorama - 16. Martha (मार्था)"
+        "id": "paragraph_5_4",
+        "type": "long_answer",
+        "question": "Write a paragraph in about 60-70 words on: Online Education",
+        "prashna": "लगभग 60-70 शब्दों में अनुच्छेद लिखें: ऑनलाइन शिक्षा",
+        "context": "",
+        "instructions": "Write a paragraph on any one of the following in about 60-70 words :",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
+      },
+      {
+        "file": "eng_2026ii.json",
+        "index": 120,
+        "year": "2026",
+        "id": "paragraph_5_5",
+        "type": "long_answer",
+        "question": "Write a paragraph in about 60-70 words on: Bad News Travels Fast",
+        "prashna": "लगभग 60-70 शब्दों में अनुच्छेद लिखें: बुरी खबर तेजी से फैलती है",
+        "context": "",
+        "instructions": "Write a paragraph on any one of the following in about 60-70 words :",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
+      },
+      {
+        "file": "eng_2026ii.json",
+        "index": 122,
+        "year": "2026",
+        "id": "writing_7",
+        "type": "long_answer",
+        "question": "Write a report on the flood hit areas of Patna.",
+        "prashna": "पटना के बाढ़ प्रभावित क्षेत्रों पर एक रिपोर्ट लिखें।",
+        "context": "",
+        "instructions": "Direction ( 6-11 ) : Answer any three from Q. Nos. 6 to 11 :",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
+      },
+      {
+        "file": "eng_2026ii.json",
+        "index": 125,
+        "year": "2026",
+        "id": "writing_10",
+        "type": "long_answer",
+        "question": "You are Krishna. Write a speech on 'Importance of Good Manners'.",
+        "prashna": "आप कृष्णा हैं। 'अच्छे शिष्टाचार का महत्व' विषय पर एक भाषण लिखें।",
+        "context": "",
+        "instructions": "Direction ( 6-11 ) : Answer any three from Q. Nos. 6 to 11 :",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-20"
+      },
+      {
+        "file": "eng_2026ii.json",
+        "index": 126,
+        "year": "2026",
+        "id": "writing_11",
+        "type": "long_answer",
+        "question": "You are Rachna. Write a message in about 30-40 words to your friend inviting him to your place for preparing the school project.",
+        "prashna": "आप रचना हैं। स्कूल प्रोजेक्ट तैयार करने के लिए अपने मित्र को अपने घर आमंत्रित करते हुए लगभग 30-40 शब्दों में एक संदेश लिखें।",
+        "context": "",
+        "instructions": "Direction ( 6-11 ) : Answer any three from Q. Nos. 6 to 11 :",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Grammar-19"
       }
     ],
     "hindi": [
-      {
-        "file": "hin_2016i.json",
-        "index": 0,
-        "year": "2016",
-        "id": "comprehension_1",
-        "type": "comprehension",
-        "question": "निम्नांकित प्रश्नों के उत्तर दें :",
-        "prashna": "निम्नांकित प्रश्नों के उत्तर दें :",
-        "context": "कहानी अपनी कथा वृत्ति के कारण संसार की प्राचीनतम विधा है । गल्प, कथा, आख्यायिका, कहानी इन अनेकों नामों से आख्यात विख्यात कहानी का इतिहास विविध कोणीय है । युगान्तर के साथ कहानी में परिवर्तन हुए हैं और इसकी परिभाषाएँ भी बदली हैं । कहानी का रंगमंचीय संस्करण है एकांकी । इसी तरह उपन्यास का रंगमंचीय संस्करण है नाटक । लेकिन उपन्यास और कहानी अलग-अलग हैं । कहानी में एकान्वित प्रभाव होता है, उपन्यास में समंकित प्रभावान्विति होती है । कहानी को बुलबुला और उपन्यास को प्रवाह माना गया है । कहानी टार्चलाइट है, किसी एक बिन्दु या वस्तु को प्रकाशित करती है । उपन्यास दिन के प्रकाश की तरह शब्दों को समान रूप से प्रकाशित करता है । कहानी में एक ओर एक घटना ही होती है । उपन्यास में प्रमुख और गौण कथाएँ होती हैं । कहानी ध्रुपद की तान की तरह है, आरम्भ होते ही समाप्ति का सम-विषम उपस्थित हो जाता है । उपन्यास शास्त्रीय संगीत का आलाप है । आलाप में आधी रात गुजर जाती है । कुछ लोग दर्शक दीर्घा में सो जाते हैं, कुछ घर लौट जाते हैं । पर कहानी शुरू हो गयी तो पढ़ने वाले को खत्म तक पहुँचने को लाचार कर देती है चाहे परोसा हुआ खाना ठंडा हो या डाकिया दरवाजे पर खड़ा हो । कहानी प्रमुख हो जाती है । उपन्यास पुस्तक से निकल कर पाठक के साथ शौचालय, शयनकक्ष, सड़क, चौराहा सर्वत्र चलने लगता है ।",
-        "instructions": "(अ) निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़कर नीचे लिखे प्रश्नों के उत्तर दें :",
-        "confidence": 0.49,
-        "raw_choice": "Godhuli - 7. Parampara ka Mulyankan (परंपरा का मूल्यांकन)"
-      },
-      {
-        "file": "hin_2016i.json",
-        "index": 1,
-        "year": "2016",
-        "id": "comprehension_2",
-        "type": "comprehension",
-        "question": "निम्नांकित प्रश्नों के उत्तर दें :",
-        "prashna": "निम्नांकित प्रश्नों के उत्तर दें :",
-        "context": "लोभी मनुष्य की मानसिक स्थिति विचित्र सी होती है । धन के प्रति उसकी ललक की तीव्रता और उत्कटता को देखकर ऐसा लगता है, मानो वह सामान्य इन्सान नहीं हो । सामान्य इन्सान ललक की तीव्रता का शिकार होकर तज्जन्य अशान्ति एवं अस्थिरता को स्वीकार कर ही नहीं सकता । धन इकट्ठा करना सभी चाहते हैं, लेकिन लोभी का धन इकट्ठा करना कुछ और ही है । वह धन इसलिए इकट्ठा करता है जिससे उसे किसी समय उसकी कमी न हो, परन्तु उसे उसकी कमी हमेशा बनी ही रहती है । पहले उसकी कमी कल्पित होती है, परन्तु पीछे वह यथार्थ, असली हो जाती है; क्योंकि घर में धन रहने पर भी वह उसे काम में नहीं ला सकता । लोभ से असंतोष की वृद्धि होती है और संतोष का सुख खाक में मिल जाता है । लोभ से भूख बढ़ती है और तृप्ति घटती है । लोभ से मूलधन व्यर्थ बढ़ता है और उसका उपयोग कम होता है । लोभी का धन देखने के लिए वृथा रक्षा करने के लिए और दूसरों को छोड़ जाने के लिए होता है । ऐसे धन से क्या लाभ ? ऐसे धन को इकट्ठा करने में अनेक कष्ट उठाने की अपेक्षा संसार भर में जितना धन है, उसे अपना ही समझना अच्छा है ।",
-        "instructions": "(ब) निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें :",
-        "confidence": 0.14,
-        "raw_choice": "Godhuli - 4. Nakhun Kyon Badhte Hain (नाखून क्यों बढ़ते हैं)"
-      },
       {
         "file": "hin_2016i.json",
         "index": 11,
@@ -8910,19 +8832,6 @@
       },
       {
         "file": "hin_2016ii.json",
-        "index": 1,
-        "year": "2016",
-        "id": "gadyansh_2",
-        "type": "comprehension",
-        "question": "लोभी मनुष्य की मानसिक स्थिति विचित्र-सी होती है। धन के प्रति उसकी ललक की तीव्रता और उत्कटता को देखकर ऐसा लगता है, मानो वह सामान्य इंसान नहीं हो। सामान्य इंसान ललक की तीव्रता का शिकार होकर तज्जन्य अशांति एवं अस्थिरता को स्वीकार कर ही नहीं सकता। धन इकट्ठा करना सभी चाहते हैं, लेकिन लोभी का धन इकट्ठा करना कुछ और ही है। वह धन इसलिए इकट्ठा करता है जिससे उसे किसी समय उसकी कमी न हो, परंतु उसे उसकी कमी हमेशा बनी ही रहती है। पहले उसकी कमी कल्पित होती है, परंतु पीछे वह यथार्थ, असली हो जाती है; क्योंकि घर में धन रहने पर भी वह उसे काम में नहीं ला सकता। लोभ से असंतोष की वृद्धि होती है और संतोष का सुख खाक में मिल जाता है। लोभ से भूख बढ़ती है और तृप्ति घटती है। लोभ में मूलधन व्यर्थ बढ़ता है और उसका उपयोग कम होता है। का धन देखने के लिए, वृथा रक्षा करने के लिए और दूसरों को छोड़ जाने के लिए होता है। ऐसे धन से क्या लाभ? ऐसे धन को इकट्ठा करने में अनेक कष्ट उठाने की अपेक्षा संसार भर में जितना धन है, उसे अपना ही समझना अच्छा है।",
-        "prashna": "लोभी मनुष्य की मानसिक स्थिति विचित्र-सी होती है। धन के प्रति उसकी ललक की तीव्रता और उत्कटता को देखकर ऐसा लगता है, मानो वह सामान्य इंसान नहीं हो। सामान्य इंसान ललक की तीव्रता का शिकार होकर तज्जन्य अशांति एवं अस्थिरता को स्वीकार कर ही नहीं सकता। धन इकट्ठा करना सभी चाहते हैं, लेकिन लोभी का धन इकट्ठा करना कुछ और ही है। वह धन इसलिए इकट्ठा करता है जिससे उसे किसी समय उसकी कमी न हो, परंतु उसे उसकी कमी हमेशा बनी ही रहती है। पहले उसकी कमी कल्पित होती है, परंतु पीछे वह यथार्थ, असली हो जाती है; क्योंकि घर में धन रहने पर भी वह उसे काम में नहीं ला सकता। लोभ से असंतोष की वृद्धि होती है और संतोष का सुख खाक में मिल जाता है। लोभ से भूख बढ़ती है और तृप्ति घटती है। लोभ में मूलधन व्यर्थ बढ़ता है और उसका उपयोग कम होता है। का धन देखने के लिए, वृथा रक्षा करने के लिए और दूसरों को छोड़ जाने के लिए होता है। ऐसे धन से क्या लाभ? ऐसे धन को इकट्ठा करने में अनेक कष्ट उठाने की अपेक्षा संसार भर में जितना धन है, उसे अपना ही समझना अच्छा है।",
-        "context": "लोभी मनुष्य की मानसिक स्थिति विचित्र-सी होती है। धन के प्रति उसकी ललक की तीव्रता और उत्कटता को देखकर ऐसा लगता है, मानो वह सामान्य इंसान नहीं हो। सामान्य इंसान ललक की तीव्रता का शिकार होकर तज्जन्य अशांति एवं अस्थिरता को स्वीकार कर ही नहीं सकता। धन इकट्ठा करना सभी चाहते हैं, लेकिन लोभी का धन इकट्ठा करना कुछ और ही है। वह धन इसलिए इकट्ठा करता है जिससे उसे किसी समय उसकी कमी न हो, परंतु उसे उसकी कमी हमेशा बनी ही रहती है। पहले उसकी कमी कल्पित होती है, परंतु पीछे वह यथार्थ, असली हो जाती है; क्योंकि घर में धन रहने पर भी वह उसे काम में नहीं ला सकता। लोभ से असंतोष की वृद्धि होती है और संतोष का सुख खाक में मिल जाता है। लोभ से भूख बढ़ती है और तृप्ति घटती है। लोभ में मूलधन व्यर्थ बढ़ता है और उसका उपयोग कम होता है। का धन देखने के लिए, वृथा रक्षा करने के लिए और दूसरों को छोड़ जाने के लिए होता है। ऐसे धन से क्या लाभ? ऐसे धन को इकट्ठा करने में अनेक कष्ट उठाने की अपेक्षा संसार भर में जितना धन है, उसे अपना ही समझना अच्छा है।",
-        "instructions": "निम्नाकिंत गद्यांश को ध्यानपूर्वक पढ़कर नीचे लिखे प्रश्नों के उत्तर दें-",
-        "confidence": 0.12,
-        "raw_choice": "Vyakaran - 20. Essay Writing (निबंध लेखन)"
-      },
-      {
-        "file": "hin_2016ii.json",
         "index": 12,
         "year": "2016",
         "id": "short_8",
@@ -8936,32 +8845,6 @@
       },
       {
         "file": "hin_2017i.json",
-        "index": 0,
-        "year": "2017",
-        "id": "comprehension_1",
-        "type": "comprehension",
-        "question": "निम्नांकित गद्यांश को ध्यानपूर्वक पढ़कर नीचे लिखे प्रश्नों के उत्तर दें",
-        "prashna": "निम्नांकित गद्यांश को ध्यानपूर्वक पढ़कर नीचे लिखे प्रश्नों के उत्तर दें",
-        "context": "बंगाल तथा बिहार के नील उत्पादक किसानों की स्थिति बहुत ही दयनीय थी। विशेषकर बिहार में नीलहे गोरे द्वारा तीनकठिया व्यवस्था प्रचलित की गयी थी, जिसमें किसानों को अपनी गुंति के 3/20 हिस्से पर नील की खेती करनी होती थी। यह सामान्यतः सबसे उपजाऊ भूमि होती थी। किसान नील की खेती नहीं करना चाहते थे क्योंकि इससे भूमि की उर्वरता कम हो जाती थी। यद्यपि 1908 ई. में तीनकठिया व्यवस्था में कुछ सुधार लाने की कोशिश की गई थी, परन्तु इससे किसानों की गरीबी हुई हालत में कोई परिवर्तन नहीं हुआ। बागान मालिक किसानों को अपनी उपज एक निश्चित धन राशि पर केवल उन्हें ही बेचने के लिए बाध्य करते थे और यह राशि यहूदा ही कम होती थी। इस समय जर्मनी के वैज्ञानिकों ने कृत्रिम नील रंग का उत्पादन करना शुरू कर दिया था जिसके परिणाम स्वरूप विश्व के बाजारों में भारतीय नील की माँग गिर गई। सम्पादकों के अधिकांश बागान मालिक यह महसूस करने लगे थे कि नील के व्यापार में अब उन्हें अधिक मुनाफा नहीं होगा। इसलिए मुनाफे को बनाये रखने के लिए उन्होंने अपने घाटों को किसानों पर लादना शुरू कर दिया। इसके लिए जो रास्ते उन्होंने अपनाए उनमें किसानों से यह कहा गया कि यदि वे उन्हें एक बड़ा मुआवजा दे दें तो किसानों को नील की खेती से मुक्ति मिल सकती है। इसके अतिरिक्त उन्होंने लगान में अत्यधिक वृद्धि कर दी।",
-        "instructions": "6×2=12",
-        "confidence": 0.09,
-        "raw_choice": "Godhuli - 18. Janatantra ka Janm (जनतंत्र का जन्म)"
-      },
-      {
-        "file": "hin_2017i.json",
-        "index": 1,
-        "year": "2017",
-        "id": "comprehension_2",
-        "type": "comprehension",
-        "question": "निम्नांकित गद्यांश को पढ़कर नीचे दिये गये प्रश्नों के उत्तर दें",
-        "prashna": "निम्नांकित गद्यांश को पढ़कर नीचे दिये गये प्रश्नों के उत्तर दें",
-        "context": "राष्ट्रवाद का सांस्कृतिक अर्थ होता है 'राष्ट्रीय चेतना का उदय'। ऐसी राष्ट्रीय चेतना का उदय जिसमें राजनीतिक, आर्थिक, सामाजिक एवं सांस्कृतिक एकीकरण का अभाव हो। 19वीं शताब्दी के पूर्वार्द्ध तक भारत छोटे-छोटे राज्यों में विभक्त था। उस समय भारत को एकता के सूत्र में बाँधने वाले तत्त्वों का अभाव था। समान भाषा व्यवस्था का अभाव था। राष्ट्रीय एकता में कभी का अर्थ है उस अनुभूति का अभाव जो भारत में रहने वाले सभी लोगों को समान लक्ष्य एवं समान संस्कृति से जोड़े। 19वीं शताब्दी के उत्तरार्द्ध में कई ऐसे तत्त्व उभरे जिससे ये कभी दूर होती गयी एवं भारत एक सम्पूर्ण संगठित राष्ट्र का स्वरूप ग्रहण करने लगा। यही राष्ट्रवाद है एवं इसी राष्ट्रवाद की अभिव्यक्ति स्वतंत्रता संग्राम है।",
-        "instructions": "4×2=8",
-        "confidence": 0.19,
-        "raw_choice": "Godhuli - 16. Swadeshi (स्वदेशी)"
-      },
-      {
-        "file": "hin_2017i.json",
         "index": 9,
         "year": "2017",
         "id": "short_4",
@@ -8972,19 +8855,6 @@
         "instructions": "6×1=6",
         "confidence": 0.45,
         "raw_choice": "Vyakaran - 15. Vocabulary (Synonyms, Antonyms, etc.) (शब्द भंडार (पर्यायवाची, विलोम, आदि))"
-      },
-      {
-        "file": "hin_2017i.json",
-        "index": 14,
-        "year": "2017",
-        "id": "comprehension_3",
-        "type": "comprehension",
-        "question": "महन और कोयली वाली की उछाह में अम्मा महन चाले ही जीता है, पर उसी हालता में नर दूना? डफली वाले उनकी मदद अपने ही खिलाफ करते हैं।",
-        "prashna": "महन और कोयली वाली की उछाह में अम्मा महन चाले ही जीता है, पर उसी हालता में नर दूना? डफली वाले उनकी मदद अपने ही खिलाफ करते हैं।",
-        "context": "महन और कोयली वाली की उछाह में अम्मा महन चाले ही जीता है, पर उसी हालता में नर दूना? डफली वाले उनकी मदद अपने ही खिलाफ करते हैं।",
-        "instructions": "",
-        "confidence": 0.41,
-        "raw_choice": "Godhuli - 16. Swadeshi (स्वदेशी)"
       },
       {
         "file": "hin_2017i.json",
@@ -9265,45 +9135,6 @@
       },
       {
         "file": "hin_2019i.json",
-        "index": 50,
-        "year": "2019",
-        "id": "comprehension_1",
-        "type": "comprehension",
-        "question": "निम्नलिखित गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें।",
-        "prashna": "निम्नलिखित गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें।",
-        "context": "आत्मनिर्भरता प्रगति की आधारशिला है और आत्मविश्वास का मूल है। जो व्यक्ति समाज में अपने सारे कार्य स्वयं करता है, जरूरत पड़ने पर दूसरों की सहायता करता है, वह उन्नति की दौड़ में सबसे आगे रहता है। अपने दैनिक जीवन के सारे कार्य स्वयं ही करना मनुष्य के लिए अत्यावश्यक है। अपने कार्य के लिए दूसरे पर निर्भर रहने वाला व्यक्ति पिछड़ जाता है, उन्नति नहीं कर सकता। सौंपे गए कार्य को पुनीत दायित्व समझकर करना चाहिए, इससे व्यक्ति स्वावलंबी बनता है। स्वावलंबी व्यक्ति सिंह के समान परिश्रमी होता है एवं सामाजिक व मानसिक रूप से स्वस्थ होता है। उसे धन की कमी नहीं रहती। वह अपनी ही भुजाओं से सारी सुख – सुविधाओं को जुटाने में सक्षम होता है। परिणामक आत्मनिर्भर व्यक्ति उन्नति के शिखर पर पहुँच जाता है ।",
-        "instructions": "प्रत्येक प्रश्न दो अंकों का होगा। (5x2=10)",
-        "confidence": 0.4,
-        "raw_choice": "Vyakaran - 20. Essay Writing (निबंध लेखन)"
-      },
-      {
-        "file": "hin_2019i.json",
-        "index": 51,
-        "year": "2019",
-        "id": "comprehension_2",
-        "type": "comprehension",
-        "question": "निम्नलिखित गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें",
-        "prashna": "निम्नलिखित गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें",
-        "context": "कोई भी शासक अपना प्रभुत्व जमाने के लिए जनता में एकता नहीं चाहता, इसलिए अंग्रेजों ने भारत में राज करने के लिए सर्वप्रथम यहाँ की एकता खंडित की। सनातन मूल्यों, आदर्शों और प्रतिमानों को नष्ट – भ्रष्ट किया। भारत की वैज्ञानिक संस्कृति के प्रति सुनियोजित तरीके से अनास्था के भाव उत्पन्न किए। भोली – भाली जनता को बहकाया गया। उन्होंने फूट डालो और राज करो की नीति अपनाई जिसके कारण वह लगभग दो सौ वर्षों तक भारत पर शासन करते रहे। साथ ही, भारत में धर्मों व जातियों में दंगे मड़काते रहे। वह विभिन्न धर्मों के बीच वैमनस्य की दीवार खड़ी करते रहे। अतंतः यह भारत के स्वतंत्र होने पर भी अखंडता समाप्त करके ही गए। भारत का विभाजन अंग्रेजों की नीति का एक हिस्सा है। उन्होंने आजादी के पूर्व जो आग लगाई थी, प्रत्यक्ष – अप्रत्यक्ष रूप से उसमें हम आज भी झुलस रहे हैं। परिणामतः हमें आज जाति, धर्म और क्षेत्रवाद से ऊपर उठकर मिलजुलकर रहना चाहिए।",
-        "instructions": "प्रत्येक प्रश्न दो अंकों का होगा। (5x2=10)",
-        "confidence": 0.23,
-        "raw_choice": "Godhuli - 1. Shram Vibhajan aur Jati Pratha (श्रम विभाजन और जाति प्रथा)"
-      },
-      {
-        "file": "hin_2019i.json",
-        "index": 53,
-        "year": "2019",
-        "id": "comprehension_4",
-        "type": "comprehension",
-        "question": "निम्नलिखित गद्यांशों में से किसी एक को पढ़कर भी दिए गए प्रश्नों के उत्तर दें",
-        "prashna": "निम्नलिखित गद्यांशों में से किसी एक को पढ़कर भी दिए गए प्रश्नों के उत्तर दें",
-        "context": "मनुष्य को सुख पहुँचाने वाली वस्तुओं की कमी है। इसलिए अधिक मशीन बैठाकर उत्पादन में वृद्धि करने की जरूरत है। धन में वृद्धि करने और बाह्य उपकरणों की ताकत बढ़ाने की जरूरत है। बड़े – बड़े नेता के इस विचार से असहमति जताते हुए एक बूढ़ा ने कहा-बाहर नहीं, भीतर की ओर देखो। हिंसा को मन से दूर करो, मिथ्या को हटाओ, क्रोध और हेष को दूर करो, लोक के लिए कष्ट सहो, आराम की बात मत सोचो, प्रेम की बात सोचो, काम करने की बात सोचो। क्योंकि प्रेम ही बड़ी चीज है और यह हमारे भीतर है। स्व के नियंत्रण से प्रेम पुष्ट होता है।",
-        "instructions": "प्रत्येक प्रश्न दो (5x2=10) अंकों का होगा।",
-        "confidence": 0.48,
-        "raw_choice": "Godhuli - 12. Shiksha aur Sanskriti (शिक्षा और संस्कृति)"
-      },
-      {
-        "file": "hin_2019i.json",
         "index": 67,
         "year": "2019",
         "id": "short_7",
@@ -9452,45 +9283,6 @@
           "C": "अक्षर ज्ञान",
           "D": "स्वदेशी"
         }
-      },
-      {
-        "file": "hin_2020i.json",
-        "index": 60,
-        "year": "2020",
-        "id": "comprehension_1_1",
-        "type": "comprehension",
-        "question": "(क) देश के स्वतंत्र होने पर शासन की ओर से अनेक जन कल्याणकारी योजनाओं का श्रीगणेश किया गया और शासकीय कर्मचारियों ने उनकी पूर्ति में भरसक योग दिया। फिर भी इस बात का अनुभव किया जा रहा है कि शासन-तंत्र में पूरी कार्य-तत्परता का अभाव है...",
-        "prashna": "(क) देश के स्वतंत्र होने पर शासन की ओर से अनेक जन कल्याणकारी योजनाओं का श्रीगणेश किया गया और शासकीय कर्मचारियों ने उनकी पूर्ति में भरसक योग दिया। फिर भी इस बात का अनुभव किया जा रहा है कि शासन-तंत्र में पूरी कार्य-तत्परता का अभाव है...",
-        "context": "देश के स्वतंत्र होने पर शासन की ओर से अनेक जन कल्याणकारी योजनाओं का श्रीगणेश किया गया और शासकीय कर्मचारियों ने उनकी पूर्ति में भरसक योग दिया। फिर भी इस बात का अनुभव किया जा रहा है कि शासन-तंत्र में पूरी कार्य-तत्परता का अभाव है...",
-        "instructions": "निम्नलिखित गद्यांशों में से किसी एक गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें। प्रत्येक प्रश्न दो अंकों का होगा।",
-        "confidence": 0.29,
-        "raw_choice": "Varnika - 4. Nagar (नगर)"
-      },
-      {
-        "file": "hin_2020i.json",
-        "index": 61,
-        "year": "2020",
-        "id": "comprehension_1_2",
-        "type": "comprehension",
-        "question": "(ख) एक बार वेनिस नगर की यात्रा करते हुए गैलीलियों ने सुना कि हालेण्ड में किसी व्यक्ति ने कोई नई खोज की है...",
-        "prashna": "(ख) एक बार वेनिस नगर की यात्रा करते हुए गैलीलियों ने सुना कि हालेण्ड में किसी व्यक्ति ने कोई नई खोज की है...",
-        "context": "एक बार वेनिस नगर की यात्रा करते हुए गैलीलियों ने सुना कि हालेण्ड में किसी व्यक्ति ने कोई नई खोज की है...",
-        "instructions": "निम्नलिखित गद्यांशों में से किसी एक गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें। प्रत्येक प्रश्न दो अंकों का होगा।",
-        "confidence": 0.34,
-        "raw_choice": "Godhuli - 9. Aavinyon (आविन्यों)"
-      },
-      {
-        "file": "hin_2020i.json",
-        "index": 63,
-        "year": "2020",
-        "id": "comprehension_2_2",
-        "type": "comprehension",
-        "question": "(ख) अंग्रेजी सेनाध्यक्षों में क्लाइव का बहुत ऊँचा स्थान था। उसमें अदम्य उत्साह और वीरता के गुण थे...",
-        "prashna": "(ख) अंग्रेजी सेनाध्यक्षों में क्लाइव का बहुत ऊँचा स्थान था। उसमें अदम्य उत्साह और वीरता के गुण थे...",
-        "context": "अंग्रेजी सेनाध्यक्षों में क्लाइव का बहुत ऊँचा स्थान था। उसमें अदम्य उत्साह और वीरता के गुण थे...",
-        "instructions": "निम्नलिखित गद्यांशों में से किसी एक गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें। प्रत्येक प्रश्न दो अंकों का होगा।",
-        "confidence": 0.28,
-        "raw_choice": "Godhuli - 3. Bharat se Hum Kya Seekhe (भारत से हम क्या सीखें)"
       },
       {
         "file": "hin_2020i.json",
@@ -9820,58 +9612,6 @@
       },
       {
         "file": "hin_2020ii.json",
-        "index": 60,
-        "year": "2020",
-        "id": "gadyansh_1_k",
-        "type": "comprehension",
-        "question": "निम्नलिखित गद्यांश को पढ़कर प्रश्नों के उत्तर दें",
-        "prashna": "निम्नलिखित गद्यांश को पढ़कर प्रश्नों के उत्तर दें",
-        "context": "सोना की आज अचानक स्मृति हो आने का कारण है। मेरे परिचित स्वर्गीय डॉ० धीरेन्द्रनाथ वसु की पौत्री सुस्मिता ने लिखा है, \"गत वर्ष अपने पड़ोसी से मुझे एक हिरन मिला था । बीते कुछ महीनों में हम उससे बहुत स्नेह करने लगे हैं, परन्तु अब मैं अनुभव करती हूँ कि सघन जंगल से संबद्ध रहने के कारण तथा अब बड़े हो जाने के कारण उसे घूमने के लिए अधिक विस्तृत स्थान चाहिए। कृपा करके आप उसे स्वीकार करेंगी, ? सचमुच मैं आपकी बहुत आभारी रहूँगी, क्योंकि आप जानती हैं, मैं उसे ऐसे व्यक्ति को नहीं देना चाहती जो उससे बुरा व्यवहार करे, मेरा विश्वास है,आपके यहाँ उसकी भली भाँति देखभाल हो सकेगी ।\"",
-        "instructions": "निम्नलिखित गद्यांशों में से किसी एक गद्यांश को पढ़कर नीचे दिए गये प्रश्नों के उत्तर दें । प्रत्येक प्रश्न दो अंकों का है ।",
-        "confidence": 0.12,
-        "raw_choice": "Godhuli - 6. Bahadur (बहादुर)"
-      },
-      {
-        "file": "hin_2020ii.json",
-        "index": 61,
-        "year": "2020",
-        "id": "gadyansh_1_kh",
-        "type": "comprehension",
-        "question": "निम्नलिखित गद्यांश को पढ़कर प्रश्नों के उत्तर दें",
-        "prashna": "निम्नलिखित गद्यांश को पढ़कर प्रश्नों के उत्तर दें",
-        "context": "भारतीय संस्कृति के प्रतिनिधि कवि के रूप में राष्ट्रकवि मैथिलीशरण गुप्त का नाम सदा अमर रहेगा । खड़ी बोली के उषाकाल में ही गुप्तजी को लेखनी का प्रसाद हिन्दी जगत को मिला और लगभग अर्द्ध शताब्दी तक उनकी लेखनी अनवरत काव्य रचना में व्यस्त रही । बुन्देलखण्ड के झाँसी जनपद में चिरगाँव नामक स्थान में एक वैश्य परिवार में सन् 1886 में जन्म लेकर इन्होंने अपना जीवन साहित्य सर्जन में ही लगाया । सन् 1964 में इनका देहान्त हुआ । गुप्तजी वस्तुतः आधुनिक काल के कवियों के कवि-गुरु हैं । इनकी अमर कृति 'भारत भारती' जब सन् 1912 में प्रकाशित हुई तो समस्त देश में राष्ट्रीय भावना की लहर सी फैल गई थी । 'रामचरित मानस' के पश्चात राम भक्ति काव्य में ऐसी लोकप्रियता किसी अन्य रचना को नहीं मिली, जितनी गुप्तजी की कृति साकेत को ।",
-        "instructions": "निम्नलिखित गद्यांशों में से किसी एक गद्यांश को पढ़कर नीचे दिए गये प्रश्नों के उत्तर दें । प्रत्येक प्रश्न दो अंकों का है ।",
-        "confidence": 0.33,
-        "raw_choice": "Godhuli - 11. Naubatkhane mein Ibadat (नौबतखाने में इबादत)"
-      },
-      {
-        "file": "hin_2020ii.json",
-        "index": 62,
-        "year": "2020",
-        "id": "gadyansh_2_k",
-        "type": "comprehension",
-        "question": "निम्नलिखित गद्यांशों में से किसी एक गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें। प्रत्येक प्रश्न दो अंकों का होगा।",
-        "prashna": "निम्नलिखित गद्यांशों में से किसी एक गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें। प्रत्येक प्रश्न दो अंकों का होगा।",
-        "context": "अच्छा नागरिक बनने के लिए भारत के प्राचीन विचारकों ने कुछ नियमों का प्रावधान किया है। इनमें वाणी और व्यवहार की शुद्धता, कर्तव्य और अधिकार का समुचित निर्वाह, शुद्धतम पारस्परिक सद्भाव, सहयोग सेवा की भावना आदि नियम महत्त्वपूर्ण माने गए हैं। ये सभी नियम यदि एक व्यक्ति के चारित्रिक गुणों में अनिवार्य माने जाएँ तो उसका अपना जीवन भी सुखी और आनंदमय हो सकता है। इन सभी गुणों का विकास एक बालक में यदि बाल्यावस्था में ही किया जाए तो वह अपने देश का सर्वश्रेष्ठ नागरिक बन सकता है। इन गुणों के कारण वह अपने परिवार, आस-पड़ोस, विद्यालय में अपने सहपाठियों एवं अध्यापकों के प्रति यथोचित व्यवहार कर सकेगा। वाणी एवं व्यवहार की मधुरता सभी के लिए सुखदायी होती है, समाज में हार्दिक सद्भाव की वृद्धि करती है, किंतु अहंकारहीन व्यक्ति ही स्निग्ध वाणी और शिष्ट व्यवहार का प्रयोग कर सकता है। अहंकारी और दंभी व्यक्ति सदा अशिष्ट वाणी और व्यवहार का अभ्यासी होता है। जिसका परिणाम यह होता है कि ऐसे आदमी के व्यवहार से समाज में शांति और सौहार्द्र का वातावरण नहीं बनता। जिस प्रकार एक व्यक्ति समाज में रहकर अपने व्यवहार से कर्तव्य और अधिकार के प्रति सजग रहता है उसी तरह देश के प्रति भी उसका व्यवहार कर्तव्य, अधिकार की भावना से भावित रहना चाहिए। उसका कर्तव्य हो जाता है कि न तो वह स्वयं ऐसा काम करे और न ही दूसरों को करने दे, जिससे देश के सम्मान, संपत्ति और स्वाभिमान को ठेस पहुँचे। समाज एवं देश में शांति बनाए रखने के लिए धार्मिक सहिष्णुता भी बहुत आवश्यक है। यह वृत्ति तभी आ सकती है जब व्यक्ति संतुलित व्यक्तित्व का हो।",
-        "instructions": "किसी एक गद्यांश का चयन करें।",
-        "confidence": 0.3,
-        "raw_choice": "Godhuli - 3. Bharat se Hum Kya Seekhe (भारत से हम क्या सीखें)"
-      },
-      {
-        "file": "hin_2020ii.json",
-        "index": 63,
-        "year": "2020",
-        "id": "gadyansh_2_kh",
-        "type": "comprehension",
-        "question": "निम्नलिखित गद्यांशों में से किसी एक गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें। प्रत्येक प्रश्न दो अंकों का होगा।",
-        "prashna": "निम्नलिखित गद्यांशों में से किसी एक गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें। प्रत्येक प्रश्न दो अंकों का होगा।",
-        "context": "साहस की जिंदगी सबसे बड़ी जिंदगी होती है। ऐसी जिंदगी की सबसे बड़ी पहचान यह है कि वह बिल्कुल निडर और बेखौफ होती है। साहसी मनुष्य की पहली पहचान यह है कि वह इस बात की चिंता नहीं करता कि तमाशा देखने वाले लोग उसके बारे में क्या सोच रहे हैं। जनमत की उपेक्षा करके जीने वाला आदमी दुनिया की असली ताकत होता है और मनुष्य को प्रकाश भी उसी आदमी से मिलता है। अड़ोस-पड़ोस को देखकर चलना यह साधारण जीवन का काम है। क्रांति करने वाले लोग अपने उद्देश्य की तुलना न तो पड़ोसी के उद्देश्य से करते हैं और न अपनी चाल को ही पड़ोसी की चाल समझकर मध्यम बनाते हैं। साहसी मनुष्य उन सपनों में भी रस लेता है जिन सपनों का कोई व्यावहारिक अर्थ नहीं है। साहसी मनुष्य सपने उधार नहीं लेता, पर वह अपने विचारों में रमा हुआ अपनी ही किताब पढ़ता है। अर्नाल्ड बेनेट ने लिखा है- 'जो आदमी यह महसूस करता है कि किसी महान निश्चय के समय वह साहस से काम नहीं ले सका, जिंदगी की चुनौती को कबूल नहीं कर सका, वह सुखी नहीं हो सकता। जिंदगी को ठीक से जीना हमेशा ही जोखिम को झेलना है और जो आदमी सफल जीने के लिए जोखिम का हर जगह घेरा डालता है, वह अंततः अपने ही घेरों के बीच कैद हो जाता है और जिंदगी का कोई मजा उसे नहीं मिल पाता, क्योंकि जोखिम से बचने की कोशिश में, असल में जिंदगी को ही आने से रोक रखा है। जिंदगी से अंत में हम उतना ही पाते हैं जितनी कि उसमें पूंजी लगाते हैं। पूंजी लगाना जिंदगी के संकटों से सामना करना है, उसके उस पन्ने को पलटकर पढ़ना है \"जिसके सभी अक्षर फूलों से नहीं कुछ अंगारों से भी लिखे गए हैं।\"",
-        "instructions": "किसी एक गद्यांश का चयन करें।",
-        "confidence": 0.36,
-        "raw_choice": "Godhuli - 6. Bahadur (बहादुर)"
-      },
-      {
-        "file": "hin_2020ii.json",
         "index": 75,
         "year": "2020",
         "id": "short_5",
@@ -10148,32 +9888,6 @@
       },
       {
         "file": "hin_2021i.json",
-        "index": 102,
-        "year": "2021",
-        "id": "comp_2_a",
-        "type": "comprehension",
-        "question": "",
-        "prashna": "",
-        "context": "इस संसार में धन ही सबकुछ नहीं है। धन की पूजा तो बहुत कम जगहों में होती देखी गई है। संसार का इतिहास उठाकर देखिए और उदाहरण ढूँढ-ढूँढकर सामने रखिए, तो आपको विदित हो जाएगा कि जिनकी हम उपासना करते हैं, जिनके लिए हम आँखें बिछाने तक को तैयार रहते हैं, जिनकी स्मृति तरोताजा रखने के लिए हम अनेक तरह के स्मारक चिह्न बनाकर खड़े करते हैं, उन्होने रुपया कमाने में अपना समय नहीं बिताया था, बल्कि उन्होंने कुछ ऐसे काम किए थे, जिनकी महत्ता हम रुपए से अधिक मूल्यवान समझते हैं। जिन लोगों के जीवन का उद्देश्य केवल रुपया बटोरना है, उनकी प्रतिष्ठा कम हुई है। अधिकांश अवस्थाओं में उन्हें किसी ने पूछा तक नहीं। उन्होंने जन्म लिया, रुपया कमाया और परलोक की यात्रा की किसी ने जाना तक नहीं कि वे कौन थे और कहाँ गए मानव समाज स्वार्थी अवश्य है, पर वह स्वार्थ की उपासना करना नहीं जानता। अंत में वे ही पूजे जाते हैं, जिन्होंने अपने जीवन को अर्पित करते समय सच्चे मनुष्यत्व का परिचय दिया है।",
-        "instructions": "प्रत्येक प्रश्न दो अंकों का होगा।",
-        "confidence": 0.14,
-        "raw_choice": "Godhuli - 7. Parampara ka Mulyankan (परंपरा का मूल्यांकन)"
-      },
-      {
-        "file": "hin_2021i.json",
-        "index": 103,
-        "year": "2021",
-        "id": "comp_2_b",
-        "type": "comprehension",
-        "question": "",
-        "prashna": "",
-        "context": "भारत में हरित क्रांति का मुख्य उद्देश्य देश को खाद्यान्न मामले में आत्मनिर्भर बनाना था। इस बात की आशंका किसी को नहीं थी कि रासायनिक उर्वरकों और कीटनाशकों का अंधाधुंध इस्तेमाल न सिर्फ खेतों में, बल्कि खेतों से बाहर मंडियों तक में होने लगेगा। विशेषज्ञों के मुताबिक रासायनिक उर्वरकों और कीटनाशकों का प्रयोग खाद्यान्न की गुणवत्ता के लिए सही नहीं है, लेकिन जिस रफ्तार से देश की आबादी बढ़ रही है, उसके मद्देनजर फसलों की अधिक पैदावार जरूरी थी। समस्या सिर्फ रासायनिक खादों के प्रयोग की ही नहीं है। देश के ज्यादातर किसान परंपरागत कृषि से दूर होते जा रहे हैं। दो दशक पहले तक हर किसान के यहाँ गाय, बैल और भैंसें खूँटों से बँधे मिलते थे। अब इन मवेशियों की जगह ट्रैक्टर-ट्रॉली ने ले ली है। परिणामस्वरूप गोबर और घूरे की राख से बनी कंपोस्ट खाद खेतों में गिरनी बंद हो गई। पहले चैत्र - वैशाख में गेहूँ की फसल कटने के बाद किसान अपने खेतों में गोवर, राख और पत्तों से बनी जैविक खाद डालते थे। इससे न सिर्फ खेतों की शक्ति बरकरार रहती थी, बल्कि इससे किसानों को आर्थिक लाभ के अलावा बेहतर गुणवत्ता वाली फसल भी मिलती थी।",
-        "instructions": "प्रत्येक प्रश्न दो अंकों का होगा।",
-        "confidence": 0.28,
-        "raw_choice": "Godhuli - 20. Ek Vriksha ki Hatya (एक वृक्ष की हत्या)"
-      },
-      {
-        "file": "hin_2021i.json",
         "index": 113,
         "year": "2021",
         "id": "short_3",
@@ -10447,71 +10161,6 @@
           "C": "नरकत",
           "D": "नरकुय"
         }
-      },
-      {
-        "file": "hin_2021ii.json",
-        "index": 100,
-        "year": "2021",
-        "id": "gadyansh_1_k",
-        "type": "comprehension",
-        "question": "निम्नलिखित गद्यांशों में से किसी एक गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें। प्रत्येक प्रश्न दो अंकों का होगा।",
-        "prashna": "निम्नलिखित गद्यांशों में से किसी एक गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें। प्रत्येक प्रश्न दो अंकों का होगा।",
-        "context": "आकाशगंगा तारों का महापरिवार है। शायद नदी की धारा की तरह दिखाई पड़ने के कारण ही इसका नाम आकाशगंगा पड़ा होगा। आकाश में कई आकाशगंगाएँ हैं, लेकिन पृथ्वी से केवल एक ही आकाशगंगा दिखाई पड़ती है, जिसका नाम 'स्पाइरल गैलेक्सी' है। हमारी आकाशगंगा पहिए की आकृति वाली है, जिसके केन्द्र से तारक मछली की भाँति भुजाएँ निकलती प्रतीत होती हैं। आकाशगंगा में लगभग 20 अरब तारे हैं। उनमें तो अनेक तारे सूर्य ग्रह से कई गुना बड़े हैं। पृथ्वी से समतल पट्टी जैसी दिखने वाली इस आकाशगंगा को ऊपर या ठीक नीचे देखा जाए तो यह बीच में उभार लिए प्लेट की तरह दिखेगी। इस आकाशगंगा के केन्द्र में तारों का भारी जमघट है।",
-        "instructions": "किसी एक गद्यांश का चयन करें।",
-        "confidence": 0.24,
-        "raw_choice": "Varnika - 5. Dharti Kab Tak Ghoomegi (धरती कब तक घूमेगी)"
-      },
-      {
-        "file": "hin_2021ii.json",
-        "index": 101,
-        "year": "2021",
-        "id": "gadyansh_1_kh",
-        "type": "comprehension",
-        "question": "निम्नलिखित गद्यांशों में से किसी एक गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें। प्रत्येक प्रश्न दो अंकों का होगा।",
-        "prashna": "निम्नलिखित गद्यांशों में से किसी एक गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें। प्रत्येक प्रश्न दो अंकों का होगा।",
-        "context": "गंगा भारत की अत्यंत पवित्र नदी है, जिसका जल काफी दिनों तक रखने के बावजूद अशुद्ध नहीं होता, जबकि साधारण जल कुछ दिनों में ही सड़ जाता है। गंगा का उद्गम स्थल गंगोत्री या गोमुख है। गोमुख से भागीरथी निकलती है और देवप्रयाग नामक स्थान पर अलकनंदा नदी से मिलकर आगे गंगा के रूप में प्रवाहित होती है। भागीरथी से देवप्रयाग तक आते-आते इसमें कुछ चट्टानें घुल जाती हैं, जिससे इसके जल में ऐसी क्षमता पैदा हो जाती है जो उसके पानी को सड़ने नहीं देती। प्रत्येक नदी के जल में कुछ खास तरह के पदार्थ मिले रहते हैं, जो उसके विशिष्ट जैविक संरचना के लिए उत्तरदायी होते हैं। ये घुले हुए पदार्थ पानी में कुछ खास तरह के बैक्टीरिया को पनपने देते हैं, कुछ को नहीं। कुछ खास तरह के बैक्टीरिया ही पानी में सड़न के लिए उत्तरदायी होते हैं तो कुछ पानी में सड़न को रोकने के लिए सहायक होते हैं। वैज्ञानिक शोधों से पता चलता है कि गंगा के पानी में भी ऐसे बैक्टीरिया हैं जो पानी में सड़न पैदा करने वाले कीटाणुओं को पनपने ही नहीं देते। इसलिए गंगा का पानी काफी लंबे समय तक खराब नहीं होता और पवित्र माना जाता है।",
-        "instructions": "किसी एक गद्यांश का चयन करें।",
-        "confidence": 0.13,
-        "raw_choice": "Godhuli - 4. Nakhun Kyon Badhte Hain (नाखून क्यों बढ़ते हैं)"
-      },
-      {
-        "file": "hin_2021ii.json",
-        "index": 102,
-        "year": "2021",
-        "id": "gadyansh_2_k",
-        "type": "comprehension",
-        "question": "निम्नलिखित गद्यांशों में से किसी एक गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें। प्रत्येक प्रश्न दो अंकों का होगा।",
-        "prashna": "निम्नलिखित गद्यांशों में से किसी एक गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें। प्रत्येक प्रश्न दो अंकों का होगा।",
-        "context": "अच्छा नागरिक बनने के लिए भारत के प्राचीन विचारकों ने कुछ नियमों का प्रावधान किया है। इनमें वाणी और व्यवहार की शुद्धता, कर्तव्य और अधिकार का समुचित निर्वाह, शुद्धतम पारस्परिक सद्भाव, सहयोग सेवा की भावना आदि नियम महत्त्वपूर्ण माने गए हैं। ये सभी नियम यदि एक व्यक्ति के चारित्रिक गुणों में अनिवार्य माने जाएँ तो उसका अपना जीवन भी सुखी और आनंदमय हो सकता है। इन सभी गुणों का विकास एक बालक में यदि बाल्यावस्था में ही किया जाए तो वह अपने देश का सर्वश्रेष्ठ नागरिक बन सकता है। इन गुणों के कारण वह अपने परिवार, आस-पड़ोस, विद्यालय में अपने सहपाठियों एवं अध्यापकों के प्रति यथोचित व्यवहार कर सकेगा। वाणी एवं व्यवहार की मधुरता सभी के लिए सुखदायी होती है, समाज में हार्दिक सद्भाव की वृद्धि करती है, किंतु अहंकारहीन व्यक्ति ही स्निग्ध वाणी और शिष्ट व्यवहार का प्रयोग कर सकता है। अहंकारी और दंभी व्यक्ति सदा अशिष्ट वाणी और व्यवहार का अभ्यासी होता है। जिसका परिणाम यह होता है कि ऐसे आदमी के व्यवहार से समाज में शांति और सौहार्द्र का वातावरण नहीं बनता। जिस प्रकार एक व्यक्ति समाज में रहकर अपने व्यवहार से कर्तव्य और अधिकार के प्रति सजग रहता है उसी तरह देश के प्रति भी उसका व्यवहार कर्तव्य, अधिकार की भावना से भावित रहना चाहिए। उसका कर्तव्य हो जाता है कि न तो वह स्वयं ऐसा काम करे और न ही दूसरों को करने दे, जिससे देश के सम्मान, संपत्ति और स्वाभिमान को ठेस पहुँचे। समाज एवं देश में शांति बनाए रखने के लिए धार्मिक सहिष्णुता भी बहुत आवश्यक है। यह वृत्ति तभी आ सकती है जब व्यक्ति संतुलित व्यक्तित्व का हो।",
-        "instructions": "किसी एक गद्यांश का चयन करें।",
-        "confidence": 0.29,
-        "raw_choice": "Godhuli - 12. Shiksha aur Sanskriti (शिक्षा और संस्कृति)"
-      },
-      {
-        "file": "hin_2021ii.json",
-        "index": 103,
-        "year": "2021",
-        "id": "gadyansh_2_kh",
-        "type": "comprehension",
-        "question": "निम्नलिखित गद्यांशों में से किसी एक गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें। प्रत्येक प्रश्न दो अंकों का होगा।",
-        "prashna": "निम्नलिखित गद्यांशों में से किसी एक गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें। प्रत्येक प्रश्न दो अंकों का होगा।",
-        "context": "साहस की जिंदगी सबसे बड़ी जिंदगी होती है। ऐसी जिंदगी की सबसे बड़ी पहचान यह है कि वह बिल्कुल निडर और बेखौफ होती है। साहसी मनुष्य की पहली पहचान यह है कि वह इस बात की चिंता नहीं करता कि तमाशा देखने वाले लोग उसके बारे में क्या सोच रहे हैं। जनमत की उपेक्षा करके जीने वाला आदमी दुनिया की असली ताकत होता है और मनुष्य को प्रकाश भी उसी आदमी से मिलता है। अड़ोस-पड़ोस को देखकर चलना यह साधारण जीवन का काम है। क्रांति करने वाले लोग अपने उद्देश्य की तुलना न तो पड़ोसी के उद्देश्य से करते हैं और न अपनी चाल को ही पड़ोसी की चाल समझकर मध्यम बनाते हैं। साहसी मनुष्य उन सपनों में भी रस लेता है जिन सपनों का कोई व्यावहारिक अर्थ नहीं है। साहसी मनुष्य सपने उधार नहीं लेता, पर वह अपने विचारों में रमा हुआ अपनी ही किताब पढ़ता है। अर्नाल्ड बेनेट ने लिखा है- 'जो आदमी यह महसूस करता है कि किसी महान निश्चय के समय वह साहस से काम नहीं ले सका, जिंदगी की चुनौती को कबूल नहीं कर सका, वह सुखी नहीं हो सकता। जिंदगी को ठीक से जीना हमेशा ही जोखिम को झेलना है और जो आदमी सफल जीने के लिए जोखिम का हर जगह घेरा डालता है, वह अंततः अपने ही घेरों के बीच कैद हो जाता है और जिंदगी का कोई मजा उसे नहीं मिल पाता, क्योंकि जोखिम से बचने की कोशिश में, असल में जिंदगी को ही आने से रोक रखा है। जिंदगी से अंत में हम उतना ही पाते हैं जितनी कि उसमें पूंजी लगाते हैं। पूंजी लगाना जिंदगी के संकटों से सामना करना है, उसके उस पन्ने को पलटकर पढ़ना है 'जिसके सभी अक्षर फूलों से नहीं कुछ अंगारों से भी लिखे गए हैं।'",
-        "instructions": "किसी एक गद्यांश का चयन करें।",
-        "confidence": 0.32,
-        "raw_choice": "Godhuli - 6. Bahadur (बहादुर)"
-      },
-      {
-        "file": "hin_2021ii.json",
-        "index": 107,
-        "year": "2021",
-        "id": "essay_4",
-        "type": "essay",
-        "question": "महात्मा गांधी",
-        "prashna": "महात्मा गांधी",
-        "context": "",
-        "instructions": "लगभग 250-300 शब्दों में लिखें। संकेत-बिंदु: (i) भूमिका (ii) बाल्यकाल (iii) राजनीति (iv) महत्ता (v) उपसंहार।",
-        "confidence": 0.45,
-        "raw_choice": "Godhuli - 12. Shiksha aur Sanskriti (शिक्षा और संस्कृति)"
       },
       {
         "file": "hin_2021ii.json",
@@ -10813,32 +10462,6 @@
           "C": "माँ",
           "D": "ढहते विश्वास"
         }
-      },
-      {
-        "file": "hin_2022i.json",
-        "index": 102,
-        "year": "2022",
-        "id": "gadyansh_2_1",
-        "type": "comprehension",
-        "question": "",
-        "prashna": "",
-        "context": "सत् और चरित्र इन दो शब्दों के मेल से 'सच्चरित्र' शब्द बना है। सत् का अर्थ होता है अच्छा एवं चरित्र का तात्पर्य है आचरण, चाल-चलन, स्वभाव, गुण-धर्म इत्यादि। इस तरह सच्चरित्रता का तात्पर्य है अच्छा चाल-चलन, अच्छा स्वभाव, सदाचार इत्यादि। मनुष्य एक सामाजिक प्राणी है अतः परस्पर सहयोग द्वारा ही उसका जीवन यापन सम्भव है। इसके लिए व्यक्ति में ऐसे गुणों का होना आवश्यक है जिनके द्वारा वह समाज में शान्तिपूर्वक रहते हुए देश की प्रगति में अपना महत्त्वपूर्ण योगदान दे सके। काम, क्रोध, लोभ, सन्ताप, निर्दयता एवं ईर्ष्या जैसे अवगुण मनुष्य के सामाजिक जीवन में अशान्ति उत्पन्न करते हैं।",
-        "instructions": "निम्नलिखित गद्यांशों में से किसी एक गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें। प्रत्येक प्रश्न दो अंकों का होगा।",
-        "confidence": 0.31,
-        "raw_choice": "Godhuli - 12. Shiksha aur Sanskriti (शिक्षा और संस्कृति)"
-      },
-      {
-        "file": "hin_2022i.json",
-        "index": 103,
-        "year": "2022",
-        "id": "gadyansh_2_2",
-        "type": "comprehension",
-        "question": "",
-        "prashna": "",
-        "context": "हिंसा के द्वारा जनमानस में भय या आतंक पैदा करना तथा आतंक के द्वारा अपने उद्देश्यों को पूरा करना आतंकवाद है। यह उद्देश्य राजनीतिक, धार्मिक या आर्थिक ही नहीं सामाजिक या अन्य किसी भी प्रकार का हो सकता है। वैसे तो आतंकवाद के कई प्रकार हैं, किन्तु इनमें से तीन ऐसे हैं जिनसे पूरी दुनिया अत्यधिक त्रस्त है। ये तीन आतंकवाद हैं - राजनीतिक आतंकवाद, धार्मिक कट्टरता एवं गैर-राजनीतिक या सामाजिक आतंकवाद। श्रीलंका में लिट्टे समर्थकों एवं अफगानिस्तान में तालिबानी संगठनों की गतिविधियाँ राजनीतिक आतंकवाद के उदाहरण हैं।",
-        "instructions": "अथवा (Alternative to gadyansh_2_1)",
-        "confidence": 0.46,
-        "raw_choice": "Vyakaran - 20. Essay Writing (निबंध लेखन)"
       },
       {
         "file": "hin_2022i.json",
@@ -11155,55 +10778,16 @@
       },
       {
         "file": "hin_2022ii.json",
-        "index": 100,
+        "index": 121,
         "year": "2022",
-        "id": "gadyansh_1",
-        "type": "comprehension",
-        "question": "",
-        "prashna": "",
-        "context": "आदर्श व्यक्ति कर्मशीलता में ही अपने जीवन की सफलता समझता है । जीवन का प्रत्येक क्षण वह कर्म में लगाता है । विश्राम और विनोद के लिए उसके पास निश्चित समय रहता है । शेष समय जन सेवा में व्यतीत होता है । हाथ पर हाथ धरकर बैठने को वह पुत्र के नाम समान समझता है । काम करने की उसमें लगन होती है । उत्साह होता है । विपत्तियों से भी वह अपने चरित्र का सच्चा परिचय देता है । धैर्य रूपी कुदाली से वह बड़ी-बड़ी संकटों पहाड़ों को तोड़ देता है । उसकी कार्यकुशलता देखकर लोग दातो तले ऊँगली दबाते हैं। संतोष उसका धन है । वह परिस्थितियों का दास नहीं परिस्थितियों उसकी दासी है ।",
-        "instructions": "निम्नलिखित गद्यांशों में से किसी एक गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें। प्रत्येक प्रश्न दो अंकों का होगा।",
-        "confidence": 0.14,
-        "raw_choice": "Godhuli - 12. Shiksha aur Sanskriti (शिक्षा और संस्कृति)"
-      },
-      {
-        "file": "hin_2022ii.json",
-        "index": 101,
-        "year": "2022",
-        "id": "gadyansh_2",
-        "type": "comprehension",
-        "question": "",
-        "prashna": "",
-        "context": "स्वस्थ शरीर में ही स्वस्थ आत्मा का निवास होता है । यदि हम आत्मिक बल चाहते हैं स्वास्थ्य की ओर ध्यान देना हमारा परम कर्तव्य है । स्वास्थ्य का हमारे चरित्र के साथ घनिष्ठ संबंध है । स्वस्थ व्यक्ति ही चरित्रवान हो सकता है । कारण स्पष्ट है कि स्वास्थ्य का अन्य संयम से संबंध है । आत्म संयम चरित्र की सीढ़ी है । यदि स्वास्थ्य नष्ट हुआ तो बहुत कुछ नष्ट हो गया । स्वस्थ व्यक्ति धन कमा सकता है, परंतु धनवान व्यक्ति धन से स्वास्थ्य नहीं खरीद सकता । व्यायाम स्वास्थ्य का सहोदर है । जिन व्यक्तियों का व्यवसाय शारीरिक श्रम से संबंधित है, उन्हें मस्तिष्क संबंधित व्यायाम और जिनका व्यवसाय मस्तिष्क संबंधी है, उन्हें",
-        "instructions": "निम्नलिखित गद्यांशों में से किसी एक गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें। प्रत्येक प्रश्न दो अंकों का होगा।",
-        "confidence": 0.31,
-        "raw_choice": "Vyakaran - 20. Essay Writing (निबंध लेखन)"
-      },
-      {
-        "file": "hin_2022ii.json",
-        "index": 102,
-        "year": "2022",
-        "id": "gadyansh_3",
-        "type": "comprehension",
-        "question": "",
-        "prashna": "",
-        "context": "अच्छे बुरे का निर्माण हम स्वयं करते हैं । हमें सदैव शुभ संकल्प ही करना चाहिए । यजुर्वेद के एक मंत्र में यही प्रार्थना की गई है कि – 'हे प्रभो ! हमें बराबर कल्याण को प्राप्त कराइए । केवल संसाधनों की उपलब्धि ही नहीं, वरन पारमार्थिक सत्य की सिद्धि ही यच्छे अर्थ में कल्याण है, (क्योंकि आचरण एक ऐसे टंग का सदृश है, जिससे हर मनुष्य को अपना प्रतिबिंब दिखाई देता है। धनुष्य के कर्म ही उम्मदी विचारों की सबसे अच्छी व्याख्या है। हम जिस वस्तु की कामना करते हैं, उसी से हमारे कर्म की उत्पत्ति है।",
-        "instructions": "निम्नलिखित गद्यांशों में से किसी एक गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें। प्रत्येक प्रश्न दो अंकों का होगा।",
-        "confidence": 0.28,
-        "raw_choice": "Godhuli - 12. Shiksha aur Sanskriti (शिक्षा और संस्कृति)"
-      },
-      {
-        "file": "hin_2022ii.json",
-        "index": 103,
-        "year": "2022",
-        "id": "gadyansh_4",
-        "type": "comprehension",
-        "question": "",
-        "prashna": "",
-        "context": "फिल्मोपॅंस में एक लोककथा प्रचलित है कि, बहुत पहले सारी दुनिया में दंवनाओं का राज्य था। पृथ्वी लोक, समुद्र लोक और आकाश लोक के देवता अपने लोक के पूर्ण प्यार्र इआ करते थे। आकाश लोक के राजा सूर्य देवता थे, जिनकी पुत्री 'लूना' यानि चंद्रिका का घुइसवारी का बड़ा शौक था। उसके पास एक सोने का रथ था, जिसमें बैठ कर वह स्यारं्स में सैर किया करती थी। एक दिन वह अपनी धुन में आकाश लोक को सैर करते-करते अपने पिता के साम्राज्य के आखिरी छोर पर पहुँच गई, जहाँ सूर्य देवता का साम्राज्य शुरू होता था। विशाले समुद्र को पहली बार देखकर वह आश्चर्यचकित रह गई। उसने इतना सुंदर नजारा पहले कभी नहीं देखा था।",
-        "instructions": "निम्नलिखित गद्यांशों में से किसी एक गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें। प्रत्येक प्रश्न दो अंकों का होगा।",
-        "confidence": 0.1,
-        "raw_choice": "Varnika - 1. Dahi Wali Magamma (दही वाली मगम्मा)"
+        "id": "long_1",
+        "type": "long_answer",
+        "question": "निम्नलिखित प्रश्नों में से किसी एक प्रश्न का उत्तर लिखिए (शब्द सीमा लगभग 100):",
+        "prashna": "निम्नलिखित प्रश्नों में से किसी एक प्रश्न का उत्तर लिखिए (शब्द सीमा लगभग 100):",
+        "context": "",
+        "instructions": "",
+        "confidence": 0.0,
+        "raw_choice": "cleared_exclusive_chapter::Essay Writing"
       },
       {
         "file": "hin_2023i.json",
@@ -11457,19 +11041,6 @@
       },
       {
         "file": "hin_2023i.json",
-        "index": 101,
-        "year": "2023",
-        "id": "gadyansh_2",
-        "type": "comprehension",
-        "question": "निम्नलिखित गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें:",
-        "prashna": "निम्नलिखित गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें:",
-        "context": "(ख) हमारी बहुत सी समस्याएँ बिना विचारे कार्य करने का परिणाम होती हैं। बिना विचारे कार्य करने से हम सदा चिंतित एवं अवसन्न होकर अकथनीय कष्टों से अपने जीवन को अभिपूरित कर लेते हैं। अविचारित कार्य करके हम मन ही मन पछताते रहते हैं, किंतु उसका कोई लाभ नहीं होता। कभी-कभी अविचारित कार्यों के दुष्परिणामों का प्रभाव बहुत भयानक होता है। किंतु दुःख इस बात का है कि ऐसे कामों को करने से पहले मानव कभी यह अनुभव नहीं करता कि अविचारित कार्य का परिणाम उसके लिए विनाशक हो सकता है। विचारपूर्वक कार्य करनेवाला ही यह जान सकता है कि कर्त्तव्य क्या है और अकर्त्तव्य क्या है।\n(i) बिना विचारे कार्य करने के क्या परिणाम होते हैं?\n(ii) सुविचारित कार्य करने से क्या लाभ हैं?\n(iii) विचारपूर्वक कार्य करनेवाला क्या जान सकता है?\n(iv) मानव क्या अनुभव नहीं करता है?\n(v) इस गद्यांश का उचित शीर्षक दें।",
-        "instructions": null,
-        "confidence": 0.24,
-        "raw_choice": "Vyakaran - 20. Essay Writing (निबंध लेखन)"
-      },
-      {
-        "file": "hin_2023i.json",
         "index": 107,
         "year": "2023",
         "id": "short_3",
@@ -11531,45 +11102,6 @@
           "C": "बदरीनारायण चौधरी ‘प्रेमघन’",
           "D": "रसखान"
         }
-      },
-      {
-        "file": "hin_2024i.json",
-        "index": 10,
-        "year": "2024",
-        "id": "gadyansh_1_1",
-        "type": "comprehension",
-        "question": "गद्यांश आधारित प्रश्न",
-        "prashna": "गद्यांश आधारित प्रश्न",
-        "context": "अक्रूर का रथ दोपहर में यमुना तट पर पहुँचा। कृष्ण की अनुमति से अक्रूर ने पवित्र यमुना जल में स्नान किया। मुख-प्रक्षालन करके वे यमुना जल में प्रविष्ट हुए। उन्होंने डुबकी लगाई और ईश्वर का चिंतन करने लगे। जल में उन्होंने देखा कि श्री बलराम एक सहस्र सर्पमुखों से युक्त हैं, उन्होंने पीताम्बर तथा रत्न जड़ित मालाएँ धारण की हुई हैं। शेषजी की गोद में भगवान श्रीकृष्ण विराजमान हैं जिनमें भगवान विष्णु के सभी चिह्न विद्यमान हैं और ऋषि, मुनि उनकी अर्चना कर रहे हैं। अक्रूर को आश्चर्य हुआ कि वे दोनों इतना जल्दी वहाँ कैसे आ गए। जल की सतह से ऊपर उठकर उन्होंने देखा कि कृष्ण और बलराम रथ पर आसीन हैं। जल के दृश्य का अनुभव करते हुए वे भगवान कृष्ण की प्रशंसा करने लगे।",
-        "instructions": "निम्नलिखित गद्यांशों में से किसी एक गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें। प्रत्येक प्रश्न दो अंकों का होगा।",
-        "confidence": 0.42,
-        "raw_choice": "Godhuli - 14. Prem Ayani Shri Radhika (प्रेम अयनि श्री राधिका)"
-      },
-      {
-        "file": "hin_2024i.json",
-        "index": 12,
-        "year": "2024",
-        "id": "gadyansh_2_1",
-        "type": "comprehension",
-        "question": "गद्यांश आधारित प्रश्न",
-        "prashna": "गद्यांश आधारित प्रश्न",
-        "context": "हम जीवन में सुख-समृद्धि के साथ ज्ञान, शांति और कीर्ति भी चाहते हैं। ये चीजें तभी मिल सकती हैं जब हम इनको पाने के लिए अपने समय के एक-एक क्षण को बहुमूल्य मानकर उसका सदुपयोग करें तथा निरंतर परिश्रम करते रहें। यह तभी संभव होगा, जब हम अपने समय का सही विभाजन और नियोजन कर लें, क्योंकि समय सीमित है और करने के लिए काम अनंत हैं। जो काम आवश्यकता और महत्व की दृष्टि से पहले पूरे करने के हैं, उन्हें प्राथमिकता देनी चाहिए। सभी कामों को सफलतापूर्वक पूरा करने के लिए अच्छा स्वास्थ्य और प्रबल इच्छाशक्ति होनी चाहिए। अतएव जहाँ एक ओर हमें अपने स्वास्थ्य के प्रति सजगता बरतनी चाहिए, वहीं अपना संकल्प भी ऊँचा बनाए रखना चाहिए।",
-        "instructions": "निम्नलिखित गद्यांशों में से किसी एक गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें। प्रत्येक प्रश्न दो अंकों का होगा।",
-        "confidence": 0.48,
-        "raw_choice": "Vyakaran - 20. Essay Writing (निबंध लेखन)"
-      },
-      {
-        "file": "hin_2024i.json",
-        "index": 13,
-        "year": "2024",
-        "id": "gadyansh_2_2",
-        "type": "comprehension",
-        "question": "गद्यांश आधारित प्रश्न",
-        "prashna": "गद्यांश आधारित प्रश्न",
-        "context": "स्वामी विवेकानन्द वेदान्त के विख्यात और प्रभावशाली आध्यात्मिक गुरु थे। उनका वास्तविक नाम नरेन्द्रनाथ दत्त था। उन्होंने अमेरिका स्थित शिकागो में सन् 1893 ई० में आयोजित विश्व धर्म महासभा में भारत की ओर से सनातन धर्म का प्रतिनिधित्व किया था। भारत का आध्यात्मिकता से परिपूर्ण वेदान्त दर्शन अमेरिका और यूरोप के हर एक देश में स्वामी विवेकानन्द के वक्तृता के कारण ही पहुँचा। उन्होंने रामकृष्ण मिशन की स्थापना की थी। वे रामकृष्ण परमहंस के सुयोग्य शिष्य थे। स्वामी विवेकानन्द के जन्मदिन को 'राष्ट्रीय युवा दिवस' के रूप में मनाया जाता है।",
-        "instructions": "निम्नलिखित गद्यांशों में से किसी एक गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें। प्रत्येक प्रश्न दो अंकों का होगा।",
-        "confidence": 0.37,
-        "raw_choice": "Godhuli - 11. Naubatkhane mein Ibadat (नौबतखाने में इबादत)"
       },
       {
         "file": "hin_2024i.json",
@@ -11799,32 +11331,6 @@
         }
       },
       {
-        "file": "hin_2025i.json",
-        "index": 101,
-        "year": "2025",
-        "id": "gadyansh_1_2",
-        "type": "comprehension",
-        "question": "",
-        "prashna": "",
-        "context": "(ख) मिथेन एक प्राकृतिक, रंगहीन और गंधहीन गैस है। ग्रीनहाउस गैस होने के कारण यह वैश्विक तापमान में वृद्धि के लिए भी जवाबदेह है। आजकल मिथेन गैस का उपयोग ईंधन के साथ-साथ यातायात की सुविधाओं के लिए ज्यादा से ज्यादा किया जा रहा है। पशुपालन, कोयला, बिजली-घर एवं दलदल भूमि आदि मिथेन गैस के प्रमुख उत्सर्जन स्रोत हैं। मिथेन गैस को मार्श गैस के नाम से भी जाना जाता है। यह एक अत्यंत ज्वलनशील गैस है इसलिए इसको सावधानीपूर्वक उपयोग में लाना चाहिए। मिथेन गैस जल में अघुलनशील है। कोयला की खानों में मिथेन गैस के एकत्रित होने से अग्नि दुर्घटना घटित होने का भी भय रहता है। मिथेन गैस का रासायनिक सूत्र 'CH₄' है।",
-        "instructions": "निम्नलिखित गद्यांशों में से किसी एक गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें।",
-        "confidence": 0.42,
-        "raw_choice": "Vyakaran - 20. Essay Writing (निबंध लेखन)"
-      },
-      {
-        "file": "hin_2025i.json",
-        "index": 102,
-        "year": "2025",
-        "id": "gadyansh_2_1",
-        "type": "comprehension",
-        "question": "",
-        "prashna": "",
-        "context": "(क) प्रसिद्ध वैज्ञानिक जगदीशचंद्र बसु का बचपन प्रकृति का अवलोकन करते हुए बीता। पेड़-पौधों और जीव-जंतुओं से प्रेम करते हुए उनकी शिक्षा आरंभ हुई। जगदीशचंद्र बसु बहुमुखी प्रतिभा के धनी थे। ये भौतिकी, जीवविज्ञान, वनस्पति विज्ञान तथा विज्ञान कथा लेखन में महारथी थे। जगदीशचंद्र बसु पहले ऐसे वैज्ञानिक थे जिसने रेडियो और सूक्ष्म तरंगों की प्रकाशिकी विषय पर कार्य किया। वनस्पति विज्ञान में भी इन्होंने कई महत्त्वपूर्ण खोजें कीं। भारत के पहले वैज्ञानिक शोधकर्ता जगदीशचंद्र बसु ही थे। इनको रेडियो विज्ञान का पिता कहा जाता है।",
-        "instructions": "निम्नलिखित गद्यांशों में से किसी एक गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें। प्रत्येक प्रश्न दो अंकों का है। (5 x 2 = 10)",
-        "confidence": 0.47,
-        "raw_choice": "Godhuli - 11. Naubatkhane mein Ibadat (नौबतखाने में इबादत)"
-      },
-      {
         "file": "hin_2025ii.json",
         "index": 3,
         "year": "2025",
@@ -11998,32 +11504,6 @@
           "C": "अभिनेत्री",
           "D": "हलवाइन"
         }
-      },
-      {
-        "file": "hin_2025ii.json",
-        "index": 100,
-        "year": "2025",
-        "id": "gadyansh_1_1",
-        "type": "comprehension",
-        "question": "",
-        "prashna": "",
-        "context": "(क) उद्योग का सामान्य अर्थ है प्राथमिक उत्पाद को गौण उत्पाद में परिवर्तित करना । औद्योगिक विकास देश की आर्थिक सम्पन्नता का मापदण्ड होता है । विश्व के प्राय: सभी उन्नत देश जैसे - संयुक्त राज्य अमेरिका, जापान, ब्रिटेन, रूस आदि औद्योगिक दृष्टि से सम्पन्न राष्ट्र हैं । भारत में औद्योगिक विकास का इतिहास अति प्राचीन है, लेकिन विकास की गति काफी धीमी रही है । आधुनिक उद्योगों की स्थापना मुख्यत: औपनिवेशिक काल में प्रारम्भ हुई, परन्तु इस समय उद्योग का स्थानीयकरण कुछ ही केन्द्रों पर सिमट कर रहा गया है । लघु और कुटीर उद्योगों का भारत के औद्योगिक उत्पादन में विशेष महत्त्व है, इसलिए इसके विकास पर भी विशेष ध्यान दिया गया । भारत ने उपलब्ध संसाधनों और औद्योगिक आवश्यकताओं को देखते हुए औद्योगिक विकास की नीतियां बनाई हैं ।",
-        "instructions": "निम्नलिखित गद्यांशों में से किसी एक गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें। प्रत्येक प्रश्न दो अंकों का है।",
-        "confidence": 0.42,
-        "raw_choice": "Vyakaran - 20. Essay Writing (निबंध लेखन)"
-      },
-      {
-        "file": "hin_2025ii.json",
-        "index": 101,
-        "year": "2025",
-        "id": "gadyansh_1_2",
-        "type": "comprehension",
-        "question": "",
-        "prashna": "",
-        "context": "(ख) हिन्दी साहित्य को गद्य-पद्य और चम्पू तीन भागों में बाँटा गया है। गद्य और पद्य ही मुख्य रूप से हिन्दी साहित्य का आधार है। इन्हीं दो रूपों में हिन्दी साहित्य ने कई कीर्तिमान स्थापित किये हैं । संस्कृत साहित्य में चंपू का विशिष्ट स्थान रहा है; किन्तु हिन्दी साहित्य में इसकी उपस्थिति न के बराबर है । हिन्दी साहित्य में जयशंकर प्रसाद रचित 'उर्वशी' चंपू रचना है। आधुनिक युग में गद्य साहित्य का विकास तेज़ी से होने के कारण इस युग को गद्यकाल के नाम से भी जाना जाता है। गद्य में विचारों की प्रधानता होती है जबकि पद्य में भावों की। गद्य और पद्य मिश्रित रचना को ही चंपू कहते हैं।",
-        "instructions": "निम्नलिखित गद्यांशों में से किसी एक गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें। प्रत्येक प्रश्न दो अंकों का है।",
-        "confidence": 0.39,
-        "raw_choice": "Godhuli - 7. Parampara ka Mulyankan (परंपरा का मूल्यांकन)"
       },
       {
         "file": "hin_2025ii.json",
@@ -12215,19 +11695,6 @@
       },
       {
         "file": "hin_2026i.json",
-        "index": 102,
-        "year": "2026",
-        "id": "gadyansh_2_1",
-        "type": "comprehension",
-        "question": "",
-        "prashna": "",
-        "context": "छत्रपति शिवाजी महाराज के समय देश में मुगलों का शासन था । शिवाजी महाराज का जन्म 19 फरवरी, 1630 में शिवनेरी के पहाड़ी किले में हुआ । उनके बचपन का नाम शिवाजी राजे भोंसले था । इनकी माता का नाम जीजाबाई और पिता का नाम शाहजी राजे भोंसले था । शिवाजी महाराज की सेना में हर जाति और धर्म के बहादुर जाँबाज सिपाही थे । शिवाजी महाराज किसी धर्म और जाति के कट्टर समर्थक या उसके विरोधी नहीं थे बल्कि उनका विरोध अत्याचार, दुराचार एवं अमानवीय व्यवहार से था । उनके अंदर स्वराज की प्रबल भूख थी । स्वराज के स्वप्न को साकार करने के लिए ही उन्होंने 'हिंदवी स्वराज' की स्थापना की । शिवाजी महाराज ने अपने पुनीत कर्मों से इतिहास रचते हुए समाज में हमेशा-हमेशा के लिए आदरणीय स्थान प्राप्त किया है ।",
-        "instructions": "निम्नलिखित गद्यांशों में से किसी एक गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें । प्रत्येक प्रश्न दो अंकों का है। (5 × 2 = 10)",
-        "confidence": 0.16,
-        "raw_choice": "Godhuli - 11. Naubatkhane mein Ibadat (नौबतखाने में इबादत)"
-      },
-      {
-        "file": "hin_2026i.json",
         "index": 122,
         "year": "2026",
         "id": "long_1_2",
@@ -12413,58 +11880,6 @@
           "C": "प्रेमघन",
           "D": "गुरु नानक"
         }
-      },
-      {
-        "file": "hin_2026ii.json",
-        "index": 100,
-        "year": "2026",
-        "id": "gadyansh_1_1",
-        "type": "comprehension",
-        "question": "",
-        "prashna": "",
-        "context": "भारत में नदियों का विशेष महत्व है और इन्हें माता के रूप में पूजा भी जाता है । भारत में नदियों का सिर्फ सांस्कृतिक और धार्मिक महत्व ही नहीं है बल्कि आर्थिक रूप में भी इनका महत्व अतुलनीय है । पौराणिक मान्यताओं के अनुसार गंगा, यमुना, सिंधु, गोदावरी, कावेरी, सरस्वती और नर्मदा पवित्र नदियाँ हैं । भारत की सबसे लंबी नदी गंगा है और दूसरी लंबी नदी गोदावरी है । दक्षिण भारत में गोदावरी नदी को 'दक्षिण की गंगा' भी कहा जाता है । यह नदी महाराष्ट्र से निकलकर बंगाल की खाड़ी में गिरती है । गोदावरी को 'वृद्ध गंगा' के नाम से भी जाना जाता है ।",
-        "instructions": "निम्नलिखित गद्यांशों में से किसी एक गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें। प्रत्येक प्रश्न दो अंकों का है। (5 × 2 = 10)",
-        "confidence": 0.24,
-        "raw_choice": "Godhuli - 20. Ek Vriksha ki Hatya (एक वृक्ष की हत्या)"
-      },
-      {
-        "file": "hin_2026ii.json",
-        "index": 101,
-        "year": "2026",
-        "id": "gadyansh_1_2",
-        "type": "comprehension",
-        "question": "",
-        "prashna": "",
-        "context": "बुद्धिमान व्यक्ति को भाग्य के भरोसे न बैठकर हमेशा अपनी स्थिति में सुधार के लिए प्रयत्नशील रहना चाहिए । लगातार प्रयास करते रहने पर सफलता एक न एक दिन अवश्य मिलती है । समुद्र में उठती लहरों से घबड़ाकर नाविक कभी भी हार नहीं मानता । अपने धैर्य और साहस का परिचय देते हुए वह उनसे टकराता है और अंत में विजयी भी होता है । कठिन परिस्थिति में धीरज नहीं खोने वाले ही अपनी अमिट पहचान बनाते हैं । भाग्य के भरोसे तो आलसी व्यक्ति बैठता है जबकि प्रयत्नशील व्यक्ति अपनी मेहनत और हौसले से बाधाओं को पारकर संसार में यश का भागी बनता है । नीतिकारों का भी कहना है कि मनुष्य को असफलता से घबड़ाना नहीं चाहिए बल्कि उससे सीख लेनी चाहिए ।",
-        "instructions": "निम्नलिखित गद्यांशों में से किसी एक गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें। प्रत्येक प्रश्न दो अंकों का है। (5 × 2 = 10)",
-        "confidence": 0.21,
-        "raw_choice": "Vyakaran - 20. Essay Writing (निबंध लेखन)"
-      },
-      {
-        "file": "hin_2026ii.json",
-        "index": 102,
-        "year": "2026",
-        "id": "gadyansh_2_1",
-        "type": "comprehension",
-        "question": "",
-        "prashna": "",
-        "context": "नाभादास भक्तिकाल के महत्त्वपूर्ण कवियों में से एक हैं । इन्हें सगुणोपासक रामभक्त और प्रसिद्ध संत के रूप में जाना जाता है । नाभादास की रामभक्ति परम्परा से प्रचलित रामभक्ति से थोड़ी भिन्न थी । इनकी भक्ति में मर्यादा के स्थान पर माधुर्यभाव का पुट था । ये तुलसीदास के समकालीन थे और इनकी गुरु परम्परा भी एक है । नाभादास स्वामी अग्रदास के शिष्य थे जो स्वामी रामानंद की शिष्य परम्परा के प्रसिद्ध कवि थे । इनकी दो प्रमुख रचनाएँ हैं - 'भक्तमाल' और 'अष्टयाम' । नाभादास ने 'अष्टयाम' की रचना ब्रजभाषा में की है ।",
-        "instructions": "निम्नलिखित गद्यांशों में से किसी एक गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें । प्रत्येक प्रश्न दो अंकों का है । (5 × 2 = 10)",
-        "confidence": 0.29,
-        "raw_choice": "Vyakaran - 19. Poetic Elements (Introduction) (काव्य-तत्त्व (सामान्य परिचय))"
-      },
-      {
-        "file": "hin_2026ii.json",
-        "index": 103,
-        "year": "2026",
-        "id": "gadyansh_2_2",
-        "type": "comprehension",
-        "question": "",
-        "prashna": "",
-        "context": "स्वर कोकिला लता मंगेशकर का जन्म सन् 1929 ई० में मध्य प्रदेश के इंदौर नामक शहर में हुआ था । इनके पिता का नाम दीनानाथ मंगेशकर था । मध्य प्रदेश के संस्कृति विभाग के द्वारा प्रत्येक वर्ष लता मंगेशकर की जयंती पर 'लता मंगेशकर सम्मान' प्रदान किया जाता है । मध्य प्रदेश सरकार की ओर से इस सम्मान की शुरुआत सन् 1984 ई० में की गई थी । 'लता मंगेशकर सम्मान' संगीत के क्षेत्र में उत्कृष्ट योगदान के लिए दिया जाता है । लता मंगेशकर के नाम पर सिर्फ मध्य प्रदेश की सरकार ही सम्मान नहीं देती अपितु महाराष्ट्र सरकार भी देती है । मध्य प्रदेश एवं महाराष्ट्र सरकार की ये पहल सराहनीय है ।",
-        "instructions": "निम्नलिखित गद्यांशों में से किसी एक गद्यांश को पढ़कर नीचे दिए गए प्रश्नों के उत्तर दें । प्रत्येक प्रश्न दो अंकों का है । (5 × 2 = 10)",
-        "confidence": 0.35,
-        "raw_choice": "Godhuli - 11. Naubatkhane mein Ibadat (नौबतखाने में इबादत)"
       }
     ],
     "sanskrit": [
@@ -12762,29 +12177,6 @@
           "C": "धनुर्धारी",
           "D": "अन्तेवासी"
         }
-      },
-      {
-        "file": "san_2018i.json",
-        "index": 51,
-        "year": "2018",
-        "id": "gadyansh_2",
-        "type": "comprehension",
-        "question": "अधोलिखित गद्यांशों को पढ़कर उसपर आधारित प्रश्नों के उत्तर निर्देशानुसार दें-",
-        "prashna": "अधोलिखित गद्यांशों को पढ़कर उसपर आधारित प्रश्नों के उत्तर निर्देशानुसार दें-",
-        "context": "(ब) क्रोध: मनुष्यस्य महान् शत्रु: । क्रुद्ध: जन: गुरुन् अपि निन्दति, अपभाषणं करोति, ज्येष्ठानां हितवचनानि अपि च न शृणोति । तस्माद् वयं क्रोधात्सावधाना: भवेम । यदि क्रोध: आगच्छति तदा तस्मिन्नेव क्षणे मौनं धारणीयम्। मौनेन मन: शांतं भवति । वाणी अपि नियन्त्रिता भवति । ईदृशे काले किञ्चित् पुस्तकं गृहीत्वा पठेम । कोपात् सर्वदा आत्मानं रक्षेम ।",
-        "instructions": "अधोलिखित गद्यांशों को पढ़कर उसपर आधारित प्रश्नों के उत्तर निर्देशानुसार दें-",
-        "confidence": 0.46,
-        "raw_choice": "Vyakaran - 13. Unseen Passage (अपठित-अवबोधनम्)",
-        "sub_questions": [
-          {
-            "question": "",
-            "prashna": ""
-          },
-          {
-            "question": "",
-            "prashna": ""
-          }
-        ]
       },
       {
         "file": "san_2018ii.json",
@@ -13574,37 +12966,6 @@
           "C": "Illustration",
           "D": "Ilustreison"
         }
-      },
-      {
-        "file": "san_2019i.json",
-        "index": 48,
-        "year": "2019",
-        "id": "gadyansh_4",
-        "type": "comprehension",
-        "question": "",
-        "prashna": "",
-        "context": "India is a country of vast geographical expanse. India is marked by a diversity of physical features such as mountains, plateaus, plains, coasts and islands. In the north, it is bound by the lofty Himalayas. The Northern plains, Great Indian Desert, the Peninsular plateau and the Great Himalayas are the main physical divisions of India. There are seven countries that share land boundaries with India. These countries are – China, Pakistan, Nepal, Bhutan, Bangladesh, Myanmar and Afghanistan.",
-        "instructions": "OR",
-        "confidence": 0.42,
-        "raw_choice": "Piyusham - 5. Bharat-mahima (भारतमहिमा)",
-        "sub_questions": [
-          {
-            "question": "(i) What are the main physical divisions of India?",
-            "prashna": ""
-          },
-          {
-            "question": "(ii) How many countries does India share its land boundaries with?",
-            "prashna": ""
-          },
-          {
-            "question": "(iii) What are the different physical features that India is marked by?",
-            "prashna": ""
-          },
-          {
-            "question": "(iv) Make sentences with: Island, division",
-            "prashna": ""
-          }
-        ]
       },
       {
         "file": "san_2019i.json",
@@ -16660,6 +16021,11 @@
             "number": "20",
             "name_en": "Paragraph and Essay Writing",
             "name_hi": "पैराग्राफ और निबंध लेखन"
+          },
+          {
+            "number": "21",
+            "name_en": "Unseen Passage",
+            "name_hi": "अपठित गद्यांश"
           }
         ],
         "Panorama": [
@@ -17060,6 +16426,11 @@
             "number": "25",
             "name_en": "Alankar",
             "name_hi": "अलंकार"
+          },
+          {
+            "number": "26",
+            "name_en": "Unseen Passage (Gadyansh)",
+            "name_hi": "अपठित गद्यांश"
           }
         ]
       }
@@ -17213,5 +16584,6 @@
         ]
       }
     }
-  }
+  },
+  "corpus_total": 11662
 }
